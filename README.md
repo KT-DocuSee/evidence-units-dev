@@ -1,11 +1,18 @@
-# 📄 Evidence Units
+<div align="center">
 
-> **Evidence Units: Ontology-Grounded Document Organization for Parser-Independent Retrieval**
-> *
+<img src="assets/banner.png" alt="Evidence Units Banner" width="800"/>
 
+**English** | [한국어](docs/README_KO.md)
+
+[![GitHub stars](https://img.shields.io/github/stars/hanyeonjee/evidence-units?style=social)](https://github.com/hanyeonjee/evidence-units/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hanyeonjee/evidence-units?style=social)](https://github.com/hanyeonjee/evidence-units/network/members)
 [![arXiv](https://img.shields.io/badge/arXiv-2025-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/XXXX.XXXXX)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-OmniDocBench-blue)](https://huggingface.co/datasets/opendatalab/OmniDocBench)
+
+**Evidence Units** is a parser-independent document organization framework that groups visual assets with their contextual text into semantically complete retrieval units — achieving consistent retrieval gains across any document parser.
+
+</div>
 
 ---
 
@@ -42,7 +49,7 @@ This repo releases the evaluation code and QA pairs used in the paper.
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yeonjee-han/evidence-units
+git clone https://github.com/hanyeonjee/evidence-units
 cd evidence-units
 pip install -r requirements.txt
 ```
