@@ -1,0 +1,317 @@
+INFO:__main__:Loading text embedding model...
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cuda:0
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: /media/vis_com/2026/standardized-evidence-units/docusee/model/ontology/ko-sbert
+Loading weights: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 199/199 [00:00<00:00, 3561.52it/s]
+/media/vis_com/2026/standardized-evidence-units/main/main.py:57: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  TEXT_MODEL.load_state_dict(torch.load(Config.TEXT_EMBED_PATH, map_location="cpu"))
+INFO:__main__:Loading vision embedding model...
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cuda:0
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: /media/vis_com/2026/standardized-evidence-units/docusee/model/clip-ViT-B-32
+Loading weights: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 398/398 [00:00<00:00, 3745.53it/s]
+The image processor of type `CLIPImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. 
+INFO:__main__:Connecting Neo4j...
+INFO:__main__:Initializing Decision Layer rules in Neo4j...
+INFO:__main__:Decision Layer v2 stored: 9 rules with NEXT chain
+INFO:__main__:Exporting Neo4j nodes/rels...
+INFO:__main__:[doc exact] fname=http://minio:9000/docuuser/docuuser_04_바이오_01_통합보고서_250116_4_dc108f8f-2550-4397-9049-f17595233782_04.-바이오-01-통합보고서-250116-4.png url_hash=ff55fb1b0f548600147d1038d18f911be0d0d87d690a64864027e717155245f4 -> nodes=15, rels=225
+INFO:__main__:Loaded nodes=15, rels=225
+INFO:__main__:node id=26da28d44588dbbaee9626e6c744e5fd13b6c8a0efc9ef3cf7c443320f691fc3 type=PageHeader text_emb=Y vision_emb=N
+INFO:__main__:node id=1d7434881a73f8652d8254ccaae55d5cff13da2ddc0beae528a73ea0bd4b2272 type=Title text_emb=Y vision_emb=N
+INFO:__main__:node id=66ccf279a118824e66d0da6f6c64d251abe613741f8c5f5e6770c5c8f599698d type=SectionHeader text_emb=Y vision_emb=Y
+INFO:__main__:Building canonical nodes...
+INFO:__main__:Proposing scored edges (visual anchored only)...
+INFO:__main__:Scored edges=0
+INFO:__main__:Materializing page EUs...
+INFO:__main__:Page EUs=6
+
+=== PAGE EU ===
+{
+  "eu_id": "EU-0001",
+  "kind": "section_text_panel",
+  "primary_id": "1d7434881a73f8652d8254ccaae55d5cff13da2ddc0beae528a73ea0bd4b2272",
+  "page": "090808539c0b95d6f4874c8516ad0c47a74b2e8f112569d56ace55becb70e246",
+  "meta": {
+    "primary_role": "section_header",
+    "member_roles": [
+      "section_header"
+    ],
+    "source": "header_anchor"
+  },
+  "elements": [
+    {
+      "id": "1d7434881a73f8652d8254ccaae55d5cff13da2ddc0beae528a73ea0bd4b2272",
+      "observed_type": "Title",
+      "canon_role": "section_header",
+      "text": "나. 정부 R&D 투자동향1)",
+      "bbox": [
+        0.10380779691749774,
+        0.0864,
+        0.4043517679057117,
+        0.10848
+      ],
+      "order": 1
+    }
+  ]
+}
+
+=== PAGE EU ===
+{
+  "eu_id": "EU-0002",
+  "kind": "section_text_panel",
+  "primary_id": "66ccf279a118824e66d0da6f6c64d251abe613741f8c5f5e6770c5c8f599698d",
+  "page": "090808539c0b95d6f4874c8516ad0c47a74b2e8f112569d56ace55becb70e246",
+  "meta": {
+    "primary_role": "section_header",
+    "member_roles": [
+      "section_header"
+    ],
+    "source": "header_anchor"
+  },
+  "elements": [
+    {
+      "id": "66ccf279a118824e66d0da6f6c64d251abe613741f8c5f5e6770c5c8f599698d",
+      "observed_type": "SectionHeader",
+      "canon_role": "section_header",
+      "text": "① 지원 현황 일반",
+      "bbox": [
+        0.09338168631006347,
+        0.13696,
+        0.30507706255666367,
+        0.15872
+      ],
+      "order": 2
+    }
+  ]
+}
+
+=== PAGE EU ===
+{
+  "eu_id": "EU-0003",
+  "kind": "stat_panel",
+  "primary_id": "d94a5dde9a80cdb8887f82eed10399dc221181236f75cd083c25b04fefe3b6d6",
+  "page": "090808539c0b95d6f4874c8516ad0c47a74b2e8f112569d56ace55becb70e246",
+  "meta": {
+    "primary_role": "table",
+    "member_roles": [
+      "table",
+      "support_paragraph",
+      "section_header",
+      "chart",
+      "unit_label"
+    ],
+    "source": "visual_seed_merged"
+  },
+  "elements": [
+    {
+      "id": "5dc4b1b07c418dea9b4af132ca76e4546e5ba2e46875efa31215aa641b2a2549",
+      "observed_type": "Paragraph",
+      "canon_role": "support_paragraph",
+      "text": "최근 3년간('21~'23) 바이오 분야의 R&D 과제 건수는 총 20,316건으로 연평균 3.6% 감소하였으며, 이중 '중소기업'이 수행한 과제는 약 16.5%에 해당하는 3,356건으로 확인",
+      "bbox": [
+        0.12012692656391659,
+        0.1856,
+        0.898458748866727,
+        0.22912
+      ],
+      "order": 3
+    },
+    {
+      "id": "84edcac36fc7f354b9e3e34ce28c92c0031f29d8b3cde9f39c99620091640eb6",
+      "observed_type": "SectionHeader",
+      "canon_role": "section_header",
+      "text": "[ 전체 R&D 과제 대비 중소기업 지원 건수 ]",
+      "bbox": [
+        0.29782411604714415,
+        0.24032,
+        0.7039891205802358,
+        0.25824
+      ],
+      "order": 4
+    },
+    {
+      "id": "3b53bf1f8a859cb3bc9e8efcd594ad0a0392497767bf6c6bd74a83d4e95e7ac8",
+      "observed_type": "Paragraph",
+      "canon_role": "unit_label",
+      "text": "(단위: 건, %)",
+      "bbox": [
+        0.7941976427923844,
+        0.26624,
+        0.8966455122393472,
+        0.28128
+      ],
+      "order": 5
+    },
+    {
+      "id": "d94a5dde9a80cdb8887f82eed10399dc221181236f75cd083c25b04fefe3b6d6",
+      "observed_type": "Table",
+      "canon_role": "table",
+      "text": "<html><body><table><tr><td colspan=\"2\">구분</td><td>2021</td><td>2022</td><td>2023</td><td>총합계</td><td>CAGR</td></tr><tr><td colspan=\"2\">전체</td><td>6,854</td><td>7,088</td><td>6,374</td><td>20,316</td><td>-3.6%</td></tr><tr><td rowspan=\"2\">중소기업</td><td>건수</td><td>967</td><td>1,199</td><td>1,190</td><td>3,356</td><td>10.9%</td></tr><tr><td>비중</td><td>14.1%</td><td>16.9%</td><td>18.7%</td><td>16.5%</td><td>-</td></tr></table></body></html>",
+      "bbox": [
+        0.0956482320942883,
+        0.28128,
+        0.9061650045330916,
+        0.36224
+      ],
+      "order": 6
+    },
+    {
+      "id": "d9931221daae82d214caa0ae2124633123d92d5ab1108b0e8a4127f1f3bc9281",
+      "observed_type": "Chart",
+      "canon_role": "chart",
+      "text": "<h1>Chart Analysis## 1. Chart SummaryThis is a bar chart comparing two categories (중소기업 - Small and Medium Enterprises in green, and 총합계 - Total in blue) across three years (2021, 2022, 2023).## 2. Extracted Values/Table<table></h1>\n<thead><tr><th>Year</th><th>중소기업 (SMEs)</th><th>총합계 (Total)</th></tr></thead>\n<tbody>\n<tr><td>------</td><td>----------------</td><td>---------------</td></tr>\n<tr><td>2021</td><td>967</td><td>6854</td></tr>\n<tr><td>2022</td><td>1199</td><td>7088</td></tr>\n<tr><td>2023</td><td>1190</td><td>6374</td></tr>\n</tbody>\n<p></table>## 3. Notes About Uncertainty- All values are clearly labeled above each bar- The legend at the bottom indicates: ■중소기업 (green) ■총합계 (blue)- Values appear to be absolute numbers (no units specified in the chart)- There is a slight decrease in SMEs from 2022 to 2023 (1199 → 1190)- The total shows an increase from 2021 to 2022 (6854 → 7088), but a notable decrease in 2023 (6374)</p>",
+      "bbox": [
+        0.10108794197642793,
+        0.3632,
+        0.900271985494107,
+        0.5104
+      ],
+      "order": 7
+    }
+  ]
+}
+
+=== PAGE EU ===
+{
+  "eu_id": "EU-0004",
+  "kind": "stat_panel",
+  "primary_id": "d51142c432f64397fe6533fe7d4d7502ce7a4705003c20bf66c3b494ab1ce365",
+  "page": "090808539c0b95d6f4874c8516ad0c47a74b2e8f112569d56ace55becb70e246",
+  "meta": {
+    "primary_role": "table",
+    "member_roles": [
+      "chart",
+      "section_header",
+      "support_paragraph",
+      "table",
+      "unit_label"
+    ],
+    "source": "visual_seed_merged"
+  },
+  "elements": [
+    {
+      "id": "a9ad7a130b932ff17317084cc3724e036bbdb383ed7e833606c8641f68a6bf9d",
+      "observed_type": "Paragraph",
+      "canon_role": "support_paragraph",
+      "text": "○ 전체 R&D 투자액은 총 38,588,8억 원 규모로 연평균 6.6% 증가하였으며, 이중 약 20.9%에 해당하는 8,077.1억 원이 '중소기업'을 지원",
+      "bbox": [
+        0.11967361740707162,
+        0.5408,
+        0.8989120580235721,
+        0.58432
+      ],
+      "order": 8
+    },
+    {
+      "id": "c33ceced14f6ff505ffafd1ce596ffdf5f698c4ba818d777479e952454867c9a",
+      "observed_type": "SectionHeader",
+      "canon_role": "section_header",
+      "text": "[ 전체 R&D 투자액 대비 중소기업 지원 규모 ]",
+      "bbox": [
+        0.28785131459655483,
+        0.59552,
+        0.71350861287398,
+        0.61344
+      ],
+      "order": 9
+    },
+    {
+      "id": "4d9e234866b98eafc9d193d20c943f0d26684456492efee066bf4bf37d620aa8",
+      "observed_type": "Paragraph",
+      "canon_role": "unit_label",
+      "text": "(단위: 억 원, %)",
+      "bbox": [
+        0.771078875793291,
+        0.62208,
+        0.8957388939256573,
+        0.6368
+      ],
+      "order": 10
+    },
+    {
+      "id": "d51142c432f64397fe6533fe7d4d7502ce7a4705003c20bf66c3b494ab1ce365",
+      "observed_type": "Table",
+      "canon_role": "table",
+      "text": "<html><body><table><tr><td colspan=\"2\">구분</td><td>2021</td><td>2022</td><td>2023</td><td>총합계</td><td>CAGR</td></tr><tr><td colspan=\"2\">전체</td><td>11,898.16</td><td>13,179.22</td><td>13,511.38</td><td>38,588.75</td><td>6.6%</td></tr><tr><td rowspan=\"2\">중소기업</td><td>건수</td><td>2,253.95</td><td>2,815.82</td><td>3,007.37</td><td>8,077.14</td><td>15.5%</td></tr><tr><td>비중</td><td>18.9%</td><td>21.4%</td><td>22.3%</td><td>20.9%</td><td>-</td></tr></table></body></html>",
+      "bbox": [
+        0.0956482320942883,
+        0.63712,
+        0.9061650045330916,
+        0.71808
+      ],
+      "order": 11
+    },
+    {
+      "id": "2ad20f191960301a06f39083456cac48e1b8508da7c8cb3e70e46f22b935fe74",
+      "observed_type": "Chart",
+      "canon_role": "chart",
+      "text": "<h1>Chart Analysis## 1. Chart SummaryThis is a grouped bar chart comparing two categories (중소기업 - Small/Medium Enterprises in green, and 총합계 - Total in blue) across three years (2021, 2022, 2023). The chart shows financial values, likely in units of ten thousand or million (given the Korean numbering format).## 2. Extracted Values/Table<table></h1>\n<thead><tr><th>Year</th><th>중소기업 (SME)</th><th>총합계 (Total)</th></tr></thead>\n<tbody>\n<tr><td>------</td><td>---------------</td><td>---------------</td></tr>\n<tr><td>2021</td><td>2,253.95</td><td>11,898.16</td></tr>\n<tr><td>2022</td><td>2,815.82</td><td>13,179.22</td></tr>\n<tr><td>2023</td><td>3,007.37</td><td>13,511.38</td></tr>\n</tbody>\n<p></table>## 3. Notes About Uncertainty- The values appear to be clearly labeled above each bar- The legend indicates:   - Green bars (■ 중소기업) = Small/Medium Enterprises  - Blue bars (■ 총합계) = Total/Aggregate- All numerical values are displayed with two decimal places- The chart shows a consistent upward trend for both categories across all three years- Units are not explicitly stated in the visible portion, but the decimal format suggests financial metrics (possibly in millions or billions of won)</p>",
+      "bbox": [
+        0.1042611060743427,
+        0.72512,
+        0.8980054397098821,
+        0.86624
+      ],
+      "order": 12
+    }
+  ]
+}
+
+=== PAGE EU ===
+{
+  "eu_id": "EU-0005",
+  "kind": "text_cluster_panel",
+  "primary_id": "3d973755bda7ae4bdfa72355b1d543070e0425dc944e4d843ee2747999e3dbd0",
+  "page": "090808539c0b95d6f4874c8516ad0c47a74b2e8f112569d56ace55becb70e246",
+  "meta": {
+    "primary_role": "plain_text",
+    "member_roles": [
+      "plain_text"
+    ],
+    "source": "text_cluster"
+  },
+  "elements": [
+    {
+      "id": "3d973755bda7ae4bdfa72355b1d543070e0425dc944e4d843ee2747999e3dbd0",
+      "observed_type": "Section",
+      "canon_role": "plain_text",
+      "text": "1) 정부 R&D 투자 동향은 NTIS(ntis.go.kr)의 최근 3년간('21~'23) R&D 과제 데이터를 활용하여 분석함",
+      "bbox": [
+        0.09338168631006347,
+        0.89952,
+        0.8785131459655485,
+        0.91488
+      ],
+      "order": 13
+    }
+  ]
+}
+
+=== PAGE EU ===
+{
+  "eu_id": "EU-0006",
+  "kind": "text_cluster_panel",
+  "primary_id": "9c3e21a7e48f3c7443ba77fd1160659dfc7b53bea065d20efe47ad4a8850717e",
+  "page": "090808539c0b95d6f4874c8516ad0c47a74b2e8f112569d56ace55becb70e246",
+  "meta": {
+    "primary_role": "plain_text",
+    "member_roles": [
+      "plain_text"
+    ],
+    "source": "text_cluster"
+  },
+  "elements": [
+    {
+      "id": "9c3e21a7e48f3c7443ba77fd1160659dfc7b53bea065d20efe47ad4a8850717e",
+      "observed_type": "Section",
+      "canon_role": "plain_text",
+      "text": "33",
+      "bbox": [
+        0.46645512239347237,
+        0.97984,
+        0.5358114233907525,
+        0.9968
+      ],
+      "order": 14
+    }
+  ]
+}
