@@ -1,0 +1,340 @@
+[
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_2",
+    "text": "x+y=y+x.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1540041119440797,
+      0.08854166647086699,
+      0.3039014372003417,
+      0.10174418564168863
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_3",
+    "text": "x+ (y+z) =(x+y)+2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733070359088,
+      0.11185515859774373,
+      0.3983572844504133,
+      0.12797619034377544
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_4",
+    "text": "There is a unique \"zero vector\" such that x + 0 = x for all x.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1498973287541195,
+      0.13516865055362515,
+      0.7063655058968044,
+      0.15261627827968038
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_5",
+    "text": "For each x there is a unique vector -x such that x + (-x) = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1519507481847535,
+      0.1613372096213612,
+      0.7248459854908107,
+      0.1758720927042202
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_6",
+    "text": "1x =x.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1511555508318309,
+      0.18569129476000873,
+      0.24711980871281353,
+      0.20354999112233768
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_7",
+    "text": "(6102) x=01(62x).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733148684806,
+      0.20930232593543585,
+      0.34496920059734065,
+      0.2267441852564246
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_8",
+    "text": "c(x+y) =cx + cy.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733254332482,
+      0.23536706352153347,
+      0.34907597739507357,
+      0.25148809526756527
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_9",
+    "text": "(C1 + c2)x=C1x+C2x.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15195072330006607,
+      0.2601686506468011,
+      0.38398357408186395,
+      0.2733134919166422
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_10",
+    "text": "(a) Suppose addition in R? adds an extra 1 to each component, so that (3, 1) + (5,0) equals (9,2) instead of (8, 1). With scalar multiplication unchanged, which rules are broken?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733038384775,
+      0.28769841309365624,
+      0.8829568644005463,
+      0.3444940475348717
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_11",
+    "text": "(b) Show that the set of all positive real numbers, with x + y and ex redefined to equal the usual xy and t', is a vector space. What is the \"zero vector\"?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733364189026,
+      0.3561046509714357,
+      0.8829568676585889,
+      0.3924418597961532
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_12",
+    "text": "(c) Suppose (x1,x2) + (J1,y2) is defined to be (x1 + y2,x2 + Y1). With the usual Cx = (Cx1, Cx2), which of the eight conditions are not satisfied?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.149897355875846,
+      0.39970930281043593,
+      0.8850102563623466,
+      0.4375000004467163
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_13",
+    "text": "Let P be the plane in 3-space with equation x + 2y + z = 6. What is the equation of the plane Po through the origin parallel to P? Are P and Po subspaces of R??",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11909652378945955,
+      0.4505813957028777,
+      0.8850102637362075,
+      0.4883720924677281
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_14",
+    "text": "Which of the following are subspaces of R°?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1190965184352636,
+      0.49999999968825065,
+      0.5482546047973561,
+      0.5174418599553449
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_15",
+    "text": "(a) All sequences like (1,0, 1, 0,...) that include infinitely many zeros.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1498973369667808,
+      0.5305059521905979,
+      0.7720739259695638,
+      0.5466269839366297
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_16",
+    "text": "(b) All sequences (x1x2,...) with xj = 0 from some point onward.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1498973376617933,
+      0.5537790702113249,
+      0.7433264964757835,
+      0.5726744181244311
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_17",
+    "text": "(c) All decreasing sequences: xj+1 ≤ xj for each j.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1498973416701256,
+      0.5783730155708167,
+      0.5995893067384989,
+      0.5974702377930389
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_18",
+    "text": "(d) All convergent sequences: the x; have a limit as j → ∞0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1519507377308446,
+      0.6031746035533108,
+      0.671457890400572,
+      0.6206395346023549
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_19",
+    "text": "(e) All arithmetic progressions: xj+1 - x; is the same for all j.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733330954394,
+      0.6279069772871801,
+      0.6981519589697166,
+      0.6453488366081689
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_20",
+    "text": "All geometric progressions (x1, kx1, k2x1,...) allowing all k and x1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1519507273784765,
+      0.6497093027139577,
+      0.7700205406400035,
+      0.6701388893212702
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_21",
+    "text": "Which of the following descriptions are correct? The solutions x of",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11909652618498569,
+      0.6816860461385869,
+      0.7392197059163147,
+      0.697674418759669
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_22",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3880903509088087,
+      0.7194767446579671,
+      0.6324435316245983,
+      0.7732558137313521
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_23",
+    "text": "form",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15195072008656205,
+      0.7863372094347406,
+      0.19507186804485474,
+      0.7965116276873525
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_24",
+    "text": "(a) a plane.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1498973311120263,
+      0.8154069766800112,
+      0.2566735110850989,
+      0.8313953493010933
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_25",
+    "text": "(b) a line.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1498148409334205,
+      0.8384211596254053,
+      0.24238228478107673,
+      0.8548927934608497
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_26",
+    "text": "(c) a point.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733116745507,
+      0.8633432543184606,
+      0.25051334752864346,
+      0.8794642860644922
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_27",
+    "text": "(d) a subspace.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15195072194165446,
+      0.8895348836333207,
+      0.28747433210351997,
+      0.9026162790701677
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 28
+  }
+]

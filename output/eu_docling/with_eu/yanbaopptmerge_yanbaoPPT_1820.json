@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1820",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1820_0",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1820_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AXAA",
+        "bbox": [
+          0.42709755759835777,
+          0.12289980873303633,
+          0.5598210479954931,
+          0.1736118189501276
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1820_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ПАШН",
+        "bbox": [
+          0.42715540557908643,
+          0.2006648444080626,
+          0.5612166891145141,
+          0.24894755852520362
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1820_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EX7",
+        "bbox": [
+          0.4243844221892604,
+          0.26726992935495053,
+          0.5610806927232308,
+          0.31606340418812123
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1820_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЕШК",
+        "bbox": [
+          0.42414252934153074,
+          0.3337850155253976,
+          0.5613225852322953,
+          0.38326924827150166
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1820",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1820_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1820_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EEHE",
+        "bbox": [
+          0.7571614611138626,
+          0.5443121685113235,
+          0.8999999846153043,
+          0.6055555537455306
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

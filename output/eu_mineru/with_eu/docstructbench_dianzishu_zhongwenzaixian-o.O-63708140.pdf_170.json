@@ -1,0 +1,149 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表3.10正面 100%重叠刚性壁障碰撞试验对摄像机要求",
+        "bbox": [
+          0.26689661571778117,
+          0.0973384461980938,
+          0.7308861168886931,
+          0.11331938512613905
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_1",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.11086474806738603,
+          0.11913063564542824,
+          0.8869179845390882,
+          0.45473035313437854
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "7)灯光照明系统",
+        "bbox": [
+          0.15397881676025837,
+          0.4954091067694028,
+          0.31822288797120063,
+          0.5142956709570926
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "整车碰撞试验过程中，由于摄像帧数一般要求为1000，常规灯光根本无法满足 碰撞拍摄要求。因此，在碰撞区需要设置专用的灯光照明系统。",
+        "bbox": [
+          0.11086474806738603,
+          0.5302766098851379,
+          0.8889710354292251,
+          0.5724081761499845
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "照明系统平均照度应不小于100000lx，具有B0OST（推进)功能，即光源的控制 可以提供50%，100%，200%的光源输出，可通过控制软件点击启动，也可由外部信号 触发启动。照明区域要能覆盖整个碰撞区域，并且灯架能在三轴向进行移动。",
+        "bbox": [
+          0.11086474806738603,
+          0.5767666140394514,
+          0.8889710354292251,
+          0.643595995011277
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "灯光系统能与整车牵引控制系统配合工作，完成完整的碰撞试验（见图3.72)。 灯光系统在接收牵引系统给予的外部触发信号后，能实现灯光的推进(Boost)功能； 同时，灯光系统也能将自己系统的相关工作状态信息反馈给牵引控制系统，便于试 验人员对灯光系统的工作状态进行监控。",
+        "bbox": [
+          0.10881169717724926,
+          0.6479544329007438,
+          0.8889710354292251,
+          0.7380288159497261
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "目前，主流的灯光照明系统制造商有Atlas（美国）、Visol（韩国）、Messring（德 国）。",
+        "bbox": [
+          0.1047055953969757,
+          0.7409344412093708,
+          0.8930771372094986,
+          0.7845188201040396
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "假人是在碰撞试验中用来模拟真实交通事故乘员的装置。假人的质量、部件中 心与标准人体（欧美)相似，由钢、铝、硬塑料等材料模拟人体骨骼，柔软塑料和橡胶 模拟人体肌肉和皮肤。假人的头、颈、胸、腰、骨盆、大腿、小腿和脚上装有各种传感 器用来测量加速度、力、力矩、转角及位移等数据。利用这些数据，再按照车辆法规",
+        "bbox": [
+          0.11086474806738603,
+          0.83536726214782,
+          0.8910240863193618,
+          0.9254416451968023
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_7",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "8)假人及标定系统",
+        "bbox": [
+          0.1519257658701216,
+          0.7990469464022626,
+          0.33875339687256845,
+          0.8193863232197747
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

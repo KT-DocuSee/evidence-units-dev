@@ -1,0 +1,349 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "The 55th William Lowell Putnam Mathematical Competition Saturday, December 3, 1994",
+        "bbox": [
+          0.24627450980392157,
+          0.06363636363636363,
+          0.7592156862745097,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−1 Suppose that a sequence a1, 2, a3, . . satisfies 0 < an ≤ a2n + a2n+1 for a n ≥ 1. Prove that the series =1 an diverges.",
+        "bbox": [
+          0.09254901960784313,
+          0.13515151515151516,
+          0.49019607843137253,
+          0.17939393939393938
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5552941176470588,
+          0.13515151515151516,
+          0.9192156862745098,
+          0.16424242424242425
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–1 Find all positive integers n that are within 250 of exactly 15 perfect squares.",
+        "bbox": [
+          0.5231372549019608,
+          0.17393939393939395,
+          0.9184313725490196,
+          0.20363636363636364
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A—2 Let A be the area of the region in the first quadrant bounded by the line y = 2x, the x-axis, and the ellipse x2 + y2 = 1. Find the positive number m such that A is equal to the area of the region in the first quadrant bounded by the line y = mx, the y-axis, and the ellipse x2 + y2 = 1.",
+        "bbox": [
+          0.09254901960784313,
+          0.18848484848484848,
+          0.49019607843137253,
+          0.2793939393939394
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–2 For which real numbers c is there a straight line that intersects the curve",
+        "bbox": [
+          0.5231372549019608,
+          0.21333333333333335,
+          0.9192156862745098,
+          0.24181818181818182
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "in four distinct points?",
+        "bbox": [
+          0.556078431372549,
+          0.2818181818181818,
+          0.7074509803921568,
+          0.2963636363636364
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–3 Show that if the points of an isosceles right triangle of side length 1 are each colored with one of four colors, then there must be two points of the same color whch are at least a distance 2 − √2 apart.",
+        "bbox": [
+          0.09333333333333334,
+          0.2878787878787879,
+          0.49098039215686273,
+          0.34606060606060607
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–3 Find the set of all real numbers k with the following property: For any positive, differentiable function f that satisfies f (x) > f (x) for all x, there is some number N such that f (x) > ekx for all x > N.",
+        "bbox": [
+          0.5231372549019608,
+          0.30606060606060603,
+          0.9192156862745098,
+          0.36484848484848487
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–4 Let A and B be 2 × 2 matrices with integer entries such that A,A + B,A + 2B,A + 3B, and A + 4B are all invert- ible matrices whose inverses have integer entries. Show that A + 5B is invertible and that its inverse has integer entries.",
+        "bbox": [
+          0.09333333333333334,
+          0.35515151515151516,
+          0.4894117647058824,
+          0.42848484848484847
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–4 For n ≥ 1, let dn be the greatest common divisor of the entries of An − I, where",
+        "bbox": [
+          0.523921568627451,
+          0.3654545454545455,
+          0.9192156862745098,
+          0.3927272727272727
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A-5 Let (rn)n≥0 be a sequence of positive real numbers such that limn→rn = 0. Let S be the set of numbers repre- sentable as a sum",
+        "bbox": [
+          0.09333333333333334,
+          0.4381818181818182,
+          0.49019607843137253,
+          0.4818181818181818
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Show that limn→∞ dn = ∞.",
+        "bbox": [
+          0.5568627450980392,
+          0.44727272727272727,
+          0.7294117647058823,
+          0.4624242424242424
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–5 For any real number α, define the function fα(x) = |αx. Let n be a positive integer. Show that there exists an α such that for 1 ≤ k ≤ n,",
+        "bbox": [
+          0.5231372549019608,
+          0.4715151515151515,
+          0.9192156862745098,
+          0.5151515151515151
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with i1 < i2 < · .· < i1994. Show that every nonempty in- terval (a, b) contains a nonempty subinterval (c, d) that does not intersect S.",
+        "bbox": [
+          0.12627450980392158,
+          0.5212121212121212,
+          0.49019607843137253,
+          0.5648484848484848
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–6 For any integer n, set",
+        "bbox": [
+          0.523921568627451,
+          0.56,
+          0.6980392156862745,
+          0.573939393939394
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–6 Let f1 , .. . , fio be bijections of the set of integers such that for each integer n, there is some composition fi1 fi2  ….. fim of these functions (allowing repetitions) which maps 0 to n. Consider the set of 1024 functions ei = 0 or 1 for 1 ≤ i ≤ 10. (f0 is the identity function and fi = fi.) Show that if A is any nonempty finite set of integers, then at most 512 of the functions in F map A to itself.",
+        "bbox": [
+          0.09333333333333334,
+          0.5745454545454546,
+          0.49098039215686273,
+          0.6333333333333333
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Show that for 0 ≤ a,b,c,d ≤ 99, na + nb = nc + nd (mod 10100) implies {a, b} = {c, d}.",
+        "bbox": [
+          0.556078431372549,
+          0.6133333333333333,
+          0.9192156862745098,
+          0.6442424242424243
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1994_Problems_1994_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.12627450980392158,
+          0.6727272727272727,
+          0.49019607843137253,
+          0.7054545454545454
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

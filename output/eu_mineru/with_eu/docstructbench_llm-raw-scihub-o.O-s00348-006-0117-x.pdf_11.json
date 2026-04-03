@@ -1,0 +1,162 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.9 Elimination of secondary structures",
+        "bbox": [
+          0.08061265585649563,
+          0.05601384930489294,
+          0.37451296366663595,
+          0.07129035366077284
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Based on the superposition principle, vortices and vor- tical shear layers from blades passing the measurement window are identifi ed and numerically removed from the image such that the vortex of interest remains almost unaffected. Thereafter, its parameters can be identified without being biased by disturbing structures. Currently, this is performed manually in the measurement plane, and only for the in-plane velocities. The disturbing vortex is identified by a best fit to a Vatistas swirl model and its contribution is then subtracted from the entire velocity field. This can also be done iteratively until no fragments of the disturbing structure remain. In general, both (or more) structures could be identified simulta- neously, but this is complicated by different orientation of their vortex axis with respect to the measurement plane and not implemented yet.",
+        "bbox": [
+          0.08061265585649563,
+          0.08529381598699608,
+          0.49039365646034844,
+          0.3157144233548511
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "An example is given in Fig. 10a where two vortices of opposite sense of rotation are close to each other, and both are affecting the other vortex flow fi eld adversely. In (a) the vortex centre was manually set to the centre of the disturbing structure, using the scalar field of 2-convolution. After elimination of this structure using a best fit to Vatistas swirl model the remaining vortex is clearly unaffected by other structures (b) and its parameters can be identified. To do even more, the shear layer at the lower left of the image could be eliminated by the same procedure.",
+        "bbox": [
+          0.07893322552615196,
+          0.3169874653845078,
+          0.49039365646034844,
+          0.4748446770619334
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_6",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5088673900941286,
+          0.0572868913345496,
+          0.9203278210283251,
+          0.5066707278033498
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_3",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.10 Identification of vortex parameters",
+        "bbox": [
+          0.08061265585649563,
+          0.49903247562540987,
+          0.3761923939969796,
+          0.5143089799812898
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_7",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 10 Elimination of disturbing structures. BL, pos. 47 of Fig. 1, simple average",
+        "bbox": [
+          0.5055085294334414,
+          0.5181281060702597,
+          0.9203278210283251,
+          0.5435889466633929
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The identification of the swirl and the axial velocity profi les, the core radius and the circulation is often hindered by other flow structures in close proximity of the vortex of interest. These are shear layers with vor- ticity and additional vortices shed by other blades just passing the measurement window, especially where BVI takes place.",
+        "bbox": [
+          0.07893322552615196,
+          0.528312442307513,
+          0.49039365646034844,
+          0.6301558046800456
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Alternatively, the Lamb–Oseen [10, 18] or Newman [17] vortex can be fitted to the data. These are also written in terms of Vs,max and rc, but the radial distri- bution function is different and a factor α of an expo- nential function defines the shape. Expanding the parameter α to the inclusion of the vortex age ψv the Hamel–Oseen [5] model can be used as well.",
+        "bbox": [
+          0.5088673900941286,
+          0.576688039434466,
+          0.9186483906979814,
+          0.6785314018069987
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Using a best fit of a Vatistas vortex swirl model [26], the parameters describing the vortex are identified. This model is written in terms of the maximum swirl velocity Vs,max at the core radius rc, the shape parameter n that describes the distribution of vorticity (and therewith the distribution of λ2 and Q), and the radial distance from the vortex centre. The development of vortex circulation, and thus the fraction of total circulation at the core radius, is connected to the swirl velocity prof le as well. All relations for the Vatistas vortex are given [27]. Note that all vari- ables are made non-dimensional, i.e., the velocities are divided by Ω R, circulation and kinematic viscosity by Ω R2, vorticity by Ω, coordinates by the core radius re, the core radius by R, and the flow f eld operators by Ω2.",
+        "bbox": [
+          0.08061265585649563,
+          0.6314288467097022,
+          0.49039365646034844,
+          0.8325694873954542
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Vatistas model is used here, since with the shape parameter n a wide range of swirl shapes can be defined, covering the Scully vortex (n = 1), the Lamb–Oseen vortex (n≈2), or the Rankine vortex (n = ∞). When the data are cleaned from spurious vectors, mean values of the flow subtracted and rotated into the vortex axis system, the distribution of swirl velocities of all vectors is fitted with the Vatistas model using a least squares error method. The best fi t is performed at a radial extension of 2–3 core radi.",
+        "bbox": [
+          0.5088673900941286,
+          0.7625521757643381,
+          0.9203278210283251,
+          0.907678967145197
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

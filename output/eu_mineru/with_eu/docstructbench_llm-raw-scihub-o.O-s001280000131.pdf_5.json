@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s001280000131.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s001280000131.pdf_5_1",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s001280000131.pdf_5_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.287797398875388,
+          0.03649208760488691,
+          0.7248230786491254,
+          0.867052001492113
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s001280000131.pdf_5_0",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.17907393707801922,
+          0.07298417520977382,
+          0.23663341685309683,
+          0.8553745334585492
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s001280000131.pdf_5_3",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "= ￥",
+        "bbox": [
+          0.7482732370760089,
+          0.6116073882579046,
+          0.8591285314576399,
+          0.8685116849963085
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s001280000131.pdf_5_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2408970820216211,
+          0.7867694087613618,
+          0.26008357527998033,
+          0.8626729509795266
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

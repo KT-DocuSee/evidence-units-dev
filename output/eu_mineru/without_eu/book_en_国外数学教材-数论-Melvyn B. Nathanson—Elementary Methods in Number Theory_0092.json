@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_0",
+    "text": "Theorem 2.19 Let m be an integer that is the product of two prime num- bers. The prime divisors of m are the roots of the quadratic equation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14259111465815377,
+      0.08304498269896193,
+      0.8661878159084863,
+      0.12149173394848135
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_1",
+    "text": "and so φ(m) determines the prime factors of m.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1447193402500665,
+      0.16147635524798154,
+      0.6150571960627826,
+      0.18069973087274124
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_2",
+    "text": "Proof. If m = pq, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16493748337323758,
+      0.1914648212226067,
+      0.3937217345038574,
+      0.2106881968473664
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_3",
+    "text": "and so",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14259111465815377,
+      0.2622068435217224,
+      0.21069433359936154,
+      0.27989234909650135
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_4",
+    "text": "Equivalently, p and q are the solutions of the quadratic equation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1447193402500665,
+      0.31295655517108806,
+      0.7693535514764565,
+      0.33217993079584773
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_5",
+    "text": "This completes the proof.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1447193402500665,
+      0.37293348712033836,
+      0.4160681032189412,
+      0.39138792772010766
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_6",
+    "text": "For example, if m = 221 and φ(m) = 192, then the quadratic equation has solutions x = 13 and x = 17, and 221 = 13 · 17.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16387337057728119,
+      0.4275278738946559,
+      0.8512902367650971,
+      0.447520184544406
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14152700186219738,
+      0.4867358708189158,
+      0.6405959031657356,
+      0.5059592464436755
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_8",
+    "text": "This method, known as the RSA cryptosystem, is called a public key cryp- tosystem, since the encryption key is made available to everyone, and the encrypted message can be transmitted through public channels. Only the possessor of the prime factors of m can decrypt the message. RSA is simple, but useful, and is the basis of many commercially valuable cryptosystems.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14259111465815377,
+      0.5074971164936563,
+      0.8629954775206172,
+      0.6028450595924645
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_9",
+    "text": "Exercises",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1457834530460229,
+      0.6305267204921184,
+      0.25006650704974726,
+      0.6497500961168782
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092_10",
+    "text": "1. Consider the secret key cryptosystem constructed from the prime p = 947 and the encoding key e = 167. Encipher the plaintext P = 2. Find a decrypting key and decipher the ciphertext C = 3. 2. Consider the primes p = 53 and q = 61. Let m = pq. Prove that e = 7 is relatively prime to ϕ(m). Find a positive integer d such that ed = 1 (mod ϕ(m)). 3. The integer 6059 is the product of two distinct primes, and φ(6059) = 5904. Use Theorem 2.19 to compute the prime divisors of 6059. 4. The probability that an integer chosen at random between 1 and n is relatively prime to n is φ(n)/n. Let n = pq, where p and q are distinct primes greater than x. Prove that the probability that a randomly chosen positive integer up to x is relatively prime to n is greater than (1 – 1/x)2. If x = 200, this probability is greater than 0.99.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1670657089651503,
+      0.6597462514417531,
+      0.8629954775206172,
+      0.9419454056132257
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0092",
+    "order": 11
+  }
+]

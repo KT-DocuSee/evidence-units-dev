@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2367996765784559,
+          0.0856638965050414,
+          0.7624613699760212,
+          0.6449987501556058
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5223028327368779,
+          0.7470395680513169,
+          0.94551927598348,
+          0.9410430983715578
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5_1",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig.1.ef aainst PrPwithutrosiiDetectionof thEPr] ErP]s e rosinkin Cnsor ofbing the complex.",
+        "bbox": [
+          0.06717721321374635,
+          0.6575963819945825,
+          0.9471987063138236,
+          0.7205845411894659
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[1E5•bPrP] and [1E5•2bPrP] complexes are still present, albeit in a much lower quantity. In the reference experi- ment (Fig. 4A), if one assumes that the peaks from the two complexes represent 100% of the intensity of the signal, the two peaks corresponding to the complexes with bPrP in the cases of peptides [140–160] and [145–165] represent only 36 and 42%, respectively, of the total intensity of all three peaks. This suggests that these peptides effectively compete with bPrP for binding with the antibody.",
+        "bbox": [
+          0.07053607387443368,
+          0.7470395680513169,
+          0.49375251712103574,
+          0.8818342287283674
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.ab.2007.11.016.pdf_5_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The characterization of the binding between 1E5 and the three selected peptides, two of which are assumed to be competing, was performed with a different procedure using SPR. A modified protocol (similar to the one described ear- lier for MS) was developed and tested. Rather than the antibody, the antigen was immobilized and the antibody, after mixing with the peptides, was flowed across the sur- face. The binding response was followed on the sensorgram (Fig. 4E). In all cases, binding between the surface and components of the mixture of antibody with or without peptide was detected. The upper curve shows the response of the binding between the mixture of 1E5 and peptide [145–165] and the surface with the antigen bPrP. The responses corresponding to 1E5 alone and the mixture of 1E5 with the noncompeting peptide are relatively close; the RU values after the injection (RUfnal) are 460 and 470, respectively, so the binding is quite similar in those",
+        "bbox": [
+          0.06885664354409002,
+          0.883093991912265,
+          0.49375251712103574,
+          0.9423028615554554
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

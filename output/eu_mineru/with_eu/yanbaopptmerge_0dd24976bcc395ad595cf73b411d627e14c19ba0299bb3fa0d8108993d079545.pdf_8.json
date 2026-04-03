@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_0dd24976bcc395ad595cf73b411d627e14c19ba0299bb3fa0d8108993d079545.pdf_8",
+    "primary_id": "mineru_yanbaopptmerge_0dd24976bcc395ad595cf73b411d627e14c19ba0299bb3fa0d8108993d079545.pdf_8_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_0dd24976bcc395ad595cf73b411d627e14c19ba0299bb3fa0d8108993d079545.pdf_8_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.3031035872632003,
+          0.07467578737352144,
+          0.9407496977025392,
+          0.4811172865897107
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_0dd24976bcc395ad595cf73b411d627e14c19ba0299bb3fa0d8108993d079545.pdf_8",
+    "primary_id": "mineru_yanbaopptmerge_0dd24976bcc395ad595cf73b411d627e14c19ba0299bb3fa0d8108993d079545.pdf_8_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_0dd24976bcc395ad595cf73b411d627e14c19ba0299bb3fa0d8108993d079545.pdf_8_1",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：wind申港证券研究所",
+        "bbox": [
+          0.3063280935106812,
+          0.48282741912498217,
+          0.47803305118903666,
+          0.49422830269345874
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

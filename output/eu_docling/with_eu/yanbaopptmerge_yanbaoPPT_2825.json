@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_2825",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_2825_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_2825_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.005493312835693359,
+          0.24832735188802083,
+          0.9984196166992187,
+          0.9972042643229166
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_2825_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Created by www.walleo.com l Aug 2006",
+        "bbox": [
+          0.7136628036829752,
+          0.9593023257684389,
+          0.9912790623344664,
+          0.9884259259662865
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_2825",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_2825_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_2825_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HER 17713, 1",
+        "bbox": [
+          0.029069779530005287,
+          0.4612403119892618,
+          0.9462209127494061,
+          0.5697751299624039
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_2825",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_2825_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_2825_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Happy Summer Holiday",
+        "bbox": [
+          0.715116282846859,
+          0.9341085271637878,
+          0.9171511574147689,
+          0.9632936507083092
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

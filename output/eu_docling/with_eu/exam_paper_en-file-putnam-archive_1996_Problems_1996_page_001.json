@@ -1,0 +1,470 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "The 57th William Lowell Putnam Mathematical Competition Saturday, December 7, 1996",
+        "bbox": [
+          0.24812030970048493,
+          0.06686046498548608,
+          0.7593984939962567,
+          0.10319767427005383
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-1 Find the least number A such that for any two squares of combined area 1, a rectangle of area A exists such that the two squares can be packed in the rectangle (without interior overlap). You may assume that the sides of the squares are parallel to the sides of the rectangle.",
+        "bbox": [
+          0.0958646679824559,
+          0.1366279071877687,
+          0.49248119637283944,
+          0.20784883710695773
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "minimal selfish sets, that is, selfish sets none of whose proper subsets is selfish.",
+        "bbox": [
+          0.5545112848301682,
+          0.1366279073684542,
+          0.9191729165796065,
+          0.165697674419005
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-2 Show that for every positive integer n,",
+        "bbox": [
+          0.5244360962578118,
+          0.1758432539735888,
+          0.8082706687327897,
+          0.19047619048152528
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6315789489028703,
+          0.2005813959911738,
+          0.8890977454364014,
+          0.2341269846813109
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-2 Let C and Ca be circles whose centers are 10 units apart, and whose radii are 1 and 3. Find, with proof, the locus of all points M for which there exists points X on Cy and Y on Ca such that M is the midpoint of the line segment XY.",
+        "bbox": [
+          0.09586466585213016,
+          0.21800595256775213,
+          0.490601509400681,
+          0.29069767377153355
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_17",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-3 Given that {x1, x2,..,xn} = {1,2,..,n}, find, with proof, the largest possible value, as a function of n (with n > 2), of",
+        "bbox": [
+          0.5225563814148033,
+          0.2427325579191101,
+          0.9191729339611369,
+          0.28645833369162377
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6071428646816879,
+          0.3008432540960451,
+          0.8289473647669333,
+          0.31250000012779106
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-3 Suppose that each of 20 students has made a choice of anywhere from 0 to 6 courses from a total of 6 courses offered. Prove or disprove: there are 5 students and 2 courses such that all 5 have chosen both courses or all 5 have chosen neither course.",
+        "bbox": [
+          0.09586465836466174,
+          0.30232558141190585,
+          0.49060151247868844,
+          0.3720930231040192
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_19",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-4 For any square matrix A, we can define sinA by the usual power series:",
+        "bbox": [
+          0.5206766960826825,
+          0.3298611108452492,
+          0.9191729198947612,
+          0.36046511603270864
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_20",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6240601504960851,
+          0.3717477377915274,
+          0.8115268939803055,
+          0.4075891279581804
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-4 Let S be the set of ordered triples (a,b,c) of distinct elements of a finite set A. Suppose that",
+        "bbox": [
+          0.09586468060302951,
+          0.38516865066597017,
+          0.49248119397403806,
+          0.4114583333706713
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Prove or disprove: there exists a 2 x 2 matrix A with real entries such that",
+        "bbox": [
+          0.5563909776685544,
+          0.4171511630370589,
+          0.9191729381522473,
+          0.44476744184390804
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a,b,c) E S if and only if (b,c,a) ES;",
+        "bbox": [
+          0.14473684266352574,
+          0.42435515871260104,
+          0.4135338295482538,
+          0.4389880952205375
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a, b,c) € S if and only if (c,b,a) & S;",
+        "bbox": [
+          0.14473684682347912,
+          0.44320436504945726,
+          0.4135338337082071,
+          0.4563953488293038
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_22",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.644736843504382,
+          0.45634920647438526,
+          0.7800751888272232,
+          0.4841269844814248
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a,b,c) and (c,d,a) are both in S if and only if (b,c,d) and (d,a, b) are both in S.",
+        "bbox": [
+          0.14473684802951378,
+          0.4622093027069094,
+          0.49060149289422417,
+          0.4913194444994506
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_23",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-5 Given a finite string S of symbols X and 0, we write A(S) for the number of X's in S minus the number of O's. For example, 4(X00X00X) = -1. We call a string S balanced if every substring T of (consecutive symbols of) S has - 2 ≤ 4(T) ≤ 2. Thus, XOOX00X is not balanced, since it contains the substring OOX00. Find, with proof, the number of balanced strings of length n.",
+        "bbox": [
+          0.5225564005748343,
+          0.501453487908209,
+          0.9210526342836894,
+          0.6193880268528759
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_8",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Prove that there exists a one-to-one function g from A to R such that g(a) < g(b) < g(c) implies (a,b, c) ES. Note: R is the set of real numbers.",
+        "bbox": [
+          0.12593984380263973,
+          0.5014534884916056,
+          0.48872180428633266,
+          0.5421626985887181
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-5 If p is a prime number greater than 3 and k = 12p/3, prove that the sum",
+        "bbox": [
+          0.09398497474809585,
+          0.5552325580353893,
+          0.4924811985601746,
+          0.5828488372401943
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2030075179824562,
+          0.5959302317636077,
+          0.30827067587719303,
+          0.627906977005772
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_24",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-6 Let (a1, b1), (a2, b2),..., (an,bn) be the vertices of a convex polygon which contains the origin in its interior. Prove that there exist positive real numbers x and y such that",
+        "bbox": [
+          0.5225564016556612,
+          0.6279069762803019,
+          0.9192894332528504,
+          0.6833067310349005
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "of binomial coefficients is divisible by p.",
+        "bbox": [
+          0.1296992577268007,
+          0.6395348846694792,
+          0.4041353367594146,
+          0.6555232553983503
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-6 Let c > 0 be a constant. Give a complete description, with proof, of the set of all continuous functions f: R → R such that f(x) = f(x2 + c) for all * € R. Note that R denotes the set of real numbers.",
+        "bbox": [
+          0.09586467140944481,
+          0.6656746032831146,
+          0.49060150676910214,
+          0.7209821429050817
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_25",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_25",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6015037637111487,
+          0.6961805557172405,
+          0.8345864676798284,
+          0.7354651155325874
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Problems_1996_page_001_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-1 Define a selfish set to be a set which has its own cardinality (number of elements) as an element. Find, with proof, the number of subsets of {1,2,..., n} which are",
+        "bbox": [
+          0.09586467061057266,
+          0.7340116281183329,
+          0.4906819059747845,
+          0.7763904818371598
+        ],
+        "order": 26
+      }
+    ]
+  }
+]

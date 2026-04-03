@@ -1,0 +1,251 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00586-010-1656-7.pdf_3",
+    "primary_id": "mineru_scihub_s00586-010-1656-7.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 4 Low back and leg pain scores 24 months after surgery",
+        "bbox": [
+          0.08464328899637243,
+          0.07221969352146868,
+          0.2724707779121322,
+          0.09770899711728114
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "scihub_s00586-010-1656-7.pdf_3",
+    "primary_id": "mineru_scihub_s00586-010-1656-7.pdf_3_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.2974607013301088,
+          0.07282658170232134,
+          0.9165659008464329,
+          0.2172659687452587
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5135026199113261,
+          0.41147018661811563,
+          0.9141475211608222,
+          0.5213169473524503
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00586-010-1656-7.pdf_3",
+    "primary_id": "mineru_scihub_s00586-010-1656-7.pdf_3_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 5 Complications",
+        "bbox": [
+          0.08464328899637243,
+          0.26156880594750415,
+          0.2249093107617896,
+          0.2749203459262631
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "scihub_s00586-010-1656-7.pdf_3",
+    "primary_id": "mineru_scihub_s00586-010-1656-7.pdf_3_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.2974607013301088,
+          0.26217569412835684,
+          0.9157597742845627,
+          0.37505689576695495
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00586-010-1656-7.pdf_3",
+    "primary_id": "mineru_scihub_s00586-010-1656-7.pdf_3_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "different between the two groups (P > 0.05). There was no signifi cant difference in VAS score, JOAS, and ODI at fi nal follow-up(24 months) after surgery among bone union in the local bone graft group, bone non-union in the local bone graft group, bone union in the ICBG group, and bone non-union in the ICBG group (P > 0.05)(Table 4).",
+        "bbox": [
+          0.08464328899637243,
+          0.41147018661811563,
+          0.486900443369609,
+          0.5043240782885753
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Complications at fi nal follow-up",
+        "bbox": [
+          0.08544941555824265,
+          0.521923835533303,
+          0.309552599758162,
+          0.5358822636929146
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00586-010-1656-7.pdf_3",
+    "primary_id": "mineru_scihub_s00586-010-1656-7.pdf_3_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Some authors have reported the eficacy of instrumented posterolateral fusion using ICBG for degenerated spond- ylolisthesis when compared with decompression only or non-instrumented posterolateral fusion [2, 12]. Prospective studies evaluating fusion rate using instrumented postero- lateral fusion with ICBG showed results from 82 to 95% [2, 12]. There has been one report comparing the clinical and radiologic outcome of instrumented posterolateral lumbar fusion using local bone versus an autogenous ICBG using a retrospective comparative study [9]. Overall fusion rate was higher in the ICBG group(75%) compared with the local bone graft group (65%), but not significantly different [9]. In the current prospective randomized study, fusion rate using local bone graft and ICBG was consistent with the previous studies.",
+        "bbox": [
+          0.5135026199113261,
+          0.5225307237141557,
+          0.9149536477226925,
+          0.755575785161584
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00586-010-1656-7.pdf_3",
+    "primary_id": "mineru_scihub_s00586-010-1656-7.pdf_3_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Table 5 shows complications at final follow-up. There was a deep infection (surgical site infection) in the local bone graft group. There was no other complication in the local bone graft group. However, sensory disturbance around the iliac crest in eight patients and donor site pain in six patients were found in the ICBG group.",
+        "bbox": [
+          0.08464328899637243,
+          0.5528751327567896,
+          0.4860943168077388,
+          0.646335912608102
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "scihub_s00586-010-1656-7.pdf_3",
+    "primary_id": "mineru_scihub_s00586-010-1656-7.pdf_3_7",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Discussion",
+        "bbox": [
+          0.08464328899637243,
+          0.6791078743741465,
+          0.16122531237404272,
+          0.6930663025337581
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the current study, bone union, clinical results, and complications were examined after single-level postero- lateral fusion surgery using a local bone graft versus an ICBG in a prospective randomized study. Rate and average duration of bone union were not signifi cantly different in the local bone and ICBG groups. However, prolonged surgical time and complications such as donor site pain were observed in the ICBG group.",
+        "bbox": [
+          0.08464328899637243,
+          0.7106660597784858,
+          0.4860943168077388,
+          0.8350781368532848
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Clinical results after surgery were not significantly dif- ferent between the local bone graft and ICBG groups in the current study. However, surgical time was significantly shorter for the local bone graft group compared with the ICBG group. As seen in the retrospective comparison between the two groups [9],there was no significant dif- ference in overall clinical outcome between the two groups. However, blood loss and hospital stay were sig- nifi cantly less for the local graft bone group compared with",
+        "bbox": [
+          0.5143087464731962,
+          0.7586102260658474,
+          0.9141475211608222,
+          0.8988013958428159
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_scihub_s00586-010-1656-7.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Some authors have reported complications from har- vesting ICBG [1, 4, 5, 8, 11]. A consecutive series of 261 patients, whose bone graft harvest was conducted by one surgeon,was studied [5].Major complications such as hematoma, wound infection, reoperation, and chronic severe pain occurred in 10% of patients [5]. Minor com- plications such as dysesthesia and superficial infection occurred in 39% of patients [5]. In the current study, sen- sory disturbance around the iliac crest in eight patients (20%) and donor site pain in six patients (15%) were seen in the ICBGgroup2 years after surgery.",
+        "bbox": [
+          0.08464328899637243,
+          0.8375056895766955,
+          0.4860943168077388,
+          0.8981945076619633
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

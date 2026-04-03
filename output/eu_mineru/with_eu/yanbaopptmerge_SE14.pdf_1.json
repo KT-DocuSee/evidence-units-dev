@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_SE14.pdf_1",
+    "primary_id": "mineru_yanbaopptmerge_SE14.pdf_1_0",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_SE14.pdf_1_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "What is a Component?",
+        "bbox": [
+          0.06333333333333334,
+          0.15555555555555556,
+          0.43666666666666665,
+          0.20355555555555555
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE14.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OMG Unified Modeling Language Specification [OMG01] defines a component as",
+        "bbox": [
+          0.08733333333333333,
+          0.22755555555555557,
+          0.826,
+          0.3297777777777778
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE14.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\".. a modular, deployable, and replaceable part of a system that encapsulates implementation and exposes a set of interfaces.\"",
+        "bbox": [
+          0.13066666666666665,
+          0.33866666666666667,
+          0.9153333333333333,
+          0.4577777777777778
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE14.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OO view: a component contains a set of collaborating classes",
+        "bbox": [
+          0.12066666666666667,
+          0.48533333333333334,
+          0.926,
+          0.5831111111111111
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE14.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Conventional view: a component contains processing logic, the internal data structures that are required to implement the processing logic, and an interface that enables the component to be invoked and data to be passed to it.",
+        "bbox": [
+          0.12266666666666666,
+          0.6035555555555555,
+          0.9206666666666666,
+          0.8631111111111112
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

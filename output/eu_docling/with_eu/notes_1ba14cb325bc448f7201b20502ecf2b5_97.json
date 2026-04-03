@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_97",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_97_6",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_97_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3) BIETE: IEEE. 5997.",
+        "bbox": [
+          0.14754099600651546,
+          0.41860465151482995,
+          0.5122950768623369,
+          0.43898809561213675
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_97_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ANTIERETE:",
+        "bbox": [
+          0.1782786892203867,
+          0.5130813957745515,
+          0.36680328113480454,
+          0.5319767436876578
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_97_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "BEIF | 190.70* M7K63 | tiBa | #$5* | WE47",
+        "bbox": [
+          0.1021703190717072,
+          0.5323488740581769,
+          0.9564706118702058,
+          0.9051821260113019
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_97",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_97_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_97_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ОКРАМА АПАСІПЕЕ ПЕНОВИДЕИ ЗГАХАЙ",
+        "bbox": [
+          0.1762295336184723,
+          0.4491279070630404,
+          0.9200819394201692,
+          0.47098214307545383
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

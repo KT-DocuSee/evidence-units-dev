@@ -1,0 +1,301 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_0",
+    "text": "Corollary 2 to (Pj(x) − Pi(x)/xi−1, we see that |z| ≥ 1 − i+2, contradiction.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.06545454545454546,
+      0.49019607843137253,
+      0.09878787878787879
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_14",
+    "text": "Remark: The reader may notice a strong similarity be- tween this solution and the first solution. The primary difference is we compute that E′(O) ≥ 0 instead of dis- covering that Ez(−1) = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.06666666666666667,
+      0.9192156862745098,
+      0.12545454545454546
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_1",
+    "text": "Remark: Elkies also reports that this problem is his submission, dating back to 2005 and arising from work of Joe Harris. It dates back further to Example 3.7 in: Hajime Kaji, On the tangentially degenerate curves, J. London Math. Soc. (2) 33 (1986), 430–440, in which the second solution is given.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.10303030303030303,
+      0.49019607843137253,
+      0.1896969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_15",
+    "text": "Remark: It is also possible to solve this prob- lem using a p-adic valuation on the field of alge- braic numbers in place of the complex absolute value; however, this leads to a substantially more compli- cated solution. In lieu of including such a solution here, we refer to the approach described by Victor Wang here: http://www.artofproblemsolving. com/Forum/viewtopic.php?f=80&t=616731.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.1296969696969697,
+      0.9192156862745098,
+      0.24606060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_2",
+    "text": "Remark: Elkies points out a mild generalization which may be treated using the first solution but not the sec- ond: for integers a < b < c < d and z ∈ C which is neither zero nor a root of unity, the matrix",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.19454545454545455,
+      0.49098039215686273,
+      0.25272727272727274
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_16",
+    "text": "A6 The largest such k is n\". We first show that this value can be achieved by an explicit construction. Let e1, . . , en be the standard basis of Rn. For i1 , . . , n ∈ {1, . . . ,n}, let Mi …,in be the matrix with row vectors ei ,in, nd et Ni. e the anoe of  i ., Then MiinNj,in has kth diagonal enty eikjk, proving the claim.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5325490196078432,
+      0.25515151515151513,
+      0.92,
+      0.3575757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_3",
+    "text": "has rank 3 (the problem at hand being the case a = 0, b = 1,c = i + 1,d = j + 1).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.32242424242424245,
+      0.49019607843137253,
+      0.3521212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_4",
+    "text": "Remark: It seems likely that the individual polynomi- als Pk(x) are all irreducible, but this appears difficult to prove.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.3563636363636364,
+      0.49019607843137253,
+      0.3993939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_17",
+    "text": "We next show that for any families of matrices Mi, Nj as described, we must have k ≤ n. Let V be the n-fold ten- sor product of IR\", i.e., the vector space with orthonor- mal basis ei ⊗ · .  ein for i1, . ., in ∈ {1, . .,n}. Let mi be the tensor product of the rows of Mi; that is,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.3612121212121212,
+      0.9184313725490196,
+      0.4351515151515152
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_5",
+    "text": "Third solution: (by David Feldman) Note that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12784313725490196,
+      0.40424242424242424,
+      0.43686274509803924,
+      0.4193939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_6",
+    "text": "If || ≥ 1, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.4581818181818182,
+      0.22509803921568627,
+      0.47393939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_18",
+    "text": "Similarly, let nj be the tensor product of the columns of Nj. One computes easily that mi · nj equals the product of the diagonal entries of MiNj, and so vanishes if and only if i ≠ j. For any ci ∈ R such that ∑i cimi = 0, for each j we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.49333333333333335,
+      0.9192156862745098,
+      0.566060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_7",
+    "text": "with the first equality occurring only if |z| = 1 and the second equality occurring only if z is a positive real number. Hence the equation Pn(z)(1 − z) = 0 has no so- lutions with |z] ≥ 1 other than the trivial solution z = 1. Since",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.5139393939393939,
+      0.49019607843137253,
+      0.5854545454545454
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_8",
+    "text": "it now suffices to check that the curves are pairwise disjoint as n varies over positive integers.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.6260606060606061,
+      0.3819607843137255,
+      0.6406060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_19",
+    "text": "Therefore the vectors m1 ,. . ., mk in V are linearly inde- pendent, implying k ≤ nn as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.6278787878787879,
+      0.9176470588235294,
+      0.6575757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_20",
+    "text": "Remark: Noam Elkies points out that similar argument may be made in the case that the Mi are m × n matrices and the Nj are n × m matrices.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.6618181818181819,
+      0.9192156862745098,
+      0.706060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_9",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12784313725490196,
+      0.68,
+      0.48,
+      0.6951515151515152
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_10",
+    "text": "Write z = u + iv; we may assume without loss of gener- ality that v ≥ 0. Define the function",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.6993939393939393,
+      0.4886274509803922,
+      0.7284848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_21",
+    "text": "B1 These are the integers with no 0's in their usual base 10 expansion. If the usual base 10 expansion of N is dk 10k + . .· + do100 and one of the digits is 0, then there exists an i ≤ k − 1 such that di = 0 and di+1 > 0; then we can replace di+1 10i+1 + (0)10i by (di+1 − 1)10i+1 + (10) 10' to obtain a second base 10 over-expansion.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5325490196078432,
+      0.7151515151515152,
+      0.9192156862745098,
+      0.8024242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 19
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_11",
+    "text": "One computes that for n ∈ R, E (n) < 0 if and only if",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.7672727272727272,
+      0.4831372549019608,
+      0.7836363636363637
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 20
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_22",
+    "text": "We claim conversely that if N has no O's in its usual base 10 expansion, then this standard form is the unique base 10 over-expansion for N. This holds by induc- tion on the number of digits of N: if 1 ≤ N ≤ 9, then the result is clear. Otherwise, any base 10 over- expansion N = dk10k + . · + d110 + d0100 must have d0 = N (mod 10), which uniquely determines do since",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.8066666666666666,
+      0.9192156862745098,
+      0.9096969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 21
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_12",
+    "text": "In addition, Ez(O) = 0 and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.8375757575757575,
+      0.3027450980392157,
+      0.8527272727272728
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 22
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_13",
+    "text": "since log(u) is concave. From this, it follows that the equation Ez(n) = 0 can have at most one solution with n > 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.9030303030303031,
+      0.49019607843137253,
+      0.9472727272727273
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "order": 23
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_1",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "续表",
+        "bbox": [
+          0.8333332940874786,
+          0.1045400242413716,
+          0.869984526929289,
+          0.11811665076622506
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09452160048677419,
+          0.12354730137616644,
+          0.8912036617324424,
+          0.5417073983416528
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "（三）切换音频方式",
+        "bbox": [
+          0.13503085783824884,
+          0.557999350171477,
+          0.3182870220473008,
+          0.5770066273062718
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "终端的音频类型包括麦克风和扬声器。在使用麦克风和扬声器的过程中，若终端成功 外接音频附件后，可以根据需要切换音频方式。具体说明和操作方法见表6–7–8。",
+        "bbox": [
+          0.09066357597710993,
+          0.5797219526112425,
+          0.8931326739872745,
+          0.6204518321858029
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表6-7-8 切换音频方式的具体说明和操作方法",
+        "bbox": [
+          0.12924382107375246,
+          0.632670796058171,
+          0.642361080859098,
+          0.6489627478879951
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "常规功能分为数字功能和模拟功能见表6-7-9和表6-7-10。",
+        "bbox": [
+          0.13695987009308097,
+          0.8974150132928134,
+          0.6963734239943976,
+          0.9137069651226375
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_5",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09452160048677419,
+          0.6557510611504219,
+          0.8892746494776101,
+          0.8580427963707383
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61522126.pdf_206_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "（四）常规功能",
+        "bbox": [
+          0.13503085783824884,
+          0.8756924108530478,
+          0.27777776469582616,
+          0.8933420253353573
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

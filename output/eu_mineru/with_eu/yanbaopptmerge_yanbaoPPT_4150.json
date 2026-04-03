@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4150",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4150_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4150_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "《丰收锣鼓》了下列民族打击乐器进行演奏，你认识他们吗？请在括号 里标上乐器的名称。",
+        "bbox": [
+          0.072,
+          0.030222222222222223,
+          0.972,
+          0.17066666666666666
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4150",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4150_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4150_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.054,
+          0.18222222222222223,
+          0.9526666666666667,
+          0.9502222222222222
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

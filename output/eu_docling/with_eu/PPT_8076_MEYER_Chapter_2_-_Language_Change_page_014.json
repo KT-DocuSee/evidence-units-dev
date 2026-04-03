@@ -1,0 +1,123 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Verb Endings in Romance Languages",
+        "bbox": [
+          0.085755816394846,
+          0.20930232587849726,
+          0.577034873488875,
+          0.25000000015041873
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Verb Inflections in Four Italic Languages (taken from Rebecca Posner 1996 The Romance Languages. Cambridge University Press, p. 40)",
+        "bbox": [
+          0.08430233400785186,
+          0.3527131785481126,
+          0.8924418643075058,
+          0.4108527127815833
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1.1 Regular present indicative person endings in Latin, Spanish, Portuguese and Italian",
+        "bbox": [
+          0.10017820784275244,
+          0.4912112331737619,
+          0.7442988026545704,
+          0.546626984152143
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Latin | Spanish | Portuguese | Italian | -0 | -o [u] | -0 | -S | -S | -s [J | -і | -T | 0 | -MUS | -mos | -mos [muf] | -iamo | NOTIO | -TIS | -is | -te | -NT | -n | -т [*] | -no",
+        "bbox": [
+          0.09884580993652343,
+          0.560373291015625,
+          0.7600775756835938,
+          0.781240234375
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_7",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.727052001953125,
+          0.9057296549479167,
+          0.9764385375976562,
+          0.9770077311197917
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CAMBRIDGE",
+        "bbox": [
+          0.7848837256554193,
+          0.9089147284817677,
+          0.9781976724550457,
+          0.943798449646693
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "UNIVERSITY PRESS",
+        "bbox": [
+          0.78633720689654,
+          0.9496124036092127,
+          0.9752906973808686,
+          0.9689922477196913
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

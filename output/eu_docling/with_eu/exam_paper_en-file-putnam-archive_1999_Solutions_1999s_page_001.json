@@ -1,0 +1,552 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Solutions to the 60th William Lowell Putnam Mathematical Competition Saturday, December 4, 1999",
+        "bbox": [
+          0.19924813862867408,
+          0.06686046480033941,
+          0.8063909677891563,
+          0.10319767406456415
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Manjul Bhargava, Kiran Kedlaya, and Lenny Ng",
+        "bbox": [
+          0.3345864591613491,
+          0.11627907015915184,
+          0.671052630171358,
+          0.13081395324201098
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-1 Note that if r(x) and s(x) are any two functions, then",
+        "bbox": [
+          0.09586467662528077,
+          0.16715116267401828,
+          0.47368420311156134,
+          0.18030753980788736
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "An (An-1 + An+1). Then",
+        "bbox": [
+          0.5582706787045639,
+          0.16860465131600738,
+          0.706766912310474,
+          0.18030753985775888
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.187969925927009,
+          0.19618055562873027,
+          0.38909774827411875,
+          0.20932539689857158
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_15",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5620300795946075,
+          0.1961805559716009,
+          0.87406015198434,
+          0.21366279034363392
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Therefore, if F(x) is the given function, we have",
+        "bbox": [
+          0.12781955433614872,
+          0.22519841261140353,
+          0.45300752146272316,
+          0.2369186044761438
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.131578945112782,
+          0.2543604652445788,
+          0.44736841879699246,
+          0.337301586993553
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and similarly 2bzn + bzn-1 = bzn+1, So that {bn) satisfies the same recurrence as {ans. Since further bo = 1, b1 = 2 (where we use the recurrence for {an) to calculate a-1 = 0), we deduce that bn = an for all n. In particular, an + ah+1 = b2n+2=a2n+2.",
+        "bbox": [
+          0.5563909685990056,
+          0.2688492061150472,
+          0.919172938756884,
+          0.34302325533736705
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: Note that",
+        "bbox": [
+          0.5563909832408945,
+          0.3473837207227102,
+          0.7349623978211357,
+          0.3604651161595573
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.12781955060871733,
+          0.35019841251955974,
+          0.49060151109241035,
+          0.3795338174661848
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5336890005252505,
+          0.3764534882443019,
+          0.9007239465435319,
+          0.4469788884920155
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A -2 First solution: First factor p(x) = q(x)r(x), where q has all real roots and r has all complex roots. Notice that each root of q has even multiplicity, otherwise p would have a sign change at that root. Thus q(x) has a square root s(x).",
+        "bbox": [
+          0.09398496011467784,
+          0.39236111108244154,
+          0.49060151266101126,
+          0.46511627907016767
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and that",
+        "bbox": [
+          0.5544525786341871,
+          0.46203127286234164,
+          0.6128406532813585,
+          0.47401523798674433
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now write (x) = П= (x-aj) (x- aj) (possible because r has roots in complex conjugate pairs). Write П=(x-aj) =tx) + iu(x) with t, x having real coefficients. Then for x real,",
+        "bbox": [
+          0.12593985717039372,
+          0.47238372167671494,
+          0.4906015058997413,
+          0.529069767375853
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_20",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_20",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6071428565426106,
+          0.48837209294391437,
+          0.7462406008903529,
+          0.5203488373165919
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "so that",
+        "bbox": [
+          0.5544661809608383,
+          0.5362231195404182,
+          0.6034285549024778,
+          0.5480792062108245
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.15977443609022557,
+          0.5450581396722334,
+          0.4172932274567791,
+          0.6017441855834593
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_22",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_22",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5695488727650335,
+          0.5711805557205739,
+          0.6184210504179238,
+          0.5828488371432949
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a tane computation omited here) now shows that",
+        "bbox": [
+          0.5563909856760327,
+          0.6046511626623481,
+          0.9210526174254712,
+          0.6366567451993179
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(Alternatively, one can factor r(x) as a product of quadratic polynomials with real coefficients, write each as a sum of squares, then multiply together to get a sum of many squares.)",
+        "bbox": [
+          0.12781954002757723,
+          0.616279069783999,
+          0.49060151109241035,
+          0.6729651160680451
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution (by Richard Stanley): Let A be the matrix (i 2) A simple induction argument shows thar",
+        "bbox": [
+          0.556390973024131,
+          0.6408730162268876,
+          0.9191729335078241,
+          0.6874999996192912
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: We proceed by induction on the degree of p, with base case where p has degree 0. As in the first solution, we may reduce to a smaller degree in case p has any real roots, so assume it has none. Then p(x) > 0 for all real x, and since p(x) → oo for x → 100, p has a minimum value c. Now p(x) - c has real roots, so as above, we deduce that p(x) - c is a sum of squares. Now add one more square, namely (Vc)?, to get p(x) as a sum of squares.",
+        "bbox": [
+          0.12593986412528077,
+          0.6802325580349678,
+          0.4924812094335758,
+          0.8095930231363014
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_25",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_25",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.640321475758272,
+          0.699882978959517,
+          0.7939560116038603,
+          0.7305523126775568
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The desired result now follows from comparing the top left corner entries of the equality A\"+2 A\"#2 = A2n+4",
+        "bbox": [
+          0.5563909939958868,
+          0.745535714500404,
+          0.9191729339968752,
+          0.7748015875016108
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_27",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-4 Denote the series by S, and let an = 3\" /n. Note that",
+        "bbox": [
+          0.5244361023420809,
+          0.789186508028852,
+          0.8966165366804753,
+          0.8023313492986931
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_28",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6296992467587759,
+          0.8168604647666415,
+          0.803466604966604,
+          0.8921370559885191
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_12",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-3 First solution: Computing the coefficient of x\"+' in the identity (1-2x-12) Em=0Am' = 1 yields the recurrence an+1 = 2an + an-t; the sequence {an) is then characterized by this recurrence and the initial conditions ao = 1, a1 = 2.",
+        "bbox": [
+          0.09586466233989613,
+          0.8226686507194755,
+          0.49060150202286157,
+          0.8953488371796322
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Define the sequence {b,} by bzn = a? n-tan, ban+1 =",
+        "bbox": [
+          0.1314200081332437,
+          0.8995954386817564,
+          0.48684210328947375,
+          0.9171626983952512
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_29",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where the second equality follows by interchanging m",
+        "bbox": [
+          0.5582706749786888,
+          0.9040178570103422,
+          0.9191729250213115,
+          0.9171626982801835
+        ],
+        "order": 30
+      }
+    ]
+  }
+]

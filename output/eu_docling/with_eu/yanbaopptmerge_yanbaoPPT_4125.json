@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4125",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_4125_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_4125_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ПіДА-",
+        "bbox": [
+          0.8255813976759204,
+          0.010335917207167616,
+          0.9985465079703231,
+          0.08010335953701846
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_4125_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7888619330298556,
+          0.11240059407552083,
+          0.9834215974468036,
+          0.9628326009114583
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4125",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_4125_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_4125_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LABC+ LADC=180° A. < EBF=1/2 LABC° A4* EF",
+        "bbox": [
+          0.03620284396531264,
+          0.5160397969977687,
+          0.7922763264181896,
+          0.5794107219860998
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4125",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_4125_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_4125_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "АД: АЛИНМД АВС |, LABC =90°, E . F 7S AC t:",
+        "bbox": [
+          0.0333333333333333,
+          0.7555555573394528,
+          0.7833333333333332,
+          0.8223104047364919
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

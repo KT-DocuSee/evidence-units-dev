@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2",
+    "primary_id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_2",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "附录：",
+        "bbox": [
+          0.0709391374445788,
+          0.11742910075530853,
+          0.12817412333736397,
+          0.13738064700014252
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "（一）公司财务预测表",
+        "bbox": [
+          0.0773881499395405,
+          0.16303263502921475,
+          0.2740830310358726,
+          0.18127404873877725
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06932688432083838,
+          0.1943850648425253,
+          0.4909310761789601,
+          0.582585150349152
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_4",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：公司数据 中国银河证券研究院",
+        "bbox": [
+          0.0709391374445788,
+          0.8681772837394898,
+          0.3135832325675131,
+          0.8801482114863902
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2",
+    "primary_id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5086658605401048,
+          0.1926749323072538,
+          0.9302700523982266,
+          0.50334900954824
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2",
+    "primary_id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.509471987101975,
+          0.519880290722531,
+          0.9294639258363563,
+          0.8664671512042184
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2",
+    "primary_id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_6e1cdb75430fe7d7a7757754d163d1a4a8a1c2a3fca38b74a8a2e8df009f2ce0.pdf_2_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06932688432083838,
+          0.6002565198802907,
+          0.4917372027408303,
+          0.8658971070257945
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

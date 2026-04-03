@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_005",
+    "primary_id": "docling_PPT_EnglishtoAmericanTransition_page_005_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_005_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "The Truth About American",
+        "bbox": [
+          0.06666668577681667,
+          0.1499999993287438,
+          0.7666666615565165,
+          0.21111111144903408
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_005_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Over time, the two varieties of English became increasingly different",
+        "bbox": [
+          0.07412790572769769,
+          0.2693798457008764,
+          0.9273255787381454,
+          0.3837209291692021
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_005_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "The differences between American and British is not due to American changing from a British standard",
+        "bbox": [
+          0.07558140160768911,
+          0.4669312173704654,
+          0.9491279023960132,
+          0.6319444441715256
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_005",
+    "primary_id": "docling_PPT_EnglishtoAmericanTransition_page_005_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_005_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Present-day British is no closer to that earlier form than present-day American iS",
+        "bbox": [
+          0.11666668067863373,
+          0.8055555551204104,
+          0.954941841505186,
+          0.9709302329069208
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

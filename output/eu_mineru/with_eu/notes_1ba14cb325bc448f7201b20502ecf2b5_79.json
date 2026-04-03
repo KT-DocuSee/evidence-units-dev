@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_79",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_79_0",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_79_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.0502092050209205,
+          0.15678524374176547,
+          0.9502556950255695,
+          0.49604743083003955
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_79_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "青藏地区和西北地区",
+        "bbox": [
+          0.08554160855416086,
+          0.5125164690382081,
+          0.303114830311483,
+          0.5349143610013175
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_79_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.“干旱“的西北地区和“高寒“的青藏地区",
+        "bbox": [
+          0.11157601115760112,
+          0.5454545454545454,
+          0.5430032543003255,
+          0.5685111989459816
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_79_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.西北地区的干旱的原因",
+        "bbox": [
+          0.11157601115760112,
+          0.5783926218708827,
+          0.37563923756392376,
+          0.5981554677206851
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_79",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_79_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_79_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09762900976290098,
+          0.6014492753623188,
+          0.9446768944676894,
+          0.9104084321475626
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

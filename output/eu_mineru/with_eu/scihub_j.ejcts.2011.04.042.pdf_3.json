@@ -1,0 +1,340 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TableThefrequeny ofin-hospital rtalit, rght-ventriculr furend theandyear ctuarial uvival nd urvi condition of hospital discharge",
+        "bbox": [
+          0.09876543209876543,
+          0.08435745713852223,
+          0.8982951205173427,
+          0.11227431345774541
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09798157946306095,
+          0.12198452435138826,
+          0.9069174995100922,
+          0.2275830678197542
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "The figures are given as the percentage of the denominator available. RV: right ventricle.",
+        "bbox": [
+          0.1011169900058789,
+          0.23850705507510242,
+          0.4585537918871252,
+          0.2609619177666515
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10503625318440134,
+          0.3076923076923077,
+          0.45463452870860277,
+          0.5668335609164011
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_9",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.538506760728983,
+          0.30829919587316035,
+          0.8951597099745248,
+          0.5279927173418297
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_10",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 2: Kaplan-Meier survival plots of the midterm survival according to the weight mismatch tertile group, on the condition of discharge from hos- pital. The plots were not significantly different, log-rank p = 0.136.",
+        "bbox": [
+          0.5149911816578483,
+          0.535275375512062,
+          0.9171075837742504,
+          0.5698680018206645
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_4",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 1: Kaplan-Meier survival plots of the overall actuarial survival accord- ing to the weight mismatch tertile group, from the time of operation to final follow-up. There was reduced survival among those in the lowest tertile group, log-rank p=0.04.",
+        "bbox": [
+          0.0815206741132667,
+          0.5735093309057806,
+          0.48363707622966884,
+          0.6190259444697315
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The mean period of ventilation post transplant was 302.7 h (SD 617.8), median 102 h (IQR298). On Spearman's rank correl- ation, this was not associated with the donor/recipient weight ratio (Fig. 3)(p=-0.12, p=0.14). Even when excluding the 11 patients who had been intubated for more than 100 h, there was no association (p = −0.10, p = 0.38) (Fig.4).",
+        "bbox": [
+          0.5165588869292573,
+          0.6081019572143832,
+          0.9163237311385459,
+          0.6906387498103475
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "tertile groups. Plotting survival to the end of the follow-up period (Fig. 2 and Table 3) showed that there was no statistically significant difference in long-term survival between the three tertile groups (log-rank p = 0.13).",
+        "bbox": [
+          0.08308837938467568,
+          0.6445152480655439,
+          0.4828532235939643,
+          0.6997420725231376
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The mean period of ITU stay was 448 h (SD 749.2), median 184 h (IQR374). On Spearman's rank correlation, this was also not related to the weight ratio (p = −0.04, p = 0.58) (Fig. 5). Again, if the six patients who were in the ITU for more than 2000 h were excluded, there was still no association (p <0.01, p = 0.98).",
+        "bbox": [
+          0.5165588869292573,
+          0.6918525261720528,
+          0.9171075837742504,
+          0.7598240024275528
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Of the 104 patients who had received an ambulatory blood- pressure analysis during their follow-up period, 25 (18.4%) were hypertensive and receiving treatment for it. On Kaplan-Meier analysis of freedom from hypertension from the time of hospital discharge to date of last ambulatory blood-pressure measure- ment, there was no difference between the three weight groups (log-rankp = 0.39) (Fig. 3).",
+        "bbox": [
+          0.08387223202038017,
+          0.700955848884843,
+          0.48363707622966884,
+          0.7974510696404188
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_13",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_13",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Extreme mismatch subgroup",
+        "bbox": [
+          0.5173427395649618,
+          0.8047337278106509,
+          0.7399568881050362,
+          0.8205128205128205
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "section_text_panel",
+    "page": "scihub_j.ejcts.2011.04.042.pdf_3",
+    "primary_id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_7",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Secondary outcome measures",
+        "bbox": [
+          0.08543993729178914,
+          0.8332574723107268,
+          0.31824417009602196,
+          0.847822788651191
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "There were nine patients in whom the donor-recipient weight mismatch was 3 or greater (5.5%). By the end of the follow-up period，, there was only 11%(1/9) mortality, compared with 18.2% (23/126) for those with a ratio of <3 (p = 0.76).",
+        "bbox": [
+          0.5165588869292573,
+          0.834471248672432,
+          0.9163237311385459,
+          0.8896980731300258
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Data on postoperative RV function was available in 158 out of 161 patients. Thirty-eight patients (24%) developed RV failure. In the lower tertile group, 18.9% developed postoperative RV failure, in the midle group 24.5% and in the upper tertile group 28.8%; this was not statistically different (p = 0.48) (Table 3).",
+        "bbox": [
+          0.08387223202038017,
+          0.8623881049916553,
+          0.4844209288653733,
+          0.9309664694280079
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_scihub_j.ejcts.2011.04.042.pdf_3_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "At the end of the follow-up period, of the six patients with 'extreme'mismatch who had been investigated with ambulatory blood-pressure measurement, only one was being treated for",
+        "bbox": [
+          0.5157750342935528,
+          0.8903049613108784,
+          0.9163237311385459,
+          0.9309664694280079
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

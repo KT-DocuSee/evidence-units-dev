@@ -1,0 +1,94 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_79",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_79_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_79_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7745901653876061,
+          0.10465116313629097,
+          0.8094262290796068,
+          0.11482558138890285
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_79",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_79_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_79_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "1k | * * | #71710: 4717. | # th | 1k | * * | ME. *(#TAR) | ** | 1k | tipe demen | 1k | MIA | 1k | 1k | 1k | 1k",
+        "bbox": [
+          0.04779970496269449,
+          0.15847476763216403,
+          0.9576619466145834,
+          0.4998620979399549
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_79",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_79_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_79_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "\"THEATRE A MARR",
+        "bbox": [
+          0.11270490917825135,
+          0.5465116280971308,
+          0.5430327871332242,
+          0.5697674417865899
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_79",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_79_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_79_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "I 7k 10 Ex | 7 H | LAR. LIKE | ZIE | 7ттт | 117 | 727t | 117 | HE FATE-# | 727t | BIt) | MARAN (ARE) | Let 7198)",
+        "bbox": [
+          0.08181861121950455,
+          0.6018562769230176,
+          0.9520986389415533,
+          0.9088123306455348
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

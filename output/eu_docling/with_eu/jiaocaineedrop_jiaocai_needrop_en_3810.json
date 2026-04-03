@@ -1,0 +1,156 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3810",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_5",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.057561687575574366,
+          0.002510894002339533,
+          0.3009727505703503,
+          0.06774215404678481
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "F: ЛЕДЖ25117",
+        "bbox": [
+          0.09445585681926502,
+          0.2557043649186807,
+          0.34291581056608744,
+          0.2703488368175924
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AM, ПХА АПАР, ПАСИР ДИШ? Й, ПАШИВИДАННВР",
+        "bbox": [
+          0.09445586074417482,
+          0.32837301574260214,
+          0.9075975431161946,
+          0.345982142726729
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.09530244801900695,
+          0.5511907778931969,
+          0.48131338947485264,
+          0.5834166619348546
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3810",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "5 # 79 (7 719 7)",
+        "bbox": [
+          0.3408624309766678,
+          0.14087301561393975,
+          0.6488706329717042,
+          0.16145833307425714
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3810",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.737156195680925,
+          0.3756551820021911,
+          0.9003275233572022,
+          0.483608237695062
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3810",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7605345794050408,
+          0.587609012598867,
+          0.900251210961117,
+          0.7132707182389643
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3810",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3810_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7711474638896236,
+          0.7925063545452117,
+          0.9028005911332376,
+          0.9133143170158188
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

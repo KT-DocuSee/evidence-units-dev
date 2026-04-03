@@ -1,0 +1,409 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "converges absolutely, and JB cos(x2 − x) can be treated similarly.",
+        "bbox": [
+          0.12784313725490196,
+          0.06484848484848485,
+          0.49019607843137253,
+          0.09575757575757576
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Therefore, if 0 ≤ a0 ≤ a1 ≤ ·· ≤ ar < 1 are the roots of fk in [0, 1), then fk+1 has a root in each of the in- tervals (a0, a1), (a1, a2),. . ., (ar−1, ar), so 1ong as we adopt the convention that the empty interval (t,t) ac- tually contains the point t itself. There is also a root in the \"wraparound\" interval (ar, ao). Thus Nk+1 ≥ Nk.",
+        "bbox": [
+          0.556078431372549,
+          0.06606060606060606,
+          0.92,
+          0.15454545454545454
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–5 Let a, b, c be the distances between the points. Then the area of the triangle with the three points as vertices is abc /4r. On the other hand, the area of a triangle whose vertices have integer coordinates is at least 1/2 (for ex- ample, by Pick's Theorem). Thus abc/4r ≥ 1/2, and SO",
+        "bbox": [
+          0.09333333333333334,
+          0.10545454545454545,
+          0.49019607843137253,
+          0.1921212121212121
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Next, note that if we set z = e2πit; then is equal to z−N times a polynomial of degree 2N. Hence as a function of z, it has at most 2N roots; therefore fk(t) has at most 2N roots in [0, 1]. That is, Nk ≤ 2N for all N.",
+        "bbox": [
+          0.5576470588235294,
+          0.15757575757575756,
+          0.8109803921568628,
+          0.17333333333333334
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.23515151515151514,
+          0.9192156862745098,
+          0.29333333333333333
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–6 Recall that if f (x) is a polynomial with integer coeff - cients, then m − n divides f (m) − f (n) for any integers m and n. In particular, if we put bn = an+1 − an, then bn divides bn+1 for all n. On the other hand, we are given that ao = am = 0, which implies that a1 = am+1 and so b0 = bm. If b0 = 0, then a0 = a1 = . . = am and we are done. Otherwise, |b0| = |b1| = |b2| = · . ·, so bn = ±b0 for all n.",
+        "bbox": [
+          0.09333333333333334,
+          0.23636363636363636,
+          0.49019607843137253,
+          0.35333333333333333
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To establish that Nk → 2N, we make precise the obser- vation that",
+        "bbox": [
+          0.5568627450980392,
+          0.29818181818181816,
+          0.9176470588235294,
+          0.32727272727272727
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now b0 + · · + bm−1 = am − a0 = 0, so half of the inte- gers bo, . .. , bm–1 are positive and half are negative. In particular, there exists an integer 0 < k < m such that bk−1 = −bk, which is to say, ak−1 = ak+1. From this it follows that an = an+2 for all n ≥ k − 1; in particular, for m = n, we have",
+        "bbox": [
+          0.12627450980392158,
+          0.3575757575757576,
+          0.49019607843137253,
+          0.4448484848484848
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_13",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "is dominated by the term with j = N. At the points t = (2i + 1)/(2N) for i = 0, 1, . ., N − 1, we have N4kaN sin(2πNt) = ±N4kaN. If k is chosen large enough so that",
+        "bbox": [
+          0.5552941176470588,
+          0.38606060606060605,
+          0.9192156862745098,
+          0.4448484848484848
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "then fk(2i + 1)/2N) has the same sign as a sin(2πNat), which is to say, the sequence fk(1/2N), fk(3/2N), . alternates in sign. Thus be- tween these points (again including the \"wraparound\" interval) we find 2N sign changes of fk. Therefore limk→∞Nk = 2N.",
+        "bbox": [
+          0.556078431372549,
+          0.48303030303030303,
+          0.9192156862745098,
+          0.5709090909090909
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−1 Consider the seven triples (a, b, c) with a, b, c ∈ {0, 1} not all zero. Notice that if rj, Sj, t j are not all even, then four of the sums arj + bsj + ct j with a, b, c ∈ {0, 1} are even and four are odd. Of course the sum with a = b = c = 0 is even, so at least four of the seven triples with a, b, c not all zero yield an odd sum. In other words, at least 4N of the tuples (a, b, c, j) yield odd sums. By the pigeonhole principle, there is a triple (a, b, c) for which at least 4N /7 of the sums are odd.",
+        "bbox": [
+          0.09411764705882353,
+          0.48848484848484847,
+          0.49019607843137253,
+          0.6206060606060606
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B4 For t real and not a muliple of π, write g(t) = f(cos) Then g(t + π) = g(t); furthermore, the given equation implies that",
+        "bbox": [
+          0.5231372549019608,
+          0.58,
+          0.9192156862745098,
+          0.6266666666666667
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–2 Since gcd(m, n) is an integer linear combination of m and n, it follows that",
+        "bbox": [
+          0.09333333333333334,
+          0.6296969696969696,
+          0.49019607843137253,
+          0.6587878787878788
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In particular, for any integer n and k, we have",
+        "bbox": [
+          0.5568627450980392,
+          0.6824242424242424,
+          0.8549019607843137,
+          0.696969696969697
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "is an integer linear combination of the integers and hence is itself an integer.",
+        "bbox": [
+          0.12549019607843137,
+          0.7127272727272728,
+          0.432156862745098,
+          0.7278787878787879
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since f is continuous, g is continuous where it is de- fined; but the set {1 + nπ/2k|n, k ∈ Z} is dense in the reals, and so g must be constant on its domain. Since g(−t) = −g(t) for all t, we must have g(t) = 0 when t is not a multiple of π. Hence f(x) = 0 for x ∈ (−1, 1). Finally, setting x = 0 and x = 1 in the given equation yields f (−1) = f (1) = 0.",
+        "bbox": [
+          0.556078431372549,
+          0.7357575757575757,
+          0.92,
+          0.8387878787878787
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.12705882352941175,
+          0.7818181818181819,
+          0.3184313725490196,
+          0.796969696969697
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−3 Put fk(t) = dyk Recall Rolle's theorem: if f(t) is dif- ferentiable, then between any two zeroes of f (t) there exists a zero of f'(t). This also applies when the zeroes are not all distinct: if f has a zero of multiplicity m at t = x, then f′ has a zero of multiplicity at least m — 1 there.",
+        "bbox": [
+          0.09411764705882353,
+          0.806060606060606,
+          0.49019607843137253,
+          0.8993939393939394
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–5 We claim that all integers N of the form 2k, with k a positive integer and N > max{So}, satisfy the desired conditions.",
+        "bbox": [
+          0.5231372549019608,
+          0.8466666666666667,
+          0.9192156862745098,
+          0.8915151515151515
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

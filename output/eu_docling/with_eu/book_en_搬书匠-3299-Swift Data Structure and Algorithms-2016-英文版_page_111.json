@@ -1,0 +1,172 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111",
+    "primary_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_1",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The sink and swim methods were inspired by the book Algorithms by Sedgewick and Wayne, Fourth Edition, Section 2.4.",
+        "bbox": [
+          0.22361360955215384,
+          0.10901162832542352,
+          0.8282647567448048,
+          0.14682539661120744
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The structure accepts any type that conforms to the Comparable protocol. The single initializer allows you to optionally specify the sorting order and a list of starting values. The default sorting order is descending and the default starting values are an empty collection:",
+        "bbox": [
+          0.10196780703595293,
+          0.19912790747613354,
+          0.8944543867539778,
+          0.2558139527901286
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_3",
+        "observed_type": "code",
+        "canon_role": "support_paragraph",
+        "text": "/// Initialization var priorityQueue = PriorityQueue<String >(ascending: true) 1/1 Initializing with starting values priorityQueue = PriorityQueue<String > (ascending: true, startingValues: [\"Coldplay\", \"OneRepublic\", \"Maroon 5\", \"Imagine Dragons\", \"The Script\"]) var x = priorityQueue.pop () /// Coldplay x= priorityQueue.pop () /// Imagine Dragons",
+        "bbox": [
+          0.13595706870107058,
+          0.26884920619941277,
+          0.8640588535626283,
+          0.46241189640948527
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111",
+    "primary_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_10",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1302835687677911,
+          0.10985714805763776,
+          0.20639527097661445,
+          0.1740509643224946
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111",
+    "primary_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_4",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Protocols",
+        "bbox": [
+          0.10542322419497666,
+          0.503775056044705,
+          0.2595141614356331,
+          0.5267481999098967
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The PriorityQueue conforms to sequence, collection, and IteratorProtocol, so you can treat it like any other Swift sequence and collection:",
+        "bbox": [
+          0.10375670594416735,
+          0.5391865082818801,
+          0.8944543863827726,
+          0.5771329364908874
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_6",
+        "observed_type": "code",
+        "canon_role": "support_paragraph",
+        "text": "extension PriorityQueue: IteratorProtocol { public typealias Element = T mutating public func next () -> Element? { return pop () } extension PriorityQueue: Sequence { public typealias Iterator = PriorityQueue public func makeIterator () -> Iterator & return self}",
+        "bbox": [
+          0.1377459765070682,
+          0.5900297617197422,
+          0.7352414913738284,
+          0.7165697675696516
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This allows you to use Swift standard library functions on a PriorityQueue and iterate through a PriorityQueue like this:",
+        "bbox": [
+          0.10375670227222364,
+          0.7514534889683816,
+          0.8622540109248885,
+          0.7877906979903584
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_8",
+        "observed_type": "code",
+        "canon_role": "support_paragraph",
+        "text": "for x in priorityQueue { print (x) } // Coldplay",
+        "bbox": [
+          0.1395348836721047,
+          0.8037790697753098,
+          0.3774597478158703,
+          0.8808139535142082
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111",
+    "primary_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_9",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_111_9",
+        "observed_type": "page_footer",
+        "canon_role": "topic_title",
+        "text": "[97]",
+        "bbox": [
+          0.4776386409848852,
+          0.9127906979353146,
+          0.5223613599095693,
+          0.9273255810181739
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "of patient-reported nonadherence equivalent to major defaulting on 20–30% of days would be needed to accord with comparable nonadherence estimates of 6% of patients made by their physicians (Table 2).",
+        "bbox": [
+          0.09347442680776014,
+          0.09629990936782985,
+          0.47442680776014107,
+          0.15733506319251075
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 3. Major frustrations reported by BPD patients",
+        "bbox": [
+          0.49382716049382713,
+          0.099012582871149,
+          0.8095238095238095,
+          0.11121961363608518
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_6",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.49206349206349204,
+          0.11393228713940433,
+          0.8765432098765432,
+          0.33365884090825554
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_8",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Physician assessments of treatment",
+        "bbox": [
+          0.49559082892416223,
+          0.40961369900119177,
+          0.7477954144620811,
+          0.4245334032694471
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "When psychiatrists were asked to report improve- ments in treatments for BPD patients needed to increase acceptance and adherence to treatment, the most common response was the need for better mood-stabilization in 48.0% of their 429 patients. In addition, they identified freedom from weight-gain as important for treatment-acceptance among 29.1% of their patients, and improvement of treatment- unresponsive depression in 30.8%. They also esti- mated that at least 59.0% of their BPD patients had experienced adverse effects of psychotropic medi- cations at some time in the past, that adverse effects were of current concern to 14.0% of patients (60/429), and were considered by their physicians to be severe in 15.0% (9/60) of that subgroup. Psychiatrists reported further that 30.5% of their 429 BPD patients had experienced weight-gain in association with current treatment, with substantial prevalence of hyperlipide- mia (19.1%) and diabetes (8.62%) and identified these as problems of particular clinical concern.",
+        "bbox": [
+          0.49382716049382713,
+          0.43131508702774496,
+          0.8747795414462081,
+          0.728352835641192
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "When asked a general question about major frustrations of having BPD, patients cited factors related to the illness as well as its treatment (Table 3). Most commonly cited major burdens involving ≥ 40% of 423 patients providing such data were: mood swings (66.4%) > depression (56.3%) > need for daily self- medication (51.1%) > stigma of being considered mentally ill (43.5%) > uncertain interpersonal relation- ships (40.4%) ≥ medication side-effects (40.2%). Prominent adverse effects associated with treatment- nonadherence, as identified by the 145 patients with self-reported nonadherence, ranked:weight-gain (58.5%) ≥ excessive sedation (54.2%) > physical awk- wardness or tremor (33.1%).",
+        "bbox": [
+          0.09347442680776014,
+          0.6781683758297877,
+          0.47266313932980597,
+          0.8843315620820431
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We compared treatment-nonadherent with treatment- adherent patients on a list of factors identified in the PSF and PRF questionnaires, which yielded a total of 59 variables tentatively related to treatment adherence, based on initial univariate comparisons (p ≤ 0.10), and 43 significantly (p < 0.05) associated",
+        "bbox": [
+          0.49382716049382713,
+          0.7961696732241708,
+          0.8747795414462081,
+          0.8856878988337027
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "These self-reports of incomplete adherence with prescribed treatments for BPD in one-third of patients are unverified, but the risk of under-reporting may be limited by the very sensitive standard applied in an effort to detect the \"worst case' for incomplete treatment-adherence. In addition to the self-reported, recent incomplete treatment-adherence just noted, 32.9% [137/417] of patients also reported having discontinued all recommended medications for BPD at some point in the past, without informing their physicians. Leading reasons given for such patient- initiated discontinuation of treatment, among 130 patients providing such information, ranked: (a) not needing it any longer (22.3%) > (b) no longer wanting to take it (18.5%) > (c) side effects (13.1%]) > (d) feeling better at the time (10.8%).",
+        "bbox": [
+          0.09347442680776014,
+          0.15733506319251075,
+          0.47266313932980597,
+          0.39333765798127684
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_7",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Responding patients (N = 423; 98.6%) cited four major frustrations/ person (1708/423).",
+        "bbox": [
+          0.49206349206349204,
+          0.3377278511632343,
+          0.8747795414462081,
+          0.36214191269310664
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The rate of reported major defaulting in the past (32.9%) and the rate of missing recent single doses (33.8%) is similar, and many cases of previous and current nonadherence (45.0%) involved the same persons. Both rates represent about one-third of all treated patients with BPD sampled, indicating that some degree of treatment-nonadherence may be quite prevalent among contemporary American BPD patients. The apparently large disparity between physicians' impressions and patient self-reports is noteworthy, but may reflect differences in definitions of \"nonadherence,' such that physicians self-defined nonadherence was likely to reflect clinically important levels of missed dosing over undefined periods of risk, whereas patients were asked about even single missed doses within 10 recent days.",
+        "bbox": [
+          0.09347442680776014,
+          0.3946939947329364,
+          0.47266313932980597,
+          0.6320529262733621
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Patient assessments of illness and its treatmeni",
+        "bbox": [
+          0.09523809523809523,
+          0.655110651051575,
+          0.43033509700176364,
+          0.6700303553198302
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_10",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.908.pdf_5_10",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Univariate analyses of factors associated with treatment-nonadherence",
+        "bbox": [
+          0.49382716049382713,
+          0.7595485809293622,
+          0.8289241622574955,
+          0.7880316527142133
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

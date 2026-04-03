@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092",
+    "primary_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "However, since a1 + a0 = 0, we get f′(x) = (4x − 1) f (x) + 2xf′(x) or, yet,",
+        "bbox": [
+          0.14305214305214306,
+          0.3356744102287052,
+          0.8594048594048594,
+          0.3558436880965244
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In order to integrate (i.e., to find the solutions of) the above differential equation, note first that f is positive in some interval (−r, r), for some 0 < r ≤ 2 (this comes from the fact that f (O) = ao = 1 > 0 and f , being differentiable, is continuous, hence has the same sign as f (O) in a suitable neighborhood of O). Thus, for |x| < r we can write",
+        "bbox": [
+          0.14523614523614523,
+          0.40770754547091664,
+          0.8812448812448812,
+          0.498469295876103
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and then, fr x| < r ≤ 2,",
+        "bbox": [
+          0.14742014742014742,
+          0.561858454889249,
+          0.38875238875238877,
+          0.5827480641094903
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092",
+    "primary_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hence, fo | < r ≤ 2 we have",
+        "bbox": [
+          0.14742014742014742,
+          0.7340176481181343,
+          0.44335244335244334,
+          0.7549072573383756
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0092_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Step I:firstly, recall that the power series expansion of e-2x is given by ltig a = —2 in (3.8), and is valid in the whole real line:",
+        "bbox": [
+          0.1233961233961234,
+          0.8089321087700342,
+          0.8812448812448812,
+          0.8463893390959841
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

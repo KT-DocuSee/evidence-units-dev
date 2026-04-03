@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_LEP power point presentation-English-FINAL-10-31-07_page_015",
+    "primary_id": "mineru_PPT_LEP power point presentation-English-FINAL-10-31-07_page_015_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_LEP power point presentation-English-FINAL-10-31-07_page_015_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Thank You!",
+        "bbox": [
+          0.3586666666666667,
+          0.09777777777777778,
+          0.6386666666666667,
+          0.17066666666666666
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_LEP power point presentation-English-FINAL-10-31-07_page_015_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.29,
+          0.1768888888888889,
+          0.9753333333333334,
+          0.8382222222222222
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_LEP power point presentation-English-FINAL-10-31-07_page_015",
+    "primary_id": "mineru_PPT_LEP power point presentation-English-FINAL-10-31-07_page_015_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_LEP power point presentation-English-FINAL-10-31-07_page_015_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "'..promoting the well-being and safety of our children, families and communities ...\"",
+        "bbox": [
+          0.15266666666666667,
+          0.8462222222222222,
+          0.8913333333333333,
+          0.9493333333333334
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SO",
+        "bbox": [
+          0.1278195495208712,
+          0.07122093044591565,
+          0.14473684187950467,
+          0.07994186010641008
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_1",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1378043410357307,
+          0.09175902626731179,
+          0.43641813390395223,
+          0.12887367942116476
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remarks: The first two solutions are related by the fact that if x = tan(0), then 1 - x/(1 +x) = tan(7/4 0). The strategy of the third solution (introducing a parameter then differentiating it) was a favorite of physics Nobelist (and Putnam Fellow) Richard Feynman. The fifth solution resembles Gauss's evaluation of J= exp(-**)dx. Noam Elkies notes that this integral is number 2.491#8 in Gradshteyn and Ryzhik, Table of integrals, series, and products. The Mathematica computer algebra system (version 5.2) successfully computes this integral, but we do not know how.",
+        "bbox": [
+          0.12755994504972729,
+          0.14087301583556744,
+          0.4907364010555241,
+          0.2979651161767253
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-1 Take P(x, y) = (y - 2x) (y - 2x - 1). To see that this works, first note that if m = (a], then 2m is an integer less than or equal to 2a, so 2m < [2a. On the other hand, m + 1 is an integer strictly greater than a, so 2m + 2 is an integer strictly greater than 2a, so 2a ≤ 2m + 1.",
+        "bbox": [
+          0.5225563814148033,
+          0.2093023259585705,
+          0.9210526404235507,
+          0.2819940474322479
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-2 By the arithmetic-harmonic mean inequality or the Cauchy-Schwarz inequality,",
+        "bbox": [
+          0.5244360949874686,
+          0.2921511634377686,
+          0.9191729370927315,
+          0.3197674419480747
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-6 First solution: The angle at a vertex P is acute if and only We or the oth only if all of the other points lie on an open semicircle. We first deduce from this that if there are any - pom the ca in two acute angles at all, they must occur consecutively. Suppose the contrary; label the vertices Q1,..., In in counterclockwise order (starting anywhere), and suppose that the angles at li and li are acute for some i with 3 ≤ i In - 1. Then the open semicircle starting at &2 and proceeding counterclockwise must contain all of @3,..., In, while the open semicircle starting at Qi and proceeding counterclockwise must contain li+ 1,., In, l1,..., Li-1. Thus two open semicircles cover the entire circle, contradiction.",
+        "bbox": [
+          0.0958646682330825,
+          0.30952380937412644,
+          0.49071699260842894,
+          0.4956395348177136
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_11",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_11",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5957602108226103,
+          0.33222007057883524,
+          0.8407054227941176,
+          0.367125937721946
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We must thus have 5n - 4≥n', son ≤ 4. Without loss of generality, we may suppose that k1 ≤ ... ≤ kn.",
+        "bbox": [
+          0.5580602078815711,
+          0.3734942246444323,
+          0.9193998112517773,
+          0.4055232558397899
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If n = 1, we must have k1 = 1, which works. Note that hereafter we cannot have k1 = 1.",
+        "bbox": [
+          0.558122194799988,
+          0.41133720909480315,
+          0.9210526373612072,
+          0.43931662544979233
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If n = 2, we have (k1, k2) € 1(2,4), (3,3) j, neither of which work.",
+        "bbox": [
+          0.5563909784614601,
+          0.44618055554207764,
+          0.9210526177812711,
+          0.4724702380248967
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If n = 3, we have k1 + k2 + k3 = 11, so 2 ≤ k1 ≤ 3. Hence",
+        "bbox": [
+          0.5582706772006549,
+          0.4796511627030882,
+          0.9210526380050044,
+          0.5043604649947653
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It follows that if the polygon has at least one acute angle, then it has either one acute angle or two acute angles occurring consecutively. In particular, there is a unique pair of consecutive vertices @1, 2 in counterclockwise order for which <Q is acute and <Q, is not acute. Then the remaining points all lie in the arc from the antipode of li to Qi, but Q2 cannot lie in the arc, and the remaining points cannot all lie in the arc from the antipode of Qi to the antipode of Q2. Given the choice of Qi, l2, let x be the measure of the counterclockwise arc from li to Qz; then the probability that the other points fall into position is 2-n+2 - 4\"-2 if x ≤ 1/2 and 0 otherwise.",
+        "bbox": [
+          0.1259398494171223,
+          0.5043604650853871,
+          0.49060151260400175,
+          0.6889880954251161
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_16",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5244360938035472,
+          0.521802325936768,
+          0.9097744228787841,
+          0.5364583332266545
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and only (2,3,6) works.",
+        "bbox": [
+          0.5563909825579472,
+          0.547867063617011,
+          0.7180451109006993,
+          0.5625000001249475
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If n = 4, we must have equality in the AM-HM inequality, which only happens when k1 = k2 = k3 = k4 = 4.",
+        "bbox": [
+          0.5563909790156721,
+          0.5682043651241705,
+          0.9191729331416121,
+          0.5944940474066908
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hence the solutions are n = 1 and k1 = 1, n = 3 and (k1, k2, k3) is a permutation of (2,3,6), and n = 4 and (k1, k2, k3, k4) = (4,4,4,4).",
+        "bbox": [
+          0.5563909749978152,
+          0.5974414406753029,
+          0.9193476295954873,
+          0.6453488368539295
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: In the cases n = 2,3, Greg Kuperberg suggests the alternate approach of enumerating the solutions of 1/k1 + ... + 1/kn= 1 with k1 ≤ ... ≤ kn. This is easily done by proceeding in lexicographic order: one obtains (2,2) for n = 2, and (2,3, 6), (2,4,4), (3,3,3) for n = 3, and only (2,3,6) contributes to the final answer.",
+        "bbox": [
+          0.5545112848301682,
+          0.6497093025864773,
+          0.919172938756884,
+          0.7485465113418752
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hence the probability that the polygon has at least one acute angle with a given choice of which two points will act as li and l2 is",
+        "bbox": [
+          0.12781955060871733,
+          0.6961805555560558,
+          0.49060151109241035,
+          0.7383720923761847
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.334586466684915,
+          0.7587209302067219,
+          0.4172932322944902,
+          0.7790697670104798
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_21",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-3 First solution: The functions are precisely f(x) = cx for c, d > 0 arbitrary except that we must take c = 1 in tion holds if and only if dc? ad-1 = 1. If d # 1, we may solve for a no matter what c is; if d = 1, we must have c = 1. (Thanks to Brad Rodgers for pointing out the d = 1 restriction.)",
+        "bbox": [
+          0.5244360892744201,
+          0.7601686505670697,
+          0.919172934964591,
+          0.8735465113913254
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since there are n(n - 1) choices for which two points act as li and @2, the probability of at least one acute angle is n(n - 2)2-n+1.",
+        "bbox": [
+          0.12746288285053298,
+          0.7936046512823033,
+          0.49060151109241035,
+          0.8383854388497278
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: (by Calvin Lin) As in the first solution, we may compute the probability that for a particular one of the points 1, the angle at l, is not acute but the following angle is, and then multiply by n. Imagine picking the points by first choosing 1, then picking n - 1 pairs of antipodal points and then picking one member of each pair. Let R2,...,R, be the points of the pairs which lie in the semicircle, taken in order away from 21, and let S2,...,Sn be the antipodes of these. Then to get the desired situation, we must choose from the pairs to end up with all but one of the Si, and we cannot take R, and the other S; or else <Q, will be acute. That gives us (n - 2) good choices out of 2\"-1; since we could have chosen Q, to be any of the n points, the probability is again n(n - 2)2-n+1.",
+        "bbox": [
+          0.1278195427844694,
+          0.8415178569316114,
+          0.49060151260400175,
+          0.9273313493168618
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_22",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To check that these are all solutions, put b = log(a) and y = 10g(a/x); rewrite the given equation as",
+        "bbox": [
+          0.556390987987135,
+          0.8821924604907467,
+          0.9191729331416121,
+          0.9099702380077286
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_23",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6447368435526316,
+          0.9215116284790404,
+          0.7894736856578948,
+          0.9389880953921125
+        ],
+        "order": 24
+      }
+    ]
+  }
+]

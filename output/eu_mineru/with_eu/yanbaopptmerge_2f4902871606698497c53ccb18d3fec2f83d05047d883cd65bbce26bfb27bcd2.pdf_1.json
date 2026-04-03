@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1",
+    "primary_id": "mineru_yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表1：重点公司盈利预测及投资评级",
+        "bbox": [
+          0.07980652962515115,
+          0.13225024939432806,
+          0.31680773881499397,
+          0.14593130967649992
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1",
+    "primary_id": "mineru_yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08141878274889158,
+          0.1470713980333476,
+          0.9238210399032648,
+          0.37793929029499784
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1",
+    "primary_id": "mineru_yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2f4902871606698497c53ccb18d3fec2f83d05047d883cd65bbce26bfb27bcd2.pdf_1_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：Wind、国信证券经济研究所整理及预测",
+        "bbox": [
+          0.07900040306328093,
+          0.3802194670086932,
+          0.3756549778315195,
+          0.39333048311244123
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

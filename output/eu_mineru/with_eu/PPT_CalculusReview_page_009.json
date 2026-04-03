@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_CalculusReview_page_009",
+    "primary_id": "mineru_PPT_CalculusReview_page_009_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_CalculusReview_page_009_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Partial Derivatives",
+        "bbox": [
+          0.252,
+          0.056,
+          0.7493333333333333,
+          0.1368888888888889
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_CalculusReview_page_009_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.214,
+          0.20533333333333334,
+          0.7873333333333333,
+          0.712
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_CalculusReview_page_009",
+    "primary_id": "mineru_PPT_CalculusReview_page_009_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_CalculusReview_page_009_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• Functions of more than one variable Example: C(x,y) = x4 + y³ + xy",
+        "bbox": [
+          0.05533333333333333,
+          0.7662222222222222,
+          0.7246666666666667,
+          0.9048888888888889
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

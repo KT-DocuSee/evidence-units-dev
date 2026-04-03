@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16",
+    "primary_id": "mineru_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "中国物联网平台行业竞争格局 物联网平台主要玩家类型",
+        "bbox": [
+          0.03699537557805274,
+          0.014222222222222223,
+          0.6859142607174104,
+          0.064
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "物联平台业企业数量不断增加，企业凭身核优势，以不同的的和度局，按照企业属性将 进入物联网平台产业的主要玩家划分为五种类型。",
+        "bbox": [
+          0.031496062992125984,
+          0.06666666666666667,
+          0.9818772653418323,
+          0.152
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "物联网平台企业主要玩家类型",
+        "bbox": [
+          0.0339957505311836,
+          0.16444444444444445,
+          0.19997500312460942,
+          0.1928888888888889
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16",
+    "primary_id": "mineru_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.03649543807024122,
+          0.20355555555555555,
+          0.9693788276465442,
+          0.9182222222222223
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16",
+    "primary_id": "mineru_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_4",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "来源：公开资料整理，头豹研究院",
+        "bbox": [
+          0.02949631296087989,
+          0.9333333333333333,
+          0.20547431571053618,
+          0.96
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

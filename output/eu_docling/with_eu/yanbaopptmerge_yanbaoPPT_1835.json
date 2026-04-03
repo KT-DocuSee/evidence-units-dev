@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1835",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1835_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1835_1",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.048013389587402346,
+          0.030990743001302085,
+          0.43897381591796875,
+          0.22439170328776042
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1835_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "?",
+        "bbox": [
+          0.06686046544739259,
+          0.43410852773916514,
+          0.11337209282631044,
+          0.531007752075981
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1835",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1835_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1835_2",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6118682861328125,
+          0.07664846801757813,
+          0.9988502197265625,
+          0.31992268880208335
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

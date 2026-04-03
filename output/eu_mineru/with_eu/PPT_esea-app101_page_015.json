@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_esea-app101_page_015",
+    "primary_id": "mineru_PPT_esea-app101_page_015_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_esea-app101_page_015_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Questions:",
+        "bbox": [
+          0.31133333333333335,
+          0.08977777777777778,
+          0.604,
+          0.17244444444444446
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_esea-app101_page_015",
+    "primary_id": "mineru_PPT_esea-app101_page_015_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_esea-app101_page_015_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Jacqueline A. Iribarren, Ph.D. Title I, ESL & Bilingual Education Consultant (608) 266-7292",
+        "bbox": [
+          0.15733333333333333,
+          0.3208888888888889,
+          0.8033333333333333,
+          0.6195555555555555
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_esea-app101_page_015_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Jacqueline.iribarren@dpi.wi.gov",
+        "bbox": [
+          0.218,
+          0.6293333333333333,
+          0.7473333333333333,
+          0.688
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

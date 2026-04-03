@@ -1,0 +1,438 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To see that n divides an, factor n as 2km, with m odd. Then note that k ≤ n ≤ n(n − 1)/2, and that there exists i ≤ m − 1 such that m divides 2i − 1, namely i = φ (m) (Euler's totient function: the number of integers in {1, . .., m} relatively prime to m).",
+        "bbox": [
+          0.12549019607843137,
+          0.06606060606060606,
+          0.49098039215686273,
+          0.1406060606060606
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P. Thus we also have that no roots of P' lie on the sides of the convex hull of P, unless they are also roots of P.",
+        "bbox": [
+          0.5568627450980392,
+          0.06606060606060606,
+          0.9192156862745098,
+          0.09636363636363636
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From this we conclude that if r is a root of P which is a vertex of the convex hull of the roots, and which is not also a root of P', then f has a single pole at r (as r cannot be a root of P\"). On the other hand, if r is a root of P which is also a root of P', it is a multiple root, and then f has a double pole at r.",
+        "bbox": [
+          0.5568627450980392,
+          0.1,
+          0.92,
+          0.18787878787878787
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–1 The answer is 1/3. Let G be the point obtained by re- flecting C about the line AB. Since ∠ADC = π−θ , find that ∠BDE = π − θ − ∠ADC = π−− = ∠ADC = π − ∠BDC = π − ∠BDG, so that E, D, G are collinear. Hence",
+        "bbox": [
+          0.09411764705882353,
+          0.1496969696969697,
+          0.49019607843137253,
+          0.22484848484848485
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_12",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If P has roots not all equal, the convex hull of its roots has at least two vertices.",
+        "bbox": [
+          0.5568627450980392,
+          0.19151515151515153,
+          0.9192156862745098,
+          0.2206060606060606
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–3 We first note that",
+        "bbox": [
+          0.5231372549019608,
+          0.23030303030303031,
+          0.672156862745098,
+          0.24363636363636362
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where we have used the law of sines in ∆BDG. But by 1'Hopital's Rule,",
+        "bbox": [
+          0.12627450980392158,
+          0.2781818181818182,
+          0.49019607843137253,
+          0.30787878787878786
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Subtracting S from this gives two sums, one of which is and the other of which sums to xy3/[(1 − y)(1 − xy2)]. Therefore",
+        "bbox": [
+          0.5576470588235294,
+          0.2909090909090909,
+          0.92,
+          0.3054545454545455
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.3612121212121212,
+          0.9192156862745098,
+          0.39090909090909093
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–2 First solution: Suppose that P does not have n dis- tinct roots; then it has a root of multiplicity at least 2, which we may assume is x = 0 without loss of general- ity. Let xk be the greatest power of x dividing P(x), so that P(x) = xkR(x) with R(o) ≠ 0; a simple computation yields",
+        "bbox": [
+          0.09333333333333334,
+          0.36787878787878786,
+          0.49098039215686273,
+          0.45575757575757575
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since R(0) ≠ 0 and k ≥ 2, we conclude that the great- est power of x dividing P/(x) is xk−2. But P(x) = Q(x)P/(x), and so x2 divides Q(x). We deduce (since Q is quadratic) that Q(x) is a constant C times x2; in fact, C = 1/(n(n − 1)) by inspection of the leading-degree terms of P(x) and P′ (x).:",
+        "bbox": [
+          0.12549019607843137,
+          0.4951515151515152,
+          0.49098039215686273,
+          0.5842424242424242
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_16",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and the desired limit is",
+        "bbox": [
+          0.5568627450980392,
+          0.5121212121212121,
+          0.7082352941176471,
+          0.526060606060606
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–4 (based on work by Daniel Stronger) We make repeated use of the following fact: if f is a differentiable function on all of R, limx→−∞f (x) ≥ 0, and f (x) > 0 for all x ∈ R, then f (x) > 0 for all x ∈ R. (Proof: if f (y) < 0 for some x, then f (x) < f (y) for all x < y since f ′ > 0, but then limx→−∞f(x) ≤ f (y) < 0.)",
+        "bbox": [
+          0.5247058823529411,
+          0.5733333333333334,
+          0.92,
+          0.6624242424242425
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now if P(x) = ∑j=0ajxj, then the relation P(x) = Cx2 (x) implies that aj = Cj(j − 1)aj for al ; hence aj = 0 for j ≤ n− 1, and we conclude that P(x) = axn, which has all identical roots.",
+        "bbox": [
+          0.12549019607843137,
+          0.5878787878787879,
+          0.49098039215686273,
+          0.6496969696969697
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution (by Greg Kuperberg): Let f(x) = P′(x) /P(x) = 1/Q(x). By hypothesis, f has at most two poles (counting multiplicity).",
+        "bbox": [
+          0.12627450980392158,
+          0.6551515151515152,
+          0.49098039215686273,
+          0.6993939393939393
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From the inequality f \"(x) ≤ f (x) we obtain since f′(x) is positive. Applying the fact to the differ- ence between the right and left sides, we get",
+        "bbox": [
+          0.5584313725490196,
+          0.6648484848484848,
+          0.8494117647058823,
+          0.6812121212121212
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Recall that for any complex polynomial P, the roots of P′ lie within the convex hull of P. To show this, it suf- fices to show that if the roots of P lie on one side of a line, say on the positive side of the imaginary axis, then P' has no roots on the other side. That follows because if r1 , . . , n are the roots of P,",
+        "bbox": [
+          0.12627450980392158,
+          0.7042424242424242,
+          0.49019607843137253,
+          0.7915151515151515
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_19",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.7163636363636363,
+          0.9176470588235294,
+          0.7460606060606061
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On the other hand, since f (x) and f \"(x) are both posi- tive for all x, we have",
+        "bbox": [
+          0.556078431372549,
+          0.7957575757575758,
+          0.9184313725490196,
+          0.8254545454545454
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and if z has negative real part, so does 1/(z − ri) for i = 1, . . .,n, so the sum is nonzero.",
+        "bbox": [
+          0.12627450980392158,
+          0.8503030303030303,
+          0.49019607843137253,
+          0.88
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Applying the fact to the difference between the sides yields",
+        "bbox": [
+          0.556078431372549,
+          0.86,
+          0.9192156862745098,
+          0.8896969696969697
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The above argument also carries through if z lies on the imaginary axis, provided that z is not equal to a root of",
+        "bbox": [
+          0.12627450980392158,
+          0.8854545454545455,
+          0.49019607843137253,
+          0.9145454545454546
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

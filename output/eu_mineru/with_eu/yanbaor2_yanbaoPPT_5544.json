@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_yanbaoPPT_5544",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_5544_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5544_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1354292623941959,
+          0.08436653840672652,
+          0.9278516727126159,
+          0.31409434231152916
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_yanbaoPPT_5544",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_5544_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5544_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "各省农产品电商消费额 - 年海語羅星為馬樂",
+        "bbox": [
+          0.15558242644095122,
+          0.3500071255522303,
+          0.8399838774687626,
+          0.6099472709134958
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5544_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "农产品电商消费方面，TOP10分别为东、浙江、江苏、山东、上海、福建、 北京、河南、四川、安徽。中西部地区占了三席。农产品线上消费增幅前五位的 分别为云南、浙江、东、湖北、福建。",
+        "bbox": [
+          0.1483272873841193,
+          0.6509904517600114,
+          0.852881902458686,
+          0.7256662391335329
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_yanbaoPPT_5544",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_5544_3",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5544_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "（二）农产品数字化百强县排名",
+        "bbox": [
+          0.21120515920999597,
+          0.7376371668804332,
+          0.5570334542523177,
+          0.7604389340173864
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5544_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本课题组综合考虑国家数字乡村试点地区、国家现代农业产业园、农业产业 强镇、地理标志产品、区域公品牌等情况，以及阿巴巴农产品电商交易、 商银数字普惠融相关数据，形成农产品数字化百强县名单。考虑到各市辖区 经济相对较为发达，此次排名暂未将市辖区列排名。",
+        "bbox": [
+          0.1483272873841193,
+          0.771839817585863,
+          0.852881902458686,
+          0.8738777255237281
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5544_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "排名前10位的分别为福建安溪、江苏沭阳、福建武夷、福建福鼎、江苏",
+        "bbox": [
+          0.1829907295445385,
+          0.8835684765569332,
+          0.8504635227730754,
+          0.9018098902664956
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

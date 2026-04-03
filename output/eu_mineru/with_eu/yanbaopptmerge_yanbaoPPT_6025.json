@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_6025",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_6025_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_6025_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "例1如图所示，一艘渔船以 30 海里／时的速度由西向东航行 在A处看见小岛 C在船北偏东 60°的方向上.40 min 后，渔船行 驶到B处，此时小岛 C 在船北偏东 30°的方向上.已知以小岛C 为中心，10 海里为半径的范围内是多暗礁的危险区.如果这艘渔 船继续向东航行，有没有进入危险区的可能？",
+        "bbox": [
+          0.0699912510936133,
+          0.08888888888888889,
+          0.8988876390451194,
+          0.5342222222222223
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_6025",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_6025_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_6025_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2439695038120235,
+          0.5724444444444444,
+          0.5014373203349581,
+          0.9084444444444445
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

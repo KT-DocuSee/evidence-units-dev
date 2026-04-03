@@ -1,0 +1,117 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21",
+    "primary_id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(т) 2 720174771",
+        "bbox": [
+          0.6988078630553858,
+          0.12645348822226624,
+          0.93839835139827,
+          0.14244186084334845
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21",
+    "primary_id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SAT Tit",
+        "bbox": [
+          0.06160164284609981,
+          0.23685515871402285,
+          0.16221765920728826,
+          0.25297619046005465
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21",
+    "primary_id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "і7 42 | #^ (Buy) | Ta T M 1 1 E 20% 12 1; | (outperform) | 3 5%~20%; | (Neutral) | (underperform) | 7 17 (overweight) | + 13 | 1742 (Neutral) | Fi (underperform)",
+        "bbox": [
+          0.0608339597985707,
+          0.36502778443478784,
+          0.9388309649429414,
+          0.5270006066461361
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21",
+    "primary_id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MEHTA, THE HEAT",
+        "bbox": [
+          0.5883590506426443,
+          0.5682043649457493,
+          0.930184795357154,
+          0.5858134919298763
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21",
+    "primary_id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_c683eb2923c442ad9fd8c1f25abb7b1b35b359611d5b8a07d1eede7a81983769.pdf_21_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТЕТСТТТ",
+        "bbox": [
+          0.06160165948599098,
+          0.6802325584935756,
+          0.9363449351752006,
+          0.6976744178145641
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

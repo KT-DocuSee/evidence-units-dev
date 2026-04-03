@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocai_jiaocai_en_117",
+    "primary_id": "docling_jiaocai_jiaocai_en_117_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_117_0",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1 ДИАЛЕМИНД? (34)",
+        "bbox": [
+          0.1478439431629135,
+          0.11918604715636608,
+          0.6858316080691197,
+          0.13665674566437142
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocai_jiaocai_en_117",
+    "primary_id": "docling_jiaocai_jiaocai_en_117_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_117_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "29 E/ 51",
+        "bbox": [
+          0.45585215632915205,
+          0.17151162791747765,
+          0.5277207371513409,
+          0.18459302335432465
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_117_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Etti",
+        "bbox": [
+          0.4558521564194968,
+          0.19622093026122764,
+          0.5256673493710576,
+          0.20930232569807464
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

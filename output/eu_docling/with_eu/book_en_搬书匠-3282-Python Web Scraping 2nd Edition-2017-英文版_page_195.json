@@ -1,0 +1,377 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195",
+    "primary_id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_1",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The structure of the search results can be examined with your browser tools, as shown here:",
+        "bbox": [
+          0.1037567379788014,
+          0.11036706333884685,
+          0.8944543690694988,
+          0.12797619032297383
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "G test- coodle Scarci X.",
+        "bbox": [
+          0.12701252124287632,
+          0.14384920634024492,
+          0.20214669145837585,
+          0.14682539681643547
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "→ C • https://www.google.ro/?gws_rd=cr.ssl&ei=TuXYWJXqBsGsswHOBYiQAQ#q=test&*",
+        "bbox": [
+          0.1198569167329397,
+          0.15401785707018276,
+          0.3792486548234083,
+          0.15848214278446848
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Google",
+        "bbox": [
+          0.11088277720555255,
+          0.17143923737923933,
+          0.16460917377786588,
+          0.18611890203646872
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Images",
+        "bbox": [
+          0.19677996538926948,
+          0.19476744194730847,
+          0.21645796013249555,
+          0.20203488348873794
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195",
+    "primary_id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_26",
+    "source": "visual_seed",
+    "member_count": 17,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_26",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10351682216563124,
+          0.13801151813525628,
+          0.8958194002192071,
+          0.5058901398842687
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "est",
+        "bbox": [
+          0.17531305916118337,
+          0.17587209301899356,
+          0.18783542008747495,
+          0.17877906973017588
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "le tests and testing software | Test.com",
+        "bbox": [
+          0.1932021492516139,
+          0.22383720938916898,
+          0.3273703060256667,
+          0.23115079367713018
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Onine tests and testina for certification, practice tests, test maiona tools, medical testing and more..",
+        "bbox": [
+          0.17531308520464012,
+          0.2383432539710043,
+          0.4257602850994719,
+          0.24131944444719483
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Test - Wikipedia",
+        "bbox": [
+          0.17531305840486391,
+          0.25290697692792863,
+          0.23255813825583974,
+          0.2601744184693581
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "https://en.wikipedia.org/wiki/Test",
+        "bbox": [
+          0.17531306158906987,
+          0.2587209303194015,
+          0.2701252242189205,
+          0.26598837186083113
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the",
+        "bbox": [
+          0.17531306334796365,
+          0.2658730157971739,
+          0.40966007958584905,
+          0.27034883713896085
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Speedtest.net by Ookla - The Global Broadband Speed Test",
+        "bbox": [
+          0.17531307007492983,
+          0.2936046512496341,
+          0.3828264717259047,
+          0.3008720927910636
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Elements Console Sources Network Timelne Protes Application Security Audits AdBlOc",
+        "bbox": [
+          0.1341681538695357,
+          0.30377906978293445,
+          0.3953488405873318,
+          0.3067956349553796
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+ soles »",
+        "bbox": [
+          0.8389982111746652,
+          0.308035714479181,
+          0.87656529395354,
+          0.31831395314277877
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "shov @ ,cls",
+        "bbox": [
+          0.8497316642456253,
+          0.322668650800481,
+          0.8872987470245001,
+          0.32564484127667154
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "div class»\"re\" data-hveid»\"30 data-ved-\"BahlKEwl-k861ufbSAnx)XROKHaMSD3A0FOoCKAAMAA \"»",
+        "bbox": [
+          0.19320217407156143,
+          0.3895348838556951,
+          0.4418604626010658,
+          0.39244186033035117
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Milas.",
+        "bbox": [
+          0.8550983927861093,
+          0.4883720934381346,
+          0.8819320213462698,
+          0.4941860463874466
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "diveires diverso dir. Nd divsig div dive h3. al",
+        "bbox": [
+          0.46332737165647914,
+          0.49851190472290013,
+          0.6064400666261687,
+          0.5058139533833601
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Here, we see that the search results are structured as links whose parent element is a <h 3> tag with class \"\".",
+        "bbox": [
+          0.1037567089089719,
+          0.5101686509169971,
+          0.876565300870396,
+          0.5479651156571346
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To scrape the search results, we will use a CSS selector, which was introduced in Chapter 2, Scraping the Data:",
+        "bbox": [
+          0.10375670975530951,
+          0.5625000004347985,
+          0.8962432948120534,
+          0.6002906971508045
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_24",
+        "observed_type": "code",
+        "canon_role": "support_paragraph",
+        "text": ">>> from 1xml.html import fromstring >>> import requests ››> html = requests get ('https: //www.google.com/search?q=test') >>> tree = fromstring (html.content) >>> results = tree.cssselect ('h3.r a') >>> results [<Element a at 0x7f3d9affeaf8>, ‹ Element a at 0x7f3d9affe890>, ‹ Element a at 0x7f3d9affe8e8>, ‹Element a at 0x7f3d9affeaal>, ‹ Element a at 0x7f3d9b1a968>, ‹ Element a at 0x7f3d9b1a9c58>, ‹ Element a at 0x7f3d9b1a9ec0>, ‹ Element a at 0x7f3d9b1a9f18>, ‹ Element a at 0x7f3d9b1a9£70>, ‹Element a at 0x7f3d9b1a9fc8>]",
+        "bbox": [
+          0.13768029527377776,
+          0.6133432538467403,
+          0.7657202037702292,
+          0.8706395346373599
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195",
+    "primary_id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "setings 1001s",
+        "bbox": [
+          0.38640429237128937,
+          0.1961805555973935,
+          0.4311270112959737,
+          0.20064484131167898
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195",
+    "primary_id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13. 1 60 21/00 results (0.59 seconds)",
+        "bbox": [
+          0.18067978636136064,
+          0.21075581421329417,
+          0.2862253985521755,
+          0.22247023814602057
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195",
+    "primary_id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "color:609;",
+        "bbox": [
+          0.8533094807366803,
+          0.42877906991923653,
+          0.8837209296986206,
+          0.4389534881718485
+        ],
+        "order": 21
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_35",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_35_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_35_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7991803291580979,
+          0.09447674428939169,
+          0.8340163928500988,
+          0.1046511625420037
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_35",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_35_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_35_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "897174M | PFAR | E 17 | 97753.67-94 | 1€",
+        "bbox": [
+          0.074470610465631,
+          0.21119230066834702,
+          0.9808772684307444,
+          0.39992016577437933
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_35",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_35_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_35_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "#510 | HT 137 | P#* | 95A | #→ REtt | tRE | F* | 7.17.167 | EpfE | KJk. | 6-95 | 14912102.",
+        "bbox": [
+          0.12106720140954606,
+          0.4340810662672925,
+          0.9670071355801081,
+          0.7141749566722765
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_35",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_35_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_35_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ГЕРНСОННЦЕТ",
+        "bbox": [
+          0.13319673494017084,
+          0.7877906979770074,
+          0.9344262025256765,
+          0.8095930230743489
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

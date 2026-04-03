@@ -1,0 +1,106 @@
+[
+  {
+    "chunk_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_1",
+    "text": "Implementing subscripting",
+    "canon_role": "section_header",
+    "bbox": [
+      0.10375672253750617,
+      0.11185515870535451,
+      0.5778175263712593,
+      0.14244186024229002
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_2",
+    "text": "Subscripts can be defined for classes, structures, and enumerations. They are used to provide a shortcut to elements in collections, lists, and sequence types by allowing terser syntax. They can be used to set and get elements by specifying an index instead of using separate methods to set or retrieve values.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10196779796002527,
+      0.14970930271495855,
+      0.8640429513728055,
+      0.22395833375521382
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_3",
+    "text": "Subscript syntax",
+    "canon_role": "section_header",
+    "bbox": [
+      0.10554561871789711,
+      0.26453488372016726,
+      0.37388193226600264,
+      0.29216269810390116
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_4",
+    "text": "You can define a subscript that accepts one or more input parameters, the parameters can be of different types, and their return value can be of any type. Use the subscript keyword to define a subscript, which can be defined as read-only, or provide a getter and setter to access elements:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10375671165564845,
+      0.30084325433562864,
+      0.8729874872540248,
+      0.3720930232562141
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_5",
+    "text": "class MovieList { private var tracks = [\"The Godfather\", \"The Dark Knight\", \"Pulp Fiction\"] subscript (index: Int) -> String { get { return self.tracks[index] } set { self.tracks[index] = newValue var movieList = MovieList () var aMovie = movieList[0] // The Godfather movieList (1] = \"Forest Gump\" aMovie = movieList (1] // Forest Gump",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13756179114617734,
+      0.38953488385961194,
+      0.8067978500564112,
+      0.7252906975599617
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_6",
+    "text": "Subscript options",
+    "canon_role": "section_header",
+    "bbox": [
+      0.10554561769432974,
+      0.770337301475288,
+      0.3881932035340542,
+      0.7966269840149706
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_7",
+    "text": "Classes and structures can return as many subscript implementations as needed. The support for multiple subscripts is known as subscript overloading, the correct subscript to be used will be inferred based on the subscript value types.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10375670661169933,
+      0.80377907004054,
+      0.8819320158198857,
+      0.8604651158351869
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_8",
+    "text": "[52]",
+    "canon_role": "topic_title",
+    "bbox": [
+      0.4776386409848852,
+      0.9127906979353146,
+      0.5223613599095693,
+      0.9273255810181739
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 9
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "· tive tests while lying in the scanner, and compared the responses of those who had PTLD with others who did not.",
+        "bbox": [
+          0.05152672359483642,
+          0.06969246028295574,
+          0.3416030558028175,
+          0.10912727932823549
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Не predicted that any differences would show up in the brain's grey matter, which, with its high concentration of neuron cell bodies, is where most brain activity occurs. Instead, he got a response in the white matter: the wiring, composed of long protuberances called axons, connecting cell bodies in different parts of the brain. Something odd is thus going on, though what, exactly, is not clear.",
+        "bbox": [
+          0.06106870034381099,
+          0.10882586658897025,
+          0.3416512657730659,
+          0.24131944464446775
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_24",
+    "source": "visual_seed",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_24",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6579146974048585,
+          0.07056035346119044,
+          0.9392617324591468,
+          0.3572089853528663
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_18",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Beta testing",
+        "bbox": [
+          0.6582865469011889,
+          0.39198533790298085,
+          0.8321714696101504,
+          0.4176076849475472
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "One thing which does seem clear is that SARS-COV-2, the covid-causing virus, does not get into the central nervous system. When post-mortem samples have been examined for viral genetic material, scarcely any is found in brains-and what little there is comes from blood vessels, not brain cells themselves. Any persistent covid-related brain damage, in other words, is not a consequence of direct infection.",
+        "bbox": [
+          0.059160312724599845,
+          0.5595238096294877,
+          0.3435114477397766,
+          0.6904761904068496
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The islets' insulin producers are called beta cells, and are the only bodily sources of that hormone. So, if their number declines, trouble looms. And decline it does, in the condition known as type-1 diabetes. This happens when, in a phenomenon called autoimmunity, the body's own immune system attacks its complement of beta cells, wiping out as many as 80%.",
+        "bbox": [
+          0.6564885542639761,
+          0.6250000001195126,
+          0.9408396931993822,
+          0.7428075397705496
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "One of these cytokines, ccL, caught their attention in particular. ccL has previously been associated with reduced generation of new nerve cells-and new nerve cells are important to memory formation. Its levels, they found, were elevated in the bloodstreams and brains of their mice, and a subsequent study on people with long covid showed it was elevated in their bloodstreams, too. On top of this, when they injected ccun into uninfected mice, it did, indeed, inhibit nerve-cell formation.",
+        "bbox": [
+          0.3587786375334983,
+          0.7048611112879313,
+          0.6412213775823977,
+          0.8619186045851555
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It might, though, be \"autoimmune\", like rheumatic heart disease. Certain other viruses, including herpes simplex, Japanese encephalitis and varicella zoster virus, are known to provoke autoimmune brain illness. And one early study showed that up to 73% of antibodies produced against SARS-COV-2 are autoreactive, meaning that they stick to, and potentially harm, at least some human tissue.",
+        "bbox": [
+          0.06088883577813059,
+          0.7165178570766287,
+          0.3417476179333926,
+          0.8474702378664346
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Without an alternative supply of insulin, someone with type-1 diabetes will die. (In type-2 diabetes, insulin production continues but the body's cells acquire resistance.) More can be administered by injection or via a device called an insulin pump, but a better way might be to replace the missing beta cells and somehow protect them from immune attack.",
+        "bbox": [
+          0.6564885524224516,
+          0.7441860463767802,
+          0.9390605885950348,
+          0.8604651159334765
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Using more sophisticated techniques, Dr Bartley and his colleagues were able to identify a number of antibodies produced in response to covid by immune-system cells inside the brain, and which reacted strongly with brain tissue. But herein lies the paradox. Those who have long covid and those who seem to have recovered completely have similar profiles of these antibodies. Nor is there any difference, six months after infection, in levels of molecules that are signs of the sorts of brain damage that might be expected.",
+        "bbox": [
+          0.060902881377156305,
+          0.8501984127688647,
+          0.3417446540609079,
+          0.9680232556752716
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A few lucky patients do indeed have their beta cells replaced-by transplants from human donors. And Vertex Pharmaceuticals, a firm in Boston, is testing beta cells grown from stem cells for the same purpose. But neither approach includes immune protection. This means both require the administration of immunosup-",
+        "bbox": [
+          0.6564885529597071,
+          0.8633432538441072,
+          0.9408396913151019,
+          0.9680232556994964
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Correlation is not causation. But that is an interesting coincidence. As all three presenters made clear, research on both PINs in general and long covid in particular is very much a work in progress. But, to the extent that these disparate conditions do share mechanisms, they might share any eventual treatment, too.",
+        "bbox": [
+          0.3587786337485111,
+          0.8633432539395843,
+          0.6412213757121686,
+          0.9680232557479461
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The possibility remains that any autoimmune brain damage is inflicted quickly, while the disease is still acute, meaning that a search for relevant molecules months after the event is a wild-goose chase. But, as Dr Bartley wryly observed, \"we are still trying to figure this out.\"",
+        "bbox": [
+          0.3587786374380784,
+          0.12351190497526227,
+          0.6412213694321502,
+          0.21366279009905303
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Be that as it may, Michelle Monje, a neuro-oncologist at Stanford School of Medicine, homed in on precisely how covid-induced neurological damage might occur— particularly focusing on glial cells, as brain cells other than neurons are known.",
+        "bbox": [
+          0.36068702171785666,
+          0.21502976199932822,
+          0.6412213775823977,
+          0.29365079344227074
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As to the cause of the neurological symptoms of PTLD, a clue may lie elsewhere, in a study Dr Aucott cited on synovial fluid, a lubricant and shock absorber found in many skeletal joints. A non-neurological symptom of PTLD is a type of arthritis caused (as with Streptococcus-related heart disease) by the immune system's attack on healthy tissue. Sampling this fluid in people with PTLD revealed molecules called peptidoglycans that form part of the cell wall of the Lyme-disease-causing bacterium. These are known to be antigenssubstances that provoke the immune system. The interesting point is that these antigens long outlived the bacteria.",
+        "bbox": [
+          0.059160308684898036,
+          0.24273255840639743,
+          0.34351144586344806,
+          0.45213293657787784
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Such cells come in three varieties: microglia, a group of immune-system cells which are also responsible for neurological \"gardening\" —pruning the connections between neurons to improve neural circuits; astrocytes, which regulate the flow of information across junctions between neurons; and oligodendrocytes, which wrap axons with a fatty substance called myelin that acts like an insulator and stops interference with the passage of signals. (It is myelin which gives white matter its colour.) All three of these have their activity disrupted by anticancer chemotherapy, resulting in a condition known colloquially as \"chemo brain fog\". Dr Monje's instant reaction when she read about long covid was that the way patients describe its symptoms is often reminiscent of this.",
+        "bbox": [
+          0.3587786242878313,
+          0.2936046510349997,
+          0.6412213787685226,
+          0.5451388888186579
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cell engineering",
+        "bbox": [
+          0.6583969461542994,
+          0.3750000001023446,
+          0.7671755702102042,
+          0.38665674613409057
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Picking up on the theme of immune response, Christopher Bartley of America's National Institute of Mental Health went on to describe a paradox. He showed that, although covid has some suggestive immune-related consequences, these are seen equally in those with and without neurological symptoms of long covid.",
+        "bbox": [
+          0.0610687018705285,
+          0.4533730156831618,
+          0.3416030560811253,
+          0.5581395348177136
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_19",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_19",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Gene editing may yield a new treatment for type-1 diabetes",
+        "bbox": [
+          0.6564885481285586,
+          0.4738372092714337,
+          0.8683206100854362,
+          0.5000000001045669
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Whas many seizers tanger. ite trick question. The answer is to be found not on the globe but in the body, for the islets (see picture above) are clusters of cells scattered through the pancreas. There they synthesise and release a range of hormones, including insulin, which regulates glucose levels and thus metabolism.",
+        "bbox": [
+          0.653983820501208,
+          0.5027378541604595,
+          0.943277132066662,
+          0.6235465115618996
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "That got her interested. And, together with Akiko Iwasaki of Yale School of Medicine, she assembled a research collaboration to investigate, using a mouse strain engineered by Dr Iwasaki specifically for covid work. This showed that microglia in the white matter were reacting to immunecell-activating molecules called cytokines released in response to covid infection. Moreover, subsequent post-mortem examinations suggested the same thing was happening in people.",
+        "bbox": [
+          0.35877862688033213,
+          0.5465116285540478,
+          0.6412213787685226,
+          0.7049418600118436
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_068_8",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_068_8",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "One PINS that needles",
+        "bbox": [
+          0.0610687045381455,
+          0.7048611109684954,
+          0.21374045882063308,
+          0.7151162788501432
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

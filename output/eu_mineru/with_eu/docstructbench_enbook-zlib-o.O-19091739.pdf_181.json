@@ -1,0 +1,283 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_0",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Model We are asked to find the magnetic field due to a simple current distribution, so this example is a typical problem for which the Biot—Savart law is appropriate. We must fi nd the field contribution from a small element of current and then integrate over the current distribution from θ1 to θ2, as shown in Figure 29.3b.",
+        "bbox": [
+          0.10748354114199417,
+          0.07666359868777224,
+          0.708719599405024,
+          0.13927220428278625
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Analyse Let's start by considering a length element d s located a distance r from P. The direction of the magnetic fi eld at point P due to the current in this element is out of the page because ds × f is out of the page. In fact, because all the current elements I ds lie in the plane of the page, they all produce a magnetic field directed out of the page at point P. Therefore, the direction of the magnetic field at point P is out of the page and we need only fi nd the magnitude of the field. We place the origin at O and let point P be along the positive y axis, with k being a unit vector pointing out of the page.",
+        "bbox": [
+          0.10748354114199417,
+          0.14566083750676725,
+          0.718796181387086,
+          0.2542676023144446
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "From the geometry in Figure 29.3a, we can see that the angle between the vectors d s and r is π -0 radians. 2",
+        "bbox": [
+          0.10580411081165052,
+          0.26193396218322185,
+          0.7171167510567423,
+          0.31048757468547755
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Evaluate the cross product in the Biot-Savart law:",
+        "bbox": [
+          0.10916297147233783,
+          0.31304302797507,
+          0.438331316219695,
+          0.32837574771262446
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Substitute into Equation 29.1:",
+        "bbox": [
+          0.10748354114199417,
+          0.38715117337324984,
+          0.30565632012254595,
+          0.40120616646600804
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7355904846905226,
+          0.08305223191175326,
+          0.9119306693766068,
+          0.21338034968096606
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_6",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7355904846905226,
+          0.24404578915607497,
+          0.9152895300372942,
+          0.38842890001804603
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_7",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 29.3 (Example 29.1) (a) A thin, straight wire carrying a current I (b) The angles θ1 and θ2 are used for determining the net f eld.",
+        "bbox": [
+          0.7355904846905226,
+          0.39481753324202706,
+          0.9119306693766068,
+          0.4753143118641879
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_5",
+    "source": "text_cluster",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From the geometry in Figure 29.3a, express r in terms of 0:",
+        "bbox": [
+          0.10580411081165052,
+          0.4523152322578562,
+          0.5004702384424103,
+          0.46764795199541065
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Notice hat tan θ =—x/a from the right triangle in Figure 29.3a (the negative ign is necessary because d is located at a negative value of x) and solve for x:",
+        "bbox": [
+          0.10748354114199417,
+          0.5187570177872588,
+          0.9119306693766068,
+          0.5494224572623677
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Find the diffential dx:",
+        "bbox": [
+          0.10748354114199417,
+          0.582643350027069,
+          0.2653499921942981,
+          0.5966983431198273
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Substitute Equations (2) and (3) into he magnitude of the field from Equation (1):",
+        "bbox": [
+          0.10412468048130685,
+          0.6503628622012678,
+          0.6432218165216214,
+          0.6669733085836185
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Integrate Equation 4) over al length elements on the wire, where the subtending angles range from θ to θ as defned in Figure 29.3b:",
+        "bbox": [
+          0.10748354114199417,
+          0.7257487342442439,
+          0.9052129480552322,
+          0.7564141737193528
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Check the dimensions, noting that the quantity in brackets is dimensionless:",
+        "bbox": [
+          0.10580411081165052,
+          0.807523239511201,
+          0.6163509312361228,
+          0.8228559592487554
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(B) Find an expression for the field at a point near a very long current-carrying wire.",
+        "bbox": [
+          0.10580411081165052,
+          0.8535213987238642,
+          0.665054410816089,
+          0.8688541184614187
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_15",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_15",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Solution",
+        "bbox": [
+          0.10748354114199417,
+          0.8867422914885655,
+          0.18473733633780248,
+          0.9007972845813238
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We can use Equation 29.4 to ind the magnetic feld of any straight current-carrying wire if we know the geometry and hence the angles θ and θ, If the wire in Figure 29.3b becomes infnitely long, we see that θ, = π/2 and θ2 = −π/2 for",
+        "bbox": [
+          0.10580411081165052,
+          0.9033527378709162,
+          0.9001746570642012,
+          0.9352959039908213
+        ],
+        "order": 17
+      }
+    ]
+  }
+]

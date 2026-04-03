@@ -1,0 +1,434 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "The 52nd William Lowell Putnam Mathematical Competition Saturday, December 7, 1991",
+        "bbox": [
+          0.24392156862745099,
+          0.06363636363636363,
+          0.7615686274509804,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−1 A 2 × 3 rectangle has vertices as (0, 0), (2, 0), (0, 3), and (2, 3). It rotates 90° clockwise about the point (2, 0). It then rotates 90° clockwise about the point (5, 0), then 90° clockwise about the point (7, 0), and finally, 90° clockwise about the point (10, 0). (The side originally on the x-axis is now back on the x-axis.) Find the area of the region above the x-axis and below the curve traced out by the point whose initial position is (1,1).",
+        "bbox": [
+          0.09333333333333334,
+          0.13454545454545455,
+          0.49098039215686273,
+          0.25212121212121213
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3. if b1 = gk then every element in {1, 2, 4, . , gk} appears at least once as a bi.",
+        "bbox": [
+          0.571764705882353,
+          0.13515151515151516,
+          0.9192156862745098,
+          0.16424242424242425
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Prove that A(n) = B(n) for each n ≥ 1.",
+        "bbox": [
+          0.5576470588235294,
+          0.16484848484848486,
+          0.8109803921568628,
+          0.17939393939393938
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(For example, A(7) = 5 because the relevant sums are 7, 6 + 1, 5 + 2, 4 + 3, 4 + 2 + 1, and B(7) = 5 because the relevant sums are 4 + 2 + 1, 2 +2 +2 + 1, 2 +2 +1 + 1 + 1,2+1+1+1+1+1,1+1+1+1+1+1+1.)",
+        "bbox": [
+          0.556078431372549,
+          0.18363636363636363,
+          0.9192156862745098,
+          0.24303030303030304
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−1 For each integer n ≥ 0, let S(n) = n − m2, where m is the gatest int with ≤. De a ee() by a0 = A and ak+1 = ak + S(ak) for k ≥ 0. For what positive integers A is this sequence eventually constant?",
+        "bbox": [
+          0.523921568627451,
+          0.2509090909090909,
+          0.9192156862745098,
+          0.3103030303030303
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–2 Let A and B be different n × n matrices with real entries. If A3 = B3 and A2B = B2A, can A2 + B2 be invertible?",
+        "bbox": [
+          0.09254901960784313,
+          0.26121212121212123,
+          0.49019607843137253,
+          0.2909090909090909
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–3 Find all real polynomials p(x) of degree n ≥ 2 for which there exist real numbers r1 < r2 < · . < rn such that",
+        "bbox": [
+          0.09254901960784313,
+          0.3,
+          0.49019607843137253,
+          0.3296969696969697
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–2 Suppose f and g are non-constant, differentiable, real- valued functions defined on (−∞, ). Furthermore, suppose that for each pair of real numbers x and y,",
+        "bbox": [
+          0.5231372549019608,
+          0.3193939393939394,
+          0.9192156862745098,
+          0.36424242424242426
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where p′(x) denotes the derivative of p(x).",
+        "bbox": [
+          0.12784313725490196,
+          0.39212121212121215,
+          0.40705882352941175,
+          0.4078787878787879
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–4 Does there exist an infinite sequence of closed discs D1, D2, D3, . in the plane, with centers c1, c2, , ., respectively, such that",
+        "bbox": [
+          0.09333333333333334,
+          0.4163636363636364,
+          0.49098039215686273,
+          0.4612121212121212
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_12",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If f (0) = 0, prove that (f (x))2 + (g(x)2 = 1 for al .",
+        "bbox": [
+          0.556078431372549,
+          0.4212121212121212,
+          0.9145098039215687,
+          0.4387878787878788
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–3 Does there exist a real number L such that, if m and n are integers greater than L, then an m × n rectangle may be expressed as a union of 4 × 6 and 5 × 7 rectangles, any two of which intersect at most along their boundaries?",
+        "bbox": [
+          0.5231372549019608,
+          0.44666666666666666,
+          0.9192156862745098,
+          0.5060606060606061
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. the c; have no limit point in the finite plane, 2. the sum of the areas of the Dj is finite, and 3. every line in the plane intersects at least one of the Di?",
+        "bbox": [
+          0.1419607843137255,
+          0.4696969696969697,
+          0.49019607843137253,
+          0.5381818181818182
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–4 Suppose p is an odd prime. Prove that",
+        "bbox": [
+          0.5231372549019608,
+          0.5151515151515151,
+          0.8094117647058824,
+          0.5309090909090909
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A-5 Find the maximum value of",
+        "bbox": [
+          0.09333333333333334,
+          0.5478787878787879,
+          0.3129411764705882,
+          0.563030303030303
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−5 Let p be an odd prime and let Zp denote (the field of) integers modulo p. How many elements are in the set",
+        "bbox": [
+          0.5223529411764706,
+          0.5951515151515151,
+          0.9192156862745098,
+          0.6248484848484849
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_16",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for 0 ≤ y ≤ 1.",
+        "bbox": [
+          0.12627450980392158,
+          0.610909090909091,
+          0.2196078431372549,
+          0.6260606060606061
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–6 Let A(n) denote the number of sums of positive integers",
+        "bbox": [
+          0.09254901960784313,
+          0.6351515151515151,
+          0.49098039215686273,
+          0.6509090909090909
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–6 Let a and b be positive numbers. Find the largest num- ber c, in terms of a and b, such that",
+        "bbox": [
+          0.5231372549019608,
+          0.6684848484848485,
+          0.9184313725490196,
+          0.6981818181818182
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which add up to n with",
+        "bbox": [
+          0.12784313725490196,
+          0.6896969696969697,
+          0.2807843137254902,
+          0.7042424242424242
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for all u with 0 < |u| ≤ c and for all x, 0 < x < 1. (Note: sinh = (eu − e−)/2.)",
+        "bbox": [
+          0.5552941176470588,
+          0.7484848484848485,
+          0.9192156862745098,
+          0.7787878787878788
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_19",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let B(n) denote the number of b1 + b2 + . . + bs which add up to n, with",
+        "bbox": [
+          0.12627450980392158,
+          0.7618181818181818,
+          0.49019607843137253,
+          0.7915151515151515
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1991_Problems_1991_page_001_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. b1 ≥ b2 ≥ · · ≥ bs, 2. each bj is in the sequence 1, 2, 4,. . , j, .. defined by g1 = 1, g2 = 2, and gj = g j−1 + g j−2 + 1, and",
+        "bbox": [
+          0.14274509803921567,
+          0.8006060606060607,
+          0.49019607843137253,
+          0.8515151515151516
+        ],
+        "order": 24
+      }
+    ]
+  }
+]

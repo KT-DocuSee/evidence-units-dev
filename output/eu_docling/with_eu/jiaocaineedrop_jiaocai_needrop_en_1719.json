@@ -1,0 +1,156 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1719",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "77 PatL7 (random event).",
+        "bbox": [
+          0.09756098400096526,
+          0.4186046519528777,
+          0.38008129938318097,
+          0.4360465112738666
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1719",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "#-*#7. п1-4*6;",
+        "bbox": [
+          0.1300813113828945,
+          0.6001984124547848,
+          0.4674796708935282,
+          0.6178075394389118
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1180-1=##, #А#** 360°;",
+        "bbox": [
+          0.12976303638962955,
+          0.616256059059455,
+          0.4923266994484402,
+          0.6411139216606596
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1719",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_7",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6911515299479166,
+          0.7346334984188988,
+          0.8135487467447917,
+          0.8774993024553571
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13 17441А, 21НА, Н",
+        "bbox": [
+          0.14227641456122184,
+          0.7412790701776205,
+          0.6524390223899978,
+          0.761656745869861
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "РАН ҐЕНЕ #ЛН?",
+        "bbox": [
+          0.09756097531336576,
+          0.8662790698537378,
+          0.38211382497699425,
+          0.888144841730179
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1719",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "XTEAHEEERE?",
+        "bbox": [
+          0.14227642966371212,
+          0.8168604656136673,
+          0.42479674504592785,
+          0.8373015871389019
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1719",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1719_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "128 5+7 197",
+        "bbox": [
+          0.09959349239817877,
+          0.912698412573065,
+          0.306910569187187,
+          0.9273313490810017
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

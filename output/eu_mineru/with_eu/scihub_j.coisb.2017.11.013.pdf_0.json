@@ -1,0 +1,270 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.coisb.2017.11.013.pdf_0",
+    "primary_id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ELSEVIER",
+        "bbox": [
+          0.09954928473446992,
+          0.08284202569916856,
+          0.17401528512639625,
+          0.09674981103552532
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "scihub_j.coisb.2017.11.013.pdf_0",
+    "primary_id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Identifying noise sources governing cell-to-cell variability",
+        "bbox": [
+          0.09954928473446992,
+          0.10461073318216176,
+          0.7038996668626298,
+          0.14875283446712018
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Simon Mitchell and Alexander Hoffmann",
+        "bbox": [
+          0.09876543209876543,
+          0.15056689342403629,
+          0.5557515187144817,
+          0.17052154195011338
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5189104448363707,
+          0.19773242630385487,
+          0.911620615324319,
+          0.2842025699168556
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "scihub_j.coisb.2017.11.013.pdf_0",
+    "primary_id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_3",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Abstract",
+        "bbox": [
+          0.09876543209876543,
+          0.20317460317460317,
+          0.1512835586909661,
+          0.21405895691609977
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Phenotypic differences often occur even in clonal cell popu- lations. Many potential sources of such variation have been identified, from biophysical rate variance intrinsic to all chem- ical processes to asymmetric division of molecular compo- nents extrinsic to any particular signaling pathway. Identifying the sources of phenotypic variation and quantifying their con- tributions to cell fate variation is not possible without accurate single cell data. By combining such data with mathematical models of potential noise sources it is possible to characterize the impact of varying levels of each noise source and identify which sources of variation best explain the experimental ob- servations. The mathematical framework of information theory provides metrics of the impact of noise on the reliability of a cell to sense its environment. While the presence of noise in a single cellular system reduces the reliability of signal trans- duction its impact on a population of varied single cells remains unclear.",
+        "bbox": [
+          0.09876543209876543,
+          0.21526832955404385,
+          0.4914756025867137,
+          0.4595616024187453
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "However, single cell studies have revealed a high degree of variability in the responses of genetically identical cells grown and treated in identical conditions. Numerous theoretical and experimental studies have addressed the sources and physiological consequence of this variability [9-11]. A useful distinction is whether the source of the variability is intrinsic or extrinsic to the regulatory system and timescale being considered. That distinction has indeed important implications to both the biology and our study of it. As intrinsic molecular variability refects thermodynamic noise of molecular interactions within the regulatory network, modeling, it requires stochastic mathematical representation (e.g. Gillespie formalisms), and may limit the predictability of biological phenotypes, or reliability of signal trans- duction (Figure 1A). In contrast, extrinsic noise refects distinct starting conditions (initial concentrations and/ or kinetic rate constants) of the molecular networks of individual cells within the population, or distinct time- dependent inputs (changes in the environment) to the system [12,13]. In principle, biological outcomes that are only subject to extrinsic noise can be predicted and modeled with deterministic mathematical formalisms (e.g. ordinary differential equations) so long as the starting conditions and inputs to the system are known. Further, information loss through extrinsic noise can be mitigated through a Dynamical Signaling Code [14,15]. By leveraging information contained in time trajectories, the reliability of signaling is not diminished by extrinsic noise (Figure 1B and C) [16,17].",
+        "bbox": [
+          0.5189104448363707,
+          0.2999244142101285,
+          0.9124044679600235,
+          0.7310657596371882
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "scihub_j.coisb.2017.11.013.pdf_0",
+    "primary_id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_5",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Addresses",
+        "bbox": [
+          0.09876543209876543,
+          0.472260015117158,
+          0.1646090534979424,
+          0.48253968253968255
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Institute for Quantitative and Computational Biosciences, Department of Microbiology, Immunology, and Molecular Genetics, University of California, Los Angeles, CA 90095, USA",
+        "bbox": [
+          0.09798157946306095,
+          0.48435374149659866,
+          0.48912404467960025,
+          0.5188208616780046
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Corresponding author: Hoffmann, Alexander (ahoffmann @ ucla.edu] expression [1], or cell fate decisions such as differenti- ation [2], division and death [3•]. Mechanistic compu- tational models of signaling networks are valuable tools to explain how a cell can respond to environmental cues with stimulus specific gene expression [4], differentia- tion [5,6], division [7]and death [3,8].",
+        "bbox": [
+          0.09641387419165197,
+          0.5315192743764172,
+          0.4789339604154419,
+          0.5430083144368859
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "scihub_j.coisb.2017.11.013.pdf_0",
+    "primary_id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_11",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_11",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Keywords",
+        "bbox": [
+          0.09876543209876543,
+          0.7159486016628874,
+          0.15990593768371547,
+          0.726832955404384
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Single-cell, Noise, Variability, Computational modeling, Signal transduction.",
+        "bbox": [
+          0.09798157946306095,
+          0.728042328042328,
+          0.44366059180873996,
+          0.7504157218442933
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a seminal study, an engineered bacterial system was developed to quantify the contribution of extrinsic and intrinsic noise sources to the expression of identical duplicate reporter genes [18]. However, such elegant engineering of signaling systems is not possible in many biological contexts such as the immune system [19,20]. For natural biological systems computational models can provide a tool to elucidate how different sources of variability can result in distinct phenotypes.",
+        "bbox": [
+          0.5189104448363707,
+          0.7467876039304611,
+          0.9124044679600235,
+          0.8761904761904762
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "scihub_j.coisb.2017.11.013.pdf_0",
+    "primary_id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_9",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_9",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Introduction",
+        "bbox": [
+          0.09798157946306095,
+          0.780650037792895,
+          0.2069370958259847,
+          0.7939531368102797
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cells must reliably sense their environment in order to behave and respond appropriately. Sources of informa- tion in the environment are highly varied and can include nutrient availability, cytokine and chemokine levels, pathogens and combinations thereof. Sensing the cellular environment typically involves receptor activa- tion and transduction of receptor state information through a signaling network resulting in an appropriate response. Such responses can take the form of gene",
+        "bbox": [
+          0.09954928473446992,
+          0.7951625094482238,
+          0.4914756025867137,
+          0.9245653817082389
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_scihub_j.coisb.2017.11.013.pdf_0_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Here we will describe how recent advances in single-cell imaging, combined with computational models enable",
+        "bbox": [
+          0.5181265922006663,
+          0.891307634164777,
+          0.9124044679600235,
+          0.9191232048374905
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

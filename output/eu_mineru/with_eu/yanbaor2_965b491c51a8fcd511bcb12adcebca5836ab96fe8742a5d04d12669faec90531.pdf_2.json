@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2",
+    "primary_id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.858,
+          0.0,
+          0.9986666666666667,
+          0.17169923031379514
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2",
+    "primary_id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "全球房地产市场的并购趋势",
+        "bbox": [
+          0.050666666666666665,
+          0.05920663114268798,
+          0.3546666666666667,
+          0.11486086441681469
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2",
+    "primary_id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_6",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5126666666666667,
+          0.2640615748963884,
+          0.9973333333333333,
+          0.896388395500296
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2",
+    "primary_id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_2",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "办公",
+        "bbox": [
+          0.051333333333333335,
+          0.26524570751924215,
+          0.08133333333333333,
+          0.2972172883362937
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "宏观经济环境对办公资产的影响仍在持续，全球空置率达到两位数。利 率上调抬了收购和建设的债务成本，并对潜在回报率造成下压。 随着建筑物等级成为获得资本和提升资产财务表现越来越重要的决定因 素，短期内融资将面临更大挑战。",
+        "bbox": [
+          0.051333333333333335,
+          0.32089994079336887,
+          0.4886666666666667,
+          0.46299585553582
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "我们预计，在包括部分亚洲重点城市、地段优越以及现代化和质量建 筑群所在的地区，办公资产需求将保持旺盛，并购交易也将最为活跃。 尽管到前为，多数地员回归办公室作的速度慢于预期，但 业主们依然对益增的回归趋势抱有信。",
+        "bbox": [
+          0.051333333333333335,
+          0.4854943753700414,
+          0.4886666666666667,
+          0.6275902901124926
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_yanbaor2_965b491c51a8fcd511bcb12adcebca5836ab96fe8742a5d04d12669faec90531.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在欧洲，建筑物按规定必须达到定能效，这法规调整刺激了市场对 优质资产的需求。例如，从2023年（荷兰）和2030年（英国）起，办 公楼必须拥有能源绩效证书（EPC）C级或以上。随着越来越多的公司 致于实现去碳化，提出明确的净零标，出租也做出相应调整，因 此，对于采绿科技、配备专门设施以改善租户体验的新型办公空间 的需求随之上升。",
+        "bbox": [
+          0.051333333333333335,
+          0.6512729425695678,
+          0.48933333333333334,
+          0.8632326820603907
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

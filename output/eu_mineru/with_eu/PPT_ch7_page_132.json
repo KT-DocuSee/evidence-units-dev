@@ -1,0 +1,113 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_132",
+    "primary_id": "mineru_PPT_ch7_page_132_0",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_132_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "7.9 Vector Spaces, Inner Product Spaces, Linear Transformations Optional",
+        "bbox": [
+          0.464,
+          0.018666666666666668,
+          0.9613333333333334,
+          0.10044444444444445
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_ch7_page_132_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Vectors whose inner product is zero are called orthogonal. The length or norm of a vector in V is defined by",
+        "bbox": [
+          0.056666666666666664,
+          0.13066666666666665,
+          0.9286666666666666,
+          0.23644444444444446
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_ch7_page_132_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A vector of norm 1 is called a unit vector. From these axioms and from (2) one can derive the basic inequality",
+        "bbox": [
+          0.05733333333333333,
+          0.3244444444444444,
+          0.884,
+          0.42844444444444446
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_PPT_ch7_page_132_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From this follows",
+        "bbox": [
+          0.058,
+          0.5173333333333333,
+          0.322,
+          0.5626666666666666
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_PPT_ch7_page_132_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(Triangle inequality).",
+        "bbox": [
+          0.62,
+          0.5893333333333334,
+          0.918,
+          0.6444444444444445
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_PPT_ch7_page_132_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A simple direct calculation gives",
+        "bbox": [
+          0.059333333333333335,
+          0.656,
+          0.5406666666666666,
+          0.7048888888888889
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_132",
+    "primary_id": "mineru_PPT_ch7_page_132_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_132_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Advanced Engineering Mathematics, 10/e by Edwin Kreyszig Copyright 2011 by John Wiley & Sons. All rights reserved.",
+        "bbox": [
+          0.45266666666666666,
+          0.9057777777777778,
+          0.91,
+          0.9626666666666667
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16",
+    "primary_id": "docling_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "JE TIE NK | HAWS lOT* | NENet | 52, FEFHEY | EM- Smart 7 1 1k",
+        "bbox": [
+          0.037323235482100384,
+          0.19917386881510415,
+          0.9624309961743064,
+          0.917568359375
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16",
+    "primary_id": "docling_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_5",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.41307422021466067,
+          0.92775537109375,
+          0.5763377020499391,
+          0.9941873372395833
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "**)",
+        "bbox": [
+          0.48837209376933793,
+          0.9302325575409505,
+          0.5188953485271737,
+          0.958656331089541
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16",
+    "primary_id": "docling_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_7cae1642250a3dbabfef7624d3424ec6e162ae91c8de4acfa89a9779092b0189.pdf_16_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LeadLeo",
+        "bbox": [
+          0.488372092642547,
+          0.9586563307821873,
+          0.5174418607004762,
+          0.9689922479775025
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

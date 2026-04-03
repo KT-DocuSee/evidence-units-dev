@@ -1,0 +1,208 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "scihub_jee%2Ftoaa103.pdf_2",
+    "primary_id": "mineru_scihub_jee%2Ftoaa103.pdf_2_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2861749294639258,
+          0.06807727690892364,
+          0.713422007255139,
+          0.2588163140141061
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "scihub_jee%2Ftoaa103.pdf_2",
+    "primary_id": "mineru_scihub_jee%2Ftoaa103.pdf_2_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "F s T A1, A2, and A3 (1/3 dose at each position). Source: Scheff et al. (2018), used by permission.",
+        "bbox": [
+          0.08948004836759371,
+          0.2735357252376572,
+          0.9149536477226925,
+          0.3213738117141981
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "of the mill at an approximate 45° angle and applied using a sideways sweeping motion toward the left and right sides of the floorspace. The total aerosol application time was approximately 2–5 min, followed by a1-h exposure period. After the 1-h exposure, he air ventilation system was turned on for approximately 10 min to remove any residual aerosol particles that may be present in the ambient air. The next step was to pick up all bioassay arenas that were exposed to the aerosol insecticide treatment and replace with new bioassay arenas for the next aerosol treatment, which took approximately 5–15 min. The aerosol application position was changed after each treatment and each aerosol application location was repeated twice for each aerosol formulation. Due to logis- tical constraints of the milling facility(time available for testing) and time required for each aerosol application the pyrethrin + pyriproxyfen aerosol treatments were conducted first,followed by the pyrethrin + methoprene aerosol treatments. Day 1 of testing had fve trials,day 2 had six trials, andday 3 had fve trials,fora total of 16aerosol applications.",
+        "bbox": [
+          0.09028617492946392,
+          0.33670653173873044,
+          0.4860943168077388,
+          0.5599509352959215
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_jee%2Ftoaa103.pdf_2",
+    "primary_id": "mineru_scihub_jee%2Ftoaa103.pdf_2_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Two additional testing arenas were placed on the first floor of the mill during each aerosol treatment and served as untreated controls. Arenas were placed in each of the four major corners of the mill floor (arenas 4, 5, 8, 10). Bioassay arenas along walls were placed approximately 0.5m away from the wall (arenas4,5, 6, 8,9,10). Bioassay arena 2 was placed in between two large pieces of milling equipment and pneumatic conveying ducts. Bioassay arena 7 was placed underneath a piece of milling equipment. Relative to theap plication locations, bioassay arena 1 was placed directly in front of aerosol application location 1 and bioassay arenas 9 and 4 were placed next to aerosol application locations 2 and 3, respectively.",
+        "bbox": [
+          0.5143087464731962,
+          0.33670653173873044,
+          0.9101168883514712,
+          0.490033731984054
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "After aerosol applications, each bioassay arena was covered and transported back to the USDA-ARS-CGAHR and held at27°C, 60% RH, and O:24 (L:D) in an environmental chamber. At 2, 4, and 6 wk post-aerosol application, five (3–4 wk old) T. confusum larvae along with ~400 mg of diet were added to one concrete arena from each bioassay arena position. Number of larvae available for bioassays was limited, but five larvae per dish does provide suffcient reso- lution to evaluate IGR effects on development. Larvae were exam- ined twice weekly, up to 4 wk, for adult emergence. Emerged adults were removed from dishes to prevent cannibalism.",
+        "bbox": [
+          0.5143087464731962,
+          0.49126034958601655,
+          0.909310761789601,
+          0.6304814474087703
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "scihub_jee%2Ftoaa103.pdf_2",
+    "primary_id": "mineru_scihub_jee%2Ftoaa103.pdf_2_3",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Bioassays",
+        "bbox": [
+          0.09109230149133414,
+          0.577736890524379,
+          0.16364369205965337,
+          0.5906163753449862
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The T. confusum larvae used in the study were from a pesticide- susceptible strain maintained at the United States Department of Agriculture-Agricultural Research Service-Center for Grain and Animal Health Research (USDA-ARS-CGAHR, Manhattan, KS). Tribolium confusum colonies are reared on 95% organic whole- wheat flour and 5% brewer's yeast at 27°C, 60% RH, and 0:24 (L:D) h in an environmental chamber. These colonies have been maintained at the USDA-ARS-CGAHR for more than 30 yr.",
+        "bbox": [
+          0.09028617492946392,
+          0.5936829193498927,
+          0.4860943168077388,
+          0.7046918123275069
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "At the end of 4 wk, all fve individuals were classifed as larvae, pupae, or adults. Means and SEs were calculated for adult emergence and data analyzed using statistical analysis software (version 9.4, SAS Institute, Cary, NC). Adult emergence data were transformed to angular values prior to analysis (Zar 2010) before using a three-way analysis of variance basedon bioassay position,application position, and residual week as the main efects.",
+        "bbox": [
+          0.5143087464731962,
+          0.631708065010733,
+          0.9101168883514712,
+          0.7286108555657773
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Testing arenas used in this study were individual 60 × 15 mm (~22 cm2) Petri dishes partially flled with concrete and placed in- side larger 150 × 20 mm (~137 cm2) plastic Petri dishes. Concrete dishes were prepared based on Arthur (2015). Briefly, a dry powder driveway patching material (Rockite, Hartline Product Co., Inc., Cleveland, OH) was mixed with water to create a thin slurry, poured in the bottom of Petri dishes to a depth of ~0.5 cm, and held at am- bient conditions for approximately 7 d. Inside each Petri dish, four concrete arenas were placed. Three of the arenas were used in the current study for residual bioassays at 2, 4, and 6 wk post-aerosol treatment and contained no diet at time of exposure to aerosol. The other arena was used as described by Scheff et al. (2018).",
+        "bbox": [
+          0.09028617492946392,
+          0.7065317387304508,
+          0.4860943168077388,
+          0.8727384237963814
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "scihub_jee%2Ftoaa103.pdf_2",
+    "primary_id": "mineru_scihub_jee%2Ftoaa103.pdf_2_10",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_10",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Aerosol Dispersal Patterns",
+        "bbox": [
+          0.5143087464731962,
+          0.7580496780128795,
+          0.7045546150745667,
+          0.7709291628334867
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To assess the strength of the efect of the aerosol application, an efficacy value index was created to convert the three morpho- logical states (larvae, pupae, adult) to a single value for comparison (Campbell et al. 2014). The efficacy index ranged from 1, the weakest effi cacy response with five adults, to 21, the strongest response with five larvae. All of the index values with the corresponding numbers ofaultpupa aae inicate in bracts e he flwi 1 [5,0,0],2[4,1,0],3[4,0,1],4[3,2,0],5[3,1,1],6[3,0,2],7[2,3,0], 8[2,2,1],9[2,1,2], 10[2,0,3],11 [1,4,0], 12[1,3,1],13[1,2,2],14 [1,1,3], 15[1,0,4],16 [0,5,0], 17 [0,4,1], 18[0,3,2],19 [0,2,3], 20 [0,1,4],21[0,0,5].",
+        "bbox": [
+          0.5143087464731962,
+          0.7739957068383931,
+          0.909310761789601,
+          0.927936215884698
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_scihub_jee%2Ftoaa103.pdf_2_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "These groups of testing arenas were placed at ten different posi- tions on the third floor (Fig. 1). Nine positions also had aerodynamic particle sizer units (APS 3321, TSI Inc., Shoreview, MN) placed to collect data on aerosol particle concentration and size distribution.",
+        "bbox": [
+          0.09028617492946392,
+          0.8751916590003067,
+          0.4860943168077388,
+          0.9297761422876418
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

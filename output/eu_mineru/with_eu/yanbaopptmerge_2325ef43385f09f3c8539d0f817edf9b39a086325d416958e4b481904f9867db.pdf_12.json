@@ -1,0 +1,143 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12",
+    "primary_id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表3：公司主要竞争对手情况",
+        "bbox": [
+          0.07089627391742195,
+          0.11851851851851852,
+          0.27069486404833837,
+          0.13276353276353275
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12",
+    "primary_id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06928499496475328,
+          0.1356125356125356,
+          0.9297079556898288,
+          0.43703703703703706
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12",
+    "primary_id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：公司招股说明书，西南证券整理",
+        "bbox": [
+          0.0717019133937563,
+          0.44045584045584046,
+          0.3351460221550856,
+          0.45356125356125354
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "从主要竞争对手营收指标可以看出，海外智能点胶设备企业占据了全球市场大量份额。 随着下游应用市场来自于新能源、半导体等行业空间不断增长，再叠加国内智能制造设备的 过程化进程加速，智能点胶设备未来仍有巨大的市场空间。",
+        "bbox": [
+          0.07089627391742195,
+          0.4672364672364672,
+          0.7460221550855992,
+          0.517948717948718
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_4",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图15：2022年全球竞争对手财务情况（亿元）",
+        "bbox": [
+          0.07009063444108761,
+          0.5293447293447293,
+          0.3867069486404834,
+          0.5447293447293448
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12",
+    "primary_id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_5",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07814702920443102,
+          0.5521367521367522,
+          0.7355488418932528,
+          0.743019943019943
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12",
+    "primary_id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2325ef43385f09f3c8539d0f817edf9b39a086325d416958e4b481904f9867db.pdf_12_6",
+        "observed_type": "image_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：iFind，公司招股说明书，西南证券整理",
+        "bbox": [
+          0.0717019133937563,
+          0.7538461538461538,
+          0.37865055387714,
+          0.7675213675213676
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

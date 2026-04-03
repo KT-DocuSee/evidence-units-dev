@@ -1,0 +1,364 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3984",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_0",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "高中必刷题 物理",
+        "bbox": [
+          0.043916486681065514,
+          0.022750451086530163,
+          0.22510199184065274,
+          0.03922491566643132
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "得0点与各落点间的距离L即可，故选C.",
+        "bbox": [
+          0.05927525797936165,
+          0.04267670824507727,
+          0.3592512598992081,
+          0.057111477210323995
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（2）实验中必须测量落点到0点的距离，则需要刻度尺；要 测量小球的质量，则需要天平，故选A、B.",
+        "bbox": [
+          0.05855531557475402,
+          0.06432886169294735,
+          0.49388048956083513,
+          0.10167098140738998
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.(1)2.00 2.86 (2)0.620 0.609 (3)1.8 (4)见解析",
+        "bbox": [
+          0.5202783777297816,
+          0.08519651682748883,
+          0.9623230141588673,
+          0.10010198478073272
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_16",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "【解析】（1）打点计时器的打点时间间隔为T= 工 50 S= 0.02 s，由纸带可知，碰撞前A的速度大小=\\fra$ 4.00×10-²$ m/s=2.00m/s,两滑块碰撞后B滑块的速度大小 0.02 为= d $1×10-2$ m/s=2.86m/s. ∆tB3.5×10-3 (2)碰撞前两滑块的总动量大小为p=m{=0.310× 2.00kg·m/s=0.620kg·m/s，碰撞后A滑块的速度大小为 $x^{1.94×10-2 m/s=0.97m/s，碰撞后两滑块的总动量 T 0.02 大小为p′=mv'+mβB=0.609kg •m/s. (3)本实验相对误差为Pp_0.620-0.609×100%=1.8%. p 0.620 (4)本实验相对误差为1.8%，小于实验允许的相对误差绝对 值5%，可以验证动量守恒定律.",
+        "bbox": [
+          0.5363570914326854,
+          0.1081038675766847,
+          0.9743220542356611,
+          0.25056876127716327
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(3)斜槽轨道是否光滑对实验的结果没有影响，射球每次 释放的初位置应相同，以保证到达斜槽末端的速度相同，故A 错误；斜槽轨道末端必须水平，以保证小球做平抛运动，故B 正确；为保证入射小球碰后沿原方向运动，应满足入射小球的 质量m₁大于被碰小球的质量m2，故C错误.故选B.",
+        "bbox": [
+          0.05927525797936165,
+          0.10888836589001334,
+          0.49556035517158625,
+          0.21259904291205775
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(4)实验要验证的关系式是m1=m1₁+m22,上述分析可 知να√L,则表达式可表示为m1·√OP=m1·√OM+m2• √ON,故选B.",
+        "bbox": [
+          0.05927525797936165,
+          0.21950262806934964,
+          0.4931605471562275,
+          0.2893229779555974
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3984",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_7",
+    "source": "visual_seed",
+    "member_count": 14,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5365970722342213,
+          0.040480112967757116,
+          0.9721622270218383,
+          0.07829293167019691
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_17",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.53899688024958,
+          0.25904134306111243,
+          0.9755219582433405,
+          0.3613399231191653
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【思路导引】",
+        "bbox": [
+          0.06767458603311735,
+          0.3680866086137915,
+          0.15694744420446363,
+          0.38346277555503255
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_18",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5399568034557235,
+          0.36918490625245154,
+          0.9755219582433405,
+          0.4452812426453283
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09263258939284857,
+          0.38958186239899584,
+          0.4406047516198704,
+          0.5091394053502785
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【解析】（1）以水平向右为正方向，由动量守恒定律得 $mm=0,球离开桌后做平抛运动，由于球的半径相 等、抛出点高度相同，球在空中做平抛运动的时间t相等， 则mbνbt−mvat =0,即mb •02B−ma · 0₁A=0,实验需要验证 的表达式为m·O₁A=m·_2B，实验需要测量两小球的质 量与小球做平抛运动的水平位移，故选B、E.",
+        "bbox": [
+          0.5401967842572594,
+          0.49847022828900917,
+          0.9779217662586993,
+          0.6337177375068643
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【解析】（1）实验中，可以根据平抛运动规律求出碰后球B的 速度，还需要测量球B做平抛运动的水平位移s.",
+        "bbox": [
+          0.06263498920086392,
+          0.5183964854475562,
+          0.4974802015838733,
+          0.5569938024633247
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "（2）分析球A的运动，根据机械能守恒定律，有mAgL（1- cosβ)= \\m，碰后球A的动量p= mν，联立可得p = 2 m√2gL（1-cosβ），分析B球的运动，根据平抛运动规律， 有s=t,H=− 1 gt2²,碰后球B的动量pB=mB，联可得 2 Pβ=m2f$",
+        "bbox": [
+          0.06215502759779218,
+          0.5640542872832823,
+          0.4984401247900168,
+          0.7231505452263277
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2)由(1)可知，实验需要验证的关系式为ma·OA=m·02B. （3）小球与弹簧脱离后在桌面上运动过程中受到摩擦力的作 用，小球质量m越大，小球受到的摩擦力越大，其对质量大的 球的冲量大，小球离开桌面时，质量大的球的动量小于质量 小的球的动量，所以造成这一结果的原因是摩擦力对质量大 的球的冲量大.",
+        "bbox": [
+          0.5418766498680105,
+          0.6395230250254962,
+          0.9791216702663786,
+          0.7725739389660312
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.(1)3m,√2gd 2m =m2 (2)A 【解析】（1)球1从A点由静止释放到最低点，由动能定理可 h=m1，解₁=3√2gd，前球1的动量大小为 p₁=m1₁=3m₁√2gd，同理可得碰后球1的速度小v= √2gd，碰后球2的速度大小v2=2√2gd，如果碰撞过程中动 量守恒，取向左为正方向，则应满足m₁₁=-m₁+m2^²，即 3m1√2gd =-m1√2gd+2m2√2gd,整理得2m =m2.",
+        "bbox": [
+          0.04895608351331893,
+          0.7620616615674276,
+          0.2956563474922006,
+          0.777280928846003
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.(1)大于(2)N (3)不会(4)",
+        "bbox": [
+          0.5260379169666427,
+          0.784655212991292,
+          0.8996880249580034,
+          0.8158782458617714
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.061675065994720425,
+          0.7860673099552836,
+          0.5001199904007679,
+          0.9417117753196831
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【解析】（1）为了保证碰撞前后入射球的速度方向不变，入射 球的质量应于被碰球的质量，即应该使ma于mb. (2)球离开轨道后做平抛运动，设板与抛出点之间的距离 为x,由平抛运动规律得平向x=ut,竖直向y=- 2}^$ 得$=x$ 碰撞前，小球a撞到图中的P点，设其水平初速",
+        "bbox": [
+          0.5413966882649388,
+          0.8226249313563976,
+          0.9800815934725222,
+          0.9641484270808818
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2)与根细线悬挂球相，本实验采双线摆的优点 是双摆线能保证小球运动更稳定，使得小球运动轨迹在同一 竖直平面内，避免小球做圆锥摆运动，A正确.",
+        "bbox": [
+          0.06215502759779218,
+          0.9483015611516435,
+          0.4991600671946244,
+          0.9641484270808818
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3984",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.(1）s,球B做平抛运动的平位移(2)m√2gL(1-cosβ) m^$$ $\\frac$",
+        "bbox": [
+          0.042236621070314374,
+          0.2996783556915353,
+          0.49148068154547636,
+          0.3560053345885306
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3984",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.(1)BE (2)m·O1A=m ·O2B (3)摩擦对质量的球 的冲量大",
+        "bbox": [
+          0.5231581473482121,
+          0.45187102847728877,
+          0.9762419006479481,
+          0.4910959441437201
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3984",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_10",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3984_10",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "刷提升",
+        "bbox": [
+          0.051115910727141826,
+          0.7339766219502628,
+          0.10895128389728821,
+          0.7485682905781753
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

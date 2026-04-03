@@ -1,0 +1,129 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_CalculusReview_page_004",
+    "primary_id": "docling_PPT_CalculusReview_page_004_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_PPT_CalculusReview_page_004_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Derivative of a line",
+        "bbox": [
+          0.25145348559431524,
+          0.09689153529909193,
+          0.7514534855943152,
+          0.15906084746840407
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_004_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "y = mx + b",
+        "bbox": [
+          0.05628113460254315,
+          0.2456259492010034,
+          0.2826194303120623,
+          0.30007018656188195
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_004_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "slope m and y axis intercept b",
+        "bbox": [
+          0.05668605262095631,
+          0.3158068794902491,
+          0.6162790716522994,
+          0.36640211758548724
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_004_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "derivative of y = ax^ + b with respect to x:",
+        "bbox": [
+          0.056686059384985533,
+          0.38359788369022557,
+          0.808139519593939,
+          0.43617724876959074
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_004_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "dy/dx = a n x(*-1)",
+        "bbox": [
+          0.054166660389129186,
+          0.4444444442176325,
+          0.37916666644420416,
+          0.5056216928948812
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_004_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Because b is a constant -- think of it as bxo -- its derivative is Obx-1 = 0",
+        "bbox": [
+          0.05668606112751332,
+          0.517441860861986,
+          0.9200581372528854,
+          0.6182170524473649
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_004_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "For a straight line, a = m and n = 1 so",
+        "bbox": [
+          0.05668604662583059,
+          0.6453488385356705,
+          0.7441860466258305,
+          0.6997354492429484
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_004_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "dy/dx = m 1 x0), or because x° = 1,",
+        "bbox": [
+          0.05523255737186622,
+          0.709302327447935,
+          0.7020348843614185,
+          0.7732558128863677
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_004_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "dy/dx = m",
+        "bbox": [
+          0.05513226705731412,
+          0.7802403679226195,
+          0.2689956398600485,
+          0.8321627321323144
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

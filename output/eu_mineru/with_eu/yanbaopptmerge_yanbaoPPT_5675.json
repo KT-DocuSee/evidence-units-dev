@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5675",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5675_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5675_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "任务驱动一：阅读例1，找出已知条件和问题，把获得的数学信息 问题写出来，并合作解决这个问题。",
+        "bbox": [
+          0.08748906386701662,
+          0.14844444444444443,
+          0.9533808273965755,
+          0.30933333333333335
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5675_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.写出获得的数学信息及问题，列出式子解决这个问题。 每套书有14册，王老师买了12套，求一共买了多少册。 就是求12个14是多少，乘法计算，列式：14×12。",
+        "bbox": [
+          0.09448818897637795,
+          0.336,
+          0.8278965129358831,
+          0.6275555555555555
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

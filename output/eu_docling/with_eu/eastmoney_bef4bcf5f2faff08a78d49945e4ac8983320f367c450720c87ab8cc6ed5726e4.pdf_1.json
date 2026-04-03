@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_bef4bcf5f2faff08a78d49945e4ac8983320f367c450720c87ab8cc6ed5726e4.pdf_1",
+    "primary_id": "docling_eastmoney_bef4bcf5f2faff08a78d49945e4ac8983320f367c450720c87ab8cc6ed5726e4.pdf_1_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_bef4bcf5f2faff08a78d49945e4ac8983320f367c450720c87ab8cc6ed5726e4.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2022H1 14 5 122",
+        "bbox": [
+          0.35728953073330977,
+          0.08854166678545786,
+          0.5790554421619675,
+          0.10319767407534433
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_bef4bcf5f2faff08a78d49945e4ac8983320f367c450720c87ab8cc6ed5726e4.pdf_1",
+    "primary_id": "docling_eastmoney_bef4bcf5f2faff08a78d49945e4ac8983320f367c450720c87ab8cc6ed5726e4.pdf_1_6",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_bef4bcf5f2faff08a78d49945e4ac8983320f367c450720c87ab8cc6ed5726e4.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "o AlTit 2 a 2022~2024 4 EPS A 81 # 0.98, 1.18. 1.29 4/12,",
+        "bbox": [
+          0.361396305701741,
+          0.19912790670060235,
+          0.9096509313619137,
+          0.21511627932168456
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_bef4bcf5f2faff08a78d49945e4ac8983320f367c450720c87ab8cc6ed5726e4.pdf_1_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "*1: 75* | 2021A | 2022E| | 2023E | 2024E | 12753 | 11204 | 12573 | 13436 | 10.6% | -12.1% | 12.2% | 6.9% | 1340 | 1107 | 1339 | 1459 | 295.6% | -17.4% | 21.0% | 8.9% | EU * (%) | 42.1% | 37.5% | 38.8% | 39.7% | ROE (%) | 6.9% | 5.5% | 6.3% | 6.4% | 1.36 | 0.98 | 1.18 | 1.29 | P/E | 19.79 | 23.52 | 19.44 | 17.84",
+        "bbox": [
+          0.3580902357920194,
+          0.27473726961642264,
+          0.9320204895093335,
+          0.4444512232290776
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

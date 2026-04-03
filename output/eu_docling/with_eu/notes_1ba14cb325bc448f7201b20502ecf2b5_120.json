@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_120",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_120_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_120_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NO",
+        "bbox": [
+          0.7946611916570796,
+          0.06250000000371508,
+          0.8193018477093035,
+          0.07412790684844454
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_120_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7967145796317754,
+          0.09011627918522497,
+          0.8316221765968353,
+          0.10029069743783699
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_120",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_120_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_120_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "25 PELORELHANO — FOFASER",
+        "bbox": [
+          0.13742225292879745,
+          0.18661215007496232,
+          0.7270364902109016,
+          0.21344024799363928
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_120_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "28. ФЕДЕРА — 77",
+        "bbox": [
+          0.139630391473076,
+          0.28050595279658175,
+          0.5030800762630637,
+          0.3023313496219787
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_55",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7766393446908849,
+          0.09011627907621339,
+          0.8114754083828857,
+          0.10029069732882528
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_55",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "37 (ES t",
+        "bbox": [
+          0.10655737447842907,
+          0.22383720973742127,
+          0.24590163992438127,
+          0.24429563458564485
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_55",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_9",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(D*IR: F7*. 175.",
+        "bbox": [
+          0.12704918272731616,
+          0.2848837213539457,
+          0.42418032536694616,
+          0.30679563479428673
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ОДР I7717767",
+        "bbox": [
+          0.13729509060918882,
+          0.3154069767889916,
+          0.4938524575055653,
+          0.3386627904784505
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "117.2754.",
+        "bbox": [
+          0.0962537523621485,
+          0.3791266457908662,
+          0.2705495288147596,
+          0.40139661000900584
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "2175175 € 1F | #IE",
+        "bbox": [
+          0.10310578712027109,
+          0.4315281442031559,
+          0.95660400390625,
+          0.6486720511093441
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2. Rt3J6",
+        "bbox": [
+          0.09008590122919456,
+          0.6930747141890442,
+          0.21319278630234448,
+          0.7139020302915716
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_55_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7404NE45845) (41);",
+        "bbox": [
+          0.21124912270195734,
+          0.8764534884556582,
+          0.6106557426715329,
+          0.8998015871651279
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

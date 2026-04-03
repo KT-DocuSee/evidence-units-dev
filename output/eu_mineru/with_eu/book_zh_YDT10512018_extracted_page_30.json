@@ -1,0 +1,136 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_YDT10512018_extracted_page_30",
+    "primary_id": "mineru_book_zh_YDT10512018_extracted_page_30_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_YDT10512018_extracted_page_30_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "YD/T 1051-2018",
+        "bbox": [
+          0.1030812324929972,
+          0.08234362628661916,
+          0.25098039215686274,
+          0.09817893903404593
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_zh_YDT10512018_extracted_page_30",
+    "primary_id": "mineru_book_zh_YDT10512018_extracted_page_30_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_YDT10512018_extracted_page_30_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "C.3本标准市电可靠性指标公式",
+        "bbox": [
+          0.10532212885154062,
+          0.1060965954077593,
+          0.365266106442577,
+          0.12351543942992874
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "book_zh_YDT10512018_extracted_page_30",
+    "primary_id": "mineru_book_zh_YDT10512018_extracted_page_30_7",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_book_zh_YDT10512018_extracted_page_30_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "市电不可用度指标见公式（C.1）： 市电不可用度-市电停电时间-1-市电供电可靠率 统计期时间",
+        "bbox": [
+          0.13893557422969188,
+          0.1377672209026128,
+          0.6543417366946779,
+          0.19635787806809185
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_zh_YDT10512018_extracted_page_30_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "平均年停电时间指标见公式（C2）：",
+        "bbox": [
+          0.1411764705882353,
+          0.20269200316706254,
+          0.41008403361344536,
+          0.220110847189232
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_zh_YDT10512018_extracted_page_30_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "C.4本标准市电可靠性指标取值",
+        "bbox": [
+          0.10532212885154062,
+          0.2992874109263658,
+          0.365266106442577,
+          0.3167062549485352
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_zh_YDT10512018_extracted_page_30_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本标准取市中心市电可靠性指标平均值为一类市电可靠性指标，取市区+城镇市电可靠性指标平均 值为二类市电可靠性指标，取农村市电可靠性指标平均值为三类市电可靠性指标，见表C.3。",
+        "bbox": [
+          0.10084033613445378,
+          0.3309580364212193,
+          0.8941176470588236,
+          0.37054631828978624
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_zh_YDT10512018_extracted_page_30_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表C.3本标准市电可靠性指标取值",
+        "bbox": [
+          0.3563025210084034,
+          0.38004750593824227,
+          0.6386554621848739,
+          0.3974663499604117
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_zh_YDT10512018_extracted_page_30_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09635854341736695,
+          0.4053840063341251,
+          0.9008403361344538,
+          0.5542359461599367
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

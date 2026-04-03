@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_840",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_840_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_840_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(27) A",
+        "bbox": [
+          0.0305232548764535,
+          0.2971576218641347,
+          0.2180232548764535,
+          0.37742504532906285
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_840",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_840_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_840_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MALE SIE",
+        "bbox": [
+          0.5027281433808423,
+          0.5555555554169944,
+          0.9723837044495436,
+          0.6614987070894655
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

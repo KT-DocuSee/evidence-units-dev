@@ -1,0 +1,257 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "The 69th William Lowell Putnam Mathematical Competition Saturday, December 6, 2008",
+        "bbox": [
+          0.24627450980392157,
+          0.06363636363636363,
+          0.7592156862745097,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A1 Let f : R2 → R be a function such that f(x,y) + f (, z) + f (z, x) = 0 for all real numbers x, y, and z. Prove that there exists a function g : IR → IR such that f (x, y) = g(x) − g(y) for all real numbers x and y.",
+        "bbox": [
+          0.1011764705882353,
+          0.13454545454545455,
+          0.49019607843137253,
+          0.19393939393939394
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(The elements of G in the sequence are not required to be distinct. A subsequence of a sequence is obtained by selecting some of the terms, not necessarily consec- utive, without reordering them; for example, 4, 4, 2 is a subsequence of 2, 4, 6, 4, 2, but 2, 2, 4 is not.)",
+        "bbox": [
+          0.556078431372549,
+          0.13575757575757577,
+          0.92,
+          0.20787878787878789
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A2 Alan and Barbara play a game in which they take turns filling entries of an initially empty 2008 × 2008 array. Alan plays first. At each turn, a player chooses a real number and places it in a vacant entry. The game ends when all the entries are filled. Alan wins if the determi- nant of the resulting matrix is nonzero; Barbara wins if it is zero. Which player has a winning strategy?",
+        "bbox": [
+          0.10196078431372549,
+          0.20303030303030303,
+          0.4894117647058824,
+          0.30484848484848487
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B1 What is the maximum number of rational points that can lie on a circle in IR2 whose center is not a rational point? (A rational point is a point both of whose coordinates are rational numbers.)",
+        "bbox": [
+          0.5325490196078432,
+          0.2175757575757576,
+          0.9192156862745098,
+          0.27575757575757576
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B2 Let F0(x) = 1nx. For n ≥ 0 and x > 0, let Fn+1(x) = Jα Fn(t) dt. Evaluate",
+        "bbox": [
+          0.5317647058823529,
+          0.28545454545454546,
+          0.9192156862745098,
+          0.31575757575757574
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A3 Start with a finite sequence a1 , a2, . . , an of positive in- tegers. If possible, choose two indices j < k such that aj does not divide ak, and replace aj and ak by gcd(aj, ak) and lcm(aj, ak), respectively. Prove that if this process is repeated, it must eventually stop and the final se- quence does not depend on the choices made. (Note: gcd means greatest common divisor and lcm means least common multiple.)",
+        "bbox": [
+          0.10196078431372549,
+          0.3145454545454546,
+          0.4894117647058824,
+          0.4309090909090909
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B3 What is the largest possible radius of a circle contained in a 4-dimensional hypercube of side length 1?",
+        "bbox": [
+          0.5317647058823529,
+          0.3557575757575758,
+          0.9192156862745098,
+          0.3836363636363636
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B4 Let p be a prime number. Let h(x) be a polynomial with integer coefficients such that h(0), h(1), . ., h(p2 − 1) are distinct modulo p2. Show that h(0),h(1),. ., h(p3 − 1) are distinct modulo p3.",
+        "bbox": [
+          0.5325490196078432,
+          0.3933333333333333,
+          0.9192156862745098,
+          0.4509090909090909
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A4 Define f : R → R by",
+        "bbox": [
+          0.10196078431372549,
+          0.44,
+          0.26666666666666666,
+          0.45515151515151514
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B5 Find all continuously differentiable functions f : R  IR such that for every rational number q, the number f (q) is rational and has the same denominator as q. (The denominator of a rational number q is the unique posi- tive integer b such that q = a/b for some integer a with gcd(a, b) = 1.) (Note: gcd means greatest common di- visor.)",
+        "bbox": [
+          0.5325490196078432,
+          0.46060606060606063,
+          0.9192156862745098,
+          0.5618181818181818
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Does ∑n=1 (n converge?",
+        "bbox": [
+          0.12627450980392158,
+          0.5187878787878788,
+          0.2996078431372549,
+          0.5387878787878788
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A5 Let n ≥ 3 be an integer. Let f (x) and g(x) be poly- nomials with real coefficients such that the points (f (1), g(1)), (f (2), g(2)), . . , (f (n), g(n)) in R2 are the vertices of a regular n-gon in counterclockwise order. Prove that at least one of f (x) and g(x) has degree greater than or equal to n – 1.",
+        "bbox": [
+          0.10196078431372549,
+          0.5466666666666666,
+          0.4886274509803922,
+          0.6351515151515151
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B6 Let n and k be positive integers. Say that a permutation σ of {1, 2, . ., n} is k-limited if |σ(i) − i| ≤ k for all i. Prove that the number of k-limited permutations of {1, 2, . .,n} is odd if and only if n = 0 or 1 (mod 2k + 1).",
+        "bbox": [
+          0.5325490196078432,
+          0.5721212121212121,
+          0.9192156862745098,
+          0.6309090909090909
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Problems_2008_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A6 Prove that there exists a constant c > 0 such that in ev- ery nontrivial finite group G there exists a sequence of length at most c log |G| with the property that each el- ement of G equals the product of some subsequence.",
+        "bbox": [
+          0.1011764705882353,
+          0.6448484848484849,
+          0.49019607843137253,
+          0.7024242424242424
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

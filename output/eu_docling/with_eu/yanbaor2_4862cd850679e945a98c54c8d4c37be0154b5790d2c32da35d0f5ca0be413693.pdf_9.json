@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9",
+    "primary_id": "docling_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.9130629742945703,
+          0.0019278601262416632,
+          0.9978064919904339,
+          0.0967409348401366
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "РЕТ",
+        "bbox": [
+          0.034883730513398076,
+          0.17453798766763692,
+          0.781976749544741,
+          0.2012320326609052
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9",
+    "primary_id": "docling_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.3",
+        "bbox": [
+          0.0523255812935295,
+          0.08213552322350244,
+          0.11191860410929441,
+          0.13141683746878263
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9",
+    "primary_id": "docling_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "#ME (56) | Д; | 107 | 3. \"ЕЕ\" ТДЕ; | 20 | 2",
+        "bbox": [
+          0.03528699348909624,
+          0.22858736160444376,
+          0.9642757238002352,
+          0.9008719687594468
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_142",
+    "primary_id": "mineru_PPT_ch7_page_142_0",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_142_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "SUMMARY OF CHAPTER Linear Algebra: Matrices, Vectors, Determinants. Linear Systems",
+        "bbox": [
+          0.39666666666666667,
+          0.032,
+          0.956,
+          0.1928888888888889
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_ch7_page_142_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(continued 3)",
+        "bbox": [
+          0.058666666666666666,
+          0.15733333333333333,
+          0.22066666666666668,
+          0.19377777777777777
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_ch7_page_142_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The transpose AT of a matrix A = [ak] is AT = [ajk]; rows become columns and conversely (Sec. 7.2). Here, A need not be square. If it is and A = AT, then A is called symmetric; if A = -AT, it is called skew-symmetric.",
+        "bbox": [
+          0.052,
+          0.22933333333333333,
+          0.9546666666666667,
+          0.44355555555555554
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_PPT_ch7_page_142_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For a product, (AB)T = BTAT (Sec. 7.2).",
+        "bbox": [
+          0.056666666666666664,
+          0.44622222222222224,
+          0.6133333333333333,
+          0.49777777777777776
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_PPT_ch7_page_142_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A main application of matrices concerns linear systems of equations",
+        "bbox": [
+          0.056,
+          0.5022222222222222,
+          0.9546666666666667,
+          0.6026666666666667
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_PPT_ch7_page_142_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2) Ax= b (Sec. 7.3) (m equations in n unknowns x1 . , x#i A and b given).",
+        "bbox": [
+          0.048,
+          0.6204444444444445,
+          0.8846666666666667,
+          0.7475555555555555
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

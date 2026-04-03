@@ -1,0 +1,894 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_18",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_18",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Asda trails the pack for festive sales",
+        "bbox": [
+          0.41379310344827586,
+          0.06756953545944372,
+          0.5806451612903226,
+          0.145041502839668
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_0",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.028921023359288096,
+          0.06989951944080385,
+          0.39970337411939194,
+          0.22076598223387214
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.16017797552836485,
+          0.4980340760157274,
+          0.2721542454579162,
+          0.6477355468181156
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.28624397478680014,
+          0.4980340760157274,
+          0.39451242120875046,
+          0.5603611475171109
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "alistair.osborne@thetimes.co.uk",
+        "bbox": [
+          0.7927326659251019,
+          0.9547109363623125,
+          0.9484612532443456,
+          0.964030872287753
+        ],
+        "order": 54
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_35",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_35",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Wolfson tidings spell trouble ahead",
+        "bbox": [
+          0.6080830552465702,
+          0.0745594874035241,
+          0.9588431590656284,
+          0.14271151885830785
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_19",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_19",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Emma Taggart",
+        "bbox": [
+          0.41379310344827586,
+          0.15902140672782875,
+          0.48127549128661473,
+          0.16834134265326925
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_36",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_36",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "BUSINESS COMMENTARY Alistair Osborne",
+        "bbox": [
+          0.6095661846496107,
+          0.16076889471384884,
+          0.8513162773451983,
+          0.17241881462064948
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Debt-laden Asda was the worst-per- forming supermarket chain over the Christmas period.",
+        "bbox": [
+          0.41453466814979606,
+          0.17358380661132955,
+          0.5895439377085651,
+          0.20037862239697102
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "hristmas traditions aren't always fair. Take the one that allows Lord Wolfson of Aspley Guise to parade his festive figures ahead of just about every other retailer. How are the rest supposed to keep up with the Next boss: a best-in-class shopkeeper, who once again has upgraded profits guidance?",
+        "bbox": [
+          0.6088246199480905,
+          0.18232124654143003,
+          0.778642936596218,
+          0.26969564584243483
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "cent versus 2024-25's 5.5 per cent and 10 per cent. True, he's renowned for downplaying his forecasts, even if he says:\"Its better than the alternative\" Yet, if a retailer as well-run and financed as Next sees trouble ahead, what does that mean for the rest of the sector? Probably not the happiest new year.",
+        "bbox": [
+          0.7912495365220615,
+          0.18232124654143003,
+          0.9595847237671487,
+          0.2621231979030144
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The private equity-controlled group suffered a 5.8 per cent fall in sales in the 12 weeks to December 29, driving its market share down from 13.5 per cent to 12.5 per cent, data from the market research group Kantar showed.",
+        "bbox": [
+          0.41379310344827586,
+          0.20096111839231107,
+          0.5902855024100853,
+          0.2528032619775739
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_2",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Source: Next",
+        "bbox": [
+          0.35372636262513907,
+          0.22426095820591233,
+          0.39525398591027067,
+          0.23125091014999272
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "£26m Totanimpact ofe £21m 门 changes (▲2.9%) Total effect of national living wage (▲2.3%) £18m Effect of normal infation at er en £65m (2%) Total wage cost increase (▲7.2%)",
+        "bbox": [
+          0.0037078235076010383,
+          0.22950342216397263,
+          0.40192806822395255,
+          0.48987913208096695
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Asda said it had seen improvements to its sales and market share in the four weeks to December 29 compared with the same period in 2023.",
+        "bbox": [
+          0.41379310344827586,
+          0.25338575797291396,
+          0.5895439377085651,
+          0.28775302169797584
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Typically, Santa delivered for Next: full-price sales up an underlying 5.7 per cent over Wolfson's nine weeks of Noel and enough jingling in the tills to nudge thefull-year profitforecasts another £5 million higher to £l.01 billion pre-tax. As for the shares, they rose 4 per cent to £99.12.",
+        "bbox": [
+          0.6095661846496107,
+          0.2702781418377749,
+          0.7764182424916574,
+          0.3489151012086792
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_46",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_46",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "A starter for six",
+        "bbox": [
+          0.7927326659251019,
+          0.2702781418377749,
+          0.9284390063033,
+          0.28600553371195575
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Leeds-based grocer has strug- gled with slowing sales since it was bought by the private equity firm TDR and the billionaire Issa brothers in 2021 in a highly leveraged £6.8 billion take- over deal. Asda's large debt pile has also prevented it from keeping up with lower-priced competitors such as the German discounters Aldi and Lidl.",
+        "bbox": [
+          0.41305153874675565,
+          0.28833551769331583,
+          0.5902855024100853,
+          0.3669724770642202
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "eing a self-styled \"investor\", \"blackackcardcounten sasaius qualifications for successfully sacking the entire boards of seven UK investment trusts. But, they should at least give Saba Capital's founder boss Boaz Weinstein a decent appreciation of odds. Hence, one thought: surely even he isn't expecting victory at all of them.",
+        "bbox": [
+          0.7919911012235817,
+          0.2964904616280763,
+          0.9566184649610678,
+          0.3931847968545216
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "So, all's well with the world? Not exactly. Wolfson's seasonal update was crowned in thorns: a looming £67 million jump in wage costs, mainly due to Rachel Reeves's budget, and a warning that the UK economy is in for a\"ackluste\"year As he put it: \"We believe that UK growth is likely to slow, as employer tax increases, and their potential impact on prices and employment, begin to filter through into the economy.\"As ever with Wolfson, too, he brought some forensics to the subject—the sort seemingly beyond most chief executives, let alone government ministers.",
+        "bbox": [
+          0.6095661846496107,
+          0.34949759720401924,
+          0.7771598071931776,
+          0.4980340760157274
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In November Lord Rose of Monew- den, then chairman of Asda, admitted that the group had \"not been as sharp on our trading stance as we should have been .. we have lost a bit of market share and a bit of momentum\".",
+        "bbox": [
+          0.41379310344827586,
+          0.3669724770642202,
+          0.5902855024100853,
+          0.4199796126401631
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The biggest clue? That he's nominated one of his sidekicks to the board of no less than six of them. Who he? Well, not Max, Sabas chef happiness officer, aky member of the Us hedge funds seven-strong team, right down to his bow tie, even if he happens to be a dogbuPauKazarnp & portfolio manager. As you hardly need one of the under-fire trusts, CQS Natural Resources, to point out: \"Membership of six UK-quoted company boards is a case of 'over- boarding' which most voting advisory bodies would consider to be a breach of the usual standards of corporate governance.\"",
+        "bbox": [
+          0.7912495365220615,
+          0.3931847968545216,
+          0.9603262884686689,
+          0.5510412115916703
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The fallin Asda's market share comes as inflation across supermarkets climbed to its highest level since March last year. Grocery price infl ation rose to 3.7per cent last month, up from 2.6 per cent in November, according to Kantar.",
+        "bbox": [
+          0.41379310344827586,
+          0.42056210863550314,
+          0.5902855024100853,
+          0.472404252220766
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Overall grocery sales climbed 2.1 per cent in the four weeks to December 29, as households spent an average of £460 on groceries during the period.",
+        "bbox": [
+          0.41379310344827586,
+          0.472404252220766,
+          0.5895439377085651,
+          0.5067715159458279
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a detailed report, Next also warned of the challenges to the wider UK economy, cautioning that growth was likely to slow as \"employer tax increases, and their potential impact on prices and employment, begin to filter through into the company\".",
+        "bbox": [
+          0.034853540971449756,
+          0.49745158002038736,
+          0.1460882461994809,
+          0.6127857870977137
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_41",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The chancellor's budget raised staff costs in two ways. First by upping the national living wage. Then by lifting the main rate of employers'national insurance contributions (NICs) to 15 per cent from 13.8per cent and also lowering the threshold at which the tax kicks in to £5,000 from £9,100.And it's over the threshold that Wolfson's analysis is particularly telling.",
+        "bbox": [
+          0.6095661846496107,
+          0.4986165720110674,
+          0.7764182424916574,
+          0.5947284112421727
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_27",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fraser McKevitt, the head of retail and consumer insight at Kantar, said: \"I was a solid Christmas at the super markets with sales surpassing £l3 bil- lion during the four weeks of December for the first time ever.\"",
+        "bbox": [
+          0.41305153874675565,
+          0.5073540119411679,
+          0.5902855024100853,
+          0.5597786515217708
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_48",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "They would. Lob in Kazarian's existing director or trusteeships at three US-listed companies and he would be quite a busy bee,fitting around to endless board meetings. And that's before you consider just how conflicted he'd be, doing all that while still managing Saba portfolios. As CQS also notes: \"Sabas materials state that Paul Kazarian has extensive experience as an investment trust director. In fact, according to Companies House records, it appears he has never acted as a director of a UK investment trust, nor even a UK company of any sort.\" Starting out with' six would be kind of pushing it. Even Weinstein must know that.",
+        "bbox": [
+          0.7912495365220615,
+          0.5510412115916703,
+          0.9588431590656284,
+          0.7188000582495996
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The high street leader has added to a growing number of retail businesses, including AO and Currys, warning over price rises to combat cost increases. The British Chambers of Commerce said earlier this week that more than half of companies were planning to lift prices over the next three months due to cost pressures.",
+        "bbox": [
+          0.28624397478680014,
+          0.5597786515217708,
+          0.3974786800148313,
+          0.7007426823940586
+        ],
+        "order": 28
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tesco continued to solidify its posi- tion as Britain's biggest supermarket chain as it grew its market share by 0.8 percentage points to 28.5 per cent in 12 weeks to December 29. Sales rose 5 per cent in the festive period.",
+        "bbox": [
+          0.41305153874675565,
+          0.5603611475171109,
+          0.5902855024100853,
+          0.6127857870977137
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_42",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Most employees in Next's 458 UK shops are part-timers, working when the stosaebusest.Ty pan mothers with school-age kids, students and people between jobs. And when the tax changes take effect in April it's those people who'll be pricier to employ — £20 million more a year in Next's case.",
+        "bbox": [
+          0.6095661846496107,
+          0.5953109072375128,
+          0.7779013718946978,
+          0.6739478666084171
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_29",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sainsburys reported its largest market share since December 2019 at 16 per cent. Sales at Britain's second big- gest supermarket group outpaced the wider market to rise 3.5 per cent in the 12 weeks to December 29.",
+        "bbox": [
+          0.41305153874675565,
+          0.6127857870977137,
+          0.5902855024100853,
+          0.6652104266783165
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Next said the rise in national insurance for employers \"creates a disproportionate increase in the cost of part-time work in stores', which makes up a significant proportion of employment across the industry. To highlight the point, Next included a table in its trading update which showed the national insurance changes on three levels of salaries. The graph showed that a £9,520 part-time national living wage salary will increase by 6.5 per cent, while a full-time wage of £22,310 would increase by 3.5 per cent and a £60,000 salary by 2 per cent.",
+        "bbox": [
+          0.035595105672969966,
+          0.6133682830930537,
+          0.1453466814979607,
+          0.7007426823940586
+        ],
+        "order": 32
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Higher costs of employing low-paid, part-time workers could deter retailers from hiring, reducing opportunities for those seeking flexible roles to re-enter the workforce. This risks undermining social mobility and getting more people back into the workplace.",
+        "bbox": [
+          0.16166110493140526,
+          0.6477355468181156,
+          0.26918798665183535,
+          0.7007426823940586
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_30",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The German discount chains Aldi and Lidl both recorded their highest market share for the festive quarer, at 10 per cent and 7.3 per cent respectively.",
+        "bbox": [
+          0.41453466814979606,
+          0.6657929226736566,
+          0.5895439377085651,
+          0.7013251783893986
+        ],
+        "order": 34
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_43",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As Wolfson shows, the impact of the higher living wage and the NIC changes on a part-time worker earning £9,520 a year for a 16-hour week tots up to 13.2 per cent of their wage packet. Contrast a full-time staffer on £60,000 a year: just 4 per cent. As he points out, the lower threshold\"creates a disproportionate increase in the cost of part-time work in stores\"",
+        "bbox": [
+          0.6095661846496107,
+          0.6739478666084171,
+          0.7779013718946978,
+          0.7700597058395223
+        ],
+        "order": 35
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_9",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_9",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Telegraph boss thought sale would go quicker",
+        "bbox": [
+          0.034853540971449756,
+          0.7158875782728994,
+          0.21060437523173897,
+          0.8341342653269259
+        ],
+        "order": 36
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "process, which was called \"the news- paper auction from hell\" by the Columbia Journalism Review, but said staff were able to \"shut out the noise\".",
+        "bbox": [
+          0.22469410456062291,
+          0.7176350662589195,
+          0.40044493882091214,
+          0.7531673219746614
+        ],
+        "order": 37
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ministers blocked its attempts to con- vert its debt into equity ownership amid concerns about foreign powers buying UK media assets. RedBird IMI sold The Spectator to Paul Marshall, the GB News owner, for £100 million but is seek- ing to recoup a total of £600 million. Lord Saatchi said RedBird had \"over- paid\" when his £350 million offer for The Telegraph was rejected in August.",
+        "bbox": [
+          0.41305153874675565,
+          0.7176350662589195,
+          0.5902855024100853,
+          0.8055919615552644
+        ],
+        "order": 38
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_50",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_50",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Reeves in a pickle",
+        "bbox": [
+          0.7927326659251019,
+          0.72579001019368,
+          0.9447534297367445,
+          0.7426823940585409
+        ],
+        "order": 39
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_51",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "oone's yet hit an iceberg or any other sort of lettuce. But look at the latest from the gilts market: yields on the 30-year havehita 27-year highup 0.07percentage points to5.24 per cent. Even the mini-budget of Liz Truss and Kwai Kwarrash faieo hit such heady heights.",
+        "bbox": [
+          0.7912495365220615,
+          0.7520023299839813,
+          0.9595847237671487,
+          0.8318042813455657
+        ],
+        "order": 40
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Jones's intervention followed a new year message to staff from Chris Evans, The Telegraphs editor-in-chief, in which he described the situation as un- satisfactory. \"Last year was supposed to be the year when The Telegraph was sold. We were told we would be sold by thesummer, then by autumn and, at the latest, by Christmas he wrote. \"But . we don't know when it might be sold.\"",
+        "bbox": [
+          0.2239525398591027,
+          0.7531673219746614,
+          0.40118650352243235,
+          0.8405417212756662
+        ],
+        "order": 41
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In short, Reevess budget has the biggest impact on poorer workers, Labour's typical constituency. As Wolfson explains\"I don't object to it [the lower threshold] in principle. It's just the speed and scale at which these changes are coming in that is damaging. I don't think they were well thought through. It would have been more sensible to phase them in.\" Worse, they will \"exacerbate\" a labour market that was \"already softening\". This Christmas Next had 20per cent fewer vacancies but \"25 per cent more people applying",
+        "bbox": [
+          0.6095661846496107,
+          0.7700597058395223,
+          0.7771598071931776,
+          0.9017038007863696
+        ],
+        "order": 42
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Telegraph has reported calls from senior politicians for Lisa Nandy, the culture secretary, to intervene.",
+        "bbox": [
+          0.41379310344827586,
+          0.8061744575506044,
+          0.5895439377085651,
+          0.8318042813455657
+        ],
+        "order": 43
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Yesterday Jones wrote on LinkedIn: \"The Telegraph Media Group has been for sale for 18 months now and I've been CEO for almost a year. To be candid, we thought it would' be done and dusted within six months.\"",
+        "bbox": [
+          0.41379310344827586,
+          0.8323867773409058,
+          0.5902855024100853,
+          0.8842289209261687
+        ],
+        "order": 44
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It leaves Rachel Reeves in a bit of a pickle. With borrowing costs rocketing, she's now tight on fiscal headroom, with all but £l billion of the £9.9 billion wiped out on Capital Economics estimates. The upshot? She coul face it ens, he \"nst choice of breaking her fiscal rules or announcing more tax rises and/or spending restraint at a time when the economy is already weak\". How wilting wouid that be for Reeves and her boss, Starmergeddon?",
+        "bbox": [
+          0.7912495365220615,
+          0.8323867773409058,
+          0.9610678531701891,
+          0.9459734964322121
+        ],
+        "order": 45
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "He added: \"There's obviously a limit to what we can do in these circumstan- ces but we're going to try to do every- thingwecan orecover momentum and to defeat the inevitable sense of drift.\"",
+        "bbox": [
+          0.2239525398591027,
+          0.8411242172710063,
+          0.40118650352243235,
+          0.8842289209261687
+        ],
+        "order": 46
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_031",
+    "primary_id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_12",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_12",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "James Hurley",
+        "bbox": [
+          0.036336670374490176,
+          0.8428717052570264,
+          0.09788654060066741,
+          0.8521916411824668
+        ],
+        "order": 47
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The chief executive of Telegraph Media Group has sought to reassure staff after the newspaper's editor warned of an \"inevitable sense of drift\" over the protracted auction of the business.",
+        "bbox": [
+          0.034853540971449756,
+          0.8574341051405272,
+          0.21134593993325917,
+          0.9017038007863696
+        ],
+        "order": 48
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RedBird IMI, a venture part-funded by an Emirati royal, has been in control of The Telegraphs future for nearly eight months but is struggling to find a buyer. The fund is seeking full repay- ment of the money it initially invested in the debt secured against The Telegraph and The Spectator, its sister publication, which was part of a plan for a full takeover of the titles.",
+        "bbox": [
+          0.2239525398591027,
+          0.8842289209261687,
+          0.40118650352243235,
+          0.9721858162225134
+        ],
+        "order": 49
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Jones, a former chief executive of Hearst Magazines, added: \"As someone who's been through these processes before and understands how challeng- ing it can be . Iremind everyone that yes there's lots of pressure but not all of it is real .. Listening to too many outside voices can become exhausting so we've been mindful to shut out the noise and focus on creating our own destiny.\"",
+        "bbox": [
+          0.41305153874675565,
+          0.8842289209261687,
+          0.5910270671116055,
+          0.9721858162225134
+        ],
+        "order": 50
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Anna Jones, who took over last year amid a potential sale of The Telegraph, admitted that the group's executives thought that an acquisition of the newspaper would have been \"done and dusted\" by now.",
+        "bbox": [
+          0.034853540971449756,
+          0.9022862967817096,
+          0.21134593993325917,
+          0.9541284403669725
+        ],
+        "order": 51
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Next can cope. Wolfson will offset higher staff costs with productivity savings and a l per cent rise in prices. But, with consumer spending under pressure, he still sees lower growth this year—full-price sales up 3.5 per cent and profits 3.6 per",
+        "bbox": [
+          0.6095661846496107,
+          0.9022862967817096,
+          0.7771598071931776,
+          0.9646133682830931
+        ],
+        "order": 52
+      },
+      {
+        "id": "mineru_newspaper_The Times UK_0801@magazinesclubnew_page_031_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "She said that there was \"lots of pres- sure\" on the business as a result of a sale",
+        "bbox": [
+          0.035595105672969966,
+          0.9547109363623125,
+          0.21134593993325917,
+          0.9727683122178535
+        ],
+        "order": 53
+      }
+    ]
+  }
+]

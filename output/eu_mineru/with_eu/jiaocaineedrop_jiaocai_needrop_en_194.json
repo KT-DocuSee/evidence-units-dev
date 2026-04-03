@@ -1,0 +1,195 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_194",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Unit 4 测试卷",
+        "bbox": [
+          0.42588592912566997,
+          0.06401332619430067,
+          0.7074634029277658,
+          0.09780474745671962
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_194",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_7",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "时间：90分钟",
+        "bbox": [
+          0.14974802015838734,
+          0.11541436135403653,
+          0.29245660347172225,
+          0.13611755607115236
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "满分：100分",
+        "bbox": [
+          0.8520918326533877,
+          0.11541436135403653,
+          0.9816814654827614,
+          0.1363555238265215
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Ⅱ．根据图片选择正确的单词。(8分)",
+        "bbox": [
+          0.15358771298296137,
+          0.45880183235171634,
+          0.62107031437485,
+          0.4847403176869534
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1929445644348452,
+          0.5004461895413171,
+          0.8296936245100393,
+          0.82622404664168
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_8",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Ⅲ.单项选择。(12分)",
+        "bbox": [
+          0.15294776417886569,
+          0.8426438217621512,
+          0.4361251099912007,
+          0.8678684038312808
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_194",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.15262778977681785,
+          0.14468439526444166,
+          0.9791216702663786,
+          0.20655601166042
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "I．写出下列图片对应的字母。(8分）",
+        "bbox": [
+          0.15710743140548755,
+          0.23392230352787197,
+          0.62107031437485,
+          0.25986078886310904
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_194",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_5",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1945444364450844,
+          0.28103991909096315,
+          0.8860091192704583,
+          0.43738473436849307
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_194",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "( )1. It a dog.",
+        "bbox": [
+          0.19774418046556275,
+          0.8854780177285978,
+          0.5458763298936085,
+          0.911654470819204
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_194_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. is B. are C. have",
+        "bbox": [
+          0.32221422286217105,
+          0.9295020524718901,
+          0.8120950323974082,
+          0.9521089892319591
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

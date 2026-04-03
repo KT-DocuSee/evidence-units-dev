@@ -1,0 +1,725 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_53",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1. Considered process variables of the FCCU case study.",
+        "bbox": [
+          0.06976743209162253,
+          0.08854166661479386,
+          0.43604651407116835,
+          0.1002906976665507
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "dataset, which is generated from simulation studies, in the FCCU process and extracted from the first and second optimal discriminant vector using Fisher discriminant analysis. Then the data was projected to the optimal discriminant vector, which resulted in the generation of a scatter plot of the first and second feature vector in the original space. It can be seen in Fig. 2 that only fault 1 can be differentiated clearly from the normal data and that faults 2 and 3 cannot be differentiated from normal data. The reason for this is that FDA is a linear method in operation. Consequently, it has a poor ability to deal with data which shows complex nonlinear relationship among variables. The scatter plot of the first kernel Fisher feature vector and the second vector via kernel FDA is presented in Fig. 3. It is seen from Fig. 3 that after projecting to the high-dimensional feature space through selecting the appropriate kernel function, the kernel Fisher discriminant method can easily discriminate data that belong to different classes.",
+        "bbox": [
+          0.49806201681341633,
+          0.3501984125558972,
+          0.8837209305218546,
+          0.5843253967703907
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The RBF function is used as the selected kernel function, and the parameter c is selected as 0.8 according to experience, viz:",
+        "bbox": [
+          0.5000000186693774,
+          0.5857558146005595,
+          0.8817829535386386,
+          0.6119186045124809
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The process disturbances considered are listed in Tab. 2. A 10 % loss of combustion air blower capacity was selected for",
+        "bbox": [
+          0.4961240394708529,
+          0.6555059525014657,
+          0.883720912079535,
+          0.6831395346010226
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_49",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 2. Process disturbances for FCCU.",
+        "bbox": [
+          0.496124035202252,
+          0.6991279068964019,
+          0.7364341083377997,
+          0.7123015873532598
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_53",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Case Disturbance | 1 | 10 % loss of combustion air blower capacity | 2 | 5% degradation in the flow of regenerated catalyst | 3 | 5% increase in the coke factor of the feed | 4 | 10% decrease in the heat exchanger coefficient of the furnace | 5 | 10% increase in fresh feed | 6 | 5% decrease in lift air blower speed | 7 | 5% increase in friction coefficient of regenerated catalyst | Negative bias of reactor pressure sensor",
+        "bbox": [
+          0.4983203331773669,
+          0.7173529423482831,
+          0.8815172845063899,
+          0.8968086968955405
+        ],
+        "order": 42
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_55",
+    "source": "visual_seed",
+    "member_count": 32,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_55",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.49950957716557015,
+          0.09453961120771476,
+          0.8823944479497504,
+          0.31608212177902595
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "normal",
+        "bbox": [
+          0.8294573643297833,
+          0.101744185833841,
+          0.868217054115269,
+          0.11046511644044084
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "fault2",
+        "bbox": [
+          0.8294573644182515,
+          0.12354651196238846,
+          0.8624030995998365,
+          0.13226744162288281
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "faults",
+        "bbox": [
+          0.8313953493393151,
+          0.1337209304812521,
+          0.8624030996529333,
+          0.1438953487338641
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.8",
+        "bbox": [
+          0.5135658921540253,
+          0.24418604670076058,
+          0.5368217055203932,
+          0.25290697636125486
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.6 -",
+        "bbox": [
+          0.5155038766501493,
+          0.2688492065163366,
+          0.5387596900165172,
+          0.27761627868683636
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "114",
+        "bbox": [
+          0.80426356620906,
+          0.2936046517106296,
+          0.8294573644433949,
+          0.31104651103161834
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "112",
+        "bbox": [
+          0.7441860463170661,
+          0.2979651161042509,
+          0.771317829419368,
+          0.3110465115410978
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "110",
+        "bbox": [
+          0.6879844963364459,
+          0.29796511639858236,
+          0.7151162794387477,
+          0.3110465118354292
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "106",
+        "bbox": [
+          0.5794573647075177,
+          0.2994186046202709,
+          0.6007751932059188,
+          0.3110465114650004
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "116",
+        "bbox": [
+          0.8604651165726299,
+          0.2994186047000022,
+          0.8837209299389979,
+          0.30959302295261404
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "108",
+        "bbox": [
+          0.6317829459972987,
+          0.3008720931084324,
+          0.6589147290996007,
+          0.3110465113610442
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_47",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4979632266624946,
+          0.6206395348901668,
+          0.8817829445366541,
+          0.6428677662650081
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "124 -",
+        "bbox": [
+          0.08720930285311676,
+          0.6555059523039436,
+          0.11240310108745169,
+          0.6642441857604797
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "d",
+        "bbox": [
+          0.13953488364115535,
+          0.6598837210045079,
+          0.14922480608752678,
+          0.6700581392571199
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "normal",
+        "bbox": [
+          0.4031007766857075,
+          0.6613372091674777,
+          0.4457364336825096,
+          0.6744186046043248
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "fault1",
+        "bbox": [
+          0.40310077623188184,
+          0.6744186048645203,
+          0.4360465114134669,
+          0.6831395345250147
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+*0.",
+        "bbox": [
+          0.1143410855826571,
+          0.6831395350210705,
+          0.14728682076424213,
+          0.6976744181039296
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "fault2",
+        "bbox": [
+          0.40310077611075784,
+          0.684593023396497,
+          0.43604651129234284,
+          0.6933139530569914
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "123 -",
+        "bbox": [
+          0.08720930269949503,
+          0.6860119048322462,
+          0.1143410858017969,
+          0.6933139532561798
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+",
+        "bbox": [
+          0.38565891506926064,
+          0.6962209304216908,
+          0.39728682175244473,
+          0.7049418600821852
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "faults",
+        "bbox": [
+          0.40697674355847024,
+          0.6962209305912644,
+          0.4360465115287391,
+          0.7049418602517588
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "118 -",
+        "bbox": [
+          0.08720930258644596,
+          0.8270348838259423,
+          0.11434108568874786,
+          0.8343253968589008
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11'81",
+        "bbox": [
+          0.08527131833156304,
+          0.8561046514818264,
+          0.11627906864518114,
+          0.8706395345646855
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "87",
+        "bbox": [
+          0.32170542629393856,
+          0.8590116276994545,
+          0.3410852711866816,
+          0.8720930231363014
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "89",
+        "bbox": [
+          0.39922480646229314,
+          0.8604651161997282,
+          0.4147286816191022,
+          0.8720930230444577
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "84",
+        "bbox": [
+          0.21124031035401614,
+          0.8604651162724029,
+          0.23062015524675905,
+          0.8720930231171323
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "85",
+        "bbox": [
+          0.24806201586112206,
+          0.860465116382415,
+          0.267441860753865,
+          0.870639534635027
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "83",
+        "bbox": [
+          0.17441860504575155,
+          0.8619186047545079,
+          0.19186046507052754,
+          0.8720930230071199
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "90",
+        "bbox": [
+          0.43604651155737945,
+          0.8619186049856443,
+          0.4534883715821555,
+          0.8706395346461387
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "86",
+        "bbox": [
+          0.28488372072223317,
+          0.8619186050098692,
+          0.3042635656149761,
+          0.8706395346703634
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "88",
+        "bbox": [
+          0.36240310098748685,
+          0.8619186050098692,
+          0.37790697614429597,
+          0.8706395346703634
+        ],
+        "order": 52
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_25",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "* taum",
+        "bbox": [
+          0.8079532653358473,
+          0.10148184136999236,
+          0.8625893691697761,
+          0.12380885574813129
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_52",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_52",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Variable | Description | Flow of wash oil to reactor riser | Flow of fresh feed to reactor riser | Flow of slurry to reactor riser | Temperature of fresh feed entering furnace | Fresh feed temperature to riser | Furnace firebox temperature | Combustion air blower inlet suction flow | Combustion air blower throughput | Combustion air flow rate | 10 | Lift air blower suction flow | 11 | Lift air blower speed | 12 | Lift air blower throughput | 13 | Riser temperature | Wet gas compressor suction pressure | 15 | Wet gas compressor inlet suction flow | Wet gas flow to vapor recovery unit | 17 | Regenerator bed temperature | 18 | Stack gas valve position | Regenerator pressure | 20 | Standpipe catalyst level | 21 | Stack gas 0, concentration | Combustion air blower discharge pressure | 23 | Wet gas composition suction valve position",
+        "bbox": [
+          0.0699138052883252,
+          0.10676612058554794,
+          0.45251601462067076,
+          0.5797416292745637
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "First kernel Fisher feature direction",
+        "bbox": [
+          0.620155041963673,
+          0.30803571411919495,
+          0.7848837178715983,
+          0.3212209304400805
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_44",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 3. Scatter plot in high-dimensional feature space.",
+        "bbox": [
+          0.49806202526496546,
+          0.32703488399151626,
+          0.8333333291600992,
+          0.34156976707437536
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "First Fisher feature direction",
+        "bbox": [
+          0.21124031187723014,
+          0.8705357143452755,
+          0.3449612399961549,
+          0.8808139534819261
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_24",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 2. Scatter plot in original feature space.",
+        "bbox": [
+          0.06976745103158594,
+          0.8895348836333208,
+          0.3449612366428326,
+          0.9026162790701676
+        ],
+        "order": 54
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_29",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.8 -",
+        "bbox": [
+          0.5155038762869752,
+          0.11918604694300858,
+          0.5368217047853763,
+          0.1279761903685111
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.6",
+        "bbox": [
+          0.5135658912648688,
+          0.1438953491595784,
+          0.5329457361576118,
+          0.1526162788200728
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.4",
+        "bbox": [
+          0.5116279075028625,
+          0.1686046512661359,
+          0.5348837208692304,
+          0.1787790695187479
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.2 -",
+        "bbox": [
+          0.5155038765532501,
+          0.1932043648856772,
+          0.5387596899196181,
+          0.20213293631424856
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3-",
+        "bbox": [
+          0.5213178298146105,
+          0.21947674437517917,
+          0.5406976747073534,
+          0.22819767403567345
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.104",
+        "bbox": [
+          0.5135658920137336,
+          0.2936046507388776,
+          0.5445736423273517,
+          0.3095930233599597
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_54",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_54",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07179078403849062,
+          0.6574299207948493,
+          0.450089710233288,
+          0.8784160873399252
+        ],
+        "order": 32
+      }
+    ]
+  }
+]

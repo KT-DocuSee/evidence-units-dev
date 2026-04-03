@@ -1,0 +1,143 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jmb.2003.10.009.pdf_4",
+    "primary_id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1. Data collection and refinement statistics",
+        "bbox": [
+          0.10666666666666667,
+          0.11343879150634174,
+          0.4266666666666667,
+          0.12597976343166595
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "scihub_j.jmb.2003.10.009.pdf_4",
+    "primary_id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10352941176470588,
+          0.12825994014536127,
+          0.88,
+          0.30725381217044323
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jmb.2003.10.009.pdf_4",
+    "primary_id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6 proteins, we incubated increasing amounts of each protein with a labelled DNA fragment carry- ing E2 site 4 from the HPV 16 genome and used DNase I to footprint the resulting complexes (Figure 4(a). Both proteins protect a similar length of DNA from digestion by DNase I. Furthermore, the concentrations of protein required to obtain a clear footprint are roughly equivalent. Hydroxy- radical footprinting revealed no significant differences in the DBD-DNA complexes formed by the HPV 16 and HPV 6 DBDs (data not shown). Circular permutation assays using a set of DNA fragments in which the position of the E2 binding site is varied were used to investigate the effects of each DBD on DNA bending. On binding to DNA, both proteins induce DNA bending and there is no significant difference in the DNA bend angles: 30(± 1)° for the HPV 16 DBD and 27(± 3)° for the HPV 6 DBD (Figure 4(b)). Although these data clearly indicate that the DNA bend angle in the HPV 6 and HPV 16 DBD-DNA complexes are yery similar, the difficulties inherent in relating DNA bend angles determined using this approach to bend angles observed in protein-DNA co-crys- tals, make it difficult to say with any certainty whether these yalues differ significantly from the DNA bend angle of 43–51° seen in crystals of the HPV 18 and BPV1 E2 DBD-DNA complexes.7 Since the uncomplexed HPV 6 DBD superimposes on the HPV 18 and BPV1 DBDs, these data raise the possibility that the 7 Å displacement observed in the structure of the HPV 16 DBD may not be replicated in the HPV 16 E2 DBD-DNA complex. In summary, the data from gel retar- dation assays and footprinting experiments suggest that the HPV 6 and HPV 16 E2 DBDs bind to a consensus E2 site with similar affinity, and that the protein-DNA complexes have similar architecture.",
+        "bbox": [
+          0.10745098039215686,
+          0.3420265070542967,
+          0.47843137254901963,
+          0.8539261792788941
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "scihub_j.jmb.2003.10.009.pdf_4",
+    "primary_id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_3",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "HPV 6 and HPV 16 E2 bind preferentially to sites with an A:T-rich spacer",
+        "bbox": [
+          0.5066666666666667,
+          0.34658686048168735,
+          0.8462745098039216,
+          0.37337893686760726
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Unlike the BPV E2 DBD, the DBD from the HPV 16 and HPV 18 E2 proteins bind preferentially to sites with an A:T-rich central spacer.\"12 Since the spacer region is not contacted directly by the DBD, this difference in binding specificity must be due to the overall conformation or flexibility afforded by these base-pairs to the surrounding DNA. To compare the binding of the HPV 16 and HPV 6 E2 DBDs to E2 sites with different central base-pairs, we made a series of E2 binding sites with either AATT, ACGT, or CCGG in the Spacer region. Table 2 shows the affinity of the HPV 16 and HPV 6 E2 DBD for these sites (Keq(app)). Both proteins bind preferentially to an E2 site with an A:T-rich spacer (Table 2, line 1). Changing the central spacer to either ACGT or CCGG, decreases binding by a factor of around tenfold in the case of the HPV 16 DBD and by more than 1000-fold in the case of the HPV 6 DBD. The values for the HPV 16 E2 DBD differ somewhat from the 30-fold degree of preference reported previously for the binding of this protein to E2 sites with these spacer regions.12 One possibility is that this could be a consequence of the different types of oligonucleo- tides used in each study. Whilst we have used pairs of short complementary oligonucleotides, the previous study made use of single long oligo nucleotides that anneal intramolecularly to form a hairpin of double-stranded DNA.12",
+        "bbox": [
+          0.5066666666666667,
+          0.38763004132820295,
+          0.8792156862745099,
+          0.7627191107310817
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "scihub_j.jmb.2003.10.009.pdf_4",
+    "primary_id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_5",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "HPV 16 and HPV 6 E2 recognise an extended binding site",
+        "bbox": [
+          0.5066666666666667,
+          0.7764001710132535,
+          0.8611764705882353,
+          0.8037622915775973
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_scihub_j.jmb.2003.10.009.pdf_4_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "An alignment of the four E2 binding sites pre- sent within the HPV 16 LCR produces a consensus sequence that differs from that derived from the",
+        "bbox": [
+          0.5066666666666667,
+          0.8157332193244976,
+          0.8784313725490196,
+          0.8556363118141656
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

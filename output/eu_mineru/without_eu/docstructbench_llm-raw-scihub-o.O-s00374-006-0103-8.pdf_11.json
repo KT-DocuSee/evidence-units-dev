@@ -1,0 +1,67 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_0",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.07893322552615196,
+      0.06237905945317623,
+      0.9152895300372942,
+      0.5894184597310326
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_2",
+    "text": "Appendix 2",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5071879597637851,
+      0.6148793003241657,
+      0.586121185289937,
+      0.6301558046800456
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_1",
+    "text": "50 days for Collembola have been corrected for differences in extraction efficiency, and are not the same as in Fig. 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07893322552615196,
+      0.6161523423538224,
+      0.49039365646034844,
+      0.6454323090359255
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_3",
+    "text": "Mean number (no. g1 dry weight) of \"fungivores' (collembolans and oribatids) in fertilised soil (N) obtained after 50 and 100 days. See \"Appendix 1\" for details.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5071879597637851,
+      0.6441592670062689,
+      0.9203278210283251,
+      0.6887157380442519
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_4",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.07725379519580831,
+      0.7269069989339516,
+      0.9203278210283251,
+      0.911498093234167
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "order": 5
+  }
+]

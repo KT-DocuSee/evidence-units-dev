@@ -1,0 +1,421 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B1 Since the rational numbers are dense in the reals, we can find positive integers a, b such that",
+        "bbox": [
+          0.1011764705882353,
+          0.06606060606060606,
+          0.49019607843137253,
+          0.09636363636363636
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5568627450980392,
+          0.06606060606060606,
+          0.9192156862745098,
+          0.09575757575757576
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If f (0) = 0, then (f /g)(0) = 0, so we have",
+        "bbox": [
+          0.5568627450980392,
+          0.1,
+          0.84,
+          0.11636363636363636
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By multiplying a and b by a suitably large positive in- teger, we can also ensure that 3a2 > b. We then have",
+        "bbox": [
+          0.12627450980392158,
+          0.14606060606060606,
+          0.4886274509803922,
+          0.17575757575757575
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_13",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since g is continuous at 0, we may multiply limits to deduce that limx→0 f (x)/x exists.",
+        "bbox": [
+          0.5568627450980392,
+          0.1703030303030303,
+          0.9192156862745098,
+          0.2
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution. Choose a neighborhood N of 0 on which g(x) ≠ 0. Define the following functions on N c {0}: h1(x) = f(x)g(x)−f(0)g(0); h2(x) = f(x)q()−f()(x), xg(0)g(x) h(x) = g()g(x); h4(x) = (x)+(0). hn y as− tion, h1, h2, h3, h4 all have limits as x → 0. On the other hand,",
+        "bbox": [
+          0.556078431372549,
+          0.20363636363636364,
+          0.92,
+          0.3018181818181818
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and",
+        "bbox": [
+          0.12705882352941175,
+          0.2290909090909091,
+          0.15450980392156863,
+          0.24242424242424243
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We may then take m = k2(a2 + b),n = h2a2.",
+        "bbox": [
+          0.12784313725490196,
+          0.29515151515151516,
+          0.4180392156862745,
+          0.3115151515151515
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B2 Only the primes 2 and 5 appear seven or more times. The fact that these primes appear is demonstrated by the examples",
+        "bbox": [
+          0.1011764705882353,
+          0.3206060606060606,
+          0.4894117647058824,
+          0.36424242424242426
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and it follows that limx→0 f(x)−f() exists, as desired.",
+        "bbox": [
+          0.5568627450980392,
+          0.3527272727272727,
+          0.9035294117647059,
+          0.37272727272727274
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B4 Number the games 1, . . , 2011, and let A = (ajk) be the 2011 × 2011 matrix whose jk entry is 1 if player k wins game j and i = √−1 if player k loses game j. Then ahja jk is 1 if players h and k tie in game j; i if player h wins and player k loses in game j; and —i if h loses and k wins. It follows that T + iW = AT A.",
+        "bbox": [
+          0.5333333333333333,
+          0.38,
+          0.9192156862745098,
+          0.4703030303030303
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and their reversals.",
+        "bbox": [
+          0.12784313725490196,
+          0.4036363636363636,
+          0.25176470588235295,
+          0.4175757575757576
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It remains to show that if either l = 3 or l is a prime greater than 5, then l occurs at most six times as an element of a triple in S. Note that (p, q, r) ∈ S if and only if q2 − 4pr = a2 for some integer a; in particular, since 4pr ≥ 16, this forces q ≥ 5. In particular, q is odd, as then is a, and so q2 = a2 ≡ 1 (mod 8); consequently, one of p, r must equal 2. If r = 2, then 8p = q2 − a2 = (q + a)(q − a); since both factors are of the same sign and their sum is the positive number 2q, both factors are positive. Since they are also both even, we have q + a ∈ {2, 4, 2p,4p} and so q ∈ {2p + 1, p + 2}. Similarly, if p = 2, then q ∈ {2r + 1, r + 2}. Consequently, l occurs at most twice as many times as there are prime numbers in the list",
+        "bbox": [
+          0.12705882352941175,
+          0.42303030303030303,
+          0.49098039215686273,
+          0.6254545454545455
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_17",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now the determinant of A is unchanged if we subtract the first row of A from each of the other rows, pro- ducing a matrix whose rows, besides the first one, are (1 – i) times a row of integers. Thus we can write detA = (1 − i)2010(a + bi) for some integers a, b. But then det(T +iW) = det(AA) = 22010(a2 + 2) is a nn- negative integer muliple of 2010, as desired.",
+        "bbox": [
+          0.556078431372549,
+          0.47515151515151516,
+          0.92,
+          0.5806060606060606
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B5 Define the function",
+        "bbox": [
+          0.5325490196078432,
+          0.5896969696969697,
+          0.6862745098039216,
+          0.6042424242424242
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For y ≥ 0, in the range −1 ≤ x ≤ 0, we have",
+        "bbox": [
+          0.5568627450980392,
+          0.6551515151515152,
+          0.8486274509803922,
+          0.6709090909090909
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For l = 3,l − 2 = 1 is not prime. For l ≥ 7, the numbers − 2, l,  + 2 cannot all be prime, since one of them is always a nontrivial multiple of 3.",
+        "bbox": [
+          0.12627450980392158,
+          0.6733333333333333,
+          0.49019607843137253,
+          0.7175757575757575
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. The above argument shows that the cases listed for 5 are the only ones that can occur. By con- trast, there are infinitely many cases where 2 occurs if either the twin prime conjecture holds or there are in- finitely many Sophie Germain primes (both of which are expected to be true).",
+        "bbox": [
+          0.12627450980392158,
+          0.7218181818181818,
+          0.49019607843137253,
+          0.8096969696969697
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_20",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We thus have the lower bound the same bound is valid for y ≤ 0 because f (y) = f(−y). The original hypothesis can be written as",
+        "bbox": [
+          0.5576470588235294,
+          0.7303030303030303,
+          0.7576470588235295,
+          0.7448484848484849
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5552941176470588,
+          0.7957575757575758,
+          0.9192156862745098,
+          0.8309090909090909
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B3 Yes, it follows that f is differentiable.",
+        "bbox": [
+          0.1027450980392157,
+          0.8187878787878788,
+          0.37411764705882355,
+          0.833939393939394
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "First solution. Note first that at 0, f /g and g are both continuous, as then is their product f. If f (O) ≠ 0, then in some neighborhood of 0, f is either always positive or always negative. We can thus choose ε ∈ {±1} so that ε f is the composition of the differentiable function (f g) · (f /g) with the square root function. By the chain rule, f is differentiable at 0.",
+        "bbox": [
+          0.12627450980392158,
+          0.8381818181818181,
+          0.49098039215686273,
+          0.9115151515151515
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and thus implies that",
+        "bbox": [
+          0.5568627450980392,
+          0.8896969696969697,
+          0.6956862745098039,
+          0.9042424242424243
+        ],
+        "order": 23
+      }
+    ]
+  }
+]

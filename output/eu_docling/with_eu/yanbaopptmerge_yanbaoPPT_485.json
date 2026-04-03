@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_485",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_485_3",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_485_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.04249116763846902,
+          0.025656730651855468,
+          0.9704534003562054,
+          0.97121142578125
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_485_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It has ..",
+        "bbox": [
+          0.5683139557958748,
+          0.23500881998751993,
+          0.7122093018167702,
+          0.2998236348023347
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_485_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Look at the giraffe!",
+        "bbox": [
+          0.5392441957406924,
+          0.4986772478396273,
+          0.8415697623503929,
+          0.5710594296699242
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_485_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It's has a short tail.",
+        "bbox": [
+          0.5363372170424352,
+          0.6873385028830262,
+          0.8357558026834787,
+          0.749559081354215
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

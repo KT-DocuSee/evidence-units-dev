@@ -1,0 +1,136 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5",
+    "primary_id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_9",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_9",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0,
+          0.04717181573927326,
+          0.9998412495512772,
+          0.28880666901587215
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЕК, ШЕЛЛЕНШТОК",
+        "bbox": [
+          0.05954825629088531,
+          0.6016865083234834,
+          0.32032853726147614,
+          0.6206395346106228
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ПІДЕЛИЕСЕЛ,FE",
+        "bbox": [
+          0.361396308837433,
+          0.6947674417296722,
+          0.6242299776786518,
+          0.7107558143507543
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FREEEEETE,",
+        "bbox": [
+          0.6632443543071596,
+          0.7063953487330635,
+          0.8501026719351399,
+          0.7223837213541457
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5",
+    "primary_id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "420197127#ШП ME CANETHER (ВВ ПЛУ (720214371])",
+        "bbox": [
+          0.3613963045455055,
+          0.39970930271729127,
+          0.6365503067388592,
+          0.5392441858146854
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5",
+    "primary_id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "2 https://www.fca.org.uk/news/press-releases/building-operational-resilience-impact-tolerances-important-business-services",
+        "bbox": [
+          0.05954828411904504,
+          0.9228670635646272,
+          0.6324435214251021,
+          0.9317956349931988
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "3 https://www.bis.org/bcbs/publ/d516.pdf",
+        "bbox": [
+          0.059548252086446,
+          0.9345238093764595,
+          0.25872689693819473,
+          0.9433139532750148
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_yanbaor2_22297b092df74748ad1cd50ad9045024d5bac9f423854a04cc8dbfb428c4deb7.pdf_5_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "4 https://www.bis.org/bcbs/publ/d515.pdf",
+        "bbox": [
+          0.05954825258439259,
+          0.9461805555256853,
+          0.25872689743614136,
+          0.9549418602372239
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

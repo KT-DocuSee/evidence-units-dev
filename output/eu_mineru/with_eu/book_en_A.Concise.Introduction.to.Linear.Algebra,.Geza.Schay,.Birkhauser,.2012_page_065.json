@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_065",
+    "primary_id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_065_0",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_065_0",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "Exercise 2.1.3. 2x1+ 2x2− 3x3 = 0 x1+ 5x2+ 2x3 = 1",
+        "bbox": [
+          0.12012012012012012,
+          0.08499909958580948,
+          0.49795249795249796,
+          0.1224563299117594
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_065_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Exercise 2.1.4. 2x1+ 2x2− 3x3 = 0",
+        "bbox": [
+          0.12012012012012012,
+          0.13110030614082477,
+          0.49904449904449905,
+          0.15054925265622185
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_065_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the next nine exercises use Gaussian elimination to find all solutions of the systems given by their augmented matrices.",
+        "bbox": [
+          0.11902811902811902,
+          0.15847289753286511,
+          0.877968877968878,
+          0.19520979650639295
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_065_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "1 0 -1 0 Exercise 2.1.5. -2 3 –1 0 -6 6 0 0 1 0 -1 1 Exercise 2.1.6. -2 3 -1 0 -6 6 0 |−2i: 1 0 -1 1 Exercise 2.1.7. -2 3 -1 0 -6 6 0 0 3-6 -1 1 12id) Exercise 2.1.8. -1 2 2 3 1 6-8 -3 -2 9 (c1d:) 4 9 2 0:) Exercise 2.1.9. 2 2 6 -3 00 2 7 16 3 2 4 1 7 0 1 3 79 Exercise 2.1.10. 3 3 1 1 2 3 11 3 −6 -1 1 53 000 Exercise 2.1.11. -1 2 2 3 4-8 -3-2 1 3 -6 -1 1 7 Exercise 2.1.12. -1 2 2 3 16 4-8 -3 -2 3 -6 -1 1 5 Exercise 2.1.13. -1 2 2 3 3 6 -8 -3 -2 1",
+        "bbox": [
+          0.11902811902811902,
+          0.19881145326850352,
+          0.6300846300846301,
+          0.9112191608139745
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33",
+    "primary_id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(PSD2 Z (General Data Protection Regulation)",
+        "bbox": [
+          0.589778562145567,
+          0.16418650748112348,
+          0.8515037417957719,
+          0.21366279043677835
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33",
+    "primary_id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_7",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1454710657456342,
+          0.2687823486328125,
+          0.3153368063534007,
+          0.3708635919744318
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A1X1",
+        "bbox": [
+          0.1447368439931037,
+          0.43023255802285554,
+          0.19360902164599403,
+          0.44331395345970265
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТЫРТТ АТТТТН",
+        "bbox": [
+          0.14473683675504492,
+          0.5523255810465326,
+          0.8458646786898172,
+          0.5683139536676147
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "СтА НАЛИ ВЕЛИ ТАіТ",
+        "bbox": [
+          0.5093068037535572,
+          0.7296511625702731,
+          0.8458646658358072,
+          0.7456395351913552
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33",
+    "primary_id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_864cbd5f0adeb98dea6cf7105cc8dfb272a9be974757633b2db8cf3f9a11c92b.pdf_33_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(DELOITTE CONSULTING) ERFT, EBELSETAZINE SIEN.",
+        "bbox": [
+          0.14473685457389424,
+          0.4113372100488079,
+          0.6729323153133238,
+          0.428819444420841
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

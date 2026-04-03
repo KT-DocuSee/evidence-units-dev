@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_1637904769_page_002",
+    "primary_id": "mineru_PPT_1637904769_page_002_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_1637904769_page_002_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ENGLISH COMMUNICATION: WHAT, WHY,AND HOW?",
+        "bbox": [
+          0.08,
+          0.029333333333333333,
+          0.9226666666666666,
+          0.2248888888888889
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_1637904769_page_002_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "ENGLISH COMMUNICATION COMMUNICATION THROUGH ENGLISH LANGUAGE COMMAND OVER ENGLISH LANGUAGE COMPETENT USER OF ENGLISH LANGUAGE",
+        "bbox": [
+          0.05333333333333334,
+          0.2862222222222222,
+          0.9506666666666667,
+          0.7688888888888888
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

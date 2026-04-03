@@ -1,0 +1,185 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5074947760418659,
+          0.07932910513047786,
+          0.9309672381695157,
+          0.3953863335074611
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06385695857480432,
+          0.08310668156526253,
+          0.4654836190847578,
+          0.263171158289998
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 9. Migration of rhodamine B marker on three separate TLC plates. Dis- tances were measured to the center of the zone.",
+        "bbox": [
+          0.05209383462681405,
+          0.27198550330449556,
+          0.4772467430327481,
+          0.29716934620305996
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "run buffer. Before placing these spotted, solvent saturated plates into the instrument, excess solvent was removed by patting with a Kimwipe. These were quickly placed into the instrument, exter- nal pressure applied, then solvent was allowed to contact the TLC layer, and power turned on. Enabling solvent to contact the layer before applying external pressure induced capillary action through the channel of air (due to spacer thickness), diffusing the sample spot. Applying pressure fi rst removes this channel of air by compressing the sealant.",
+        "bbox": [
+          0.05377428090509838,
+          0.3198348048117679,
+          0.4772467430327481,
+          0.4545683643190875
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_8",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_8",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "4. Conclusions",
+        "bbox": [
+          0.5074947760418659,
+          0.411755831391528,
+          0.6133628915737783,
+          0.4256069449857384
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The addition of high-pressure to PEC instrumentation (now referred to as PPEC) has improved the efficacy of this tech- nique by producing homogenous flow profiles that are near theoretical predictions. Linear voltage profi les have finally been achieved, as well as reduced plate equilibration times. These improvements are attributed to the increased efficiency of the electroosmotic forces acting on the reduced solvent volume. Also, use of higher fi eld strengths will increase the utility of this technique. This can be easily implemented with an efficient heat sink to combat Joule heating. Scaling the TLC plate width should not be problematic as earlier data on a 5.0 cm wide TLC plate showed almost identical voltage profi les using two columns of reader electrodes on the REG [31].",
+        "bbox": [
+          0.5074947760418659,
+          0.44197644286980525,
+          0.9309672381695157,
+          0.6358920331887512
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 9 illustrates migration of rhodamine B on three sepa- rate TLC plates. For these experiments the migration rate of rhodamine B was determined to be 0.29 cm/min (R2 = 0.9996, n = 6). There are three data points for the first plate and they were taken by performing PPEC for a specified time, lower- ing the press enough to mark solute migration, reapply pressure then voltage, and repeating. Repeatedly releasing and apply- ing pressure caused extensive zone broadening from solvent perturbations. Subsequent experiments were checked for solute migration less often or only at the end of experimentation, sig- nifi cantly reducing zone dispersion.",
+        "bbox": [
+          0.05377428090509838,
+          0.4558275564640157,
+          0.4772467430327481,
+          0.6195225353046843
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "These results show that rhodamine B (spotted at the center of a 2.5 cm wide TLC plate) migrates only in the direction of voltage drop. This was a significant problem with earlier experi- ments; marker solutes would migrate at an angle (in the direction of greatest voltage drop) with the un-stable EOF. Fig. 10 shows an 8.5 cm migration in 30 min where the solute zone stays in the center of the 2.5 cm wide plate with zone dispersion (zone length of ∼2.6 mm) primarily in the direction of voltage drop. This assures that EOF is only in the direction between positive and negative source electrodes, and there are no localized gradients within the width of the 2.5 cm TLC plate. Analysis of this spot yielded well over 10,000 plates. This was not a point injection and the spot width was not measured prior to PPEC affecting the measure of zone dispersion, therefore over-estimating the actual band broadening. Also, the final zone width was esti- mated with a ruler and visual inspection, under-estimating the actual band broadening. There may have also been some zone refocusing mechanism as the zone migrated past each reader electrode, helping keep the compact zone shape, but the migra- tion rate (Fig. 9) would not have been so reproducible. Factoring in both under and over-estimations, we feel confident that this zone is still measuring over ∼8000 theoretical plates. This was not typical for effi ciencies seen in PPEC experiments, normally producing about half that number of theoretical plates. Better understanding of the many experimental parameters will hope- fully make this a more common measure of efficiency.",
+        "bbox": [
+          0.05377428090509838,
+          0.6220409195945408,
+          0.4772467430327481,
+          0.6963332561453057
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A new method for introducing TLC plates onto the apparatus has also been described. This eliminates the need to seal a plate to the REG a day before experimentation, and is essential for sample application and ease of use. This method allows sealant to be attached to the glass sides of a TLC plate, while cured on a removable sheet of Teflon. The plate is then removed from the PTFE and can be inserted into the apparatus anytime afterwards. A 0.25 mm gap between the chromatographic surface and PTFE sheet (when curing) allows compression of the sealant, trapping solvent within the chromatographic phase when external pres- sure is applied. A plate can now be pre-equilibrated before use (soaking in run buffer) reducing the current required to drive EOF. Sample can then be applied to a plate and placed into the apparatus for PPEC. Unfortunately the plates used do not contain a fluorescent indicator, and routine chromatographic analysis could not be detected. Use of rhodamine B did allow visual- ization of a marker solute's migration in PPEC. These results visually confirmed that migration is only in the direction of volt- age drop, and band broadening is primarily in the same direction resulting in up to ∼8000 theoretical plates.",
+        "bbox": [
+          0.5074947760418659,
+          0.6384104174786076,
+          0.9309672381695157,
+          0.938098147971524
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_6",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 10. Picture showing the 8.5 cm migration of Rhodamine B in 30 min. Notice how the spot stays in the center of the TLC plate. The solute zone has been digitally enhanced by intensifying the pink solute color to a deeper red (for visualization purposes) without compromising the zone shape or diffusion char- acteristics.",
+        "bbox": [
+          0.05209383462681405,
+          0.8738793485801848,
+          0.4789271893110324,
+          0.9355797636816675
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_5",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06721785113137296,
+          0.7227762911887984,
+          0.4638031728064735,
+          0.863805811420759
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

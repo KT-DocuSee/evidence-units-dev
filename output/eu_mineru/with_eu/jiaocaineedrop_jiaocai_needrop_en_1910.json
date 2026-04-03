@@ -1,0 +1,195 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1910",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2018年917，世界公众科学素质促进会在北京召开，国家主席习近平向会致贺信 中指出，科学技术是第产，创新是引领发展的第动某企业积极响应国家“科技创 新”的号召，大力研发新产品，为了对新研发的一批产品进合理定价，将该产品按事先拟 定的价格进行试销，得到一组销售数据{xi，yi）（i=1，2，3，4，5，6)，如表",
+        "bbox": [
+          0.14590890769850867,
+          0.08493658258515036,
+          0.8544941555824265,
+          0.1493515747470429
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1910",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1418782748891576,
+          0.15049166310389056,
+          0.8649738008867393,
+          0.23656833404588856
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1483272873841193,
+          0.3032635029214764,
+          0.852881902458686,
+          0.4566053869174861
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "基本规律",
+        "bbox": [
+          0.14913341394598953,
+          0.8829984323785093,
+          0.2241031841999194,
+          0.8989596693743765
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1910",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "（1）求出p的值； （2）已知变量x，y具有线性相关关系，求产品销量y（件）关于试销单价：x（百元）的线 性国归程y=bx+a(计算结果精确到整数)； （3）表正确的线性回归程得到的与x对应的产品销的估计值当销售数据（xi，yi) 的残差的绝对值bvi-y1时，则将销售数据称为个“有效数据”现从这6组销售数中任取2 组，求抽取的2组销售数据都是“有效数据”的概率. 参考公式及数据= ∑yi=80, ∑xiyi =1606, ∑x2 =91, 6 i=1 i=1 ∑(xi−x)(yi−y) n ∑xiyi −nxy b= (x −x)) W ， a= y−bx. +2 ²-nx^2$ i=1 i=1",
+        "bbox": [
+          0.14993954050785974,
+          0.2502493943280604,
+          0.8544941555824265,
+          0.3004132820293573
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1910",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_4",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【答案】(1)p=82；(2)y=-4x+94；(3)\\a",
+        "bbox": [
+          0.154776299879081,
+          0.45945560780960526,
+          0.5183393792825474,
+          0.48852786090922046
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【分析】",
+        "bbox": [
+          0.15638855300282145,
+          0.4902379934444919,
+          0.21684804514308748,
+          0.5056291862619353
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_6",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "（1）由题意可列程 (91+86+p+78+73+70)=80，解程即可得解； 6 (2）把数据代公式，求得b≈4，a=94后即可得解； （3）由题意找出有效数据，把所有的情况列举出来后，找到符合要求的个数即可得解. (1) y==∑ yi=80，得 (91+86+p+78+73+70)=80，求得p=82; 6=1$ 6 6 (2) =\\x − 1606−6×3.5≈−4，a=y−x=80+4×3.5=94. W $x{−6x2 $ i=1",
+        "bbox": [
+          0.15558242644095122,
+          0.5084794071540545,
+          0.8174123337363967,
+          0.6794926606812028
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "∴所求的线性回归程为y=-4x+94；",
+        "bbox": [
+          0.15074566706972994,
+          0.6829129257517458,
+          0.44014510278113667,
+          0.6983041185691891
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_8",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(3）当x1=1时，y1=90；当x2=2时，y2=86；当x3=3时，y3=82；当x4=4时，y4=78； 当x5=5时，y5=74；当x6=6时，y6=70. 与销售数据对可知满|vi-y<1（i=1，2，…，6）的共有4个“有效数据”：（2，86)、(3， 82）、（8，78）、（6，70). 给6组销售数据编号，则从6组销售数中任取2组有：（1，2）、（1，3）、（1，4）、 (1，5)、（1，6)、（2，3)、（2，4）、（2，5)、（2，6)、（3，4）、（3，5)、（3,6）、 （4，5）、（4，6）、（5，6）共15种情况，其中两组都是有效数据的情况有6种. 6 2 ∴抽取的2组销售数据都是“有效数据”的概率为p= 155",
+        "bbox": [
+          0.14671503426037888,
+          0.7017243836397321,
+          0.8432083837162434,
+          0.8470856491378081
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1910",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_9",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1910_9",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "【经验总结】",
+        "bbox": [
+          0.15800080612656187,
+          0.8624768419552515,
+          0.2837565497783152,
+          0.880718255664814
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

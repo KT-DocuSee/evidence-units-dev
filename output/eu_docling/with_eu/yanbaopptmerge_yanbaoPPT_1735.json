@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1735",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1735_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1735_2",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0024496169090270996,
+          0.060000630696614585,
+          0.2617618408203125,
+          0.5650422770182292
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1735",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1735_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1735_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "₫ ZA ( 1905~1985 )",
+        "bbox": [
+          0.3633720966491039,
+          0.18217054338541722,
+          0.7936046442274615,
+          0.24041005383583083
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1735",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1735_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1735_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#*A*R***1*, A** T T A RHA.",
+        "bbox": [
+          0.2791666712499999,
+          0.4011243378965015,
+          0.9447674313889372,
+          0.7444444437640091
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 Crystallographic data of the ternary compounds in the ternary system Er–Ni-B",
+        "bbox": [
+          0.0822746521476104,
+          0.08654864578604933,
+          0.5251058681185723,
+          0.11136329247995158
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08066142367412785,
+          0.1119685277651687,
+          0.9332526719096592,
+          0.37766681797548796
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "a Compounds were found only in the as-cast samples. b Data of our investigation.",
+        "bbox": [
+          0.09679370840895342,
+          0.37948252383113934,
+          0.40330711837063926,
+          0.4036919352398245
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The formation of solid solution regions for the binary compounds was not revealed, and practically no variation of the lattice parameters of the ternary borides in two- and three-phase samples was observed (Table 2). This fact indi- cates that no homogeneity ranges exist for the ternary com- pounds.",
+        "bbox": [
+          0.08388788062109297,
+          0.43213799364502953,
+          0.4863883847549909,
+          0.5211075805719474
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sence of the ternary boride Er2NiB1o in the Er-Ni-B system (Table 2).",
+        "bbox": [
+          0.5259124823553136,
+          0.43213799364502953,
+          0.9292196007259528,
+          0.4617945226206688
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A compound of the composition ErNiB4 was reported to crystallize with two different structures: ErNiB4 [13] and YCrB4 [14]. This can indicate the existence of polymor- phism for this boride. Taking into account that the boride with the ErNiB4 type structure was found by a single-crystal method, and that the boride with the YCrB4 type structure was found by X-ray powder diffraction, we assumed the high-temperature modification to have the ErNiB4 structure and the low-temperature modification to have the YCrB4 structure. The results of a DTA investigation revealed a tran- sition temperature of 1540 K.",
+        "bbox": [
+          0.5259124823553136,
+          0.46300499319110305,
+          0.9292196007259528,
+          0.6270237554849448
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The ternary compounds Ln2NiB1o where Ln–Y, Gd, Tb, Dy, Ho with the Th2NiB1o structure type were reported in [12]. We prepared the sample of the composition Er2NiB10 to verify the formation of the boride with the same struc- ture in the Er-Ni-B system. But the powder diffraction pattern of this sample contained the lines of three binary compounds (ErB4 + ErB12 + NiB), which indicates the ab-",
+        "bbox": [
+          0.08388788062109297,
+          0.5235285217128158,
+          0.4863883847549909,
+          0.6276289907701619
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A new compound of the approximate composition ErNigB2 with unknown structure was found. The X-ray powder pattern of this compound differed from the powder patterns of the known ternary borides found in the earlier studied Ln–Ni-B systems. This compound exists only in the as-cast sample and decomposes into the Er2Ni21B6 and ErNi4B compounds after annealing. Since the single crystals were not available its structure was not determined.",
+        "bbox": [
+          0.5259124823553136,
+          0.6288394613405962,
+          0.9292196007259528,
+          0.7480708125283704
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B 1 Er,Ni₁B EFrB122 2 ErNiB 3 Er₃NiB{2 ErB4 4 Er2Ni2B6 5 ErNi,B3 6~ErNi,B3 ErB2 7 Er2Ni_oBs 8 Er3Ni1B10 NiB 9 Er2Ni1sB N 10 ErN Ni2B 12 ErNiB Ni₃B 13 Er,NiB13 Ni Er Er2NiNi INENi E ENiErNi2 Et i",
+        "bbox": [
+          0.0935672514619883,
+          0.6597064608866697,
+          0.4767090139140956,
+          0.9072476925404751
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A further new compound was found in the as-cast samples containing 16.6 at.% Er. The X-ray powder pat- tern of this compound was very similar to the pow- der pattern of the ErNi4B boride. The crystal structure of the new Ero.917Ni4.o9B boride was determined using an X-ray single-crystal method: space group P6/mmm; a=1.48399nm; c= 0.69194nm [15]. This structure is very similar to the Yo.915Ni4.12B structure [16]. The Er0.917Ni4.09B boride decomposes after annealing, and the main phase is the ErNi4B compound.",
+        "bbox": [
+          0.5259124823553136,
+          0.7498865183840218,
+          0.9292196007259528,
+          0.8987743985474353
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_scihub_j.jallcom.2003.09.015.pdf_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "According to our data, the Er4Ni29B1o boride has the correct composition ErNi7B3: space group I41/amd; a =",
+        "bbox": [
+          0.5251058681185723,
+          0.9005901044030867,
+          0.9292196007259528,
+          0.9296413980935089
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

@@ -1,0 +1,511 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Model We are asked to find the magnetic field due to a simple current distribution, so this example is a typical problem for which the Biot-Savart law is appropriate. We must find the field contribution from a small element of current and then integrate over the current distribution from 0, to 0, as shown in Figure 29.3b.",
+        "bbox": [
+          0.10867183596143945,
+          0.07986111131963415,
+          0.7061068567244947,
+          0.14098837172553805
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_34",
+    "source": "visual_seed",
+    "member_count": 13,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_34",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7369611341114344,
+          0.08366564598890654,
+          0.912266280371448,
+          0.23213124209406624
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a",
+        "bbox": [
+          0.8187022903126123,
+          0.13953488405541173,
+          0.8301526711377692,
+          0.14825581371590604
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a",
+        "bbox": [
+          0.7480916028346263,
+          0.22238372087996083,
+          0.7614503817073587,
+          0.2340116277246904
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1068702287009776,
+          0.2847741984632598,
+          0.24813141864094612,
+          0.311156033568187
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2526778344519914,
+          0.34278452714430485,
+          0.6201219847009144,
+          0.37525576369523345
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "b",
+        "bbox": [
+          0.7480916028505294,
+          0.3779069767132941,
+          0.7614503817232616,
+          0.3895348835580236
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.34351145390372706,
+          0.4141865079954479,
+          0.7099236641325382,
+          0.4360465118027257
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_12",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.40395488794733453,
+          0.48118321802595543,
+          0.7099236641707062,
+          0.5087209300502717
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.46750479171669046,
+          0.5608570899904181,
+          0.5573043668260604,
+          0.5757708173571531
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_15",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.42557252080690383,
+          0.6061046513001402,
+          0.9141221370285307,
+          0.6367669636997975
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_17",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.34541984934478004,
+          0.6802325583132217,
+          0.916030534969303,
+          0.7108134922080089
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_19",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3625954193556129,
+          0.7669644459568641,
+          0.9141221369846093,
+          0.7979651163584113
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_21",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3530534453063317,
+          0.8313492059614304,
+          0.6736641183577903,
+          0.8474702377074621
+        ],
+        "order": 32
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_35",
+    "source": "visual_seed",
+    "member_count": 11,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "dx",
+        "bbox": [
+          0.7805343508777616,
+          0.09593023294107066,
+          0.7977099233588797,
+          0.10465116260156508
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "d's",
+        "bbox": [
+          0.7614503818645992,
+          0.19186046503693752,
+          0.7824427479541031,
+          0.203488371881667
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "x",
+        "bbox": [
+          0.7824427484232993,
+          0.2034883722700436,
+          0.7938931292484565,
+          0.2122093019305379
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_35",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7367930844732467,
+          0.24668456132848435,
+          0.9141013204258616,
+          0.3888670246647165
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Notice that tan 0 = -x/a from the right triangle in Figure 29.3a (the negative sign is necessary because d's is located at a negative value of x) and solve for x:",
+        "bbox": [
+          0.10687021349760881,
+          0.521802325936768,
+          0.9103053389355977,
+          0.5523313489184847
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Find the differential dx:",
+        "bbox": [
+          0.1068702311646163,
+          0.5857558140921701,
+          0.2671755676903456,
+          0.5974702380248966
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Substitute Equations (2) and (3) into the magnitude of the field from Equation (1):",
+        "bbox": [
+          0.10877863329101929,
+          0.6540178569122317,
+          0.6450381713273011,
+          0.667162698182073
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Integrate Equation (4) over all length elements on the wire, where the subtending angles range from 0, to 0, as defined in Figure 29.3b:",
+        "bbox": [
+          0.10877864663057986,
+          0.7281746032708809,
+          0.9007633539419391,
+          0.7558139533739152
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Check the dimensions, noting that the quantity in brackets is dimensionless:",
+        "bbox": [
+          0.1087786304149424,
+          0.8095238095013068,
+          0.6145037996900198,
+          0.8226744187031618
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(B) Find an expression for the field at a point near a very long current-carrying wire.",
+        "bbox": [
+          0.10877864659968595,
+          0.8561046515676138,
+          0.6641221352705423,
+          0.8692956348744076
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We can use Equation 29.4 to find the magnetic field of any straight current-carrying wire if we know the geometry and hence the angles 0, and 0,. If the wire in Figure 29.3b becomes infinitely long, we see that 0, = /2 and 0, = - /2 for",
+        "bbox": [
+          0.10877863246073867,
+          0.9055059524905643,
+          0.893129775013292,
+          0.9375000000833442
+        ],
+        "order": 35
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Analyse Let's start by considering a length element d's located a distance r from P. The direction of the magnetic field at point P due to the current in this element is out of the page because d's X t is out of the page. In fact, because all the current elements I ds lie in the plane of the page, they all produce a magnetic field directed out of the page at point P. Therefore, the direction of the magnetic field at point P is out of the page and we need only find the magnitude of the field. We place the origin at O and let point P be along the positive y axis, with k being a unit vector pointing out of the page.",
+        "bbox": [
+          0.1087786227397736,
+          0.14970930220890208,
+          0.7175572520735066,
+          0.254464285499596
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_4",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From the geometry in Figure 29.3a, we can see that the angle between the vectors ds and r",
+        "bbox": [
+          0.10877863038939235,
+          0.26453488373143114,
+          0.7137404384560276,
+          0.2776162791682781
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Evaluate the cross product in the Biot-Savart law:",
+        "bbox": [
+          0.10877862357372044,
+          0.31686046521862354,
+          0.43893129183658514,
+          0.3284883720633531
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Substitute into Equation 29.1:",
+        "bbox": [
+          0.10877862890882362,
+          0.38953488393228636,
+          0.3072519064919396,
+          0.40116279077701594
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_25",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_25",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 29.3 (Example 29.1) (a) A thin, straight wire carrying a A, are used for determining",
+        "bbox": [
+          0.7347328232052986,
+          0.39660067463827686,
+          0.8931297674558039,
+          0.4651162793883026
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_32",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "current / (b) The angles 0, and the net field.",
+        "bbox": [
+          0.7346213288815532,
+          0.43452380953994535,
+          0.9083969442670407,
+          0.4756675673480209
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From the geometry in Figure 29.3a, express r in terms of 0:",
+        "bbox": [
+          0.10877863760375775,
+          0.45634920650122224,
+          0.499999983706675,
+          0.4694940477710636
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_23",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-19091739.pdf_181_23",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Solution",
+        "bbox": [
+          0.10673603803385304,
+          0.8890542220511386,
+          0.1852486948313392,
+          0.9030969410671381
+        ],
+        "order": 34
+      }
+    ]
+  }
+]

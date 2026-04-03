@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_034",
+    "primary_id": "docling_PPT_ch7_page_034_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_034_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "7.3 Linear Systems of Equations. Gauss Elimination",
+        "bbox": [
+          0.3208333620541137,
+          0.022156084378306788,
+          0.9541666590569967,
+          0.06117724839947095
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_034",
+    "primary_id": "docling_PPT_ch7_page_034_1",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_034_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Matrix Form of the Linear System (1).",
+        "bbox": [
+          0.06104652316459242,
+          0.13359788280016377,
+          0.6308139453108598,
+          0.18023255939537725
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_ch7_page_034_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From the definition of matrix multiplication we see that the m equations of (1) may be written as a single vector equation",
+        "bbox": [
+          0.05833336081752224,
+          0.1832010586223946,
+          0.9374999790435886,
+          0.3364870725975311
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_ch7_page_034_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.05813953468914292,
+          0.34689153472147544,
+          0.4563953469974838,
+          0.38565891355492316
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_ch7_page_034_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where the coefficient matrix A = [a] is the m xn matrix",
+        "bbox": [
+          0.06096811019726629,
+          0.39908612572199526,
+          0.8837789341524994,
+          0.4584199017620471
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_ch7_page_034_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.06395348913751309,
+          0.521317830142063,
+          0.9215116278466358,
+          0.7616279060207277
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_ch7_page_034_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6264534898069184,
+          0.753875970582351,
+          0.6613372084488958,
+          0.8003875954383209
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_ch7_page_034_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "are column vectors.",
+        "bbox": [
+          0.05945637926050574,
+          0.826182097270134,
+          0.3520118098393128,
+          0.8664411835358998
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

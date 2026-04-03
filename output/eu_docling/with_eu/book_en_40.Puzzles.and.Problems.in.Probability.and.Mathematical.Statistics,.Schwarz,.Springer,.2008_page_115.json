@@ -1,0 +1,202 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The last two expectations in this expression are known from the basic result about EU so that the only really new part concerns the expectation of the product UV. Now, by the definition of U, V",
+        "bbox": [
+          0.1162280810892995,
+          0.08283730195467624,
+          0.8793859571132338,
+          0.13665674643398185
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.30263157862743,
+          0.15252976175507893,
+          0.6973684279515171,
+          0.1671626982630155
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let the rv S = X + Y. Clearly, S is normally distributed, with mean Ms = Hx + My and variance o? = oh to + 200x0y. It then follows from the basic result about EU, that",
+        "bbox": [
+          0.11622807571512943,
+          0.18452380950260752,
+          0.8793859510856649,
+          0.23546511604724352
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3684210559082898,
+          0.2529069775342731,
+          0.6296469788290154,
+          0.3073737405183805
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_6",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Putting together this result — with Ms, Os expressed in terms of the original parameters as earlier — and the previously known facts about the means and variances of U, V, the correlation coefficient is, after slight simplification, found to be",
+        "bbox": [
+          0.1160789189891135,
+          0.32558139583005796,
+          0.88157893645456,
+          0.3944475296823721
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.28059414004050154,
+          0.40843023219236585,
+          0.7105263123445354,
+          0.4521329364477642
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note that the correlation between U and V is completely independent of the means of X and Y. As explained earlier, the exponentiation turns the location parameters Mx,My of X and Y into scaling factors of U and V. Because variations of the scaling factors generally do not change linear correlations, the result was to be expected. On the other hand, the standard deviations Ox, Oy of X and Y turn into powers for U and V, which generally do influence the linear correlation coefficient.",
+        "bbox": [
+          0.1184210662862827,
+          0.47093023281903557,
+          0.8815789436459716,
+          0.5915697675040339
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The result about the correlation of U and V may also be used to verify the properties we already discussed in part c. Note, in particular, that in the equal-variance case 0x = Oy = o we get",
+        "bbox": [
+          0.11842106860731744,
+          0.595930232906245,
+          0.879385954418998,
+          0.6498015875742851
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.363985843259015,
+          0.6626984124257149,
+          0.6293859598766794,
+          0.7013940813622079
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The correlation of U and V is shown in Figure 3.25 as a function of the correlation o of the original rvs X and Y, for three values of o. For @ = +1, the two correlations are identical, but for any other value the correlation between U and V is weaker than that between X and Y.",
+        "bbox": [
+          0.11622806013758512,
+          0.7150297614445429,
+          0.8793859611898314,
+          0.7849702378237412
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

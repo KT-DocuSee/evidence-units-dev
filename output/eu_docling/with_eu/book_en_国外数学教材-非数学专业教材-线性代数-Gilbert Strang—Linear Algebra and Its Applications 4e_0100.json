@@ -1,0 +1,188 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_2",
+    "source": "text_cluster",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "There must be infinitely many solutions, since any multiple cx will also satisfy A (cx) = 0. The nullspace contains the line through x. And if there are additional free variables, the nullspace becomes more than just a line in n-dimensional space. The nullspace has the same \"dimension\" as the number of free variables and special solutions.",
+        "bbox": [
+          0.11909650939296076,
+          0.08720930200704612,
+          0.8891170232594482,
+          0.16279069688433156
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This central idea—the dimension of a subspace—is made precise in the next section. We count the free variables for the nullspace. We count the pivot variables for the column space!",
+        "bbox": [
+          0.12009981832646222,
+          0.16715116349699843,
+          0.8850102825126508,
+          0.22349088156454017
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Solving Ax = b, Ux = c, and Rx = d",
+        "bbox": [
+          0.11909651821404862,
+          0.25145348916218,
+          0.45995892613913414,
+          0.26889534848316876
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The case b # 0 is quite different from b = 0. The row operations on A must act also on the right-hand side (on b). We begin with letters (bi,b2,b3) to find the solvability condition-for b to lie in the column space. Then we choose b = (1,5,5) and find all solutions x.",
+        "bbox": [
+          0.11899861580496567,
+          0.28633720980171495,
+          0.8851361227901953,
+          0.36060551537273483
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For the original example Ax = b = (b1, b2, b3), apply to both sides the operations that led from A to U. The result is an upper triangular system Ux = c:",
+        "bbox": [
+          0.11704312476052577,
+          0.3662790701214823,
+          0.8850102526828705,
+          0.40406976772042474
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.26887150449879993,
+          0.4142441855826275,
+          0.8870636543980543,
+          0.4891954211991161
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The vector c on the right-hand side, which appeared after the forward elimination steps, is just L- 'b as in the previous chapter. Start now with Ux = c.",
+        "bbox": [
+          0.1170431251937312,
+          0.508680555849055,
+          0.8850102657228603,
+          0.5451388890814446
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is not clear that these equations have a solution. The third equation is very much in doubt, because its left-hand side is zero. The equations are inconsistent unless b3 — 2b2 + 5b1 = 0. Even though there are more unknowns than equations, there may be no solution. We know another way of answering the same question: Ax = b can be solved if and only if b lies in the column space of A. This subspace comes from the four columns of A (not of U!):",
+        "bbox": [
+          0.11704311172148607,
+          0.5478670636440794,
+          0.8850102525929107,
+          0.6627906971736971
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_11",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4509139331969846,
+          0.6712600036073109,
+          0.7434736664667095,
+          0.7382489449450887
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_10",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2648870641921509,
+          0.6773255818960704,
+          0.39425051400771216,
+          0.7341269841533209
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Even though there are four vectors, their combinations only fill out a plane in threedimensional space. Column 2 is three times column 1. The fourth column equals the third minus the first. These dependent columns, the second and fourth, are exactly the ones without pivots.",
+        "bbox": [
+          0.11909650094119857,
+          0.7485119047552378,
+          0.8850102784222509,
+          0.8241567458156555
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The column space C(A) can be described in two different ways. On the one hand, it is the plane generated by columns 1 and 3. The other columns lie in that plane, and contribute nothing new. Equivalently, it is the plane of all vectors b that satisfy b3 - 2b2 + 5b1 = 0; this is the constraint if the system is to be solvable. Every column",
+        "bbox": [
+          0.11909650094119857,
+          0.8283730159906957,
+          0.8850102763524867,
+          0.9040697676453281
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

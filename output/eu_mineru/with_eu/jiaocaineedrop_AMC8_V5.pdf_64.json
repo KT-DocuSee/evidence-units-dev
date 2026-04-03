@@ -1,0 +1,244 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_AMC8_V5.pdf_64",
+    "primary_id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_0",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Solution: A.",
+        "bbox": [
+          0.12266666666666666,
+          0.10954954954954955,
+          0.24,
+          0.12828828828828828
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As shown in the figure, ∆ABC is similar to ∆BDC.",
+        "bbox": [
+          0.12355555555555556,
+          0.13261261261261262,
+          0.5742222222222222,
+          0.15423423423423424
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "AB_BC 125 BC DC 5 DC DC=25/12=2 12",
+        "bbox": [
+          0.12177777777777778,
+          0.15783783783783784,
+          0.48977777777777776,
+          0.252972972972973
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Example 7. In the following diagram (not necessarily to scale), ∠ABE = ∠ADC , AE = 6 , BC = 2, BE = 3 , and CD = 5 . AB + DE is equal to",
+        "bbox": [
+          0.12177777777777778,
+          0.2818018018018018,
+          0.8542222222222222,
+          0.3279279279279279
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.46/3 B.112/3 C.13/2 D.20 E. none of these",
+        "bbox": [
+          0.12266666666666666,
+          0.3300900900900901,
+          0.6817777777777778,
+          0.3517117117117117
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Solution: A.",
+        "bbox": [
+          0.12266666666666666,
+          0.37261261261261264,
+          0.2391111111111111,
+          0.39135135135135135
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We separate two triangles and label each segments as shown in the figure.",
+        "bbox": [
+          0.12,
+          0.3927927927927928,
+          0.6675555555555556,
+          0.43315315315315317
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_AMC8_V5.pdf_64",
+    "primary_id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6133333333333333,
+          0.14414414414414414,
+          0.8871111111111111,
+          0.2637837837837838
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_AMC8_V5.pdf_64",
+    "primary_id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_8",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7022222222222222,
+          0.33225225225225224,
+          0.9102222222222223,
+          0.5463063063063063
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_AMC8_V5.pdf_64",
+    "primary_id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We know that ∆ABE = ∆ADC.",
+        "bbox": [
+          0.12444444444444444,
+          0.45693693693693693,
+          0.39644444444444443,
+          0.47711711711711713
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "S0 -x+2$ 1 x=8.",
+        "bbox": [
+          0.12088888888888889,
+          0.4972972972972973,
+          0.38666666666666666,
+          0.5427027027027027
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_AMC8_V5.pdf_64",
+    "primary_id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_11",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5342222222222223,
+          0.5571171171171171,
+          0.8951111111111111,
+          0.7733333333333333
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_AMC8_V5.pdf_64",
+    "primary_id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_12",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Example 8. A triangle with sides 9, 12 and 15 is similar to another triangle which has longest side 25. The area of the larger triangle is:",
+        "bbox": [
+          0.12177777777777778,
+          0.7942342342342342,
+          0.8524444444444444,
+          0.841081081081081
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_jiaocaineedrop_AMC8_V5.pdf_64_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.54 B.96 C.105 D.210 E.150.",
+        "bbox": [
+          0.12,
+          0.8432432432432433,
+          0.7288888888888889,
+          0.8648648648648649
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

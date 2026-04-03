@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_0",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "IRβ 95KD pPDK1 58KD (A) (B) 0. -Tubulin 55KD 0. -Tubulin 55KD 大 * ★ 0.15 0.06 0.10 0.04 0.02 0.05 0.00 0.00 WT-Young WT-OId AoE-Young AOE-OId WT-Young WT-0Id AoE-Young AOE-0Id pAkt (Ser473) 60KD pAkt(Thr308)60KD (C) Akt 60KD (D) Akt 60KD 0. -Tubulin 55KD α-Tubulin 55KD ★ *# * *# 3 0.8 2 ★ 0.6 0.4 0.2 0 0.0 WT-Young WT-Old AOE-Young AOE-OId WT-Young WT-OId AoE-Young AOE-0Id pGSK3β 46KD pPTEN 54KD (E) (F) GSK3β 46KD PTEN 54KD s 0.10- 0.05- ★# 0.00- WT-Young WT-0ld AOE-Young AOE-OId WT-Young WT-0ld AOE-Young AOE-Old",
+        "bbox": [
+          0.19830713422007254,
+          0.0740403580640267,
+          0.8061265618702136,
+          0.7664997724169322
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "an index for lysosomal activity [11, 33], was determined in young or aged wT and Akt transgenic mice. Our data failed to revealed altered β-glucuronidase activity in response to aging, Akt overactivation, or both. In addition, the levels of the two autophagy-related lysosomal proteins, cathepsin B and LAMP1, were examined [17, 22]. Neither",
+        "bbox": [
+          0.08383716243450222,
+          0.8575329995448339,
+          0.4860943168077388,
+          0.9036565012896374
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5135026199113261,
+          0.8581398877256865,
+          0.9149536477226925,
+          0.9036565012896374
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

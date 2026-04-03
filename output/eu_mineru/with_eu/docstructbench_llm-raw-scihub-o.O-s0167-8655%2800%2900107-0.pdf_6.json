@@ -1,0 +1,205 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.15064667639739637,
+          0.13054479283540033,
+          0.8377424931367408,
+          0.2812769247690584
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5162404398496143,
+          0.8048019187172103,
+          0.913065831335439,
+          0.9003553237822971
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 5. Mag-Lap 2-D feature histograms for inariant representation of image To1A: (a) 0GC, 8 × 8; (b) CGC, 8 × 8; (c) 0GC, 32 × 32; (d) CGC, 32 × 32. The gradient magnitude is along the vertical axis, the Laplacian along the horizontal axis.",
+        "bbox": [
+          0.07532333819869819,
+          0.29069768301491206,
+          0.913065831335439,
+          0.318959957752473
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table1 Distance matrix for intensity images, x2 metric, 8 × 8 bins, σpre = 0a",
+        "bbox": [
+          0.07532333819869819,
+          0.3485680550965844,
+          0.5070546668985536,
+          0.3741386846210442
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07532333819869819,
+          0.37548450722759474,
+          0.9149029859256511,
+          0.534291574800556
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_4",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "a Minimum distances in bold face.",
+        "bbox": [
+          0.07716049278891034,
+          0.5369832200136571,
+          0.29394473443394414,
+          0.5490956234726116
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table2 Distance matrix for invariant representations, x2 metric, 8 × 8 bins, σpre = 1.0a",
+        "bbox": [
+          0.07532333819869819,
+          0.5773578982101726,
+          0.5750293867364031,
+          0.6029285277346325
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07532333819869819,
+          0.6056201729477335,
+          0.913065831335439,
+          0.7644272405206947
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_7",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_7",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "a Minimum distances in bold face.",
+        "bbox": [
+          0.07899764737912249,
+          0.7657730631272452,
+          0.29394473443394414,
+          0.7778854665861998
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "representation are more equally distributed over all histogram bins.",
+        "bbox": [
+          0.07532333819869819,
+          0.8048019187172103,
+          0.47398588427473487,
+          0.8357558386678722
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2800%2900107-0.pdf_6_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The x2 distances for the images in our test database, for 8 × 8 bins, are given in Table 1 for the intensity images without pre-filtering, and in Table 2 for the invariant representations with gentle Gaussian pre-filtering, σpre = 1.0. Each row shows the distances from the given OGC histo- grams to the CGC histograms. Note that the tables are not symmetric. If the x2 value is smallest on the diagonal, then the query image has been correctly recognized. The percentage of",
+        "bbox": [
+          0.07716049278891034,
+          0.8371016612744228,
+          0.47398588427473487,
+          0.9003553237822971
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_BaharMartonosi_page_006",
+    "primary_id": "docling_PPT_BaharMartonosi_page_006_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "A \"TYPICAL\" PROJECT TaLK OUTLINE",
+        "bbox": [
+          0.05833332989583344,
+          0.13888889014335837,
+          0.7666666632291668,
+          0.20006613882060703
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Title/author/affiliation (1 slide)",
+        "bbox": [
+          0.02616279426548547,
+          0.24999999941220055,
+          0.5799418513595145,
+          0.29265872957093064
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Who am I?",
+        "bbox": [
+          0.7746777193662756,
+          0.26138640900257054,
+          0.9404385619469195,
+          0.3006290954205691
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Forecast (1 slide) Give gist of problem attacked and insight found",
+        "bbox": [
+          0.02470930242472463,
+          0.3158068780246866,
+          0.5755813906975844,
+          0.4729509182618272
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What is the problem?",
+        "bbox": [
+          0.6041666794471956,
+          0.3666666659722222,
+          0.9416666612819705,
+          0.4222883606076841
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Outline (1 slide)",
+        "bbox": [
+          0.026162791365929375,
+          0.48643410812759375,
+          0.31976744534503404,
+          0.5291005282316055
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Background",
+        "bbox": [
+          0.026162788547500707,
+          0.5502645508394577,
+          0.2688953512635458,
+          0.5949612401222333
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Motivation and Problem Statement (1-2 slides)",
+        "bbox": [
+          0.06250000530459475,
+          0.6111111116411836,
+          0.47083331441762794,
+          0.6944444444699275
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Why is it important?",
+        "bbox": [
+          0.619186043029731,
+          0.6162790710022475,
+          0.9389534954513734,
+          0.6627906958582175
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_BaharMartonosi_page_006",
+    "primary_id": "docling_PPT_BaharMartonosi_page_006_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What have others done?",
+        "bbox": [
+          0.5666666799680291,
+          0.7000000004536236,
+          0.9458333284694705,
+          0.7444444428797097
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_BaharMartonosi_page_006",
+    "primary_id": "docling_PPT_BaharMartonosi_page_006_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Related Work (0-1 slides)",
+        "bbox": [
+          0.06666667062499997,
+          0.7109788355598746,
+          0.4625000039583333,
+          0.7499999995810386
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Methods (1-3 slides) Explain your approach; illustrate algorithm",
+        "bbox": [
+          0.0708333354687499,
+          0.7665343920574597,
+          0.5465116226491934,
+          0.9053749557934467
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "PPT_BaharMartonosi_page_006",
+    "primary_id": "docling_PPT_BaharMartonosi_page_006_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_BaharMartonosi_page_006_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What is my approach?",
+        "bbox": [
+          0.5959302425990829,
+          0.8042328048222045,
+          0.9389534822192313,
+          0.8508597889491888
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

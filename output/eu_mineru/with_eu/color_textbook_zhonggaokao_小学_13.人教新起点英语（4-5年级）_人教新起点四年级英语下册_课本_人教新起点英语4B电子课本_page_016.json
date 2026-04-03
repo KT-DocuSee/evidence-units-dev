@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点四年级英语下册_课本_人教新起点英语4B电子课本_page_016",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点四年级英语下册_课本_人教新起点英语4B电子课本_page_016_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点四年级英语下册_课本_人教新起点英语4B电子课本_page_016_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08792095180479935,
+          0.03192247399173436,
+          0.9147005444646098,
+          0.6977340743907653
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点四年级英语下册_课本_人教新起点英语4B电子课本_page_016_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B",
+        "bbox": [
+          0.0750151240169389,
+          0.7040045603534274,
+          0.11534583585400282,
+          0.7330768134530427
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点四年级英语下册_课本_人教新起点英语4B电子课本_page_016",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点四年级英语下册_课本_人教新起点英语4B电子课本_page_016_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点四年级英语下册_课本_人教新起点英语4B电子课本_page_016_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Draw the route.",
+        "bbox": [
+          0.12260536398467432,
+          0.7074248254239703,
+          0.37184916313772937,
+          0.731936725096195
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点四年级英语下册_课本_人教新起点英语4B电子课本_page_016_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11857229280096794,
+          0.7501781388057575,
+          0.8743698326275459,
+          0.9200513039760582
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

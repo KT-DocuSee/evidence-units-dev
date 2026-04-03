@@ -1,0 +1,267 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and βp → ∞. At this limit, equilibrium is considered to be sufficient for calculating the response of the solid phase to changes of the concentration in the fluid. Model 4 is our complete, highest order model, as previously outlined and in exact correspondence to [13–18]. Mainly this model has been evaluated for both isothermal and non-isothermal condi- tions.",
+        "bbox": [
+          0.5108556685984346,
+          0.08058829727540609,
+          0.9091214365518194,
+          0.18258286101459192
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The damping function f(R–r) remains the same as for the mass transfer (Eq.(11)), while the slope parameter and the damping parameter are slightly modified to, respectively,",
+        "bbox": [
+          0.0907440990273535,
+          0.10954971660875515,
+          0.48900986698073834,
+          0.15488063382617107
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_6",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "4 Numerical Solution and its Validation",
+        "bbox": [
+          0.5125361148767189,
+          0.21154428034794098,
+          0.8284600151941719,
+          0.22791377823200784
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The heat release by adsorption, see [19] for ∆Had, is de- rived in the last term on the right-hand side of Eq.(14) from the change of solids load with time. This very term couples the energy with the mass balance, so that both have to be solved simultaneously in order to account for thermal ef- fects. Heat transfer resistances to or in the particles are ne- glected. The terms δbed(r) and λbed(r) in Eqs. (8), (10), (15) and (17) describe the isotropic effective diffusivity and ther- mal conductivity of the bed without fluid flow. Boundary and initial conditions for Eqs. (7) and (14) are recapitulated in Tab. 1.",
+        "bbox": [
+          0.0907440990273535,
+          0.2430240839711465,
+          0.48732942070245405,
+          0.4042006785219587
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The partial differential equation or equations of the var- ious models have been solved by the method of lines. The numerical calculations were conducted for different mesh densities, and the results accepted when the change of calcu- lated gas moisture content values was lower than 0.05 % of the maximal difference of gas moisture content appearing in the packed bed. When the error was bigger, the mesh was made denser. Since the width of the concentration front is, in many cases, not much smaller than the length of the bed, equidistant meshes have been used in the axial direction. In the maldistribution models (models 3 and 4 in the previous section) meshes that were denser near the wall than in the center of the tube have been applied.",
+        "bbox": [
+          0.5108556685984346,
+          0.2442832761160747,
+          0.9091214365518194,
+          0.43442129000023594
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On the basis of the above described general model various reductions are possible by neglecting thermal effects, the ra- dial coordinate or gas-to-particle and intraparticle mass transfer resistances. From such reduced versions the follow- ing has been considered in more detail in the present work:",
+        "bbox": [
+          0.0907440990273535,
+          0.4067190628118151,
+          0.48900986698073834,
+          0.4784930150727236
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To check the numerical procedure, respective results have been compared with available analytical solutions. One of such a solution is attributed to Anzelius [1] and refers to model 2 after the classification of section 3, additionally re- duced by neglecting axial dispersion (Dax = 0). Furthermore, it is assumed that the sorption equilibrium is throughout lin- ear (\"Henry's law\"), and that the bed is long. The mass transfer resistance is attributed to the fluid phase. Then, ax- ial profiles can be derived to",
+        "bbox": [
+          0.5108556685984346,
+          0.43568048214516414,
+          0.9091214365518194,
+          0.5678956573626273
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "1) plug-flow model (1-D) with local equilibrium between the gas and the solids, 2) plug-flow model (1-D) with mass transfer resistance to the solids, 3) 2-D maldistribution model with local equilibrium, 4) 2-D maldistribution model with mass transfer resistance to the solids.",
+        "bbox": [
+          0.0907440990273535,
+          0.4810113993625801,
+          0.48900986698073834,
+          0.5817467709568377
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In our terminology \"plug flow\" means that every influence of the radial coordinate is neglected, including the influence of the wall on porosity and flow velocity. However, axial dis- persion, as expressed by the dispersion coefficient Dax, is ac- counted for, so that the equation",
+        "bbox": [
+          0.0907440990273535,
+          0.5842651552466941,
+          0.48900986698073834,
+          0.6560391075076026
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_14",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with and",
+        "bbox": [
+          0.5108556685984346,
+          0.6132265745800431,
+          0.5411037016075524,
+          0.6258184960293254
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5108556685984346,
+          0.6724086053916696,
+          0.5377428090509837,
+          0.68625971898588
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_14",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.0907440990273535,
+          0.7970686277395633,
+          0.9108018828301038,
+          0.9066183443483185
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "applies to the isothermal plug flow models (models 1 and 2). Eq. (20) is the classical, conventional way to model packed bed adsorbers. Local equilibrium corresponds, in terms of the two-layers model from [19], to the limiting case of βf → ∞",
+        "bbox": [
+          0.0907440990273535,
+          0.7013700247250186,
+          0.4906903132590227,
+          0.7592928633917168
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In Eq. (21) the concentration of adsorbate in the gas phase, C, is used instead of the content, Y, assuming an ini-",
+        "bbox": [
+          0.5108556685984346,
+          0.7315906362032959,
+          0.9091214365518194,
+          0.7592928633917168
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_13",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1. Boundary and initial conditions for models.",
+        "bbox": [
+          0.0907440990273535,
+          0.7806991298554965,
+          0.35625461099627675,
+          0.7920318591598504
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

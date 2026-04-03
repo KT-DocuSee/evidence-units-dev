@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_0",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.10457516339869281,
+      0.09848484848484848,
+      0.8235294117647058,
+      0.19823232323232323
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_1",
+    "text": "Creating Dialog Boxes",
+    "canon_role": "section_header",
+    "bbox": [
+      0.09313725490196079,
+      0.22348484848484848,
+      0.3022875816993464,
+      0.24621212121212122
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_2",
+    "text": "Dialog boxes may be created in one of two ways:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11601307189542484,
+      0.2588383838383838,
+      0.45751633986928103,
+      0.273989898989899
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_3",
+    "text": "Using the function GetNewDialog, which takes descriptive information about the dialog from dialog (*DLoG*) and extended dialog ('d1gx') resources. The resource ID of the •DLoG• and •dlgx• resources must be the same, and is passed in the first parameter of this function. Using NewDialog, NewColorDialog, or NewFeaturesDialog, which take descriptive information passed in the parameters of those functions.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11601307189542484,
+      0.2866161616161616,
+      0.8398692810457516,
+      0.3712121212121212
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_4",
+    "text": "Historical Note",
+    "canon_role": "section_header",
+    "bbox": [
+      0.16666666666666666,
+      0.39141414141414144,
+      0.2679738562091503,
+      0.4065656565656566
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_5",
+    "text": "The extended dialog resource and the NewFeaturesDialog function were introduced with OS 8 and the Appearance Manager. NewFeaturesDialog should be used to create Appearance-compliant dialogs. Unlike NewDialog and NewColorDialog, it has a flags parameter containing the same flags you would set in an extended dialog resource.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16666666666666666,
+      0.41792929292929293,
+      0.7826797385620915,
+      0.4671717171717172
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_6",
+    "text": "If NULL is specified as the second parameter in the GetNewDialog call, GetNewDialog itself creates a non- relocatable block for the dialog structure. Passing NuLL is appropriate for modal and movable modal dialog boxes because you should dispose of the dialog box, and hence the associated dialog structure, when the user dismisses the dialog. However, in order to avoid heap fragmentation efects, you should ordinarily allocate your own memory for modeless dialog box dialog structures (just as you would for a window structure) and specify the pointer to that memory block in the second parameter of the GetNewDialog call.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11601307189542484,
+      0.4898989898989899,
+      0.8398692810457516,
+      0.5883838383838383
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_7",
+    "text": "Regardless of which method is used to create the dialog, a dialog structure and a window structure will be created, and a pointer to the dialog structure will be returned to the calling function.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11437908496732026,
+      0.601010101010101,
+      0.8366013071895425,
+      0.6300505050505051
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_8",
+    "text": "The Dialog Structure",
+    "canon_role": "section_header",
+    "bbox": [
+      0.09477124183006536,
+      0.6401515151515151,
+      0.2647058823529412,
+      0.6590909090909091
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_9",
+    "text": "The dialog structure created by the GetNewDialog call is defined by the data type DialogRecord:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11764705882352941,
+      0.672979797979798,
+      0.7810457516339869,
+      0.6881313131313131
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_10",
+    "text": "struct DialogRecord { WindowRecord window; // Dialog's window record. Hand1e items; // Item list resource. TEHandle textH; 11 Current editable text item. SInt16 editField; 11 Editable text item number minus 1. SInt16 editopen; // (Used internally -) SInt16 aDefItem; // Default push button item number. }; typedef struct DialogRecord DialogRecord; typedef DialogRecord *DialogPeek;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1388888888888889,
+      0.6994949494949495,
+      0.6486928104575164,
+      0.8232323232323232
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_11",
+    "text": "Note that the dialog structure includes a window structure field. The Dialog Manager sets the windowKind field of this window structure to kDialogwindowKind.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10947712418300654,
+      0.8333333333333334,
+      0.8382352941176471,
+      0.8623737373737373
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "order": 12
+  }
+]

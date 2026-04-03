@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_baa6d02928efcac46ccf7dfd3859de565cfb0bea918ae0ec0eed50944a7c20b4.pdf_11",
+    "primary_id": "mineru_yanbaopptmerge_baa6d02928efcac46ccf7dfd3859de565cfb0bea918ae0ec0eed50944a7c20b4.pdf_11_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_baa6d02928efcac46ccf7dfd3859de565cfb0bea918ae0ec0eed50944a7c20b4.pdf_11_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.0709391374445788,
+          0.06156477126977341,
+          0.9262394195888755,
+          0.6202080661251247
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_baa6d02928efcac46ccf7dfd3859de565cfb0bea918ae0ec0eed50944a7c20b4.pdf_11",
+    "primary_id": "mineru_yanbaopptmerge_baa6d02928efcac46ccf7dfd3859de565cfb0bea918ae0ec0eed50944a7c20b4.pdf_11_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_baa6d02928efcac46ccf7dfd3859de565cfb0bea918ae0ec0eed50944a7c20b4.pdf_11_1",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：Wind，信达证券研发中心",
+        "bbox": [
+          0.07496977025392987,
+          0.6167878010545818,
+          0.2974607013301088,
+          0.629328772979906
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

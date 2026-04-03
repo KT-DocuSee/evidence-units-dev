@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_0",
+    "text": "A5 (by Abhinav Kumar) Define G : R → R by G(x) = Jo g(t) dt. By assumption, G is a strictly increasing, thrice continuously differentiable function. It is also bounded: for x > 1, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1003921568627451,
+      0.06606060606060606,
+      0.49098039215686273,
+      0.12484848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_8",
+    "text": "we show that b ∈ (0, 1) as follows. First suppose b = 0; then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.06606060606060606,
+      0.9192156862745098,
+      0.09575757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_9",
+    "text": "because ∑x∈G) x(gi) equals n for i = 1 and 0 oth- erwise. However, this contradicts the hypothesis that {g1, . ., gk} is not all of G. Hence b > 0. Next suppose b = 1, and choose x ∈ G − {e} with |λx| = 1. Since each of x(g1), . . , x(gk) is a complex number of norm 1, the triangle inequality forces them all to be equal. Since x(g1) = x(e) = 1, x must map each of 1, . to 1, but this is impossible because x is a nontrivial character and g1, . , gk form a set of generators of G. This contradiction yields b < 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.15757575757575756,
+      0.92,
+      0.3054545454545455
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_1",
+    "text": "and similarly, for x < −1, we have 0 > G(x) − G(−1) ≥ —1. It follows that the image of G is some open interval (A, B) and that G−1 : (A, B) → R is also thrice continu- ously differentiable.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.17515151515151514,
+      0.49019607843137253,
+      0.23333333333333334
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_2",
+    "text": "Define H : (A, B) × (A, B) → R by H(x, y) = F(G−1(x),G−1(y)); it is twice continuously dif- ferentiable since F and G-1 are. By our assumptions about F,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.23757575757575758,
+      0.49019607843137253,
+      0.2963636363636364
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_10",
+    "text": "Since v = n ∑x∈ Vx and Mvx = λxνx, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.3090909090909091,
+      0.8721568627450981,
+      0.3278787878787879
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_3",
+    "text": "Therefore H is constant along any line parallel to the vector (1, 1), or equivalently, H(x, y) depends only on x − y. We may thus write H(x, y) = h(x − y) for some function h on (−(B − A), B − A), and we then have F (x, y) = h(G(x) − G(y)). Since F(u, u) = 0, we have h(O) = 0. Also, h is twice continuously differentiable (since it can be written as h(x) = H((A + B + x)/2, (A + B − x)/2)), so |h′| is bounded on the closed interval [−(B − A)/2, (B − A)/2], say by M.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.38727272727272727,
+      0.49019607843137253,
+      0.5193939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_11",
+    "text": "Since the vectors vx are pairwise orthogonal, the limit we are interested in can be written as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.3884848484848485,
+      0.9192156862745098,
+      0.416969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_12",
+    "text": "and then rewritten as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5584313725490196,
+      0.46545454545454545,
+      0.6964705882352941,
+      0.4793939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_4",
+    "text": "Given x1, . ,Xn+1 ∈ R for some n ≥ 2, the numbers G(x1), . .., G(xn+1) all belong to (A, B), so we can choose indices i and j so that |G(xi) − G(xj)| ≤ (B − A)/n ≤ (B − A)/2. By the mean value theorem,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.5230303030303031,
+      0.49019607843137253,
+      0.5818181818181818
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_13",
+    "text": "By construction, this last quantity is nonzero and inite.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.536969696969697,
+      0.9192156862745098,
+      0.5515151515151515
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_14",
+    "text": "Remark. It is easy to see that the result fails if we do not assume g1 = e: take G = Z/2Z, n = 1, and g1 = 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.5563636363636364,
+      0.92,
+      0.5860606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_15",
+    "text": "Remark. Harm Derksen points out that a similar ar- gument applies even if G is not assumed to be abelian, provided that the operator g1 + …  + gk in the group al- gebra Z[G] is normal, i.e., it commutes with the op- erator g1 1 + ... + gk . This includes the cases where the set {1, . ., } is closed under taking inverses and where it is a union of conjugacy classes (which in turn includes the case of G abelian).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.5896969696969697,
+      0.9192156862745098,
+      0.7078787878787879
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_5",
+    "text": "so the claim holds with C = M (B − A).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.6484848484848484,
+      0.3819607843137255,
+      0.6636363636363637
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_6",
+    "text": "A6 Choose some ordering h1, . ., hn of the elements of G with h1 = e. Define an n × n matrix M by setting Mij = 1/k if hj = hig for some g ∈ {g1, . .,gk} and Mij = 0 otherwise. Let v denote the column vector (1, 0, . ., 0) . The probability that the product of m random elements of {g1,. . , gk} equals hi can then be interpreted as the i-th component of the vector Mmv.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10196078431372549,
+      0.6727272727272727,
+      0.49098039215686273,
+      0.7745454545454545
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_16",
+    "text": "Remark. The matrix M used above has nonnegative entries with row sums equal to 1 (i.e., it corresponds to a Markov chain), and there exists a positive integer m such that Mm has positive entries. For any such matrix, the Perron-Frobenius theorem implies that the sequence of vectors Mmy converges to a limit w, and there exists b ∈ [0, 1) such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.7121212121212122,
+      0.92,
+      0.813939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_7",
+    "text": "Let G denote the dual group of G, i.e., the group of complex-valued characters of G. Let e ∈ G de- note the trivial character. For each X ∈ G, the vector vx = (x(hi))i=1 is an eigenvector of M with eigenvalue λx = (x(g1) + · . + x(gk))/k. In particular, ve is the all-ones vector and λε = 1. Put",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.7787878787878788,
+      0.49019607843137253,
+      0.8666666666666667
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_17",
+    "text": "is nonzero and finite. (The intended interpretation in case b = 0 is that Mmv = w for all large m.) However, the limit need not exist in general.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.8715151515151515,
+      0.92,
+      0.9157575757575758
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 18
+  }
+]

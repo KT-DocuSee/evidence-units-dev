@@ -1,0 +1,385 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Solutions to the 62nd William Lowell Putnam Mathematical Competition Saturday, December 1, 2001",
+        "bbox": [
+          0.19686274509803922,
+          0.06363636363636363,
+          0.8094117647058824,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Manjul Bhargava, Kiran Kedlaya, and Lenny Ng",
+        "bbox": [
+          0.3349019607843137,
+          0.11393939393939394,
+          0.6705882352941176,
+          0.1290909090909091
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−1 The hypothesis implies ((b * a) * b) * (b * a) = b for al1 a, b ∈ S (by replacing a by b * a), and hence a * (b * a) = b for all a, b ∈ S (using (b * a)  b = a).",
+        "bbox": [
+          0.09333333333333334,
+          0.16484848484848486,
+          0.49019607843137253,
+          0.20909090909090908
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.16545454545454547,
+          0.9192156862745098,
+          0.23757575757575758
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A-2 Let Pn denote the desired probability. Then P1 = 1/3, and, for n > 1,",
+        "bbox": [
+          0.09333333333333334,
+          0.21818181818181817,
+          0.49019607843137253,
+          0.24787878787878787
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–4 Choose r, s, t so that EC = rBC, FA = sCA, GB = tCB, and let [XYZ] denote the area of triangle XYZ. Then [ABE] = [AFE] since the triangles have the same alti- tude and base. Also [ABE] = (BE /BC) [ABC] = 1 − r, and [ECF] = (EC/BC)(CF /CA)[ABC] = r(1 − s) (e.g., by the law of sines). Adding this all up yields",
+        "bbox": [
+          0.523921568627451,
+          0.24727272727272728,
+          0.92,
+          0.33515151515151514
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The recurrence yields P2 = 2/5, P3 = 3/7, and by a sim- ple induction, one then checks that for general n one has Pn = n/(2n + 1).",
+        "bbox": [
+          0.12627450980392158,
+          0.336969696969697,
+          0.49019607843137253,
+          0.38181818181818183
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: Richard Stanley points out the following nonin- ductive argument. Put f (x) = Ik=1 (x + 2k)/(2k + 1); then the coefficient of x' in f (x) is the probability of getting exactly i heads. Thus the desired number is (f (1) − f (−1))/2, and both values of f can be com- puted directly: f (1) = 1, and",
+        "bbox": [
+          0.12705882352941175,
+          0.38606060606060605,
+          0.4894117647058824,
+          0.47333333333333333
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "or r(1 + s) = 1. Similarly s(1 + t) = t(1 + r) = 1.",
+        "bbox": [
+          0.556078431372549,
+          0.39151515151515154,
+          0.8823529411764706,
+          0.4078787878787879
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let f : [0, ∞) → [0, ∞) be the function given by f (x) = 1/(1 + x); then f(f (f(r))) = r. However, f(x) is strictly decreasing in x, so f (f (x)) is increasing and f (f (f (x))) is decreasing. Thus there is at most one x such that f(f(f (x))) = x; in fact, since the equation f (z) = z has a positive root z = (−1 + √5)/2, we must have r = s = t = z.",
+        "bbox": [
+          0.556078431372549,
+          0.4109090909090909,
+          0.92,
+          0.5145454545454545
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We now compute [ABF] = (AF /AC)[ABC] = z, [ABR] = (BR/BF)[ABF] = z/2, analogously [BCS] = [CAT] = z/2, and [RST] = |[ABC] − [ABR] − [BCS] − [CAT]| = |1−3z/2|= 7-3√5.",
+        "bbox": [
+          0.5552941176470588,
+          0.5187878787878788,
+          0.92,
+          0.583030303030303
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−3 By the quadratic formula, if Pm(x) = 0, then x2 = m ± 2√2m + 2, and hence the four roots of Pm are given by S = {±√m ± √2}. If Pm factors into two nonconstant polynomials over the integers, then some subset of S consisting of one or two elements form the roots of a polynomial with integer coefficients.",
+        "bbox": [
+          0.09411764705882353,
+          0.5303030303030303,
+          0.4894117647058824,
+          0.62
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: the key relation r(1 + s) = 1 can also be derived by computing using homogeneous coordinates or vec- tors.",
+        "bbox": [
+          0.556078431372549,
+          0.5860606060606061,
+          0.9192156862745098,
+          0.6290909090909091
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "First suppose this subset has a single element, say √m ± √2; this element must be a rational number. Then (√m ± √2)2 = 2 + m ± 2√2m is an integer, so m is twice a perfect square, say m = 2n2. But then √m ± √2 = (n ± 1)√2 is only rational if n = ±1, i.e., if m = 2.",
+        "bbox": [
+          0.12705882352941175,
+          0.6248484848484849,
+          0.49019607843137253,
+          0.7127272727272728
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_17",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−5 Suppose an+1 − (a + 1)n = 2001. Notice that an+1 + [(a + 1)n − 1] is a multiple of a; thus a divides 2002 = 2×7 ×11×13.",
+        "bbox": [
+          0.5215686274509804,
+          0.6381818181818182,
+          0.9184313725490196,
+          0.6824242424242424
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since 2001 is divisible by 3, we must have a = 1 (mod 3), otherwise one of an+1 and (a + 1)n is a multi- ple of 3 and the other is not, so their difference cannot be divisible by 3. Now an+1 = 1 (mod 3), so we must have (a + 1)n = 1 (mod 3), which forces n to be even, and in particular at least 2.",
+        "bbox": [
+          0.5568627450980392,
+          0.6872727272727273,
+          0.9192156862745098,
+          0.7745454545454545
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Next, suppose that the subset contains two_ elements; then we can take it to be one of {√m ± √2}, {√2 ± √m} or {±(√m + √2)}. In all cases, the sum and the product of the elements of the subset must be a rational number. In the first case, this means 2√m ∈ Q, so m is a perfect square. In the second case, we have 2√2 ∈ Q, contradiction. In the third case, we have (√m + √2)2 ∈ Q, or m + 2 + 2√2m ∈ Q, which means that m is twice a perfect square.",
+        "bbox": [
+          0.12705882352941175,
+          0.7175757575757575,
+          0.49019607843137253,
+          0.8527272727272728
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If a is even, then an+1 − (a + 1)n = −(a + 1)n (mod 4). Since n is even, −(a + 1)n = −1 (mod 4): Since 2001 = 1 (mod 4), this is impossible. Thus a is odd, and so must divide 1001 = 7 × 11 × 13. Moreover, an+1 − (a + 1)n = a (mod 4), s0 a = 1 (mod 4).",
+        "bbox": [
+          0.5568627450980392,
+          0.7781818181818182,
+          0.9192156862745098,
+          0.8533333333333334
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We conclude that Pm(x) factors into two nonconstant polynomials over the integers if and only if m is either a square or twice a square.",
+        "bbox": [
+          0.12705882352941175,
+          0.8569696969696969,
+          0.49019607843137253,
+          0.9012121212121212
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Of the divisors of 7 × 11 × 13, those congruent to 1 mod 3 are precisely those not divisible by 11 (since 7 and 13 are both congruent to 1 mod 3). Thus a divides 7 × 13. Now a = 1 (mod 4) is only possible if a divides 13.",
+        "bbox": [
+          0.5552941176470588,
+          0.8569696969696969,
+          0.92,
+          0.9157575757575758
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: a more sophisticated interpretation of this argu- ment can be given using Galois theory. Namely, if m is neither a square nor twice a square, then the number fields Q(√m) and Q(√2) are distinct quadratic fields, so their compositum is a number field of degree_4, whose Galois group acts transitively on {±√m ± √2}. Thus Pm is irreducible.",
+        "bbox": [
+          0.12784313725490196,
+          0.906060606060606,
+          0.49019607843137253,
+          0.9351515151515152
+        ],
+        "order": 21
+      }
+    ]
+  }
+]

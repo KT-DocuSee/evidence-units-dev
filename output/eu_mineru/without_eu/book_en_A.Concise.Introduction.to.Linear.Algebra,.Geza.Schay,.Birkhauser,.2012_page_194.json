@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194_0",
+    "text": "and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11902811902811902,
+      0.13470196290293535,
+      0.16052416052416052,
+      0.15054925265622185
+    ],
+    "page": "book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194_1",
+    "text": "Then Q = S + T and R = cT are the linear transformations given by",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11356811356811357,
+      0.21249774896452367,
+      0.8113568113568114,
+      0.23122636412749864
+    ],
+    "page": "book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194_2",
+    "text": "and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.29605618584548893,
+      0.16052416052416052,
+      0.31118314424635335
+    ],
+    "page": "book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194_3",
+    "text": "With Definition 4.2.4 Theorems 4.2.8 and 4.2.9 lead to the following theorem.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11902811902811902,
+      0.40554655141365026,
+      0.8768768768768769,
+      0.44012245632991176
+    ],
+    "page": "book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194_4",
+    "text": "Theorem 4.2.10. (The Linear Transformations from U to V Form a Vector Space, Which Is Isomorphic to Mm,n). Let L(U, V) denote the set of all linear transformations from an n-dimensional vector space U to an m-dimensional vector space V, and let A = (a1, a2, ·.., an) be an ordered basis for U, B = (b1, b2, · .. , bm) an ordered basis for V, and TA, B the m × n matrix that represents any T ∈ L(U, V) relative to these bases. Then 1. L(U, V), together with addition and scalar multiple of transformations as in Definition 4.2.4, is a vector space. 2. The mapping M from L(U, V) to the vector space Mm,n of all m × n ma- trices6 given by M (T) = TA,B is linear and an isomorphism. Hence L(U, V) is mn-dimensional.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11793611793611794,
+      0.4530884206735098,
+      0.8812448812448812,
+      0.6511795425895912
+    ],
+    "page": "book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194_5",
+    "text": "Proof. 1. L(U, V) is clearly nonempty: the zero mapping O is in it. Theo- rem 4.2.9 shows that L(U, V) is closed under addition and multiplication by scalars. The vector space axioms for L(U, V) follow from the corresponding ones in V for every x in y = T (x) . In particular, the zero element is the zero mapping O, and the element —T is the mapping (—1) T.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11902811902811902,
+      0.6655861696380335,
+      0.8801528801528802,
+      0.7556275886907977
+    ],
+    "page": "book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194_6",
+    "text": "2. Let S, T ∈ L(U, V) and a, b any scalars. Then, by Theorem 4.1.3, for all x ∈ U, y = T (x) becomes in terms of coordinates yB = TA, BxA = M (T) xA. Similarly y = (aS + bT) (x) becomes",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.7563479200432199,
+      0.879060879060879,
+      0.8103727714748784
+    ],
+    "page": "book_en_A.Concise.Introduction.to.Linear.Algebra,.Geza.Schay,.Birkhauser,.2012_page_194",
+    "order": 7
+  }
+]

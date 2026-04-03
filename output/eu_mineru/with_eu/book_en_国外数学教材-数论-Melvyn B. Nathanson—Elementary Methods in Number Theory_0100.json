@@ -1,0 +1,231 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. This follows immediately from Theorem 3.3, since |(Z/pZ) ×| = p-1.□",
+        "bbox": [
+          0.13301409949454643,
+          0.08304498269896193,
+          0.8661878159084863,
+          0.12149173394848135
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The following table lists the primitive roots for the first six primes.",
+        "bbox": [
+          0.16280925778132482,
+          0.1568627450980392,
+          0.8161745144985368,
+          0.1768550557477893
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_2",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.343708433093908,
+          0.18531334102268357,
+          0.6597499334929503,
+          0.32525951557093424
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and",
+        "bbox": [
+          0.14259111465815377,
+          0.41368704344482893,
+          0.18302740090449587,
+          0.43060361399461744
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "then",
+        "bbox": [
+          0.14259111465815377,
+          0.5843906189926951,
+          0.1894120776802341,
+          0.6013071895424836
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and so",
+        "bbox": [
+          0.14259111465815377,
+          0.6289888504421376,
+          0.20963022080340515,
+          0.6459054209919262
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let p be a prime, and let g be a primitive root modulo p. If a is an integer not divisible by p, then there exists a unique integer k such that",
+        "bbox": [
+          0.13939877627028466,
+          0.33217993079584773,
+          0.8640595903165735,
+          0.37139561707035756
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This integer k is called the index of a with respect to the primitive root g, and is denoted by",
+        "bbox": [
+          0.14152700186219738,
+          0.45751633986928103,
+          0.8640595903165735,
+          0.4944252210688197
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If k1 and k2 are any integers such that k1 ≤ k2 and",
+        "bbox": [
+          0.14046288906624102,
+          0.5213379469434832,
+          0.6437882415536047,
+          0.5413302575932334
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_9",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If a = gk (mod p) and b = g (mod p), then ab ≡ gk = k+e (mod p), and so",
+        "bbox": [
+          0.1298217611066773,
+          0.671280276816609,
+          0.86512370311253,
+          0.708958093041138
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The index map indg is also called the discrete logarithm to the base g modulo p.",
+        "bbox": [
+          0.14152700186219738,
+          0.736639753940792,
+          0.8640595903165735,
+          0.7750865051903114
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For example, 2 is a primitive root modulo 13. Here is a table of ind2(a) for a = 1, . . ., 12:",
+        "bbox": [
+          0.13620643788241554,
+          0.7758554402153018,
+          0.8587390263367917,
+          0.81199538638985
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_12",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_12",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.3671189146049481,
+          0.8127643214148405,
+          0.6363394519819101,
+          0.9511726259131104
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

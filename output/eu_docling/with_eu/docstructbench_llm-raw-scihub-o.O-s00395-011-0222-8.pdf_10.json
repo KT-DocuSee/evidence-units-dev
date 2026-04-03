@@ -1,0 +1,1075 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_83",
+    "source": "visual_seed",
+    "member_count": 80,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IRB 95KD",
+        "bbox": [
+          0.32619067732587115,
+          0.0739095569389333,
+          0.38616453353186797,
+          0.08452067571728318
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_83",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1942645330094657,
+          0.07394823118617005,
+          0.8090452035075952,
+          0.7553799281513143
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pPDK1 58KD",
+        "bbox": [
+          0.6272798145321599,
+          0.07508423084365876,
+          0.7009055122950726,
+          0.08770646710305875
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(B)",
+        "bbox": [
+          0.519305019709702,
+          0.08575581376213338,
+          0.5521235513542191,
+          0.10174418638321552
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a -Tubulin 55KD",
+        "bbox": [
+          0.30308880238932534,
+          0.10317460299215415,
+          0.3899613907367089,
+          0.1119186048537567
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a -Tubulin 55KD",
+        "bbox": [
+          0.6254826269976129,
+          0.10317460307348035,
+          0.7162162116767755,
+          0.11191860446203016
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pPDK1-to-a-Tubulin Ratio",
+        "bbox": [
+          0.5154440071424006,
+          0.12500000020902916,
+          0.5328185408949224,
+          0.26889534622992434
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*",
+        "bbox": [
+          0.333976833865755,
+          0.12790697684314176,
+          0.3455598454778744,
+          0.13517441838457137
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.20",
+        "bbox": [
+          0.5347490348116007,
+          0.13226744178112357,
+          0.561776061906546,
+          0.14389534862585307
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.15 -",
+        "bbox": [
+          0.536679537430612,
+          0.162698412484555,
+          0.5733590729458357,
+          0.17296511623023034
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.10 -",
+        "bbox": [
+          0.5366795368948978,
+          0.19186046536497312,
+          0.5733590724101214,
+          0.2021329365696098
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IRß-to-a-Tub",
+        "bbox": [
+          0.19111968721872077,
+          0.19622093000483098,
+          0.21042471411118052,
+          0.2688953482574428
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.04 -",
+        "bbox": [
+          0.21235521182407385,
+          0.19912790724360688,
+          0.25096525053113855,
+          0.2093253967512214
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.05 -",
+        "bbox": [
+          0.5366795372295182,
+          0.2209302325645856,
+          0.5733590727447418,
+          0.2311507938002556
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.02",
+        "bbox": [
+          0.21428571456865408,
+          0.22529069802001192,
+          0.24517374553430588,
+          0.2354651162726238
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.00",
+        "bbox": [
+          0.5366795367421026,
+          0.2500000000488394,
+          0.5637065638370479,
+          0.2601744183014513
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.00",
+        "bbox": [
+          0.2104247106980117,
+          0.2514534882927515,
+          0.24324324234252875,
+          0.2630813951374811
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_62",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Old",
+        "bbox": [
+          0.613127412489263,
+          0.2569764478327236,
+          0.6723938207737681,
+          0.2861921564442271
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AOE-Old",
+        "bbox": [
+          0.40501930745795817,
+          0.25930206947249435,
+          0.4691119661831388,
+          0.2877909533689739
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_63",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AOE-Young",
+        "bbox": [
+          0.6483261974998813,
+          0.25958773173412675,
+          0.7256635303648763,
+          0.29145777141666646
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_64",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AOE-Old",
+        "bbox": [
+          0.7252895748873924,
+          0.26002881268693406,
+          0.7847490349988673,
+          0.28735490835881494
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Old",
+        "bbox": [
+          0.29320957785894985,
+          0.2606448970926495,
+          0.3476827109712379,
+          0.28578396967737685
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Young",
+        "bbox": [
+          0.538610042859174,
+          0.2608872514387387,
+          0.6083266559853836,
+          0.2891072635131638
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AOE-Young",
+        "bbox": [
+          0.32782824223786705,
+          0.26091184133199796,
+          0.40411319612295177,
+          0.292072430580413
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Young",
+        "bbox": [
+          0.2166252964238308,
+          0.2613703065110126,
+          0.28633630561400447,
+          0.2904742933116758
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_65",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pAkt (Thr 308) 60KD",
+        "bbox": [
+          0.6389961411641125,
+          0.306686046614973,
+          0.7432432431602115,
+          0.31696428575162344
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pAkt (Ser 473) 60KD",
+        "bbox": [
+          0.31660231772781927,
+          0.30803571407395786,
+          0.4208494197239182,
+          0.3183139532106083
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(D)",
+        "bbox": [
+          0.5173745172481199,
+          0.321220929854326,
+          0.552123552084478,
+          0.3372093024754082
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(C)",
+        "bbox": [
+          0.20077220121922223,
+          0.32122093097904053,
+          0.23745173673444575,
+          0.33866279030002916
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Akt 60KD",
+        "bbox": [
+          0.3339247040623688,
+          0.3326618379244506,
+          0.3880830165922833,
+          0.3417567668626957
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_66",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Akt 60KD",
+        "bbox": [
+          0.6525096531142203,
+          0.3328373015939686,
+          0.7104247086618415,
+          0.3430232557106082
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a -Tubulin 55KD",
+        "bbox": [
+          0.3204633246247044,
+          0.35610465137614816,
+          0.411196909303867,
+          0.3648313494417091
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_67",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a -Tubulin 55KD",
+        "bbox": [
+          0.638996143157523,
+          0.35610465137614816,
+          0.7297297278366854,
+          0.3648313494417091
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pAkt (Ser473)-to-Akt Ratio",
+        "bbox": [
+          0.2031981730573196,
+          0.371953580251238,
+          0.22791692382126427,
+          0.5147396062522146
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pAkt(Thr308)-to-Akt Ratio",
+        "bbox": [
+          0.5138282688528231,
+          0.3719597622969492,
+          0.5387404609549865,
+          0.5104013476560686
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*#",
+        "bbox": [
+          0.4459459458685756,
+          0.3793604653276352,
+          0.46911196909281433,
+          0.39098837217236476
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.0",
+        "bbox": [
+          0.546332046235421,
+          0.3851744186789266,
+          0.5617760617182469,
+          0.39534883693153844
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_68",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*#",
+        "bbox": [
+          0.7644787647617686,
+          0.38517441877967024,
+          0.7895752886648727,
+          0.3968023256243996
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_51",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.8 -",
+        "bbox": [
+          0.5444015442710601,
+          0.40697674436306663,
+          0.5714285713660053,
+          0.4156976740235611
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.6 -",
+        "bbox": [
+          0.5444015444104854,
+          0.42877906962887075,
+          0.5714285715054305,
+          0.43750000023547053
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.4 -",
+        "bbox": [
+          0.542471043014639,
+          0.4491279069846119,
+          0.5714285707884497,
+          0.4608134922033746
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_54",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.2 -",
+        "bbox": [
+          0.5405405401156298,
+          0.4709302326968213,
+          0.5714285710812815,
+          0.4826388886975339
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.0",
+        "bbox": [
+          0.5424710430484729,
+          0.4927325581883743,
+          0.5637065630808706,
+          0.5029069764409863
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0",
+        "bbox": [
+          0.22972972960013754,
+          0.4956395349749536,
+          0.2432432431476102,
+          0.5058139532275656
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_70",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AOE-Young",
+        "bbox": [
+          0.646429883875247,
+          0.5014466090974682,
+          0.7235276648090544,
+          0.5348708692217959
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AOE-Old",
+        "bbox": [
+          0.40569210647816356,
+          0.5018877840371722,
+          0.46925723629728733,
+          0.5314877628474372
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_69",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Old",
+        "bbox": [
+          0.6119691118009049,
+          0.5023253492987813,
+          0.6662162178177651,
+          0.5271804653557988
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_71",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AOE-Old",
+        "bbox": [
+          0.7241312771234205,
+          0.5029067453552857,
+          0.7835907322089437,
+          0.5290699998206614
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Old",
+        "bbox": [
+          0.2932432447281506,
+          0.5033427833658852,
+          0.3476833975460288,
+          0.5286339613274467
+        ],
+        "order": 52
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AOE-Young",
+        "bbox": [
+          0.3279922771183385,
+          0.5036334645591564,
+          0.4048262559044802,
+          0.5353200241151789
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_56",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Young",
+        "bbox": [
+          0.5366795353220569,
+          0.5053008133570173,
+          0.6056098131904358,
+          0.5307798973264968
+        ],
+        "order": 54
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Young",
+        "bbox": [
+          0.21651730458172247,
+          0.5056537449008303,
+          0.2856788616649529,
+          0.5328036908713957
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_72",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pPTEN 54KD",
+        "bbox": [
+          0.6428372155057654,
+          0.5493431139439882,
+          0.7200971487160955,
+          0.5611220021922501
+        ],
+        "order": 56
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pGSK3 B 46KD",
+        "bbox": [
+          0.3204633199496166,
+          0.5508432541031019,
+          0.4034749019133178,
+          0.5610465115427303
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(E)",
+        "bbox": [
+          0.2027027031073854,
+          0.565406976552831,
+          0.23552123475190248,
+          0.581395349173913
+        ],
+        "order": 58
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(F)",
+        "bbox": [
+          0.521235521466981,
+          0.5654069766400404,
+          0.5521235524326328,
+          0.5813953492611225
+        ],
+        "order": 59
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_73",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PTEN 54KD",
+        "bbox": [
+          0.6467181472099739,
+          0.579861110951538,
+          0.7162162168826904,
+          0.5901162788331857
+        ],
+        "order": 60
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "GSK3B 46KD",
+        "bbox": [
+          0.32239382418229207,
+          0.5798611110252131,
+          0.39768339840458045,
+          0.5886627903147433
+        ],
+        "order": 61
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pGSK3ß-to-GSK3ß Ratio",
+        "bbox": [
+          0.1911196815614609,
+          0.5973837190742208,
+          0.2104247178775799,
+          0.7340116278111614
+        ],
+        "order": 62
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.15-",
+        "bbox": [
+          0.5347490357896855,
+          0.6002906976122452,
+          0.571428571304909,
+          0.6133720930490922
+        ],
+        "order": 63
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.20 -",
+        "bbox": [
+          0.21428571532636506,
+          0.601686507885836,
+          0.25096525084158855,
+          0.6104651159203635
+        ],
+        "order": 64
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pPTEN-to-PTEN Ratio",
+        "bbox": [
+          0.5135135033270394,
+          0.6061046524029332,
+          0.5328185396431584,
+          0.7281976714342762
+        ],
+        "order": 65
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.15 -",
+        "bbox": [
+          0.2123552129196866,
+          0.6321924604979245,
+          0.25096524911377555,
+          0.640988371855441
+        ],
+        "order": 66
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_60",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.10-",
+        "bbox": [
+          0.5366795376767761,
+          0.6409883723427179,
+          0.5694980693212933,
+          0.6497093020032122
+        ],
+        "order": 67
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.10",
+        "bbox": [
+          0.2162162172907009,
+          0.6613372095399077,
+          0.24517374506451153,
+          0.670058139200402
+        ],
+        "order": 68
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_61",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.05-",
+        "bbox": [
+          0.5366795376767761,
+          0.6816860467249853,
+          0.5694980693212933,
+          0.6904069763854798
+        ],
+        "order": 69
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.05",
+        "bbox": [
+          0.2142857137321033,
+          0.6918604654507605,
+          0.2451737446977551,
+          0.700581395111255
+        ],
+        "order": 70
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_74",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*#",
+        "bbox": [
+          0.76254826280873,
+          0.6947674419819789,
+          0.785714286032969,
+          0.7049418602345908
+        ],
+        "order": 71
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_76",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "VIII",
+        "bbox": [
+          0.6930501932558516,
+          0.7078488372333059,
+          0.7374517365124881,
+          0.7296511623306474
+        ],
+        "order": 72
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_75",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.00-",
+        "bbox": [
+          0.5347490352561163,
+          0.7194767440693672,
+          0.5714285707713398,
+          0.7325581395062144
+        ],
+        "order": 73
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.00",
+        "bbox": [
+          0.2084942086709847,
+          0.7209302326968212,
+          0.24131274031550176,
+          0.7325581395415507
+        ],
+        "order": 74
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_77",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Young WT-Old",
+        "bbox": [
+          0.5368385217637928,
+          0.729787940122205,
+          0.6637292747044168,
+          0.7565834683599868
+        ],
+        "order": 75
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Young",
+        "bbox": [
+          0.21636191637679558,
+          0.730473695750159,
+          0.28728054111399864,
+          0.7587759754798507
+        ],
+        "order": 76
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WT-Old",
+        "bbox": [
+          0.29517374780991096,
+          0.7305230237251155,
+          0.347683397435948,
+          0.7549420930152766
+        ],
+        "order": 77
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ADE-Young ADE-Old",
+        "bbox": [
+          0.3321195211029878,
+          0.7311208908509483,
+          0.467029089356858,
+          0.7593632329067385
+        ],
+        "order": 78
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_78",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ADE-Young ADE-Old",
+        "bbox": [
+          0.6487110381259854,
+          0.731221161668659,
+          0.7799359807416805,
+          0.7593632335742493
+        ],
+        "order": 79
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 5 Effect of Akt overexpression (AOE) on aging-induced change in insulin receptor B (panel a), PDK1 phosphorylation (panel b), Akt phosphorylation (pAkt-to-Akt ratio) at Ser473 (panel c) and Thr308 (panel d), GSK3ß phosphorylation (pGSK3ß-to-GSK3ß ratio, panel e), and PTEN phosphorylation (pPTEN-to-PTEN ratio, panel f).",
+        "bbox": [
+          0.08301159066355149,
+          0.7718023254536043,
+          0.4884169921447375,
+          0.8343253968430651
+        ],
+        "order": 80
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_80",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Insets: representative gel blots depicting expression and phosphorylation of these proteins using specific antibodies. a-Tubulin was used as the loading control. Mean # SEM, n = 5-7 mice per group, *p < 0.05 versus WT-young group, *p < 0.05 versus WT-old group",
+        "bbox": [
+          0.5115830045725397,
+          0.7718023258277565,
+          0.9169884187959079,
+          0.8226744183582899
+        ],
+        "order": 81
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_81",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "response to aging, Akt overactivation, or both. In addition, the levels of the two autophagy-related lysosomal proteins, cathepsin B and LAMP1, were examined [17, 22]. Neither",
+        "bbox": [
+          0.5096525238942033,
+          0.85901162760661,
+          0.9169884171067187,
+          0.9055232554222435
+        ],
+        "order": 82
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_79",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "an index for lysosomal activity [11, 33], was determined in young or aged WT and Akt transgenic mice. Our data failed to revealed altered B-glucuronidase activity in",
+        "bbox": [
+          0.08494208633734006,
+          0.8590116279477585,
+          0.4884169971086057,
+          0.9040697674131911
+        ],
+        "order": 83
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00395-011-0222-8.pdf_10_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(A)",
+        "bbox": [
+          0.20270270256251582,
+          0.08430232600811025,
+          0.23745173739887407,
+          0.10174418532909905
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

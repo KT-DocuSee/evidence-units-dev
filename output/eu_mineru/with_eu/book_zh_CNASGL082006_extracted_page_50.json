@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "book_zh_CNASGL082006_extracted_page_50",
+    "primary_id": "mineru_book_zh_CNASGL082006_extracted_page_50_4",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL082006_extracted_page_50_0",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "P 被测功率w: 电度表累积测得电能： N 电度表每千瓦时盘转动数： H 电度表的转数转： H 测量时间s",
+        "bbox": [
+          0.14093959731543623,
+          0.1393507521773555,
+          0.436241610738255,
+          0.2723673792557403
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_zh_CNASGL082006_extracted_page_50_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本不确定度分析以榨汁机为例",
+        "bbox": [
+          0.10738255033557047,
+          0.5368171021377672,
+          0.37360178970917224,
+          0.5558194774346793
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_zh_CNASGL082006_extracted_page_50_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "4标准不确定度一览表",
+        "bbox": [
+          0.10738255033557047,
+          0.5906571654790183,
+          0.36465324384787473,
+          0.6128266033254157
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_zh_CNASGL082006_extracted_page_50_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1185682326621924,
+          0.6492478226444972,
+          0.7785234899328859,
+          0.8519398258115598
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_zh_CNASGL082006_extracted_page_50",
+    "primary_id": "mineru_book_zh_CNASGL082006_extracted_page_50_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL082006_extracted_page_50_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3方差与传播系数",
+        "bbox": [
+          0.10514541387024609,
+          0.3056215360253365,
+          0.31543624161073824,
+          0.32779097387173395
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

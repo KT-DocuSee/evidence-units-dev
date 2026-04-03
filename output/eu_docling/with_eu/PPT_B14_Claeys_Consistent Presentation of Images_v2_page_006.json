@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006",
+    "primary_id": "docling_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Problems of Inconsistency",
+        "bbox": [
+          0.17296510901974793,
+          0.05620155074325521,
+          0.8255813979466142,
+          0.13565891449760845
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11473515319824219,
+          0.1425088907877604,
+          0.4589519348144531,
+          0.6346012369791667
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006",
+    "primary_id": "docling_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.52335009765625,
+          0.1418801066080729,
+          0.8665592651367188,
+          0.63307763671875
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006",
+    "primary_id": "docling_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "·Printed images don't look like displayed images",
+        "bbox": [
+          0.3168604757018209,
+          0.7169312180104505,
+          0.7093023209345496,
+          0.8178294568567294
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Slide Provided by David Clunie, Quintiles Intelligent Imaging",
+        "bbox": [
+          0.1666666964291136,
+          0.861111111085628,
+          0.8624999934319968,
+          0.9001322751067922
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

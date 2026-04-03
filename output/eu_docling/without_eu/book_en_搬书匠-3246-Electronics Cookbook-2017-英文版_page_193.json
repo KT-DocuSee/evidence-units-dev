@@ -1,0 +1,275 @@
+[
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_21",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.1416935294015067,
+      0.08035051679974411,
+      0.8590770612444196,
+      0.2295801040267529
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_1",
+    "text": "+V",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5954198477774016,
+      0.09447674481261611,
+      0.6221374037970258,
+      0.11191860413360494
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_2",
+    "text": "R2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5095419853221012,
+      0.11191860477067529,
+      0.5324427479794256,
+      0.1250000002075224
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_3",
+    "text": "R1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4217557256027094,
+      0.1351744187241637,
+      0.4465648849411837,
+      0.14825581416101066
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_5",
+    "text": "E LOAD",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5667382808943392,
+      0.16127892432291582,
+      0.6298266035735409,
+      0.19627921451238642
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_4",
+    "text": "GPIO pin",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3720197173513857,
+      0.16391795856327226,
+      0.4333237948574511,
+      0.17765180914836212
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_6",
+    "text": "GND",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.45992366387379424,
+      0.20494186004120324,
+      0.4961832057826943,
+      0.22093023266228534
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_0",
+    "text": "Figure 11-4. High-side Switching with an NPN BJT Driving a PNP BJT",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14312977282043335,
+      0.23536706332223556,
+      0.7175572582864368,
+      0.2529761903063625
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_7",
+    "text": "Low-side switching (Recipe 11.1) is the most common and simplest arrangement, and unless you have a good reason such as the need for one end of the load to be connected to ground, you should use low-side switching.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14122137182965058,
+      0.2732558146517318,
+      0.8606870267607253,
+      0.3299418602085543
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_8",
+    "text": "See Also",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14096346855348937,
+      0.3452499308352415,
+      0.23117393613046996,
+      0.36695937108170223
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_9",
+    "text": "For a discussion of NPN and PNP bipolar transistors, see Recipe 5.1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14122137182806696,
+      0.3793604655139242,
+      0.7156488572940704,
+      0.39682539656296834
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_10",
+    "text": "GPIO ports and their output logic are described in Recipe 10.7.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14122137760041995,
+      0.4069767444119061,
+      0.6717557244988166,
+      0.42587209232501233
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_11",
+    "text": "You will find an example of switching with a transistor using an Arduino in Recipe 11.6 and for a Raspberry Pi in Recipe 11.7.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14122135716362036,
+      0.4360119046660272,
+      0.8587786284852348,
+      0.4724702379192185
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_12",
+    "text": "For switching using a MOSFET, see Recipe 11.3.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14122137642327962,
+      0.48401162844997087,
+      0.5458015324316823,
+      0.5014880953630427
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_13",
+    "text": "11.3 Switch Much More Power",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1431297774693976,
+      0.5203373011949725,
+      0.5190839683593919,
+      0.546626983734655
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_14",
+    "text": "Problem",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14312976963591054,
+      0.5639534885545586,
+      0.23282442855111238,
+      0.5843023250597825
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_15",
+    "text": "You want to allow a GPIO pin to control more power than it otherwise could, but a BJT isn't enough.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14116426579796448,
+      0.5973376699014742,
+      0.8588223087056792,
+      0.63517441799625
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_16",
+    "text": "Solution",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1411641776568288,
+      0.6539110416139859,
+      0.23097322781946206,
+      0.673123841972955
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_17",
+    "text": "You can use a MOSFET as an electronic switch. Use the transistor in a commonsource arrangement. Figure 11-5 shows the schematic for this circuit. Along with Recipe 11.1, you will find yourself using this circuit a lot.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1412213657227804,
+      0.6860119046742952,
+      0.8606870322187405,
+      0.7413194442464224
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_18",
+    "text": "This type of switching is called \"low-side\" switching because the transistor acts as a switch between the low voltage of GND and the load.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14122137151476513,
+      0.7514534887614702,
+      0.8587786428363797,
+      0.7892441856488664
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193_19",
+    "text": "If the GPIO pin is high (3.3V or 5V) and exceeds the gate-threshold voltage of the MOSFET, the MOSFET will turn on, allowing current to flow from +V through the load to GND.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13907804095542872,
+      0.7993551583714525,
+      0.8588373390021741,
+      0.8532947455584039
+    ],
+    "page": "book_en_搬书匠-3246-Electronics Cookbook-2017-英文版_page_193",
+    "order": 21
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_0",
+    "text": "Solutions to the 71st William Lowell Putnam Mathematical Competition Saturday, December 4, 2010",
+    "canon_role": "section_header",
+    "bbox": [
+      0.2007843137254902,
+      0.06363636363636363,
+      0.8062745098039216,
+      0.1
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_1",
+    "text": "Kiran Kedlaya and Lenny Ng",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4,
+      0.11393939393939394,
+      0.6070588235294118,
+      0.1290909090909091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_2",
+    "text": "A−1 The largest such k is |\"] = [2 ]. For n even, this value is achieved by the partition",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.16363636363636364,
+      0.4894117647058824,
+      0.19454545454545455
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_3",
+    "text": "Since 10n ≥ n ≥ 2m ≥ m + 1, 10n is divisible by 2n and hence by 2m+1, and similarly 1010\" is divisible by 210n and hence by 2m+1. It follows that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.16484848484848486,
+      0.92,
+      0.2084848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_4",
+    "text": "for n odd, it is achieved by the partition",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.23333333333333334,
+      0.38745098039215686,
+      0.24848484848484848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_8",
+    "text": "Since N ≥ 1010\" > 10n + 1 ≥ 102m + 1, it follows that N is composite.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.24727272727272728,
+      0.9192156862745098,
+      0.2787878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_5",
+    "text": "One way to see that this is optimal is to note that the common sum can never be less than n, since n itself belongs to one of the boxes. This implies that k ≤ (1 + . .· + n) /n = (n + 1)/2. Another argument is that if k > (n + 1)/2, then there would have to be two boxes with one number each (by the pigeonhole principle), but such boxes could not have the same sum.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.2872727272727273,
+      0.49019607843137253,
+      0.3890909090909091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_9",
+    "text": "A–5 We start with three lemmas.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5223529411764706,
+      0.2884848484848485,
+      0.7411764705882353,
+      0.30303030303030304
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_10",
+    "text": "Lemma 1. If x,y ∈ G are nonzero orthogonal vectors, then x * x is parallel to y.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5152941176470588,
+      0.31272727272727274,
+      0.9184313725490196,
+      0.3424242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_11",
+    "text": "Proof. Put z = x × y ≠ 0, so that x, y, and z = x *y are nonzero and mutually orthogonal. Then w = x × z ≠ 0, so w = x * z is nonzero and orthogonal to x and z. However, if (x*x) × y ≠ 0, then w = x* (x*y) = (x*x) *y = (x*x) × y is also orthogonal to y, a contradiction. □",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5168627450980392,
+      0.356969696969697,
+      0.9192156862745098,
+      0.4296969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_6",
+    "text": "Remark. A much subtler question would be to find the smallest k (as a function of n) for which no such arrangement exists.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.3939393939393939,
+      0.49019607843137253,
+      0.43757575757575756
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_12",
+    "text": "Lemma 2. If x ∈ G is nonzero, and there exists y ∈ G nonzero and orthogonal to x, then X * x = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5145098039215686,
+      0.4393939393939394,
+      0.9192156862745098,
+      0.4684848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_7",
+    "text": "A-2 The only such functions are those of the form f (x) = cx + d for some real numbers c,d (for which the prop- erty is obviously satisfied). To see this, suppose that f has the desired property. Then for any x ∈ R,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.44727272727272727,
+      0.49019607843137253,
+      0.5060606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_13",
+    "text": "Proof. Lemma 1 implies that x * x is parallel to both y and x × y, so it must be zero. □",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.516078431372549,
+      0.48303030303030303,
+      0.9192156862745098,
+      0.5127272727272727
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_14",
+    "text": "Lemma 3. If x,y ∈ G commute, then x × y = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.516078431372549,
+      0.5224242424242425,
+      0.8298039215686275,
+      0.5375757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_18",
+    "text": "Proof. If x × y ≠ 0, then y × x is nonzero and distinct from x×y. Consequently, x*y = x ×y andy*x= y ×x≠x*y.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.516078431372549,
+      0.5521212121212121,
+      0.9192156862745098,
+      0.5818181818181818
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_15",
+    "text": "Consequently, f (x + 1) = f (x).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.5824242424242424,
+      0.3427450980392157,
+      0.5987878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_21",
+    "text": "We proceed now to the proof. Assume by way of con- tradiction that there exist a, b ∈ G with a × b ≠ 0. Put c = a × b = a * b, so that a, b, c are nonzero and lin- early independent. Let e be the identity element of G. Since e commutes with a, b, c, by Lemma 3 we have e × a = e × b= e × c = 0. Since a, b, c span R3, e × x = 0 for all x ∈ R3, so e = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.5957575757575757,
+      0.9192156862745098,
+      0.6975757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_16",
+    "text": "Define the function g : R → R by g(x) = f (x + 1) − f (x), and put c = g(0), d = f (0). For all x ∈ R, g′(x) = f (x + 1) − f ′(x) = 0, so g(x) = c identically, and f (x) = f (x+ 1) − f () = g(x) = c, s0 f (x) = cx+ identically as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.6018181818181818,
+      0.49019607843137253,
+      0.6751515151515152
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 19
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_17",
+    "text": "A−3 If a = b = 0, then the desired result holds trivially, so we assume that at least one of a, b is nonzero. Pick any point (ao, bo) ∈ R2, and let L be the line given by the parametric equation L(t) = (a0, bo) + (a, b)t for t ∈ R. By the chain rule and the given equation, we have d(hL) = hL. If we write f = hL : R → R, then f (t) = f (t) for all t. It follows that f (t) = Cet for some constant C. Since |f (t)| ≤ M for all t, we must have C = 0. It follows that h(ao, bo) = 0; since (ao, bo) was an arbitrary point, h is identically 0 over all of R2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09411764705882353,
+      0.6842424242424242,
+      0.49019607843137253,
+      0.8303030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 20
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_22",
+    "text": "Since b, c, and b × c = b * c are nonzero and mutually orthogonal, Lemma 2 implies",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.7024242424242424,
+      0.9184313725490196,
+      0.7315151515151516
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 21
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_23",
+    "text": "Hence b *c = c * b, contradicting Lemma 3 because b × c ≠ 0. The desired result follows.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.7709090909090909,
+      0.9184313725490196,
+      0.8
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 22
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_24",
+    "text": "A–6 First solution. Note that the hypotheses on f imply that f (x) > 0 for all x ∈ [0, +∞), so the integrand is a continuous function of f and the integral makes sense. Rewrite the integral as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.8096969696969697,
+      0.9192156862745098,
+      0.8684848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 23
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_19",
+    "text": "A-4 Put",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.8393939393939394,
+      0.15215686274509804,
+      0.8527272727272728
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 24
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_20",
+    "text": "Write n = 2mk with m a nonnegative integer and k a positive odd integer. For any nonnegative integer j,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.8951515151515151,
+      0.4894117647058824,
+      0.9248484848484848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "order": 25
+  }
+]

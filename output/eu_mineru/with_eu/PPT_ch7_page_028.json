@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_028",
+    "primary_id": "mineru_PPT_ch7_page_028_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_028_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "7.2 Matrix Multiplication",
+        "bbox": [
+          0.6786666666666666,
+          0.019555555555555555,
+          0.9673333333333334,
+          0.057777777777777775
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_ch7_page_028",
+    "primary_id": "mineru_PPT_ch7_page_028_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_028_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "EXAMPLE 9 Upper and Lower Triangular Matrices",
+        "bbox": [
+          0.056,
+          0.06577777777777778,
+          0.6493333333333333,
+          0.17155555555555554
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_ch7_page_028_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07733333333333334,
+          0.2702222222222222,
+          0.954,
+          0.6088888888888889
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_028",
+    "primary_id": "mineru_PPT_ch7_page_028_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_028_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Advanced Engineering Mathematics, 10/e by Edwin Kreyszig Copyright 2011 by John Wiley & Sons. All rights reserved.",
+        "bbox": [
+          0.454,
+          0.9066666666666666,
+          0.9093333333333333,
+          0.9617777777777777
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表1：2023年以来部分上市800V车型",
+        "bbox": [
+          0.05804111245465538,
+          0.139090779535414,
+          0.32889963724304716,
+          0.1533418839960097
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08464328899637243,
+          0.155622060709705,
+          0.9141475211608222,
+          0.5478124554652986
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_6",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图2：理想MEGA",
+        "bbox": [
+          0.5126964933494559,
+          0.6036767849508337,
+          0.6521563885530028,
+          0.619067977768277
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：理想汽车官网，民生证券研究院",
+        "bbox": [
+          0.5143087464731962,
+          0.8294142796066695,
+          0.758565094719871,
+          0.8425252957104176
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：太平洋汽车网，ITBEAR科技资讯，同选车，易车，民证券研究院",
+        "bbox": [
+          0.05562273276904474,
+          0.5495225880005701,
+          0.5126964933494559,
+          0.5632036482827419
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_3",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图1：吉利银河E8",
+        "bbox": [
+          0.06529625151148731,
+          0.6036767849508337,
+          0.20556227327690446,
+          0.619067977768277
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06690850463522773,
+          0.6236283311956676,
+          0.475614671503426,
+          0.8248539261792789
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5143087464731962,
+          0.6241983753740915,
+          0.9230149133413946,
+          0.8242838820008551
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_2b8553b00244437fa3e502aa2d3d319ed74459a1e264a4fdd9ecc14ce46609d5.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：ZAKER，民生证券研究院",
+        "bbox": [
+          0.06610237807335752,
+          0.8294142796066695,
+          0.27488915759774285,
+          0.8425252957104176
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

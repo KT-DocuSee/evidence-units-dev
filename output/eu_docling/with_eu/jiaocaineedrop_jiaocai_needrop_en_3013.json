@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_3013_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3013_0",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "FEEXEREEX, Yo, F, Xs1, Ysi, Zsl, P1, W1, K1, Xs2, Ys2 Zs2, $2, W2, K2",
+        "bbox": [
+          0.13347022341224374,
+          0.11482558190100493,
+          0.757700195314656,
+          0.13372092981411135
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_3013_4",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3013_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "2 , У1 X2,У2",
+        "bbox": [
+          0.13347023065740637,
+          0.14384920602683726,
+          0.3778234079120665,
+          0.15997023777286898
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3013_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "3 Bz",
+        "bbox": [
+          0.1334702398204214,
+          0.17005814009041129,
+          0.4989732980029871,
+          0.19047619083369602
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3013_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.16314638187433833,
+          0.21679376974835668,
+          0.8774969397496976,
+          0.3556373208034951
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_3013_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "Bx = X2 - X, = N,X, - N,X, B, = 7,2 - Y = N,X, - N,42 B, -Z = N,Z, - N,Z2 N Nº B,Z, - B,X, X,Z, - X,Z, B,Z, - B,X X,Z, - X,Z,",
+        "bbox": [
+          0.16427104845285403,
+          0.22238372156830363,
+          0.872689938760498,
+          0.35763888910083835
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

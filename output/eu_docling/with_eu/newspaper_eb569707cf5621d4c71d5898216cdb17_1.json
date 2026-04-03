@@ -1,0 +1,621 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_eb569707cf5621d4c71d5898216cdb17_1",
+    "primary_id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_41",
+    "source": "visual_seed",
+    "member_count": 17,
+    "elements": [
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_41",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.046129347192436,
+          0.0012597702396312442,
+          0.46518797587032495,
+          0.10070435871899991
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ХКА72104",
+        "bbox": [
+          0.5135135121623139,
+          0.08430232549940914,
+          0.6673596685058147,
+          0.09156976751389138
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "НЕКТ ШТИЛЕЖАХ",
+        "bbox": [
+          0.6798336853347543,
+          0.1001984128919901,
+          0.8357588354552663,
+          0.10912698432056146
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "КАЖі WATER, AJMERADA",
+        "bbox": [
+          0.336798343524684,
+          0.2514534884589363,
+          0.49064448904634844,
+          0.28497023810835115
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ДЕТИН.",
+        "bbox": [
+          0.05398936281745166,
+          0.2514534886042852,
+          0.1621621596214604,
+          0.25872093014571473
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ПАЛАТИ, ЖАНРІЕЛо",
+        "bbox": [
+          0.501039499153661,
+          0.2673611111947868,
+          0.6528066508983141,
+          0.2761627904843169
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HARE TEARE TO",
+        "bbox": [
+          0.1725571755078496,
+          0.3590116281566714,
+          0.2952182953341461,
+          0.3678075395141878
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "НАПИКААТЕВАЇ",
+        "bbox": [
+          0.19126819369565207,
+          0.3822674422433963,
+          0.3264033194713612,
+          0.3909883719038907
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9",
+        "bbox": [
+          0.31409574594797907,
+          0.46651785721319866,
+          0.3264033282891664,
+          0.4752906973157123
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EXEE METEM КЕЛЖК",
+        "bbox": [
+          0.08316009070046712,
+          0.6497093024289265,
+          0.27234927111519447,
+          0.6599702382425882
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MERESEEMM®",
+        "bbox": [
+          0.08316008876818419,
+          0.7761627909352569,
+          0.17463617207727664,
+          0.7848837205957512
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PATE HAKAEERS НЕНК ТАК 091. СіД",
+        "bbox": [
+          0.6798336801372493,
+          0.8008432541707209,
+          0.835758834805578,
+          0.850290697460395
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"X1E1\" УПОТ HEAM 7Н 30",
+        "bbox": [
+          0.3367983392723369,
+          0.8501984127950908,
+          0.4948024972071409,
+          0.9011627907698379
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E9.7",
+        "bbox": [
+          0.29157801531788663,
+          0.8764534885854502,
+          0.3264033254500689,
+          0.8851744182459448
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "KITATE ACTI",
+        "bbox": [
+          0.8461538462690456,
+          0.8851686508371329,
+          0.9979209980136987,
+          0.8924418605471026
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HER HALTHE KNA ETAB.\"",
+        "bbox": [
+          0.8461538442680061,
+          0.9345238093764595,
+          0.9979209960126593,
+          0.9927325579504024
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "НЕАЛі.",
+        "bbox": [
+          0.05478723431832319,
+          0.9432043649099021,
+          0.15800415770058854,
+          0.9521329363384734
+        ],
+        "order": 42
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_eb569707cf5621d4c71d5898216cdb17_1",
+    "primary_id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2010$12 ₽ 22 = EME",
+        "bbox": [
+          0.03534303639803866,
+          0.10901162852891197,
+          0.18295217894499677,
+          0.127976190680079
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EPEE-FIS: CN 11-0055 ABSH 5: 1-39",
+        "bbox": [
+          0.19542619856846927,
+          0.1148255816087064,
+          0.3451143457142749,
+          0.12354651126920074
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18705 # 14 0A)",
+        "bbox": [
+          0.22661122766119435,
+          0.12500000021335755,
+          0.3160083171932755,
+          0.1337209298738519
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_eb569707cf5621d4c71d5898216cdb17_1",
+    "primary_id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "KHAR4+-A++",
+        "bbox": [
+          0.03950104138402672,
+          0.1279069768310295,
+          0.11434511495692953,
+          0.13517441837245905
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "newspaper_eb569707cf5621d4c71d5898216cdb17_1",
+    "primary_id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_42",
+    "source": "visual_seed",
+    "member_count": 20,
+    "elements": [
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#7 171 AZE: 010-85831572",
+        "bbox": [
+          0.04989604720712102,
+          0.13808139526357027,
+          0.14345114593689717,
+          0.1453488372780525
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1511:010-85832154",
+        "bbox": [
+          0.17255717559983338,
+          0.13808139545384907,
+          0.2494802483606656,
+          0.14534883699527862
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E-mail:zbs2250@263.net",
+        "bbox": [
+          0.27027027393765335,
+          0.13808139548413023,
+          0.3742203740179947,
+          0.14534883702555979
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "АМЕТИТЕ 47T427777,8*7844)731N400031,2Д F/ 260 712M.",
+        "bbox": [
+          0.6860706879536733,
+          0.32412790721432655,
+          0.9313929326468092,
+          0.357638888980177
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5260 2,7317SH THINK #HEaT-1*54 4000-5000 7j",
+        "bbox": [
+          0.4989605040929446,
+          0.3590116280961093,
+          0.6528066553248559,
+          0.38372092984962697
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WHEN, HOTEENHM TAK 1247116422ж 5000 2% 8000",
+        "bbox": [
+          0.6839916827378061,
+          0.37500000021335744,
+          0.9313929326468092,
+          0.4331395346515288
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТАДЛИДДіХ, ТА ВША, W 00.7144",
+        "bbox": [
+          0.49896050150120075,
+          0.3997093025631637,
+          0.6528066512085106,
+          0.47529069733993706
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "127, 0K 15.2% BAMANA #EATIZAHAN",
+        "bbox": [
+          0.01039500850917035,
+          0.3997093026842877,
+          0.1621621602538235,
+          0.4331395346999781
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "400 7,4000 KEY 400 3127, \"4-7\" 418812 1475/EDERI",
+        "bbox": [
+          0.6860706882206304,
+          0.4680059523412817,
+          0.8357588369824661,
+          0.5261627903631928
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_42",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2866752807351239,
+          0.5082018915909019,
+          0.6626888322241512,
+          0.7113411780631188
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WERENTERH ME 20104 FНТ20Т,4500 3",
+        "bbox": [
+          0.08316008568873375,
+          0.5421511631251792,
+          0.2702702615046136,
+          0.5669642856769479
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14 723857X7574, W ПЕЛЕ НЕЕ.",
+        "bbox": [
+          0.8461538493114017,
+          0.5668604653296367,
+          0.9937629930770133,
+          0.6511627903631928
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "442*, 17016h2 1200125t, 20 10 70· КіНН, 1600 4 ЛИТ*",
+        "bbox": [
+          0.08316008568873375,
+          0.5755813954521823,
+          0.27234927111519447,
+          0.6424418601306346
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ITE DEE, M77074 TEDIT \"+\"₩,",
+        "bbox": [
+          0.68607068921296,
+          0.6103670634917537,
+          0.835758836982466,
+          0.6671626983686935
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_24",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "7***",
+        "bbox": [
+          0.4675531917129505,
+          0.7135416662572883,
+          0.6590436667114787,
+          0.7398313487969709
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "А, 13220 БоЛ*ДУ 48105*****, 1",
+        "bbox": [
+          0.48232849058431165,
+          0.7427325583771174,
+          0.6611226588266376,
+          0.7849702381325758
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "200974744 177 191.9 7j HE, 51 10.81Z7,559Utt 2005 F HK 22% 14.6% 61.2%o HAN 414187% EAT",
+        "bbox": [
+          0.5051975042065018,
+          0.8516865079046707,
+          0.6632016589258614,
+          0.9186507937871424
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "447778 MA*2",
+        "bbox": [
+          0.0,
+          0.8764534887065745,
+          0.15800415372835616,
+          0.8851744183670689
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13.23 17.6 58 122 191Z2,84047 93%, Bk taster.",
+        "bbox": [
+          0.5051975050381026,
+          0.9258432539769222,
+          0.6632016635343159,
+          0.9941860461892589
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЕНЛ0.1174474443 Или.2RDEE4.47561",
+        "bbox": [
+          0.33679833957166566,
+          0.9593023257220782,
+          0.49688149916707297,
+          0.9854651159445882
+        ],
+        "order": 43
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "newspaper_eb569707cf5621d4c71d5898216cdb17_1",
+    "primary_id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_7",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ПЕТ Н НАЙТТ7ТИШЕЧН",
+        "bbox": [
+          0.01663202545881597,
+          0.159883720950759,
+          0.648648644336254,
+          0.19622093007706498
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_eb569707cf5621d4c71d5898216cdb17_1",
+    "primary_id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_eb569707cf5621d4c71d5898216cdb17_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "90% 3",
+        "bbox": [
+          0.3347193363174769,
+          0.4258432540684316,
+          0.4885654818391414,
+          0.43313953479687756
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

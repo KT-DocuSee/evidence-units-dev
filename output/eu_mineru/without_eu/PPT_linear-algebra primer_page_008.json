@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "mineru_PPT_linear-algebra primer_page_008_0",
+    "text": "Bases & Orthonormal Bases",
+    "canon_role": "section_header",
+    "bbox": [
+      0.18933333333333333,
+      0.08,
+      0.8033333333333333,
+      0.144
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_linear-algebra primer_page_008_1",
+    "text": "Basis (or axes): frame of reference",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.086,
+      0.2008888888888889,
+      0.552,
+      0.24711111111111111
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_linear-algebra primer_page_008_3",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.6206666666666667,
+      0.232,
+      0.9106666666666666,
+      0.5324444444444445
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_PPT_linear-algebra primer_page_008_2",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.17733333333333334,
+      0.2737777777777778,
+      0.508,
+      0.5022222222222222
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_PPT_linear-algebra primer_page_008_4",
+    "text": "Basis: a space is totally defined by a set of vectors – any point is a linear combination of the basis",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.072,
+      0.5653333333333334,
+      0.8953333333333333,
+      0.6506666666666666
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_PPT_linear-algebra primer_page_008_5",
+    "text": "Ortho-Normal: orthogonal + normal x =[1 0 0J x· y =0 [Sneak peek: y =[0 1 0F x·z=0 Orthogonal: dot product is zero z = [0 0 1] y·z=0 Normal: magnitude is one ] Shivkumar Kalvanaram",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06333333333333334,
+      0.6977777777777778,
+      0.922,
+      0.9351111111111111
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_PPT_linear-algebra primer_page_008_6",
+    "text": "Rensselaer Polytechnic Institute",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.04666666666666667,
+      0.9262222222222222,
+      0.264,
+      0.952
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 7
+  }
+]

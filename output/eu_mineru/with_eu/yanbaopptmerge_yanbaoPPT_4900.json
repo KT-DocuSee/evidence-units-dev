@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4900",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4900_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4900_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "读课文， 理清文章结构层次",
+        "bbox": [
+          0.10466666666666667,
+          0.1768888888888889,
+          0.782,
+          0.264
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4900_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "第一部分（1——3段）引出回忆",
+        "bbox": [
+          0.09866666666666667,
+          0.31822222222222224,
+          0.6746666666666666,
+          0.3831111111111111
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4900_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "第二部分（4——5段）合唱队的描写",
+        "bbox": [
+          0.10333333333333333,
+          0.44,
+          0.774,
+          0.5057777777777778
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4900",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4900_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4900_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "第三部分（6——9段）激情演唱的情景",
+        "bbox": [
+          0.10333333333333333,
+          0.6053333333333333,
+          0.7993333333333333,
+          0.6728888888888889
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4900",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4900_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4900_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "第四部分（10——11 段）奔赴抗日前线",
+        "bbox": [
+          0.088,
+          0.7724444444444445,
+          0.7853333333333333,
+          0.84
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

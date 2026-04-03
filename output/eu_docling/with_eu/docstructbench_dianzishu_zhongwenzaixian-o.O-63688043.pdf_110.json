@@ -1,0 +1,107 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.00020709633827209473,
+          0.0,
+          0.25766587368277616,
+          0.08573947806346957
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(MiTHS)",
+        "bbox": [
+          0.15965139524702396,
+          0.06604900832668355,
+          0.24115831932299892,
+          0.08220680573138155
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ME, WERE LET THEN 4·",
+        "bbox": [
+          0.11740890979278447,
+          0.14970930295993756,
+          0.4028340011094713,
+          0.16716269814495402
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "A#: | H #J: | FT I##): | ##: | FIFTH:",
+        "bbox": [
+          0.17359065565952034,
+          0.3208880367597703,
+          0.8253645076308139,
+          0.5219228375783115
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "33 153",
+        "bbox": [
+          0.4616712715279487,
+          0.30084325419261265,
+          0.5566801637769561,
+          0.31398809546245393
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

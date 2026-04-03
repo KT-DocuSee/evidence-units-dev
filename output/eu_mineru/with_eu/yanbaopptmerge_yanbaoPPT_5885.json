@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5885",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5885_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5885_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "找春天",
+        "bbox": [
+          0.8413333333333334,
+          0.013333333333333334,
+          0.998,
+          0.08977777777777778
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5885",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5885_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5885_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "解冻的小溪丁丁冬冬，",
+        "bbox": [
+          0.242,
+          0.23022222222222222,
+          0.618,
+          0.296
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5885_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "那是春天的琴声吧？",
+        "bbox": [
+          0.24266666666666667,
+          0.3582222222222222,
+          0.584,
+          0.42044444444444445
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5885",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5885_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5885_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "流水声",
+        "bbox": [
+          0.624,
+          0.9493333333333334,
+          0.7506666666666667,
+          0.9991111111111111
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_j70ke43p.pdf_69",
+    "primary_id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "理科拓展专题",
+        "bbox": [
+          0.42024601734220607,
+          0.086076670941998,
+          0.5783424077434967,
+          0.10773834972210346
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.20810647307924984,
+          0.12711985178851362,
+          0.8066142367412785,
+          0.5318512184694314
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "1.三角恒等变换",
+        "bbox": [
+          0.18955434563420046,
+          0.5506626763574177,
+          0.3411978221415608,
+          0.569474134245404
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_j70ke43p.pdf_69",
+    "primary_id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2tan 2 tanx 万能置换公式：sinx=− COSx= tanx= 2 1 + tan2 x 1+tan 1−tan2 x 2",
+        "bbox": [
+          0.18310143174027022,
+          0.5803049736354567,
+          0.7832224238757814,
+          0.6452900099757731
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_j70ke43p.pdf_69",
+    "primary_id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_4",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "（1）积化和差公式",
+        "bbox": [
+          0.19197418834442428,
+          0.6544107168305544,
+          0.33958459366807825,
+          0.6709419980048453
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sin AcosB = [sin(A+B)+sin(A− B)]; cosAsinB = −[sin(A+ B)−sin(A−B)]; cos AcosB = [cs(A+ B) +cos(A−B)]; in AsinB = [cos(A−B)−cos(A+ B)]; 2 2",
+        "bbox": [
+          0.18632788868723532,
+          0.6800627048596266,
+          0.8614640048396854,
+          0.761579022374234
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_j70ke43p.pdf_69",
+    "primary_id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_6",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "（2）和差化积公式",
+        "bbox": [
+          0.19278080258116556,
+          0.774690038477982,
+          0.3411978221415608,
+          0.7906512754738492
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_j70ke43p.pdf_69_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A+B A-B A+BinA−B sin A+sin B=2sin 2 COS 2 ; sin A−sin B=2cos 2 sin 2 ; cosA+cosB=2cosAcosA−B cosA−csB=2sin− siA−B",
+        "bbox": [
+          0.18632788868723532,
+          0.7986318939717828,
+          0.819520064529139,
+          0.8801482114863902
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

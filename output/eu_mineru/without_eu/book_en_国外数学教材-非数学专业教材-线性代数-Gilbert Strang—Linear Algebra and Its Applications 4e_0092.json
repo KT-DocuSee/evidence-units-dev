@@ -1,0 +1,106 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_0",
+    "text": "1. x +y = y +x.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15074566706972994,
+      0.08550662676357418,
+      0.3022974607013301,
+      0.10260795211628901
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_1",
+    "text": "2. x + (y + z) = (x +y) + z. 3. There is a unique \"zero vector' such that x + 0 = x for all x. 4. For each x there is a unique vector —x such that x + (−x) = 0. 5. 1x = x. 6. (c1c2)x = c1(c2x). 7. c(x +y) = cx + cy. 8. (c1 + c2)x = c1x + c2x. (a) Suppose addition in R2 adds an extra 1 to each component, so that (3, 1) + (5, 0) equals (9, 2) instead of (8, 1). With scalar multiplication unchanged, which rules are broken? (b) Show that the set of all positive real numbers, with x + y and cx redefined to equal the usual xy and xc, is a vector space. What is the \"zero vector\"? (c) Suppose (x1,x2) + (y1,y2) is defined to be (x1 + y2, x2 + y1). With the usual cx = (cx1, cx2), which of the eight conditions are not satisfied?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14590890769850867,
+      0.08892689183411714,
+      0.8875453446191052,
+      0.43779392902949976
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_2",
+    "text": "6. Let P be the plane in 3-space with equation x + 2y + z = 6. What is the equation of the plane Po through the origin parallel to P? Are P and Po subspaces of R3 ?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12011285771866183,
+      0.4480547242411287,
+      0.8875453446191052,
+      0.48795781673079663
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_3",
+    "text": "7. Which of the following are subspaces of R∞?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11769447803305119,
+      0.49764856776400174,
+      0.5489721886336155,
+      0.516460025651988
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_4",
+    "text": "(a) All sequences like (1, 0, 1, 0, ..) that include infinitely many zeros. (b) All sequences (x1, x2, . ..) with xj = 0 from some point onward. (c) All decreasing sequences: xj+1 ≤ xj for each j. (d) All convergent sequences: the xj have a limit as j → ∞. (e) All arithmetic progressions: xj+1 − xj is the same for all j. (f) All geometric progressions (x1, kx1, k2x1,. . .) allowing all k and x1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14993954050785974,
+      0.5255807325067693,
+      0.7706569931479242,
+      0.6698019096479977
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_5",
+    "text": "8. Which of the following descriptions are correct? The solutions x of",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11608222490931076,
+      0.6783525723243551,
+      0.7408303103587264,
+      0.6977340743907653
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_6",
+    "text": "form",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14993954050785974,
+      0.7838107453327633,
+      0.19750100765820233,
+      0.7997719823286304
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092_7",
+    "text": "(a) a plane. (b) a line. (c) a point. (d) a subspace.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14993954050785974,
+      0.8117429100755309,
+      0.2861749294639258,
+      0.9046601111586148
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0092",
+    "order": 8
+  }
+]

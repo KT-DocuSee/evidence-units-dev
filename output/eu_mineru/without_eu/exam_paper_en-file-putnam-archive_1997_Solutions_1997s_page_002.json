@@ -1,0 +1,223 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_1",
+    "text": "It is immediate (e.g., by induction) that In = 1, −1, 1, 0,0 (mod 5) for n = 1, 2, 3, 4, 5 (mod 5) respec- tively, and moreover, we have the equality",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5552941176470588,
+      0.06606060606060606,
+      0.9192156862745098,
+      0.11090909090909092
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_0",
+    "text": "(by logarithmic differentiation) or equivalently,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.06666666666666667,
+      0.43686274509803924,
+      0.08181818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_2",
+    "text": "and then taking the coefficient of tk on both sides:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.1406060606060606,
+      0.4533333333333333,
+      0.15636363636363637
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.1709090909090909,
+      0.9192156862745098,
+      0.24363636363636362
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_3",
+    "text": "In particuar, th argest such is n−1, nd  = (−1) for k = 1,2, ., n.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.21515151515151515,
+      0.4894117647058824,
+      0.24606060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_6",
+    "text": "If |n/5k ≤ 3, then the last term in the above sum has 5–valuation —k, since I1, I2, I3 each have valua- tion O; on the other hand, all other terms must have 5– valuation strictly larger than —k. It follows that Hn has 5–valuation exactly —k; in particular, Hn has nonneg- ative 5–valuation in this case if and only if k = 0, i.., n = 1, 2, or 3.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.24787878787878787,
+      0.9192156862745098,
+      0.3503030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_4",
+    "text": "Greg Kuperberg has suggested an alternate approach to show directly that c = n — 1 is the largest root, without computing the others. Note that the condition xn+1 = 0 states that (x1, . . . , xn) is an eigenvector of the matrix where k = k(n) denotes the largest integer such that 5k ≤ n. We wish to determine those n such that the above sum has nonnegative 5–valuation. (By the 5– valuation of a number a we mean the largest integer v such that a/5v is an integer.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.2503030303030303,
+      0.49098039215686273,
+      0.3090909090909091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_9",
+    "text": "Suppose now that |n/5k = 4. Then we must also have 20≤ [n/5k−1] ≤ 24. The former condition implies that the last erm of the above sum is I4/5 = 1/(12. −2), which has 5−valuation −(k − 2).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.35393939393939394,
+      0.9192156862745098,
+      0.4127272727272727
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_7",
+    "text": "with eigenvalue c. By the Perron-Frobenius theorem, A has a unique eigenvector with positive entries, whose eigenvalue has modulus greater than or equal to that of any other eigenvalue, which proves the claim.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.3781818181818182,
+      0.49098039215686273,
+      0.43696969696969695
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_10",
+    "text": "It is clear that I20 = 124 = 0 (mod 25); hence if |n/5k−1] equals 20 or 24, then the second–to–last term of the above sum (if it exists) has valuation at least —(k − 3). The third–to–last term (if it exists) is of the form Ir/5k−2, so that the sum of the last term and the third to last term takes the form (Ir + 1/12)/5k−2. Since I, can be congruent only to 0,1, or -1 (mod 5), and 1/12 = 3 (mod 5), we conclude that the sum of the last term and third–to–last term has valuation —(k — 2), while all other terms have valuation strictly higher.' Hence Hn has nonnegative 5–valuation in this case only when k ≤ 2, leading to the values n = 4 (arising from k = 0), 20,24 (arising from k = 1 and |n/5k−1 = 20 and 24 resp.), 101, 102, 103, and 104 (arising from k = 2, [n/5k−1 = 20) and 120, 121, 122, 123, and 124 (aris- ing from k = 2, |n/5k−1] = 24).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.416969696969697,
+      0.9192156862745098,
+      0.6509090909090909
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_8",
+    "text": "B–1 It is trivial to check that = {^ n} ≤ {n} for 1 ≤ m ≤ 2n, that 1 − {n} for 2n≤ m≤ 3n, 1=1 } for 3n ≤ m ≤ 4n, and that ≤ m } for 4n ≤ m ≤ n. herefore the desired sum is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09411764705882353,
+      0.44606060606060605,
+      0.49019607843137253,
+      0.5187878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_11",
+    "text": "B−2 It suffices to show that |f (x)| is bounded for x ≥ 0, since f (−x) satisfies the same equation as f (x). But then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09254901960784313,
+      0.6218181818181818,
+      0.49019607843137253,
+      0.6521212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_14",
+    "text": "Finally, suppose |n/5k = 4 and |n/5k−1 = 21, 22, or 23. Then as before, the first condition implies that the last term of the sum in (*) has valuation −(k − 2), while the second condition implies that the second–to– last term in the same sum has valuation −(k– 1). Hence all terms in the sum (*) have 5–valuation strictly higher than —(k – 1), except for the second–to–last term, and therefore Hn has 5–valuation —(k – 1) in this case. In particular, Hn is integral (mod 5) in this case if and only if k ≤ 1, which gives the additional values n = 21, 22, and 23.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.6533333333333333,
+      0.92,
+      0.8133333333333334
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_12",
+    "text": "so that (f (x))2 ≤ (f (0))2 + (f (0))2 for x ≥ 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12784313725490196,
+      0.7236363636363636,
+      0.432156862745098,
+      0.7418181818181818
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_13",
+    "text": "B–3 The only such n are the numbers 1–4, 20–24, 100–104, and 120–124. For the proof let",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09254901960784313,
+      0.7496969696969698,
+      0.49019607843137253,
+      0.7787878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_16",
+    "text": "B4 Let sk = ∑i(−1)iak−1, be the given sum (note that ak−1,i is nonzero precisely for i = 0, . , 2 ]). Since",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.523921568627451,
+      0.8224242424242424,
+      0.9184313725490196,
+      0.8557575757575757
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002_15",
+    "text": "and introduce the auxiliary function",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.8363636363636363,
+      0.36392156862745095,
+      0.8515151515151516
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_002",
+    "order": 17
+  }
+]

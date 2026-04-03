@@ -1,0 +1,228 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07562008252279459,
+          0.05858678686302871,
+          0.6251260155217686,
+          0.12226807693153818
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2. Diagram of trigger system for rotor-laser synchronization",
+        "bbox": [
+          0.6486522634177492,
+          0.09806918670550459,
+          0.8872756349341232,
+          0.12481532853427856
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1. Example solution for rotor-laser synchronization",
+        "bbox": [
+          0.07730052880107892,
+          0.14901421876031215,
+          0.4503596025801989,
+          0.16175047677401405
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_3",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07562008252279459,
+          0.16557135417812463,
+          0.927606345612947,
+          0.2165163862329322
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3 Flow seeding",
+        "bbox": [
+          0.07730052880107892,
+          0.27765042469870127,
+          0.17140552038500106,
+          0.30694381813021565
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Di-ethyl-hexyl-sebacat (DEHS) atomized by Laskin nozzle particle generators was used to seed the flow. The particles were pumped through a distribution rake mounted in the settling chamber of the wind tunnel. The rake was re- motely traversed to guide the homogeneous seed stream to the region of interest. The DEHS droplets generated and distributed by this arrangement have a mean diameter below 1 μm as confirmed by previous tests. The rake and the resulting particle distribution during testing can be seen in Fig. 3. Although seed particles are visible inside the tip vortex, the seeding density is noticeably lower than in the remainder of the flow fi eld. This can be explained by the reduced air density inside the core and centrifugal forces that affect the particle distribution (for a more detailed discussion of particle behaviour, see e.g. Grant 1994).",
+        "bbox": [
+          0.07730052880107892,
+          0.30694381813021565,
+          0.4940512058155913,
+          0.53747008817822
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_9",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 3. The distribution of seed particles in the settling chamber and in the test section",
+        "bbox": [
+          0.6234455692434843,
+          0.7310612099864887,
+          0.9242454530563783,
+          0.7565337260138925
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_11",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 4. PIV cameras and viewing direction (fl ow from above)",
+        "bbox": [
+          0.6234455692434843,
+          0.9157369511851662,
+          0.8990387588821135,
+          0.9412094672125699
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "constant rotor frequency, a very accurate and stable phase shift could be achieved.",
+        "bbox": [
+          0.07562008252279459,
+          0.23434714745211485,
+          0.492370759537307,
+          0.262366915082259
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_7",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Cameras and light sheet traverses",
+        "bbox": [
+          0.5074947760418659,
+          0.24835703126718695,
+          0.7494790401148086,
+          0.2636405408836292
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The PIV system consisted of five digital cameras and three double-pulse Nd:YAG lasers (2×320 mJ each). The output beams from the laser systems were combined to produce an intense light sheet that was approximately 1.5 m wide and 7 mm thick. The resulting sheet was oriented at an angle of 30.6° with respect to the axis of the wind tunnel (Fig. 4). Cameras, lasers and light sheet optics were mounted on a traversing system (the common support system of the DNW-LLF). In this set-up, the distance between the cameras and the light sheet could be kept constant during all PIV measurements. Therefore, a pixel- to-length re-calibration and camera alignment (which usually has to be performed after each change in the set- up) could be avoided. Additional traverses were mounted to the tower of the common support (Fig. 4) in order to move the cameras parallel to the light sheet in an up and down direction (along the z axis). The common support itself allows for positioning the camera view along three axes (Fig. 5), two lateral axes (x and y) and one rotation",
+        "bbox": [
+          0.5058143297635816,
+          0.2636405408836292,
+          0.922565006778094,
+          0.5387437139795901
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_10",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07562008252279459,
+          0.564216230006994,
+          0.6032802139040724,
+          0.9399358414111998
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

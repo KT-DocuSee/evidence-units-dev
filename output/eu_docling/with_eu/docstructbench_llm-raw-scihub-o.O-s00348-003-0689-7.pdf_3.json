@@ -1,0 +1,355 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_18",
+    "source": "visual_seed",
+    "member_count": 14,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_18",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07744285920426403,
+          0.061447801200800234,
+          0.6229108474648367,
+          0.121966292474424
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Laser",
+        "bbox": [
+          0.5420646200510018,
+          0.06960489681341642,
+          0.5824564521730055,
+          0.08155789401348922
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ХП",
+        "bbox": [
+          0.4808429113455329,
+          0.08139534885036247,
+          0.5038314179822273,
+          0.09302325569509211
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Phase shifter",
+        "bbox": [
+          0.1741285264298856,
+          0.08221806455260484,
+          0.2588216661901676,
+          0.09946798177972926
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sequencer",
+        "bbox": [
+          0.3927203058810665,
+          0.08430232595857048,
+          0.4674329493296614,
+          0.09883720904142958
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rotor",
+        "bbox": [
+          0.08429118862956349,
+          0.08575581383680911,
+          0.12260536386085798,
+          0.09883720927365608
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "m",
+        "bbox": [
+          0.32567049801848547,
+          0.08720930270851245,
+          0.3448275856341326,
+          0.09593023236900693
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Camera",
+        "bbox": [
+          0.543942008335744,
+          0.10005840189600472,
+          0.5978204430012841,
+          0.11651136528605233
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_8",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1. Example solution for rotor-laser synchronization",
+        "bbox": [
+          0.07662836571876351,
+          0.14970930258232465,
+          0.4501915629895014,
+          0.16424418566518373
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "constant rotor frequency, a very accurate and stable phase 4 shift could be achieved.'",
+        "bbox": [
+          0.07662835679044482,
+          0.23401162839598408,
+          0.5191570882991676,
+          0.2646329365497191
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The PIV system consisted of five digital cameras and three Flow seeding Di-ethyl-hexyl-sebacat (DEHS) atomized by Laskin nozzle an intense light sheet that was approximately 1.5 m wide particle generators was used to seed the flow. The particles and 7 mm thick. The resulting sheet was oriented at an were pumped through a distribution rake mounted in the angle of 30.6° with respect to the axis of the wind tunnel settling chamber of the wind tunnel. The rake was re(Fig. 4). Cameras, lasers and light sheet optics were motely traversed to guide the homogeneous seed stream to mounted on a traversing system (the common support the region of interest. The DEHS droplets generated and system of the DNW-LLF). In this set-up, the distance distributed by this arrangement have a mean diameter between the cameras and the light sheet could be kept below 1 um as confirmed by previous tests. The rake and constant during all PIV measurements. Therefore, a pixelthe resulting particle distribution during testing can be seen in Fig. 3. Although seed particles are visible inside the to-length re-calibration and camera alignment (which usually has to be performed after each change in the settip vortex, the seeding density is noticeably lower than in up) could be avoided. Additional traverses were mounted the remainder of the flow field. This can be explained by to the tower of the common support (Fig. 4) in order to the reduced air density inside the core and centrifugal move the cameras parallel to the light sheet in an up and forces that affect the particle distribution (for a more down direction (along the z axis). The common support detailed discussion of particle behaviour, see e.g. Grant itself allows for positioning the camera view along three 1994). axes (Fig. 5), two lateral axes (x and y) and one rotation",
+        "bbox": [
+          0.07460565852934269,
+          0.2630813959831933,
+          0.9233716481951846,
+          0.5392441860759817
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_12",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 3. The distribution of seed particles in the settling chamber and in the test section",
+        "bbox": [
+          0.6226053689372655,
+          0.732558139781245,
+          0.9233716449178327,
+          0.7587209300588715
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "30.65°",
+        "bbox": [
+          0.5000000005169489,
+          0.8066860464074822,
+          0.553639846839373,
+          0.8226744190285642
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_13",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 4. PIV cameras and viewing direction (flow from above)",
+        "bbox": [
+          0.620689656567238,
+          0.9171511630370588,
+          0.8965517226712402,
+          0.9419642856439441
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_16",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2. Diagram of trigger system for rotor-laser synchronization",
+        "bbox": [
+          0.6455938702866115,
+          0.1001984129007689,
+          0.8888888925805133,
+          0.1264880953174368
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_17",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_17",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Rotor | Laser flash lamps | Rotor frequency/flash lamp rate | Camera and q-switch | 1,041 RPM~17.35 Hz | 9.914 Hz | m/n=7/4 | 2.479 Hz",
+        "bbox": [
+          0.07647079218537318,
+          0.16687893244390475,
+          0.9225652548160541,
+          0.21514576348292067
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_10",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_10",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Cameras and light sheet traverses",
+        "bbox": [
+          0.5038314182551094,
+          0.24702380929085102,
+          0.7509578527410589,
+          0.2659883714420181
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_19",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_19",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07720941265496209,
+          0.5622006171015302,
+          0.6031187672508318,
+          0.753421382912798
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_20",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_20",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07748840479726728,
+          0.7856495125694922,
+          0.3667731772605679,
+          0.9382403136283528
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_21",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_21",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3710537614493534,
+          0.7914732347546997,
+          0.6032810845810648,
+          0.937377985657382
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.6m",
+        "bbox": [
+          0.5344827586487205,
+          0.8720930234308331,
+          0.5727969338800151,
+          0.8837209302755624
+        ],
+        "order": 21
+      }
+    ]
+  }
+]

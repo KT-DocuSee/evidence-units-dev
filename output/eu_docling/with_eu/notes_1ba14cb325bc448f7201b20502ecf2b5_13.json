@@ -1,0 +1,123 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_13",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_8",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7930327868639431,
+          0.09593023256458552,
+          0.8299180317152922,
+          0.1061046508171974
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Jeft.",
+        "bbox": [
+          0.10655737823209696,
+          0.37936046534792406,
+          0.16188524550912087,
+          0.40116279044526537
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08914235113721179,
+          0.817322320146523,
+          0.16002907214304393,
+          0.8358225464349679
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*8:",
+        "bbox": [
+          0.0942622955334237,
+          0.818313953865637,
+          0.1536885251291446,
+          0.8372093017787433
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_13",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3) *51: 9761*27814+927.",
+        "bbox": [
+          0.1615641293815075,
+          0.4105029021843964,
+          0.7032585302409372,
+          0.43765754840694987
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_13",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_7",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_7",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Sans | HO-HAR HEE-HE#. | 06* THARTE BAAT | OPSTEELER 8572 | -1. REFERF.",
+        "bbox": [
+          0.0963596359955217,
+          0.49828239109205164,
+          0.963349112240673,
+          0.8097768791108263
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_13_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0717652 EARNA MEETHEAR",
+        "bbox": [
+          0.14116350057705992,
+          0.8470582360794134,
+          0.9182627682576932,
+          0.876778972953888
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

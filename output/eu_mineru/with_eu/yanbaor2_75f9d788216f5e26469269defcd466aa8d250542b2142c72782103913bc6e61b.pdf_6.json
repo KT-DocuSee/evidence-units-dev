@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6",
+    "primary_id": "mineru_yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6_2",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.2行政处罚和行政干预情况分析（续）",
+        "bbox": [
+          0.053212396069538925,
+          0.060459492140266025,
+          0.6173847316704459,
+          0.12817412333736397
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "2023年季度证监会等监管机构披露的95笔罚单中，政处罚和政预情况列示如下：",
+        "bbox": [
+          0.04897959183673469,
+          0.14429665457476823,
+          0.637339380196523,
+          0.1725110842402257
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.047770219198790626,
+          0.1837968561064087,
+          0.9596371882086168,
+          0.8819024586860137
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

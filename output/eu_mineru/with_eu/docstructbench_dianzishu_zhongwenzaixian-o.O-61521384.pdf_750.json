@@ -1,0 +1,90 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61521384.pdf_750",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521384.pdf_750_5",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521384.pdf_750_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "第3 章某 1000kV 同塔双回路交流输电线路工程施工组织设计",
+        "bbox": [
+          0.17216262259596027,
+          0.11135857292828807,
+          0.8657793424777618,
+          0.13486760499092668
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521384.pdf_750_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "编制依据如下：",
+        "bbox": [
+          0.1258111472816633,
+          0.1620885894845082,
+          0.2218249175755642,
+          0.17693639920827994
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521384.pdf_750_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（1）表3-0-1所列法规、标准、规程、规范等。",
+        "bbox": [
+          0.1258111472816633,
+          0.1781737166852609,
+          0.42709573682459373,
+          0.19302152640903267
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521384.pdf_750_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "法规、标准、规程、规范",
+        "bbox": [
+          0.42212950732663335,
+          0.19920811379393755,
+          0.5926367200899402,
+          0.2140559235177093
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521384.pdf_750_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表3-0-1",
+        "bbox": [
+          0.1258111472816633,
+          0.20044543127091852,
+          0.17878426192657412,
+          0.2128186060407283
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521384.pdf_750_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09270295062859399,
+          0.20663201865582342,
+          0.9419281947798211,
+          0.9428359174595057
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

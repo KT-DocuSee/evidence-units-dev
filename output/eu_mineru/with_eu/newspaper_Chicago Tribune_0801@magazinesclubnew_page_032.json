@@ -1,0 +1,745 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_032",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_0",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.045454545454545456,
+          0.0421978021978022,
+          0.9557575757575758,
+          0.10315018315018315
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.7836363636363637,
+          0.3393406593406593,
+          0.9563636363636364,
+          0.40673992673992676
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "上",
+        "bbox": [
+          0.2224242424242424,
+          0.5705494505494505,
+          0.5709090909090909,
+          0.6983150183150183
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_32",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.22545454545454546,
+          0.7003663003663003,
+          0.5430303030303031,
+          0.7126739926739927
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_032",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_41",
+    "source": "visual_seed",
+    "member_count": 41,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_24",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "CHICAGO BASKETBALL REPORT",
+        "bbox": [
+          0.6,
+          0.11721611721611722,
+          0.8242424242424242,
+          0.12512820512820513
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_25",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "No All-Stars for Bulls yet again?",
+        "bbox": [
+          0.5987878787878788,
+          0.12893772893772895,
+          0.8927272727272727,
+          0.17553113553113553
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_41",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7848484848484848,
+          0.17934065934065935,
+          0.9551515151515152,
+          0.30036630036630035
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_27",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "By Julia Poe Chicago Tribune",
+        "bbox": [
+          0.5987878787878788,
+          0.21128205128205127,
+          0.6696969696969697,
+          0.22388278388278388
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The early returns of the NBA All-Star fan voting do not look good for the Chicago Bulls.",
+        "bbox": [
+          0.5993939393939394,
+          0.22945054945054946,
+          0.7715151515151515,
+          0.2479120879120879
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "No Bulls player was listed in the fi rst returns of fan voting, which will run until Jan. 20. While the Boston Celtics and the Philadel- phia 76ers are dominating the fan vote, actual selections could vary greatly — fan voting is only weighted as 50% of total voting. Media and player selections will also contribute to the final 2025 All-Star team rosters.",
+        "bbox": [
+          0.5987878787878788,
+          0.24820512820512822,
+          0.7715151515151515,
+          0.3153113553113553
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_42",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Former Dream head coach Tanisha Wright reacts during the first half of a first-round WNBA playoff game against the Liberty on Sept. 24 in New York. ADAM HUNGER/AP",
+        "bbox": [
+          0.7836363636363637,
+          0.3032967032967033,
+          0.953939393939394,
+          0.33377289377289376
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Bulls have not sent a player to the All-Star game since 2023, when DeMar DeRozan was the team's sole representative in the game. Last season broke a three- year streak of consecutive All-Star appearances from either DeRozan or Zach LaVine. The team's lack of presence at the All-Star game has often been a visible reflection of a lack of relevance in the league at large.",
+        "bbox": [
+          0.5987878787878788,
+          0.3153113553113553,
+          0.7709090909090909,
+          0.38886446886446885
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This season, veterans LaVine and Niola Vuevi migh e f ing under the radar as potential selec- tions for the All-Star game. Vu evic is boosting his scoring with the best 3-point shooting season of his career, And LaVine is averaging the 12th-most points of any player in the Eastern Conference (ninth of backcourt players in the East) while showcasing his effi ciency in a revised yersion of his role as the offensive leader for the Bulls.",
+        "bbox": [
+          0.5987878787878788,
+          0.38886446886446885,
+          0.7709090909090909,
+          0.46798534798534797
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In addition to his contributions on the court, Dosunmu is a key trade asset for the Bulls as they approach a crucial selling season ahead of the deadline in February. While he might not be the center of a trade off er, the Bulls could utilize Dosunmu's considerable upside and favorable contract to sweeten a deal.",
+        "bbox": [
+          0.7830303030303031,
+          0.4073260073260073,
+          0.9557575757575758,
+          0.4673992673992674
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "All-Star starters will be announced on Jan. 23 and the reserve team will be announced on Jan. 30. This year's All-Star game, played in San Francisco, will feature a new format involv- ing a tournament of four eight- player teams. Three ofthose teams will consist of All-Stars while the fourth will be the winning team from the Rising Stars tournament for rookie, second-year and G League players.",
+        "bbox": [
+          0.5993939393939394,
+          0.46798534798534797,
+          0.7709090909090909,
+          0.547985347985348
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Before the injury, Dosunmu was averaging 12.6 points, 4.8 assists and 3.9 rebounds per game this season.",
+        "bbox": [
+          0.7830303030303031,
+          0.46798534798534797,
+          0.9551515151515152,
+          0.4926007326007326
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Iinois climbs to top 15 ranking: In a matter of weeks, the Fighting Illini lawed their way from being unranked to sittingjust outside the top 10 in NCAA men's basketball with a No. 13 rankingin the AP Top 25. This climb was bolstered by the team's offensive thrashing of No. 15 Oregon, who they beat 109-77 last Thursday.",
+        "bbox": [
+          0.7836363636363637,
+          0.49846153846153846,
+          0.9563636363636364,
+          0.5594139194139194
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_31",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "3ullsguard Coby White dunks the ball ver Spurs center Victor Wembanyamain during the final minute of the Fourth period Monday night at the United Center. ARMANDoL. SANCHEZ/cHICAGo TRIBUNE PHoTos BULLS TAKEAWAYS",
+        "bbox": [
+          0.04242424242424243,
+          0.5046153846153846,
+          0.5575757575757576,
+          0.5277655677655677
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Chicago Sky hire former Atlanta head coach Tanisha Wright: New Sky coach Tyler Marsh made his second addition to his bench this week, hiring former Atlanta Dream head coach Tanisha Wright as an assistant coach.",
+        "bbox": [
+          0.5975757575757575,
+          0.5535531135531135,
+          0.7709090909090909,
+          0.596043956043956
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Illinois has won its last four games and posted a 3-1 start to the Big Ten season. And two of their three losses came at the hands of a higher-ranked opponent — a two-point loss to No. 1 Tennessee and an early season loss to No. 5 Alabama. Their lone Big Ten loss — an upset by Northwestern - will continue to sting. But Illinois is carving out a space for itself as a top contender in the conference, jostling with Indiana, Michigan and Michigan State for the top spot.",
+        "bbox": [
+          0.7842424242424243,
+          0.5594139194139194,
+          0.9563636363636364,
+          0.652014652014652
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "With dunk, White put Wembanyama on a poster to lead comeback win",
+        "bbox": [
+          0.045454545454545456,
+          0.5702564102564103,
+          0.20424242424242425,
+          0.613919413919414
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Wright is a 15-year veteran of the WNBA as a coach and a player. She helmed the Dream from 2021 before she was released by the team this fall following a 15-25 season. Wright was named the AP Coach of the Year in 2022.",
+        "bbox": [
+          0.5993939393939394,
+          0.5966300366300367,
+          0.7709090909090909,
+          0.6391208791208791
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Prior to Atlanta, Wright was an assistant coach with the Las Vegas Aces, although she departed for the Dream head coaching position before current Aces coach Becky Hammon — who was a crucial mentor to Marsh — took over the program. Wright will bring a vari- ety of experience to Marsh's bench including international scouting.",
+        "bbox": [
+          0.5987878787878788,
+          0.6385347985347986,
+          0.7709090909090909,
+          0.7006593406593407
+        ],
+        "order": 26
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Coby White is not a dunker. Before Monday's 114-110 win over the San Antonio Spurs, the Bulls guard had attempted only two dunks this season. He dunked only 14 times last season. It's just not a part of his bag that white likes to dig into often.",
+        "bbox": [
+          0.044848484848484846,
+          0.6388278388278388,
+          0.2109090909090909,
+          0.6874725274725275
+        ],
+        "order": 27
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Zach LaVine is the fourth most efficient 3-point shooter in the NBA. In big and inconsequential moments alike, LaVine just can't seem to miss. He's shooting 44.7% from behind the arc on 7.4 attempts per game.",
+        "bbox": [
+          0.7830303030303031,
+          0.6637362637362637,
+          0.9551515151515152,
+          0.7065201465201465
+        ],
+        "order": 29
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Maybe, he joked after the win, he would try it more if he had the athleticism of Zach LaVine or the wingspan of Patrick Williams.",
+        "bbox": [
+          0.04363636363636364,
+          0.6877655677655677,
+          0.2109090909090909,
+          0.7120879120879121
+        ],
+        "order": 30
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ayo Dosunmu faces uncertain return timeline: The Bulls might have to fare without Ayo Dosunmu for an even longer stretch of the season than expected. The guard initially suff ered a calf strain in a loss to the Milwaukee Bucks on Dec. 23 and has been unable to progress to full-speed sprints after an extended 10-day period ofrest. Dosunmu ramped up to sprint- ing on a treadmill over the week- end but reported discomfort when attempting to reach full speed, coach Billy Donovan said. He will not attempt another ramp-up until next week. This means the Bulls could play at least five more games without Dosunmu, who has been a crucial defensive anchor and secondary point guard option for the Bulls this season.",
+        "bbox": [
+          0.5987878787878788,
+          0.7065201465201465,
+          0.7709090909090909,
+          0.7736263736263737
+        ],
+        "order": 32
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This is a somewhat muted volume despite the high rate at which the Bulls are shooting the ball from deep this season — but it's also an anomaly for any player to maintain this high of an efi cieny while taking this many shots. Only one other player (Kyrie Irving) shooting above 44% has taken 200 or more attempts from 3-point range this season.",
+        "bbox": [
+          0.7836363636363637,
+          0.7065201465201465,
+          0.9563636363636364,
+          0.7733333333333333
+        ],
+        "order": 33
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But in the final 30 seconds, with a one-point lead over the Spurs, White didn't have another choice. So he put his head down and charged to the rim. And if the tallest man in the NBA was in his way? Well, all the better.",
+        "bbox": [
+          0.044848484848484846,
+          0.7117948717948718,
+          0.2109090909090909,
+          0.7548717948717949
+        ],
+        "order": 34
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "second of the night.",
+        "bbox": [
+          0.40545454545454546,
+          0.7176556776556776,
+          0.5024242424242424,
+          0.7241025641025641
+        ],
+        "order": 35
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "rim — was the only option to clinch the game.",
+        "bbox": [
+          0.22424242424242424,
+          0.7182417582417583,
+          0.39151515151515154,
+          0.7302564102564103
+        ],
+        "order": 36
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Vučevic could only drop his arms and tip his head back in stupefied frustration, jogging back before answering with his own 3-pointer several possessions later.",
+        "bbox": [
+          0.40424242424242424,
+          0.7229304029304029,
+          0.5703030303030303,
+          0.7607326007326007
+        ],
+        "order": 37
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"I just told myself the next time I was going to go, I was going to try to dunk it,\" white said. \"I knew when I was driving, if I was going to lay it in, finger-roll it, anything, he was going to block it. So I just was like — I've got to dunk it. I just wanted to make sure that I got the basket.\" Here are two other takeaways from the win.",
+        "bbox": [
+          0.22363636363636363,
+          0.7311355311355311,
+          0.39212121212121215,
+          0.7988278388278388
+        ],
+        "order": 38
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Victor Wembanyama already had blocked three of white's shots before the fi nal minute, but that didn't slow White's approach. Itcouln't. Afer fallingehiny 19 points in the fi rst half, the Bulls couldn't collapse at the rim just because the 7-foot-3 Wemban- yama was waiting.",
+        "bbox": [
+          0.04424242424242424,
+          0.7548717948717949,
+          0.2109090909090909,
+          0.8099633699633699
+        ],
+        "order": 39
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Wembanyama closed the game with an identical play in the final 10 seconds. This time, the shot rattled out. And for Vučevic, that was victory enough — forcing Wembanyama into his worst shot for the game-winner.",
+        "bbox": [
+          0.40424242424242424,
+          0.7613186813186813,
+          0.5703030303030303,
+          0.8041025641025641
+        ],
+        "order": 40
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. Wemby vs. Vooch: The tough- est matchup of the game was between Wembanyama and Bulls center Nikola Vučević. From the start, it was a challenge for Vučević — Wembanyama blocked him twice in the first four minutes, enforcing his will under and around the rim.",
+        "bbox": [
+          0.22363636363636363,
+          0.8035164835164835,
+          0.39090909090909093,
+          0.8583150183150183
+        ],
+        "order": 42
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.Zach LaVine brought the high- lights: It's hard to fly under the radar while consistently putting up 30 or more points, but LaVi is achievingjust that. He finished just shy of a triple-double by tally- ing 35 points, 11 rebounds and eight assists — and threw down a few spectacle dunks of his own to once again power the Bulls offense.",
+        "bbox": [
+          0.403030303030303,
+          0.8096703296703297,
+          0.5709090909090909,
+          0.8767765567765567
+        ],
+        "order": 43
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the locker room at halftime, the entire Bulls roster shared the same sentiment: We have to do something.",
+        "bbox": [
+          0.04363636363636364,
+          0.8099633699633699,
+          0.2109090909090909,
+          0.833992673992674
+        ],
+        "order": 44
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For white, that something meant attacking the rim. Even if he got blocked. And in the fi nal minute, that fearlessness paid off twofold.",
+        "bbox": [
+          0.04303030303030303,
+          0.8345787545787546,
+          0.2109090909090909,
+          0.8647619047619047
+        ],
+        "order": 45
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Wembanyama didn't affect Vučevié too deeply on the off en- sive side. The veteran extended his consistent scoring, tallying 24 points despite an off night (2-for- 9) behind the 3-point arc. But Wembanyama proved equally vexing on the other end, making four 3-pointers to score 23 points. In the final two minutes of the second quarter, Vučevié chased Wembanyama out to the 3-point line, doggedly latched onto the Spurs center's hip until the shot clock expired. But in the final half-second, Wembanyama pulled up and fi red f  -p inter that rattled through the rim— his",
+        "bbox": [
+          0.22363636363636363,
+          0.8591941391941392,
+          0.39151515151515154,
+          0.9690842490842491
+        ],
+        "order": 46
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "White slung an up-and-under shot that arched all the way over Wembanyama's 8-foot wingspan and into the basket to give the Bulls the lead with 47 seconds remaining. And 32 seconds later, White took an even more aggres- sive approach, getting Jeremy Sochan to bite on a pump fake and launching himself skyward.",
+        "bbox": [
+          0.04424242424242424,
+          0.8650549450549451,
+          0.2109090909090909,
+          0.926007326007326
+        ],
+        "order": 47
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "His scoring was vital on a cold night from 3-point range. The Bulls went 13-for-39 behind the arc — and LaVine and White combined for six of those makes. The Spurs were able to utilize Wembanyama's overwhelming length around the basket to crash closeouts heavily, funneling the Bulls offense toward their center at the rim.",
+        "bbox": [
+          0.403030303030303,
+          0.8767765567765567,
+          0.5709090909090909,
+          0.9438827838827839
+        ],
+        "order": 48
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Wembanyama rotated over a second late. That didn't matter either. For White, the poster-per- fect shot— his arm cocked back, Wembanyama's body crashing into his torso, the ball already searing downward toward the",
+        "bbox": [
+          0.04424242424242424,
+          0.9248351648351648,
+          0.2103030303030303,
+          0.9687912087912088
+        ],
+        "order": 49
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LaVine was the off ense's key spark inside the arc, pushing the ball in transition to utilize his speed advantage.",
+        "bbox": [
+          0.40424242424242424,
+          0.9438827838827839,
+          0.5709090909090909,
+          0.9687912087912088
+        ],
+        "order": 50
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_34",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Oregon guard Jadrian Tracey, left, and Illinois guard Tre White go for a rebound during the first half of a game in Eugene, Ore. on Thursday. THOMAS BOYD/AP",
+        "bbox": [
+          0.5993939393939394,
+          0.9503296703296703,
+          0.9206060606060606,
+          0.9684981684981685
+        ],
+        "order": 51
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_032",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "で ULLS 7 - O 1 . UETAA A",
+        "bbox": [
+          0.045454545454545456,
+          0.12014652014652015,
+          0.5696969696969697,
+          0.5031501831501831
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_032",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_26",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sky hire former Dream head coach as assistant under Marsh",
+        "bbox": [
+          0.6,
+          0.17934065934065935,
+          0.7563636363636363,
+          0.2068864468864469
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_032",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Suitable for framing",
+        "bbox": [
+          0.045454545454545456,
+          0.5342124542124542,
+          0.5721212121212121,
+          0.5679120879120879
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_032",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_4",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "By Julia Poe Chicago Tribune",
+        "bbox": [
+          0.04424242424242424,
+          0.62007326007326,
+          0.11393939393939394,
+          0.6329670329670329
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_032",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_48",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_48",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Number ofthe week: 4",
+        "bbox": [
+          0.7842424242424243,
+          0.6572893772893773,
+          0.9018181818181819,
+          0.6631501831501831
+        ],
+        "order": 28
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "visual_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_032",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_33",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_032_33",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5987878787878788,
+          0.7783150183150184,
+          0.9545454545454546,
+          0.9482783882783883
+        ],
+        "order": 41
+      }
+    ]
+  }
+]

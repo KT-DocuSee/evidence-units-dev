@@ -1,0 +1,132 @@
+[
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_0",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.20862745098039215,
+      0.10121212121212121,
+      0.7929411764705883,
+      0.3012121212121212
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_1",
+    "text": "Table 2.28",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20784313725490197,
+      0.30666666666666664,
+      0.28,
+      0.3212121212121212
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_2",
+    "text": "The sampl variane, 2, is equal to the sum of the ast column (.75) divided y the tota uer of dta val minus one (20 –1):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14431372549019608,
+      0.3509090909090909,
+      0.8525490196078431,
+      0.38
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_3",
+    "text": "The sample standard deviation s is equal to the square root of the sample variance:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14823529411764705,
+      0.4212121212121212,
+      0.6745098039215687,
+      0.43636363636363634
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_4",
+    "text": "s = √0.5125 = 0.715891, which is rounded to two decimal places, s = 0.72.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15137254901960784,
+      0.44303030303030305,
+      0.6407843137254902,
+      0.4587878787878788
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_5",
+    "text": "Explanation of the standard deviation calculation shown in the table",
+    "canon_role": "section_header",
+    "bbox": [
+      0.11764705882352941,
+      0.4921212121212121,
+      0.6462745098039215,
+      0.5078787878787879
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_6",
+    "text": "The deviations hw howpread out the dataare aout the an.Thedaa ale . is farther from the ean thn is h data alewhichis iicate theeviation0.7n0.7.Apsitive deviaionrs when hatvale isae than the mean whres anegative deviation ours when the datavalue is less than the mean.Thedeviaton is.525 for the data value nine. If you ad the deviations, thesum is always zer.For Example2.29, there aren=20 deviations.) So you canot siplya hedeviations toe he spaoftheyuaring hedeviationsou a the posit nuer tu eosivaanees teaeiati arig evi weare placing an exte penaon serations that are far fr theean theseerationsetgreaer weigh in th a ourconusinsn infrental statistisecaneinnuing thstandarddeviatinsaeofsal. \"Hw d u on the est\"eif stanar deviation e he a.\"Thi  il  isn sal exam grade.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11607843137254902,
+      0.5133333333333333,
+      0.8847058823529412,
+      0.6721212121212121
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_7",
+    "text": "The variance is a squared measure and does not have the sameunits as the data. Taking the square root solves the proble The standard deviation measures the spread in the same units as the data.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11764705882352941,
+      0.6781818181818182,
+      0.8784313725490196,
+      0.7066666666666667
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_8",
+    "text": "Notice that instead of dividing byn =20, the calculation divided by n–1 =20–1= 19 because the data is a sample.For the sample variance, we divide by the sample size minus one (n–1). Why not divide by n? The answer has to do with the population variance.The sample variance is an estimate of thepopulation variance.This estimate requires us use an estimateof the population mean rather than the actual population mean. Based on the theoretical mathematics that ies behind these calculations, dividing by (n– 1) gives a better estimate of the population variance.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11529411764705882,
+      0.7121212121212122,
+      0.883921568627451,
+      0.7854545454545454
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89_9",
+    "text": "The standard deviatiooris either zeroor larger thanzero.Describingthe data with reference to the pread is called\"variabili\". The variabilit in datadepends upon the ethdby which theoutcoes are otaine; foraml y arig  aen stavins  tha   ta a eua toachtestavi isal hn eaaloenateehea is a thedataalues shw ore aratonfo th eanhen the standar devition isat aer thane heaae are very spread out about the mean outierscan makesorovery la.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11529411764705882,
+      0.7909090909090909,
+      0.8847058823529412,
+      0.8781818181818182
+    ],
+    "page": "yanbaopptmerge_d4fc7cba428625974e93183edfccea73.pdf_89",
+    "order": 10
+  }
+]

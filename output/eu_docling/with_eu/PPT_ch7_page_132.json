@@ -1,0 +1,149 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_132",
+    "primary_id": "docling_PPT_ch7_page_132_2",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_132_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Vectors whose inner product is zero are called orthogonal. The length or norm of a vector in V is defined by",
+        "bbox": [
+          0.06104651590721714,
+          0.1375661384462357,
+          0.9244186015982963,
+          0.2384259264928446
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_ch7_page_132_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.05416668414139991,
+          0.2611111133378028,
+          0.4833333265877665,
+          0.3222222204121972
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_ch7_page_132_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A vector of norm 1 is called a unit vector. From these axioms and from (2) one can derive the basic inequality",
+        "bbox": [
+          0.05959302378012607,
+          0.33134920629645936,
+          0.8749999922556393,
+          0.43023255707914776
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_ch7_page_132_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.05668604840828356,
+          0.4534883728751827,
+          0.13226744006070865,
+          0.49806201546461043
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_132",
+    "primary_id": "docling_PPT_ch7_page_132_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_132_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4941860513409394,
+          0.4553571428479588,
+          0.9055232528984015,
+          0.5059523809431968
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_132",
+    "primary_id": "docling_PPT_ch7_page_132_6",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_132_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From this follows",
+        "bbox": [
+          0.05959303212479215,
+          0.5231481482625314,
+          0.3212209257240449,
+          0.5582010583154414
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_PPT_ch7_page_132_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.05668605269165266,
+          0.5909391546314824,
+          0.9208333401629542,
+          0.6501322754979758
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_PPT_ch7_page_132_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A simple direct calculation gives",
+        "bbox": [
+          0.05959302528411874,
+          0.6607142866148309,
+          0.5406976792632234,
+          0.709325397725942
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_PPT_ch7_page_132_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.10319768328110765,
+          0.7033730155463107,
+          0.920058124458718,
+          0.7732558146242277
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

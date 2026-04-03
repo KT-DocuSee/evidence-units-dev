@@ -1,0 +1,361 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_24",
+    "source": "visual_seed",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_24",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5196280532867089,
+          0.11592523723970981,
+          0.9168074324324325,
+          0.32325564547034363
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "200",
+        "bbox": [
+          0.53648915167368,
+          0.12645348838259396,
+          0.5739644963046235,
+          0.13953488381944087
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1 150",
+        "bbox": [
+          0.5182258245061051,
+          0.16382252646129494,
+          0.5764487325363928,
+          0.20245654286158674
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "$ 100",
+        "bbox": [
+          0.5226824459829408,
+          0.20486111071606766,
+          0.5719921110519047,
+          0.22395833293828982
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "eveni",
+        "bbox": [
+          0.5266272178148641,
+          0.22238372103317747,
+          0.5345167664849384,
+          0.24563953472263644
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50",
+        "bbox": [
+          0.5502958585970044,
+          0.247093023234612,
+          0.5739644969059543,
+          0.25872093007934144
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0",
+        "bbox": [
+          0.5621301778981076,
+          0.2877906977777637,
+          0.5739644970525826,
+          0.2979651160303758
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.05",
+        "bbox": [
+          0.7061143993710757,
+          0.29796511615027815,
+          0.7455621298859922,
+          0.31104651158712504
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.00",
+        "bbox": [
+          0.5996055236299438,
+          0.2979651167797914,
+          0.6410256400288334,
+          0.31249999986265065
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.10",
+        "bbox": [
+          0.8106508881449085,
+          0.2979651167797914,
+          0.8500986186598252,
+          0.31249999986265065
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "fixed-target spectrometer with excellent vertexing and particle identification. Most of the FOCUS experiment and analysis techniques have been described previously [3,17-19,21]. Our analysis cuts were chosen to give reasonably uniform acceptance over the five kinematic decay variables, while maintaining a strong rejection of backgrounds. To suppress background from the re-interaction of particles in the target region which can mimic a decay vertex, we required that the charm secondary vertex was located at least three standard deviations outside of all solid material including our target and target microstrip system. We will refer to this as the \"out-of-material\" cut.",
+        "bbox": [
+          0.07889545495188725,
+          0.12351190473101287,
+          0.4812623244008189,
+          0.32994186020564203
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "M(K*K*) (GeV/c*)",
+        "bbox": [
+          0.6863905322833301,
+          0.3095238096281554,
+          0.8047337263951708,
+          0.32415674613609174
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To isolate the D. →Ф †v topology, we required that candidate muon, pion, and kaon tracks appeared in a secondary vertex with a confidence level exceeding 1%. The muon track, when extrapolated to the shielded muon arrays, was required to match muon hits with a confidence level exceeding 5%. The kaon was required to have a Cerenkov light pattern more consistent with that of a kaon than that of a pion by 1 unit of log likelihood [19]. To further reduce noncharm background we required that our primary vertex consisted of at least two charged tracks. To further reduce muon misidentification, a muon candidate was allowed to have at most one missing hit in the 6 planes comprising our inner muon system and an energy exceeding 10 GeV. In order to suppress muons from pions and kaons decaying within our apparatus, we required that each muon candidate had a confidence level exceeding 1% to the hypothesis that it had a consistent trajectory through our two analysis magnets.",
+        "bbox": [
+          0.08079935310507345,
+          0.3313492065530635,
+          0.48126233741857005,
+          0.652616278869523
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_7",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2. The mk+k- mass distribution for events satisfying our signal selection cuts. The solid histogram is our data. The dashed histogram is distribution for the ccbar background Monte Carlo. The cebar background Monte Carlo is normalized to the same number of events in the sideband region 1.040 < mK+K- < 1.14 GeV/c.",
+        "bbox": [
+          0.5205724209902448,
+          0.3372093025574076,
+          0.9191321527374394,
+          0.4079007030710083
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "of the pions was reconstructed using our line-offlight technique. We then compared its reconstructed momentum to its original, magnetic reconstruction in order to obtain an \"observed\" resolution function that was well matched by our simulation.",
+        "bbox": [
+          0.5187376659016139,
+          0.4302325579937859,
+          0.919132159903777,
+          0.5087209298892978
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_19",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_19",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3. Fitting technique",
+        "bbox": [
+          0.5187376740592304,
+          0.543604651098616,
+          0.6785009845699608,
+          0.5595930237196981
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The ru and ra form factors were fit to the probability density function described by four fitted kinematic variables (q?, cosOv, coste, and X) for decays in the mass range 1.010 < mR+R- < 1.030 GeV/c- using the squared amplitude described by Eq. (1).?",
+        "bbox": [
+          0.5167652766974494,
+          0.577034884076303,
+          0.917159764466565,
+          0.6598806943379365
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Non-charm and random combinatoric backgrounds were reduced by requiring both a detachment between the vertex containing the K-K*u* and the primary production vertex of at least 5 standard deviations.",
+        "bbox": [
+          0.08284023921162967,
+          0.6555059521552614,
+          0.4792899482144056,
+          0.7180232558434235
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We use a variant of the continuous fitting technique developed by the E691 Collaboration [20] for fitting decay squared amplitudes where several of the kinematic variables have very poor resolution such as the four variables that rely on reconstructed neutrino kinematics.",
+        "bbox": [
+          0.5167652776984354,
+          0.6584302324539939,
+          0.9174755801118251,
+          0.7529069764251504
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Possible background from D+ → K-K†n*, where a pion is misidentified as a muon, was reduced by treating the muon as a pion and requiring the reconstructed K Kr mass be less than 1.8 GeV /c. The mk+k- distribution for our D$ → K+K-Mtv candidates is shown in Fig. 2.",
+        "bbox": [
+          0.08251901226435013,
+          0.7194767439099045,
+          0.4812623357584781,
+          0.8161213729450203
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The fit which determines the ro and ra form factor ratios minimizes the sum of w = -2ln / where I is the normalized decay squared amplitude at each",
+        "bbox": [
+          0.5187376652375771,
+          0.7543604648704183,
+          0.9171597638297658,
+          0.8023313491910137
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It was important to test the fidelity of the simulation with respect to reproducing the resolution of those kinematic variables which depend on the neutrino momentum. To do this, we studied fully-reconstructed D° → K-ntrn decays where, as a test, one",
+        "bbox": [
+          0.08284022764851368,
+          0.8168604651449487,
+          0.47947774644612295,
+          0.8976315849237769
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_23",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "2 Only two parameters are required since r3 was assumed to be zero as was the s-wave amplitude. The background level was fixed using the & sideband and signal yield was then normalized to the number of remaining events in the mass interval from 1.010 < mK+K - < 1.030 GeV/2.",
+        "bbox": [
+          0.5187376785434435,
+          0.8268934985278457,
+          0.9173180826564007,
+          0.8983134918836386
+        ],
+        "order": 25
+      }
+    ]
+  }
+]

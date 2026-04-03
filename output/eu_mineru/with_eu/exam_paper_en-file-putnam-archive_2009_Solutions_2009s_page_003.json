@@ -1,0 +1,346 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.06545454545454546,
+          0.92,
+          0.12545454545454546
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which is less than ci but approaches ci as y → 0. By continuity, for i = 2, . . . , m, every value in the interval [ci−1, ci) can be achieved, as can cm = 1 by the sequence 0, 1.",
+        "bbox": [
+          0.12705882352941175,
+          0.06606060606060606,
+          0.49019607843137253,
+          0.12484848484848485
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To show that all costs c with 1/3 < c ≤ 1 can be achieved, it now suffices to check that for every ε > 0, there exists a sequence with cost at most 1/3 + ε. For instance, if we take xi = i/m for i = 0, . . , m, the cost becomes",
+        "bbox": [
+          0.12705882352941175,
+          0.1296969696969697,
+          0.49019607843137253,
+          0.2018181818181818
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. One can also proceed by checking that a nonempty subset of { 1, . . , n} is mediocre if and only if it is an arithmetic progression with odd common differ- ence. Given this fact, the number of mediocre subsets of {1, . , n + 2} containing the endpoints is seen to be the number of odd factors of n + 1, from which the de- sired result is evident. (The sequence A(n) appears as sequence A124197 in the Encyclopedia of Integer Se- quences.)",
+        "bbox": [
+          0.5568627450980392,
+          0.1303030303030303,
+          0.9192156862745098,
+          0.26
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which converges to 1/3 as m → +∞.",
+        "bbox": [
+          0.12784313725490196,
+          0.25212121212121213,
+          0.3686274509803922,
+          0.2672727272727273
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B is a homogeneous polynomial of degree i. For r > 0, let Cr be the path (rcos θ, rsin θ) for 0 ≤ θ ≤ 2π. Put λ (Pi) = c, Pi,; then for r > 0,",
+        "bbox": [
+          0.523921568627451,
+          0.2696969696969697,
+          0.9192156862745098,
+          0.34424242424242424
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Reinterpretation. The cost of jumping along a partic- ular sequence is an upper Riemann sum of the function t2. The fact that this function admits a Riemann inte- gral implies that for any ε > 0, there exists δ0 such that the cost of the sequence x0, . .,xm is at most 1/3 + ε as long as maxi{xi − xi−1} < ε. (The computation of the integral using the sequence xj = i/m was already known to Archimedes.)",
+        "bbox": [
+          0.12705882352941175,
+          0.27090909090909093,
+          0.4894117647058824,
+          0.38666666666666666
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−3 The answer is n = 2k − 1 for some integer k ≥ 1. There is a bijection between mediocre subsets of {1, .., n} and mediocre subsets of {2, . .,n + 1} given by adding 1 to each element of the subset; thus A(n + 1) − A(n) is the number of mediocre subsets of {1, . ., n + 1} that contain 1. It follows that A(n + 2) − 2A(n + 1) + An = (A(n + 2) − A(n + 1)) − (A(n + 1) − A(n)) is the difference between the number of mediocre sub- sets of {1, ..., n + 2} containing 1 and the number of mediocre subsets of {1, . . .,n + 1} containing 1. This difference is precisely the number of mediocre subsets of {1, . . ,n + 2} containing both 1 and n + 2, which we term \"mediocre subsets containing the endpoints.\" Since {1, .. , n + 2} itself is a mediocre subset of itself containing the endpoints, it suffices to prove that this is the only mediocre subset of {1, . ..,n + 2} containing the endpoints if and only if n = 2k − 1 for some k.",
+        "bbox": [
+          0.09568627450980392,
+          0.39515151515151514,
+          0.49019607843137253,
+          0.6430303030303031
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_10",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For fixed P, the right side is a polynomial in r, which vanishes for all r > 0 if and only if its coefficients vanish. In other words, P is balanced if and only if λ (Pi) = 0 for i = 0, . . ., 2009.",
+        "bbox": [
+          0.556078431372549,
+          0.40484848484848485,
+          0.9192156862745098,
+          0.463030303030303
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For i odd, we have Pi(−x, −y) = −Pi(x, y). Hence λ (Pi) = 0, e.g., because the contributions to the integral from θ and θ + π cancel.",
+        "bbox": [
+          0.556078431372549,
+          0.4672727272727273,
+          0.9192156862745098,
+          0.5109090909090909
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For i even, λ(Pi) is a linear function of the coefficients of Pi. This function is not identically zero, e.g., because for Pi = (x2 + y2)i/2, the integrand is always positive and so λ (Pi) > 0. The kernel of λ on the space of ho- mogeneous polynomials of degree i is thus a subspace of codimension 1.",
+        "bbox": [
+          0.5568627450980392,
+          0.5157575757575757,
+          0.9184313725490196,
+          0.603030303030303
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It follows that the dimension of V is",
+        "bbox": [
+          0.5584313725490196,
+          0.6078787878787879,
+          0.7945098039215687,
+          0.623030303030303
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If n is not of the form 2k − 1, then we can write n + 1 = 2ab for odd b > 1. In this case, the set {1 + mb |0 ≤ m ≤ 2a} is a mediocre subset of {1, . . ,n + 2} containing the endpoints: the average of 1 + m b and 1 + m2b, namely 1+ m+2, is an inter if nnly ifm1+m2 is en in which case this average lies in the set.",
+        "bbox": [
+          0.12705882352941175,
+          0.6466666666666666,
+          0.49019607843137253,
+          0.7351515151515151
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−5 First solution. If f (x) ≥ x for all x > 1, then the desired conclusion clearly holds. We may thus assume hereafter that there exists x0 > 1 for which f (xo) < x0.",
+        "bbox": [
+          0.523921568627451,
+          0.6666666666666666,
+          0.92,
+          0.7115151515151515
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rewrite the original differential equation as",
+        "bbox": [
+          0.5584313725490196,
+          0.7157575757575757,
+          0.8431372549019608,
+          0.7303030303030303
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It remains to show that if n = 2k – 1, then the only mediocre subset of {1, . . , n + 2} containing the end- points is itself. This is readily seen by induction on k. For k = 1, the statement is obvious. For general k, any mediocre subset S of {1, . ., n + 2 = 2k + 1} containing 1 and 2k + 1 must also contain their aver- age, 2k−1+ 1. By the induction assumption, the only mediocre subset of {1, ., 2k−1 + 1} containing the endpoints is itself, and so S must contain all integers between 1 and 2k−1 + 1. Similarly, a mediocre subset of {21+1, 2+1} containing the enpints i a mediocre subset of {1, .., 2k−1+ 1} containing the endpoints by subtracting 2k−1 from each element. By the induction assumption again, it follows that S must contain all integers between 2k−1 + 1 and 2k + 1. Thus S = {1, . ., 2 + 1} and the induction is complete.",
+        "bbox": [
+          0.12627450980392158,
+          0.7387878787878788,
+          0.4894117647058824,
+          0.9145454545454546
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_16",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Put c0 = min{0, f (xo) − 1/x0}. For all x ≥ x0, we have f′() > −1/x2 and s0",
+        "bbox": [
+          0.5552941176470588,
+          0.786060606060606,
+          0.9192156862745098,
+          0.8157575757575758
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_003_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the other direction, we claim that f (x) < x for all x ≥ xo. To see this, suppose the contrary; then by con- tinuity, there is a least x ≥ x0 for which f (x) ≥ x, and",
+        "bbox": [
+          0.5552941176470588,
+          0.8696969696969697,
+          0.92,
+          0.9133333333333333
+        ],
+        "order": 18
+      }
+    ]
+  }
+]

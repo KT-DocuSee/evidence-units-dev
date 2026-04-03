@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_0",
+    "text": "DL /T 1056-2007",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08390022675736962,
+      0.09569377990430622,
+      0.23809523809523808,
+      0.11323763955342903
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_1",
+    "text": "C.2.9单元机组模拟量控制系统可用率的统计工作直借助编入分散控制系统（DCS）的程序自动进行 统计，非DCS机组可不统计可用率。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08390022675736962,
+      0.12280701754385964,
+      0.8820861678004536,
+      0.1594896331738437
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_2",
+    "text": "C3 热工保护、连锁的统计方法",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08616780045351474,
+      0.16905901116427433,
+      0.34467120181405897,
+      0.18819776714513556
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_3",
+    "text": "C3.1热工保护系统投入率的计算见公式C.6.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08390022675736962,
+      0.19776714513556617,
+      0.4512471655328798,
+      0.215311004784689
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_4",
+    "text": "C3.2热工保护系统正确动作率的计算见公式C.7.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08390022675736962,
+      0.2567783094098884,
+      0.4875283446712018,
+      0.2743221690590112
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_5",
+    "text": "C.3.3保护系统统计方法按引起主辅设备跳闸的保护条件统计，一个条件为一套保护.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08843537414965986,
+      0.3157894736842105,
+      0.7619047619047619,
+      0.3333333333333333
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_6",
+    "text": "C.3.4主机保护投入率和辅机保护投入率在热控技术监督报表（附录D）中分开统计，可增加一张表 D.4作为辅机保护投入率统计表。主机保护指引起锅炉、汽轮机跌间的保护条件：轴机保护指引起辅机 跳闻的保护条件",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08390022675736962,
+      0.3349282296650718,
+      0.8843537414965986,
+      0.38915470494417864
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_7",
+    "text": "C.3.5应根据设备的实际情况区分重要连锁和一般连锁，可由技术监督支持单位和发电企业的技术监 督人员共回确定，重要连锁的统计方法和指标要求应与保护系统一致，重要连锁投入率的统计可纳入保 护系统投入率统计中。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08616780045351474,
+      0.39074960127591707,
+      0.8843537414965986,
+      0.4449760765550239
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_8",
+    "text": "C4分散控制系统（DCS）的统计方法",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08616780045351474,
+      0.45614035087719296,
+      0.4013605442176871,
+      0.47208931419457734
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_9",
+    "text": "C.4.1数据采集系统（DAS）完好率的计算见公式C.8.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08616780045351474,
+      0.48325358851674644,
+      0.5238095238095238,
+      0.5007974481658692
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_10",
+    "text": "DAS测点完好总数 数据果集系统（DAS）完好率 x100K DAS测点设计总数",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.26077097505668934,
+      0.5039872408293461,
+      0.7006802721088435,
+      0.5374800637958532
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_11",
+    "text": "C.4.2DCS模拟量测点校验合格率的计算见公式C9.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08616780045351474,
+      0.5422647527910686,
+      0.5079365079365079,
+      0.5598086124401914
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_12",
+    "text": "C.5顺序控制系统的统计方法",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08616780045351474,
+      0.6108452950558214,
+      0.3310657596371882,
+      0.6283891547049442
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_13",
+    "text": "C5.1顺序控制系统投入率的计算见公式C.10.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08616780045351474,
+      0.6411483253588517,
+      0.46258503401360546,
+      0.6586921850079744
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_14",
+    "text": "C.5.2顺序控制系统的投入标准为：其全部功能，即正常启、停、备用、故障处理及人工远方操作等 符合生产流程实际要求，投入使用后其动作的正确率应达到1009。 C5.3进入DCS的顺序控制功能组和未进入DCS的辅机程序控制系统宜分开统计，指标要求相同。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08390022675736962,
+      0.7033492822966507,
+      0.8843537414965986,
+      0.7575757575757576
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_15",
+    "text": "C.6标准收器送检率",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08843537414965986,
+      0.7671451355661882,
+      0.2585034013605442,
+      0.7862838915470495
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_16",
+    "text": "C.6.1标准收器全年累计送检率的计算见公式C.11。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08616780045351474,
+      0.7990430622009569,
+      0.4965986394557823,
+      0.8149920255183413
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_book_zh_DLT10562007_extracted_page_17_17",
+    "text": "标准仅县全年男计送检率 标准仪器全年累计送检数100% 标准仅器全年应送检业",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2494331065759637,
+      0.8213716108452951,
+      0.7210884353741497,
+      0.8548644338118022
+    ],
+    "page": "book_zh_DLT10562007_extracted_page_17",
+    "order": 18
+  }
+]

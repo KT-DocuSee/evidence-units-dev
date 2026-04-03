@@ -1,0 +1,258 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 The atomic fractional coordinates and equilibrium lattice parameters of the ZB, 14m2 and Imm2 phases",
+        "bbox": [
+          0.083031035872632,
+          0.07039902897891064,
+          0.26440951229343007,
+          0.12016385980883022
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.2974607013301088,
+          0.07221969352146868,
+          0.9165659008464329,
+          0.2081626460324685
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "performed the total energy of these phases as a function of volume and their energy-volume relations were fit to the third- order Birch Murnaghan equation of states. The energy- volume curve of the structures is presented in Fig. 2 and as shown ZB structure has the lowest energy. On the other hand, to determine the most stable structure at finite pressure and temperature, the free energy G=Etot+PV-TS should be used. Our density functional calculations are basically completed at zero Kelvin temperature and entropic contributions can be ignored. Therefore, the enthalpy values, H=E+pV, including the pressure-volume effects are determined. This behavior is compatible with a phase transition between these structures, which is also clearly reflected in the enthalpy calculation.",
+        "bbox": [
+          0.08383716243450222,
+          0.22636929145804885,
+          0.486900443369609,
+          0.42967683204369594
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_6",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "53.2 GPa, which is relatively close to the theoretical values 46 GPa and 48.98 GPa [18, 19]. The bulk modulus can vary in a wide range according to the methodology of the study. The bulk modulus of the I4m2 (binary B-tin) phase is calculated to be 70.7 GPa and the bulk modulus of the Imm2 phase is calculated to be 75.7 GPa. In general, our results agree with the experimental and theoretical results.",
+        "bbox": [
+          0.5135026199113261,
+          0.22636929145804885,
+          0.9149536477226925,
+          0.33621605219238354
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Parinello Rahman simulation",
+        "bbox": [
+          0.5151148730350665,
+          0.3544226976179639,
+          0.7101975010076582,
+          0.3677742375967228
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The pressure-volume relation of CdTe obtained through the constant pressure simulation can be seen in Fig. 4. As can be seen from the figure, the volume monotonically decreases with increasing pressure to 15 GPa. When the pressure is increased from 15 to 20 GPa the structural phase transition begins and volume shows a noticeable decrease, which is typical for a first order phase transition. The structural analysis brings out that zinc-blende CdTe converts into aI4m2binary β-tin) structure. This tendency is indeed anticipated when some conditions in simulations are considered, namely, the use of ideal structure, the size of the simulated structure etc. Consequently, simulated systems have to cross a significant energy barrier to transform from one phase to another.",
+        "bbox": [
+          0.5135026199113261,
+          0.38598088302230316,
+          0.9157597742845627,
+          0.589895311788803
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Simple comparison of the static lattice enthalpies of ZB state, I4m2 (binary B-tin) and the Imm2 state determines the pressure of the transition between them. The crossing of three enthalpy curves indicates a pressure-induced phase transition between these phases. The computed enthalpy curves of the ZB, I4m2 and Imm2 phases are plotted as a function of pressure in Fig. 3. As can be seen from the figure, the enthalpy curves of the I4m2 phase and Imm2 phase have the same enthalpy and intersect with that of ZB phase at 4.8 GPa, indicating a first order phase transition between these phases. On the other hand, from the energy- volume data, we also calculate the bulk modulus of these phases. For the zinc-blende state, our bulk modulus is",
+        "bbox": [
+          0.08383716243450222,
+          0.43210438476710666,
+          0.486900443369609,
+          0.6384463662570171
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In this study, we are particularly interested in understand- ing the transformation mechanism to control structural phase transition. Therefore, as a next step, we studied the atomic movement during the phase transformation by",
+        "bbox": [
+          0.5126964933494559,
+          0.5923228645122136,
+          0.913341394598952,
+          0.6542254589591868
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "visual_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08141878274889158,
+          0.651797906235776,
+          0.4860943168077388,
+          0.868456986800182
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "visual_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_10",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5110842402257154,
+          0.6627218934911243,
+          0.9149536477226925,
+          0.881808526778941
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_5",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig.2 The computed energies of ZB, I4m2 and Imm2 phase of CdTe phases as a function of volume",
+        "bbox": [
+          0.083031035872632,
+          0.8787740858746775,
+          0.4893188230552197,
+          0.9054771658321954
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "mineru_scihub_s00894-012-1568-z.pdf_2_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00894-012-1568-z.pdf_2_11",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig.3 Enthalpy curves of ZB, I4m2 and Imm2 phase of CdTe",
+        "bbox": [
+          0.5143087464731962,
+          0.8921256258534365,
+          0.8770656993147924,
+          0.9066909421939008
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2820",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2820_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2820_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（Ⅱ)当x=8时，y=0.85×8+0.6=7.4. ∴当补贴额达到8百万元时，该项目的经济回报为7.4千万元. ……12分",
+        "bbox": [
+          0.18540910923014914,
+          0.12768989596693744,
+          0.8544941555824265,
+          0.1636026792076386
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2820_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19.解：（I）∵D，E分别为AB，AC的中点，∴DE//BC. ∵AD ⊥ BC , ∴AD ⊥ DE. ∴A'D⊥ DE. ……2分 ∵A'D⊥BD,DEC平面BDEC，DB C平面BDEC，DE∩ DB=D， ∴A'D⊥平面BDEC. ……4分 又A'DC平面A'DB， ∴平A'DB平BDEC. ……5分 ( Ⅱ )选①. ∵BM=BE,∠BDM=∠BDE=90°, ∴△ BDM △ BDE.∴DE=DM=2. ∴M为A'D的中点. ……7分 选②. ∵BC / DE, ∴直线EM与BC所成为∠MED. 又直线EM与BC所成的为45°，∴∠MED=45°.∵A'DDE. ∴ DE = DM =2. ∴M为A'D的中点. ……7分 选③. ∵V − BC =VA−EBC S△EBc·A D , VM−BDE S BDE·MD , VM−BDE 4 1 V E−A'BC， 又 DE = 2 BC ,即 S△BDE 12 S △EBC A ∴A'D=2MD. ∴M为A'D的中点. ……7分 M ∵过B，C，M三点的平与线段A'E相交于点N， DE//BC，BC平面A'DE， E D ∴BC/平面A'DE. 又平BMNC∩平A'DE=MN, C B ∴ BC / MN . ∴N为A'E的中点. ……8分 ∵VA-BCN =VN−A BC ，又MN ∥平面A'BC , ∴VN—ABC =VM-ABC =VC-ABM， ……10分 易知BC⊥平A'BD.∴VcA'BM = S△ m B == − S△BD·BC = − ×8×4=16. ∴三棱锥A −BCN 的体积为 1 $ ……12分",
+        "bbox": [
+          0.1475211608222491,
+          0.16075245831551946,
+          0.8577186618299073,
+          0.8658971070257945
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

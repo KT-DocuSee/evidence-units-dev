@@ -1,0 +1,155 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572",
+    "primary_id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_0",
+    "source": "text_cluster",
+    "member_count": 11,
+    "elements": [
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ring, and Jacobson semisimple, by Corollary 8.35(i]. The factor module J9/ Jq+1 is an (R/J)-module; hence, by Corollary 8.43, J9 / J9+1 is a semisimple module, and so it can be decomposed into a direct sum of (possibly infinitely many) simple (R/ J)-modules. But there can be only finitely many summands, for every (R/ J)-submodule of J9 / Jq+1 is necessarily an R-submodule, and J9 / Jq+1 has the DCC on R-submodules. Hence, there are simple (R/ J)-modules Si with",
+        "bbox": [
+          0.20392156862745098,
+          0.14909090909090908,
+          0.7937254901960784,
+          0.2406060606060606
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Throwing away one simple summand at a time yields a series of J9 / Jq+1 whose ith factor module is",
+        "bbox": [
+          0.20470588235294118,
+          0.27515151515151515,
+          0.7945098039215687,
+          0.30424242424242426
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now the simple (R/ J)-module Si is also a simple R-module, for it is an R-module an- nihilated by J, so that we have constructed a composition series for J9/ Jq+1 as a left R-module. Finally, refine the original series for R in this way, for every q, to obtain a composition series for R. •",
+        "bbox": [
+          0.20392156862745098,
+          0.32606060606060605,
+          0.7937254901960784,
+          0.38666666666666666
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Of course, the converse of Theorem 8.46 is false. The next result is fundamental.",
+        "bbox": [
+          0.22196078431372548,
+          0.3933333333333333,
+          0.5450980392156862,
+          0.42363636363636364
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Theorem 8.47 (Maschke's Theorem). If G is a finite group and k is a field whose characteristic does not divide |G|, then kG is a left semisimple ring.",
+        "bbox": [
+          0.20470588235294118,
+          0.43757575757575756,
+          0.792156862745098,
+          0.4678787878787879
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. The hypothesis always holds if k has characteristic 0.",
+        "bbox": [
+          0.20470588235294118,
+          0.48787878787878786,
+          0.6298039215686274,
+          0.503030303030303
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. By Proposition 8.42, it suffices to prove that every left ideal I of kG is a direct summand. Since k is a field, kG is a vector space over k and I is a subspace. By Corol- lary 6.49, I is a (vector space) direct summand: There is a subspace V (which may not be a left ideal in kG) with kG = I ⊕ V. There is a k-linear transformation d : kG → I with d(b) = b for all b ∈ I and with ker d = V [each u ∈ kG has a unique expression of the form u = b + v, where b ∈ I and v ∈ V, and d(u) = b]. Were d a kG-map, not merely a k-map, then we would be done, by the criterion of Corollary 7.17: I is a summand of kG if and only if it is a retract; that is, there is a kG-map D : kG → I with D(u) = u for all u ∈ I. We now force d to be a kG-map by an \"averaging'\" process.",
+        "bbox": [
+          0.20313725490196077,
+          0.5157575757575757,
+          0.7945098039215687,
+          0.6527272727272727
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Define D : kG → kG by",
+        "bbox": [
+          0.2235294117647059,
+          0.6527272727272727,
+          0.3905882352941176,
+          0.6666666666666666
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for all u ∈ kG. Note that |G| ≠ 0 in k, by the hypothesis on the characteristic of k, and so it is invertible. It is obvious that D is a k-map.",
+        "bbox": [
+          0.20470588235294118,
+          0.7206060606060606,
+          0.792156862745098,
+          0.7515151515151515
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(i) im D ⊆ I.",
+        "bbox": [
+          0.20470588235294118,
+          0.7515151515151515,
+          0.29411764705882354,
+          0.7654545454545455
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If u ∈ kG and x ∈ G, then d(x−1u) ∈ I (because imd ⊆ I), and xd(x−1u) ∈ I because I is a left ideal. Therefore, D(u) ∈ I, for each term in the defining sum of D(u) lies in I.",
+        "bbox": [
+          0.20470588235294118,
+          0.7660606060606061,
+          0.7929411764705883,
+          0.8109090909090909
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

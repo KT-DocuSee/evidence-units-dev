@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.200427104.pdf_1",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chin.200427104.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chin.200427104.pdf_1_0",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Pyrrole derivatives R0120 Anti-HIV-1 Activity of Pyrryl Aryl Sulfone (PAS) Derivatives: Synthesis and SAR 27-104 M Studies of Novel Esters and Amides at the Position 2 of the Pyrrole Nucleus.— Of al tested compounds, compound (IVa) shows the highest antivirl activity. (SILVESTRI*, R.; ARTICO, M.; LA REGINA, G.; DE MARTINO, G; LA COLLA, M; LODDO, R.; COLLA*, P.; Farmaco 59 (2004) 3, 201-210; Dip. Stud. Farm., Univ. La Sapienza, I-00185 Roma, Italy; Eng.) — C. Oppel",
+        "bbox": [
+          0.08650518955019351,
+          0.08144980554443054,
+          0.9131103341409316,
+          0.19683703006570713
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chin.200427104.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NO2 N C O THF，0-> 25°℃ O 0 R III aR:O 71% o-SBu bR: 0 D 81% CR: 52% O-Cy dR:-CN 68% Fe $NH2$ a81% III glacial AcOH,600C CI ふ R b IV",
+        "bbox": [
+          0.24750095899083147,
+          0.21041199765644555,
+          0.7497116427683438,
+          0.5345143488853255
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

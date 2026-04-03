@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_13",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_13_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_13_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7/2",
+        "bbox": [
+          0.7741280761591665,
+          0.23401162772206774,
+          0.8886639611217227,
+          0.26017441859576174
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_13",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_13_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_13_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "— і і, і-ід.",
+        "bbox": [
+          0.13765182885004293,
+          0.6351686510369162,
+          0.4230769201667297,
+          0.6614583335765987
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

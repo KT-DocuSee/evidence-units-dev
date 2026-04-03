@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_870",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_870_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_870_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(1) Zia, era, It",
+        "bbox": [
+          0.13333334527308877,
+          0.14065255689594353,
+          0.5333333271078637,
+          0.2297178126278659
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_870",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_870_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_870_2",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0,
+          0.5001056315104166,
+          0.9993121587340645,
+          1.0
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_870_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TR FIA",
+        "bbox": [
+          0.3909883735386868,
+          0.8500881827134408,
+          0.5654069743174179,
+          0.9510582003501251
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

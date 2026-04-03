@@ -1,0 +1,968 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018",
+    "primary_id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_8",
+    "source": "visual_seed",
+    "member_count": 70,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Canadian exports to U.S. rose in November",
+        "bbox": [
+          0.03166666666666667,
+          0.05054726368159204,
+          0.9508333333333333,
+          0.07323383084577115
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5991666666666666,
+          0.08318407960199005,
+          0.7758333333333334,
+          0.13572139303482586
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Exports may also be getting a boost as companies try to \"front- run\" potential tariffs by moving goods across the border pre-emp- tively. A survey of more than 300 Canadian companies in Decem- ber, conducted by the organiza- tion Canadian Manufacturers & Exporters, found that about one- third are accelerating shipments to the U.S.",
+        "bbox": [
+          0.7883333333333333,
+          0.08318407960199005,
+          0.9666666666666667,
+          0.15522388059701492
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Surplus may have political significance amid Trump's complaints about the trade deficit",
+        "bbox": [
+          0.03333333333333333,
+          0.08358208955223881,
+          0.18083333333333335,
+          0.12776119402985076
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_7",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Canada-U.S. merchandise trade Monthly imports and exports, in billions of dollars",
+        "bbox": [
+          0.21583333333333332,
+          0.08477611940298507,
+          0.45666666666666667,
+          0.09950248756218906
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_8",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2225,
+          0.10109452736318408,
+          0.59,
+          0.23044776119402985
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"The outlook for Canadian trade in 2025 is cloudy at best,\" Toronto-Dominion Bank econo- mist Marc Ercolao wrote in a note to clients. \"Our base case is that Canada largely avoids a full-scale implementation of Trump's tariff plan, given our energy-heavy re- lationship with the U.S. – though we acknowledge that any tariff le- vied against Canada has negative consequences for economic growth.\"",
+        "bbox": [
+          0.6,
+          0.13611940298507463,
+          0.7766666666666666,
+          0.2208955223880597
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "MARK RENDELL",
+        "bbox": [
+          0.03333333333333333,
+          0.14288557213930347,
+          0.11083333333333334,
+          0.14925373134328357
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In volume terms, total exports were up o.5 per cent in November.",
+        "bbox": [
+          0.79,
+          0.15601990049751244,
+          0.965,
+          0.16875621890547263
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Canada posted its ninth-consecu- tive trade deficit in November, but its trade surplus with the United States grew that month, highlighting a key economic dy- namic that has political implica- tions ahead of Donald Trump's return to the White House later this month.",
+        "bbox": [
+          0.03333333333333333,
+          0.1619900497512438,
+          0.21,
+          0.22049751243781093
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"The third consecutive rise in export volumes in November provides further evidence that the economy was gaining mo- mentum at the end of last year,\" Stephen Brown, deputy chief North America economist at Cap- ital Economics, wrote in a note to clients. \"U.S. tariffs could cause the recovery to go into reverse this year, but that threat might provide some further support in tenea te ies to front-run the tariff s.\"",
+        "bbox": [
+          0.7883333333333333,
+          0.16756218905472636,
+          0.9675,
+          0.2599004975124378
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Canada's total merchandise trade exports increased 2.2 per cent in November, while imports increased 1.8 per cent, narrowing the country's trade deficit with the rest of the world to $323-mil- lion from a downwardly revised $544-million the month before, Statistics Canada reported Tues- day.",
+        "bbox": [
+          0.03333333333333333,
+          0.2208955223880597,
+          0.21166666666666667,
+          0.28616915422885575
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The increase in overall Cana- dian exports was broad-based in November, with metals and non- metallic ores up 1o.5 per cent, in- dustrial machinery and parts up 3.8 per cent and aircraft and trans- portation equipment up 6.7 per cent. Energy exports rose 2.2 per cent, with a 4.8-per-cent jump in crude oil exports on stronger prices.",
+        "bbox": [
+          0.6,
+          0.2208955223880597,
+          0.7766666666666666,
+          0.29253731343283584
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_9",
+        "observed_type": "image_footnote",
+        "canon_role": "support_paragraph",
+        "text": "THE GLOBE AND MAIL, SOURCE: STATISTICS CANADA",
+        "bbox": [
+          0.2225,
+          0.23522388059701493,
+          0.44583333333333336,
+          0.24119402985074626
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "smaller when services are taken into account.",
+        "bbox": [
+          0.4116666666666667,
+          0.2471641791044776,
+          0.5883333333333334,
+          0.2599004975124378
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2225,
+          0.24756218905472638,
+          0.3983333333333333,
+          0.28616915422885575
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"we lose in trade deficits. e losing massive,\" Mr. Trump said of trade with Canada in a news conference on Tuesday. \"You know, they make 2o per cent of our cars. We don't need that. Id rather make them in Detroit. We don't need their cars. We don't need their lumber. . We don't need their dairy products. We have more than they have. We don't need anything.\"",
+        "bbox": [
+          0.41,
+          0.26029850746268657,
+          0.5883333333333334,
+          0.33870646766169155
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Merchandise exports to coun- tries other than the U.S. de- creased 1o.3 per cent in Novem- ber, driven by lower shipments of gold to Hong Kong and nickel to Norway. Canada's trade deficit with countries other than the United States widened to $8.5-bil- lion in November from $7.2-bil- lion in October.",
+        "bbox": [
+          0.7883333333333333,
+          0.2606965174129353,
+          0.9666666666666667,
+          0.3255721393034826
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The president-elect has prom- ised to slap 25-per-cent tariffs on Canadian imports if Ottawa does not address American concerns about border security. Mr. Trump has also complained about his country's merchandise trade def- icit with Canada, which has aver- aged a little over $ioo-billion an- nually for the past three years on around $1.-trillion in annual two-way trade. The trade deficit is cent years. However, it may carry larger political significance than usual, given Mr. Trump's com- plaints about the U.S. trade deficit with Canada and his threats of tariffs.",
+        "bbox": [
+          0.22166666666666668,
+          0.28616915422885575,
+          0.39916666666666667,
+          0.3649751243781095
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "At the same time, the long- standing goods trade surplus with the United states increased to $8.2-billion from $6.6-billion in October, with exports to the U.S. up 6.8 per cent month-to-month and imports up 4.1 per cent.",
+        "bbox": [
+          0.03333333333333333,
+          0.2865671641791045,
+          0.20916666666666667,
+          0.33233830845771145
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Motor-vehicle exports, by con- trast, contracted 1.2 per cent in November and remain consider- ably lower than a year ago.",
+        "bbox": [
+          0.6008333333333333,
+          0.2929353233830846,
+          0.7766666666666666,
+          0.31920398009950246
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Canada's exports to the U.S. have been helped in recent months by a depreciation in the Canadian dollar against the U.S. dollar, which makes Canadian products more appealing to American buyers.",
+        "bbox": [
+          0.6,
+          0.31920398009950246,
+          0.7766666666666666,
+          0.3649751243781095
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Service exports, meanwhile, contracted o.2 per cent, leaving the services trade deficit at about $300-million, essentially un- changed from the previous month.",
+        "bbox": [
+          0.7883333333333333,
+          0.32597014925373136,
+          0.9658333333333333,
+          0.36457711442786067
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "That monthly trade surplus – the result of Canada exporting more to the United States than it imports – is on the small side, compared to the average in re-",
+        "bbox": [
+          0.03333333333333333,
+          0.33233830845771145,
+          0.20916666666666667,
+          0.3649751243781095
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Canada's trade-oriented econ- omy relies heavily on access to the U.S. market. It's the destina- tion for around 75 per cent of Can- adian exports, including $166-bil- lion worth of oil and gas exports and $8s-billion worth of vehicle and auto parts exports in 2023. High and broad-based tariffs could push Canada into a reces- sion and stunt business invest- ment.",
+        "bbox": [
+          0.41083333333333333,
+          0.3391044776119403,
+          0.5866666666666667,
+          0.3649751243781095
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "分 工",
+        "bbox": [
+          0.034166666666666665,
+          0.385273631840796,
+          0.5875,
+          0.5528358208955224
+        ],
+        "order": 26
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CHRIS HANNAY",
+        "bbox": [
+          0.6475,
+          0.43661691542288555,
+          0.7233333333333334,
+          0.44298507462686565
+        ],
+        "order": 28
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_51",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Ottawa says it is still working on a long-promised letter clar. ifying the rules around out-of-pocket pay for primary health care services despite political upheaval in the capital, contin. uing months of delays that have created uncertainty for pri. vate providers.",
+        "bbox": [
+          0.6475,
+          0.45611940298507464,
+          0.9641666666666666,
+          0.48875621890547266
+        ],
+        "order": 29
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "An estimated six million Canadians are not connected to a family doctor, and many have turned to alternate health care providers such as virtual care companies that may charge subscription or membership fees for services that would oth- erwise be covered by public insurance.",
+        "bbox": [
+          0.6475,
+          0.4891542288557214,
+          0.965,
+          0.5217910447761194
+        ],
+        "order": 30
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Nearly two years ago, then-minister of health Jean-Yves Duclos said he was \"very concerned\" about recent increases in Canadians paying out-of-pocket for medically necessary care.",
+        "bbox": [
+          0.6466666666666666,
+          0.5221890547263681,
+          0.9658333333333333,
+          0.5476616915422886
+        ],
+        "order": 31
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_54",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "He pledged to release an interpretation letter outlining the rules governing nurse practitioners and other non-physician health care providers as they relate to the Canada Health Act, which was passed in 1g84 and only explicitly covers services",
+        "bbox": [
+          0.6466666666666666,
+          0.5476616915422886,
+          0.9658333333333333,
+          0.5755223880597015
+        ],
+        "order": 32
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_10",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Over a 36-year career at CIBC, John Hunkin led the bank's expansion in the U.S. market, and oversaw a lucrative push into financing technology companies. PATTI GOWER/THE GLOBE AND MAIL",
+        "bbox": [
+          0.034166666666666665,
+          0.5603980099502488,
+          0.5425,
+          0.5743283582089552
+        ],
+        "order": 33
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "from physicians and in hospitals.",
+        "bbox": [
+          0.6483333333333333,
+          0.574726368159204,
+          0.8241666666666667,
+          0.5806965174129354
+        ],
+        "order": 34
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the intervening years, nurse practitioners, pharmacists and other health professionals have been granted new authorities to order tests, prescribe medications and provide other services that would otherwise come from a pri- mary-care physician. But they have been left in a grey area that allows them to operate as both public and private providers in a way physicians are barred from.",
+        "bbox": [
+          0.6475,
+          0.5806965174129354,
+          0.8241666666666667,
+          0.6587064676616915
+        ],
+        "order": 35
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_60",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Whenever we have providers that are using out-of-pocket, or private pay options, they are being pulled out of the public system to provide that service.",
+        "bbox": [
+          0.8341666666666666,
+          0.5950248756218905,
+          0.9591666666666666,
+          0.6602985074626866
+        ],
+        "order": 37
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"John was the first banker to cross the line, to turn his back on his career as a corporate banker and jump into investment dealer, and he did it well,\" said David Kassie, head of investment bank- ing at CIBC and former chair and CEO at Canaccord Genuity Group Inc. \"John excelled at building cli- ent relationships and was a really good manager of people.\"",
+        "bbox": [
+          0.4116666666666667,
+          0.6125373134328358,
+          0.5883333333333334,
+          0.6853731343283582
+        ],
+        "order": 38
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ANDREW WILLIS JAMES BRADSHAW",
+        "bbox": [
+          0.03333333333333333,
+          0.6129353233830845,
+          0.13,
+          0.6260696517412936
+        ],
+        "order": 39
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "to's St. Michael's Hospital. \"John was a remarkable person in so many ways,\" said Melissa Martin, the chair of the St. Mi- chael's Hospital Foundation. \"He had an extraordinary business ca- reer, but beyond that he was a magnifi cent fundraiser.\"",
+        "bbox": [
+          0.2225,
+          0.6133333333333333,
+          0.3975,
+          0.6654726368159204
+        ],
+        "order": 40
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ormer Canadian Imperial Bank of Commerce chief ex- ecutive officer John Hunkin, who tore down silos in financial services, died Monday at the age of79.",
+        "bbox": [
+          0.03333333333333333,
+          0.6392039800995025,
+          0.21,
+          0.6786069651741293
+        ],
+        "order": 41
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_56",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mark Holland, the Health Min- ister since July, 2o23, has contin- ued to promise legal clarity, but a letter has so far not been released. On Tuesday, after Prime Minis",
+        "bbox": [
+          0.6475,
+          0.6587064676616915,
+          0.8241666666666667,
+          0.688955223880597
+        ],
+        "order": 42
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In 2o11, Mr. Hunkin played a key role in securing a $25-milion donation to St. Michael's from Hong Kong billionaire Li Ka- shing, who had a significant in- vestment in CIBC. Ms. Martin said the donation \"ignited the hospi- tal's research initiatives and ele- vated our scientists' work to new heights.\"",
+        "bbox": [
+          0.22083333333333333,
+          0.6654726368159204,
+          0.39916666666666667,
+          0.7307462686567164
+        ],
+        "order": 43
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_61",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DR. JOSS REIMER CANADIAN MEDICAL ASSOCIATION PRESIDENT",
+        "bbox": [
+          0.835,
+          0.6654726368159204,
+          0.9483333333333334,
+          0.6817910447761194
+        ],
+        "order": 44
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Several sources said Mr. Hun- kin died of a heart attack.",
+        "bbox": [
+          0.03333333333333333,
+          0.6790049751243781,
+          0.21,
+          0.6917412935323383
+        ],
+        "order": 45
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6475,
+          0.6853731343283582,
+          0.8191666666666667,
+          0.6917412935323383
+        ],
+        "order": 46
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Putting an investment dealer and a bank together was unchart- ed territory, but John made it hap- pen, mainly because everyone trusted him,\" said Tom Woods, CIBC's former chief fi nancial offi- cer. \"He was not afraid to take risks. CIBC's electronic banking initiative in the U.S. was years ahead of its time, but ultimately had to be wound up.\"",
+        "bbox": [
+          0.4116666666666667,
+          0.685771144278607,
+          0.5883333333333334,
+          0.7570149253731343
+        ],
+        "order": 47
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ter Justin Trudeau's move to prorogue Parliament and an- nouncement that he will resign as Liberal Leader once a suc- cessor is determined, Mr. Holland's office provided few details when contacted by The Globe and Mail.",
+        "bbox": [
+          0.6475,
+          0.6917412935323383,
+          0.9658333333333333,
+          0.7180099502487562
+        ],
+        "order": 48
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a message to CIBC employ- ees, chief executive officer Victor Dodig said: \"John was an inspir- ing leader at our bank, who em- phasized our potential for growth and believed deeply in our ability to lead.\"",
+        "bbox": [
+          0.0325,
+          0.6925373134328359,
+          0.20916666666666667,
+          0.7375124378109452
+        ],
+        "order": 49
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_62",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"we hope to have more to say on the upcoming letter soon,\" spokesperson Matthew Kronberg said in an e-mail. The delays have caused continued uncertainty for both those calling for more private health care options and those who say it is a drain on the publicly funded system.",
+        "bbox": [
+          0.645,
+          0.718407960199005,
+          0.9675,
+          0.7502487562189055
+        ],
+        "order": 50
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mr. Hunkin also supported To- ronto's Centre for Addiction and Mental Health and the Montreal Museum of Fine Arts Foundation. In 2o19, Governor-General Julie Payette awarded him the Order of Canada.",
+        "bbox": [
+          0.2225,
+          0.7311442786069652,
+          0.3983333333333333,
+          0.7765174129353234
+        ],
+        "order": 51
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Over a 36-year career at CIBC, Mr. Hunkin led the bank's expan- sion in the U.S. market and direct- ed the union of investment deal- er Wood Gundy, acquired after the 1987 stock market crash, with CIBC's traditional corporate lend- er.",
+        "bbox": [
+          0.03333333333333333,
+          0.7379104477611941,
+          0.20916666666666667,
+          0.7892537313432836
+        ],
+        "order": 52
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_63",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Brett Belchetz, a Toronto physician and chief executive of- fi cer of telemedicine platform Maple, has said such compa- nies are necessary for Canadians who don't have a family doc- tor.",
+        "bbox": [
+          0.6475,
+          0.7506467661691543,
+          0.965,
+          0.7765174129353234
+        ],
+        "order": 53
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In 1999, Mr. Flood retired as CEO, and the CIBC board faced a choice between Mr. Hunkin and head of retail banking_ Holger Kluge as his successor. When Mr. Hunkin got the nod, Mr. Kluge de- parted.",
+        "bbox": [
+          0.4125,
+          0.757412935323383,
+          0.5875,
+          0.8019900497512438
+        ],
+        "order": 54
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_64",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "He said he is opposed to the type of user fees that \"paywall\" access to health care providers who then bill public insurance for their services. However, services that are funded 1oo per cent by patients or private insurance should be welcomed, he added.",
+        "bbox": [
+          0.6475,
+          0.7765174129353234,
+          0.965,
+          0.8087562189054727
+        ],
+        "order": 55
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Early in his banking career, he moved to London to help open CIBC's European credit division, new territory for the bank. The pioneering role caught the eye of CIBC executive Don Fullerton, who subsequently became CEO. He tasked Mr. Hunkin and col- league Al Flood with setting a strategy for U.S. expansion. The two bankers moved to New York and built a successful corporate lending team, run by Mr. Flood, who went on to succeed Mr. Ful- lerton as the banks CEO and Mr. Hunkin's predecessor.",
+        "bbox": [
+          0.22166666666666668,
+          0.7769154228855721,
+          0.39916666666666667,
+          0.8807960199004975
+        ],
+        "order": 56
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As the bank's CEO from 1g99 to 2005, Mr. Hunkin oversaw a lucra- tive push into financing technol- ogy companies. He also dealt with the fallout from the collapse of Enron Corp., with CIBC paying billions to setle lawsuits filed by investors in the failed energy trader.",
+        "bbox": [
+          0.0325,
+          0.7896517412935323,
+          0.21166666666666667,
+          0.8485572139303482
+        ],
+        "order": 57
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Over the first half of Mr. Hun- kin's tenure as CEO, CIBC outper- formed rivals, cashing in on in- vestments in client companies such as fibre-optic network Glob- al Crossing Ltd. CIBC became a leader in wealth management by acquiring the retail brokerage network of Merrill Lynch Canada Inc. for $6oo-million.",
+        "bbox": [
+          0.41083333333333333,
+          0.8023880597014925,
+          0.5883333333333334,
+          0.8680597014925373
+        ],
+        "order": 58
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_65",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"This is how options like employer-funded virtual care have come to be, which millions of Canadians rely on when they can't find support in our overburdened public health system,\" Dr. Belchetz wrote in a LinkedIn post last year.",
+        "bbox": [
+          0.6466666666666666,
+          0.8095522388059702,
+          0.9658333333333333,
+          0.835820895522388
+        ],
+        "order": 59
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_66",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Canadian Medical Association has recommended that the federal government ban membership fees, user fees or other sorts of payment for primary-care services covered by public insurance.",
+        "bbox": [
+          0.6466666666666666,
+          0.835820895522388,
+          0.9658333333333333,
+          0.8612935323383084
+        ],
+        "order": 60
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"John was willing to be innova- tive and creative and made bold moves in the capital markets businesses which are responsible for the strong franchise CIBC has today,\" said Richard Venn, a for- mer CIBC executive and founding partner at Further Global Capital Management.",
+        "bbox": [
+          0.0325,
+          0.8485572139303482,
+          0.21,
+          0.907860696517413
+        ],
+        "order": 61
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_67",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CMA president Joss Reimer, who isaphysician in Manitoba, said the association's top concern is that the growth of private providers is siphoning professionals away from the publicly funded system. That could lead to worsening work force shortages in the public system, which leads to even less access to public services, in a negative feedback loop.",
+        "bbox": [
+          0.6466666666666666,
+          0.862089552238806,
+          0.9658333333333333,
+          0.9010945273631841
+        ],
+        "order": 62
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mr. Hunkin spent the final years of his banking career deal- ing with Enron litigation. His suc- cessor, Gerry McCaughey, eventu- ally settled the lawsuits for $2.5- billion.",
+        "bbox": [
+          0.4116666666666667,
+          0.868457711442786,
+          0.5875,
+          0.9074626865671642
+        ],
+        "order": 63
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the late 1g8os, the federal government liberalized financial regulations, allowing banks to own investment dealers. CIBC ac- quired Wood Gundy after the dealer lost much of its capital in the 1987 market crash. Initially, the two cultures clashed.",
+        "bbox": [
+          0.22166666666666668,
+          0.881592039800995,
+          0.39916666666666667,
+          0.9333333333333333
+        ],
+        "order": 64
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_68",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Whenever we have providers that are using out-of-pocket, or private pay options, they are being pulled out of the public system to provide that service, \" Dr. Reimer said.",
+        "bbox": [
+          0.6475,
+          0.9010945273631841,
+          0.9666666666666667,
+          0.9201990049751244
+        ],
+        "order": 65
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mr. Hunkin retired in 20o5, and he and his wife, Susan Crocker, a former CIBC executive and CEO of the Healthcare of Ontario Pen- sion Plan, moved to Chester, N.S. That summer, he skippered his newly acquired 48-foot yacht in the biennial Marblehead to Hali- fax Ocean Race, a 36o-mile event from Massachusetts to Nova Sco- tia. He and his 12-person crew fin- ished first among Canadian en- trants.",
+        "bbox": [
+          0.41083333333333333,
+          0.9074626865671642,
+          0.5891666666666666,
+          0.9922388059701492
+        ],
+        "order": 66
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mr. Hunkin grew up in the bank's culture – his father was CIBC's head of human resources. Mr. Hunkin joined CIBC in 1969 after earning an undergraduate degree from the University of Ma- nitoba in 1967 and his MBA from York University two years later.",
+        "bbox": [
+          0.0325,
+          0.907860696517413,
+          0.21,
+          0.96
+        ],
+        "order": 67
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_69",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ontario Health Minister Sylvia Jones wrote to her federal counterpart last April recommending that non-physician health care providers be banned from charging fees to pro- vide primary-care services.",
+        "bbox": [
+          0.6475,
+          0.9205970149253732,
+          0.9658333333333333,
+          0.946865671641791
+        ],
+        "order": 68
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To bridge the gulf, Mr. Hunkin quit his corporate lending job at CIBC, giving up his seniority at the bank, to become head of the investment banking team. Under his leadership, CIBC became the first domestic lender to bring cor- porate and investment banking under one roof.",
+        "bbox": [
+          0.22083333333333333,
+          0.9337313432835821,
+          0.39916666666666667,
+          0.9922388059701492
+        ],
+        "order": 69
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_70",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"I am asking for your department and your government consult and work with provinces and territories on a Canada- wide solution to close this loophole, to guard against unin- tended consequences, and prohibit nonphysicians from charging for publicly funded services,\" the letter says.",
+        "bbox": [
+          0.6466666666666666,
+          0.9472636815920398,
+          0.9658333333333333,
+          0.979502487562189
+        ],
+        "order": 70
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "He supported York throughout his career, as a member of its board, foundation and business school's advisory council. He also voluntered at downtown Toron-",
+        "bbox": [
+          0.0325,
+          0.96,
+          0.21,
+          0.9922388059701492
+        ],
+        "order": 71
+      },
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_71",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ema Popovic, spokesperson for Ms. Jones, said Ontario is still waiting on a response from Ottawa to their letter.",
+        "bbox": [
+          0.6466666666666666,
+          0.979502487562189,
+          0.965,
+          0.9922388059701492
+        ],
+        "order": 72
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018",
+    "primary_id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_49",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_49",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Ottawa to release letter clarifying rules on private pay for primary care",
+        "bbox": [
+          0.6466666666666666,
+          0.38606965174129354,
+          0.9483333333333334,
+          0.4266666666666667
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018",
+    "primary_id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_27",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_018_27",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Former CIBC CEO Hunkin dies at 79",
+        "bbox": [
+          0.035833333333333335,
+          0.5862686567164179,
+          0.5016666666666667,
+          0.6013930348258707
+        ],
+        "order": 36
+      }
+    ]
+  }
+]

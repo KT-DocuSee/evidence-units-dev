@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "primary_id": "mineru_PPT_MMAT5390Lecture1_page_024_0",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_PPT_MMAT5390Lecture1_page_024_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "What is a digital image?",
+        "bbox": [
+          0.23933333333333334,
+          0.032,
+          0.714,
+          0.0951111111111111
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_MMAT5390Lecture1_page_024_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Mathematical definition of color image: ■ A 2D (color) digital image is a 2D function defined on a 2D domain (usually rectangular domain):",
+        "bbox": [
+          0.06133333333333333,
+          0.14133333333333334,
+          0.8953333333333333,
+          0.2782222222222222
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_MMAT5390Lecture1_page_024_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "f := (fR, fG, fB) : Ω → R3",
+        "bbox": [
+          0.288,
+          0.2942222222222222,
+          0.706,
+          0.35733333333333334
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_PPT_MMAT5390Lecture1_page_024_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "fR, fG, fB are the intensity/brightness/grey level corresponding to R, G and B respectively ; Combination of R, G, B forms the full spectrum of color!",
+        "bbox": [
+          0.08333333333333333,
+          0.3804444444444444,
+          0.9513333333333334,
+          0.512
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_PPT_MMAT5390Lecture1_page_024_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WE WILL FOCUS ON: Grayscale image!",
+        "bbox": [
+          0.25866666666666666,
+          0.5911111111111111,
+          0.79,
+          0.6364444444444445
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

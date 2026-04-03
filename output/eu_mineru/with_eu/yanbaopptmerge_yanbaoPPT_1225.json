@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1225",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_1225_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1225_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "点击添加标题",
+        "bbox": [
+          0.7906666666666666,
+          0.041777777777777775,
+          0.9646666666666667,
+          0.088
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1225",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_1225_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1225_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.076,
+          0.27111111111111114,
+          0.914,
+          0.76
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

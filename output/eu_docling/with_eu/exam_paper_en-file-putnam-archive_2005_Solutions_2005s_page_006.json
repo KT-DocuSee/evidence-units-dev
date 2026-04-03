@@ -1,0 +1,569 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-5 First solution: Put Q = x/+...+*,. Since Q is homogeneous, P is divisible by Q if and only if each of the homogeneous components of P is divisible by Q. It is thus sufficient to solve the problem in case P itself is homogeneous, say of degree d.",
+        "bbox": [
+          0.0939849607757054,
+          0.06820436493321577,
+          0.4906015133220389,
+          0.14098837177398774
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Suppose that we have a factorization P = @''R for some m > 0, where R is homogeneous of degree d and not divisible by l; note that the homogeneity implies that",
+        "bbox": [
+          0.12593986107765373,
+          0.14680232548288463,
+          0.4906015054724391,
+          0.19047619037184454
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_17",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-6 First solution: Let I be the identity matrix, and let J, be the matrix with x's on the diagonal and 1's elsewhere. Note that Jx - (* - 1)/, being the all 1's matrix, has rank 1 and trace n, so has n - 1 eigenvalues equal to 0 and one equal to n. Hence J, has n - 1 eigenvalues equal to x- 1 and one equal to x +n - 1, implying",
+        "bbox": [
+          0.5244360852913535,
+          0.1961805555368866,
+          0.9192881578980371,
+          0.2819940473895229
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.23872180426597947,
+          0.20930232576185973,
+          0.3402903790503895,
+          0.23255813945131867
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Write V? as shorthand for 22",
+        "bbox": [
+          0.1296992493364581,
+          0.24851190492481134,
+          0.3195488678001335,
+          0.2631448414327478
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1313903204060841,
+          0.2843458408961969,
+          0.3684210506898617,
+          0.3591269839875018
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_18",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6163468180220163,
+          0.2934687762627333,
+          0.8177919996764311,
+          0.31143847823405996
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On the other hand, we may expand the determinant as a sum indexed by permutations, in which case we get",
+        "bbox": [
+          0.5563909776685544,
+          0.32412790684795234,
+          0.9191729381522473,
+          0.35174418624997916
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_20",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6315789452302633,
+          0.36334325438913373,
+          0.8026315768092107,
+          0.39098837177065415
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since m > 0, this forces R to be divisible by Q, contradiction.",
+        "bbox": [
+          0.12772854702286,
+          0.37202380962815534,
+          0.49060150456045554,
+          0.4013926782753236
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Integrating both sides from 0 to 1 (and substituting y = 1 - x) yields",
+        "bbox": [
+          0.5563909795369593,
+          0.4040178572607372,
+          0.9172932338934915,
+          0.4331395346131351
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: (by Noam Elkies) Retain notation as in the first solution. Let Pa be the set of homogeneous polynomials of degree d, and let Hd be the subset of Pa of polynomials killed by 72, which has dimension > dim(Pa) - dim(Pa-2); the given problem amounts to showing that this inequality is actually an equality.",
+        "bbox": [
+          0.12593985019048426,
+          0.40697674430555913,
+          0.49248119637283944,
+          0.49280754015245903
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_22",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5695488736188101,
+          0.4446924601184376,
+          0.7857142854766592,
+          0.5436046515540004
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consider the operator @V (i.e., apply - then multiply by 2) on Pa; its zero eigenspace is precisely Ha. By the calculation from the first solution, if R € Pd, then",
+        "bbox": [
+          0.12593985717039372,
+          0.4955357146444206,
+          0.49060148891983213,
+          0.5406976739178831
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1842105280701754,
+          0.5523255811192069,
+          0.3947368438596491,
+          0.568313953740289
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_23",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "as desired.",
+        "bbox": [
+          0.5545112793778135,
+          0.5537790698142799,
+          0.627819545857149,
+          0.5669642856621125
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: We start by recalling a form of the principle of inclusion-exclusion: if f is a function on the power set of {1,...,n}, then",
+        "bbox": [
+          0.555933315207511,
+          0.5726686508089862,
+          0.9191729381522473,
+          0.6201517911405913
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consequently, Q'Ha-2; is contained in the eigenspace of QV= on Pa of eigenvalue",
+        "bbox": [
+          0.12969924825062257,
+          0.57986111097343,
+          0.4906014991754468,
+          0.6104651163432445
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_11",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1541353445040645,
+          0.6250000000660074,
+          0.4229323313887924,
+          0.6366567460977534
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_25",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_25",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.609781494140625,
+          0.6285429243607955,
+          0.8249842026654411,
+          0.6569782603870739
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In particular, the Q'd-zi lie in distinct eigenspaces, so are linearly independent within Pa. But by dimension counting, their total dimension is at least that of Pa. Hence they exhaust Pd, and the zero eigenspace cannot have dimension greater than dim(Pa) - dim(Pa-2), as desired.",
+        "bbox": [
+          0.12593986446362662,
+          0.6497093031156684,
+          0.49060150944767356,
+          0.7356412893681273
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_26",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In this case we take f(S) to be the sum of o (1) over all permutations i whose fixed points are exactly S. Then EupTf(U) = 1 if |T| ≥ n - 1 and 0 otherwise (since a permutation group on 2 or more symbols has as many even and odd permutations), so",
+        "bbox": [
+          0.556390978273191,
+          0.6700581397667098,
+          0.919172938756884,
+          0.7428075394593819
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution: (by Richard Stanley) Write * = (x1,., Xn) and V = (2 x,...,.x). Suppose that P(x) = Q(x) (x}+. +x). Then",
+        "bbox": [
+          0.12781955368732312,
+          0.7427325582163224,
+          0.49099753657730905,
+          0.7921626980453237
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_27",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_27",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6184210532437383,
+          0.7543604656883428,
+          0.8195488755908479,
+          0.771825396737387
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The desired sum can thus be written, by grouping over fixed point sets, as",
+        "bbox": [
+          0.556390981482448,
+          0.7834302331194232,
+          0.9191729326654218,
+          0.8125000000958776
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.180451133319854,
+          0.8037790703758428,
+          0.3966165412572136,
+          0.8212209296968315
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_29",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_29",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.620903407482745,
+          0.8473837210792965,
+          0.7424812020938296,
+          0.9680232562415004
+        ],
+        "order": 28
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "term of P(V)P(x) is seen to be [aCa. Hence Ca = 0 for all a.",
+        "bbox": [
+          0.12593986205761157,
+          0.8618551582697082,
+          0.49060149380705004,
+          0.88963293652116
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remarks: The first two solutions apply directly over any field of characteristic zero. (The result fails in characteristic p > 0 because we may take P = (17+.. +x) =P+.. +h.) The third solution can be extended to complex coefficients by replacing P(V) by its complex conjugate, and again the result may be deduced for any field of characteristic zero. Stanley also suggests Section 5 of the arXiv e-print math. C0/0502363 for some algebraic background for this problem.",
+        "bbox": [
+          0.1278195407794569,
+          0.8982558138186405,
+          0.4906015054724391,
+          0.9258720928122313
+        ],
+        "order": 30
+      }
+    ]
+  }
+]

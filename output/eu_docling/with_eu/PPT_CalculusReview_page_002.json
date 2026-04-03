@@ -1,0 +1,139 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_CalculusReview_page_002",
+    "primary_id": "docling_PPT_CalculusReview_page_002_8",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_PPT_CalculusReview_page_002_6",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Slope",
+        "bbox": [
+          0.42151162682174725,
+          0.09302325688296317,
+          0.5784883720639115,
+          0.1744186029038586
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_002_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.527807373046875,
+          0.2422570597330729,
+          0.9733666381835937,
+          0.8393819986979166
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_002_0",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Slope = rise/run",
+        "bbox": [
+          0.01598836731450003,
+          0.24603174610261083,
+          0.2906976752727094,
+          0.28682170476380636
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_002_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "= Ду/4x",
+        "bbox": [
+          0.1613372098461952,
+          0.3062015499880589,
+          0.280523255477725,
+          0.3488756625602999
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_002_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "=(42-41) (X2-X1)",
+        "bbox": [
+          0.14166666647246243,
+          0.3611111107777778,
+          0.4250000058608708,
+          0.4166666663333334
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_002_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Run",
+        "bbox": [
+          0.7296511634685502,
+          0.6279069775702031,
+          0.7732558136632328,
+          0.6531007747876781
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_002_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Points may lie in any quadrant: slope will work out",
+        "bbox": [
+          0.014534886088039826,
+          0.6335978847324879,
+          0.5145348860880398,
+          0.7268518508850783
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_PPT_CalculusReview_page_002_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Leibniz notation for derivative based on 4y/x; the derivative is written dy/dx",
+        "bbox": [
+          5.964316871075513e-09,
+          0.738756614538981,
+          0.502906969248492,
+          0.8819444441715256
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_CalculusReview_page_002",
+    "primary_id": "docling_PPT_CalculusReview_page_002_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_CalculusReview_page_002_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Order of points 1 and 2 not critical, but keeping them together is",
+        "bbox": [
+          1.4304354244308747e-08,
+          0.4777777795276976,
+          0.4583333173623125,
+          0.6208961442715513
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

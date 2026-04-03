@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4310",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4310_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4310_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7一个铅锤高6cm，底面半径4cm，这个铅锤的体积是多 少立方厘米?",
+        "bbox": [
+          0.11398575178102738,
+          0.033777777777777775,
+          0.8738907636545432,
+          0.19733333333333333
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4310",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4310_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4310_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.43794525684289465,
+          0.27555555555555555,
+          0.9198850143732034,
+          0.5573333333333333
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4310",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4310_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4310_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1 $\\×3.14×4²2x6rac} =3.14×16×2 =100.48cm³",
+        "bbox": [
+          0.148981377327834,
+          0.30044444444444446,
+          0.40594925634295714,
+          0.6257777777777778
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4310_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "答：这个铅锤的体积是 100.48 立方厘 米。",
+        "bbox": [
+          0.05999250093738283,
+          0.6826666666666666,
+          0.5754280714910636,
+          0.8133333333333334
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

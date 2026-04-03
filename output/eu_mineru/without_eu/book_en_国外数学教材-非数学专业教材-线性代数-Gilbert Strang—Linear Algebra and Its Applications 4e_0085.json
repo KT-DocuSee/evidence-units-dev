@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_0",
+    "text": "(b) Construct a matrix that has column 1 + 2(column 3) = 0. Check that A is singular (fewer than 3 pivots) and explain why that must be the case.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1837968561064087,
+      0.0837964942283027,
+      0.909310761789601,
+      0.12312954253954682
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_1",
+    "text": "1.27 True or false, with reason if true and counterexample if false:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13139862958484483,
+      0.1333903377511757,
+      0.720677146311971,
+      0.15277183981758585
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_2",
+    "text": "(1) If L1U1 = L2U2 (upper triangular U's with nonzero diagonal, lower triangular L's with unit diagonal), then L1 = L2 and U1 = U2. The LU factorization is unique. (2) If A2 + A = I then A−1 = A + I. (3) If all diagonal entries of A are zero, then A is singular.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.18218460298266828,
+      0.16246259085079093,
+      0.9125352680370818,
+      0.27191107310816587
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_3",
+    "text": "1.28 By experiment or the Gauss-Jordan method compute",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13220475614671504,
+      0.2821718683197948,
+      0.648931882305522,
+      0.3009833262077811
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_4",
+    "text": "1.29 Write down the 2 by 2 matrices that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13220475614671504,
+      0.3950406156477127,
+      0.5022168480451431,
+      0.4132820293572752
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_5",
+    "text": "(a) reverse the direction of every vector. (b) project every vector onto the x2 axis. (c) turn every vector counterclockwise through 90°. (d) reflect every vector through the 45° line x1 = x2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1837968561064087,
+      0.4241128687473279,
+      0.6416767432486901,
+      0.5187402023656833
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085",
+    "order": 6
+  }
+]

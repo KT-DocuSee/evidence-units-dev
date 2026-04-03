@@ -1,0 +1,379 @@
+[
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_0",
+    "text": "、常统计量的计算",
+    "canon_role": "section_header",
+    "bbox": [
+      0.40054869684499317,
+      0.13020396758871194,
+      0.5894571820497746,
+      0.1480860575579771
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_1",
+    "text": "例1（2019吉林长春，19,7分)网上学习越来越受到 学的喜爱.某校信息组为了解七年级学上学习的 情况.从该校七年级随机抽取20名学.进了每周上 学习时间的调查，数据如下（单位：小时）：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07995296884185774,
+      0.15646828723107012,
+      0.48363707622966884,
+      0.22464375523889354
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_18",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5055849500293945,
+      0.15646828723107012,
+      0.9077013521457966,
+      0.18887957530036323
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_19",
+    "text": "【收集数据】从甲、两台机器分装的成品中各随机 抽取20袋,测得实际质量（单位：g）如下：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.506368802665099,
+      0.1916736518580609,
+      0.9084852047815011,
+      0.224084939927354
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_20",
+    "text": "甲:501 497 498 502 513 489 506 490 505 486 502 503 498 497 491 500 505 502 504 505 乙:505 499 502 491 487 506 493 505 499 498 502 503 501 490 501 502 511 499 499 501",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.538506760728983,
+      0.22632020117351215,
+      0.91005291005291,
+      0.36099469125454037
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_2",
+    "text": "3 2.5 0.6 1.5 1 2 2 3.5 2.5 1.8 2.5 2.2 3.5 4 1.5 2.5 3.1 2.8 3.3 2.4",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08308837938467568,
+      0.23190835428890752,
+      0.47971781305114636,
+      0.2715842414082146
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_3",
+    "text": "整理上面的数据，得到表格如下：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11209092690574173,
+      0.2794076557697681,
+      0.34411130707427,
+      0.2933780385582565
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_4",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.09798157946306095,
+      0.2978485610505728,
+      0.4656084656084656,
+      0.3364068175468008
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_5",
+    "text": "样本数据的平均数、中位数、众数如下表所：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11444248481285518,
+      0.339759709416038,
+      0.4350382128159906,
+      0.35428890751606595
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_6",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.09876543209876543,
+      0.35820061469684267,
+      0.4656084656084656,
+      0.3967588711930707
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_21",
+    "text": "【整理数据】整理以上数据，得到每袋质量x（g）的频 数分布表.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5071526553008034,
+      0.36490639843531714,
+      0.9092690574172055,
+      0.39731768650461025
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_7",
+    "text": "根据以上信息，解答下列问题：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11365863217715069,
+      0.4001117630623079,
+      0.3276504017244758,
+      0.41464096116233584
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_8",
+    "text": "（1）上表中的中位数m的值为 ,众数n的值 为 ; (2)样本中的平均数估计该校七年级学平均每 学期(按18周计算）上学习的时间； (3)已知该校七年级有200名学，估计每周上学 习时间超过2时的学人数.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08073682147756221,
+      0.41743503772003354,
+      0.48363707622966884,
+      0.5196982397317687
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_9",
+    "text": "解题思路 （1）把20个数据从小到大排列，求出最 中间两个数的平均数，即为中位数；出现次数最多的数据 即为众数；",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0815206741132667,
+      0.5230511316010059,
+      0.48206937095825986,
+      0.5733445096395641
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_22",
+    "text": "【分析数据】根据以上数据，得到以下统计量.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5392906133646874,
+      0.5241687622240849,
+      0.8512639623750735,
+      0.539815590947192
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_10",
+    "text": "(2)由样本数据的平均数乘18即可； （3）用总人数乘样本中每周网上学习时间超过2小 时的学生人数所占的比例即可.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0823045267489712,
+      0.5761385861972618,
+      0.48128551832255534,
+      0.6258731489242805
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_23",
+    "text": "根据以上信息，回答下列问题：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5400744660003919,
+      0.618049734562727,
+      0.754066235547717,
+      0.632578932662755
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_11",
+    "text": "解析(1)2.5;2.5.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1128747795414462,
+      0.6292260407935177,
+      0.2461297276112091,
+      0.6437552388935457
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_24",
+    "text": "(1)表格中的a=_ ,b=_ ;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5424260239075054,
+      0.6359318245319922,
+      0.8269645306682344,
+      0.6510198379435597
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 19
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_12",
+    "text": "(2)2.4×18=43.2(小时).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11444248481285518,
+      0.6465493154512434,
+      0.28845776993925143,
+      0.6605196982397318
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 20
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_25",
+    "text": "(2)综合上表中的统计量,判断应选购哪台分 装机，并说明理由.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5071526553008034,
+      0.6526962838781782,
+      0.9077013521457966,
+      0.6839899413243923
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 21
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_13",
+    "text": "答：估计该校七年级学生平均每人一学期（按18周 计算)网上学习的时间为43.2小时.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0823045267489712,
+      0.6633137747974295,
+      0.48128551832255534,
+      0.6962838781782621
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 22
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_26",
+    "text": "解析（1）把乙组数据按从小到大的顺序排列为 487,490,491,493,498,499,499,499,499,501,501,501, 502,502,502,503,505,505,506,511，位于中间的数是第 501+501 10、11个数，即501,501，则中位数= =501,故a= 2 501；根据已知条件可得出产品合格的范围是490≤x≤ 510,所以甲生产的产品有3袋不合格，故不合格率为{ 20 100%=15%,故b=15%. （6分）",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5055849500293945,
+      0.6873428331936295,
+      0.9077013521457966,
+      0.8376641519977648
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 23
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_14",
+    "text": "(3) 1×200=130(名). $20$",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11444248481285518,
+      0.7007544006705784,
+      0.27199686458945715,
+      0.7275775356244761
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 24
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_15",
+    "text": "答：每周网上学习时间超过2小时的学生约为 130名.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08073682147756221,
+      0.7314892428052528,
+      0.48128551832255534,
+      0.7644593461860855
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 25
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_16",
+    "text": "方法总结 求一组数据的平均数、中位数、众数，要严 格按照其定义进计算，特别注意对加权平均数的权的 理解.在求中位数时，一定要先排序，然后再看数据的总个 数是奇数还是偶数.组数据中，平均数和中位数只有 个,而众数可能不一个.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07995296884185774,
+      0.7678122380553227,
+      0.4828532235939643,
+      0.8544286113439509
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 26
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_27",
+    "text": "(2)工厂应选购乙分装机. (7分）",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.538506760728983,
+      0.8404582285554624,
+      0.9069174995100922,
+      0.8549874266554903
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 27
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_17",
+    "text": "针对训练1（2020河南，17,9分）为发展乡村经济， 某村根据本地特，创办了药粉加厂.该厂需购置 台分装机，计划从商家推荐试的甲、乙两台不同品牌的 分装机中选择.试用时，设定分装的标准质量为每袋 500g，与之相差大于10g为不合格.为检验分装效果，工 对这两台机器分装的成品进了抽样和分析，过程 如下：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08073682147756221,
+      0.8572226879016485,
+      0.4828532235939643,
+      0.9427214305671976
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 28
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1417_28",
+    "text": "理由如下：比较甲、乙两台机器的统计量可知，甲与 乙的平均数相同，中位数相差不大，乙的方差较小，且不 合格率更低.以上分析说明，乙机器的分装合格率更高，且 稳定性更好.所以，乙机器的分装效果更好，工厂应选购乙 机器. （9分）",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5071526553008034,
+      0.8583403185247276,
+      0.9084852047815011,
+      0.942162615255658
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1417",
+    "order": 29
+  }
+]

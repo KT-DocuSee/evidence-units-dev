@@ -1,0 +1,523 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_session 10_page_028",
+    "primary_id": "docling_PPT_session 10_page_028_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_session 10_page_028_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "HELP + NOUN + to V",
+        "bbox": [
+          0.25000000724233473,
+          0.08888888874533026,
+          0.7541666557437763,
+          0.16666666551392897
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "PPT_session 10_page_028",
+    "primary_id": "docling_PPT_session 10_page_028_35",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_session 10_page_028_35",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "SECTION | 19205 | 19305 | 19405 | 19505 | 19605 | 19705 | 19805 | 19905 | 20005 | FREQ | 12 | 11 | 29 | 29 | 39 | 34 | 12 | 12 | 3 | PER MIL | 1.57 | 0.87 | 1.88 | 1.73 | 2.43 | 2.50 | 1.06 | 1.23 | 0.47 | SEE ALL YEARS AT ONCE",
+        "bbox": [
+          0.04584729766845703,
+          0.2870870768229167,
+          0.957092529296875,
+          0.7054728190104167
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "PPT_session 10_page_028",
+    "primary_id": "docling_PPT_session 10_page_028_36",
+    "source": "visual_seed",
+    "member_count": 34,
+    "elements": [
+      {
+        "id": "docling_PPT_session 10_page_028_36",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.04584729766845703,
+          0.2870870768229167,
+          0.957092529296875,
+          0.7054728190104167
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19705",
+        "bbox": [
+          0.6075162329890736,
+          0.2963532072639667,
+          0.6773674876490594,
+          0.3296157855318667
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19505",
+        "bbox": [
+          0.4315026193550489,
+          0.2977157424443224,
+          0.5001834280127405,
+          0.33019123412448786
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19305",
+        "bbox": [
+          0.2571437719415672,
+          0.297866398373115,
+          0.3227980875872997,
+          0.3242266250597845
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19605",
+        "bbox": [
+          0.5216738876429732,
+          0.2978886318083153,
+          0.5873377400318698,
+          0.32614237632726145
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SECTION",
+        "bbox": [
+          0.055171637215643075,
+          0.2980175798783202,
+          0.15413068958913562,
+          0.32407544387067827
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19905",
+        "bbox": [
+          0.7862578185213288,
+          0.29811315023880874,
+          0.8503700882104951,
+          0.32591785796275935
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19805",
+        "bbox": [
+          0.6961446530143981,
+          0.2981190564038322,
+          0.761704184029461,
+          0.3259119516855887
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20005",
+        "bbox": [
+          0.8749360975149242,
+          0.29815143471504885,
+          0.9404708784108234,
+          0.3239415887028728
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19405",
+        "bbox": [
+          0.3458974075765043,
+          0.2983050970727634,
+          0.4128235236116024,
+          0.3257259105171935
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19205",
+        "bbox": [
+          0.17005814167426284,
+          0.29844961294995576,
+          0.23546511507407603,
+          0.3236434101674308
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "29",
+        "bbox": [
+          0.4505813946754295,
+          0.32945736446732116,
+          0.4825581399175938,
+          0.36240310084275634
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.802325580721941,
+          0.32945736446732116,
+          0.8343023259641054,
+          0.36240310084275634
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11",
+        "bbox": [
+          0.2747093021628959,
+          0.3313953489163297,
+          0.30377907022082495,
+          0.362403100502275
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "29",
+        "bbox": [
+          0.3619186038566311,
+          0.3313953490778284,
+          0.39389534909879537,
+          0.36240310066377357
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.18750000078341994,
+          0.3313953491018727,
+          0.21656976694913815,
+          0.3643410854773079
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.7136627914165037,
+          0.3333333335712491,
+          0.7441860461743394,
+          0.3624031003677044
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "34",
+        "bbox": [
+          0.6235465116573561,
+          0.33333333370448553,
+          0.6569767435994268,
+          0.3624031005009407
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.898255814670901,
+          0.33333333370581975,
+          0.9156976739918897,
+          0.360465115712785
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FREQ",
+        "bbox": [
+          0.07558139621282037,
+          0.33333333376775093,
+          0.1322674418443502,
+          0.36434108535369614
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "39",
+        "bbox": [
+          0.5377906980117072,
+          0.3333333338996182,
+          0.5683139527695429,
+          0.3604651159065833
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.23",
+        "bbox": [
+          0.7891121562365612,
+          0.3620484472899339,
+          0.844608773205594,
+          0.399579459870442
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.73",
+        "bbox": [
+          0.4418604660054615,
+          0.36240310074129994,
+          0.49273255726852105,
+          0.3992248066957155
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.57",
+        "bbox": [
+          0.17857891469180062,
+          0.3638168560103008,
+          0.22694434113378043,
+          0.3978110513328119
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.87",
+        "bbox": [
+          0.26598837332941044,
+          0.3643410850947435,
+          0.3139534874082349,
+          0.3972868214701788
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.50",
+        "bbox": [
+          0.616279069399625,
+          0.36434108521857095,
+          0.6656976739627779,
+          0.3992248063834963
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.06",
+        "bbox": [
+          0.7048144154880874,
+          0.36594673340275446,
+          0.7530344217345029,
+          0.3995571429325061
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.88",
+        "bbox": [
+          0.35459598621097593,
+          0.3661221159961218,
+          0.40412494451645586,
+          0.3974437752860924
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PER MIL",
+        "bbox": [
+          0.061022041972239614,
+          0.3661276125197007,
+          0.14828028250549308,
+          0.3916243249570832
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.43",
+        "bbox": [
+          0.5290332515986369,
+          0.36618147730809725,
+          0.5785248879354328,
+          0.39932239902695704
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.47",
+        "bbox": [
+          0.8822674429686627,
+          0.3662790701157268,
+          0.9302325570474872,
+          0.39728682170167207
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SEE ALL",
+        "bbox": [
+          0.0624428945267129,
+          0.5054577099797897,
+          0.14976640876873376,
+          0.5313639952606937
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "YEARS",
+        "bbox": [
+          0.0683139531072212,
+          0.536821705669644,
+          0.1409883713598331,
+          0.5639534876766091
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_PPT_session 10_page_028_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AT ONCE",
+        "bbox": [
+          0.05663774005171327,
+          0.5694311485623927,
+          0.15411807498455524,
+          0.5952975334218311
+        ],
+        "order": 36
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "PPT_session 10_page_028",
+    "primary_id": "docling_PPT_session 10_page_028_34",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_session 10_page_028_34",
+        "observed_type": "text",
+        "canon_role": "topic_title",
+        "text": "[help].[vv*] [n*] to [v*i]",
+        "bbox": [
+          0.05416667213541649,
+          0.7721560848134521,
+          0.4916666721354165,
+          0.8333333334907006
+        ],
+        "order": 37
+      }
+    ]
+  }
+]

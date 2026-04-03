@@ -1,0 +1,277 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Similarly,",
+        "bbox": [
+          0.12705882352941175,
+          0.06666666666666667,
+          0.19294117647058823,
+          0.08121212121212121
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.06666666666666667,
+          0.9192156862745098,
+          0.14
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By examining how each of the elements in the sets counted by Un+1, Vn+1, Wn+1, Tn+1, Sn+1 can be ob- tained from a (unique) element in one of the sets counted by Un, Vn, Wn, Tn, Sn by suitably inserting the el- ement n + 1, we obtain the recurrence relations",
+        "bbox": [
+          0.556078431372549,
+          0.1787878787878788,
+          0.9192156862745098,
+          0.2515151515151515
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We conclude that S = S1 + 2 =",
+        "bbox": [
+          0.12784313725490196,
+          0.29333333333333333,
+          0.3615686274509804,
+          0.3109090909090909
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: Recall that the real numbers a, b, c form the side lengths of a triangle if and only if",
+        "bbox": [
+          0.12705882352941175,
+          0.3145454545454546,
+          0.49019607843137253,
+          0.34363636363636363
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Also, it is clear that Wn = 1 for all n.",
+        "bbox": [
+          0.5584313725490196,
+          0.36363636363636365,
+          0.796078431372549,
+          0.3787878787878788
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "So far we have assumed n ≥ 3, but it is straightforward to extrapolate the sequences Pn, Un, Vn, Wn, Tn, Sn back to n = 2 to preserve the preceding identities. Hence for all n ≥ 2,",
+        "bbox": [
+          0.556078431372549,
+          0.38303030303030305,
+          0.92,
+          0.44181818181818183
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and that if we put x = 2(s − a),y = 2(s − b), z = 2(s − c),",
+        "bbox": [
+          0.12627450980392158,
+          0.3939393939393939,
+          0.49019607843137253,
+          0.4103030303030303
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To generate all integer triples (a, b, c) which form the side lengths of a triangle, we must also assume that x, y, z are either all even or all odd. We may therefore write the original sum as",
+        "bbox": [
+          0.12549019607843137,
+          0.4587878787878788,
+          0.49098039215686273,
+          0.5175757575757576
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To unify the two sums, we substitute in the first case x = 2u + 1, y = 2v + 1,z = 2w + 1 and in the second case x = 2u + 2,y = 2v + 2, z = 2w + 2 to obtain",
+        "bbox": [
+          0.12470588235294118,
+          0.5787878787878787,
+          0.49098039215686273,
+          0.623030303030303
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_12",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "as desired.",
+        "bbox": [
+          0.5568627450980392,
+          0.7181818181818181,
+          0.6274509803921569,
+          0.7315151515151516
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: There are many possible variants of the above solution obtained by dividing the permutations up according to different features. For example, Karl Mahlburg suggests writing",
+        "bbox": [
+          0.556078431372549,
+          0.7369696969696969,
+          0.9192156862745098,
+          0.7957575757575758
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B5 The answer is 4.",
+        "bbox": [
+          0.10196078431372549,
+          0.7921212121212121,
+          0.23529411764705882,
+          0.806060606060606
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Assume n ≥ 3 for the moment. We write the permutations π counted by Pn as sequences π(1), π(2) , . ., π(n). Let Un be the number of permuta- tions counted by Pn that end with n − 1, n; let Vn be the number ending in n, n−1; let Wn be the number starting with n − 1 and ending in n – 2, n; let Tn be the number ending in n − 2, n but not starting with n − 1; and let Sn be the number which has n – 1, n consecutively in that order, but not at the beginning or end. It is clear that every permutation π counted by Pn either lies in exactly one of the sets counted by Un, Vn, Wn, Tn, Sn, or is the reverse of such a permutation. Therefore",
+        "bbox": [
+          0.12705882352941175,
+          0.8109090909090909,
+          0.49019607843137253,
+          0.9139393939393939
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_006_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where P′ counts those permutations counted by Pn for which 1 occurs before 2, and Qn counts those permuta- tions counted by P′ for which π(1) = 1. One then has the recursion",
+        "bbox": [
+          0.556078431372549,
+          0.8345454545454546,
+          0.92,
+          0.8927272727272727
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

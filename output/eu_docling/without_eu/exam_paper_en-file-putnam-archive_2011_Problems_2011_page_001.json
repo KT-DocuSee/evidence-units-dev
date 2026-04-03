@@ -1,0 +1,444 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_0",
+    "text": "The 72nd William Lowell Putnam Mathematical Competition Saturday, December 3, 2011",
+    "canon_role": "section_header",
+    "bbox": [
+      0.24624062193291663,
+      0.06686046479774384,
+      0.7612781879355041,
+      0.10319767409563517
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_1",
+    "text": "Al Define a growing spiral in the plane to be a sequence of points with integer coordinates Po = (0,0), P1,..., Pn such that n ≥ 2 and:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338346652004182,
+      0.13808139599590835,
+      0.4906015060363488,
+      0.1788194442212865
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_20",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6057007553998162,
+      0.15944720181551847,
+      0.829075496897978,
+      0.19580868807705967
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_2",
+    "text": "the directed line segments ate directions east (for PoP1), north, west, south, east, etc.;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14661655263030138,
+      0.1904069765825012,
+      0.4924811974950118,
+      0.2326388887893775
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_21",
+    "text": "is positive and finite.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390980701435,
+      0.20930232550105324,
+      0.695488720864981,
+      0.22247023802589722
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_22",
+    "text": "B1 Let h and k be positive integers. Prove that for every & > 0, there are positive integers m and n such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5319548948565082,
+      0.23401162815333795,
+      0.9191729343728152,
+      0.26463293666378623
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_3",
+    "text": "the lengths of these line segments are positive and strictly increasing.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14849623715538854,
+      0.23982558204241988,
+      0.4906015003132832,
+      0.26598837202701586
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_23",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6387069881663603,
+      0.2739881758256392,
+      0.7971811810661765,
+      0.2873916071111506
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_4",
+    "text": "[Picture omitted.] How many of the points (x,y) with integer coordinates 0 ≤ x ≤ 2011,0 ≤ y ≤ 2011 cannot be the last point, Pn of any growing spiral?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593986342173621,
+      0.2775297621181194,
+      0.49060149517117463,
+      0.32122093019177617
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_24",
+    "text": "B2 Let S be the set of all ordered triples (P, 9,r) of prime numbers for which at least one rational number x satisfies px? + qx + r = 0. Which primes appear in seven or more elements of S?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5319548927821258,
+      0.3066860461749242,
+      0.9193491602321663,
+      0.3619186045659862
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_5",
+    "text": "A2 Let a1, a2,... and bi,b2,... be sequences of positive real numbers such that a 1 = b1 = 1 and bn =bn-lan -2 for n = 2,3,.... Assume that the sequence (bj) is bounded. Prove that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10150376045364216,
+      0.3328373012411289,
+      0.49060151041101935,
+      0.38665674603961386
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_25",
+    "text": "B3 Let f and g be (real-valued) functions defined on an open interval containing 0, with g nonzero and continuous at 0. If fg and f/g are differentiable at 0, must f be differentiable at 0?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5338345987142613,
+      0.3749999998833207,
+      0.9191729394288766,
+      0.4317956348138457
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_6",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23496240645363412,
+      0.39970930233202745,
+      0.33646616387327805,
+      0.43179563493396905
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_26",
+    "text": "B4 In a tournament, 2011 players meet 2011 times to play a multiplayer game. Every game is played by all 2011 players together and ends with each of the players either winning or losing. The standings are kept in two 2011 x 2011 matrices, T = (Ink) and W = (Wnk). Initially, T = W = 0. After every game, for every (h,k) (including for h = k), if players h and k tied (that is, both won or both lost), the entry Tik is increased by 1, while if player h won and player k lost, the entry Wnk is increased by 1 and Wkh is decreased by 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5338345996776072,
+      0.4432043650831989,
+      0.9191729331416121,
+      0.5858134922615141
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_7",
+    "text": "converges, and evaluate S.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955523119082,
+      0.4446924601012696,
+      0.300751877663546,
+      0.45784883723513864
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_8",
+    "text": "A3 Find a real number c and a positive number L for which",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338346531703443,
+      0.4694767441648447,
+      0.4906015048333414,
+      0.4811507935195795
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_9",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20112781981203007,
+      0.5086805557205739,
+      0.3778195487991875,
+      0.5261627904170326
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_10",
+    "text": "A4 For which positive integers n is there an n X n matrix with integer entries such that every dot product of a row with itself is even, while every dot product of two different rows is odd?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338345849999199,
+      0.5523255820424199,
+      0.490601498016299,
+      0.6061507935694509
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_27",
+    "text": "Prove that at the end of the tournament, det(T + iW) is a non-negative integer divisible by 22010",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5580487956163481,
+      0.5930059526104772,
+      0.9191729336209354,
+      0.6246121076662889
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_11",
+    "text": "A5 Let F : R2 → R and g : R → R be twice continuously differentiable functions with the following properties:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338346443324635,
+      0.6177325582768846,
+      0.488721793508483,
+      0.6468253968188402
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_28",
+    "text": "B5 Let a1, a2, ... be real numbers. Suppose that there is a constant A such that for all n,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5338345996776072,
+      0.6321924605379852,
+      0.9191729287528437,
+      0.6599702380864592
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_12",
+    "text": "F(u, u) = 0 for every u € R;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14849624133207212,
+      0.6584302323506172,
+      0.35150375453258964,
+      0.6716269840624777
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_29",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7593984963280466,
+      0.6700581397946895,
+      0.8345864652832122,
+      0.7006448413116239
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_13",
+    "text": "for every x E R, g(x) > 0 and x28(x) ≤ 1;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14661654190882248,
+      0.6758432535712092,
+      0.4379699169727566,
+      0.69331395302532
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_14",
+    "text": "for every (u, v) € R2, the vector VF (u, v) is either O or parallel to the vector (8(4), - 8(v)).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14849623489974956,
+      0.6946924600205376,
+      0.49060149805764436,
+      0.7281976746644655
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_30",
+    "text": "Prove there is a constant B > 0 such that for all n,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706821556976,
+      0.7251984127204152,
+      0.883458649282272,
+      0.7369186045851555
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_15",
+    "text": "Prove that there exists a constant C such that for every n ≥ 2 and any x1,..., In+1 € R, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955748682974,
+      0.7368551588260364,
+      0.48872179970679125,
+      0.7646329366442853
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_31",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6259398500389063,
+      0.7478946919669295,
+      0.8084285686282429,
+      0.7848837207933452
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 28
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_16",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2218045137340164,
+      0.777529761968768,
+      0.34774435916072033,
+      0.7994186046271591
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 29
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_32",
+    "text": "B6 Let p be an odd prime. Show that for at least (p + 1) /2 values of n in {0,1,2, ...,p - 1},",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5319548866798166,
+      0.8037790702681634,
+      0.9191729261961236,
+      0.8328488368660419
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 30
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_17",
+    "text": "A6 Let G be an abelian group with n elements, and let",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338347710208966,
+      0.8241279068418962,
+      0.4605263062625718,
+      0.8373015872987541
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 31
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_18",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20864662258708047,
+      0.8501984127311955,
+      0.36842105028259353,
+      0.864831349239132
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 32
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_33",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6071428575980556,
+      0.8561046515302757,
+      0.827067665231211,
+      0.8822674417571199
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 33
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001_19",
+    "text": "be a (not necessarily minimal) set of distinct generators of G. A special die, which randomly selects one of the elements g1,82, .., 8k with equal probability, is rolled m times and the selected elements are multiplied to produce an element g € G. Prove that there exists a real number b € (0,1) such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985625873957,
+      0.8779069764983252,
+      0.49060151260400175,
+      0.9636627904866499
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Problems_2011_page_001",
+    "order": 34
+  }
+]

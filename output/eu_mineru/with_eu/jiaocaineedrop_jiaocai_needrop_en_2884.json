@@ -1,0 +1,159 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2884",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_0",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What can we do to solve these problems?",
+        "bbox": [
+          0.08368200836820083,
+          0.0737448559670782,
+          0.42305904230590424,
+          0.09020576131687243
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If we eat more vegetables and less meat, we willeasily get more food. Land that is used to grow crops can feed five times more people than land where animals are kept.",
+        "bbox": [
+          0.05764760576476058,
+          0.09481481481481481,
+          0.9418874941887494,
+          0.1336625514403292
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The world population will not rise so quickly if people use modern methods of birth control.",
+        "bbox": [
+          0.07345420734542074,
+          0.13695473251028806,
+          0.8470478847047884,
+          0.15539094650205762
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Finally, if we educate people to think about the problems, we shall have a beter and cleaner living place n the future.",
+        "bbox": [
+          0.058577405857740586,
+          0.15868312757201647,
+          0.9446768944676894,
+          0.19621399176954732
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2884",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_4",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08461180846118084,
+          0.21860082304526748,
+          0.802417480241748,
+          0.5609876543209876
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "注意事项：",
+        "bbox": [
+          0.05113900511390051,
+          0.6274897119341564,
+          0.14504881450488144,
+          0.6452674897119342
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_7",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "1.第Ⅱ卷共4页，用钢笔或圆珠笔直接答在试卷上。 2.答卷前将密封线内的项填写清楚。",
+        "bbox": [
+          0.05206880520688052,
+          0.648559670781893,
+          0.5281264528126453,
+          0.688724279835391
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2884",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "第ⅡI卷（共35分）",
+        "bbox": [
+          0.4100418410041841,
+          0.605761316872428,
+          0.5783356578335658,
+          0.6248559670781892
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2884",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2884_8",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.05113900511390051,
+          0.7124279835390946,
+          0.7661552766155276,
+          0.7749794238683128
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

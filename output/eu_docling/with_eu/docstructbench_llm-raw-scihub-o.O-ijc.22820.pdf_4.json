@@ -1,0 +1,1132 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_81",
+    "source": "visual_seed",
+    "member_count": 70,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_81",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5070445700252757,
+          0.08260970052083333,
+          0.9045486270680148,
+          0.3796951226128472
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P ADR",
+        "bbox": [
+          0.6500000007688672,
+          0.08430232548288465,
+          0.7269230780772865,
+          0.09747023800772857
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a",
+        "bbox": [
+          0.5519230782000993,
+          0.08430232555050356,
+          0.5846153844281058,
+          0.09593023239523285
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_66",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ADR",
+        "bbox": [
+          0.8192307702577883,
+          0.08430232559189628,
+          0.8634615363287499,
+          0.09738372102874321
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_65",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P",
+        "bbox": [
+          0.7903846162123747,
+          0.08430232563629093,
+          0.8134615384030102,
+          0.0944767438889028
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a",
+        "bbox": [
+          0.11923076928875237,
+          0.08575581393643936,
+          0.1326923074420169,
+          0.09738372078116875
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Caspase-9",
+        "bbox": [
+          0.09796584879638003,
+          0.10569374677093947,
+          0.16164953708474744,
+          0.11668997399749959
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "47kDa",
+        "bbox": [
+          0.27692307772202623,
+          0.10610465127824834,
+          0.31730769218181976,
+          0.1162790695308602
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cytochrome c",
+        "bbox": [
+          0.5288461520758609,
+          0.12053571395508415,
+          0.6307692323899513,
+          0.14831349173286193
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Caspase-3",
+        "bbox": [
+          0.09807692424125092,
+          0.12645348837853898,
+          0.1615384583869543,
+          0.13662790663115085
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Caspase-8",
+        "bbox": [
+          0.09793813349434705,
+          0.1448132100749131,
+          0.16360032967312146,
+          0.15605888273985824
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_56",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Actin",
+        "bbox": [
+          0.5499089175743539,
+          0.14662176181576594,
+          0.6000910822681249,
+          0.16151777335752618
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "55/50kDa",
+        "bbox": [
+          0.4269230779203452,
+          0.14970930245388112,
+          0.49230769037635824,
+          0.16133720929861062
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "44/40kDa",
+        "bbox": [
+          0.2691152227602033,
+          0.15081529894176351,
+          0.32896170130820945,
+          0.16313818932183574
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "44/40kDa",
+        "bbox": [
+          0.43269230798753994,
+          0.15843023273315854,
+          0.4923076905220754,
+          0.17005813957788793
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "/ 40/36kDa",
+        "bbox": [
+          0.426923077810455,
+          0.16860465108344921,
+          0.4923076902664681,
+          0.18030753962520066
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MNNG",
+        "bbox": [
+          0.6576923095217028,
+          0.17005813941820433,
+          0.7096153838244512,
+          0.18313953485505144
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23kDa",
+        "bbox": [
+          0.27112202314283373,
+          0.17289876818744354,
+          0.31349336099338315,
+          0.18465937105523597
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Actin",
+        "bbox": [
+          0.11923076908635667,
+          0.19040697695554223,
+          0.15769230774056636,
+          0.20203488380027174
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MNNG/ADR",
+        "bbox": [
+          0.17307692255551116,
+          0.2034883720427516,
+          0.2596153864060272,
+          0.215116278887481
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WE-68/ADR",
+        "bbox": [
+          0.3384615369414353,
+          0.2049418606956417,
+          0.42307692248164175,
+          0.21511627894825355
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "b",
+        "bbox": [
+          0.5615384614615748,
+          0.20639534923485453,
+          0.5788461537307328,
+          0.22383720855584327
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_69",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WE-68/ADR",
+        "bbox": [
+          0.7749524670668497,
+          0.21201117258241609,
+          0.8692783035089818,
+          0.22548882726657363
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_64",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MNNG/ADR",
+        "bbox": [
+          0.6326923061580723,
+          0.21220930233608223,
+          0.7307692298515431,
+          0.2252906977729293
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "b",
+        "bbox": [
+          0.1173076921538825,
+          0.22383720911097063,
+          0.13461538442304058,
+          0.23982558173205265
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MNNG/ADR",
+        "bbox": [
+          0.28653846178117887,
+          0.2238372094177832,
+          0.37115384732138523,
+          0.23401162767039507
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P53",
+        "bbox": [
+          0.5653846151758969,
+          0.23401162793564617,
+          0.599999999714213,
+          0.2470930233724933
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "₴ 100",
+        "bbox": [
+          0.22692307788874402,
+          0.23685515872225338,
+          0.2596153841167505,
+          0.24999999999209468
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*",
+        "bbox": [
+          0.3480769233125363,
+          0.24709302346583797,
+          0.3653846155816943,
+          0.26162790654869705
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cell Viability",
+        "bbox": [
+          0.2269230738019488,
+          0.2500000003713772,
+          0.24230769464879293,
+          0.3008720916344367
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*",
+        "bbox": [
+          0.38269230787516356,
+          0.25145348849160554,
+          0.3980769230863749,
+          0.2645348839284527
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_60",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Bax",
+        "bbox": [
+          0.5538461548731731,
+          0.25436046547165175,
+          0.5980769209441346,
+          0.26889534855451086
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_61",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Bel-xL",
+        "bbox": [
+          0.5499999999072478,
+          0.27325581376213326,
+          0.6115384607520928,
+          0.2892441863832155
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.24038461509606296,
+          0.2848837210689144,
+          0.2596153844231678,
+          0.2965116279136439
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_62",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Bel-2",
+        "bbox": [
+          0.5500000000780865,
+          0.29215116342090086,
+          0.6038461526911445,
+          0.3095930227418897
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+",
+        "bbox": [
+          0.38653846110513307,
+          0.3052325580117439,
+          0.39615384639486684,
+          0.3168604648564732
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Flavopiridol (200nMD",
+        "bbox": [
+          0.14423076951763125,
+          0.30523255811833283,
+          0.25769230967467627,
+          0.31696428584710096
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_63",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Actin",
+        "bbox": [
+          0.5576923074042096,
+          0.31395348818073804,
+          0.6057692300957902,
+          0.32994186080182003
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-VAD- FMK (75uM)",
+        "bbox": [
+          0.14615384507022205,
+          0.31395348851077487,
+          0.2576923069169575,
+          0.3256448411884984
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-LETD- FMK (75uM)",
+        "bbox": [
+          0.14230769625523462,
+          0.3226686506514353,
+          0.25961538301399606,
+          0.33432539668318145
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-DEVD- FMK (50uM) -",
+        "bbox": [
+          0.1384615374618293,
+          0.33134920656378564,
+          0.2769230756150938,
+          0.34156976732640293
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WE-68/ADR",
+        "bbox": [
+          0.29615384665048944,
+          0.34447674432672953,
+          0.37499999725976696,
+          0.3531976739872239
+        ],
+        "order": 52
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_73",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "80 160 320(nM)",
+        "bbox": [
+          0.8057692316869185,
+          0.35019841286776543,
+          0.9038461553803894,
+          0.35912698429633666
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_71",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "100 200 400(M)",
+        "bbox": [
+          0.6500000024510444,
+          0.3516865081038591,
+          0.7576923076771606,
+          0.3604651161383867
+        ],
+        "order": 54
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_70",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0",
+        "bbox": [
+          0.6326923080000364,
+          0.3517441862356443,
+          0.6500000002691945,
+          0.3604651158961387
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cell Viability (%)",
+        "bbox": [
+          0.22884614950484128,
+          0.35465116226986415,
+          0.2423076957984644,
+          0.41715116226986415
+        ],
+        "order": 56
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "100",
+        "bbox": [
+          0.24038461628314184,
+          0.357558139621727,
+          0.2596153843578838,
+          0.3648255811631566
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "$88",
+        "bbox": [
+          0.24615384368306506,
+          0.36627907047552294,
+          0.259615386845781,
+          0.4011627891175004
+        ],
+        "order": 58
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_72",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Flavopiridol",
+        "bbox": [
+          0.6345363931160741,
+          0.36741388122618424,
+          0.7250789916475754,
+          0.3811326300757201
+        ],
+        "order": 59
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_74",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Flavopiridol",
+        "bbox": [
+          0.7845802215531563,
+          0.36757802303561,
+          0.8731120863931874,
+          0.3795149998317148
+        ],
+        "order": 60
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*",
+        "bbox": [
+          0.38653846178875234,
+          0.37063953506600755,
+          0.3999999999420169,
+          0.3822674419107368
+        ],
+        "order": 61
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_51",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "FIGURE 4 - The apoptotic effects of flavopiridol via mitochondrial pathway in the ADR clones of OS and EFTs. (a) After the treatment of parental (P) or ADR cells of MNNG and WE-68 (5 X 10' flavopiridol for 24 hr, the cytosolic extracts were obtained and subjected to Western blot analysis as described in Material and methods. Actin was used as the internal control. (b) The ADR clones of OS and EFTs were treated with various concentrations of flavopiridol for 24 hr. The whole cell lysates were prepared and Western blot analysis was carried out using anti-p53, Bax, Bcl-xL, Bcl-2, and actin antibodies.",
+        "bbox": [
+          0.5076923042045344,
+          0.39384920656378564,
+          0.9038461506677321,
+          0.4883720931510469
+        ],
+        "order": 62
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.24615384621182929,
+          0.40261627926859,
+          0.2596153843650938,
+          0.4113372089290842
+        ],
+        "order": 63
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Flavopiridol (160nM)",
+        "bbox": [
+          0.1480769215285554,
+          0.421511628265683,
+          0.2596153833752909,
+          0.43030753962319934
+        ],
+        "order": 64
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-VAD-FMK (40uM)",
+        "bbox": [
+          0.15192307928947932,
+          0.43023255832866764,
+          0.26153846282590515,
+          0.43898809510819226
+        ],
+        "order": 65
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-IETD-FMK (40uM)",
+        "bbox": [
+          0.14615385154500476,
+          0.4389534885612255,
+          0.26153845999345665,
+          0.44767441822171994
+        ],
+        "order": 66
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-DEVD-FMK (50uM)",
+        "bbox": [
+          0.14230769587892597,
+          0.4461805557397432,
+          0.26153846094799704,
+          0.4563953485703467
+        ],
+        "order": 67
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Flavopiridol (200nM)",
+        "bbox": [
+          0.1538461570949813,
+          0.47238372114358995,
+          0.25961538401078793,
+          0.4811507937871426
+        ],
+        "order": 68
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-VAD-FMK (75uM)",
+        "bbox": [
+          0.155769235357214,
+          0.48255813974824124,
+          0.2576923056524013,
+          0.49131944445977993
+        ],
+        "order": 69
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-IETD-FMK (75uM)",
+        "bbox": [
+          0.15192307752767362,
+          0.4927325584982412,
+          0.25769230444348024,
+          0.5014880952777659
+        ],
+        "order": 70
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Z-DEVD-FMK (50uM)",
+        "bbox": [
+          0.1500000006339162,
+          0.5043604650457593,
+          0.2596153841703421,
+          0.5116567460107317
+        ],
+        "order": 71
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_75",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FMK efficiently inhibited flavopiridol-induced caspase-3 activation and cleavage of PARP in MNNG/ADR cells. These results revealed that flavopiridol could induce caspase-dependent apoptosis in the drug-resistant OS and EFTs clones, and that caspase-3 inhibitor, but not caspase-8 inhibitor, could prevent the cleavage of caspase-3 and the activation of PARP.",
+        "bbox": [
+          0.5076923145780616,
+          0.5116279069943019,
+          0.903846157333927,
+          0.5813953485774035
+        ],
+        "order": 72
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cleaved PARP",
+        "bbox": [
+          0.17692307696379234,
+          0.5203373014859577,
+          0.24999999765159242,
+          0.5290697670104798
+        ],
+        "order": 73
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "85kDa",
+        "bbox": [
+          0.3807692303750727,
+          0.5203488375680086,
+          0.4153846149133888,
+          0.5290697672285031
+        ],
+        "order": 74
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Caspase-3",
+        "bbox": [
+          0.1903687524108642,
+          0.5348295414662401,
+          0.2423235565789843,
+          0.5436588304787253
+        ],
+        "order": 75
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "32kDa",
+        "bbox": [
+          0.378846155052409,
+          0.5348837210170759,
+          0.41538461539630905,
+          0.5421511625585056
+        ],
+        "order": 76
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "FIGURE 3 - Induction of caspase-dependent apoptosis by flavopiridol in the ADR clones of OS and EFTs. MNNG/ADR or WE-68/ADR cells were cultured in DMEM or RPMI 1640 medium containing 10% FBS. (a) The cells were treated with 200 nM (left panel, MNNG/ ADR) or 160 nM of flavopiridol (right panel, WE-68/ADR) for the indicated time. Whole cell lysates from the treated cells were prepared and Western blot analysis was carried out using anti-caspase-9, -3, -8 and actin antibodies. (b) The ADR cells (2-3 X 10) were cultured in 96-well plates for 24 hr and pretreated with 0.1% DMSO, pan caspase inhibitor (Z-VAD-FMK), caspase-8 inhibitor (Z-IETD-FMK) or caspase-3 inhibitor (Z-DEVD-FMK) at indicated concentrations, followed by incubation with 0.1% DMSO or flavopiridol for an additional 24 hr. The viability of cells was measured by CellTiter-Glo Luminescent assays. (c) MNNG/ADR cells were cultured in 60 mm dishes for 24 hr. The caspase inhibitors were used as described above. Whole cell lysates were prepared and subjected to Western blot analysis using anti-PARP and caspase-3 antibodies. The data represent the means of three separate experiments performed in triplicate; bars represent SD. *, p < 0.05. +, treatment; -, no treatment.",
+        "bbox": [
+          0.09615384266607292,
+          0.5755813954340139,
+          0.4925389192838455,
+          0.7748015873522592
+        ],
+        "order": 77
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_77",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We next investigated whether the activation of caspase-9 and caspase-3 were attributed to the mitochondrial injury, which could lead to release of cytochrome c. Treatments of parental and ADR clones of OS and EFTs with 400 and 320 nM flavopiridol resulted in the expression of cytochrome c in the cytosolic fractions of the treated cells (Fig. 4a). It is reported that disruption of the balance between propoptotic and antiapoptotic proteins, e.g. altered Bax/ Bel-2 ratio, is a precursor for the release of cytochrome c from miand that Bax gene is a target of p53 and can be reguisab. 53 via transeniptional dependent?. or independent mechIn the present study, as shown in Figure 4b, the treatments of MNNG/ADR and WE-68/ADR cells with flavopiridol resulted in a decrease in the Bcl-2 and Bcl-xL expression in a dose-dependent manner. On the other hand, flavopiridol dosedependently increased Bax and p53 expression in WE-68/ADR cells, but not in MNNG/ADR cells. This difference in response may relate to the difference in p53 status, which is wild-type in WE-68 and mutant in MNNG.",
+        "bbox": [
+          0.5055024437479128,
+          0.6249999999219907,
+          0.903846157333927,
+          0.832914153984014
+        ],
+        "order": 79
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "time-dependent manner in ADR clones of OS and EFTs, as indicated by the reduction in the intensites of proenzymes of caspase9 and caspase-3, and increase in the cleaved products of caspase-8 (Fig. 3a). Co-treatment with a broad-spectrum caspase inhibitor (Z-VAD-FMK) or a caspase-3 specific inhibitor (Z-DEVD-FMK) significantly reduced the efficacy of flavopiridol on the induction of the cell death in ADR cells, but a caspase-s specific inhibitor (Z-IETD-FMK) could not inhibit the cell death (Fig. 3b). As shown in Figure 3c, 75 uM Z-VAD-FMK and 50 uM Z-DEVD-",
+        "bbox": [
+          0.09615385816780506,
+          0.8052325582610487,
+          0.4942307684347586,
+          0.9099702383283756
+        ],
+        "order": 80
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_79",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since flavopiridol displayed antiproliferative and apoptotic effects on ADR clones of OS and EFTs in vitro, we set out to investigate the antiproliferative activity of flavopiridol in vivo.",
+        "bbox": [
+          0.5076923260413323,
+          0.8749999999933329,
+          0.9057692256894363,
+          0.9099702379522222
+        ],
+        "order": 82
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_80",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_80",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09790282305549172,
+          0.08468539767795139,
+          0.4913897346047794,
+          0.5589932725694444
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0 6 12 18 24 48 (hr)",
+        "bbox": [
+          0.16730769296022976,
+          0.08575581387414685,
+          0.2942307712705394,
+          0.09747023827992608
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0 6 12 18 24 (hr)",
+        "bbox": [
+          0.33846153737791435,
+          0.0872093024642632,
+          0.44999999922464984,
+          0.09895833351602
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_54",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Flavopiridol (nM) 0 400 0 400",
+        "bbox": [
+          0.5076923045352626,
+          0.104651162686552,
+          0.734615384849353,
+          0.12063953530763401
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_67",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_67",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0 320 0 320",
+        "bbox": [
+          0.7769230775955721,
+          0.10610465117065845,
+          0.875000001289043,
+          0.11780753971240998
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "32kDa",
+        "bbox": [
+          0.2767604452724285,
+          0.1275605772562089,
+          0.31939340172402486,
+          0.13988128307874478
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_68",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_68",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WE-68",
+        "bbox": [
+          0.7961538460100437,
+          0.17005813941820433,
+          0.846153847011934,
+          0.18313953485505144
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "$88",
+        "bbox": [
+          0.24423076734277308,
+          0.24999999881587004,
+          0.25961538631107295,
+          0.2848837212422695
+        ],
+        "order": 39
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_76",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_76",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "The apoptotic effect of flavopiridol was mainly mediated by mitochondrial pathway in the ADR clones of OS and EFTs",
+        "bbox": [
+          0.507692317533202,
+          0.5973837209090307,
+          0.8596153841078236,
+          0.6206395347208142
+        ],
+        "order": 78
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_78",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_78",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Flavopiridol inhibited the growth of the drug-resistant OS and EFTs tumors in mice",
+        "bbox": [
+          0.5096153861778847,
+          0.8473837208024414,
+          0.8788461518199556,
+          0.8706395346531954
+        ],
+        "order": 81
+      }
+    ]
+  }
+]

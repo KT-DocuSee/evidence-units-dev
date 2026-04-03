@@ -1,0 +1,176 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1529206113238735,
+          0.08574166355813835,
+          0.3898635365619632,
+          0.1626569793970566
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5125361148767189,
+          0.2395722952359748,
+          0.9158432216649567,
+          0.29757400881942137
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6200846766869157,
+          0.08574166355813835,
+          0.80829465985476,
+          0.1626569793970566
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 1. Real structure consisting of three thin layers: silver (for electric contact), metal-free phthalocyanine and palladium fabricated on an alun- dum substrate.",
+        "bbox": [
+          0.06721785113137296,
+          0.1714833271162767,
+          0.4738858504761794,
+          0.20804962481018865
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_4",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2. A scheme of resistance measurements in the two-point method. Changes in resistance were monitored by an automatic data acquisition unit Agilent 34970A for various hydrogen concentrations in nitrogen or in air.",
+        "bbox": [
+          0.5108556685984346,
+          0.1714833271162767,
+          0.9158432216649567,
+          0.2206586929805031
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The main goal of this paper is to investigate the electric resistance of a layered phthalocyanine and palladium (Pc + Pd) structure under the inffuence of various hydrogen concentrations in nitrogen and air. We show that during the interaction of hydrogen with bilayer structures metal-free phthalocyanine and palladium there occurs a strong change in the resistance of these structures. This would correspond to an acousto-electric effect in the SAW sensor system",
+        "bbox": [
+          0.06889829740965729,
+          0.2395722952359748,
+          0.47220540419789514,
+          0.2988349156364528
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_6",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.19829266083755026,
+          0.3152267042578616,
+          0.7864488582370638,
+          0.8952438400923269
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_7",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "g.. right axis) interaction in nitrogen, (a) at lower hydrogen concentrations 0.5–2.5% and (b) at higher concentrations 2.5–4%.",
+        "bbox": [
+          0.06385695857480432,
+          0.904070187811547,
+          0.9108018828301038,
+          0.9305492309692075
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

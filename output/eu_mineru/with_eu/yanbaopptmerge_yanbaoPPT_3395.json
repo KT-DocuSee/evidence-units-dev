@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_3395",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_3395_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_3395_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "树立远大理想 筑梦美好未来",
+        "bbox": [
+          0.2786666666666667,
+          0.2785185185185185,
+          0.7206666666666667,
+          0.3508148148148148
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_3395_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.14866666666666667,
+          0.3804444444444444,
+          0.8106666666666666,
+          0.576
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_3395_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "答案略。（根据身实际情况回答，符合题意即可)",
+        "bbox": [
+          0.05266666666666667,
+          0.6020740740740741,
+          0.678,
+          0.666074074074074
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

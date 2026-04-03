@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5300",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5300_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5300_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2 粮仓卫士",
+        "bbox": [
+          0.20866666666666667,
+          0.17422222222222222,
+          0.654,
+          0.2791111111111111
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5300_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在粮仓东北边 30m 处。",
+        "bbox": [
+          0.28,
+          0.33066666666666666,
+          0.8273333333333334,
+          0.42488888888888887
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5300_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在西北边 20m 处。 在西南边 40m 处。",
+        "bbox": [
+          0.28,
+          0.5306666666666666,
+          0.7126666666666667,
+          0.8222222222222222
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

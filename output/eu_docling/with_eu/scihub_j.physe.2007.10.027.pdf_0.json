@@ -1,0 +1,345 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "scihub_j.physe.2007.10.027.pdf_0",
+    "primary_id": "docling_scihub_j.physe.2007.10.027.pdf_0_21",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_21",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.34600431541433646,
+          0.07381899048681972,
+          0.5826597940244295,
+          0.10422640084679705
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PHYSICA E",
+        "bbox": [
+          0.7809242934711158,
+          0.07971560657936116,
+          0.9341919873691502,
+          0.1121448589313945
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ScienceDirect",
+        "bbox": [
+          0.4069767450184664,
+          0.08430232599950228,
+          0.5852713153761777,
+          0.10465116250472602
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ELSEVIER",
+        "bbox": [
+          0.054239430533419515,
+          0.1249144365781242,
+          0.14537297206445254,
+          0.13962044743444976
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Available online 13 October 2007",
+        "bbox": [
+          0.39534883382382563,
+          0.30952380975766847,
+          0.5910852698098954,
+          0.3197674417752885
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "scihub_j.physe.2007.10.027.pdf_0",
+    "primary_id": "docling_scihub_j.physe.2007.10.027.pdf_0_22",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_22",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7825414802892608,
+          0.07920709380757511,
+          0.9289009804593032,
+          0.10973263003117914
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.physe.2007.10.027.pdf_0",
+    "primary_id": "docling_scihub_j.physe.2007.10.027.pdf_0_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Physica E 40 (2008) 1668-1670",
+        "bbox": [
+          0.37403101833058394,
+          0.1279069768475313,
+          0.5581395304420258,
+          0.1381448414061901
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "scihub_j.physe.2007.10.027.pdf_0",
+    "primary_id": "docling_scihub_j.physe.2007.10.027.pdf_0_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "www.elsevier.com/locate/physe",
+        "bbox": [
+          0.7519379882061571,
+          0.14098837243861645,
+          0.9302325585638682,
+          0.15116279069122837
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "scihub_j.physe.2007.10.027.pdf_0",
+    "primary_id": "docling_scihub_j.physe.2007.10.027.pdf_0_14",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_14",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Anomalous temperature dependence of microwave resonance-induced resistivity of surface-state electrons on liquid He",
+        "bbox": [
+          0.06201551111930618,
+          0.1889534886332892,
+          0.9205426391471666,
+          0.23412698438594748
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Denis Konstantinova,* , Yuriy Monarkha®. , Kimitoshi Konoa",
+        "bbox": [
+          0.20542636272450004,
+          0.24818915581528903,
+          0.7797622944486273,
+          0.26926319972643964
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Low Temperature Physics Laboratory, RIKEN, Hirosawa 2-1, Wako 351-0198, Japan ·Institute for Low Temperature Physics and Engineering, 47 Lenin Avenue, Kharkov 61103, Ukraine",
+        "bbox": [
+          0.20542637456651258,
+          0.2775297621032843,
+          0.7771317840252179,
+          0.29941860445091845
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "scihub_j.physe.2007.10.027.pdf_0",
+    "primary_id": "docling_scihub_j.physe.2007.10.027.pdf_0_2",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Abstract",
+        "bbox": [
+          0.05613764963047881,
+          0.35586678062428145,
+          0.11246700340703716,
+          0.3650634518528416
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The behavior of the linear magneto-resistivity Get of the surface-state electrons (SSE) on liquid He exposed to the resonant microwave radiation is experimentally studied in the temperature range corresponding to the crossover between the gas-atom and the absorption of microwaves. At high temperatures, where gas-atom scattering dominates over ripplon scattering, or decreases. At low the intermediate temperatures is attributed to the interplay between two regimes. C 2007 Published by Elsevier B.V.",
+        "bbox": [
+          0.05426356113189979,
+          0.37574987504826274,
+          0.9322538130127054,
+          0.4781976740622312
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PACS: 67.90. + z; 73.20.-r; 73.25. + i; 78.70.Gq",
+        "bbox": [
+          0.05620155501707746,
+          0.4927325582719499,
+          0.33139534971160456,
+          0.5029761902895699
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Keywords: Surface state electrons; Microwave absorption; Hot electrons",
+        "bbox": [
+          0.056201554211997906,
+          0.5188492064487177,
+          0.4748062081911026,
+          0.5290697672113349
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "scihub_j.physe.2007.10.027.pdf_0",
+    "primary_id": "docling_scihub_j.physe.2007.10.027.pdf_0_6",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_6",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "1. Introduction",
+        "bbox": [
+          0.05412637217920427,
+          0.5603595678142984,
+          0.1648658732442516,
+          0.5748148512593237
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "conditions, the energy difference 421 between the ground and the first excited Rydberg states is much large than T, therefore almost all electrons occupy the lowest state. The quantum transitions between Rydberg states can be induced by the resonant interaction of SSE with MW radiation. Recently, we showed that in the gas-atom scattering regime the absorption of MWs of frequency o ~ 421/h is accompanied by a strong heating of SSE caused by a disbalance between the large absorbed power and a very slow energy relaxation rate [5]. An important feature of this process is an efficient channel to transfer the excitation energy absorbed by electrons from MW field to the thermal energy of in-plane motion. An excited electron decays back to the ground state as a result of the collision with a helium atom or a ripplon. In either case, the energy exchange during collision is negligible, and the decayed electron returns to the ground state carrying a large kinetic energy Ek ~ 121, which is quickly redistributed among other electrons owing to the very high electron electron collision rate (order of 10\" g-').",
+        "bbox": [
+          0.5056682650026283,
+          0.5610119048168004,
+          0.9303689263137023,
+          0.8591269843360075
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Experimental spectroscopic studies of surface-state electrons (SSE) above liquid helium provide important information about various aspects of this system, such as the subband structure, quantum transport properties and relaxation phenomena. Such studies have been carried out with electrons above both liquid He [1,2] and liquid He [3]. The recent interest in such studies has been evoked by the theoretical proposal [4] that SSE occupying two lowest Rydberg states can be used as electronic qubits controlled by the microwave (MW) field. The motion of the SSE is confined to a series of two-dimensional subbands: while the motion perpendicular to the surface is restricted to the hydrogen-like quantum Rydberg states, the motion along the surface is free except for the scattering from helium vapor atoms or surface capillary waves (ripplons). For SSE above liquid He, which was used as a substrate in our experiment, the crossover between these two scattering regimes lies at T ~ 0.3 K. Under the typical experimental",
+        "bbox": [
+          0.05232559904396117,
+          0.5900297619922714,
+          0.47880366125425916,
+          0.8591269842031922
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The heating effects the scattering rate, therefore it can be observed experimentally as a resonant change of the electron resistivity. E.g. in the gas-atom scattering regime,",
+        "bbox": [
+          0.5058139609656843,
+          0.8618551587983886,
+          0.9302325443158045,
+          0.9055232552526699
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_8",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "*Corresponding author. Tel.: + 81 48 467 4764; fax: + 81 48 462 4652.",
+        "bbox": [
+          0.06782947531564326,
+          0.8793604652307362,
+          0.4689922434828059,
+          0.8909883720754654
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_scihub_j.physe.2007.10.027.pdf_0_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E-mail address: konstantinov@riken.jp (D. Konstantinov).",
+        "bbox": [
+          0.07558139290085197,
+          0.893849206113957,
+          0.4147286881714993,
+          0.9055232559417445
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

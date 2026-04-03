@@ -1,0 +1,374 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "The 58th William Lowell Putnam Mathematical Competition Saturday, December 6, 1997",
+        "bbox": [
+          0.24624059637218054,
+          0.06686046489585434,
+          0.7593984911090227,
+          0.10319767411501496
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-1 Let {x} denote the distance between the real number x and the nearest integer. For each positive integer n, evaluate",
+        "bbox": [
+          0.5225564019846086,
+          0.13662790711409364,
+          0.9210526240326139,
+          0.18023255856344803
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-1 A rectangle, HOMF, has sides HO = 11 and OM = 5. A triangle ABC has H as the intersection of the altitudes, O the center of the circumscribed circle, M the midpoint of BC, and F the foot of the altitude from A. What is the length of BC?",
+        "bbox": [
+          0.09586466560150368,
+          0.13808139526122762,
+          0.49060150770676686,
+          0.2093253970112169
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_13",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6597744367088801,
+          0.19040697658623498,
+          0.6879699247572855,
+          0.22529069733993715
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-2 Players 1,2,3, ...,n are seated around a table, and each has a single penny. Player 1 passes a penny to player 2, who then passes two pennies to player 3. Player 3 then passes one penny to Player 4, who passes two pennies to Player 5, and so on, players alternately passing one penny or two to the next player who still has some pennies. A player who runs out of pennies drops out of the game and leaves the table. Find an infinite set of numbers n for which some player ends up with all n pennies.",
+        "bbox": [
+          0.0958646682330825,
+          0.22093023247879812,
+          0.4906217500932844,
+          0.3619186045962672
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(Here min(a,b) denotes the minimum of a and b.)",
+        "bbox": [
+          0.5545112692907431,
+          0.23834325376943133,
+          0.8853383481528658,
+          0.252976190277368
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-2 Let f be a twice-differentiable real-valued function satisfying",
+        "bbox": [
+          0.5225564086105482,
+          0.25000000035404063,
+          0.9191729219815568,
+          0.2819767439293033
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6203007524329534,
+          0.29360465156043597,
+          0.8139097721911068,
+          0.3110465108814246
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where g(x) > 0 for all real x. Prove that If (x)| is bounded.",
+        "bbox": [
+          0.5545112863339274,
+          0.32118055566373516,
+          0.919172918083366,
+          0.34889140272740465
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_18",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-3 For each positive integer n, write the sum Em=1 1/m in the form Pn/an, where pn and qn are relatively prime positive integers. Determine all n such that 5 does not divide an·",
+        "bbox": [
+          0.5225563893471341,
+          0.360367063463394,
+          0.9191729418934675,
+          0.4186507938025883
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_3",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "A-3 Evaluate",
+        "bbox": [
+          0.09586466257518796,
+          0.37500000013241497,
+          0.1879699257330827,
+          0.3851744183850269
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1522556378088932,
+          0.40261627872012984,
+          0.42481202598809936,
+          0.46511627804552125
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-4 Let amn denote the coefficient of x\" in the expansion of (1 +x+ x2). Prove that for all [integers] k ≥ 0,",
+        "bbox": [
+          0.5225564043533589,
+          0.4287790693762322,
+          0.9210526281654378,
+          0.45932539661283994
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-4 Let G be a group with identity e and : G → G a function such that",
+        "bbox": [
+          0.09586466658834576,
+          0.4840116277721289,
+          0.49060150869360897,
+          0.508720930129213
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_20",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6372180477177215,
+          0.4853670635522358,
+          0.7988721760604737,
+          0.504464285774458
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.16353383614896613,
+          0.5247093025719426,
+          0.41353383614896605,
+          0.5392441856548017
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_21",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-5 Prove that for n ≥ 2,",
+        "bbox": [
+          0.5225563966159026,
+          0.5290178571725273,
+          0.6954887190482577,
+          0.545138888918559
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "whenever 818283 = e = h|h2h3. Prove that there exists an element a E G such that y(x) = a (x) is a homomorphism (i.e. y (xy) = Y(x) Vy) for all x, y € G).",
+        "bbox": [
+          0.12593985777816308,
+          0.5523255812786695,
+          0.4906015045701836,
+          0.5959821430815015
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_22",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5976368990223987,
+          0.5537790701214823,
+          0.8365480786685594,
+          0.5961731730681032
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-5 Let Nn denote the number of ordered n-tuples of positive integers (a1, a2,..,an) such that 1/a, + 1/a2 + ... + 1/an = 1. Determine whether Nio is even or odd.",
+        "bbox": [
+          0.09586466658834576,
+          0.6061046513728147,
+          0.49060150869360897,
+          0.6483134920195976
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_23",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-6 The dissection of the 3-4-5 triangle shown below (into four congruent right triangles similar to the original) has diameter 5/2. Find the least diameter of a dissection of this triangle into four parts. (The diameter of a dissection is the least upper bound of the distances between pairs of points belonging to the same part.)",
+        "bbox": [
+          0.5225563886861064,
+          0.6148255812907818,
+          0.9210526160626892,
+          0.7021329366637863
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_9",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-6 For a positive integer n and any real number c, define X recursively by xo = 0, x1 = 1, and for k ≥ 0,",
+        "bbox": [
+          0.0958646592105264,
+          0.6584302326349268,
+          0.4906015013157896,
+          0.6874999997889754
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.20300751970738945,
+          0.7005813959959084,
+          0.36654135456359843,
+          0.7281976741587989
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1997_Problems_1997_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fix n and then take c to be the largest value for which Xn+1 = 0. Find x in terms of n and k, 1 ≤ kIn.",
+        "bbox": [
+          0.12781955702756062,
+          0.7398255812605009,
+          0.4906015054724391,
+          0.7674418600602932
+        ],
+        "order": 24
+      }
+    ]
+  }
+]

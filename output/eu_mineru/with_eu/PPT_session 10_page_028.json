@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_session 10_page_028",
+    "primary_id": "mineru_PPT_session 10_page_028_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_session 10_page_028_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "HELP + NOUN 十 to V",
+        "bbox": [
+          0.24666666666666667,
+          0.088,
+          0.7546666666666667,
+          0.16
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "PPT_session 10_page_028",
+    "primary_id": "mineru_PPT_session 10_page_028_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_session 10_page_028_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.052,
+          0.28444444444444444,
+          0.9626666666666667,
+          0.7066666666666667
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_session 10_page_028_2",
+        "observed_type": "text",
+        "canon_role": "topic_title",
+        "text": "[help].[vv*] [n*] to [v*i]",
+        "bbox": [
+          0.058666666666666666,
+          0.7653333333333333,
+          0.49066666666666664,
+          0.8311111111111111
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

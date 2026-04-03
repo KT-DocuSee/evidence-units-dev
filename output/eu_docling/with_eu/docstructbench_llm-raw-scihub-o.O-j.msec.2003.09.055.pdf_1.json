@@ -1,0 +1,459 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_29",
+    "source": "visual_seed",
+    "member_count": 20,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_29",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7503956023376058,
+          0.06272538185984247,
+          0.9158778989668406,
+          0.14894689177775103
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MATERIALS",
+        "bbox": [
+          0.798449613593933,
+          0.07122093035207058,
+          0.9127906980824236,
+          0.08430232578891766
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SCIENGE &",
+        "bbox": [
+          0.7965116294437947,
+          0.08283730137394403,
+          0.901162787067833,
+          0.09598214264378532
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SCIENCE @DIRECTO",
+        "bbox": [
+          0.375910086596015,
+          0.09130524712339003,
+          0.5601364249907557,
+          0.11509010217882064
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ENGINEERING",
+        "bbox": [
+          0.7693798462065974,
+          0.09302325595130304,
+          0.9011627869329376,
+          0.10755813903416216
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C",
+        "bbox": [
+          0.8313953490338705,
+          0.10610465122313156,
+          0.8546511624002383,
+          0.12790697632047301
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ELSEVIER",
+        "bbox": [
+          0.07170542895483538,
+          0.12500000050072158,
+          0.16279069502772275,
+          0.13953488358358068
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Materials Science and Engineering C 24 (2004) 217-220",
+        "bbox": [
+          0.3100775245810118,
+          0.12790697682936272,
+          0.6259689949441819,
+          0.1381448413880215
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*Department of Material Physics, Harbin University of Science and Technology, Harbin 150080, China",
+        "bbox": [
+          0.20930233989874789,
+          0.27033730178743554,
+          0.7771317875560318,
+          0.2819940478191816
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "° Department of Chemistry, Center for Nanotechnology Research, The Catholic University, Bucheon 420-743, South Korea",
+        "bbox": [
+          0.15891474737304725,
+          0.2950581395282166,
+          0.8275193778692005,
+          0.3067956347159458
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Division of Image and Information Engineering, Pukyong National University, Pusan 608-739, South Korea",
+        "bbox": [
+          0.19379845813880442,
+          0.3066860465291856,
+          0.7906976459955631,
+          0.3183139533739151
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "° Department of Chemistry, Korea Advanced Institute of Science and Technology, Taejon 305-701, South Korea",
+        "bbox": [
+          0.18992250448532447,
+          0.3196924605379852,
+          0.7965116192065355,
+          0.3328488371988015
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "{Polymer Chemistry Laboratory, College of General Education, Kyungil University, Kyungsangbuk-Do, Kyungsan 712-701, South Korea",
+        "bbox": [
+          0.11816529130486969,
+          0.3309985138022469,
+          0.8682565006912447,
+          0.34613356835272063
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A new ionic conjugated polymer, poly(2-ethynyl-N-methylpyridinium iodide) (PEMPI), was synthesized by the direct polymerization of 2-ethynylpyridine and methyl iodide under mild reaction condition. Another similar conjugated polymer with different counter-ion, poly(2ethynyl-N-methylpyridinium tetraphenylborate) (PEMPTPB) was also prepared by the ion-exchange reaction of poly(2-ethynyl-Nmethylpyridinium iodide) using sodium tetraphenylborate. The polymer structures were characterized by various instrumental methods to have conjugated polymer system with pyridyl moieties of different counter-ion. The photoluminescence spectra of these polymers having different counter-anions indicated that there is no different inductive and size effects of counter-anion between iodide and tetraphenylborate anions in this conjugated polymer backbone.",
+        "bbox": [
+          0.06976744221781288,
+          0.40550595260542166,
+          0.9186046468030558,
+          0.49999999982598164
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Keywords: Polyacetylene; 2-Ethynylpyridine; Ionic polymer; lon-exchange reaction; Luminescence",
+        "bbox": [
+          0.0717054445203619,
+          0.529017856993174,
+          0.6104651115842891,
+          0.5406976742799229
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In this paper, we report the synthesis of novel ionic conjugated polymers having different counter-anion (iodide, tetraphenylborate) and the characterization of resulting ionic conjugated polymers.",
+        "bbox": [
+          0.5096899263176408,
+          0.5857558141998496,
+          0.9166666611339094,
+          0.645348836861197
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Polyacetylene and its homologues have been studied as organic semiconductors [1-3], membranes for gas separation and for liquid-mixture separation [4], chiro-optical materials [5,6], side-chain liquid crystals [7-9], materials for chemical sensors [10], and materials for nonlinear optical property [11,12] and photoluminescence and electroluminescence properties [13-17].",
+        "bbox": [
+          0.06782946221880355,
+          0.6148255814058496,
+          0.47488672904472407,
+          0.7180232558060858
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The conjugated ionic polymer, poly(2-ethynyl-N-methylpyridinium iodide) (PEMPI) was prepared by the direct polymerization of 2-ethynylpyridine with methyl iodide initiator system in methanol solvent. The polymerization was performed at 70 °C after standing for 1 h because of the low boiling temperature of methyl iodide. Another ionic polymer, poly(2-ethynyl-N-methylpyridinium tetraphenylborate) (PEMPTPB) was easily prepared by the ion-exchange reaction of PEMPI with sodium tetraphenylborate in methanol solvent. FT-IR spectra were obtained with a Bruker EQUINOX 55 spectrometer using a KBr pellet. NMR spectra were recorded on a Varian 500 MHz FT-NMR spectrometer (Model: Unity INOVA) in DMSO-d6. X-ray diffractograms were obtained with a Phillips X-ray diffractometer (Model: XPert-APD). The",
+        "bbox": [
+          0.5116279072369847,
+          0.7048611109128678,
+          0.9168002913282705,
+          0.9303075398088878
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Polyacetylenes with ionic nature have potential as materials for mixed ionic and electronic conductivities, energy storage devices such as batteries and permselective membrane, and light-emitting devices due to the their extensive conjugation and various functionalities [2,18]. The synthesis of simple mono- and disubstituted ionic polyacetylenes from ethynylpyridines had been carried out with the activation of the acetylene bond in ethynylpyridines [18,19]. We have also studied on the synthesis and characterization of the poly(2-ethynylpyridine)-based conjugated polymers having various functionalities [2,9,14].",
+        "bbox": [
+          0.06976744043304416,
+          0.7209302329145131,
+          0.47674418633580823,
+          0.8851744181998281
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_23",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "* Corresponding author. Tel.: +82-53-850-7115; fax: +82-53-850-7600. E-mail address: ysgal@kiu.ac.kr (Y.-S. Gal).",
+        "bbox": [
+          0.08908286312030204,
+          0.9040315988834777,
+          0.4768154591737228,
+          0.9288194446182418
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Available online at www.sciencedirect.com",
+        "bbox": [
+          0.32751938518698503,
+          0.07266865082443202,
+          0.61046512036857,
+          0.08284883700905785
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_28",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_28",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3770939157143262,
+          0.08590246565430573,
+          0.5581461957780361,
+          0.11553095301388613
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "www.elsevier.com/locate/msec",
+        "bbox": [
+          0.7500000037664116,
+          0.14098837230638073,
+          0.9166666670669213,
+          0.149709301966875
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_9",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_9",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Synthesis and electro-optical properties of conjugated ionic polymers",
+        "bbox": [
+          0.09302326087615667,
+          0.18749999996949793,
+          0.89341083209865,
+          0.2093253967948947
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tai-Long Guia, Sung-Ho Jin®, , Jong-Wook Park*, Kwon-Taek Lim®, Sang-Youl Kim®, Yeong-Soon Gal;*",
+        "bbox": [
+          0.1876968575531468,
+          0.22221400138330277,
+          0.7926356637571035,
+          0.26165674566637265
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_16",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_16",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Abstract",
+        "bbox": [
+          0.07147776753621071,
+          0.3771191069207466,
+          0.1300726182695051,
+          0.38886926478412137
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "© 2003 Elsevier B.V. All rights reserved.",
+        "bbox": [
+          0.07170543778986516,
+          0.50145348848655,
+          0.3255813923780932,
+          0.5131448411642738
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_20",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_20",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "1. Introduction",
+        "bbox": [
+          0.07364341162485359,
+          0.5857558139613562,
+          0.1821705440340611,
+          0.5974702378940827
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_25",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.msec.2003.09.055.pdf_1_25",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2. Experimental",
+        "bbox": [
+          0.5135658928348861,
+          0.675843253960386,
+          0.6317829420100753,
+          0.6874999999921321
+        ],
+        "order": 26
+      }
+    ]
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_7",
+    "source": "visual_seed",
+    "member_count": 13,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The collected eluant was concentrated by rotary evap- orator to 1 ml. The extracts were finally passed through a final column filled with 5 g silica + 3 g Al2O3 to remove any co-extractive compounds that may cause instrumental inter- ferences during the analysis. The extract was eluted with 120 ml of DCM:n-hexane (1:1), the fi rst 18 ml of eluent was discarded and the rest were collected, which contains the ana- lytes of interest. The extract was exchanged into n-hexane, concentrated to 1 ml to which 1 –g/ml of internal standard was added.",
+        "bbox": [
+          0.08402231391421622,
+          0.08436587371019075,
+          0.48732942070245405,
+          0.23295054681172073
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 3 Recoveries and relative standard deviations (RSD, %) obtained from spiked sewage sludge samples (O.2 μg/ml) analysed by GC–EI-MS–MS, using three different extraction techniques",
+        "bbox": [
+          0.5242992388247092,
+          0.08436587371019075,
+          0.9309672381695157,
+          0.13347436736239132
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5242992388247092,
+          0.13473355950731955,
+          0.9326476844478,
+          0.3815352199132507
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The sulfur present in sewage sludges has to be removed before the GC-EI-MS and GC-EI-MS–MS determination to avoid any interference.",
+        "bbox": [
+          0.08234186763593189,
+          0.2807998483189931,
+          0.48732942070245405,
+          0.32361238124655256
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Copper bars (0.5 cm) were activated with 30% HC1 for 30 s and then cleaned with acetone, n-hexane and the dried bars was added to the extract. Bio-Beads were used to remove the co-extracted lipids and other higher molecular weight substances which may interfere with the determination. Furthermore, adsorption chromatography of large and small mixed silica and alumina columns allow the removal of lipids and other organic compounds from the sewage sludge extract.",
+        "bbox": [
+          0.08402231391421622,
+          0.326130765536409,
+          0.48732942070245405,
+          0.45960513289880034
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_8",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.1. Soxhlet extraction",
+        "bbox": [
+          0.5276601313812778,
+          0.39916390994224576,
+          0.6805807427051513,
+          0.4130150235364562
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Many agencies proposed that Soxhlet extraction is a method of choice for the extraction of nonpolar organic con- taminants [12]. Extraction recoveries and relative standard deviations are summarized in Table 3.",
+        "bbox": [
+          0.5259796851029935,
+          0.4306437135654513,
+          0.9292867918912313,
+          0.4885665522321494
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Recoveries are calculated from the increase in peak areas between the non-spiked and spiked chromatograms using the deuterated internal standard method. The extraction recover- ies were satisfactory, since they ranged from 65.0 to 91.8%. The relative standard deviations (RSDs, %) varied from 0.59 to 7.0% for the PAHs, the high value in RSD, could be explained due to the multi-step process such as spiking, extraction and evaporation.",
+        "bbox": [
+          0.5276601313812778,
+          0.48982574437707765,
+          0.9309672381695157,
+          0.6094489981452585
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Concern has been expressed over the transfer of toxic organics from the soil and into human food chain. Sewage sludge is a sink for contaminants present in municipal wastewater. There are four WWTPs in operation in Kuwait. All of these treatment plants receive domestic sewage in major quantities, such as 27,000 m2²/day for Reqqa, 70,000 m2/day for Jahra and 27,000 m2/day for Om Al- Haymann). Sewage sludge produces at Ardiya WWTP is disposed of, as liquid sludge without digestion to specific dis– posal sites. Riqqa and Om Al-Haymann are equipped with aerobic digesters and in Jahra thickened undigested sludge is only dried on sludge drying beds. So, the suitability for land application requires investigation since the likelihood for transfer of pollutants from wastewater to edible parts of the plants exists. Volatilization of organic matters, such as PAHs from sludge, due to the unique and extreme tem- perature in summer (∼55C) may have adverse effect on the environment. At these temperatures, PAHs are likely to volatilize along with other semi-volatile organic compounds and as potential source of chemicals to the environment. It is questionable, however, whether these chemicals are likely to deposit at such temperatures, but may remain in the vapor phase and subjected to long range atmospheric transport. The eventual fate of chemicals in sludge requires a detailed assessment and probably other disposal options needed to be evaluated particularly for Kuwait and other countries in the region that experience such uniquely high temperatures.",
+        "bbox": [
+          0.08402231391421622,
+          0.5225647401452114,
+          0.48732942070245405,
+          0.92676541866717
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Recoveries varied from 61.5 to 90.5% with a relative standard deviations varied from 1.7 to 22.7%. The results obtained are presented in Table 3. The Soxtec method appears to be more simple and efficient when compared to Soxhlet extraction.",
+        "bbox": [
+          0.5259796851029935,
+          0.6560391075076026,
+          0.9309672381695157,
+          0.7303314440583677
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PLE recoveries of sludge samples varied from 60.0 to 93.4% with a RSDs varying from 2.9 to 17.5%.",
+        "bbox": [
+          0.5259796851029935,
+          0.77818074556564,
+          0.9309672381695157,
+          0.8071421648989892
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Several papers have been successfully reported for the application of accelerated solvents extraction, such as for PAHs, OCPs, in environmental samples [13–17]. However, few papers have been published using ASE for determining PAHs in sewage sludge [13,15, 17].",
+        "bbox": [
+          0.5276601313812778,
+          0.8084013570439174,
+          0.9309672381695157,
+          0.8814345014497541
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The use of higher extraction temperature and the role of high pressure for PLE reported to give comparable or higher extraction efficiencies compared with other extrac-",
+        "bbox": [
+          0.5259796851029935,
+          0.8839528857396105,
+          0.9292867918912313,
+          0.92676541866717
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.9. Removal of sulfur and lipids",
+        "bbox": [
+          0.08570276019250053,
+          0.2505792368407158,
+          0.30752166892603133,
+          0.26443035043492624
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_4",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3. Results and discussion",
+        "bbox": [
+          0.08402231391421622,
+          0.49108493652200585,
+          0.2655105119689232,
+          0.5049360501162162
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_11",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_11",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.2. Soxtec extraction",
+        "bbox": [
+          0.5276601313812778,
+          0.6270776881742536,
+          0.6755394038702983,
+          0.6396696096235358
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_13",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.05.085.pdf_4_13",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.3. Pressurized liquid extraction",
+        "bbox": [
+          0.5276601313812778,
+          0.7467009419424345,
+          0.7545203789496616,
+          0.760552055536645
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

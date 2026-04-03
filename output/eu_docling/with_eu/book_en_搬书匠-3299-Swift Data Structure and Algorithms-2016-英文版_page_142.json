@@ -1,0 +1,367 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now let's review these concepts with the following tree example:",
+        "bbox": [
+          0.1037567121787495,
+          0.10901162813283642,
+          0.6636851497622164,
+          0.1279761902840035
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_26",
+    "source": "visual_seed",
+    "member_count": 22,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_26",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3119088436694855,
+          0.14367472990212216,
+          0.6866942872392371,
+          0.34460775662859605
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Root",
+        "bbox": [
+          0.48658318413385715,
+          0.158430232902311,
+          0.515205724059345,
+          0.16715116256280524
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.4973166369584048,
+          0.18604651163435298,
+          0.5062611803940104,
+          0.1962209298869648
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Edge",
+        "bbox": [
+          0.44543828318152234,
+          0.20930232568474064,
+          0.47584973214346266,
+          0.21947674393735256
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.4490161006650983,
+          0.24273255826104861,
+          0.4597495525549375,
+          0.2529069765136607
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Node",
+        "bbox": [
+          0.5706618964569754,
+          0.24418604673952027,
+          0.6028622544553681,
+          0.25290697640001475
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.3971377461993078,
+          0.29941860453448343,
+          0.41144901616205176,
+          0.31249999997133054
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11",
+        "bbox": [
+          0.4883720928647429,
+          0.299418604620271,
+          0.5044722718639393,
+          0.3110465114650004
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.5867620754253456,
+          0.29941860471616966,
+          0.5992844363516372,
+          0.3125000001530165
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Leaves",
+        "bbox": [
+          0.6296592984987625,
+          0.30075161994713845,
+          0.6726662839686691,
+          0.3097134961805572
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Root node: [2].",
+        "bbox": [
+          0.17352415602384078,
+          0.39236111093509163,
+          0.3220035757740125,
+          0.4099702379192185
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Nodes: [2, 8, 1, 7, 11, 5].",
+        "bbox": [
+          0.1735241595403309,
+          0.4156746032626128,
+          0.3953488334829247,
+          0.43313953431165697
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Leaves: [7, 11, 5].",
+        "bbox": [
+          0.17352415187138015,
+          0.4374999997238583,
+          0.33989266664382556,
+          0.4534883723449403
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Height: There are two edges between the root [2] and the furthest connected leaf (which could be [7], [11], or [5] with same distance from the root). So the height of the tree is 2.",
+        "bbox": [
+          0.17352413219713006,
+          0.4593023262157514,
+          0.8962432882496136,
+          0.5117724747408445
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_16",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Parent example: [8] is the parent of [7, 11].",
+        "bbox": [
+          0.17352415460931842,
+          0.5188492065530635,
+          0.5563506278593756,
+          0.5377906969761752
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_17",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Children example: [7, 11] are the children of [8]. [5] is the child of [1].",
+        "bbox": [
+          0.17352415796640067,
+          0.5406746032383881,
+          0.7853309506203613,
+          0.5581395342874325
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_18",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Subtrees: Starting in the root node [2], It has two subtrees: one is [8, 7, 11] and another one is [1, 5].",
+        "bbox": [
+          0.17173524908128093,
+          0.5625000002730981,
+          0.8568872959276638,
+          0.598958333791551
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Height of node [8]: 1.",
+        "bbox": [
+          0.1735241516297227,
+          0.6046511635371801,
+          0.37567083781571553,
+          0.6220930228581687
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Depth of node [5]: 2.",
+        "bbox": [
+          0.17352415879399283,
+          0.6264534889441568,
+          0.37030411088400345,
+          0.6438953482651455
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_21",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Level of root node: Depth + 1 = 0 + 1 = 1.",
+        "bbox": [
+          0.17173525389729877,
+          0.648255814307529,
+          0.5384615248594096,
+          0.6656976736285175
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "There are different types of tree data structures, each one with their own benefits and implementations. We are going to have a quick look over the most common ones so we can gain a good overview of the different types and choose which one to use in each case wisely.",
+        "bbox": [
+          0.10196781442799278,
+          0.7514534888472576,
+          0.8872987486847084,
+          0.8255813945587502
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "After the following introduction to the different types of trees, we will go deeper into the details, properties, uses, and implementations.",
+        "bbox": [
+          0.10375671806554379,
+          0.8415178571279223,
+          0.8676207211725296,
+          0.8779761903811132
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Tree data structure elements",
+        "bbox": [
+          0.4364937412735349,
+          0.36627906987245384,
+          0.5635062619017782,
+          0.37354651141388334
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_22",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_22",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Overview of different types of tree",
+        "bbox": [
+          0.10554563170524665,
+          0.7135416663902538,
+          0.7030411334365881,
+          0.7428075394061269
+        ],
+        "order": 24
+      }
+    ]
+  }
+]

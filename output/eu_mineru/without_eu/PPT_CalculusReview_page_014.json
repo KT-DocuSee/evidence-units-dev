@@ -1,0 +1,67 @@
+[
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_014_0",
+    "text": "Gradients",
+    "canon_role": "section_header",
+    "bbox": [
+      0.364,
+      0.08622222222222223,
+      0.6353333333333333,
+      0.16533333333333333
+    ],
+    "page": "PPT_CalculusReview_page_014",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_014_1",
+    "text": "del C (or grad C)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05733333333333333,
+      0.24177777777777779,
+      0.40066666666666667,
+      0.30577777777777776
+    ],
+    "page": "PPT_CalculusReview_page_014",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_014_2",
+    "text": "∂C ∂c ∇C =i +j ∂x ∂y",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22866666666666666,
+      0.37777777777777777,
+      0.706,
+      0.6008888888888889
+    ],
+    "page": "PPT_CalculusReview_page_014",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_014_3",
+    "text": "Diffusion (Fick's 1st Law):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056666666666666664,
+      0.6888888888888889,
+      0.536,
+      0.7537777777777778
+    ],
+    "page": "PPT_CalculusReview_page_014",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_014_4",
+    "text": "J = −DVC",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.30466666666666664,
+      0.8026666666666666,
+      0.6746666666666666,
+      0.9048888888888889
+    ],
+    "page": "PPT_CalculusReview_page_014",
+    "order": 5
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_0",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.0,
+      0.0005700441784238278,
+      1.0,
+      0.09747755451047456
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_1",
+    "text": "straight to the manufacturer's website can save you lots of time. Most components have a date code which used to be year and week (like 8634) but these days they can be cryptic batch codes.(In the old days, a TTL74-series logic IC made in 1974, with a 74xx date code (Figure 2) could be a puzzler!)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06932688432083838,
+      0.17443351859769132,
+      0.5022168480451431,
+      0.24568904090066981
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_13",
+    "text": "Older components such as carbon resistors are really not worth keeping, and older electrolytic capacitors will often be much larger, for their ratings, than modern types.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5215638855300282,
+      0.17443351859769132,
+      0.9536477226924627,
+      0.2171868319794784
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_14",
+    "text": "Many moder SMD ICs have very fine pitch leads orare ball-grid array (BGA) types which need specialized equipment to install and remove on boards. So if it's not something you can see a use for, junk it.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.520757758968158,
+      0.23200798061849792,
+      0.9536477226924627,
+      0.2741912498218612
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_2",
+    "text": "If you have a few components of one type, look for a code that's the same on all of them—that will be the part number, the other codes will be date— or batch codes of no interest.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06932688432083838,
+      0.2599401453612655,
+      0.5014107214832729,
+      0.30212341456462877
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_15",
+    "text": "If you think it might be something you can use, identify it to be sure before you go to the trouble of unsoldering it.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.520757758968158,
+      0.2890123984608807,
+      0.9528415961305925,
+      0.3169445632036483
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_3",
+    "text": "Values on passive components are either shown directly (like 47 pF) or as figures or resistor colour code in the form Digit1, Digit2, Multiplier (being the number of zeros) on the component. So SMD inductors often have the value marked in microhenries in this fashion, so 3R3 is 3.3 μH and 333 is 33 mH (33,000 μH). Capacitors may be marked in picofarads. A tantalum capacitor labelled 227is22×107pF=220μF. Some components may have five or six rings of colour code, but the Internet is a great help in decoding these.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06932688432083838,
+      0.3175146073820721,
+      0.5022168480451431,
+      0.43095339888841383
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_16",
+    "text": "Being able to identify and use components from old boards can well repay the time you spend doing it. You can get high-quality compo- nents and if you store them systematically, you can often avoid having to buy parts for a project. In addition, you can often use these skills when attempting repairs on circuit boards.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5215638855300282,
+      0.33119566766424396,
+      0.9536477226924627,
+      0.4030212341456463
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_17",
+    "text": "210024-01",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8996372430471584,
+      0.4053014108593416,
+      0.9536477226924627,
+      0.4161322502493943
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_18",
+    "text": "Contributors",
+    "canon_role": "section_header",
+    "bbox": [
+      0.532043530834341,
+      0.4452045033490096,
+      0.6392583635630794,
+      0.4583155194527576
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_4",
+    "text": "Most small MD capacitors are not marked at all, so use your compo- nent test skills and equipment to verify them.And get a magnifying glass or a USB microscope (which is what I used to take most of the photos for this article)– it makes it much easier to see the tiny writing on small components.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07013301088270858,
+      0.4457745475274334,
+      0.5022168480451431,
+      0.5158899814735642
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_19",
+    "text": "Idea, text & illustrations: David Ashton Editor: Clemens Valens Layout: Giel Dols, Harmen Heida",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5304312777106006,
+      0.4605956961664529,
+      0.781136638452237,
+      0.5027789653698161
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_20",
+    "text": "Questions or Comments?",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5328496573962112,
+      0.5301410859341599,
+      0.7424425634824667,
+      0.5443921903947556
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_5",
+    "text": "The internet has many resources to assist you - search for \"IC Manufac- turers logos\"or\"SMD codes\" if you need more information. And look up\"EIA-96\"to decode SMD resistors with what looks like a weird 2-number plus 1-letter code.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06852075775896815,
+      0.5312811742910075,
+      0.5022168480451431,
+      0.5877155479549665
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_21",
+    "text": "Do you have technical questions or comments about his article? Email the author at stn564@yahoo.com.au or contact Elektor at editor@elektor.com.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5304312777106006,
+      0.5466723671084509,
+      0.9407496977025392,
+      0.5882855921333904
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_6",
+    "text": "Consider the Context",
+    "canon_role": "section_header",
+    "bbox": [
+      0.0709391374445788,
+      0.6013966082371384,
+      0.2555421201128577,
+      0.6156477126977341
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_7",
+    "text": "If you're stripping parts of boards, or otherwise know where the compo- nent came from, that may give you a clue as to what the part is.A power supply is likely to have a switched-mode PWM IC, whereas an audio board is more likely to have op-amps.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06932688432083838,
+      0.6173578452330055,
+      0.5022168480451431,
+      0.6737922188969645
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_22",
+    "text": "RELATED PRODUCTS",
+    "canon_role": "section_header",
+    "bbox": [
+      0.6142684401451027,
+      0.6344591705857204,
+      0.8069326884320839,
+      0.6504204075815876
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_23",
+    "text": ">Andonstar AD407 HDMI Digital Microscope (SKU 19079) www.elektor.com/19079 Miniware DT71 Mini Digital Tweezers (SKU 19422) www.elektor.com/19422 >OWON OW16B Digital Multimeter with Bluetooth (SKU18780) www.elektor.com/18780",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5328496573962112,
+      0.6760723956106598,
+      0.9310761789600968,
+      0.7866609662248825
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 19
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_8",
+    "text": "Don't Expect to Identify Everything!",
+    "canon_role": "section_header",
+    "bbox": [
+      0.07174526400644901,
+      0.6869032350007126,
+      0.37968561064087064,
+      0.7017243836397321
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 20
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_9",
+    "text": "I have a bag of transistors labelled oV8F which have stubbornly refused to be identified. SMD components can be dificult or impossible to identify, as they often have shortened part numbers on them. Even with the considerable resources on the internet, they are not easy.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06932688432083838,
+      0.7028644719965798,
+      0.5030229746070133,
+      0.7592988456605387
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 21
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_10",
+    "text": "Be Selective",
+    "canon_role": "section_header",
+    "bbox": [
+      0.07013301088270858,
+      0.7724098617642867,
+      0.17896009673518742,
+      0.7866609662248825
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 22
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_11",
+    "text": "I mentioned the boards I got as a kid, with bent-over component leads. I religiously unsoldered all of them. These days I won't touch such components unless they are really special; it's not worth the effort.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06932688432083838,
+      0.7883710987601539,
+      0.5030229746070133,
+      0.8299843237850933
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 23
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_24",
+    "text": "WEBLINKS",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5562273276904474,
+      0.831124412141941,
+      0.6481257557436517,
+      0.8436653840672652
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 24
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_12",
+    "text": "Electrolytic capacitors should always be tested, especially large power supply types, and look for domes on the tops —a dead giveaway that they have gone dry or leaky.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06932688432083838,
+      0.8448054724241129,
+      0.5030229746070133,
+      0.8875587858059
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 25
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-21353024.pdf_39_25",
+    "text": "[1] Good datasheet site with lots of options: www.alldatasheet.com/",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5304312777106006,
+      0.8516460025651988,
+      0.8158000806126562,
+      0.8795781673079663
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-21353024.pdf_39",
+    "order": 26
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "办学条件保障",
+        "bbox": [
+          0.6418439716312057,
+          0.043914081145584725,
+          0.8058510638297872,
+          0.07000795544948289
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_2",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "续表",
+        "bbox": [
+          0.8173758865248227,
+          0.0954653937947494,
+          0.8546099290780141,
+          0.11010342084327765
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1099290780141844,
+          0.11455847255369929,
+          0.8900709219858156,
+          0.3284009546539379
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表74北京交通大学教育基金会公益事业支出情况表",
+        "bbox": [
+          0.30319148936170215,
+          0.39649960222752584,
+          0.6941489361702128,
+          0.4124105011933174
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "北京交通学教育基会全年出24822503.5元（见表74），其中业务活动成本 24485300.06元，管理费337203.44元。",
+        "bbox": [
+          0.10904255319148937,
+          0.34685759745425615,
+          0.8882978723404256,
+          0.3856801909307876
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1099290780141844,
+          0.4162291169451074,
+          0.8909574468085106,
+          0.9043754972155926
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

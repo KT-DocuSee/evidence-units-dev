@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3_0",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "a PDGF-BB 50 ng/ml B16/mocko B16/PDGF-BB clone clone PB1PDFE- PDGF-B5 ng/m 0.1 ng/m1 30.5 ng/ml b 107 PBS 70 MWx10-3 200- 1B. T 200- IB:PDGFRβ 104 0 2 6 8 Time (days) C →vehicle (n=7) d →vehicle (n=8) -ST1571(n=6) 言 —→ PTK71(7) PTK787(n=5) —-PTK787/STI571(n=7) --PTK787/ST1571(n=9) conn 100 100 0 0 0 2 4 6 8 1012 14 0 2 4 6 8 10 Time (days) Time (days) e MW×10-3 C Ven STk PTK S00 $200 250 - IB:pTyr 150 250 150 B:PDGFRB 11.3 0.6 0.2 1.4 0.9 0.1 0.6 0.1 0.1 Relative phosph. 1.15 0.40 1.15 0.35 0.10 Mean relative phosph.",
+        "bbox": [
+          0.20261437908496732,
+          0.0962962962962963,
+          0.7973856209150327,
+          0.5740740740740741
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3_1",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Results",
+        "bbox": [
+          0.09803921568627451,
+          0.8,
+          0.1437908496732026,
+          0.8111111111111111
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5098039215686274,
+          0.8,
+          0.9019607843137255,
+          0.9222222222222223
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3_2",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "In vitro characterization of a B16F 10 melanoma clone which produces PDGF-BB",
+        "bbox": [
+          0.09640522875816994,
+          0.8148148148148148,
+          0.4199346405228758,
+          0.837037037037037
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22999.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A B16 melanoma cell line producing PDGF-BB (B16/PDGF- BB) was previously established.26 This cell line was used to iso- late a clone with robust PDGF-BB production that was selected for further experiments. As shown in Figure la (left panels), con- ditioned medium from the selected B16/PDGF-BB clone, but not from a mock-transfected clone (B16/mock), induced strong PDGFRβ phosphorylation in porcine aortic endothelial cells transfected with the PDGFRβ (PAE/PDGFRβ), indicating pro- duction of a large amount of PDGF-BB. The amount of PDGF- BB released into the conditioned medium was estimated by incu- bating PAE/PDGFRβ cells with either conditioned medium or increasing amounts of PDGF-BB. After 2 days, the B16/PDGF- BB cells had released an amount of PDGF into the medium that was in excess of 0.5 ng/ml PDGF-BB (Fig. 1a, right panels). It should be noted that PDGF-BB sticks to both cells and plastic, so this amount is likely to represent underestimation of the produc- tion of PDGF-BB.",
+        "bbox": [
+          0.09803921568627451,
+          0.8407407407407408,
+          0.49019607843137253,
+          0.9234567901234568
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

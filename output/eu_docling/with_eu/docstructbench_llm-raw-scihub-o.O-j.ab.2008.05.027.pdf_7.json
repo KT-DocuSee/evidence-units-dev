@@ -1,0 +1,657 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_46",
+    "source": "visual_seed",
+    "member_count": 37,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_46",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5480420113763037,
+          0.08398236125504889,
+          0.9144363864589631,
+          0.42803113595698694
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A",
+        "bbox": [
+          0.149224806045978,
+          0.08866279027376123,
+          0.16666666662844068,
+          0.10465116289484346
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A",
+        "bbox": [
+          0.5503875967436523,
+          0.08866279027376123,
+          0.5678294573261149,
+          0.10465116289484346
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.19186046523207023,
+          0.09156976764068299,
+          0.20155038728730962,
+          0.10029069730117746
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.19186046523207023,
+          0.14244186047156224,
+          0.20155038728730962,
+          0.15261627872417413
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.1918604656430038,
+          0.16860465124796734,
+          0.20348837185699628,
+          0.17877906950057917
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "No V. cholerae",
+        "bbox": [
+          0.7790697691795307,
+          0.18452380937079302,
+          0.9031007755233116,
+          0.20348837152196014
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B",
+        "bbox": [
+          0.5503875967436523,
+          0.20930232575508206,
+          0.5678294573261149,
+          0.22383720883794117
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[CTB] (ng bound/well)",
+        "bbox": [
+          0.5755813871843719,
+          0.21366278663378308,
+          0.5988372172729924,
+          0.3633720945919923
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.604651162684909,
+          0.2136627907081753,
+          0.6201550384778818,
+          0.22674418614502231
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0",
+        "bbox": [
+          0.19186046536845594,
+          0.22093023269882262,
+          0.20348837158244845,
+          0.22965116235931687
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "150",
+        "bbox": [
+          0.38178294617254716,
+          0.2311046512910904,
+          0.4069767433900222,
+          0.24273255813581995
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "100",
+        "bbox": [
+          0.3158914729002221,
+          0.2311046514114847,
+          0.34496123969667725,
+          0.24127906966409662
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4-",
+        "bbox": [
+          0.6046511630313167,
+          0.23982558169993906,
+          0.635658914617262,
+          0.2587209296130453
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[CTB] (ng)",
+        "bbox": [
+          0.26739636083841495,
+          0.24406569031756087,
+          0.33531681858755463,
+          0.2588412858122399
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "03h",
+        "bbox": [
+          0.655038760110079,
+          0.257267442378023,
+          0.703488372278487,
+          0.2747093016990119
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B 121",
+        "bbox": [
+          0.1511627930586458,
+          0.2703373015771009,
+          0.2112403089180983,
+          0.2849702380850374
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "05h|",
+        "bbox": [
+          0.6550387598167129,
+          0.27906976812293594,
+          0.707364341564101,
+          0.29651162744392456
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2-",
+        "bbox": [
+          0.6065891476821987,
+          0.30523255767565083,
+          0.635658914478654,
+          0.32122093029673293
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4 -",
+        "bbox": [
+          0.19186046508800983,
+          0.3546511629895203,
+          0.20736434088098246,
+          0.3633720926500147
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Calcu",
+        "bbox": [
+          0.17054263455138427,
+          0.3590116276009437,
+          0.18410852807781478,
+          0.38517441847463774
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0",
+        "bbox": [
+          0.6065891474246153,
+          0.3691860463368091,
+          0.6201550384280979,
+          0.3822674417736559
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2-",
+        "bbox": [
+          0.1899224803919082,
+          0.37499999992065863,
+          0.2073643409743709,
+          0.38662790676538794
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "No VC",
+        "bbox": [
+          0.6509493448064209,
+          0.38874086918698525,
+          0.7424615101787547,
+          0.4048637817906966
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.01",
+        "bbox": [
+          0.8352713189224669,
+          0.38953488396729136,
+          0.8740310071434244,
+          0.40406976705015046
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.001",
+        "bbox": [
+          0.7441333670604435,
+          0.390881004759789,
+          0.796564307113263,
+          0.4056306235095591
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0",
+        "bbox": [
+          0.19186046542586865,
+          0.39680232601277604,
+          0.20155038748110804,
+          0.4055232556732704
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10000",
+        "bbox": [
+          0.31185708446636007,
+          0.4065626429369465,
+          0.35093361205683415,
+          0.41611177535217286
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5000",
+        "bbox": [
+          0.2558139539744692,
+          0.4069767444139388,
+          0.2868217055604145,
+          0.41569767407443314
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15000",
+        "bbox": [
+          0.3779069772813593,
+          0.4069767445447528,
+          0.41472868071282676,
+          0.41569767420524717
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "V. cholerae (dilution)",
+        "bbox": [
+          0.6744186017335125,
+          0.4126984122304946,
+          0.8565891467160998,
+          0.4288194439765263
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_27",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 5. Detection of CTB in cocultures of V. cholerae and epithelial cells. (A) Fluorescence images of Caco-2 monolayers postincubation (5 h) either with a 1:100 dilution of V. cholerae (from an initial ODs0o = 1.0, a 0.01 dilution) or with medium only (no V. cholerae). Cells were washed and probed with BEGs before imaging (40× magnification). (B) Bound CTB was quantified following lysis of bound BEGs in experiments using either 1:100 and 1:1000 dilutions of V. cholerae or medium only as a control (no VC). Cocultures ran for the time indicated, and the amount of CB bound was calculated from a standard curve on Caco-2 cells. Error bars were calculated as a percentage for each sample from the fluorescence measurements of triplicate experiments.",
+        "bbox": [
+          0.5213178273697338,
+          0.4418604653296365,
+          0.9476744125677955,
+          0.5479651161757245
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 4. Estimation of CTB bound per well. (A) Western blots of known amounts of CTB (ng) were scanned and analyzed for blot density (pixels). Blot density versus CTB amounts were plotted to obtain a logarithmic correlation (inset). (B) The amounts of CTB bound to cells were then calculated from Western blots (using the equation from the panel A inset) and compared with fluorescence data from gangliosome analysis of epithelia exposed to the same amounts of CTB. This equation was thereafter used to estimate the amount of CTB bound to epithelia based on gangliosome fluorescence (Fig. 5). Data points represent averages of at least triplicate experiments. Error bars in panel A represent 1 standard deviation of triplicate experiments. RFU, relative fluorescence units.",
+        "bbox": [
+          0.069767450350061,
+          0.44618055538033635,
+          0.4961240408845658,
+          0.5523313490049936
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "specifically for V. cholerae growth and CT production, and it contains a higher salt concentration than does AKI medium [61]. After washing away the V. cholerae, we treated the Caco-2 cells with gangliosomes (BEGs) and viewed them under a fluorescence microscope (Fig. 5A) before lysing and measuring fluorescence in a microtiter plate reader (Fig. 5B.). We also estimated the amount of CTB bound to each well by Western blot and correlated that estimate with the fluorescence for that well.",
+        "bbox": [
+          0.5213178369346767,
+          0.5711805556478995,
+          0.9476744111273387,
+          0.6744186044569747
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "parisons are warranted using more sensitive Western blot substrates, but under the conditions used here, the gangliosome method compared favorably in terms of sensitivity toward CTB concentrations introduced to Caco-2 cells. However, the greater strength of the gangliosome method lies in the ability to determine the relative degree of CTB binding simultaneously in 96 wells with high reproducibility and with comparatively minimal processing and time to results. In addition, this approach permits visualization of bound CTB under a fluorescence microscope.",
+        "bbox": [
+          0.0697674404720231,
+          0.5843023256665719,
+          0.4941860563884417,
+          0.699156746011966
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We found that BEGs were well suited to detecting V. choleraesecreted CTB bound on the outside of epithelial cells. The background fluorescence was minimal, and we were able to clearly detect a difference between cells incubated with V. cholerae and those incubated with medium alone for the same amount of time (Fig. 5A). Furthermore, we were able to quantify the relative degree of CTB binding to the outside of the Caco-2 cells and to track the change in surface-bound CTB throughout the course of the culture (Fig. 5B). As we expected, the amount of CTB bound to the epithelial cells increased over time as the cholera cell density increased (as determined by visual inspection under an ordinary fluorescence microscope). The 1:1000 dilution of V. cholerae did not make enough to be detected when bound to Caco-2 cells after 3 h, whereas the Caco-2 cells incubated with 10-fold more V. cholerae exhibited CTB binding that correlated to nearly 1 ng/well (Fig. 5B). Both cultures increased in bound CTB levels after 5 h. Although we have observed this phenomenon consistently in pure cultures of V. cholerae, this is the first time it was recorded in cocultures of epithelial cells. This result was encouraging given that one of our goals is to develop a culture-based model of V. cholerae colonization of epithelial cells.",
+        "bbox": [
+          0.5213178310979958,
+          0.675843253853797,
+          0.9476744169063549,
+          0.9534883723005456
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As part of our efforts to develop a cell culture model of V. cholerae infection, we required methods for assaying the relative amounts of CTB being produced by V. cholerae when incubated with human epithelial cells and the relative amounts bound to the latter in the same system. We previously reported on a gangliosome-based microtiter plate assay for the quantification of CTB expressed in cell culture medium supernatants [35]. The method reported here allows for detection and quantification of the relative amounts of the CTB subunit of CT bound to epithelial cells. Due to safety and regulatory considerations, the method was optimized using just the CTB subunit as an analyte. However, we would anticipate improved performance with CT given that GM1 has been reported to have a 100-fold increased avidity for the whole toxin versus CTB [13]. We incubated Caco-2 cells with various dilutions of V. cholerae grown in AKFD supplemented with 10% heat-inactivated FBS for 3 to 5 h. AKFD medium was developed",
+        "bbox": [
+          0.06976744933777743,
+          0.74127906974624,
+          0.49612402353043955,
+          0.950644841261173
+        ],
+        "order": 47
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_45",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_45",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.15003434980362473,
+          0.0892170047543757,
+          0.41386164488786653,
+          0.4329626658606151
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Blot Size (pixels/10000)",
+        "bbox": [
+          0.16269645265301796,
+          0.11170811912832468,
+          0.18433033754717204,
+          0.21966496757560958
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4-",
+        "bbox": [
+          0.18798449560241812,
+          0.11482558153269845,
+          0.20930232576386096,
+          0.12936046461555756
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_31",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1:100 Dilution",
+        "bbox": [
+          0.6181483898985761,
+          0.1857415735861308,
+          0.730688821652875,
+          0.20088633328654265
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "y = 1.0518Ln(x) - 0.5885",
+        "bbox": [
+          0.24418604706058386,
+          0.1860119046462261,
+          0.3875968962533697,
+          0.20064484115416262
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R' = 0.985",
+        "bbox": [
+          0.2789430773032516,
+          0.19880792657224114,
+          0.3431499474478888,
+          0.21398277100752425
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fluorescence (RFU)",
+        "bbox": [
+          0.2441860496413052,
+          0.42286706344250263,
+          0.3662790686726481,
+          0.4331395346471392
+        ],
+        "order": 40
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_25",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ab.2008.05.027.pdf_7_25",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Detection of CTB in cocultures with V. cholerae and Caco-2 cells",
+        "bbox": [
+          0.07170542962773682,
+          0.7150297620851157,
+          0.4651162889123143,
+          0.7252906974257246
+        ],
+        "order": 46
+      }
+    ]
+  }
+]

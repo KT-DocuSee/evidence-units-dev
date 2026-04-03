@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_1",
+    "text": "It follows from the definition of Sn, and induction on n, that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954967880485,
+      0.06820436511953609,
+      0.4906015054724391,
+      0.09447674393735249
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_5",
+    "text": "and Sv = SoU{N+ a: a € Sot, as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706885873815,
+      0.06969246022945051,
+      0.8383458597678813,
+      0.08139534877120189
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_6",
+    "text": "B-6 For each point P in B, let Sp be the set of points with all coordinates equal to 1 which differ from P in exactly one coordinate. Since there are more than 20+1/n points in B, and each Sp has n elements, the cardinalities of the sets Sp add up to more than 2\"+1, which is to say, more than twice the total number of points. By the pigeonhole principle, there must be a point in three of the sets, say Sp, Se, SR. But then any two of P, Q, R differ in exactly two coordinates, so PQR is an equilateral triangle, as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360939849623,
+      0.09300595222893651,
+      0.9210526173471504,
+      0.2369186042947893
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.172932331156015,
+      0.12645348850450805,
+      0.4060150363778276,
+      0.17151162798631825
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_3",
+    "text": "From the identity (x+y) = 12+82 (mod 2) and induction on n, we have (x + y) '\" = 12\" +y'\" (mod 2). Hence if we choose N to be a power of 2 greater than max {So}, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984972023006,
+      0.18168604705462196,
+      0.49073950573497493,
+      0.24280753959019566
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_4",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.21616541429346653,
+      0.27034883715903063,
+      0.3458646618290252,
+      0.28197674407158946
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "order": 7
+  }
+]

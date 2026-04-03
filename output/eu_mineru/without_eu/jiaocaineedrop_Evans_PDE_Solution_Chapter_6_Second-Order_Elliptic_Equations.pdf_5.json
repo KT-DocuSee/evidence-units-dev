@@ -1,0 +1,132 @@
+[
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_0",
+    "text": "10. Proof. We omit (a) since is standard. For (b), if u attains an interior maximum, then the conclusion follows from strong maximum principle.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07335751713018944,
+      0.06726521305401169,
+      0.9222087867795243,
+      0.11229870314949408
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_1",
+    "text": "If not, then for some x0 ∈ ∂U, u(x0) > u(x) ∀x ∈ U. Then Hopf's lemma implies ∂u(x0) > 0, which is a contradiction. □",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10157194679564692,
+      0.11856918911215619,
+      0.9214026602176542,
+      0.1636026792076386
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_2",
+    "text": "Remark 2. A generalization of this problem to mixed boundary conditions is recorded in Gilbarg-Trudinger, Elliptic PDEs of second order, Problem 3.1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10560257960499798,
+      0.17500356277611515,
+      0.9197904070939138,
+      0.22060709705002138
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_3",
+    "text": "11. Proof. Define",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07174526400644901,
+      0.2377084224027362,
+      0.22732769044740025,
+      0.2553797919338749
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_4",
+    "text": "By Exercise 5.17, φ(u) ∈ H1(U). Then, for allv ∈ C∞(U), v ≥ 0,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10640870616686819,
+      0.3009833262077811,
+      0.675534058847239,
+      0.32207496080946274
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_5",
+    "text": "(We don't know whether the product of two H1 functions is weakly diferentiable. This is why we do not take v ∈ H1.) Now we complete the proof with the standard density argument.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10318419991938735,
+      0.5079093629756306,
+      0.9197904070939138,
+      0.5540829414279607
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_6",
+    "text": "12. Proof. Given u ∈ C2(U) ∩ C(U) with Lu ≤ 0 in U and u ≤ 0 on ∂U. Since U is compact and v ∈ C(U), v ≥ c > 0. So w := u ∈ C2(U) ∩ C(U). Brutal computation gives us",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07416364369205965,
+      0.569474134245404,
+      0.920596533655784,
+      0.6162177568761579
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_7",
+    "text": "Therefore,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10560257960499798,
+      0.7439076528430953,
+      0.19830713422007254,
+      0.7610089781958101
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_8",
+    "text": "If {x ∈ U : u > 0} is not empty, Weak maximum principle to the operator M with bounded coeficeints (since v ∈ C1 (U)) will lead a contradiction that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10479645304312778,
+      0.818013396038193,
+      0.9181781539701733,
+      0.8630468861336753
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_9",
+    "text": "Hence u ≤ 0 in U.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10640870616686819,
+      0.9194812597976343,
+      0.2668278919790407,
+      0.937152629328773
+    ],
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "order": 10
+  }
+]

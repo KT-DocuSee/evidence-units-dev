@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5",
+    "primary_id": "docling_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Where did Amy go on vacation?",
+        "bbox": [
+          0.1075581422058489,
+          0.10077519472873352,
+          0.8953488342476398,
+          0.1763565889041065
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_2",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.027427852630615233,
+          0.22475390625,
+          0.5465900268554688,
+          0.6774698893229166
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5",
+    "primary_id": "docling_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5460119018554688,
+          0.2035753173828125,
+          0.9708827514648437,
+          0.7270896809895834
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "London Eye",
+        "bbox": [
+          0.31783934475909786,
+          0.7337629675455724,
+          0.688392346284008,
+          0.8219518453577107
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

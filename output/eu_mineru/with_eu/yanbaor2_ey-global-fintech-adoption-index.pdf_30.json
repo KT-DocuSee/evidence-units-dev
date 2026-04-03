@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_ey-global-fintech-adoption-index.pdf_30",
+    "primary_id": "mineru_yanbaor2_ey-global-fintech-adoption-index.pdf_30_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_ey-global-fintech-adoption-index.pdf_30_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "FIGURE 18 | List of SME FinTech services",
+        "bbox": [
+          0.05562273276904474,
+          0.34316659541114436,
+          0.3619508262797259,
+          0.35798774405016387
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaor2_ey-global-fintech-adoption-index.pdf_30",
+    "primary_id": "mineru_yanbaor2_ey-global-fintech-adoption-index.pdf_30_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_ey-global-fintech-adoption-index.pdf_30_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.054816606207174524,
+          0.37565911358130255,
+          0.9439742039500202,
+          0.599686475701867
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

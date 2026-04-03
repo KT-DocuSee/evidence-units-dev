@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9",
+    "primary_id": "mineru_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_3",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "较严厉的行政处罚情况分析",
+        "bbox": [
+          0.14080091207068549,
+          0.07335751713018944,
+          0.48795781673079663,
+          0.12172511084240226
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.3",
+        "bbox": [
+          0.0490237993444492,
+          0.07900040306328093,
+          0.11343879150634174,
+          0.13220475614671504
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "2023年三季度融监管总局及其派出机构开出的1,452张罚单中，除罚款、警告外，其他的有代表性处罚情况列如下：",
+        "bbox": [
+          0.03876300413282029,
+          0.16928657799274485,
+          0.7798204360837965,
+          0.19911326078194277
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaor2_4862cd850679e945a98c54c8d4c37be0154b5790d2c32da35d0f5ca0be413693.pdf_9_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.027362120564343735,
+          0.2249093107617896,
+          0.9781958101752886,
+          0.9044740024183797
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

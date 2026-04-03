@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_2460",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_2460_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_2460_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "奇点分类（Ⅲ)",
+        "bbox": [
+          0.17133333333333334,
+          0.08088888888888889,
+          0.5726666666666667,
+          0.17155555555555554
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_2460",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_2460_3",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_2460_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "数学建模",
+        "bbox": [
+          0.7766666666666666,
+          0.14044444444444446,
+          0.94,
+          0.19733333333333333
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_2460_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "∆=0A, 有两个相同的特征值 2",
+        "bbox": [
+          0.094,
+          0.2391111111111111,
+          0.6746666666666666,
+          0.37333333333333335
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_2460_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.684,
+          0.4488888888888889,
+          0.982,
+          0.6951111111111111
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

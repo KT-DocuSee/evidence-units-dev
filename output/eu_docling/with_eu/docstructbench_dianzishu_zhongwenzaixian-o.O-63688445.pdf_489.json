@@ -1,0 +1,159 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_9",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(Securit AssoCiat XHDN1321754751 (Security Parameter Index, SPI) * В (В, А) НІЖКИАСАТ РЕНСАЛИ ЦЕ ДОЛИ ЛЕЖИ",
+        "bbox": [
+          0.12578616057548883,
+          0.17435515871402285,
+          0.8784067041503232,
+          0.2966269841411187
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Am (Security Policy ISe",
+        "bbox": [
+          0.1656184432011794,
+          0.3211805559241519,
+          0.8784067021517208,
+          0.3373015876701837
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "F-T*R* | 112421KJ",
+        "bbox": [
+          0.24047000144316394,
+          0.6683954356239956,
+          0.7671465510323476,
+          0.7462220975737488
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ДИШЕВ МКАДАЙ МО ПОТИСКАМОШІ ЛЕНТ SHA HEULLEHRES, SHA ME SEE AAR",
+        "bbox": [
+          0.1257861734775551,
+          0.8066860471311406,
+          0.882599568940361,
+          0.8881448414728167
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_2",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2. АН",
+        "bbox": [
+          0.16352201389449939,
+          0.4141865082528104,
+          0.22641509428160117,
+          0.43030753999884197
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Іс 16-3",
+        "bbox": [
+          0.2440050150128189,
+          0.5043604657464823,
+          0.8784067009637405,
+          0.5421626988824176
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_4",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "1 16-3 ДАНКИ ДИСНАТВ",
+        "bbox": [
+          0.3417190825550423,
+          0.5900297619731021,
+          0.6645702212604714,
+          0.6046626984810386
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_8",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "1P% | AH*",
+        "bbox": [
+          0.293384367460601,
+          0.5568518100034435,
+          0.7138253648680831,
+          0.5773717846971131
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_5",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "1 16-4",
+        "bbox": [
+          0.4213836484168036,
+          0.7586805555628419,
+          0.5849056574232683,
+          0.7733134920707783
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

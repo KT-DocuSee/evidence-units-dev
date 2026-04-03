@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1120",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_1120_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1120_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Presentation",
+        "bbox": [
+          0.134,
+          0.03288888888888889,
+          0.32266666666666666,
+          0.08
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1120",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_1120_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1120_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Listen and say",
+        "bbox": [
+          0.358,
+          0.06933333333333333,
+          0.7486666666666667,
+          0.14755555555555555
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1120_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "How many teachers are there in the man's school?",
+        "bbox": [
+          0.04733333333333333,
+          0.19822222222222222,
+          0.8953333333333333,
+          0.3546666666666667
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1120_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "There are fifty teachers in his school.",
+        "bbox": [
+          0.048666666666666664,
+          0.46044444444444443,
+          0.632,
+          0.6168888888888889
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1120",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_1120_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1120_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5126666666666667,
+          0.5466666666666666,
+          0.998,
+          0.9377777777777778
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

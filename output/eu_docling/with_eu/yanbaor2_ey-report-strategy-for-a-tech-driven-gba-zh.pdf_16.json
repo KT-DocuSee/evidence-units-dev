@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16",
+    "primary_id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_8",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3289315185546875,
+          0.3589995507001327,
+          0.55901025390625,
+          0.7354709289015632
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "RAAK",
+        "bbox": [
+          0.5449941715204041,
+          0.4576608286835273,
+          0.6164314060437074,
+          0.4725717290871102
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1118",
+        "bbox": [
+          0.09224318617199243,
+          0.5188953488658787,
+          0.12788259927874135,
+          0.5319767443027258
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "S",
+        "bbox": [
+          0.4800838575040819,
+          0.5886627908010197,
+          0.49685534618564564,
+          0.5988372090536317
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "MS/META",
+        "bbox": [
+          0.5932914082474774,
+          0.7049418603363246,
+          0.7023060778461634,
+          0.7180232557731716
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ATHAN",
+        "bbox": [
+          0.08589455963063898,
+          0.7076666105866337,
+          0.17825638145834985,
+          0.7225659476891302
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16",
+    "primary_id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_0",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "717AN 52 5",
+        "bbox": [
+          0.09224318719345007,
+          0.4766865080288519,
+          0.21174004370801736,
+          0.48983134929869315
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaor2_ey-report-strategy-for-a-tech-driven-gba-zh.pdf_16_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "# 72457E",
+        "bbox": [
+          0.09224318837454402,
+          0.5043604649995997,
+          0.16142557611182912,
+          0.5174418604364467
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

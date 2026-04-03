@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_lecture1_page_009",
+    "primary_id": "mineru_PPT_lecture1_page_009_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_lecture1_page_009_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Changing the coefficient of x2 from 2 to 1.",
+        "bbox": [
+          0.07299087614048244,
+          0.3191111111111111,
+          0.6059242594675666,
+          0.37955555555555553
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_lecture1_page_009_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "• The purpose of this step is to simplify the calculation in the next steps. • To do it, we multiply the 2nd equation by ½2.",
+        "bbox": [
+          0.07049118860142482,
+          0.3937777777777778,
+          0.8968878890138733,
+          0.5857777777777777
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

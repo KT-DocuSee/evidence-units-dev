@@ -1,0 +1,208 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2",
+    "primary_id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_9",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ПЛіТ#",
+        "bbox": [
+          0.782281230349995,
+          0.0477821265605922,
+          0.8973902286098511,
+          0.06704345456146318
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "і Уін :",
+        "bbox": [
+          0.1497885977933426,
+          0.15088674885676867,
+          0.23424636174342833,
+          0.1677479340517227
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "#Л НА*КОЛЛА, ЛИЖАМИТ СіЕН* 20%1 | 10% | ** Н#**61ЛА, ми%-сіЕН& 5%",
+        "bbox": [
+          0.12009463143031571,
+          0.1680786341568913,
+          0.8690375220818848,
+          0.25206653192136064
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "роВІДк ні ВлА ТНТ",
+        "bbox": [
+          0.1129363375579955,
+          0.28769841252561595,
+          0.8583162416001151,
+          0.3197674414445303
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ВіТі (223834000) , ПЛіНТАРДАНКРЕЛНАВі РТНІТТТ",
+        "bbox": [
+          0.11293634069063424,
+          0.3531746032831145,
+          0.8521560597200436,
+          0.4011627905239877
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТГТЦА А Т, ДЛИВ ТИ ТОНТ іТАЛіШла",
+        "bbox": [
+          0.11293635802840055,
+          0.5334302329394675,
+          0.8562628206163634,
+          0.6133720926211638
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2",
+    "primary_id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_11",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7830029710172309,
+          0.04904576334600624,
+          0.896797890530532,
+          0.07329521815253914
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2",
+    "primary_id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "GUOYUAN SECURITIES",
+        "bbox": [
+          0.7823408612328467,
+          0.06540697712711718,
+          0.8952772048178036,
+          0.0741567459746281
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2",
+    "primary_id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "GUOYUAN SECURITIES CO.,LT D.",
+        "bbox": [
+          0.15811088472502838,
+          0.12202380970416336,
+          0.3470225902236368,
+          0.13081395312966584
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2",
+    "primary_id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_10",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "****",
+        "bbox": [
+          0.11288047046009266,
+          0.630674697783453,
+          0.18486080104635888,
+          0.6454880925570269
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "www. gyzq. com. cn",
+        "bbox": [
+          0.393758767421193,
+          0.6976686508466557,
+          0.5071868431393705,
+          0.710813492116497
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_eastmoney_f72b162baf25f1a2060e4ce877071ec27e490ab16e9de1a2b18572b596d2bde8.pdf_2_10",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "A le | 16 | AME TIEN | AME TIEN | thp vẩn : | 230000 | thp VẢn : 200135 | 1 # : | (0551) 62207952 | (021) 68869125 | *it: (021) 51097188",
+        "bbox": [
+          0.1136941598433249,
+          0.7265277942463393,
+          0.8708467310544513,
+          0.827201826952624
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

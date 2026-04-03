@@ -1,0 +1,223 @@
+[
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_0",
+    "text": "7.3 Linear Systems of Equations. Gauss Elimination",
+    "canon_role": "section_header",
+    "bbox": [
+      0.3208333620541137,
+      0.022156084378306788,
+      0.9541666590569967,
+      0.06117724839947095
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_1",
+    "text": "At the end of the Gauss elimination (before the back substitution), the row echelon form of the augmented matrix will be",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05087209467435028,
+      0.11434108540344505,
+      0.8401162722418254,
+      0.25968992270831237
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_18",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.05029043579101562,
+      0.27129536946614585,
+      0.6401035766601563,
+      0.73053125
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_2",
+    "text": "К11",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20348837228804345,
+      0.2906976748131674,
+      0.24273255859858453,
+      0.33527131740259514
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_5",
+    "text": "KIn",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5101744189954711,
+      0.2906976749100665,
+      0.5465116281217771,
+      0.33527131749949424
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_3",
+    "text": "• •",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3168604667816297,
+      0.2945736435939854,
+      0.3619186036762191,
+      0.31395348770446435
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_7",
+    "text": "12n",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5101744184746377,
+      0.35658914627820293,
+      0.5465116276009436,
+      0.3992248066010886
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_4",
+    "text": "122",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2659883729404493,
+      0.3565891479747504,
+      0.3095930231351321,
+      0.397286820985198
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_6",
+    "text": "...",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4505813962220996,
+      0.36240310117946023,
+      0.4811046509799353,
+      0.3759689921829427
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_8",
+    "text": "(9)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.04941860540515031,
+      0.38178294646552985,
+      0.09302325559983307,
+      0.42635658905495755
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_9",
+    "text": ":",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5959302325369377,
+      0.4166666671298313,
+      0.607558139381667,
+      0.4554263553507889
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_10",
+    "text": "...",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.45058139550241216,
+      0.4980620158134656,
+      0.4796511616681303,
+      0.5077519378687051
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_11",
+    "text": "rn",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5203488375738752,
+      0.5116279073246055,
+      0.5436046512633341,
+      0.5310077514350843
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_12",
+    "text": "fr+1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5755813951990437,
+      0.5503875978514312,
+      0.6249999997621967,
+      0.6007751922863812
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_13",
+    "text": "f",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5843023260071097,
+      0.6802325581788004,
+      0.603197673920216,
+      0.7248062007682282
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_14",
+    "text": "m",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5973837215497453,
+      0.7112403104383006,
+      0.6162790694628515,
+      0.7306201545487795
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_053_15",
+    "text": "Here, and all entries in the blue triangle and blue rectangle are zero.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.050872108018203625,
+      0.7558139536420558,
+      0.918604625321186,
+      0.8498622562323628
+    ],
+    "page": "PPT_ch7_page_053",
+    "order": 17
+  }
+]

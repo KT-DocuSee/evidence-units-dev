@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_04_09_page_018",
+    "primary_id": "mineru_PPT_StewartCalcET7e_04_09_page_018_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_04_09_page_018_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note that v(0) = C. But we are given that v(0) = −6, so C = -6 and",
+        "bbox": [
+          0.05533333333333333,
+          0.22044444444444444,
+          0.8566666666666667,
+          0.3244444444444444
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_04_09_page_018",
+    "primary_id": "mineru_PPT_StewartCalcET7e_04_09_page_018_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_04_09_page_018_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since v(t) = s'(t), s is the antiderivative of v:",
+        "bbox": [
+          0.058666666666666666,
+          0.4746666666666667,
+          0.7026666666666667,
+          0.5297777777777778
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_04_09_page_018",
+    "primary_id": "mineru_PPT_StewartCalcET7e_04_09_page_018_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_04_09_page_018_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This gives s(0) = D. We are given that s(0) = 9, so D = 9 and the required position function is",
+        "bbox": [
+          0.056,
+          0.7511111111111111,
+          0.8913333333333333,
+          0.8586666666666667
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_985",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_985_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_985_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9、北京天坛的回音壁应用的声学原 理是：(A）",
+        "bbox": [
+          0.084,
+          0.17066666666666666,
+          0.8906666666666667,
+          0.36
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_985_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A、声音的反射； B、声音在不同介质里传播速度不 同； C回声增强原声； D声音的传播速度随温度而改变．",
+        "bbox": [
+          0.08466666666666667,
+          0.368,
+          0.8486666666666667,
+          0.832
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

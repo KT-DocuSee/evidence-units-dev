@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-Screen%20Printing%20Booklet.pdf_8",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-Screen%20Printing%20Booklet.pdf_8_0",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-Screen%20Printing%20Booklet.pdf_8_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Making your Screen",
+        "bbox": [
+          0.28104575163398693,
+          0.1717171717171717,
+          0.6797385620915033,
+          0.20707070707070707
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-Screen%20Printing%20Booklet.pdf_8_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is very easy to build your own screen. Use 2\" x 2\" pieces of wood for your frame. You can angle them together or square them together. Use wood glue and steel angle from a hardware store, this will help keep the frame strong. Frame size is 19 1/2\" x 23 1/2\".",
+        "bbox": [
+          0.11274509803921569,
+          0.22853535353535354,
+          0.8562091503267973,
+          0.30176767676767674
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-Screen%20Printing%20Booklet.pdf_8_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now you must purchase screen material from a art supply store or from a screen printing supply company or buy some from a screen printing shop. Most shops are very helpful.'( Some sign painting companies also screen print, Check your yellw page phone book. ) tell them you want to buy a fine screen mesh yellow or white. But not to fine a mesh, but not to course either. Now place your frame down flat on a table and place your screen mesh over top of if. cut your screen mesh leaving about 4\" hanging from all around the frame. Now using a staple gun, sfart stapling oně end only, now go to the opposite end and staple that while griping the screen mesh in your right hand and stapling with the other hand. YOU MUST STRETCH THE MATERIAL TIGHT STARTING FROM THE CENTER and working your way outward.",
+        "bbox": [
+          0.1111111111111111,
+          0.3181818181818182,
+          0.8709150326797386,
+          0.5315656565656566
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-Screen%20Printing%20Booklet.pdf_8_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "2nd —-—-- . 1st 一 2nd ----- 1 st Stretch Screen and staple down to wood frame. Then trim up screen mesh all the way to the outside frame. Screen should be tight enough to bounce a penny on it.",
+        "bbox": [
+          0.14869281045751634,
+          0.5795454545454546,
+          0.8954248366013072,
+          0.8244949494949495
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-Screen%20Printing%20Booklet.pdf_8_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.16830065359477125,
+          0.8358585858585859,
+          0.8366013071895425,
+          0.9027777777777778
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

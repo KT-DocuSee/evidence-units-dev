@@ -1,0 +1,561 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_28",
+    "text": "QDs can be designed with much higher prescribed diffusion coefficients by adjusting their hydrodynamic radius through modification of their surface layer. Dots of different diffusion coefficients can be identified by their emission color, as the emission spectrum can be separately controlled through the size of the core. A mixture of different color dots and different hydrodynamic radii (i.e. different diffusivity) can be used to minimize the possibility of misidentification of QD image pairs.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5075877784775482,
+      0.058035714343943334,
+      0.9214559342456303,
+      0.1889880951740892
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_9",
+    "text": "25 г",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.30842911926688904,
+      0.06101190475857117,
+      0.32758620688253626,
+      0.06976744153809604
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_3",
+    "text": "25",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09961685845778129,
+      0.061046511732918925,
+      0.11302682003838731,
+      0.06831395327434853
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_43",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.08250960796007732,
+      0.0617102859546044,
+      0.4895609943922981,
+      0.18926955777972404
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_7",
+    "text": "Umean = 18.4 um/s",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2030651330330461,
+      0.066860465122725,
+      0.2777777764816411,
+      0.07713293632736162
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_12",
+    "text": "mean = -0.18 um/s",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4137124378331269,
+      0.06796265394598182,
+      0.4885864120190904,
+      0.07883967140993844
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_8",
+    "text": "Urms = 10.5 um/s",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20298662243990756,
+      0.07961839466614853,
+      0.27402487358775196,
+      0.09043974423020129
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_13",
+    "text": "Vrms = 8.7 um/s",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.41187739633375947,
+      0.08134920651633663,
+      0.477011494726266,
+      0.09011627868683635
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_4",
+    "text": "20",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09961685854350286,
+      0.08139534901422966,
+      0.11111111061358525,
+      0.09011627867472394
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_10",
+    "text": "20",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.30842911899417974,
+      0.0813953490505668,
+      0.3218390805747858,
+      0.09011627871106108
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_2",
+    "text": "% of samples",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0823754755362563,
+      0.09447674361231881,
+      0.0938697344717952,
+      0.14389534817547195
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_11",
+    "text": "15",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3103448278921619,
+      0.10174418622353186,
+      0.3218390799622443,
+      0.11046511588402634
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_5",
+    "text": "15",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0996168581943713,
+      0.10319767452621219,
+      0.11302681977497733,
+      0.11046511606764169
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_6",
+    "text": "10",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09961685854350286,
+      0.12354651169658167,
+      0.11111111061358525,
+      0.13081395323801126
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_14",
+    "text": "5 F",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3122605368537911,
+      0.14384920644266153,
+      0.32758620669665595,
+      0.15406976720527887
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_22",
+    "text": "10 20 30",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3984674362134036,
+      0.15988372127116,
+      0.4616858225988569,
+      0.17881944423531057
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_15",
+    "text": "-10 0",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1053639849186422,
+      0.1656746030832599,
+      0.13984674362541907,
+      0.17881944435310107
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_25",
+    "text": "1'40",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4521072798365332,
+      0.1656976748103146,
+      0.4770114934872216,
+      0.1802325578931737
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_16",
+    "text": "10 20",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14942528756870604,
+      0.1700581396755667,
+      0.18390804627548293,
+      0.17881944438710537
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_20",
+    "text": "60",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2547892721151887,
+      0.17005813996626443,
+      0.26819923369579474,
+      0.1787790696267588
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_19",
+    "text": "50",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23180076616621764,
+      0.1715116279076807,
+      0.24904214551960607,
+      0.17732558133004545
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_21",
+    "text": "-30 -20 -10 0",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.31609195375976556,
+      0.171511628139169,
+      0.39272030422235454,
+      0.17881944449511641
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_17",
+    "text": "30",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.19157088164944883,
+      0.17151162815733753,
+      0.20689655149231365,
+      0.17877906969876714
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_18",
+    "text": "40",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.21072796908920075,
+      0.17296511634941136,
+      0.22796934719432435,
+      0.17732558117965855
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_24",
+    "text": "V-velocity (um/s)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3563218381602015,
+      0.1802325583397794,
+      0.44252873367887896,
+      0.1904761903573994
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_23",
+    "text": "U-velocity (um/s)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1475095776238031,
+      0.18023255847401629,
+      0.2337164731424805,
+      0.18898809525354116
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_1",
+    "text": "Fig. 4 Histogram of measured streamwise (U-component) and cross-stream (V-component) velocities in the illuminated plane",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08045977160749083,
+      0.20203488371426317,
+      0.4904214544554192,
+      0.2252906974630624
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 28
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_29",
+    "text": "Acknowledgments This work was supported by the CRC Program of the National Science Foundation, Grant Number CHE0209898. We thank Dr. Shunsuke Onishi at Beth Israel Deaconness Medical Center/Harvard Medical School for the gel filtration data.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.507662847938278,
+      0.20203488371426317,
+      0.9195402340394828,
+      0.2485465115618996
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 29
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_26",
+    "text": "This example was specifically selected to show a QD with large enough displacement to be discernible with naked eye. The actual displacements were determined by a direct spatial correlation approach. Results are shown in Fig. 4 in terms of the histograms of the measured streamwise (U-component) and cross-stream (V-component) velocities in the illuminated plane. The overall mean velocities were measured to be Umean = 18.4 um/s and Vmean = -0.18 um/s. The small nonzero value of mean cross-stream velocity is consistent with a slight (0.5º) rotational misalignment between the camera and the mean flow direction. We note that both distributions are nearly Gaussian with comparable velocity fluctuation levels (the difference between the fluctuation levels is expected to be mostly due to the relatively small sample size). The high level of velocity fluctuation, 57% of the mean for the streamwise velocity, is expected because of the significant random motion superposed onto the mean flow by Brownian motion of small QDs. Since our method of QD identification for displacement processing necessarily samples only a small portion of all the QDs participating in Brownian motion, the measured fluctuation level is only a lower bound on Brownian fluctuation. Finally, it is noted that even though the position of a QD can be determined with exceptional spatial resolution (typically 1/10 of its apparent image diameter, or 140 nm when projected back onto the flow field), the overall spatial resolution of velocity measurement from a single dot is the distance it moves during the interrogation time. Using the mean U-component velocity as a reference, the corresponding mean displacement would suggest a spatial resolution of",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07662835806939135,
+      0.24553571407646996,
+      0.4925359605252206,
+      0.7093253967182178
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 30
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_30",
+    "text": "References",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5076628371502908,
+      0.2936046511803485,
+      0.590038313647921,
+      0.3052325580250779
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 31
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_31",
+    "text": "Axelrod D, Burghardt TP, Thompson NL (1984) Total internal reflection fluorescence (in biophysics). Annu Rev Biophys Bioeng 13:247",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.507662836954881,
+      0.3226686508355438,
+      0.91954023109706,
+      0.3591269843568091
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 32
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_32",
+    "text": "Bruchez M Jr, Moronne M, Gin P, Weiss S, Alivisatos AP (1998) Semiconductor nanocrystals as fluorescent biological labels. Science 281:2013",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5095785426399552,
+      0.35755813965903066,
+      0.9195402231071713,
+      0.390988371734317
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 33
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_33",
+    "text": "Dabbousi BO, Rodriguez-Viejo J, Mikulec FV, Heine JR, Mattoussi H, Ober R, Jensen KF, Bawendi MG (1997) (CdSe)ZnS core-shell quantum dots: synthesis and characterization of a size series of highly luminescent nanocrystallites. J Phys Chem B 101:9463",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5095785535722667,
+      0.3923611111924538,
+      0.9196180833538958,
+      0.4491279071793382
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 34
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_34",
+    "text": "Jin S, Huang P, Park J, Yoo JY, Breuer KS (2004) Near-surface velocimetry using evanescent wave illumination. Exp Fluids 37:825",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.507662847938278,
+      0.4520348836997283,
+      0.9195402254333698,
+      0.4869186044979461
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 35
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_35",
+    "text": "Mattoussi H, Mauro JM, Goodman E, Anderson GP, Sundar VC Mikulec FV, Bawendi MG (2000) Self-assembly of CdSe-ZnS quantum dot bioconjugates using an engineered recombinant protein. J Am Chem Soc 122:12142",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.511494247932311,
+      0.4883432541804107,
+      0.9195402359930838,
+      0.533482142861477
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 36
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_37",
+    "text": "Meinhart CD, Wereley ST, Santiago JG (1999) PIV measurements of a microchannel flow. Exp Fluids 27:414",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5095785508391888,
+      0.5334302325660074,
+      0.9195402313064049,
+      0.556795634691721
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 37
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_36",
+    "text": "Murray CB, Norris DJ, Bawendi MG (1993) Synthesis and characterization of nearly monodisperse CdE (E = sulfur, selenium, tellurium) semiconductor nanocrystallites. J Am Chem Soc",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5095785589996931,
+      0.5566860471586991,
+      0.919540221326945,
+      0.5915697674485275
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 38
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_38",
+    "text": "Murray CB, Kagan CR, Bawendi MG (2000) Synthesis and characterization of monodisperse nanocrystals and close-packed nanocrystal assemblies. Rev Mat Sci 30:545",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5095785518640931,
+      0.6046511627840305,
+      0.9195402323313092,
+      0.6396329362792437
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 39
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_39",
+    "text": "Sadr R, Yoda M, Zheng Z, Conlisk AT (2004) An experimental study of electro-osmotic flow in rectangular microchannels J Fluid Mech 506:357",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5095785369441229,
+      0.6408730156481568,
+      0.9176245203834635,
+      0.6744186047860107
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 40
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_41",
+    "text": "Sadr R, Li H, Yoda M (2005) Impact of hindered Brownian diffusion on the accuracy of particle-image velocimetry using evanescent-wave illumination. Exp Fluids 38:90",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5057471304334888,
+      0.6728670634643946,
+      0.9195402159376261,
+      0.7093253967168855
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 41
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_40",
+    "text": "Santiago JG, Wereley ST, Meinhart CD, Beebe DJ, Adrian RJ (1998) A particle image velocimetry system for microfluidies. Exp Fluids 25:316",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5095785430358685,
+      0.7093023257924199,
+      0.9195402235030846,
+      0.7456395347969119
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 42
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_27",
+    "text": "In summary, we have introduced the use of QD nanoparticles for near-surface velocimetry and provided preliminary data to demonstrate its feasibility. Some of the unique properties of QDs also allow potential solutions to various measurement difficulties. For example,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07854405234482353,
+      0.7238372091735338,
+      0.49246328774168613,
+      0.7950963879276016
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 43
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3_42",
+    "text": "Zettner CM, Yoda M (2003) Particle velocity field measurements in a near-wall flow using evanescent wave illumination. Exp Fluids",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5076628447600059,
+      0.7455357141030277,
+      0.917624525227222,
+      0.7659883720381278
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-005-0004-x.pdf_3",
+    "order": 44
+  }
+]

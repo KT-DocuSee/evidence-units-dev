@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_2",
+    "text": "Looking at the three models in Fig. 6, we can notice that the model b is more compact than the other two. This is mainly due to the big DD value, 1.e., DD=77.2 at the site-B (7-TLNND) and the site-E (14-SGGGG), suggesting that the sites corresponding to 84-D and 177-S come closer. The same conclusion can be obtained by estimation of an area of triangle made up of the three active sites. The area is calculated with the distance from one amino acid to another in the three active sites that lie at the vertexes of the triangle. The results are shown in Table 6. The model b clearly has the smallest area. The model b is better than a because the polar amino acids are accentuated in the former. In the case of the model c, the DEV values are rather low compared to those of a and b (data not shown). It suggests that we cannot recognize a functional system of trypsin directly from the active sites.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08921162464035953,
+      0.09593023334822658,
+      0.8921161713658645,
+      0.11337209266921536
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_5",
+    "text": "Table 6. Areas of triangle made of three active sites of trypsin in the models, a, band c.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5062240679613589,
+      0.14680232632787774,
+      0.8962655507935546,
+      0.17733134928649122
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_10",
+    "text": "Model | Distance (cm) between | Distance (cm) between | Distance (cm) between | Area | protein | H and D | H and S | Dand S | (cm') | a | 4.0 | 3.4 | 3.3 | 5.4 | 3.5 | 3.0 | 3.0 | 4.3 | 3.6 | 3.9 | 3.4 | 5.2",
+    "canon_role": "table",
+    "bbox": [
+      0.5063847133091518,
+      0.17334857177734375,
+      0.8806229945591518,
+      0.24651371765136718
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_6",
+    "text": "Table 7. Intramolecular interaction of the model d (GGHCYNTGNNDGGSGGGGGC).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5082987529923997,
+      0.29360465119146034,
+      0.8526970925237725,
+      0.31976744186086536
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_11",
+    "text": "Site-B | Site-E | DEV | DD. | Model | 3-HCY | 11-DG G | 1.49 | 66.5 | 3-HCY | 12-GG S | 1.49 | 66.5 | 4CN Y | I-GGH | 1.29 | 74.8 | d-1 | 4CN Y | 11-DGG | 1.29 | 74.8 | 4-CN Y | 12-GG S | 1.29 | 74.8 | 5-YN T | IGGH | 1.39 | 70.3 | d-2 | 5-YN T | 11-DGG | 1.39 | 70.3 | 5-YN T | 12-GGS | 1.39 | 70.3 | 5-YN T | 18-GG C | 1.39 | 76.6 | 9-NN D | I-GGH | 1.85 | 69.2 | d-3 | 9-NND | 12-GG S | 1.85 | 69.2 | 9-NND 18-GGC | 1.85 | 73.9",
+    "canon_role": "table",
+    "bbox": [
+      0.5068964930943081,
+      0.3176573486328125,
+      0.8812714494977678,
+      0.5894172973632813
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_3",
+    "text": "As the size of the model protein is much sin aller than trypsin, the simpler DEV pattern can be obtained. It permits the analysis at X=3. Surprisingly, 13-D corresponding to 176-D in trypsin was not caught in this analysis. Then, this 13-D was also replaced by G to make a model d. The results are shown in Table 7 and the structural models are made. The data of the models are shown in Table 8. Three cases with high DD values in Table 7 (d-1, d-2, d-3) are noticed. From their calculated area, the model d-3 is to be the most probable candidate representing the situation around the functional system of trypsin. Two possible structures can be illustrated for the model d-3, those of which are d-3-1 and d-3-2, with and without counterclockwise folding, respectively. We cannot differentiate these two, but the model d3-1 has the smallest area.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09115020327481707,
+      0.3982558140402973,
+      0.4792531165431396,
+      0.7165697673045109
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_7",
+    "text": "In terms of calculation, there are cases having the same amino acid composition, for example 12-GGS and 13-GSG or 14-SGG. The first one alone is shown in the table. Also the cases having the same amino acid, such as GGG, are omitted.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5082987467015452,
+      0.5866667729463578,
+      0.8942375611157487,
+      0.6396329364265938
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_8",
+    "text": "Table 8. Areas of triangle made of three active sites of trypsin in the model d. (=1, = 100 are used. )",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5062240670424057,
+      0.6830357144263974,
+      0.8941908682028906,
+      0.7151162792247852
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_12",
+    "text": "Model protein | Distance (cm) between Hand D H and S Dand S | Distance (cm) between Hand D H and S Dand S | Distance (cm) between Hand D H and S Dand S | Area (cm') | d-1 | 3.2 | 1.6 | 3.0 | 4.6 | d-2 | 3.2 | 2.0 | 3.0 | 4.5 | -3-1 | 2.5 | 3.5 | 3.0 | 3.2 | d-3-2 | 2.8 | 3.0 | 4.1",
+    "canon_role": "table",
+    "bbox": [
+      0.5060799298967634,
+      0.7142615356445312,
+      0.8806771414620536,
+      0.8358587036132813
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_4",
+    "text": "In the site-Bs and the site-Es of the model d3, the distinguished amino acids are 3-H, 11-D, 14-S and 20-C. The first three amino acids correspond to the active sites of trypsin, 40-H, 84-D and 177-S, respectively. Thus, such a series of study provided conclusive proof that the DEV model is a useful tool to predict the active sites of trypsin.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09098608335870523,
+      0.7180059519160679,
+      0.4795528014027564,
+      0.850290697173697
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7_9",
+    "text": "2.3",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6680497930727718,
+      0.8212209308295765,
+      0.7012448128549106,
+      0.8401162787426828
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s0362-546x%2897%2900070-9.pdf_7",
+    "order": 13
+  }
+]

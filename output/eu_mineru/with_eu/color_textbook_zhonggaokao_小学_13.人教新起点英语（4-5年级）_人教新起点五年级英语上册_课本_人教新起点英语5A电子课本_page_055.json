@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_3",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Let's Check",
+        "bbox": [
+          0.07582173825368017,
+          0.045603534273906225,
+          0.32425892316999394,
+          0.07467578737352144
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A",
+        "bbox": [
+          0.04194394031054648,
+          0.08721675929884566,
+          0.08469449485783424,
+          0.11685905657688471
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Listen and put the things into the right bag.",
+        "bbox": [
+          0.06856221012300867,
+          0.08949693601254097,
+          0.8469449485783425,
+          0.11742910075530853
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05565638233514821,
+          0.13738064700014252,
+          0.941318814277072,
+          0.42240273621205643
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "B",
+        "bbox": [
+          0.0411373260738052,
+          0.4189824711415135,
+          0.08469449485783424,
+          0.44919481259797633
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Let's play.",
+        "bbox": [
+          0.09195402298850575,
+          0.42240273621205643,
+          0.26537608388788064,
+          0.4486247684195525
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Choose a picture and make a dialogue.",
+        "bbox": [
+          0.060496067755595885,
+          0.46173578452330055,
+          0.5767291792700141,
+          0.4851075958386775
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语上册_课本_人教新起点英语5A电子课本_page_055_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05726961080863077,
+          0.49422830269345874,
+          0.946965113934261,
+          0.9092204645860054
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

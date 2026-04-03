@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_118",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_118_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_118_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NO",
+        "bbox": [
+          0.7946611913689927,
+          0.06250000023758226,
+          0.8172484603079407,
+          0.0712209298980766
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_118_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7946611928778423,
+          0.09011627930734967,
+          0.8336755640694539,
+          0.09883720896784412
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_118_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7946611928778423,
+          0.09011627930734967,
+          0.8336755640694539,
+          0.09883720896784412
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_118",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_118_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_118_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FAFIE.",
+        "bbox": [
+          0.1231398748075057,
+          0.251287757610617,
+          0.23620304281526344,
+          0.27342154508366
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_118_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "=007#18(1.1499)",
+        "bbox": [
+          0.14168377754341296,
+          0.3139534886826041,
+          0.4661191018347037,
+          0.33432539691588326
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

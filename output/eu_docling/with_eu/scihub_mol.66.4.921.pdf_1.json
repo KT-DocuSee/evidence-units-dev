@@ -1,0 +1,152 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "scihub_mol.66.4.921.pdf_1",
+    "primary_id": "docling_scihub_mol.66.4.921.pdf_1_11",
+    "source": "visual_seed",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "vation is to increase adenylyl cyclase activity, although inhibitory effects also have been described. Studies from our laboratory have demonstrated tyrosine kinase-dependent sensitization of adenylyl cyclase catalytic activity, independent of changes in either receptor or heterotrimeric G-protein activity (Feldman, 1993; Tan et al., 1995, 1999). We suggested recently (based on pharmacological probes and the use of a dominant-negative mutant of c-Raf) that the growth factor/tyrosine kinase-mediated sensitization of adenylyl cyclase type VI involved Raf kinase-mediated serine phosphorylation (Tan et al., 2001). This pathway has been implicated in the superactivation of adenylyl cyclase after long-term opiate exposure (Varga et al., 2002).",
+        "bbox": [
+          0.058365763587774865,
+          0.0646166551358526,
+          0.4941634192916026,
+          0.25000000020752233
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "whether adenylyl cyclase could serve as a substrate for c-Raf kinase, 2) the specific amino acid residues in adenylyl cyclase critical for Raf kinase-mediated regulation, and 3) whether Raf kinase-mediated regulation of AC VI was generalized among other subfamilies of adenylyl cyclase isoforms. In the present studies, we demonstrate the interaction between cRaf kinase and adenylyl cyclase in a reconstituted system and have identified the single amino acids critical for this effect. Furthermore, we demonstrate that this interaction is adenylyl cyclase isoform-selective.",
+        "bbox": [
+          0.509570648247865,
+          0.06820436525982941,
+          0.9455252829885348,
+          0.206395348771202
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Our studies to date have demonstrated that tyrosine kinase-dependent serine phosphorylation of adenylyl cyclase Vl enhances the activity of the adenylyl cyclase enzyme (Tan et al., 2001); however, the molecular mechanism of this effect is unclear. In particular, the specific form of Raf kinase that mediated adenylyl cyclase phosphorylation is unknown. In addition, the identity of the individual serine residues that are phosphorylated to mediate sensitization of adenylyl cyclase activity remain to be determined. Furthermore, it is unknown whether this interaction is unique for AC VI or whether tyrosine kinase-mediated regulation is a phenomenon common to other adenylyl cyclase isoforms.",
+        "bbox": [
+          0.058365763768923065,
+          0.2499999998833206,
+          0.4941634259846435,
+          0.41716269858871796
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mutagenesis of FLAG Adenylyl Cyclase VI. Six single serine (S) to alanine (A) mutants (S603A, S608A, S744A, S746A, S750A, and S754A) were generated via overlapping extension PCR mutagenesis (see Table 1) of our previously described FLAG-tagged AC VI (Tan et al., 2001). In brief, two independent PCR reactions were carried out to generate a pair of overlapping PCR products. The first reaction used an upstream sense-mutagenizing oligonucleotides paired with a downstream antisense harboring a unique restriction enzyme digestion site. The second reaction used upstream sense oligonucleotides harboring a unique restriction enzyme digestion site paired with a downstream antisense-mutagenizing primer. Each PCR product was resolved by agarose electrophoresis, followed by the Qiaquick PCR purification (QIAGEN, Valencia, CA). Equivalent amounts (50 ng) of PCR products from first pair PCR were amplified using extreme sense and antisense primers. The resulting PCR were purified and double digested with the terminal restriction enzyme, then cloned into pcDNA3-flag AC VI that had been digested with identical restriction enzyme digestion, positive clones were sequenced to verify the right open reading frame and right mutation.",
+        "bbox": [
+          0.5077820954809856,
+          0.2557043651387054,
+          0.943579761704054,
+          0.49709302299600816
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In those previous studies, we generated several serine to alanine mutations of residues located in both the first catalytic loop subdomain (Clb region-mutating serine molecules at both amino acid residues 603 and 608) and in the fourth intracellular loop (IC4 region-mutating four serine molecules at amino acid residues 744, 746, 750, and 754) of adenylyl cyclase (Tan et al., 2001). These mutants demonstrated significantly reduced vanadate-stimulated phosphorylation and sensitization of adenylyl cyclase compared with wild-type AC VI (Tan et al., 2001); however, the identity of the single amino acid residues) critical in Raf kinase-mediated phosphorylation was not determined.",
+        "bbox": [
+          0.05830334052744303,
+          0.4186046510461113,
+          0.49416342981084316,
+          0.5858134922251769
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Epitope Tagging of Adenylyl Cyclase Isoforms I, II, and V. FLAG-tagged AC V, AC II, and AC I were generated by PCR using pCMV5-AC V, pCDM8.1-AC II, and pCMV5-AC I as templates using the following primers: Flag AC V, forward AC V (5'-CCC AAG CTT GCC ACC ATG TGC AGC AGC AGC AGC GCC TGG-3') and reverse AC V (5' - GC TCT AGA CTA CTT ATC GTC GTC ATC CTT GTA ATC ACT GAG CGG GGG CCC ACC GTT GAG-3'); Flag AC II, forward AC II (5'-CCC AAG CTT GCC ACC ATG GAT TAC AAG GAT GAC",
+        "bbox": [
+          0.5077821071022565,
+          0.4985119045748838,
+          0.9455252944171835,
+          0.598958333260659
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Based on these uncertainties, we sought to determine: 1)",
+        "bbox": [
+          0.0758754952678069,
+          0.587209302536606,
+          0.4922178974688983,
+          0.6002906970273475
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_10",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 1 Oligonucleotides used to generate site-specific serine to alanine AC VI mutants",
+        "bbox": [
+          0.06027640392199066,
+          0.6117909181302503,
+          0.5389104997782436,
+          0.6351744183559572
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_11",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Candidate Serine Residues for Mutation | Primer Name | Primer Sequence | 603 | S603A_fp S603A_rp | 5'-IGGGTICCTGACGTGCCITCGCCCGGACCAAGGACTCTAAGGCA-3' 5'-TGCCTTAGAGTCCTTGGTCCGGGCGAAGGCACGGTCAGGAACCCA- 3' | 608 | S608A fp S608A_rp | 5'-GCCCATCTGTCGGAATGCCTTGGCGTCCTTGGTCCGGGAGAAGGC- 3' 5' -GCCCATCTGTCGGAATGCCTTGGCGTCCTTGGTCCGGGAGAAGGC-3' | 744 | S744A_fp | 5'-CCCAACGCCCTGCAGCGCCTGGCCCGCAGTATCGTCCGCTCACGG-3' 5'-CCGTGAGCGGACGATACTGCGGGCCAGGCGCTGCAGGGCGTTGGG-3' | 746 | S744A_rp S746A_fp | 5' -GCCCTGCAGCGCCTGTCCCGCGCCATCGTCCGCTCACGGGTGCAC-3' 5'- GTGCACCCGTGAGCGGACGATGGCGCGGGACAGGCGCTGCAGGGC-3' | 750 | S746A_rp S750A fp S750A rp | 5'-CTGTCCCGCAGTATCGTCCGCGCCCGGGTGCACAGCACGGCTGTT- 3' 5'-AACAGCCGTGCTGTGCACCCGGGCGCGGACGATACTGCGGGACAG- 3' | 754 | S754A_fp $754A_rp | 5'- ATCGTCCGCTCACGGGTGCACGC CACGGCTGTTGGAGTCTTCTCG-3' 5'-CGAGAAGACTCCAACAGCCGTGGCGTGCACCCGTGAGCGGACGAT- 3' | Restriction enzyme sites | NheI | Nhel_fp | 5'-CACCGGCTAGCGCAG- 3' | XhoI | Xhol_fp | 5'- AGGGAGGATCTCGAGAAGAAG- 3' | Xbal | Xhol_rp Xbal_rp Round 1 | 5' -CTTCTTCTCGAGATCCTCCCT-3' 5'-ICT CTAGAC TAA CIG CIG GGG C CC CCA TT-3' Round 2 | Cassette | PCR1 | PCR2 | S603A | NheI fp, S603A_rp | S603A_fp, Xhol_rp Nhel_fp, Xhol_rp | S608A | Nhel_ fp, S608A_rp | S608A_fp, Xhol_rp Nhel_fp, Xhol_rp | S744A | XhoI_fp, S744A_rp | S774A_fp, Xbal_rp Xhol_fp, Xbal_rp | S746A | Xhol_fp, S746A_rp | S746A_fp, Xbal_ rp XhoI_fp, Xbal_rp | S750A | XhoI_fp, S750A_rp | S750A_fp, Xbal_rp Xhol_fp, Xbal_rp | S754A | XhoI_fp, S754A_rp | S854A_fp, Xbal_rp Xhol_fp, Xbal_rp",
+        "bbox": [
+          0.05995541616586538,
+          0.6397742120150862,
+          0.9434931640625,
+          0.9334589394755747
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "scihub_mol.66.4.921.pdf_1",
+    "primary_id": "docling_scihub_mol.66.4.921.pdf_1_6",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_mol.66.4.921.pdf_1_6",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Materials and Methods",
+        "bbox": [
+          0.6186770457444668,
+          0.23401162780240983,
+          0.8346303508508641,
+          0.24709302323925683
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-21882649.pdf_3",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_21",
+    "source": "visual_seed",
+    "member_count": 11,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Top 10 Best Seller Books",
+        "bbox": [
+          0.26488707145778095,
+          0.059523809705274475,
+          0.737166324503889,
+          0.08730158748305222
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "IPDFI Where the Crawdads Sing",
+        "bbox": [
+          0.06776181827668969,
+          0.12053571474616477,
+          0.41478438981365934,
+          0.13814484173029176
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_21",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0701389889330789,
+          0.142774577831906,
+          0.16049384378896803,
+          0.23762390215002405
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "THERE",
+        "bbox": [
+          0.10472279328742218,
+          0.19767441869149452,
+          0.1334702261513184,
+          0.20494186023292402
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CRAWDADS",
+        "bbox": [
+          0.08829568924424885,
+          0.2107558141910707,
+          0.1457905549720413,
+          0.21947674385156501
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SING",
+        "bbox": [
+          0.10266940432574785,
+          0.21802325588262825,
+          0.129363449319016,
+          0.22529069742405775
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DELIA OWENS",
+        "bbox": [
+          0.0821355256936198,
+          0.2266865078242734,
+          0.14989733077455258,
+          0.23691860445091836
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MEYER",
+        "bbox": [
+          0.07589946183651607,
+          0.4794211617167294,
+          0.15408000233064573,
+          0.4929625593109997
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Without",
+        "bbox": [
+          0.08418891147081028,
+          0.6642441867639243,
+          0.14373716506923082,
+          0.681686046084913
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "COLLEEN",
+        "bbox": [
+          0.08826166750775533,
+          0.8531090669990398,
+          0.15609151651551034,
+          0.8663676774519642
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HOQVER",
+        "bbox": [
+          0.07392197387606732,
+          0.8633720935448689,
+          0.16016426979265275,
+          0.8837209300500928
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-21882649.pdf_3",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SOON TO BE A MAJOR MOTION PICTURE-The #1 New York Times bestselling worldwide sensation with more than 12 million copies sold, hailed by The New York Times Book Review as \"a painfully beautiful first novel that is at once a murder mystery, a coming-of-age narrative and a celebration of nature.\" For years, ... Read More...",
+        "bbox": [
+          0.16214892547328466,
+          0.15252976220896242,
+          0.9302742267969172,
+          0.21802325554336757
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-21882649.pdf_3",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_22",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "IPDF The Summer I Turned Pretty",
+        "bbox": [
+          0.06776181377060596,
+          0.28050595284500507,
+          0.4517453669788809,
+          0.2979651154889825
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_22",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07346677953127362,
+          0.30724622735410434,
+          0.15663230001133616,
+          0.3972616012201395
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now a streaming series in Summer 2022! Belly has an unforgettable summer in this stunning start to the Summer I Turned Pretty series from the New York Times bestselling author of To All the Boys I've Loved Before , Jenny Han. Some summers are just destined to be pretty. Belly measures her life in ... Read More...",
+        "bbox": [
+          0.1642710548426356,
+          0.3154069768465307,
+          0.9281314283195815,
+          0.38081395316933647
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0000D \"I've binged it in a day, I love these characters, I love their dynamics, I love the mysteriousness of their background and everything in between. I've fallen hard for these characters!\" --Reviewer 00000 \"Each time I assumed the book would be predictable, a twist popped up and ... Read More...",
+        "bbox": [
+          0.16221765524907686,
+          0.4751984129007689,
+          0.9281314359299921,
+          0.5421626983356898
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Soon to be a streaming series in Summer 2022! Belly finds out what comes after falling in love in this follow-up to The Summer I Turned Pretty from the New York Times bestselling author of To All the Boys I've Loved Before (now a major motion picture!), Han Jenny Han. It used to be that Belly counted the... Read More...",
+        "bbox": [
+          0.11704311253854788,
+          0.6366279066400404,
+          0.9301847756415399,
+          0.7063953484104943
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IT ENDS In this \"brave and heartbreaking novel that digs its claws into you and doesn't let go, WITHI long after you've finished it\" (Anna Todd, New York Times bestselling author) from the USAX #1 New York Times bestselling author of All Your Perfects, a workaholic with a too-goodto-be-true romance can't stop th... Read More...",
+        "bbox": [
+          0.0737876378714223,
+          0.7978670634997312,
+          0.9301847983530638,
+          0.8633720930854294
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-21882649.pdf_3",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_23",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_9",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "IPDF The Inn on Harmony Island",
+        "bbox": [
+          0.0677618202325842,
+          0.44186046534213874,
+          0.4353182704758345,
+          0.46081349162927804
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_23",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07029142921752192,
+          0.46678549777549166,
+          0.16003739012195814,
+          0.560843987564798
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-21882649.pdf_3",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_24",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_12",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "IPDF It's Not Summer Without You",
+        "bbox": [
+          0.067761820532772,
+          0.6031746033362879,
+          0.4599589252235592,
+          0.6192956350823197
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_24",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07015715371884919,
+          0.626400546774797,
+          0.1605431073522049,
+          0.722132375781584
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It'S Not",
+        "bbox": [
+          0.09034907601185259,
+          0.6366279065528311,
+          0.1375770023865047,
+          0.6526162791739133
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-21882649.pdf_3",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_25",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_16",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(PDF] It Ends with Us",
+        "bbox": [
+          0.06776180619636159,
+          0.7658730157802716,
+          0.2956878812369033,
+          0.7805232556111971
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-21882649.pdf_3_25",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07105556335818235,
+          0.7898189288624946,
+          0.15903936937325233,
+          0.8843578193472104
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

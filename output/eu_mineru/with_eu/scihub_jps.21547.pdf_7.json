@@ -1,0 +1,205 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_jps.21547.pdf_7",
+    "primary_id": "mineru_scihub_jps.21547.pdf_7_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 3. Formulation Compositions of Solid Microemulsion Preconcentrate (SM) and Solid Dispersion (SD)",
+        "bbox": [
+          0.07838383838383839,
+          0.08363636363636363,
+          0.8549494949494949,
+          0.10909090909090909
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "scihub_jps.21547.pdf_7",
+    "primary_id": "mineru_scihub_jps.21547.pdf_7_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07757575757575758,
+          0.11090909090909092,
+          0.8888888888888888,
+          0.2315151515151515
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5026262626262626,
+          0.26,
+          0.8864646464646465,
+          0.4254545454545455
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_jps.21547.pdf_7",
+    "primary_id": "mineru_scihub_jps.21547.pdf_7_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "other parts. The SEM pictures in Figure 6 show that the liquid preconcentrate exists as a separate phase trapped into solid PEG 3350 clusters. Confocal Raman microscopy described in the next section showed a similar result (Fig. 6c and d): two phases were detected with crystalline needle-like and irregular shaped domains of PEG 3350 (visualized in green) and a liquid phase (visualized in blue) consisting of Capmul PG8 and Cremophor EL located between PEG 3350 domains. In separate experiments, hot-stage light microscopy studies (not described in this report) showed that the clusters and nodes disappeared upon heating to 60C, and reappeared upon cooling below 50°C.",
+        "bbox": [
+          0.08,
+          0.26,
+          0.46464646464646464,
+          0.48545454545454547
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "scihub_jps.21547.pdf_7",
+    "primary_id": "mineru_scihub_jps.21547.pdf_7_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the present investigation, Raman spectra of the components of solid microemulsions in their pure form were fi rst collected (Fig. 7) and used as the basis for the deconvolution of the experi- mental data cubes using classical least squares",
+        "bbox": [
+          0.5034343434343435,
+          0.42727272727272725,
+          0.8872727272727273,
+          0.5012121212121212
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "scihub_jps.21547.pdf_7",
+    "primary_id": "mineru_scihub_jps.21547.pdf_7_3",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Characterization of Drug-Loaded Solid Microemulsion Preconcentrates by Confocal Raman Microscopy",
+        "bbox": [
+          0.07919191919191919,
+          0.5236363636363637,
+          0.4638383838383838,
+          0.5696969696969697
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The compositions of the solid microemulsion preconcentrate with 4% and 8% drug loads selected for further evaluation as potential dosage forms for I are given in Table 3. For comparison, compositions of prototype solid dispersions devel- oped previously6 using PEG 3350-polysorbate 80 mixtures are also given in the table.",
+        "bbox": [
+          0.08,
+          0.576969696969697,
+          0.4638383838383838,
+          0.6818181818181818
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "One well-established technique for identifica- tion and characterization of the solid state of pharmaceutical specimens is Raman spectro- scopy. It is a robust and reliable method yielding information of high quality with a low limit of detection. In addition it requires minimal sample preparation and allows for high throughput screening and automation.27",
+        "bbox": [
+          0.08,
+          0.683030303030303,
+          0.46464646464646464,
+          0.803030303030303
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In combination with an optical microscope, Raman spectroscopy can be implemented to map a specimen and to provide spatially resolved chemical information on the underlying spe- cies.28–32 In recent years, progress in laser equipment, development of high quality holo- graphic filters and gratings as well as advances in charge couple device (CCD) technology has led to an advent of Raman microscopy. Employing the principle of confocality, modern Raman micro- spectrometers allow rapid chemical mapping with high spatial and spectral resolution. It is possible to reveal the exact composition and spatial distribution of complex mixtures of drug sub- stances and excipients at a resolution in the submicrometer range, at very low concentrations and at a pixel resolution of up to several hundred thousand pixels.31,33",
+        "bbox": [
+          0.08,
+          0.8042424242424242,
+          0.4638383838383838,
+          0.9090909090909091
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_10",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 7. Reference Raman spectra obtained from pure substances. These spectra were employed as basis for the deconvolution of the hyperspectral data cubes using classical least squares. From top to bottom: drug I (red), PEG3350 (green), Capmul PG8 (blue), Cremophor EL (black), Polysorbate 80 (orange).",
+        "bbox": [
+          0.5018181818181818,
+          0.8254545454545454,
+          0.888080808080808,
+          0.9084848484848485
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "scihub_jps.21547.pdf_7",
+    "primary_id": "mineru_scihub_jps.21547.pdf_7_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_jps.21547.pdf_7_9",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5018181818181818,
+          0.5296969696969697,
+          0.8840404040404041,
+          0.8163636363636364
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

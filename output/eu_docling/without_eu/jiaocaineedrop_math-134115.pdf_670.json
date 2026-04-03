@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_0",
+    "text": "LibreTexts™",
+    "canon_role": "section_header",
+    "bbox": [
+      0.0976999734013178,
+      0.036148250855232454,
+      0.21057070517131543,
+      0.052514539630721876
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_1",
+    "text": "3.7: Exponential and Logarithmic Equations",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08458646469673377,
+      0.07986111099323104,
+      0.5112781884235672,
+      0.09747023797735799
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_2",
+    "text": "Learning Objectives",
+    "canon_role": "section_header",
+    "bbox": [
+      0.12030075332706766,
+      0.11482558127866944,
+      0.2650375954323308,
+      0.12797619048052464
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_3",
+    "text": "Use like bases to solve exponential equations.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338346951908987,
+      0.1380813953785074,
+      0.41353383146775197,
+      0.14980158724324766
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_4",
+    "text": "Use logarithms to solve exponential equations.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10329785234322056,
+      0.1524584518659552,
+      0.41738735197716625,
+      0.16640324186974692
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_5",
+    "text": "Use the definition of a logarithm to solve logarithmic equations.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338347041349326,
+      0.16860465137381528,
+      0.5263157732581859,
+      0.18179563515366196
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_6",
+    "text": "Use the one-to-one property of logarithms to solve logarithmic equations.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338347587810016,
+      0.18452380942863236,
+      0.5864661602591175,
+      0.19767441863048754
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_7",
+    "text": "Solve applied problems involving exponential and logarithmic equations.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338348345609139,
+      0.20203488378693754,
+      0.5845864573960384,
+      0.21366279063166707
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_8",
+    "text": "In 1859, an Australian landowner named Thomas Austin released 24 rabbits into the wild for hunting. Because Australia had few predators and ample food, the rabbit population exploded. In fewer than ten years, the rabbit population numbered in the millions.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08458645234962463,
+      0.23401162836024944,
+      0.9135338207706771,
+      0.26314484120766773
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_18",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.31962265912224264,
+      0.2692181396484375,
+      0.6793113080193015,
+      0.45436925714666193
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_9",
+    "text": "Figure 3.7.1: Wild rabbits in Australia. The rabbit population grew so quickly in Australia that the event became known as the \"rabbit plague.\" (credit: Richard Taylor, Flickr)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985380010508,
+      0.45930232568474055,
+      0.8740601466453957,
+      0.4826388889528949
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_10",
+    "text": "Uncontrolled population growth, as in the wild rabbits in Australia, can be modeled with exponential functions. Equations resulting from those exponential functions can be solved to analyze and make predictions about exponential growth. In this section, we will learn techniques for solving exponential functions.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0845864663634005,
+      0.4912790696689311,
+      0.9154135441964283,
+      0.5364583332983284
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_11",
+    "text": "Using Like Bases to Solve Exponential Equations",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08646616663785264,
+      0.5508432540680654,
+      0.48872181133207193,
+      0.565476190576002
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_12",
+    "text": "The first technique involves two functions with like bases. Recall that the one-to-one property of exponential functions tells us that, for any real numbers b, S, and T, where 6 > 0, 6 # 1, 65 = 6 if and only if S = T.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08458648303880635,
+      0.5726686506140976,
+      0.9135338372606677,
+      0.6031976735558432
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_13",
+    "text": "In other words, when an exponential equation has the same base on each side, the exponents must be equal. This also applies when the exponents are algebraic expressions. Therefore, we can solve many exponential equations by using the rules of exponents to rewrite each side as a power with the same base. Then, we use the fact that exponential functions are one-to-one to set the exponents equal to one another, and solve for the unknown.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08458646407771042,
+      0.6118551585191341,
+      0.9154135429398335,
+      0.6729651159226963
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_14",
+    "text": "For example, consider the equation 312-7 = 3 32x ,. To solve for x, we use the division property of exponents to rewrite the right side so that both sides have the common base, 3. Then we apply the one-to-one property of exponents by setting the exponents equal to one another and solving for x:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08458646024436102,
+      0.6802325585675821,
+      0.9154135198668952,
+      0.7398313493340298
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_15",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2556390994670992,
+      0.7500000001373494,
+      0.7387218033590347,
+      0.8825731378301594
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_jiaocaineedrop_math-134115.pdf_670_19",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.4794382252412684,
+      0.9508345170454545,
+      0.521392822265625,
+      0.9688550914417614
+    ],
+    "page": "jiaocaineedrop_math-134115.pdf_670",
+    "order": 18
+  }
+]

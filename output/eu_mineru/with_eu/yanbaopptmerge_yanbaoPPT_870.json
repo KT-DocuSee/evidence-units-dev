@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_870",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_870_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_870_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（1）名词，意态，情趣",
+        "bbox": [
+          0.13498312710911137,
+          0.13333333333333333,
+          0.5384326959130109,
+          0.21155555555555555
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_870_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "是我于花之未开，先享无穷逸致矣。（《芙蕖》）",
+        "bbox": [
+          0.11598550181227346,
+          0.216,
+          0.9283839520059992,
+          0.29688888888888887
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_870_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "这样我在花没有开放的时候，就已经先 享受到无穷的优雅情趣了。",
+        "bbox": [
+          0.17647794025746782,
+          0.34933333333333333,
+          0.9213848268966379,
+          0.5155555555555555
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5",
+    "primary_id": "mineru_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Where did Amy go on vacation?",
+        "bbox": [
+          0.09866666666666667,
+          0.09333333333333334,
+          0.9013333333333333,
+          0.176
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.021333333333333333,
+          0.20355555555555555,
+          0.9713333333333334,
+          0.728
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_3",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "London Eye",
+        "bbox": [
+          0.33,
+          0.7333333333333333,
+          0.692,
+          0.824
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5",
+    "primary_id": "mineru_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_m3_Unit_1_Where_did_you_go.pdf_5_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0013333333333333333,
+          0.6782222222222222,
+          0.33066666666666666,
+          0.992
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

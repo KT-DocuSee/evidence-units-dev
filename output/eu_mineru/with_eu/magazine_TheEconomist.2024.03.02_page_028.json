@@ -1,0 +1,397 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.03.02_page_028",
+    "primary_id": "mineru_magazine_TheEconomist.2024.03.02_page_028_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Yet Lula has undermined his adminis- tration's successes with unscripted re- marks, and a naive desire to appear chum- my with autocrats and democrats alike.",
+        "bbox": [
+          0.06083205381297068,
+          0.06875834445927904,
+          0.3410104555092491,
+          0.12105028927458834
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.03.02_page_028",
+    "primary_id": "mineru_magazine_TheEconomist.2024.03.02_page_028_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6589164290414564,
+          0.06898086337338674,
+          0.9388023689405571,
+          0.25255896751223855
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.03.02_page_028",
+    "primary_id": "mineru_magazine_TheEconomist.2024.03.02_page_028_8",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_8",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Returning to growth",
+        "bbox": [
+          0.37025663522702346,
+          0.08255451713395638,
+          0.5100533742779849,
+          0.09546061415220294
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ranking of world's largest countries by nominal GDP*",
+        "bbox": [
+          0.3705490970242012,
+          0.09657320872274143,
+          0.554507567449002,
+          0.11971517578994215
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Shortly before foreign ministers gath- ered in Rio, Lula was touring Egypt and Ethiopia. Both had recently joined the BRics, a group of emerging economies, and Lula was promoting Brazil as a leader for the global south. But it was his inflam- matory statements at a press conference in Addis Ababa on February 1gth that made headlines. \"what is happening in Gaza and to the Palestinian people has not existed at any other time in history,\"he said, adding erroneously, that\"actually, it has existed: when Hitler decided to killthe Jews\".",
+        "bbox": [
+          0.06170943920450391,
+          0.12216288384512683,
+          0.34130291730642687,
+          0.2923898531375167
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_10",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "China Brazil -India Mexico Argentina 1990 2000 10 22 30t Sources: IMF; S&P Global *$ terms tForecast",
+        "bbox": [
+          0.36703955545806827,
+          0.1261682242990654,
+          0.6352270234700592,
+          0.2857142857142857
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The waning popularity of the war on drugs is one part of the problem. That us allies question its commitment to the drug war at home is another. They cite the insa- tiable market for illegal drugs and the sale of guns to organised crime groups across Latin America. This has encouraged a soft- er stance on drugs across the region.",
+        "bbox": [
+          0.658331505447101,
+          0.25411659991099245,
+          0.9390948307377349,
+          0.3591455273698264
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Israel immediately declared Lula to be a \"persona non grata\" and summoned Bra- zil's ambassador to the Holocaust Museum in Jerusalem for a reprimand. Hamas, the Palestinian Islamist group which runs Ga- za, praised his comments as \"accurate\".",
+        "bbox": [
+          0.06112451561014842,
+          0.2937249666221629,
+          0.3410104555092491,
+          0.37227414330218067
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "These inconsistencies risk weakening the overall effect of Lula's foreign policy, says Rubens Ricupero, a former Brazilian ambassador. Lula wants Brazil to be all things to all people: a friend of the west and a leader of the global south, a defender of the environment and a global oil power, a promoter of peace and an ally for auto- crats. Brazil may well be back, but the part it is playing on the world stage is murkier than it should be.",
+        "bbox": [
+          0.3597280105286247,
+          0.3068535825545171,
+          0.6396139504277254,
+          0.4512683578104139
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In Mexico, President Andrés Manuel López Obrador has broken with his prede- cessors' militarisation of the drug war, adopting what he calls a\"hugs, not bullets\" policy in an effort to reduce the country's astronomical homicide rate. while still co- operating with the United States, Mr Lopez Obrador complains that DEA operations in Mexico abuse its sovereignty. when old DEA reports were leaked in January, alleg- ing that Mr Lopez Obrador's presidential campaign may have received financing from drug gangs, he responded by slam- ming the United states for running un- sanctioned operations in the first place, denouncing such\"immoral practices\"",
+        "bbox": [
+          0.6592088908386342,
+          0.3604806408544726,
+          0.9388023689405571,
+          0.5705384957721407
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Heis strikingly less keen to judge other countries. when asked at the same press conference about Alexei Navalny, the Rus- sian opposition leader who died on Febru- ary 16th in the Arctic penal colony to which Mr Putin had banished him, he demurred. \"why the rush to accuse someone? A citi- zen died in prison; I don't knowif he was ill or had any issues.\"",
+        "bbox": [
+          0.06141697740732617,
+          0.37316421895861146,
+          0.34071799371207134,
+          0.49132176234979974
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.03.02_page_028",
+    "primary_id": "mineru_magazine_TheEconomist.2024.03.02_page_028_12",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_12",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "War on drugs",
+        "bbox": [
+          0.3603129341229802,
+          0.4788607031597686,
+          0.45097609124808075,
+          0.49198931909212285
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It was not Lula's first display of sympa- thy towards Mr Putin's regime. He has blamed Ukraine for being invaded by Rus- sia. In September he said Mr Putin would not be arrested if he attended the G2o sum- mit, though he later walked back the com- ment (a warrant from the International Criminal Court obliges Brazil's courts to detain Mr Putin). This attitude differs little from that of his predecessor, who visited Mr Putin one week before Russia invaded Ukraine. Brazil has become the world's big- gest buyer of Russian diesel.",
+        "bbox": [
+          0.06141697740732617,
+          0.4924343569203382,
+          0.34071799371207134,
+          0.6633288829550512
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.03.02_page_028",
+    "primary_id": "mineru_magazine_TheEconomist.2024.03.02_page_028_13",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_13",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "The switcheroo",
+        "bbox": [
+          0.36265262850040214,
+          0.495549621717846,
+          0.5819989763837099,
+          0.5193591455273698
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.03.02_page_028",
+    "primary_id": "mineru_magazine_TheEconomist.2024.03.02_page_028_14",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_14",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "MIAMI A former us ally and Honduran president is tried for drug traffi cking",
+        "bbox": [
+          0.3600204723258024,
+          0.5667556742323098,
+          0.6220662425970608,
+          0.6036938139741878
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Things are no better in Colombia, which produces about 6o% of the world's coca, the crop which is processed to make cocaine. Its leftist president Gustavo Petro is an open critic of the drug war, and has cut back on the eradication of coca crops.",
+        "bbox": [
+          0.6589164290414564,
+          0.5718736092567869,
+          0.9388023689405571,
+          0.6499777481085892
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "idrelal n al on drugs. Take former Honduran presi- dent, Juan Orlando Hernández. Once feted in ashington aspartner in the stugg against the flow of narcotics, on February 2oth he found himself in the dock in New York, standing trial for his alleged role in a drug-traficking conspiracy that has run on for more than a decade.",
+        "bbox": [
+          0.3600204723258024,
+          0.6114819759679573,
+          0.6396139504277254,
+          0.7423230974632844
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The United States'record of working with unsavoury characters (most famously expressed in President Franklin D. Roose- velt's apocryphal remark that Nicaraguan dictator Anastasio Somoza Garcia \"may be a son ofa bitch, but he's our son ofa bitch\") may also offer foreign leaders and offi cials a false sense of security.",
+        "bbox": [
+          0.6586239672442787,
+          0.6508678237650201,
+          0.9388023689405571,
+          0.7556742323097463
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.03.02_page_028",
+    "primary_id": "mineru_magazine_TheEconomist.2024.03.02_page_028_5",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Gift of the gaffe",
+        "bbox": [
+          0.06141697740732617,
+          0.6771250556297286,
+          0.1675806097828471,
+          0.6898086337338674
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The most generous interpretation is that remarks of this kind are a cynical ploy to galvanise the leftist base of Lula's Workers' Party. Even if that is working, it is having severe side-effects. As well as irking West- ern allies, Lula has forged common ground on which Brazil's right wing and alienated centrists have come together.",
+        "bbox": [
+          0.06170943920450391,
+          0.6911437472185136,
+          0.34130291730642687,
+          0.7955051179350244
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a 96-page document laying out their case against the former president, federal prosecutors say that Mr Hernández had merely \"pretended to support the United Statesefforts to curbdrug traffcking an hadin fact een conspiring withdrug lords to finance his political campaigns. Mr Her- nández has strongly denied the accusa- tions. He says they are lies made up by con- victed traffickers looking to reduce their sentences in exchange for co-operation with prosecutors.",
+        "bbox": [
+          0.3600204723258024,
+          0.7434356920338229,
+          0.6399064122249031,
+          0.9007565643079661
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"There is something very appealing about being considered one of the good guys. That is what the Us sells,\" said John Feeley, a retired us ambassador who served most of his career in Latin America. Visit- ing the white House and receiving delega- tions of powerful us offi cials can bolster a leader's image at home.",
+        "bbox": [
+          0.6586239672442787,
+          0.7567868268802849,
+          0.9385099071433795,
+          0.8615932354250111
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On February 25th Mr Bolsonaro called on his followers to march in Sao Paulo against an investigation into his role in the events of January 8th 2o23, when his sup- porters attempted to overturn the results of the presidential election. Mr Bolsonaro and thousands of his fans, many of whom are evangelical Christians who support Is- rael, arrived at the march draped in Israeli flags. Senators and congressmen who had been attempting to avoid association with Mr Bolsonaro felt compelled to show up in the wake of Lula's outburst.",
+        "bbox": [
+          0.06141697740732617,
+          0.796617712505563,
+          0.34130291730642687,
+          0.9666221628838452
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Honduras was a priority in the drug war due to its role as an \"air bridge\" for fights carrying cocaine from South America to the United states. The corruption and vio- lence associated with drug traffi cking turned the country into one of the most violent places in the world, and fuelled mi- gration to the United States.",
+        "bbox": [
+          0.6586239672442787,
+          0.8622607921673342,
+          0.9393872925349126,
+          0.9672897196261683
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2024.03.02_page_028_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The case raises the question of why it is hard for the United states to find trustwor- thy allies in the war on drugs. Recent ex- amples of apparent duplicity abound. In 202o, Us officials arrested former Mexican defence minister General Salvador Cien- fuegos, on charges of colluding with or- ganised crime (the charges were dropped after Mexico threatened to restrict us Drug Enforcement Administration operations in Mexico). Mexico's former Secretary of Public Security, Genaro Garcia Luna, was convicteinFebruary astyearof colling with the sinaloa syndicate during his time in office, between 20o6 and 2012. At sen- tencing, he faces a minimum of 2o years in jail. Before his arrest, Mr Garcia Luna was heralded as a \"supercop\" who worked closely with us offi cials.",
+        "bbox": [
+          0.3600204723258024,
+          0.9018691588785047,
+          0.6393214886305476,
+          0.9672897196261683
+        ],
+        "order": 25
+      }
+    ]
+  }
+]

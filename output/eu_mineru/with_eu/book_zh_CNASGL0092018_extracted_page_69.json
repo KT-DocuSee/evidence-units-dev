@@ -1,0 +1,149 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_CNASGL0092018_extracted_page_69",
+    "primary_id": "mineru_book_zh_CNASGL0092018_extracted_page_69_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "转化为标准不确定度为0.0001g。由试样称量引入的标准不确定度为：",
+        "bbox": [
+          0.13870246085011187,
+          0.0855106888361045,
+          0.7449664429530202,
+          0.10451306413301663
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_zh_CNASGL0092018_extracted_page_69",
+    "primary_id": "mineru_book_zh_CNASGL0092018_extracted_page_69_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "4.1.1.1.3容量瓶体积定值的相对标准不确定度)",
+        "bbox": [
+          0.13870246085011187,
+          0.1868566904196358,
+          0.5883668903803132,
+          0.20744259699129058
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "系统效应引入的容量计量器具（包括容量瓶、移液管、滴定管等）的不确定度来 源于器具体积定值的准确性引入的不确定度，根据GB/T12806-2011《实验室玻璃仪器 单标线容量瓶》可知VmL器具的最大允许差为xmL，其不确定度区间的半宽为xmL, 允许出现在此区间的概率是均匀的，即服从均匀分布，所以由定值准确性引入的不确 定度为(x/√3）mL：由系统效应引入的容量计量器具的相对标准不确定度可表示为：",
+        "bbox": [
+          0.13870246085011187,
+          0.21852731591448932,
+          0.883668903803132,
+          0.3388756927949327
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "配制重铬酸钾标准溶液所用容量瓶为A级1000mL查GB12806-2011实验室玻 璃仪器单标线容量瓶》可知最大允许差为0.40mL由式(C.1.4）可知由此引入的相对标 准不确定度为：",
+        "bbox": [
+          0.13870246085011187,
+          0.38638163103721296,
+          0.8814317673378076,
+          0.4513064133016627
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "book_zh_CNASGL0092018_extracted_page_69",
+    "primary_id": "mineru_book_zh_CNASGL0092018_extracted_page_69_4",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "4.1.1.1.4重铬酸钾分子量的相对标准不确定度(Mg)",
+        "bbox": [
+          0.13870246085011187,
+          0.5162311955661124,
+          0.5973154362416108,
+          0.5368171021377672
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "查1993年国际公布的元素相对原子质量表得： A(K)=39.098(1), A,(cr)=51.996(6), A(O)=15.9994(3) u[A,(K]= 0.0001, u[A(c)]=0.0006, [A(o]]=0.0003",
+        "bbox": [
+          0.14093959731543623,
+          0.547901821060966,
+          0.5838926174496645,
+          0.6349960411718132
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "重铬酸钾分子量的相对标准不确定度可表示为：",
+        "bbox": [
+          0.1789709172259508,
+          0.7078384798099763,
+          0.5950782997762863,
+          0.7252573238321457
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "由基准试剂重铬酸钾所配标准溶液浓度标准不确定度分量u（）为：",
+        "bbox": [
+          0.1789709172259508,
+          0.7727632620744259,
+          0.7606263982102909,
+          0.7917656373713381
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0092018_extracted_page_69_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.1.1.2标定时分取重铬酸钾标准溶液引入的相对标准不确定度分量(V)）",
+        "bbox": [
+          0.13646532438478748,
+          0.8836104513064132,
+          0.7785234899328859,
+          0.9041963578780681
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

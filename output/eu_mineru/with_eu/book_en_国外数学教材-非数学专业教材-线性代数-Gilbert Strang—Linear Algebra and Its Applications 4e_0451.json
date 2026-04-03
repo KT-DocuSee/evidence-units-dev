@@ -1,0 +1,139 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_0",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For linear programming, the important alternatives come when the constraints are inequalities. When is the feasible set empty (no x)?",
+        "bbox": [
+          0.14268440145102781,
+          0.08436653840672652,
+          0.9109230149133414,
+          0.12312954253954682
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8J Ax ≥ b has a solution x ≥ 0 or there is a y ≤ 0 with yA ≥ 0 and yb < 0.",
+        "bbox": [
+          0.16767432486900444,
+          0.13225024939432806,
+          0.8665860540104796,
+          0.15277183981758585
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. The slack variables w = Ax − b change Ax ≥ b into an equation. Use 8I:",
+        "bbox": [
+          0.14268440145102781,
+          0.16075245831551946,
+          0.8367593712212817,
+          0.1801339603819296
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "First alternative [A −1][] = fr some ≥0. Second alternative y[A −1] ≥ [0 0] for some wih yb <0.",
+        "bbox": [
+          0.20233776702942363,
+          0.18640444634459172,
+          0.8448206368399839,
+          0.2793216474276756
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is this result that leads to a \"nonconstructive proof' of the duality theorem.",
+        "bbox": [
+          0.16203143893591293,
+          0.3083939005272909,
+          0.841596130592503,
+          0.32834544677212485
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_5",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Problem Set 8.3",
+        "bbox": [
+          0.14349052801289802,
+          0.3710987601539119,
+          0.31035872632003225,
+          0.39048026222032206
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_6",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "1. What is the dual of the following problem: Minimize x1 + x2, subject to x1 ≥ 0, x2 ≥ 0, 2x1 ≥ 4, x1 + 3x2 ≥ 11? Find the solution to both this problem and its dual, and verify that minimum equals maximum. 2. What is the dual of the following problem: Maximize y2 subject to y1 ≥ 0, y2 ≥ 0, y1 + y2 ≤ 3? Solve both this problem and its dual. 3. Suppose A is the identity matrix (so that m = n), and the vectors b and c are nonnega- tive. Explain why x* = b is optimal in the minimum problem, find y* in the maximum problem, and verify that the two values are the same. If the fi rst component of b is negative, what are x* and y*? 4. Construct a 1 by 1 example in which Ax ≥ b, x ≥ 0 is unfeasible, and the dual problem is unbounded. 5. Starting with the 2 by 2 matrix A = [0 −1], choose b and c so that both of the feasible sets Ax ≥ b, x ≥ 0 and yA ≤ c, y ≥ 0 are empty. 6. If all entries of A, b, and c are positive, show that both the primal and the dual are feasible.",
+        "bbox": [
+          0.1354292623941959,
+          0.4041613225024939,
+          0.9101168883514712,
+          0.7678495083368961
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7. Show that x = (1, 1, 1, 0) and y = (1, 1,0, 1) are feasible in the primal and dual, with",
+        "bbox": [
+          0.14107214832728737,
+          0.7610089781958101,
+          0.9068923821039904,
+          0.7821006127974918
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Then, after computing cx and yb, explain how you know they are optimal.",
+        "bbox": [
+          0.1717049576783555,
+          0.8852786090922047,
+          0.8198307134220073,
+          0.9046601111586148
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

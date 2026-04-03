@@ -1,0 +1,301 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_0",
+    "text": "Solutions to the 62nd William Lowell Putnam Mathematical Competition Saturday, December 1, 2001",
+    "canon_role": "section_header",
+    "bbox": [
+      0.19736842886966602,
+      0.06686046501213344,
+      0.8082706789122889,
+      0.10319767372036122
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_1",
+    "text": "Manjul Bhargava, Kiran Kedlaya, and Lenny Ng",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3345864591613491,
+      0.11627907015915184,
+      0.671052630171358,
+      0.13081395324201098
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_2",
+    "text": "A-1 The hypothesis implies ((b*a) *b) *(b*a) = b for all a, b E S (by replacing a by b*a), and hence a * (b*a) = b for all a, b ES (using (b*a) *b = a).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09398495350440228,
+      0.1671511631824076,
+      0.4906015060507357,
+      0.20932539686223436
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_3",
+    "text": "A-2 Let Pn denote the desired probability. Then P1 = 1/3, and, for n > 1,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0958646822555983,
+      0.22093023301141226,
+      0.49248119562660686,
+      0.24890635010378137
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_13",
+    "text": "A -4 Choose r,s,t so that EC = rBC,FA = sCA, GB = 1СВ, and let XYZ denote the area of triangle XYZ. Then (ABE) = [AFE] since the triangles have the same altitude and base. Also (ABE] = (BE/BC) [ABC] = 1 - r, and [ECF] = (EC/BC)(CF /CA) [ABC] = r(1-s) (e.g., by the law of sines). Adding this all up yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5225563962894494,
+      0.24851190455801606,
+      0.9210526249442679,
+      0.33730158752483475
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_4",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14097744538408113,
+      0.2645348835622473,
+      0.43421052319078957,
+      0.2906976746883005
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_5",
+    "text": "The recurrence yields P2 = 2/5, P3 = 3/7, and by a simple induction, one then checks that for general n one has Pn = n/(2n+ 1).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985625873957,
+      0.3400297619922714,
+      0.4906015054724391,
+      0.3822674418899353
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_14",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5996240586008812,
+      0.3488372088784124,
+      0.8345864591485085,
+      0.3822674416141039
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_6",
+    "text": "Note: Richard Stanley points out the following noninductive argument. Put f(x) = П½=1 x+ 2k)/(2k + 1); then the coefficient of x' in f(x) is the probability of getting exactly i heads. Thus the desired number is (f(1)- f(-1))/2, and both values of f can be computed directly: f(1) = 1, and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954535339157,
+      0.38808139599590813,
+      0.49060151260400175,
+      0.47395833320142927
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_15",
+    "text": "orr (1 + s) = 1. Similarly s(1 +t) = (1 + r) = 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909816303099,
+      0.39384920680942515,
+      0.883458639610292,
+      0.4099702385554569
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_16",
+    "text": "Let f: (0,00) → [0,00) be the function given by f(x) = 1/(1 + x); then f(f(f(r))) = r. However, f(x) is strictly decreasing in x, so f(f(x)) is increasing and f(f(f(x))) is decreasing. Thus there is at most one x such that f(f(f(x))) =x; in fact, since the equation f(z) = z has a positive root z = (-1 + V5) /2, we must have r = s = t =z.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112848301682,
+      0.4141865079188396,
+      0.9191729391469218,
+      0.5146087694318431
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1522556394998444,
+      0.4854651162855157,
+      0.42481202880138247,
+      0.5159883719735108
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_17",
+    "text": "We now compute ABF = (AF/AC) [ABC| =2, [ABR] = (BR/BF) ABF] = z/2, analogously [BCS = [CAT] = z/2, and RST] = ABC - ABR - [BCS - (CAT]| = 11-32/21=2-3V5",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5562967263113663,
+      0.5218023258277565,
+      0.9172932347957474,
+      0.5832707685761128
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_8",
+    "text": "A-3 By the quadratic formula, if Pm (x) = 0, then x7 = m ‡ 2V 2m + 2, and hence the four roots of Pm are given by S= {Vm ‡ V2}. If Pm factors into two nonconstant polynomials over the integers, then some subset of S consisting of one or two elements form the roots of a polynomial with integer coefficients.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466955324184,
+      0.5319767443839581,
+      0.49072073834746405,
+      0.6206395346726964
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_18",
+    "text": "Note: the key relation r (1 + s) = 1 can also be derived by computing using homogeneous coordinates or vectors.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5555149680964453,
+      0.5885416666646655,
+      0.9191729340438677,
+      0.6300656237645523
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_9",
+    "text": "First suppose this subset has a single element, say vm ‡ V2; this element must be a rational number. Then (Vm # V2) = 2 + m 2V 2m is an integer, so m is twice a perfect square, say m = 2n. But then Vm = V2 = (n ‡ 1) V2 is only rational if n = ‡1, i.e., if m = 2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954970176249,
+      0.6264534882675261,
+      0.49060151109241035,
+      0.7108134921078971
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_19",
+    "text": "A-5 Suppose a\"+1 - (a + 1)\" = 2001. Notice that a\"+1 + (a + 1)\" - 1 is a multiple of a; thus a divides 2002 = 2x7 × 11 × 13.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360892744201,
+      0.6408730158466791,
+      0.9172932291757762,
+      0.6834570467334161
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_20",
+    "text": "Since 2001 is divisible by 3, we must have a = 1 (mod 3), otherwise one of alt! and (a + 1)\" is a multiple of 3 and the other is not, so their difference cannot be divisible by 3. Now a\"+1 = 1 (mod 3), so we must have (a + 1)\" = 1 (mod 3), which forces n to be even, and in particular at least 2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556349230208115,
+      0.690406976858643,
+      0.9210526389119592,
+      0.7748015873522592
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_10",
+    "text": "Next, suppose that the subset contains two elements; then we can take it to be one of {Vm V2}, {V2+ Vm} or {#(Vm + V2)}. In all cases, the sum and the product of the elements of the subset must be a rational number. In the first case, this means 2Vm € Q, so m is a perfect square. In the second case, we have 2V2 € Q, contradiction. In the third case, we have (Vm + V2)? € Q, or m + 2 + 2V 2m € Q, which means that m is twice a perfect square.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12767660014240578,
+      0.7194767439785242,
+      0.49067075644321656,
+      0.8531976745463957
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_21",
+    "text": "If a is even, then a\"+1 - (a + 1)\"= -(a + 1)\" (mod 4). Since n is even, -(a + 1)\" = -1 (mod 4). Since 2001 = 1 (mod 4), this is impossible. Thus a is odd, and so must divide 1001 = 7 × 11 × 13. Moreover, a\"+1 -(a+ 1)\" = a (mod 4), so a = 1 (mod 4).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706723584041,
+      0.7790178570766289,
+      0.9210526343066961,
+      0.8531976740995691
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_11",
+    "text": "We conclude that Pm (x) factors into two nonconstant polynomials over the integers if and only if m is either a square or twice a square.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955179573123,
+      0.8590116277902974,
+      0.4906015054724391,
+      0.9011627900506035
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_22",
+    "text": "Of the divisors of 7 × 11 x 13, those congruent to 1 mod 3 are precisely those not divisible by 11 (since 7 and 13 are both congruent to 1 mod 3). Thus a divides 7 × 13. Now a = 1 (mod 4) is only possible if a divides 13.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706707919883,
+      0.8590116279174775,
+      0.9210526312756813,
+      0.91569767420758
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001_12",
+    "text": "Note: a more sophisticated interpretation of this argument can be given using Galois theory. Namely, if m is neither a square nor twice a square, then the number fields @(Vm) and Q(V2) are distinct quadratic fields, so their compositum is a number field of degree 4, whose Galois group acts transitively on {Im‡V2}. Thus Pm is irreducible.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955212030868,
+      0.9084302332052105,
+      0.49060151260400175,
+      0.9360465111261848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_001",
+    "order": 23
+  }
+]

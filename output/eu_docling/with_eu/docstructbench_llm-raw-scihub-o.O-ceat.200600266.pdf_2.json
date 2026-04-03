@@ -1,0 +1,601 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_46",
+    "source": "visual_seed",
+    "member_count": 18,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hydraulic retention time was set to 8 h. The effluent was pumped under an operating pressure of AP = 0.1 MPa. The initial effluent flow was 36.7 L/m'h.",
+        "bbox": [
+          0.49806201865063404,
+          0.08854166648397999,
+          0.8837209337635381,
+          0.1279761903351758
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "chemical reaction on the sides of electrode, resulting in corrosion. It was concluded that pulse direct current field might reduce some of disadvantages mentioned above. However, the use of appending pulse direct current electric field in MBR has not been reported in the literature to date. In order to stabilize membrane flux and slow down membrane fouling, a new style MBR with the ability to control membrane fouling was built, in order to investigate the influence of pulse direct-current field on membrane flux in the presence of appending pulse direct-current field.",
+        "bbox": [
+          0.06964886250167694,
+          0.08854166652031711,
+          0.45555060583700946,
+          0.22395833340600785
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The electrode was made of stainless steel with many small, evenly distributed holes. The distance between the electrode plates was 5 cm. The membrane assembly and the electrode plates were bound together. The adjustable power regulator ST-DRPS1000F was purchased from Hangzhou Supertech Electronic Technology Corp. Ltd. (Hangzhou, China).",
+        "bbox": [
+          0.49806201803065575,
+          0.1293604653273036,
+          0.8837209289230176,
+          0.21366279068111743
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "XHPLC-28MR Programmable logical control was obtained from Changzhou Xionghua Automation Equipment Co. Ltd. (Changzhou, China).",
+        "bbox": [
+          0.49806201823220414,
+          0.21354166661479396,
+          0.8817829445593106,
+          0.25297619040684954
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_35",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2.2 Sewage Properties",
+        "bbox": [
+          0.500000003349745,
+          0.28197674406936724,
+          0.6666666666502549,
+          0.29513888866219723
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sewage water was taken from a septic tank at residential building No. 2 situated in the northern part of a university in Wuhan, China. The water quality is shown in Tab. 1.",
+        "bbox": [
+          0.496124027047892,
+          0.3095238094696039,
+          0.8837209217694574,
+          0.35029069739172025
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The reactor was made of plastic with dimensions of 40 × 30 × 42 cm. The effective volume was 40.5 L. The reactor was partitioned into two compartments by a clapboard, with one compartment twice the size of the other. A tubular aerator was fitted at the top of the pool level so that aerobic and anoxic biofilms could be formed in the upper and lower parts, respectively. The hollow fiber membrane assembly was fitted in the other pool. A small perforated pipe aerator was fitted under the membrane assembly. The clapboard height was lower than the waterline to ensure water flowed from the bigger compartment into the smaller, so that membrane fouling could be alleviated. The bioreactor is shown in Fig. 1.",
+        "bbox": [
+          0.06976744157116847,
+          0.3240709121655181,
+          0.4555992500252337,
+          0.48983134922501814
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_37",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1. Water quality in the experiments.",
+        "bbox": [
+          0.49612403233809116,
+          0.363343254204725,
+          0.740310080258808,
+          0.3764880954745663
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_46",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "CODer pH Turbidity SS | 5-potential | Water Temperature | (mg/L) | (NTU) | (mg/L) | (mV) | (°C) | 310-740 5-8 100-500 | 400-800 | -18.4-22.6 | 15-25",
+        "bbox": [
+          0.4984336525328002,
+          0.38084022888570945,
+          0.8818944249092558,
+          0.4482428515270852
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_38",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3 Results and Discussion",
+        "bbox": [
+          0.5000000003405786,
+          0.48401162829868677,
+          0.7325581390024051,
+          0.4985465113815457
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The polypropylene hollow fibrous membrane assembly was purchased from Zheda Kaihua Technical Co. Ltd. The inner and outer diameters of the membrane are 0.32 and 0.47 mm, respectively. The area of the membrane assembly was 4 m?. The length and height of the membrane were 24 cm and 22.5 cm, respectively.",
+        "bbox": [
+          0.07161943377193658,
+          0.4912790696325939,
+          0.4554263601201271,
+          0.5726744187324423
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_39",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3.1 Influence of Pulse Direct Current Electric Field on Membrane Flux in the MBR",
+        "bbox": [
+          0.49612404605189947,
+          0.5145348839309543,
+          0.860465110343449,
+          0.543650793764521
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In order to research the effect of the pulse direct current field on membrane flux, the change in membrane flux was measured at three different electric fields: 20 V/cm steady direct current field, 20 V/cm electric field with 10 s pulse duration, 30 min pulse interval, and no appending electric field. These were controlled respectively in the MBR. The results are shown in Fig. 2. It can be seen from Fig. 2 that the average membrane flux in pulsed direct current field varies between the values for membrane flux in continuous direct current field and no electric field, under the same electric field strength.",
+        "bbox": [
+          0.49612403685821993,
+          0.5566860468888029,
+          0.8837209253462374,
+          0.6933139534223647
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Activated sludge was taken from Wuhan Shahu Sewage Treatment Plant. The initial incubation concentration was 4.5 g/L. The MBR began to operate formally after the active sludge was cultured for 7 days. No sludge was discharged during experiments under normal conditions.",
+        "bbox": [
+          0.06976744193474861,
+          0.5741279070962568,
+          0.4554263599263287,
+          0.6409883718332173
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The membrane flux in Fig. 2, curve (c) drops continuously with time during the complete operation. This could be caused by the continuous sedimentation of minute particles on the membrane surface, which clogged pores of the membrane.",
+        "bbox": [
+          0.4980620152145793,
+          0.6946924603952693,
+          0.8837209292565252,
+          0.7499999997889754
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The membrane flux in Fig. 2, curve (a) becomes stable after a transit reduction with an increase of operation time under 20 V/cm appending steady electric field strength. Its average membrane flux was the highest of all experiments carried out.",
+        "bbox": [
+          0.4980620187832847,
+          0.751453488341201,
+          0.8837209353058507,
+          0.8038194446444678
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It can be seen from Fig. 2, curve (b) that the membrane flux increases immediately after the application of an electric pulse. The rate of reduction of the average membrane flux is lower than that found with no electric field. This suggests that the application of pulsed electric field in MBRs is an effective method for resisting the deposition of particles on the membrane surface, cleaning the filter cake, and reducing membrane",
+        "bbox": [
+          0.4980620187832847,
+          0.8066860467229843,
+          0.8837209289230176,
+          0.9011627905589926
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_9",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 1. Schematic of the new style membrane bioreactor after applying the appending direct pulse current field.",
+        "bbox": [
+          0.06782945872504323,
+          0.8764534882735825,
+          0.4554263517028266,
+          0.9026162786635227
+        ],
+        "order": 46
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_4",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2 Experimental Setup and Sewage Properties",
+        "bbox": [
+          0.06976744628441303,
+          0.2514534880535577,
+          0.37984496456829997,
+          0.2848837211094752
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2.1 Experimental Setup",
+        "bbox": [
+          0.07170542852337189,
+          0.29786706353806963,
+          0.24612403129574947,
+          0.31104651098083586
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_47",
+    "source": "visual_seed",
+    "member_count": 23,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_47",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07178236539624924,
+          0.6583329976307514,
+          0.4498442403489867,
+          0.8651755532673674
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On-off",
+        "bbox": [
+          0.11419534352032167,
+          0.6609388595305979,
+          0.15518450042890353,
+          0.6704564894719024
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "- DC -",
+        "bbox": [
+          0.2810077529597201,
+          0.668604651400373,
+          0.3158914730092721,
+          0.6773313489928812
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On-off",
+        "bbox": [
+          0.2248062021033811,
+          0.6715116279921531,
+          0.2635658918888669,
+          0.6816860462447651
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Level",
+        "bbox": [
+          0.15697674457936844,
+          0.6715116286970638,
+          0.20348837131210443,
+          0.6889534880180525
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "control",
+        "bbox": [
+          0.11434108573790802,
+          0.6729651166620009,
+          0.15503875786674318,
+          0.6816860463224953
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "control",
+        "bbox": [
+          0.22286821861904496,
+          0.6831395350244039,
+          0.26356589074788006,
+          0.6918604646848985
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sensor",
+        "bbox": [
+          0.17054263508141732,
+          0.6889534886042852,
+          0.20930232486690317,
+          0.6962209301457147
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Pressure",
+        "bbox": [
+          0.403100776251686,
+          0.7005813957075435,
+          0.4515503853277712,
+          0.7093023253680377
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P gauge",
+        "bbox": [
+          0.38759690103972694,
+          0.7078373019837461,
+          0.439922479851746,
+          0.7239583337297778
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "* Ж Ж Ж Ж ЖОЖО",
+        "bbox": [
+          0.17248061630546177,
+          0.713662789830663,
+          0.19186046877205762,
+          0.7819767441991333
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "* Ж Ж Ж Ж Ж ЖОН",
+        "bbox": [
+          0.19767441393799828,
+          0.7136627915341399,
+          0.21899225253486995,
+          0.7848837193024233
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ж Ж ЖЖ Х",
+        "bbox": [
+          0.14534883462203418,
+          0.7151162794346986,
+          0.1647286845640124,
+          0.7558139524451463
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Feed",
+        "bbox": [
+          0.07170542747884986,
+          0.7209302326614847,
+          0.10271317779246798,
+          0.7311046509140967
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On-off",
+        "bbox": [
+          0.4011627918504361,
+          0.7252906974996,
+          0.4437984488472382,
+          0.7383720929364469
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "pump",
+        "bbox": [
+          0.07170542679692944,
+          0.7325581394555423,
+          0.10658914684648142,
+          0.7441860463002716
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "control",
+        "bbox": [
+          0.39728682200184917,
+          0.7383720931427685,
+          0.44379844873458507,
+          0.7514534885796155
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "permeate",
+        "bbox": [
+          0.3623681496068183,
+          0.7658691733957914,
+          0.41476363508150127,
+          0.7748285008210668
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "К Ж ЖЖ",
+        "bbox": [
+          0.19961240069942845,
+          0.7834302315608868,
+          0.21705426577343973,
+          0.8183139539872861
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Flower F",
+        "bbox": [
+          0.16085271192314207,
+          0.8444767442883911,
+          0.21899224786367966,
+          0.8561507936431261
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Blower ® Flower",
+        "bbox": [
+          0.23643411346913434,
+          0.8444767446127616,
+          0.3333333316213049,
+          0.8619186039337502
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "meter",
+        "bbox": [
+          0.16085271421637803,
+          0.8575581396398957,
+          0.1937984493979631,
+          0.8648255811813252
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600266.pdf_2_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "meter",
+        "bbox": [
+          0.29263565979111544,
+          0.8575581396398957,
+          0.3275193798406675,
+          0.8648255811813252
+        ],
+        "order": 45
+      }
+    ]
+  }
+]

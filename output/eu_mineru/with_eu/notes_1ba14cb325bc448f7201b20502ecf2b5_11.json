@@ -1,0 +1,107 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_11",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.从地图上获取信息",
+        "bbox": [
+          0.12552301255230125,
+          0.16666666666666666,
+          0.3449558344955834,
+          0.18906455862977603
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)地图常如种类：导游图、交通图，政区图 (2)比例尺大小与地图范围.详略的对应关系：",
+        "bbox": [
+          0.1487680148768015,
+          0.1976284584980237,
+          0.5932124593212459,
+          0.2503293807641634
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_11",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1515574151557415,
+          0.2549407114624506,
+          0.8247326824732683,
+          0.3438735177865613
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_11",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在图幅一样大的情况下.选取的比例尺越大，反映的实地范围越 小，反映的地理信息就越详细：反之亦然",
+        "bbox": [
+          0.16178521617852162,
+          0.35046113306982873,
+          0.8451882845188284,
+          0.4044795783926219
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_11",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_11_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06322640632264064,
+          0.4137022397891963,
+          0.9716410971641097,
+          0.7569169960474308
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

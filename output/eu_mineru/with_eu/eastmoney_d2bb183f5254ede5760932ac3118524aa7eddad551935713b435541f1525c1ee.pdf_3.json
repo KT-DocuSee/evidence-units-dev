@@ -1,0 +1,136 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3",
+    "primary_id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_0",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图表2：全国R&D经费投入强度(%)",
+        "bbox": [
+          0.0709391374445788,
+          0.10089781958101753,
+          0.3708182184602983,
+          0.11742910075530853
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3",
+    "primary_id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_1",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0765820233776703,
+          0.12255949836112298,
+          0.7843611446997178,
+          0.29813310531566195
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_2",
+        "observed_type": "image_footnote",
+        "canon_role": "support_paragraph",
+        "text": "来源：国家统计局、农银国际证券",
+        "bbox": [
+          0.07416364369205965,
+          0.3009833262077811,
+          0.2781136638452237,
+          0.314664386489953
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "四、 专利密集型产业步入快速增长轨道，成为拉动经济增长的重要因素",
+        "bbox": [
+          0.11043933897621927,
+          0.36140800912070686,
+          0.7690447400241838,
+          0.380789511187117
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "要将研发成果商业化，推动经济增长，关键因素是专利保护。专利是企业业务的一条护城 河，专利也是研发活动的成果。有了专利保护，商业化价值就会提升。据国家统计局的数据，2022 年专利密集型产业增加值占GDP的比重为12.71%，而2018年为11.6%。2018年至2022年，专 利密集型产业增加值年复合增长率为9.4%，同期名义GDP值年复合增长率为7.1%。 专利密集型 产业经济的增长速度快于整体经济的增长速度。专利密集型产业虽然取得了较快的经济增长速度， 但其在整体经济中的比重仍然较小，约为13%。由此看来，持续新质生产力发展的工作对于推动 研发、实现创新、获得专利保护、提升商业价值、拉动经济增长具有重要意义。",
+        "bbox": [
+          0.07255139056831923,
+          0.400741057431951,
+          0.9302700523982266,
+          0.5877155479549665
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "图表3：专利密集型产业增加值 新装备制造业、新材料制造业和医药医疗产业增速较慢",
+        "bbox": [
+          0.07335751713018944,
+          0.6036767849508337,
+          0.5223700120918985,
+          0.639019524013111
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_7",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "来源：国家统计局、农银国际证券",
+        "bbox": [
+          0.07496977025392987,
+          0.8544962234573179,
+          0.2789197904070939,
+          0.867607239561066
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3",
+    "primary_id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_3_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07416364369205965,
+          0.6401596123699587,
+          0.7859733978234583,
+          0.851075958386775
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

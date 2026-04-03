@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_82",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_82_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_82_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7905544146848212,
+          0.08720930237442082,
+          0.8254620116498812,
+          0.09738372062703271
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_82",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_82_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_82_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "в 7. | 17 | TRENTI | SEI F. | GEMMERARa | H + 70D | 666.5754.1098km | 43.8751. 25.4 Km | taRE | #00516037 | 199747818 | 1999512820B | TH MAEST",
+        "bbox": [
+          0.07206159988041536,
+          0.18111726209182966,
+          0.9776841167625523,
+          0.6171812940561759
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_82",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_82_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_82_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "IO PERIAM AMEN A47+87*A5.0855742.",
+        "bbox": [
+          0.07489261068559591,
+          0.6517474371259563,
+          0.9821321921036,
+          0.9272273554147643
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

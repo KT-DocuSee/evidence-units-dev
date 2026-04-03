@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "jiaocai_jiaocai_en_310",
+    "primary_id": "mineru_jiaocai_jiaocai_en_310_2",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_310_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "浙江大学2015-2016学年秋冬学期 研究《计算理论》课程期终考试试卷",
+        "bbox": [
+          0.27488915759774285,
+          0.08265640587145504,
+          0.7198710197501008,
+          0.1413709562491093
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_310_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "考试形式：闭卷，考试时间：2016年115，所需时间:120分钟 学号： 姓名： 专业： 任课教师：金小刚",
+        "bbox": [
+          0.11769447803305119,
+          0.15391192817443353,
+          0.8786779524385329,
+          0.20806612512469716
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_310_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.14510278113663846,
+          0.22174718540686902,
+          0.8496573962112052,
+          0.31580447484680063
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_310_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Zhejiang University Theory of Computation, Fall-Winter 2015 Final Exam",
+        "bbox": [
+          0.2877871825876663,
+          0.327775402593701,
+          0.7069729947601774,
+          0.38192959954396466
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_310_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(a) ( ) Let L be any regular language. Then the number of equivalence classes respect to language L (i.e. x ≈L y, if for all z ∈ ∑*, xz ∈ L iff yz ∈ L ) is inite. (b) ( ) The language {anbnw|w ∈ {a, b}*, n ∈ N, and |ω| = 2n} is context-free. (c) ( ) The language {\"M”\"w\"|M accepts w in less than 2016 steps } is not recursive. (d) ( ) The language {\"M” | M is a TM and L(M) is Context-free but L(M) is not regular} is not recursive. (e) ( ) The language {\"M1” \"M2” | M1 and M2 are TMs, and M1 halts on e but M2 doesn't halt on e} is recursively enumerable, but not recursive. (f)( ) The set of all primitive recursive functions is a proper subset of the set of all-recursive functions. (g) ( ) Let A and B be two disjoint recursively enumerable languages. If AU B is also be recursively enumerable, then it is possible that neither A nor B is decidable. (h) ( ) Let H10 = {\"M\"|M is a TM and 10 ∈ L(M)} and τ1 and τ2 are recursive functions. If H1o ≤τ1 L and H1o ≤r2 L, then L is recursive enumerable but not recursive. (i) ( ) Suppose SAT ≤p L and L ∈ P. Then P = NP. (j) ( ) Let H = {\"M” \"w\"| TM M halts on input string wW}, then H is NP-complet",
+        "bbox": [
+          0.15880693268843207,
+          0.44064414992161893,
+          0.8778718258766627,
+          0.8391050306398746
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocai_jiaocai_en_310",
+    "primary_id": "mineru_jiaocai_jiaocai_en_310_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_310_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. (20%) Determine whether the following statements are true or false. If it is true write a  otherwise a × in the bracket before the statement.",
+        "bbox": [
+          0.12978637646110439,
+          0.397320792361408,
+          0.8778718258766627,
+          0.433803619780533
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

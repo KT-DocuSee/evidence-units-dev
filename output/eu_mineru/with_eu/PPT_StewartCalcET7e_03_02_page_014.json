@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_014",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_014_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_014_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We find a rule for differentiating the quotient of two differentiable functions u = f(x) and v = g(x) in much the same way that we found the Product Rule.",
+        "bbox": [
+          0.05533333333333333,
+          0.22133333333333333,
+          0.89,
+          0.3804444444444444
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_014_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If x, u, and v change by amounts Δx, ∆u, and ∆v, then the corresponding change in the quotient u/v is",
+        "bbox": [
+          0.056,
+          0.4471111111111111,
+          0.908,
+          0.5528888888888889
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

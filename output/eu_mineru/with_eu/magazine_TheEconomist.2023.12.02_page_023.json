@@ -1,0 +1,309 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.12.02_page_023",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.02_page_023_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Purdue Pharma and the Sacklers",
+        "bbox": [
+          0.06186666666666667,
+          0.06761078117862038,
+          0.27973333333333333,
+          0.08060504542916604
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.12.02_page_023",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.02_page_023_7",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6592,
+          0.06801685193644992,
+          0.9386666666666666,
+          0.10740571544591646
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3602666666666667,
+          0.20080198974671337,
+          0.6394666666666666,
+          0.3715547434140399
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06133333333333333,
+          0.6661590782193797,
+          0.6384,
+          0.9518298563524694
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_8",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "OxyConflict",
+        "bbox": [
+          0.0616,
+          0.9546723516572763,
+          0.14213333333333333,
+          0.9680726866656515
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.12.02_page_023",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.02_page_023_1",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "A case study in unsavoury trade-offs",
+        "bbox": [
+          0.06346666666666667,
+          0.08486878838637632,
+          0.58,
+          0.11024821075072332
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The us bankruptcy trustee, a watchdog within the Justice Department, sued to void the deal. It argues that the release vio- lates holdouts due-process rights and that the bankruptcy court lacked the power to grantit. In August the Supreme Court froze the setlement. The justices may toss it out and bar non-debtor releases in cases other than asbestos bankruptcies, for which Congress expressly allowed them.",
+        "bbox": [
+          0.6594666666666666,
+          0.1086239277194051,
+          0.9386666666666666,
+          0.23978478249835034
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.12.02_page_023",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.02_page_023_2",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "NEWYORK The Supreme Court may toss out the opioid-maker's controversial bankruptcy settlement",
+        "bbox": [
+          0.06133333333333333,
+          0.15491599411197401,
+          0.5232,
+          0.1928836099690371
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ar wrte an artice calleAgainst se tlement\", about lawsuits' social purpose. Big civil disputes of public import, he ar- gued, are about more than money damag- es. Rather, they presenta chance for collec- tive reckoning: airing harms, assigning fault, upholding values. Trials render judg- ments about conduct. Private settlements, by contrast, might buy peace while leaving justice undone.",
+        "bbox": [
+          0.0616,
+          0.20100502512562815,
+          0.34053333333333335,
+          0.34516014415511903
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Critics of the settlement dislike its coer- cive quid pro quo. The Sacklers, they argue, should be sued until verdicts compel them to fi le for bankruptcy, which would ulti- mately unlock more money for claimants. It is illegal for debtors to siphon funds from a bankruptcy estate before filing: some allege that the family's withdrawals from Purdue constituted fraudulent trans- fers that ought to be clawed back in full.",
+        "bbox": [
+          0.6592,
+          0.24039388863509467,
+          0.9389333333333333,
+          0.37196081417186944
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The trade-offs between justice and money are at the heart of how to handle the fi rm that helped spawn America's opioid epidemic, as well as its former owners: Purdue Pharma and the Sackler family. On December 4th the Supreme Court will con- sider whether a bankruptcy settlement re- solving claims against Purdue and the Sacklers, hashed out over several years, can go ahead. At issue are questions of ac- countability and compensation in a crisis that still claims 8o,ooo lives a year and in- curs billions of dollars in health-care costs.",
+        "bbox": [
+          0.0616,
+          0.34678442718643726,
+          0.3408,
+          0.5169280747170194
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "That halted thousands of lawsuits against Purdue and the Sacklers, and brought them to the negotiating table with claimants—states, tribes, hospitals and in- dividuals. The Sacklers offered around $6bn (up from $4.3bn initially), in ex- change for immunity from Purdue-related civil liability. The provision is known as a non-debtor release, since the Sacklers did not declare bankruptcy themselves. They also agreed to relinquish ownership of Purdue and put its future profits towards opioid abatement.",
+        "bbox": [
+          0.3602666666666667,
+          0.37338206182427286,
+          0.6394666666666666,
+          0.5433226739759404
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.12.02_page_023",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.02_page_023_15",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_15",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Deal or no deal?",
+        "bbox": [
+          0.6594666666666666,
+          0.38657936145373334,
+          0.7661333333333333,
+          0.3985584488097051
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But could claimants really do better by duking it out individually with the Sack- lers in court? In all likelihood they would end up with less, says William Organek of Baruch College's business school. More than 7o family members benefited from ownership of Purdue; each would mount his or her own defence. Lawsuits and col- lection of judgments would take years, if not decades. Recovery of the whole fortune may be impossible since much of it is stashed in offshore trusts. Fraudulent- transfer claims would run up against a statute of limitations. Edward Neiger, a lawyer for victims, says that the Sacklers' $6bn offer represents the piece of their for- tune within the grasp of American courts.",
+        "bbox": [
+          0.6594666666666666,
+          0.3999796964621085,
+          0.9392,
+          0.6237246840261915
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In 1996 Purdue began selling OxyCon- tin, a highly addictive opioid painkiller that it advertised as safe. Even as concerns grew about abuse of the drug, the fi rm downplayed them and marketed it aggres- sively, turning OxyContin into America's most prescribed branded narcotic pain-re- liever. By the early 2ooos lawsuits against Purdue were piling up.",
+        "bbox": [
+          0.0616,
+          0.5183493223694229,
+          0.3410666666666667,
+          0.6367189482767373
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "All 5o states approved the settlement. So did 96% of the individual claimants who voted. But less than half voted. Con- troversially, the deal binds holdouts, both objectors and abstainers, who will not be able to go after the Sacklers in court for, say, negligence or fraud. The Sacklers deny wrongdoing related to Purdue and have promised to fight all claims if the settle- ment falls apart. (The release does not shield them from criminal liability.)",
+        "bbox": [
+          0.3602666666666667,
+          0.5451499923861733,
+          0.6394666666666666,
+          0.6501192832851125
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Objections are about more than money: holdouts want to deprive the Sacklers of the peace of mind that comes with a re- lease. \"They're drug-dealers and they need to be punished to the fullest extent of the law,\"says Ellen Isaacs, whose son died of an overdose after getting hooked on Oxy- Contin. She is one ofseveral claimants, out of hundreds of thousands, who joined the Us trustee's appeal. should the court rule in their favour, Douglas Baird of the Universi- ty of Chicago says he would not be shocked if the Sacklers end up settling with the vast majority ofclaimants who want quick, cer- tain payouts while accepting the risk that some stray holdouts will sue.",
+        "bbox": [
+          0.6597333333333333,
+          0.6247398609207654,
+          0.9392,
+          0.8348814780975585
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Sacklers expected that they too would be named as defendants. About ten served as directors or officers of the fi rm, out of dozens of family members who col- lectively owned it. Between 2oo8 and 2016 they upped Purdue's distributions to fam- ily trusts and holding companies, draining about $iibn from the fi rm—in what one family member described as \"more of a smart milking programme than a growth programme\". In 2o19 the drugmaker, then worth an estimated $1.8bn, fi led for bank- ruptcy. At the time claims against it and the Sacklers were put at more than $4otrn.",
+        "bbox": [
+          0.08373333333333334,
+          0.6377341251713111,
+          0.34026666666666666,
+          0.6497132125272829
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.12.02_page_023",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.02_page_023_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.02_page_023_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Bankruptcy is fraught by nature: credi- tors are squeezing value from a limited pie and jostling over their share of it. Add big moral and social questions, and the result is satisfying for no one but lawyers. Even if Purdue's deal goes through, payouts to in- dividual victims are paltry. They will get between $3,50o and $48,ooo each—while the Sacklers hold on to a fortune of several billion dollars.",
+        "bbox": [
+          0.6594666666666666,
+          0.8363027257499619,
+          0.9392,
+          0.967666615907822
+        ],
+        "order": 18
+      }
+    ]
+  }
+]

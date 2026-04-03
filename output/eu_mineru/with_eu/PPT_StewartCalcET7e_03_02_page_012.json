@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_012",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_012_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_012_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Further applications of the Product Rule give",
+        "bbox": [
+          0.05533333333333333,
+          0.22133333333333333,
+          0.724,
+          0.27555555555555555
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_012",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_012_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_012_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In fact, each successive differentiation adds another term ex, so",
+        "bbox": [
+          0.054,
+          0.43377777777777776,
+          0.9073333333333333,
+          0.5404444444444444
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

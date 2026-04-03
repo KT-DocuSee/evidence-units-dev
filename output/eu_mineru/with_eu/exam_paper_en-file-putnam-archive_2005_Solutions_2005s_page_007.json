@@ -1,0 +1,222 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution: (by Richard Stanley) The cycle indica- tor of the symmetric group Sn is defined by",
+        "bbox": [
+          0.12705882352941175,
+          0.06606060606060606,
+          0.4894117647058824,
+          0.09636363636363636
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Expanding the right side as a Taylor series and compar- ing coefficients yields the desired result.",
+        "bbox": [
+          0.5568627450980392,
+          0.06666666666666667,
+          0.9184313725490196,
+          0.09575757575757576
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fourth solution (sketch): (by David Savitt) We prove the identity of rational functions",
+        "bbox": [
+          0.556078431372549,
+          0.1006060606060606,
+          0.9184313725490196,
+          0.1296969696969697
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where ci(π) is the number of cycles of π of length i. Put",
+        "bbox": [
+          0.12705882352941175,
+          0.1503030303030303,
+          0.49019607843137253,
+          0.16545454545454547
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "by induction on n, which for x = 1 implies the desired result. (This can also be deduced as in the other solu- tions, but in this argument it is necessary to formulate the strong induction hypothesis.)",
+        "bbox": [
+          0.556078431372549,
+          0.1890909090909091,
+          0.9192156862745098,
+          0.24787878787878787
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and",
+        "bbox": [
+          0.12705882352941175,
+          0.21878787878787878,
+          0.15450980392156863,
+          0.2315151515151515
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let R(n, x) be the right hand side of the above equation. It is easy to verify that",
+        "bbox": [
+          0.5568627450980392,
+          0.25212121212121213,
+          0.9184313725490196,
+          0.2818181818181818
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A standard argument in enumerative combinatorics (the Exponential Formula) gives",
+        "bbox": [
+          0.12627450980392158,
+          0.2884848484848485,
+          0.49019607843137253,
+          0.31757575757575757
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "since the sum telescopes. To prove the desired equality, it suffi ces to show that the left hand side satisfies the same recurrence. This follows because we can classify each π ∈ Sn as either fixing n, being an n-cycle, or hav- ing n in an l-cycle for one of I = 2, . ., n − 1; writing the sum over these classes gives the desired recurrence.",
+        "bbox": [
+          0.556078431372549,
+          0.37393939393939396,
+          0.92,
+          0.4618181818181818
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_007_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "yielding",
+        "bbox": [
+          0.12705882352941175,
+          0.37575757575757573,
+          0.18352941176470589,
+          0.39090909090909093
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

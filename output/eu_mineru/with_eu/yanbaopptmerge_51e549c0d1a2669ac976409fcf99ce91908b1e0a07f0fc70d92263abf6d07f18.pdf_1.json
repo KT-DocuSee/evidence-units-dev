@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_51e549c0d1a2669ac976409fcf99ce91908b1e0a07f0fc70d92263abf6d07f18.pdf_1",
+    "primary_id": "mineru_yanbaopptmerge_51e549c0d1a2669ac976409fcf99ce91908b1e0a07f0fc70d92263abf6d07f18.pdf_1_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_51e549c0d1a2669ac976409fcf99ce91908b1e0a07f0fc70d92263abf6d07f18.pdf_1_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.38774687625957277,
+          0.11742910075530853,
+          0.9254332930270053,
+          0.31010403306256235
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_51e549c0d1a2669ac976409fcf99ce91908b1e0a07f0fc70d92263abf6d07f18.pdf_1",
+    "primary_id": "mineru_yanbaopptmerge_51e549c0d1a2669ac976409fcf99ce91908b1e0a07f0fc70d92263abf6d07f18.pdf_1_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_51e549c0d1a2669ac976409fcf99ce91908b1e0a07f0fc70d92263abf6d07f18.pdf_1_1",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：公司公告，中邮证券研究所",
+        "bbox": [
+          0.39338976219266425,
+          0.31124412141941,
+          0.6247480854494155,
+          0.32435513752315803
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "primary_id": "mineru_PPT_fundamental_theorem_of_calculus___page_005_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_fundamental_theorem_of_calculus___page_005_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Generally, this is what we could do:",
+        "bbox": [
+          0.038,
+          0.011555555555555555,
+          0.6826666666666666,
+          0.07644444444444444
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_fundamental_theorem_of_calculus___page_005_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Area of 1 rectangle ≈ f(x) × h f(x) h Area of all the rectangles ≈ ∑.f(x)× h Actual area under the curve = lim ∑.f(x)×h h→0 whichis writen as ∫f(x) dx ( but evaluating this limit is incredibly complicated)",
+        "bbox": [
+          0.023333333333333334,
+          0.12266666666666666,
+          0.9666666666666667,
+          0.9075555555555556
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

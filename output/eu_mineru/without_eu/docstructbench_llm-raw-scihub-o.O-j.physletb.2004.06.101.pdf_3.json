@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_0",
+    "text": "For consistency, the time derivative of the constraints of (10) must vanish and hence they must have vanishing Poisson bracket with H. Using the fundamental Poisson brackets",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07873727456320836,
+      0.12006907502637414,
+      0.9173808036317997,
+      0.15379634329220956
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_1",
+    "text": "etc., we find that the primary constraints of (10) imply the secondary constraints",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07873727456320836,
+      0.18752361155804498,
+      0.6701823834914944,
+      0.20506179105627942
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_2",
+    "text": "If 2 = 0 (the Cremmer-Scherk model Lagrangian [1]), the constraints of (14) would become reducible as then ∂i ∑i = 0 and only the transverse portions of ∑i are constraints. Furthermore, with 2 ≠ 0, the requirement i = 0 leads to a tertiary constraint",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07873727456320836,
+      0.24013815005274827,
+      0.9210430024486931,
+      0.28735632562491786
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_3",
+    "text": "with ∑i and Tk constituting second class constraints as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.3224326846213867,
+      0.4870724426468238,
+      0.3386217733889877
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_4",
+    "text": "All other constraints are first class and no further constraints need to be imposed for consistency. There are consequently ive first class constraints (φU, φ and Σ) and six second class constraints (∑i and Tk). The con- straints φU and ∑ correspond to the usual gauge transformations δ Wo = ∂0Ω, δ Wi = ∂iΩ2 associated with a gauge field W, while ΦA is associated with the fact that in (12) Ak acts merely as a Lagrange multiplier (i.e., i is not dynamical) and hence its value is completely arbitrary. Suitable gauge conditions associated with the first class constraints are",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07873727456320836,
+      0.37234904165482313,
+      0.9192119030402464,
+      0.4708326649910626
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_5",
+    "text": "From (10), (14), (15) and (17) it is evident that the only dynamical degrees of freedom are",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07690617515476166,
+      0.5059090239875315,
+      0.7434263598293627,
+      0.5220981127551324
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_6",
+    "text": "We can verify this directly by explicitly eliminating the non-physical degrees of freedom in (4). First, one decomposes Vk, Ak and Bk into transverse (T) and longitudinal (L) parts where",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07873727456320836,
+      0.5558253810209679,
+      0.9192119030402464,
+      0.5895526492868033
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_7",
+    "text": "etc. (4) now becomes",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.6232799175526388,
+      0.2453673207318586,
+      0.6381199155896063
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_8",
+    "text": "The equations of motion for AL and U, respectively, imply that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.6974799077374767,
+      0.5493298225340117,
+      0.7150180872357111
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_9",
+    "text": "reducing (20) to",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.7487453555015465,
+      0.20325203433758438,
+      0.7649344442691476
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_10",
+    "text": "Since",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.8000108032656164,
+      0.12451475977437601,
+      0.8161998920332174
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_11",
+    "text": "we can eliminate ∇ × AT from (22) to obtain",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07873727456320836,
+      0.8512762510296863,
+      0.41932176453429565,
+      0.8688144305279206
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "order": 12
+  }
+]

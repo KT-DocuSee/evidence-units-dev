@@ -1,0 +1,221 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Moreover, for 1 ≤ k ≤ n such numbers satisfy the recurrence relation",
+        "bbox": [
+          0.12114538119727826,
+          0.09300595215426072,
+          0.7555066138688008,
+          0.10912698390029249
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3609154774367068,
+          0.1254013786596136,
+          0.6412871677709409,
+          0.16529629631422635
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_4",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which is known as Stifel's relation and allows us to prove that (k) € N for every n and k as above.",
+        "bbox": [
+          0.12085415068856954,
+          0.18303571462988577,
+          0.8766519759356873,
+          0.21681013415235417
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proposition 1.26 If A is a finite set with n elements and 0 ≤ k ≤ n, then A possesses exactly (k) subsets of k elements.",
+        "bbox": [
+          0.118942738047064,
+          0.22817460343703153,
+          0.8744493176851509,
+          0.26463293668295534
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof If k = 0 there is nothing to do, for & is the only subset of A having 0 elements and (6) = 1. Thus, let 1 ≤ k ≤ n and Ch be the number of subsets of A with k elements.",
+        "bbox": [
+          0.12114537371188974,
+          0.2732558144528776,
+          0.8788546288324531,
+          0.32452146658764486
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For a fixed x € A, there are two kinds of subsets of A with k elements: those which do not contain x and those which do contain x. The former ones are precisely the k-element subsets of A | (x); since |A | {x) = n - 1, there are exactly CA-' of these subsets of k elements of A.",
+        "bbox": [
+          0.11875352520600096,
+          0.3283730161869168,
+          0.8792005870745396,
+          0.39689039490455497
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On the other hand, if B C A has k elements and x € B, then B \\ {x) C A \\ {x} has k - 1 elements; conversely, if B' C A \\{x} has k - 1 elements, then B'U{x} C A has k elements, one of which is x. Since such correspondences are clearly inverses of each other, we conclude that there are as many k-element subsets of A containing x, as there are k - 1 element subsets of A | {x}; thus, there are exactly C-, such k-element subsets of A.",
+        "bbox": [
+          0.12114537390124021,
+          0.39970930211605765,
+          0.8788546361063919,
+          0.5045143642060584
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Taking these two contributions into account, we obtain for 1 ≤ k ≤ n the recurrence relation",
+        "bbox": [
+          0.1211453767511831,
+          0.5071924605790463,
+          0.8788546053921846,
+          0.5377906970273475
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5506607931661633,
+          0.5697674421464971,
+          0.5969162978029996,
+          0.5784883718069915
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_11",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which is identical to Stifel's relation for the binomial numbers (k). Finally, since C0 = 1 = (0) and C} = n = (,) (for A has exactly n subsets of 1 element each the sets (x), with x € A), an easy induction gives CÄ = (2) for 0 ≤k ≤ n.",
+        "bbox": [
+          0.12114536704155215,
+          0.6001984124509404,
+          0.8766519771948649,
+          0.658482142866812
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In words, the previous proposition computes how many are the unordered choices of k distinct elements of a set having n elements; one uses to say that such choices are the combinations of n objects, taking k at a time. Also thanks to the former proposition, one uses to refer to the binomial number (k) as \"n chooses k\".",
+        "bbox": [
+          0.11894272895543576,
+          0.6656746030881944,
+          0.8788546361063919,
+          0.7369186042971222
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Example 1.27 When all diagonals of a certain convex octagon have been drawn, one noticed that there were no three of them passing through a single interior point of the octagon. How many points in the interior of the octagon are intersection points of two of its diagonals?",
+        "bbox": [
+          0.12114537985619266,
+          0.7470238093367887,
+          0.8788546361063919,
+          0.8169642858024061
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Solution Firstly, note that the condition on the diagonals of the octagon guarantees that each one of the points of intersection we wish to count is determined by a single pair of diagonals. Hence, it suffices to count how many pairs of diagonals of the octagon intersect in its interior. To this end, note that each 4-element subset of",
+        "bbox": [
+          0.1211453680104251,
+          0.8283730160643709,
+          0.8788546361063919,
+          0.8968253966818807
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

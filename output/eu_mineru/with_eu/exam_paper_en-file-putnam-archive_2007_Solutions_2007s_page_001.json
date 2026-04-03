@@ -1,0 +1,332 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Solutions to the 68th William Lowell Putnam Mathematical Competition Saturday, December 1, 2007",
+        "bbox": [
+          0.1992156862745098,
+          0.06363636363636363,
+          0.807843137254902,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Manjul Bhargava, Kiran Kedlaya, and Lenny Ng",
+        "bbox": [
+          0.3349019607843137,
+          0.11393939393939394,
+          0.6713725490196079,
+          0.1290909090909091
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−1 The only such α are 2/3, 3/2, (13 ± √601)/12.",
+        "bbox": [
+          0.09254901960784313,
+          0.16363636363636364,
+          0.4392156862745098,
+          0.1806060606060606
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: For any nonzero value of α, the two conics will intersect in four points in the complex pro- jective plane P2(C). To determine the y-coordinates of these intersection points, subtract the two equations to obtain",
+        "bbox": [
+          0.5568627450980392,
+          0.16545454545454547,
+          0.9192156862745098,
+          0.23696969696969697
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "First solution: Let C1 and C2 be the curves y = ox2 + αx + 24 andx = αy2 + αy + 24, respectively, and let L be the line y = x. We consider three cases.",
+        "bbox": [
+          0.12705882352941175,
+          0.18424242424242424,
+          0.4894117647058824,
+          0.22848484848484849
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If C1 is tangent to L, then the point of tangency (x, x) satisfi es",
+        "bbox": [
+          0.12705882352941175,
+          0.23272727272727273,
+          0.4886274509803922,
+          0.26181818181818184
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Therefore, at a point of intersection we have either x = y, or x = −1/α − (y + 1). Substituting these two pos- sible linear conditions into the second equation shows that the y-coordinate of a point of intersection is a root of either Q1(y) = αy2 + (α − 1)y + 1/24 or Q2(y) = αy2 + (α + 1)y + 25/24 + 1/α.",
+        "bbox": [
+          0.5568627450980392,
+          0.276969696969697,
+          0.9192156862745098,
+          0.36484848484848487
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "by symmetry, C2 is tangent to L there, so C1 and C2 are tangent. Writing α = 1/(2x + 1) in the first equation and substituting into the second, we must have",
+        "bbox": [
+          0.12705882352941175,
+          0.3096969696969697,
+          0.49019607843137253,
+          0.35333333333333333
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If two curves are tangent, then the y-coordinates of at least two of the intersection points will coincide; the converse is also true because one of the curves is the graph of a function in x. The coincidence occurs pre- cisely when either the discriminant of at least one of Q1 or Q2 is zero, or there is a common root of Q1 and Q2. Computing the discriminants of_ Q1 and Q2 yields (up to constant factors) f1 (α) = 6α2 − 13α + 6 and f2(α) = 6α2 − 13α − 18, respectively. If on the other hand Q1 and Q2 have a common root, it must be also a root of Q2(y) − Q1(y) = 2y + 1 + 1/α, yielding y = −(1 + α)/(2α) and 0 = Q1(y) = −f2(α)/(24α).",
+        "bbox": [
+          0.5568627450980392,
+          0.3690909090909091,
+          0.92,
+          0.5436363636363636
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_6",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which simplifies to 0 = 24x2 − 2x − 1 = (6x + 1)(4x − 1), or x ∈ {1/4, −1/6}. This yields α = 1/(2x + 1) ∈ {2/3,3/2}.",
+        "bbox": [
+          0.12705882352941175,
+          0.4078787878787879,
+          0.4894117647058824,
+          0.4533333333333333
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If C1 does not intersect L, then C1 and C2 are separated by L and so cannot be tangent.",
+        "bbox": [
+          0.12627450980392158,
+          0.4575757575757576,
+          0.4894117647058824,
+          0.4866666666666667
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If C1 intersects L in two distinct points P1, P2, then it is not tangent to L at either point. Suppose at one of these points, say P1, the tangent to C1 is perpendicular to L; then by symmetry, the same will be true of C2, so C1 and C2 will be tangent at P1. In this case, the point P1 = (x, x) satisfies",
+        "bbox": [
+          0.12705882352941175,
+          0.4909090909090909,
+          0.49098039215686273,
+          0.5787878787878787
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thus the values of o for which the two curves are tan- gent must be contained in the set of zeros of fi and f2, namely 2/3, 3/2, and (13 ± √601)/12.",
+        "bbox": [
+          0.5568627450980392,
+          0.5478787878787879,
+          0.9192156862745098,
+          0.5921212121212122
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: The fact that the two conics in P2(C) meet in four points, counted with multiplicities, is a special case of Bézout's theorem: two curves in P2(C) of degrees m, n and not sharing any common component meet in exactly mn points when counted with multiplicity.",
+        "bbox": [
+          0.5568627450980392,
+          0.5951515151515151,
+          0.9192156862745098,
+          0.6684848484848485
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "writing α = −1/(2x + 1) in the first equation and sub- stituting into the second, we have",
+        "bbox": [
+          0.12784313725490196,
+          0.6284848484848485,
+          0.4894117647058824,
+          0.6581818181818182
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Many solvers were surprised that the proposers chose the parameter 1/24 to give two rational roots and two nonrational roots. In fact, they had no choice in the matter: attempting to make all four roots rational by replacing 1/24 by β amounts to asking for β2 + β and β2 + β + 1 to be perfect squares. This cannot happen outside of trivial cases (β = 0, −1) ultimately because the elliptic curve 24A1 (in Cremona's notation) over Q has rank 0. (Thanks to Noam Elkies for providing this computation.)",
+        "bbox": [
+          0.5568627450980392,
+          0.6733333333333333,
+          0.9192156862745098,
+          0.8181818181818182
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "or x = (−23 ± √601)/72. This yields α = −1/(2x + 1) = (13 ± √601)/12.",
+        "bbox": [
+          0.12627450980392158,
+          0.7133333333333334,
+          0.4886274509803922,
+          0.7460606060606061
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If instead the tangents to C1 at P1, P2 are not perpen- dicular to L, then we claim there cannot be any point where C1 and C2 are tangent. Indeed, if we count in- tersections of C1 and C2 (by using C1 to substitute for y in C2, then solving for y), we get at most four solutions counting multiplicity. Two of these are P1 and P2, and any point of tangency counts for two more. However, off of L, any point of tangency would have a mirror im- age which is also a point of tangency, and there cannot be six solutions. Hence we have now found all possible α.",
+        "bbox": [
+          0.12705882352941175,
+          0.7496969696969698,
+          0.49019607843137253,
+          0.9084848484848485
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_18",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "However, there are choices that make the radical milder, e.g., β = 1/3 gives β2 + β = 4/9 and β2 + β + 1 = 13/9, while β = 3/5 gives β2 + β = 24/25 and β2 + β + 1 = 49/25.",
+        "bbox": [
+          0.5552941176470588,
+          0.823030303030303,
+          0.9192156862745098,
+          0.8812121212121212
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A-2 The minimum is 4, achieved by the square with vertices (±1, ±1).",
+        "bbox": [
+          0.5223529411764706,
+          0.8909090909090909,
+          0.9192156862745098,
+          0.9206060606060606
+        ],
+        "order": 20
+      }
+    ]
+  }
+]

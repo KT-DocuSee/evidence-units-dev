@@ -1,0 +1,120 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3",
+    "primary_id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_7",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.814383012063558,
+          0.04530249012999679,
+          0.9022964422186744,
+          0.0676947663410345
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7 2023 76 77л1 FT.",
+        "bbox": [
+          0.2361396309674401,
+          0.27325581442173164,
+          0.8459958864473853,
+          0.3052325585634481
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ла * літті:",
+        "bbox": [
+          0.2402464088503084,
+          0.4912790699411285,
+          0.39014373410657044,
+          0.5058139530239877
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3",
+    "primary_id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ИТ 221 Нх 17.",
+        "bbox": [
+          0.23613963039249147,
+          0.16715116242492398,
+          0.8480492760956608,
+          0.26308139508794115
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3",
+    "primary_id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "1 | > 20% | 2 | 10% — 20% | 3 | -10% — 10% | 4 | < -10%",
+        "bbox": [
+          0.23567074241776564,
+          0.5118651404346142,
+          0.8479718320170798,
+          0.6490144505364205
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3",
+    "primary_id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_56df5dde920f95a11bf5b9d69353fbd82045f3fec4f553bc928a0b50c136f99a.pdf_3_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "7 | 1 | HE 73 | > 10% | 2 | -10% — 10% | 3 | < -10%",
+        "bbox": [
+          0.23519224007732203,
+          0.6784555240286981,
+          0.8483260130507482,
+          0.7892255387585506
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

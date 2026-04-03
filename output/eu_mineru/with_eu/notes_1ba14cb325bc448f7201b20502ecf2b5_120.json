@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_120",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_120_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_120_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24.中国人口最多的省——河南省",
+        "bbox": [
+          0.1320316132031613,
+          0.1539980256663376,
+          0.5346350534635054,
+          0.17900625205659756
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_120_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "25.中国人口密度最多的省级单位——澳门特别行政区",
+        "bbox": [
+          0.13389121338912133,
+          0.18624547548535703,
+          0.7289632728963273,
+          0.20993747943402435
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_120_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "26.中国人数最多的少数民族——壮族",
+        "bbox": [
+          0.13296141329614133,
+          0.21717670286278382,
+          0.5681078568107857,
+          0.24021059559065483
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_120",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_120_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_120_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.058577405857740586,
+          0.23362948338269168,
+          0.9772198977219898,
+          0.947680157946693
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

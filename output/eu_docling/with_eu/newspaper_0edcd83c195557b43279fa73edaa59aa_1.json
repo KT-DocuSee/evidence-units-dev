@@ -1,0 +1,600 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Information Officer, Securities and Exchange Commission, c/o Remi PavlikSimon, 100 F Street NE., Washington, DC 20549 or send an email to: PRA_Mailbox@sec.gov. Comments must be submitted to OMB within 30 days of this notice.",
+        "bbox": [
+          0.6484962393327068,
+          0.07558139537750673,
+          0.924812028806391,
+          0.16424418615065736
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Dated: December 4, 2015.",
+        "bbox": [
+          0.37593985294987053,
+          0.07558139537850737,
+          0.5300751884974977,
+          0.08730158724324766
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SECURITIES AND EXCHANGE COMMISSION",
+        "bbox": [
+          0.07142856995426472,
+          0.07703488380773924,
+          0.2857142870382165,
+          0.10174418595970254
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_11",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_11",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Robert W. Errett,",
+        "bbox": [
+          0.3627819566416039,
+          0.09002976213356532,
+          0.4680451145363408,
+          0.10029069747417421
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Deputy Secretary. [FR Doc. 2015-31067 Filed 12-9-15; 8:45 am]",
+        "bbox": [
+          0.36090226012842586,
+          0.10317460326594652,
+          0.6052631483928775,
+          0.12797619050274814
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_3",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_3",
+        "observed_type": "text",
+        "canon_role": "topic_title",
+        "text": "[SEC File No. 270-105, OMB Control No. 3235-0121]",
+        "bbox": [
+          0.07142857357956985,
+          0.10901162793664691,
+          0.32518796887595197,
+          0.13226744173631821
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BILLING CODE 8011-01-P",
+        "bbox": [
+          0.3627819578840812,
+          0.13219246037680063,
+          0.4906015039580241,
+          0.14098837173431703
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_4",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Submission for OMB Review; Comment Request",
+        "bbox": [
+          0.07330827000814134,
+          0.14236111096022733,
+          0.28007518450313695,
+          0.16569767427992288
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Dated: December 4, 2015.",
+        "bbox": [
+          0.6578947383192255,
+          0.16567460308225918,
+          0.8195488666619777,
+          0.18030753959019577
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_14",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_14",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SECURITIES AND EXCHANGE COMMISSION",
+        "bbox": [
+          0.36090225414599403,
+          0.16567460322450933,
+          0.5751879712299458,
+          0.1904069767508531
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Upon Written Request Copies Available From: Securities and Exchange Commission, Office of FOIA Services, 100 F Street NE., Washington, DC 20549-2736.",
+        "bbox": [
+          0.07518798157766975,
+          0.1728670635380697,
+          0.34586465723372944,
+          0.23837209304909213
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_27",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_27",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Robert W. Errett,",
+        "bbox": [
+          0.648407438162039,
+          0.17983133551900324,
+          0.7557278980396115,
+          0.1951686645812078
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_15",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_15",
+        "observed_type": "text",
+        "canon_role": "topic_title",
+        "text": "[SEC File No. 270-121, OMB Control No. 3235-0110]",
+        "bbox": [
+          0.35902255752693824,
+          0.19469246051748365,
+          0.6146616533577774,
+          0.22093023247133042
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Deputy Secretary.",
+        "bbox": [
+          0.6484962420134631,
+          0.19469246051881597,
+          0.7593984920560857,
+          0.20932539702675243
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[FR Doc. 2015-31068 Filed 12-9-15; 8:45 am] BILLING CODE 8011-01-P",
+        "bbox": [
+          0.648496240037594,
+          0.21354166684702042,
+          0.8947368431685504,
+          0.23983134926235586
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_16",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_16",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Submission for OMB Review; Comment Request",
+        "bbox": [
+          0.3609022560516938,
+          0.2311046512495998,
+          0.5695488686328483,
+          0.25581395347181485
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Extension:",
+        "bbox": [
+          0.07330826985432333,
+          0.24273255849824119,
+          0.13909774353853385,
+          0.25145348815873564
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Form 18.",
+        "bbox": [
+          0.08645372225701094,
+          0.2543154430654514,
+          0.13911018732954483,
+          0.26312641736819736
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_29",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_29",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SECURITIES AND EXCHANGE COMMISSION",
+        "bbox": [
+          0.6503759399811175,
+          0.26162790686006493,
+          0.8646616570650693,
+          0.2877906976336366
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Upon Written Request Copies Available From: Securities and Exchange Commission, Office of FOIA Services, 100 F Street NE., Washington, DC 132390. 20549-2736.",
+        "bbox": [
+          0.360902259251233,
+          0.2616279073684542,
+          0.6334586470137925,
+          0.3272014205475927
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Notice is hereby given that, pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.), the Securities and Exchange Commission (\"Commission\") has submitted to the Office of Management and Budget a request for extension of the previously approved collection of information discussed below.",
+        "bbox": [
+          0.07142856828508384,
+          0.26884920621052455,
+          0.34398495646429,
+          0.38081395329418394
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_30",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_30",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Submission for OMB Review; Comment Request",
+        "bbox": [
+          0.6503759391810736,
+          0.29786706345119185,
+          0.8571428536760693,
+          0.32267441881217357
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Upon Written Request Copies Available From: Securities and Exchange Commission, Office of FOIA Services, 100 F Street NE., Washington, DC 20549-2736.",
+        "bbox": [
+          0.6503759389847914,
+          0.3283730160539889,
+          0.9248120329367209,
+          0.390988371898835
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Extension:",
+        "bbox": [
+          0.36278195598370927,
+          0.3313953490747915,
+          0.4285714296679198,
+          0.34011627873528594
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Form T-1.",
+        "bbox": [
+          0.37593985205701347,
+          0.34300595238973136,
+          0.4379699244467459,
+          0.35029069749067604
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Notice is hereby given that, pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.), the Securities and Exchange Commission (\"Commission\") has submitted to the Office of Management and Budget this request for extension of the previously approved collection of information discussed below.",
+        "bbox": [
+          0.36076438471126476,
+          0.35755813989125707,
+          0.6315789379918748,
+          0.4724702380258971
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Form 18 (17 CFR 249.218) is a registration form used for by a foreign government or political subdivision to register securities for listing on a U.S. exchange. The information collected is intended to ensure that the information required by the Commission to be filed permits verification of compliance with securities law requirements and assures the public availability of the information. The information provided is mandatory and all information is made available to the public upon request. Form 18 takes approximately 8 hours per response and is filed by approximately 5 respondents for a total of 40 annual burden hours. It is estimated that 100% of the total reporting burden is prepared by the company.",
+        "bbox": [
+          0.07142857018545566,
+          0.3821924601810009,
+          0.3439849587938799,
+          0.6352826287411774
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "section_text_panel",
+    "page": "newspaper_0edcd83c195557b43279fa73edaa59aa_1",
+    "primary_id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_32",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_32",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Extension:",
+        "bbox": [
+          0.6521457849622669,
+          0.396360080041929,
+          0.7181549685594644,
+          0.407418989594367
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Form T-2; SEC File No. 270-122, OMB Control No. 3235-0111.",
+        "bbox": [
+          0.6635338363157893,
+          0.40843023283590335,
+          0.9003759415789472,
+          0.4303075397705495
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Notice is hereby given that, pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.), the Securities and Exchange Commission (\"Commission\") has submitted to the Office of Management and Budget this request for extension of the previously approved collection of information discussed below.",
+        "bbox": [
+          0.6501610607998115,
+          0.43452380950130665,
+          0.9229323321535127,
+          0.5479651164068609
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Form T-1 (17 CFR 269.1) is a statement of eligibility and qualification under the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.) of a corporation designated to act as a trustee under an indenture. The information is used to determine whether the corporation is qualified to serve as a trustee. Form T1 is filed on occasion. The information required by Form T-1 is mandatory. This information is publicly available on EDGAR. Form T-1 takes approximately 15 hours per response to prepare and is filed by approximately 2 respondents. We estimate that 25% of the 15 hours (4 hours) is prepared by the company for a total annual reporting burden of 8 hours (4 hours per response × 2 responses).",
+        "bbox": [
+          0.3590225592430916,
+          0.47093023281794527,
+          0.639097747963659,
+          0.7108134922251768
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Form T-2 (17 CFR 269.2) is a statement of eligibility of an individual trustee under the Trust Indenture Act of 1939. The information is used to determine whether the individual is qualified to serve as a trustee under the indenture. Form T-2 is filed on occasion. The information required by Form T-2 is mandatory. This information is publicly available on EDGAR. Form T-2 takes approximately 9 hours per response to prepare and is filed by approximately 9 respondents. We estimate that 25% of the 9 hours per response (2 hours) is prepared by the filer for a total annual reporting burden of 18 hours (2 hours per response × 9 responses).",
+        "bbox": [
+          0.6447368379385966,
+          0.5478670634594599,
+          0.9248120294592773,
+          0.7748636819555016
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.",
+        "bbox": [
+          0.07142858113093203,
+          0.6351686506659703,
+          0.3421052588690679,
+          0.6962209299727524
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The public may view the background documentation for this information An agency may not conduct or collection at the following Web site, sponsor, and a person is not required to www.reginfo.gov. Comments should be respond to, a collection of information directed to: (i) Desk Officer for the unless it displays a currently valid Securities and Exchange Commission, control number. Office of Information and Regulatory The public may view the background Affairs, Office of Management and documentation for this information Budget, Room 10102, New Executive collection at the following Web site, Office Building, Washington, DC 20503, www.reginto.gov. Comments should be or by sending an email to: Shagufta directed to: (i) Desk Officer for the Ahmed@omb.eop.gov; and (ii) Pamela Securities and Exchange Commission, Dyson, Director/Chief Information Office of Information and Regulatory Officer, Securities and Exchange Affairs, Office of Management and Commission, c/o Remi Pavlik-Simon, Budget, Room 10102, New Executive 100 F Street NE., Washington, DC 20549 Office Building, Washington, DC 20503, or send an email to: PRA Mailbox@ or by sending an email to: sec.gov. Comments must be submitted to Shagufta_Ahmed@omb.eop.gov; and (ii) OMB within 30 days of this notice. Pamela Dyson, Director/Chief",
+        "bbox": [
+          0.07304667507020468,
+          0.6961805557313542,
+          0.6353383471911067,
+          0.9375000002075223
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number.",
+        "bbox": [
+          0.650375940998116,
+          0.773255813836809,
+          0.9210526290946316,
+          0.8343253966846031
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_newspaper_0edcd83c195557b43279fa73edaa59aa_1_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The public may view the background documentation for this information collection at the following Web site, www.reginfo.gov. Comments should be directed to: (i) Desk Officer for the Securities and Exchange Commission, Office of Information and Regulatory Affairs, Office of Management and",
+        "bbox": [
+          0.6503759453527528,
+          0.8357558142614122,
+          0.9191729281654379,
+          0.9375000002075223
+        ],
+        "order": 38
+      }
+    ]
+  }
+]

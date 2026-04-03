@@ -1,0 +1,162 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_1",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ORIGINAL PAPER",
+        "bbox": [
+          0.09386973160525623,
+          0.08134920657356505,
+          0.2816091987267999,
+          0.0959821430815015
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. Piccolo · P. Conte · R. Spaccini · M. Chiarella",
+        "bbox": [
+          0.08045976811153248,
+          0.14680232521562173,
+          0.46168583338272023,
+          0.16279069783670388
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_3",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Effects of some dicarboxylic acids on the association of dissolved humic substances",
+        "bbox": [
+          0.07662834921200425,
+          0.16860465110100697,
+          0.7164750978784596,
+          0.21802325576268808
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Received: 23 July 2002 / Accepted: 20 January 2003 / Published online: 27 February 2003 © Springer-Verlag 2003",
+        "bbox": [
+          0.07854406071892783,
+          0.26884920620952396,
+          0.6455938561393098,
+          0.29513888899023283
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_5",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Introduction",
+        "bbox": [
+          0.49990218032504524,
+          0.3237762468325485,
+          0.6073775110173565,
+          0.3419214277164101
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Abstract Changes in molecular size distributions of four different humic materials were evaluated through high performance size-exclusion chromatography (HPSEC), before and after treating humic solutions with naturally occurring dicarboxylic (oxalic, malonic, succinic and glutaric) acids. Chromatograms of dissolved humic substances showed a decrease in peak absorbance as well as an increase in peak elution volume when the solution pH was lowered from 7 to 3.5 by addition of dicarboxylic acids before HPSEC analysis. The resulting reduction in molecular size is explained by the disruption of unstable humic superstructures into smaller-sized associations stabilized by the formation of strong intra- and intermolecular hydrogen bonds among humic molecules. The extent of humic size variation was in the order: oxalic<malonic <succinic <glutaric acid. Dicarboxylic acids with an increasing number of C atoms and pKas, had progressively larger degrees of protonation which increasingly reduced the electrostatic repulsion from humic molecules. The less dissociated dicarboxylic acids enabled a closer contact with the hydrophobic domains of weakly bound humic superstructures and produced more extensive conformational rearrangements. Recognition of a process controlling the conformational structure of 1996). humic molecules by organic acids exuded in the soil solution by either plant roots or soil microbes may be important in understanding the role of humus in soil-plant interactions.",
+        "bbox": [
+          0.07662835806939135,
+          0.3241279069125694,
+          0.5555555511430326,
+          0.7267441859805043
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Research findings have shown that different carboxylic acids are exuded by plant roots into the soil solution (Vaughan and Malcolm 1985; Junk 1991; Bar-Yosef 1991; Ohwaki and Hirata 1992; Tyler and Ström 1995). It has been hypothesized that the amphiphilic properties of these organic acids may modify the size of humic substances dissolved in the soil solution and influence root activity (Nardi et al. 1996; Pinton et al. 2001). Enhanced growth of both plant roots and shoots has been repeatedly accounted for by certain molecular properties of humic substances which, by interacting with root cells, would increase their metabolism (Vaughan and Linehan 1976; Vaughan and Malcolm 1985; Nardi et al. 1996; Varanini and Pinton 2001). While the overall mechanism by which humic substances interact with the plant physiological system is still unclear, results showed that small molecular-size humic components, separated from bulk humus by root-exuded organic acids, can be absorbed through membrane carrier systems and affect plant growth by hormone-like activity (Smidova 1960; O'Donnell 1973; Piccolo et al. 1992; Nardi et al. 1994,",
+        "bbox": [
+          0.5057471357270223,
+          0.3546511626619059,
+          0.9214559311312153,
+          0.658482142644786
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Humic substances have been recently described as supramolecular associations rather than macromolecular polymers (Conte and Piccolo 1999; Piccolo et al. 2001a, 2001b; Piccolo 2001, 2002). This model implies that small and heterogeneous humic molecules self-assemble in supramolecular conformations stabilized mainly by weak forces such as dispersive interactions (van der Waals, -п, and CH-* bonds) and hydrogen bonds. These weakly bound conformations have only apparent large molecular dimensions which can be reversibly disrupted into smaller molecular associations by treating humic solutions with small amounts of either methanol, HCl or acetic acid. Treatment of a humic acid (HA) solution with acetic acid before preparative size-exclusion chromatography was found to produce a substantial reduction of the chemical heterogeneity of size separates (Piccolo et al. 2002). Separation of small humic components by dialysis",
+        "bbox": [
+          0.5057471413783633,
+          0.6715116277902974,
+          0.9214559369914792,
+          0.9186507938288146
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Keywords Humic substances · Supramolecular associations · Dicarboxylic acids · Self-assembling conformations · Molecular sizes",
+        "bbox": [
+          0.08045977115831501,
+          0.7427325582163226,
+          0.44636014204671703,
+          0.7834821430431631
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-003-0583-8.pdf_1_9",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "A. Piccolo (<4) · P. Conte · R. Spaccini · M. Chiarella Dipartimento di Scienze del Suolo della Pianta e dell'Ambiente, Università degli Studi di Napoli \"Federico Il\", Via Università 100, 80055 Portici, Italy e-mail: alpiccol@unina.it",
+        "bbox": [
+          0.08045977092470177,
+          0.8488372095136817,
+          0.48084290460780654,
+          0.9099702382799261
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

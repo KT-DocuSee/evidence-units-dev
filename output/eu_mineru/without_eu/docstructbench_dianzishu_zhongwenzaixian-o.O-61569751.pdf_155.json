@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_0",
+    "text": "⑤原卟啉标准液。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13742889647326506,
+      0.1111111111111111,
+      0.2875995449374289,
+      0.1286549707602339
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_1",
+    "text": "a.原啉标准贮备液（50mg/L）：称取5mg原卟啉，加4ml乙醇使之溶解，以1.5N HCl稀释至100ml。 b.原卟啉标准中间液（1.0mg/L）：取2ml原卟啉贮备液，以酸酯与酸（4:1）混合 液稀释到100ml。 c.原啉标准应液（0.1mg/L）：取1ml原啉中间液，以酸酯与酸（4:1）混合 液稀释到10ml。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09647326507394767,
+      0.13450292397660818,
+      0.9164960182025028,
+      0.27485380116959063
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_2",
+    "text": "（4）实验步骤：（表4）",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1465301478953356,
+      0.2820012995451592,
+      0.35494880546075086,
+      0.299545159194282
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_3",
+    "text": "表4红细胞内游离原卟啉测定实验步骤",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.33947667804323095,
+      0.3060428849902534,
+      0.6725824800910125,
+      0.32293697205977906
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_4",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.10284414106939704,
+      0.3268356075373619,
+      0.9110352673492605,
+      0.5016244314489928
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_5",
+    "text": "注：按上表依次加入各种试剂，在加入乙酸乙酯与乙酸混合液前，用混旋器混合已加入的混合液，然后 边混合边加入乙酸乙酯与乙酸混合液。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10011376564277588,
+      0.50682261208577,
+      0.9073947667804323,
+      0.5471085120207927
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_6",
+    "text": "离心15 min，将各管上清液分别倒入10ml比色管中，每管加4 ml0.5N盐酸，振摇5min静止使之分层， 将上层溶剂抽出弃去，测定盐酸液的荧光强度（30min内比色）。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09920364050056883,
+      0.5555555555555556,
+      0.9083048919226394,
+      0.5964912280701754
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_7",
+    "text": "(5）荧光测量：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14562002275312855,
+      0.6042884990253411,
+      0.2775881683731513,
+      0.621832358674464
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_8",
+    "text": "①若使MPF-4型荧光分光光度计测定条件为激发波长为403nm，狭缝10nm；发射 波长为605nm，狭缝为5nm，液槽为1cm厚英槽。 ②若使国产930型荧光光度计测试，条件为激发滤光420，荧光滤550，灵敏度 1×500，满度开关开最，液槽为1cm厚英槽，检出灵敏度为0.01g/4ml。在不同量原 啉（0g，0.01g，0.03g，0.05g，0.07g，0.1g）呈线性关系。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09374288964732651,
+      0.6289798570500325,
+      0.9128555176336747,
+      0.7446393762183235
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_9",
+    "text": "（6）计算：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14562002275312855,
+      0.7504873294346979,
+      0.238452787258248,
+      0.7680311890838206
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_10",
+    "text": "样品荧光强度空白荧光强度 血中原卟啉含量（g/L全血）= ×标准管原啉含量（g）x 标准管荧光强度空白荧光强度 ×10",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11649601820250284,
+      0.7816764132553606,
+      0.9064846416382253,
+      0.9051332033788174
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "order": 11
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_0",
+    "text": "Here's an example. Suppose you have a table with 10 million rows, which uses a couple of gigabytes on disk. It has a VARcHAR(1ooo) column with the utf8 character set. This can use up to 3 bytes per character, for a worst-case size of 3,000 bytes. If you mention this column in your oRDER BY clause, a query against the whole table can require over 30 GB of temporary space just for the sort fi les!",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1657142857142857,
+      0.08052230685527748,
+      0.8361904761904762,
+      0.1682988755894088
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_1",
+    "text": "If the Extra column of ExPLAIN contains “Using temporary,\" the query uses an implicit temporary table.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1657142857142857,
+      0.17482771128037722,
+      0.8342857142857143,
+      0.2096481682988756
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_2",
+    "text": "Using ENUM instead of a string type",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1419047619047619,
+      0.24591947769314473,
+      0.39904761904761904,
+      0.26550598476605003
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_3",
+    "text": "Sometimes you can use an ENuM column instead of conventional string types. An Enum column can store a predefined set of distinct string values. MySQL stores them very compactly, packed into one or two bytes depending on the number of values in the list. It stores each value internally as an integer representing its position in the field defini- tion list, and it keeps the \"lookup table\" that defines the number-to-string correspond- ence in the table's .frm file. Here's an example:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14,
+      0.2720348204570185,
+      0.8609523809523809,
+      0.38375045339136743
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_4",
+    "text": "mysql> CREATE TABLE enum_test( -> ,e ENUM('fish','apple','dog') NOT NULL ->)； mysql> INsERT INTo enum_test(e) VALUEs('fish'),('dog'),('apple');",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1742857142857143,
+      0.3895538628944505,
+      0.7123809523809523,
+      0.44976423648893726
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_5",
+    "text": "The three rows actually store integers, not strings. You can see the dual nature of the values by retrieving them in a numeric context:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13523809523809524,
+      0.4584693507435618,
+      0.8609523809523809,
+      0.49474066013783097
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_6",
+    "text": "mysql> SELECT e + 0 FRoM enum_test; +-------+ le +o l +-------+ 11 3 2| +-------+",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17523809523809525,
+      0.500544069640914,
+      0.45714285714285713,
+      0.6158868335146899
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_7",
+    "text": "This duality can be terribly confusing if you specify numbers for your Enum constants, as in ENum('1', '2', '3'). We suggest you don't do this.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1419047619047619,
+      0.627493652520856,
+      0.8609523809523809,
+      0.6652158142908959
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_8",
+    "text": "Another surprise is that an ENum field sorts by the internal integer values, not by the strings themselves:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1380952380952381,
+      0.6710192237939789,
+      0.86,
+      0.7080159593761335
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_9",
+    "text": "mysql> SELECT e FRoM enum_test ORDER BY e;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1742857142857143,
+      0.7152702212549873,
+      0.5123809523809524,
+      0.7312295973884657
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153_10",
+    "text": "+-------+ le | +-------+ Ifish| apple | i dog / +-------+",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1761904761904762,
+      0.7334058759521219,
+      0.25142857142857145,
+      0.8313384113166485
+    ],
+    "page": "book_en_[搬书匠#375][High Performance MySQL 3rd Edition].2012.英文版_page_153",
+    "order": 11
+  }
+]

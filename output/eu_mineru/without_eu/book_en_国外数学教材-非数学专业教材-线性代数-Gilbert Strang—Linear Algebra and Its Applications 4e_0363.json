@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_0",
+    "text": "Thus Ak is positive definite. Its eigenvalues (not the same λ1 !) must be positive. Its determinant is their product, so all upper left determinants are positive.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14107214832728737,
+      0.0837964942283027,
+      0.909310761789601,
+      0.12255949836112298
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_1",
+    "text": "If condition II holds, so does condition IV: According to Section 4.4, the kth pivot dk is the ratio of detAk to detAk–1. If the determinants are all positive, so are the pivots.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14268440145102781,
+      0.12426963089639446,
+      0.909310761789601,
+      0.16303263502921475
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_2",
+    "text": "If condition IV holds, so does condition I: We are given positive pivots, and must deduce that xTAx > 0. This is what we did in the 2 by 2 case, by completing the square. The pivots were the numbers outside the squares. To see how that happens for symmetric matrices of any size, we go back to elimination on a symmetric matrix: A = LDLT.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1418782748891576,
+      0.16531281174291007,
+      0.9117291414752116,
+      0.2434088641869745
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_3",
+    "text": "Example 1. Positive pivots 2, 2, and :",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14268440145102781,
+      0.2496793501496366,
+      0.5030229746070133,
+      0.27134102892974205
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_4",
+    "text": "I want to split xTAx into xT LDLTx:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14429665457476823,
+      0.35456747897962093,
+      0.44740024183796856,
+      0.3745190252244549
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_5",
+    "text": "So xTAx is a sum of squares with the pivots 2, 2, and as coefficients:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14349052801289802,
+      0.4583155194527576,
+      0.7577589681580008,
+      0.47997719823286306
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_6",
+    "text": "Those positive pivots in D multiply perfect squares to make xTAx positive. Thus condi- tion IV implies condition I, and the proof is complete.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14349052801289802,
+      0.5398318369673649,
+      0.9060862555421201,
+      0.5791648852786091
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_7",
+    "text": "It is beautiful that elimination and completing the square are actually the same. Elim- ination removes x1 from all later equations. Similarly, the fi rst square accounts for all terms in xTAx involving x1. The sum of squares has the pivots outside. The multipliers lij are inside! You can see the numbers −2 and − inside the squares in the example.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14268440145102781,
+      0.6156477126977341,
+      0.9101168883514712,
+      0.6960239418554938
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_8",
+    "text": "Every diagonal entry ai must be positive. As we know from the examples, however, it is far from sufficient to look only at the diagonal entries.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13945989520354696,
+      0.6971640302123414,
+      0.9085046352277307,
+      0.7347869459883141
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_9",
+    "text": "The pivots di are not to be confused with the eigenvalues. For a typical positive defi nite matrix, they are two completely different sets of positive numbers, In our 3 by 3 example, probably the determinant test is the easiest:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14349052801289802,
+      0.7364970785235856,
+      0.9101168883514712,
+      0.794641584722816
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_10",
+    "text": "The pivots are the ratios d1 = 2, d2 = 2, d3 = z. Ordinarily the eigenvalue test is the longest computation. For this A we know the λ's are all positive:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14268440145102781,
+      0.8339746330340602,
+      0.909310761789601,
+      0.8744477697021519
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 11
+  }
+]

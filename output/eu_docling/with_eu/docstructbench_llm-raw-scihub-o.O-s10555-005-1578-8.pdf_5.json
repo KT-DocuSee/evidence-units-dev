@@ -1,0 +1,162 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_11",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | Cell line | BI/ BII | 2/1 | Detection * | Reference | WM115 (primary) | + | ND | ND | ND | ND | ND | ND | ND | ND | W | [36] | WM1205Lu (metastatic) | + | ND | ND | ND | ND | ND | ND | ND | ND | W | [36] | SK-Mel 28 (metastatic) | ++ | ++ | ND | ND | W, R | [29] | A375 (primary) | ++ | - | - | ND | ND | W, R | [29] | Murine | B16 (metastatic) | + | ND | ND | ND | ND | ND | ND | [37] | B16-F1 (metastatic) | ND | ND | ND | ND | ND | ND | ND | [38] | B16 (metastatic) | - | + | ND | i++ | [39] | B16 (metastatic) | - | - | ND | [30] | B16 (metastatic) | ND | ND | ND | ND | ND | ND | [40] | B16 (metastatic) | - | + | + | ND | [41] | B16 (metastatic) | ND | ND | ND | ND | ND | ₴ 22.2 + 2.2 | [42] | B16 (metastatic) | ++++++++++ | + | + | [43] | B16 (metastatic) | - | - | + | ND | ND | [44] | B16-BL6 (metastatic) | ND | ND | ND | ND | ND | ND | GETTINEZEZ | [45] | B16-BL6 (metastatic) | ND | ND | ND | z+++1 | ND | ND | ND | ND | W | [46]",
+        "bbox": [
+          0.14191836006916875,
+          0.15697284517455376,
+          0.8558241791676119,
+          0.39931260688328346
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_12",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_3",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "* N: Northern blot, F: Flow cytometry, W: Western blot, R: Reverse transcription-polymerase chain reaction.",
+        "bbox": [
+          0.1416837883914342,
+          0.4055059522181564,
+          0.7248459662971359,
+          0.41569767426680987
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "the ® isoform in melanocytes [49], and further showed that PKC inhibitor reduces pigmentation in murine skin in vivo [50]. It is interesting to assume that the B isoform is indispensable for the regulation of the tyrosinase activity, but melanin is detected even in the melanoma cells lacking the PKC ® isoform [25,27]. On the other hand, the a isoform is increased in murine B16 melanoma cells treated with retinoic acid [37,39], and the induction as well as the overexpression of this",
+        "bbox": [
+          0.11695678078999129,
+          0.44766865070130685,
+          0.4805819692494211,
+          0.5741567462431023
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PKC isoform enhances the melanin synthesis, suggesting the involvement of the a isoform in melanogenesis [38]. The level of the a isoform is also elevated in B16 cells cultured with mannosylerythiritol lipid, a novel extracellular glycolipid from yeast that induces differentiation of HL-60 promyelocytic leukemia cells [44]. The introduction of antisense oligodeoxynucleotides against the a isoform prevented mannosylerythiritol lipid-induced melanogenesis, and the expression of the",
+        "bbox": [
+          0.5133470259962705,
+          0.4476686509335333,
+          0.8829568681156391,
+          0.575644841408523
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_7",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 3. The expression of PKC isoforms in human melanoma cells in vivo",
+        "bbox": [
+          0.2053388089719634,
+          0.6016865077939921,
+          0.6119096611512397,
+          0.6119186044206373
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_12",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | PKC isoform | Origin Clinical type* | 2/ Detection** Reference | Primary ALM | + | - + + | [25] | Metastatic Unknown Primary | + | + | + | 22221112222₴ | [25] | Metastatic NS (5 cases) | ND | ND ND ND | [27] | Metastatic NS (5 cases) | ND - | ND | ND | ND | [27] | Metastatic SSM | + | Metastatic NS (5 cases) | - + | + | Metastatic ALM ( cases) | Primary ALM | ND | ND | Primary ALM (11 cases) + | ND | ND | SSM (7 cases) | + | ND | ++ 22+4+22222 | Metastatic ALM (2 cases) + | ND | Metastatic SSM (2 cases) | + | ND | ND | ND | ND",
+        "bbox": [
+          0.2033891902861275,
+          0.6160440367478089,
+          0.7946191731180051,
+          0.8104745409028965
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_8",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "*ALM: acral lentiginous melanoma: SSM: superficial spreading melanoma, NS: not stated.",
+        "bbox": [
+          0.20328542038394373,
+          0.8168604651651186,
+          0.6919917748932639,
+          0.8271329363697552
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_9",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "**W: Western blot, I: immunohistochemistry.",
+        "bbox": [
+          0.20328541962044558,
+          0.8283730160182542,
+          0.44763859687510565,
+          0.8386627905458796
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_10",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "***Not determined.",
+        "bbox": [
+          0.20328541884737836,
+          0.8415178572858731,
+          0.30800821215878194,
+          0.8502906973883868
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_4",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "** Not determined.",
+        "bbox": [
+          0.14168377962766573,
+          0.4171511629424925,
+          0.24640657293906928,
+          0.4273313491271183
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

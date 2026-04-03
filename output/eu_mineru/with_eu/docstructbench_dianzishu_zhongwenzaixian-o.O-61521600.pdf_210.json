@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "续表",
+        "bbox": [
+          0.823045259833151,
+          0.10668178836003257,
+          0.8649596017690986,
+          0.12153621458737889
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10669105220059365,
+          0.1242370193559873,
+          0.8821063780156225,
+          0.656295558771846
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

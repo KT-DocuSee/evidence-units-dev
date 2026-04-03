@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "mineru_PPT_lecture1_page_005_0",
+    "text": "System of linear equations",
+    "canon_role": "section_header",
+    "bbox": [
+      0.07499062617172854,
+      0.10755555555555556,
+      0.5849268841394826,
+      0.19377777777777777
+    ],
+    "page": "PPT_lecture1_page_005",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_lecture1_page_005_1",
+    "text": "A collection of one or more equations involving the same variables. Example:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07299087614048244,
+      0.2693333333333333,
+      0.9198850143732034,
+      0.4026666666666667
+    ],
+    "page": "PPT_lecture1_page_005",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_lecture1_page_005_2",
+    "text": "(2x1 + 3x2 + 4x3 = 5 The system of linear equations 5x3 + 6x4 = 7 (2x1 + 3x2 + 4x3 + 0x4 = 5 can be rewritten as 0x1 + 0x2 + 5x3 + 6x4 = 7 Hence it is a system of equations involving the variables x1, x2, xz, x4.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07549056367954006,
+      0.4151111111111111,
+      0.9323834520684915,
+      0.7706666666666667
+    ],
+    "page": "PPT_lecture1_page_005",
+    "order": 3
+  }
+]

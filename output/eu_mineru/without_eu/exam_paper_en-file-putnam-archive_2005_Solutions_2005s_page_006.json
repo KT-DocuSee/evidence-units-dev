@@ -1,0 +1,249 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_0",
+    "text": "B−5 First solution: Put Q = x + · · + x2. Since Q is ho- mogeneous, P is divisible by Q if and only if each of the homogeneous components of P is divisible by Q. It is thus sufficient to solve the problem in case P itself is homogeneous, say of degree d.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.06484848484848485,
+      0.49098039215686273,
+      0.14
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.06606060606060606,
+      0.92,
+      0.18484848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_1",
+    "text": "Suppose that we have a factorization P = Q\"R for some m > 0, where R is homogeneous of degree d and not divisible by Q; note that the homogeneity implies that rite2 a    n",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.14424242424242426,
+      0.49019607843137253,
+      0.18848484848484848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_12",
+    "text": "B–6 First solution: Let I be the identity matrix, and let Jx be the matrix with x's on the diagonal and 1's elsewhere. Note that Jx − (x − 1)I, being the all 1's matrix, has rank 1 and trace n, so has n – 1 eigenvalues equal to 0 and one equal to n. Hence Jx has n – 1 eigenvalues equal to x − 1 and one equal to x + n − 1, implying",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.523921568627451,
+      0.19393939393939394,
+      0.92,
+      0.2824242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.24606060606060606,
+      0.43686274509803924,
+      0.27090909090909093
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_13",
+    "text": "On the other hand, we may expand the determinant as a sum indexed by permutations, in which case we get",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.3212121212121212,
+      0.9192156862745098,
+      0.3503030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_3",
+    "text": "Since m > 0, this forces R to be divisible by Q, contra- diction.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.3703030303030303,
+      0.4886274509803922,
+      0.3993939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_14",
+    "text": "Integrating both sides from 0 to 1 (and substituting y = 1 − x) yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.4024242424242424,
+      0.9184313725490196,
+      0.4315151515151515
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_4",
+    "text": "Second solution: (by Noam Elkies) Retain notation as in the first solution. Let Pd be the set of homogeneous polynomials of degree d, and let Hd be the subset of Pd of polynomials killed by ∇2, which has dimension ≥ dim(Pd) − dim(Pd−2); the given problem amounts to showing that this inequality is actually an equality.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.40424242424242424,
+      0.49019607843137253,
+      0.4921212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_5",
+    "text": "Consider the operator Q∇2 (i.e., apply ∇2 then multiply by Q) on Pd; its zero eigenspace is precisely Hd. By the calculation from the fi rst solution, if R ∈ Pd, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.4951515151515152,
+      0.49019607843137253,
+      0.54
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_15",
+    "text": "as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.5527272727272727,
+      0.6274509803921569,
+      0.566060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_16",
+    "text": "Second solution: We start by recalling a form of the principle of inclusion-exclusion: if f is a function on the power set of { 1, . . , n}, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.5715151515151515,
+      0.92,
+      0.6157575757575757
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_6",
+    "text": "Consequently, Q' Hd–2j is contained in the eigenspace of Q∇2 on Pd of eigenvalue",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.5787878787878787,
+      0.49019607843137253,
+      0.6103030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_7",
+    "text": "In particular, the QHd-2j lie in distinct eigenspaces, so are linearly independent within Pd. But by dimen- sion counting, their total dimension is at least that of Pd. Hence they exhaust Pd, and the zero eigenspace cannot have dimension greater than dim(Pa) − dim(Pd−2), as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.6478787878787878,
+      0.49019607843137253,
+      0.7363636363636363
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_17",
+    "text": "In this case we take f (S) to be the sum of σ(π) over all permutations π whose fixed points are exactly S. Then ∑v2r f (U) = 1 if |T | ≥ n − 1 and 0 otherwise (since a permutation group on 2 or more symbols has as many even and odd permutations), so",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.6678787878787878,
+      0.9192156862745098,
+      0.7412121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_8",
+    "text": "Third solution: (by Richard Stanley) Write x = (x1 n) nd√ = (z Suppose that P(x) = Q(x)(x2 + · · + x2). Then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.7406060606060606,
+      0.49098039215686273,
+      0.7915151515151515
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_18",
+    "text": "The desired sum can thus be written, by grouping over fixed point sets, as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.7818181818181819,
+      0.9192156862745098,
+      0.8109090909090909
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_9",
+    "text": "On the other hand, if P(x) = ∑α cαxα (where α = (a，n) x= x), term of P(∇)P(x) is seen to be ∑α cα. Hence cα = 0 for all α.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.8309090909090909,
+      0.49098039215686273,
+      0.8909090909090909
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006_10",
+    "text": "Remarks: The first two solutions apply directly over any field of characteristic zero. (The result fails in characteristic p > 0 because we may take P = (x + … · + x2) = x + …  + x .) he hird solution can be extended to complex coefficients by replacing P(∇) by its complex conjugate, and again the result may be deduced for any field of characteristic zero. Stanley also suggests Section 5 of the arXiv e-print math . C0/0502363 for some algebraic background for this problem.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.8957575757575758,
+      0.49019607843137253,
+      0.9254545454545454
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_006",
+    "order": 19
+  }
+]

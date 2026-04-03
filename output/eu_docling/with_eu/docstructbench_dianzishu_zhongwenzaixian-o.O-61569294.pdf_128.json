@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569294.pdf_128",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569294.pdf_128_4",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569294.pdf_128_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8780098217828136,
+          0.01910236499927662,
+          0.9628959125863518,
+          0.0876872390666336
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569294.pdf_128_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТЕЛИ! \"11, 717 02.",
+        "bbox": [
+          0.5389344252399958,
+          0.22817460307992635,
+          0.9303278654143631,
+          0.29941860413723853
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569294.pdf_128_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "НЕТВ 77К01К WH71, 145 4",
+        "bbox": [
+          0.6866689967196299,
+          0.46502976226346826,
+          0.9282786755286339,
+          0.6119186042535175
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569294.pdf_128",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569294.pdf_128_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569294.pdf_128_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0,
+          0.06153437296549479,
+          0.5083116299185493,
+          0.7316465670469576
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

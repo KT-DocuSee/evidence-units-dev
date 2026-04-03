@@ -1,0 +1,123 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3",
+    "primary_id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "西南证券研究发展中心",
+        "bbox": [
+          0.07250755287009064,
+          0.12706552706552707,
+          0.27794561933534745,
+          0.1452991452991453
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "上海 地址：上海市浦东新区陆家嘴21世纪大厦10楼 邮编：200120 北京 地址：北京市西城区金融大街35号国际企业大厦A座8楼 邮编：100033 深圳 地址：深圳市福田区益田路6001号太平金融大厦22楼 邮编：518038 重庆 地址：重庆市江北区金沙门路32号西南证券总部大楼21楼 邮编：400025",
+        "bbox": [
+          0.06928499496475328,
+          0.15726495726495726,
+          0.43343403826787513,
+          0.21595441595441595
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3",
+    "primary_id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_6",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.06847935548841894,
+          0.22621082621082622,
+          0.5115810674723061,
+          0.2849002849002849
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.06847935548841894,
+          0.2934472934472934,
+          0.48580060422960725,
+          0.3527065527065527
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.06928499496475328,
+          0.3623931623931624,
+          0.5156092648539778,
+          0.41994301994301997
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06928499496475328,
+          0.4603988603988604,
+          0.9256797583081571,
+          0.8951566951566952
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3",
+    "primary_id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d08a4020e49029cf68b5dbf69e5ecaa40e969f918819c62579e5f4b1a357422f.pdf_3_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "西南证券机构销售团队",
+        "bbox": [
+          0.0717019133937563,
+          0.441025641025641,
+          0.27794561933534745,
+          0.4581196581196581
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

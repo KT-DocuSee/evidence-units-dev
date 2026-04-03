@@ -1,0 +1,184 @@
+[
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_13",
+    "text": "UAT | C++ | UAT | Finance",
+    "canon_role": "table",
+    "bbox": [
+      0.1405310763413269,
+      0.08526204253119656,
+      0.6195804176192186,
+      0.13412212030966092
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_0",
+    "text": "In addition, we define that \"an employee fits a job\" if and only if the employee has all skills that are needed by the job.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1478439560071952,
+      0.14236111076067287,
+      0.8501026505636466,
+      0.17587209267515047
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_1",
+    "text": "Please write relational algebra expressions for the following queries.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733383112144,
+      0.18452380930771883,
+      0.7063655109738064,
+      0.19915674581565532
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_2",
+    "text": "Find the name of female employees who have at least one skill needed by the \"DEV\" job.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989734924119644,
+      0.20634920680942528,
+      0.8110882863850866,
+      0.23996536317983436
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_3",
+    "text": "Find the names of employees who fit the \"DEV\" job.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1478439616650345,
+      0.24702380968529417,
+      0.6180698054396883,
+      0.263144841431326
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_4",
+    "text": "2. SQL Query (20 points, 5 points each)",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14784394940206522,
+      0.2718023260870514,
+      0.5523613813166207,
+      0.29069767400015784
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_5",
+    "text": "Consider the relational schemas given in problem 1, please write SQL statements to meet the following requests.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989733424291352,
+      0.2965116286534589,
+      0.8336755619447962,
+      0.3299418606928086
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_6",
+    "text": "Find the employees who have not any skills.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1498973444006792,
+      0.3372093020252148,
+      0.5462012248327225,
+      0.35319767464629687
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_7",
+    "text": "Find the jobs that need at least \"Java\" and \"C++\" skills.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15195072805808027,
+      0.35901162822601235,
+      0.6365503083279566,
+      0.37354651130887134
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_8",
+    "text": "Find the names of employees who have the maximum number of skills among all employees.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15195073052749997,
+      0.3851686509999409,
+      0.8439425071316373,
+      0.4145655117309976
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_9",
+    "text": "Find the employees who fit both the \"DEV\" and \"UAT\" jobs.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1498973396364231,
+      0.42286706326992707,
+      0.6858315952711751,
+      0.4374999997778636
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_10",
+    "text": "3. Embedded SQL (10 points)",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14989733844967615,
+      0.44912790664004043,
+      0.45585215257408446,
+      0.4651162792611225
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_11",
+    "text": "Based on the schemas defined in problem 1, the following embedded SQL program accepts the id of an employee as input, and output all skills of the employee. Please fill in the blanks of the program.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14989732965229027,
+      0.4738372089656217,
+      0.831622168335763,
+      0.5203488368044793
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_91_12",
+    "text": "main() EXEC SQL INCLUDE SQLCA; EXEC SQL BEGIN DECLARE SECTION; char id[10]; char skill [20]; EXEC SQL END DECLARE SECTION; EXEC SQL CONNECT TO skill_db USER usel USING password 1; EXEC SQL DECLARE skill_cursor CURSOR for D printf(\"please input employee id :\"); scanf (\"%s\", id); EXEC SQL 2 for (;) EXEC SQL 3 if C _ break; printf( \"%sl n\", id);",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1516817223075598,
+      0.5304187249737807,
+      0.7905544199458883,
+      0.8779761902820024
+    ],
+    "page": "jiaocai_jiaocai_en_91",
+    "order": 14
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_1",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5028385925827932,
+          0.10328871330405363,
+          0.8941605618105314,
+          0.8745111059743207
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Percent Fat in Males & Females",
+        "bbox": [
+          0.21086779688955842,
+          0.10604307899216173,
+          0.40348741904828966,
+          0.11706054174459411
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09124087365413586,
+          0.13358673587324268,
+          0.47850769294169027,
+          0.35669035660999854
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_2",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 1. Percent body fat in males and females. Percent fat was estimated from seven skinfolds using the Jackson and Pollock (1978, 1980) and Siri (1961) equations. SED, LOF, HIF as in Table 1. bP < 0.01 vs. LOF females. †P < 0.001 vs. SED females or SED males, respectively.",
+        "bbox": [
+          0.09124087365413586,
+          0.370462185050539,
+          0.48256284288187407,
+          0.4379441444091874
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_4",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2. Maximal oxygen consumption (VO2max) of the fat free mass (FFM). VO2max in ml/min per kg of FFM in males and females of the various activity groups. SED, LOF, and HIF as in Table 1. P < 0.001 vs. SED females.",
+        "bbox": [
+          0.08921329868404394,
+          0.7299069073486456,
+          0.48256284288187407,
+          0.7863714039548616
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "more resilience to fat loss in females than in males and/or larger differences in caloric expenditure between LOF and SED males than between LOF and SED females. The physical activities in which the LOF females reported participating were apparently sufficient to result in aerobic conditioning compared to that in SED females, but were not sufficient to result in significant decreases in percent body fat compared to that in SED females. This is similar to observations in animals, where female rats allowed spontaneous exercise lost less weight and body fat than males in spite of more negative exercise related energy bal- ance in the females (Cortright et al., 1997). Although fat oxidation contributes more to exercise energy expenditure in females than in males (Blaak, 2001), catecholamine- induced lipolysis is lower in females than in males and the resting rate of fat oxidation adjusted for FFM is lower in females than in males (Ballor and Keesey, 1991). Thus, in minimally active (LOF) females, with lim- ited contribution of physical activity to total energy expenditure, fat mobilization and oxidation are likely to be limited and fat storage favored. In addition, the intensity of the activities in which LOF females engaged, although sufficient to alleviate leg muscle limitations to treadmill exercise, was insuffi- cient to induce a significant negative energy balance, either because of their low fre- quency, intensity and duration, and/or due to simultaneous increases in energy intake. The heavy LOF females may not be able to comfortably sustain exercise of sufficiently high intensity to impinge on their body weight. In addition, because of their low VO2 max, at the same perceived level of exer- tion (or %VO2max), the abolute intensity of work and the caloric expenditure will be lower in females than in males. Only females reporting participation in three or more exercise sessions per week had significantly lower body fat than SED females. In these HIF females aerobic power was higher than in SED females both because of higher oxy- gen consumption capacity of their FFM and because of a lower percent body fat. Thus, in females sufficient frequency of leisure exer- cise was associated with prevention of excess fat and overweight (Suzuki et al., 1998). Indeed, longitudinal studies showed that changes in aerobic fitness and fatness with low-intensity training were inversely related to the initial values of these variables: the least fit showing the greatest improvement in aerobic fitness, the obese showing the least reduction in body fat (Campaigne, 1990). In males, the physical activities in which they reported participation were insufficient",
+        "bbox": [
+          0.09124087365413586,
+          0.8194237922121588,
+          0.4805352679117822,
+          0.8882829344148612
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5028385925827932,
+          0.8607392775337802,
+          0.8941605618105314,
+          0.8882829344148612
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ajhb.10190.pdf_5_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09124087365413586,
+          0.5109348351440519,
+          0.47648011797159834,
+          0.7175122617521592
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

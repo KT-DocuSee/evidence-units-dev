@@ -1,0 +1,132 @@
+[
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_0",
+    "text": "which holds for 0 ≤ x < 1, we find that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24862745098039216,
+      0.09333333333333334,
+      0.5435294117647059,
+      0.1096969696969697
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_1",
+    "text": "Since the double sum converges absolutely, we need not specify the order of summation. See the Note at the end of this chapter. The formula then holds for all Re(s) > 1 by analytic continuation. Note that, by Theorem 6.2 in Chapter 3, log ζ(s) is well defined in the simply connected half-plane Re(s) > 1, since ζ has no zeros there. Finally, it is clear that we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24549019607843137,
+      0.17575757575757575,
+      0.7890196078431373,
+      0.2733333333333333
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_2",
+    "text": "where cn = 1/m if n = pm and cn = 0 otherwise.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2447058823529412,
+      0.336969696969697,
+      0.6133333333333333,
+      0.35454545454545455
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_3",
+    "text": "The proof of the theorem we shall give depends on a simple trick that is based on the following inequality.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24627450980392157,
+      0.3624242424242424,
+      0.7858823529411765,
+      0.39575757575757575
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_4",
+    "text": "Lemma 1.4 If θ ∈ R, then 3 + 4 cos θ + cos 2θ ≥ 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2447058823529412,
+      0.40484848484848485,
+      0.6368627450980392,
+      0.4218181818181818
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_5",
+    "text": "This follows at once from the simple observation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2635294117647059,
+      0.4315151515151515,
+      0.6305882352941177,
+      0.44727272727272727
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_6",
+    "text": "Corollary 1.5 If σ > 1 and t is real, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24549019607843137,
+      0.49333333333333335,
+      0.5725490196078431,
+      0.5103030303030303
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_7",
+    "text": "Proof. Let s = σ + it and note that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.26509803921568625,
+      0.5551515151515152,
+      0.5403921568627451,
+      0.5715151515151515
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_8",
+    "text": "Therefore,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24627450980392157,
+      0.6181818181818182,
+      0.3247058823529412,
+      0.6333333333333333
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205_9",
+    "text": "where θn = t log n. The positivity now follows from Lemma 1.4, and the fact that cn ≥ 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24549019607843137,
+      0.7472727272727273,
+      0.7874509803921569,
+      0.7806060606060606
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_205",
+    "order": 10
+  }
+]

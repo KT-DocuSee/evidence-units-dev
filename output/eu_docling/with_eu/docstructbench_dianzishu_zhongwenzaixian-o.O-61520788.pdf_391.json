@@ -1,0 +1,139 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_9",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HHOHÀ TH HOEN WHI THEỜИ, 1HЖ. N. X.",
+        "bbox": [
+          0.11885248085433363,
+          0.0930059527521609,
+          0.9241803160975106,
+          0.1133720925803736
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HJ T. S .",
+        "bbox": [
+          0.07581967499695777,
+          0.28050595233494624,
+          0.15163934318951758,
+          0.2979651159250293
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ННТ",
+        "bbox": [
+          0.14345695604113837,
+          0.3023255818119789,
+          0.9221311357696418,
+          0.3212209297250852
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.12: J/THJ",
+        "bbox": [
+          0.7827868883626473,
+          0.4491279074774657,
+          0.9036885207049759,
+          0.4636627905603248
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "A 1 EX | MKAAT | 10. 26 | 2 | A Z T. | 7.61 | 3 | **A#T. | 5. 95 | 4 | KT. | 4. 90",
+        "bbox": [
+          0.07373323789543852,
+          0.4682934156733887,
+          0.9243950818883029,
+          0.5867877917797115
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "В АНА",
+        "bbox": [
+          0.11680330354644412,
+          0.6046511632755522,
+          0.9221311387896212,
+          0.6220930225965408
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "тт",
+        "bbox": [
+          0.14464261132531478,
+          0.8092749677670779,
+          0.922240411086949,
+          0.8302888227551153
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "3 ШИН МАНИТИТИКК, ТАТЙ. НАХ. МА",
+        "bbox": [
+          0.11680330354644412,
+          0.8807043655056797,
+          0.9221311387896212,
+          0.8998015877279019
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61520788.pdf_391_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "# 11 - 1",
+        "bbox": [
+          0.11475409868817574,
+          0.44912790692647253,
+          0.18237704758231607,
+          0.4608134921452351
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

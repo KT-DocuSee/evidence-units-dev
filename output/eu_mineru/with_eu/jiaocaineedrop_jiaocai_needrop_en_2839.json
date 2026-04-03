@@ -1,0 +1,513 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2839",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_15",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_15",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "二、判断题(对的画“√”，错的画“×”)(10分)",
+        "bbox": [
+          0.5417291354322838,
+          0.08757062146892655,
+          0.767616191904048,
+          0.10875706214689265
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2839",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_3",
+    "source": "visual_seed",
+    "member_count": 35,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.种子和根是植物的重要器官。 ( )",
+        "bbox": [
+          0.559720139930035,
+          0.11864406779661017,
+          0.9405297351324338,
+          0.14124293785310735
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.要想知道小狗房子的大小是否合适，可以让小狗钻进去试试。 （）",
+        "bbox": [
+          0.56071964017991,
+          0.15112994350282485,
+          0.9405297351324338,
+          0.17372881355932204
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "期末测试卷",
+        "bbox": [
+          0.2518740629685157,
+          0.16242937853107345,
+          0.351824087956022,
+          0.19491525423728814
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.变成油条的面团物质发生变化。 ( )",
+        "bbox": [
+          0.56071964017991,
+          0.18361581920903955,
+          0.9405297351324338,
+          0.20480225988700565
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "时间：60分钟",
+        "bbox": [
+          0.10194902548725637,
+          0.2175141242937853,
+          0.16091954022988506,
+          0.2344632768361582
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "满分：100分",
+        "bbox": [
+          0.4497751124437781,
+          0.2175141242937853,
+          0.5027486256871564,
+          0.2344632768361582
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.可以用导线直接连接电池的两端。 （ )",
+        "bbox": [
+          0.56071964017991,
+          0.2175141242937853,
+          0.9415292353823088,
+          0.23728813559322035
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10194902548725637,
+          0.2387005649717514,
+          0.5027486256871564,
+          0.3022598870056497
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.一个开关只能控制一个小灯泡的亮和灭。 ( )",
+        "bbox": [
+          0.56071964017991,
+          0.24858757062146894,
+          0.9405297351324338,
+          0.269774011299435
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6.油菜属于观赏植物。 ( ）",
+        "bbox": [
+          0.559720139930035,
+          0.2810734463276836,
+          0.9405297351324338,
+          0.3022598870056497
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.清洗梨子时，它的大小发生了变化。 （）",
+        "bbox": [
+          0.559720139930035,
+          0.3121468926553672,
+          0.9405297351324338,
+          0.3333333333333333
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "一、填空题（每空1分，共23分）",
+        "bbox": [
+          0.10194902548725637,
+          0.3177966101694915,
+          0.25787106446776614,
+          0.3389830508474576
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8.在观察土壤的活动中，要戴上手套，完成活动之后，还要及时洗手。（）",
+        "bbox": [
+          0.55872063968016,
+          0.3446327683615819,
+          0.9405297351324338,
+          0.365819209039548
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.体积相同,质量不同的两种液体，如果把轻的液体倒入重的液体中，它会 ;如果把重的液体倒入轻的液体中，它会 _。（选填 “沉”或“浮”)",
+        "bbox": [
+          0.12293853073463268,
+          0.3502824858757062,
+          0.5037481259370314,
+          0.4406779661016949
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9.把物体的质量称为“重量”，这是一种不规范的说法。 （）",
+        "bbox": [
+          0.559720139930035,
+          0.3771186440677966,
+          0.9405297351324338,
+          0.3968926553672316
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10.物体所含物质的多少称为物体的体积。 ( )",
+        "bbox": [
+          0.5617191404297851,
+          0.4096045197740113,
+          0.9405297351324338,
+          0.4307909604519774
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2. 的透明度好，可以做窗户。",
+        "bbox": [
+          0.12393803098450774,
+          0.4519774011299435,
+          0.3188405797101449,
+          0.4731638418079096
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "L.下列选项中，属于天然材料的是 ( )",
+        "bbox": [
+          0.5667166416791605,
+          0.4731638418079096,
+          0.9405297351324338,
+          0.4943502824858757
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.电是一种 。太阳发出的 、物体发出的 等也都是 能量的不同表现形式。",
+        "bbox": [
+          0.12193903048475763,
+          0.4858757062146893,
+          0.5047476261869065,
+          0.5409604519774012
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.塑料 B.钢筋 C.木板",
+        "bbox": [
+          0.5687156421789106,
+          0.501412429378531,
+          0.9405297351324338,
+          0.5254237288135594
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.下列说法正确的是 ()",
+        "bbox": [
+          0.56071964017991,
+          0.538135593220339,
+          0.9405297351324338,
+          0.559322033898305
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4. 通过小灯泡时，小灯泡就发光了。",
+        "bbox": [
+          0.12293853073463268,
+          0.5536723163841808,
+          0.33983008495752126,
+          0.5748587570621468
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.绝缘体的绝缘性并不是绝对的 B.可以用潮湿的木棒接触电线 C.发现有人触电，应直接用手将触电者拉开",
+        "bbox": [
+          0.5737131434282858,
+          0.5692090395480226,
+          0.7876061969015492,
+          0.655367231638418
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.小狗房子的选材要求：要 1 等。",
+        "bbox": [
+          0.12293853073463268,
+          0.5861581920903954,
+          0.4547726136931534,
+          0.6087570621468926
+        ],
+        "order": 26
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6.种子能萌发成 能帮助植物吸收水分和营养。",
+        "bbox": [
+          0.12193903048475763,
+          0.6214689265536724,
+          0.4427786106946527,
+          0.6426553672316384
+        ],
+        "order": 27
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.植物茎内有许多\" ”,它们能够把根吸收的 和 输 送到植物的叶等器官里。",
+        "bbox": [
+          0.12193903048475763,
+          0.653954802259887,
+          0.5047476261869065,
+          0.7090395480225988
+        ],
+        "order": 28
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.下列植物中，会借助水来传播种子的是 ( )",
+        "bbox": [
+          0.5637181409295352,
+          0.6652542372881356,
+          0.9405297351324338,
+          0.6864406779661016
+        ],
+        "order": 29
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.柳树 B.睡莲 C.苍耳",
+        "bbox": [
+          0.5707146426786607,
+          0.6991525423728814,
+          0.8415792103948025,
+          0.7189265536723164
+        ],
+        "order": 30
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8.人们根据土壤中所含沙粒和黏粒量的多少,把土壤分为三类：含黏粒多的土 壤叫_ ;含沙粒多的土壤叫 ;沙粒和黏粒的含量差不多 的土壤叫 0",
+        "bbox": [
+          0.12293853073463268,
+          0.7231638418079096,
+          0.5037481259370314,
+          0.8121468926553672
+        ],
+        "order": 31
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.下列植物中，会借助动物来传播种子的是 （）",
+        "bbox": [
+          0.5617191404297851,
+          0.730225988700565,
+          0.9415292353823088,
+          0.751412429378531
+        ],
+        "order": 32
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.苍耳 B.蒲公英 C.油菜",
+        "bbox": [
+          0.5737131434282858,
+          0.7627118644067796,
+          0.8425787106446777,
+          0.7838983050847458
+        ],
+        "order": 33
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.下列说法正确的是 ()",
+        "bbox": [
+          0.559720139930035,
+          0.7937853107344632,
+          0.9415292353823088,
+          0.8149717514124294
+        ],
+        "order": 34
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9.固体有确定的形状，我们可以用 1 T 等数值来描 述它的大小。",
+        "bbox": [
+          0.12193903048475763,
+          0.8234463276836158,
+          0.5047476261869065,
+          0.8785310734463276
+        ],
+        "order": 35
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.所有绿色开花植物都有根、茎、叶、花、果实和种子六大器官 B.所有绿色开花植物都可以通过根、茎、叶等来繁殖后代 C.绿色开花植物不一定都用种子来繁殖后代",
+        "bbox": [
+          0.5727136431784108,
+          0.826271186440678,
+          0.8725637181409296,
+          0.9124293785310734
+        ],
+        "order": 36
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10.空气没有确定的 ,但空气有 0",
+        "bbox": [
+          0.12393803098450774,
+          0.8912429378531074,
+          0.3918040979510245,
+          0.9138418079096046
+        ],
+        "order": 37
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2839",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_26",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2839_26",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "三、选择题（将正确答案的序号填在括号里）（24分）",
+        "bbox": [
+          0.5397301349325337,
+          0.442090395480226,
+          0.7926036981509246,
+          0.461864406779661
+        ],
+        "order": 18
+      }
+    ]
+  }
+]

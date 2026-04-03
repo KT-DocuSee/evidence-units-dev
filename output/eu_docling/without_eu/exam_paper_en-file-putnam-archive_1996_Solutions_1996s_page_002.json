@@ -1,0 +1,327 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_1",
+    "text": "Therefore",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1277269218864838,
+      0.06938615872964998,
+      0.19558134653572365,
+      0.08032314366983076
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1409774427183504,
+      0.09593023256864038,
+      0.43609021907676265,
+      0.12797619060770485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_3",
+    "text": "so (aj, z, aj+1) & S. The case j = i + 1 is ruled out by",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954831828768,
+      0.14087301590624055,
+      0.47556390362406836,
+      0.1555232557371659
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_19",
+    "text": "If ri < x < ra and Xn is defined as before, then by induction, Xn < Xn+1 < 12. Note that the sequence can be defined because ri > c; the latter follows by noting that the polynomial x2 -x + c is positive at x = c and has its minimum at 1/2 > c, so both roots are greater than c. In any case, we deduce that f(x) is also constant on",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706772343278,
+      0.1613372099493967,
+      0.9210526393583877,
+      0.24563953432243735
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_4",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12030074487563479,
+      0.16860465117329154,
+      0.4567669158856436,
+      0.18179563495313822
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_5",
+    "text": "and the case j = i - 1 is similar.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955656765284,
+      0.1946924603744677,
+      0.3364661619160562,
+      0.2078488365622313
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_6",
+    "text": "Finally, we put g(z) in (g(an), to) if i = n, and (g(ai), g(ai+1)) otherwise; an analysis similar to that above shows that g has the desired property.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195452537595,
+      0.2150297617187417,
+      0.49060151109241035,
+      0.25726744195897583
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_20",
+    "text": "Finally, suppose * < r1. Now define x0 = x, Xn+1 = Ah + c. Given that Xn < 11, we have Xn+1 > Xn. Thus if we had Xn < ri for all n, by the same argument as in the first case we deduce Xn → ri and so f(x) = f(ri). Actually, this doesn't happen; eventually we have Xn > r1, in which case f(x) = f(xn) = f(r1) by what we have already shown. We conclude that f is a constant function. Thanks to Marshall Buck for catching an inaccuracy in a previous version of this solution.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390978273191,
+      0.2673611111924538,
+      0.9210526298424107,
+      0.39682539662537364
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_7",
+    "text": "A-5 (due to Lenny Ng) For 1 In ≤ p - 1, p divides a and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466397680088,
+      0.26884920634376097,
+      0.4887217956409937,
+      0.28199404761360225
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_8",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1654135348890937,
+      0.29450581439613766,
+      0.4076340841246329,
+      0.3604651161922264
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_9",
+    "text": "where the congruence x = y (mod p) means that x- y is a rational number whose numerator, in reduced form, is divisible by p. Hence it suffices to show that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955212030868,
+      0.3735119047310129,
+      0.49060151260400175,
+      0.41569767420758
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_21",
+    "text": "Now suppose c > 1/4. Then the sequence Xn defined by xo = 0 and Xn+1 = xh + c is strictly increasing and has no limit point. Thus if we define f on xo, x1 as any continuous function with equal values on the endpoints, and extend the definition from [xn, In+1| to |Xn+1, In+2] by the relation f(x) = f(x? + c), and extend the definition further to x < 0 by the relation f(x) = f(x), the resulting function has the desired property. Moreover, any function with that property clearly has this form.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909744386045,
+      0.40252976183602146,
+      0.9210526389119592,
+      0.530523255711609
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_10",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20112782016227868,
+      0.440006255291496,
+      0.37602715808908194,
+      0.4636627907444019
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_11",
+    "text": "We distinguish two cases based on p (mod 6). First suppose p = 6r + 1, so that k = 4r. Then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1296992527869432,
+      0.4781746033376204,
+      0.48872179238849567,
+      0.5044642858616359
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09962406044266714,
+      0.5203488370314502,
+      0.3101503755457414,
+      0.6264880952514295
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_22",
+    "text": "B-1 Let [n| denote the set {1,2,...,n}, and let fn denote the number of minimal selfish subsets of n. Then the number of minimal selfish subsets of [n] not containing n is equal to fn-1. On the other hand, for any minimal selfish subset of [n] containing n, by subtracting 1 from each element, and then taking away the element n - 1 from the set, we obtain a minimal selfish subset of (n - 2) (since 1 and n cannot both occur in a selfish set). Conversely, any minimal selfish subset of [n - 2] gives rise to a minimal selfish subset of n containing n by the inverse procedure. Hence the number of minimal selfish subsets of n containing n is In-2. Thus we obtain fn = In-1 + fn-2. Since fi = f2 = 1, we have fn = Fn, where En denotes the nth term of the Fibonacci sequence.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360951597743,
+      0.542151162692187,
+      0.9210526325288141,
+      0.7572674415259835
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_13",
+    "text": "since p = 6r + 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955001284054,
+      0.6482558140730009,
+      0.24248120134994142,
+      0.6614583332438225
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_14",
+    "text": "Now suppose p = 6r + 5, so that k = 4r + 3. A similar argument gives",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954002757723,
+      0.6671511632924197,
+      0.4906015005112703,
+      0.696220929585487
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_15",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09198352101233204,
+      0.7078373015562991,
+      0.40225563859657115,
+      0.8271329367919672
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_23",
+    "text": "B-2 By estimating the area under the graph of Inx using upper and lower rectangles of width 2, we get",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5263157989987306,
+      0.7703373017016479,
+      0.9191729306629236,
+      0.7979651162504003
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_24",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6184210545967924,
+      0.818204365282722,
+      0.857142850713358,
+      0.8633720928290676
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_16",
+    "text": "A-6 We first consider the case c < 1/4; we shall show in this case f must be constant. The relation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466658834576,
+      0.8444767441793796,
+      0.49060150869360897,
+      0.8706395347692639
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_17",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1484962455507397,
+      0.8821924605610884,
+      0.4266917258778317,
+      0.8998015875452153
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_25",
+    "text": "Since fInxdx = xInx -x +C, we have, upon exponen-",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706749160321,
+      0.8851686508836619,
+      0.9191729249586548,
+      0.8983134921535032
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002_18",
+    "text": "proves that f is an even function. Let ri ≤ r2 be the roots of x? + c -x, both of which are real. If x > r2, define x0 = x and Xn+1 = VXn - c for each positive integer x. By induction on n, r2 < Xn+1 < Xn for all n, so the sequence {Kn} tends to a limit L which is a root of 12 + c = x not less than r2. Of course this means L = r2. Since f(x) = f(xn) for all n and Xn → r2, we conclude f(x) = f(r2), so f is constant on x ≥ r2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12767241779888464,
+      0.9126984125377285,
+      0.4908536923696485,
+      0.941882814808714
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_002",
+    "order": 26
+  }
+]

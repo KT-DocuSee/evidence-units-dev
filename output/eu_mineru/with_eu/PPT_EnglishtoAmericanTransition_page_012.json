@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_012",
+    "primary_id": "mineru_PPT_EnglishtoAmericanTransition_page_012_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_EnglishtoAmericanTransition_page_012_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Changes to English (in America)",
+        "bbox": [
+          0.066,
+          0.14044444444444446,
+          0.826,
+          0.21688888888888888
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_012",
+    "primary_id": "mineru_PPT_EnglishtoAmericanTransition_page_012_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_EnglishtoAmericanTransition_page_012_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.044,
+          0.17244444444444446,
+          0.9986666666666667,
+          0.9982222222222222
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

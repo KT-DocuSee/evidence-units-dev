@@ -1,0 +1,132 @@
+[
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_0",
+    "text": "定态假设意味着原是稳定的系统，跃迁假设解释了原光谱的离散性，最后由 氢原中电轨道量化条件，可导出氢原能级和氢原的光谱结构。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14913341394598953,
+      0.08436653840672652,
+      0.8520757758968158,
+      0.11742910075530853
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_1",
+    "text": "氢原子的轨道能量即原子能量，为E= 一 mν2 −k 0 因圆运动而有m L2 k 0 , 2 r r 0 h 02 由此可得E =−k2r，根据轨道量子化条件可得：v = n2r , n =1,2...因r = $mv2$ , ke² $4π{m{r2$ 便有r= 得： m n{h2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1483272873841193,
+      0.1208493658258515,
+      0.860137041515518,
+      0.23428815733219324
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_2",
+    "text": "$n{h{}$ 量化轨道半径为：rn 4π{2km n =1,2.…. 量化能量可表述为：En 2π^k, n=1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.18702136235388955,
+      0.23713837822431239,
+      0.6400644901249496,
+      0.31295425395468146
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_3",
+    "text": "n=1对应基态，基态轨道半径r=5.29×10lm=0.0529，也称为玻尔半径，基态 E 能量为E1=E=−13.6eV。n>1对应激发态，有：r=n2r1，1 En n=1,2……,n $22$ 越，r越，En也越，电离核穷远时，对应E=0，因此氢原的电离能 为：E电离= E−E1=−E1=13.6eV。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1483272873841193,
+      0.31865469573891975,
+      0.8512696493349455,
+      0.41670229442781814
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_4",
+    "text": "电从能态En跃迁到低能态Em辐射光的能量为：hv=En−Em光频率为 V= En − Em E1 Y 1 )， n>m，因此氢原光谱中离散的谱线波长可表述为 h h 22 m2 λ =c hc 1 1 ~1 n>m。可以证明n很时电从n第轨道跃迁到第n-1轨 E1 1 1 r $n2−m2 道所辐射的光波频率，近似等于电子在第n轨道上的转动频率，这与经典理论所得结 要致，据此，玻尔认为，经典辐射是量辐射在n→时的极限情形。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14993954050785974,
+      0.4218326920336326,
+      0.8520757758968158,
+      0.5546529856063845
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_5",
+    "text": "玻尔理论的局限性：",
+    "canon_role": "section_header",
+    "bbox": [
+      0.18460298266827893,
+      0.556363118141656,
+      0.34663442160419183,
+      0.5717543109590993
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_6",
+    "text": "玻尔原理论满意地解释了氢原和类氢原的光谱；从理论上算出了德伯恒 量；但是也有些缺陷。对于解释具有两个以上电的较复杂的原光谱时却遇到 了困难，理论推导出来的结论与实验事实出很大。此外，对谱线的强度、宽度也无 能为；也不能说明原是如何组成分、构成液体个固体的。玻尔理论还存在逻辑 上的缺点，他把微观粒看成是遵守经典学的质点，同时，又给它们量化的观 念，失败之处在于偶保留了过多的经典物理理论。到本世纪20年代，薛定谔等物理 学家在量观念的基础上建了量学。彻底摒弃了轨道概念，代之以率和电 云概念。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1483272873841193,
+      0.5746045318512185,
+      0.8512696493349455,
+      0.7199657973492946
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_7",
+    "text": "四、原子核模型",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14913341394598953,
+      0.7233860624198375,
+      0.27972591696896415,
+      0.7382072110588571
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_8",
+    "text": "原核所带电荷为+Ze，Z是整数，叫做原序数。原核是由质和中组成， 两者均称为核，核数记为A，质数记为Z，中数便为A-Z。原的元素符号记 为X，原核可表述为X，元素的化学性质由质数Z决定，Z相同N不同的称为 同位素。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14913341394598953,
+      0.7399173435941285,
+      0.8504635227730754,
+      0.8100327775402594
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2527_9",
+    "text": "除氢核外，原核zX中Z个质与（A-Z）个中静质量之和都于原核的 静质量Mx，其间之差：∆M=[Zm+(A−Z)mn]−Mx，称为原子核的质量亏损。 造成质量亏损的原因是核相互吸引结合成原核时具有负的能量，这类似于电与 原核相互吸引结合成原时具有负的能量（例如氢原处于基态时电轨道能量 为-13.6eV）同样类似于万有引作于天体。据相对论质能关系，负能量对应质量",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1483272873841193,
+      0.8123129542539547,
+      0.8512696493349455,
+      0.9023799344449195
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2527",
+    "order": 10
+  }
+]

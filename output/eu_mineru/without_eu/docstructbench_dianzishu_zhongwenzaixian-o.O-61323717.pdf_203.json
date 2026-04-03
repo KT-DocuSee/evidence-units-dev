@@ -1,0 +1,54 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61323717.pdf_203_0",
+    "text": "称“白区”，小学多数停办。继续开办的小学开设的课程有国文、修身、 四书等，以后又改为宁夏教育厅编印的复习课本，有三民主义、语 文、算术、卫生、自然、历史、地理、公民、劳作、体育、音乐、美术等①。 而盐池县唯一的一家女子小学于1935年就停办了，该校1929年创 建，历时七年之久。初建时设在县党部院内，1933年搬迁到文庙，课 程设置主要有国语、算术，还有百家姓、三字经、三民、修身、自然、 图画、手工等，学生分年级授课。该校唯一专职教师最初是经商的， 女子小学成立后，他弃商教学，其他的教师都是外聘教员兼课。这 所学校学生人数最多时也不过有十一二名。②这一现象在很大程度 上说明，1935年普及义务教育前，对女子受教育不仅社会不予重 视，家长也根本持漠视态度，在灵武、宁朔、宁夏等县轻视女童教育 更为严重。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13316512209633313,
+      0.11104579271449369,
+      0.8387066461856771,
+      0.4294859335869388
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61323717.pdf_203",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61323717.pdf_203_1",
+    "text": "表 351935 年度宁夏省小学概况统计简表③",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.28502008589039723,
+      0.43601803904073255,
+      0.686851682391613,
+      0.4539813290386654
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61323717.pdf_203",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61323717.pdf_203_2",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.1355013523085495,
+      0.45888040812901065,
+      0.8363704159734607,
+      0.7217976526442089
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61323717.pdf_203",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61323717.pdf_203_3",
+    "text": "1935年，统计宁夏省总计学生15860人，其中仅有女生1690 人，而男生14169人，差不多是女生的10倍。盐池县不仅女生只有",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1355013523085495,
+      0.7283297580980027,
+      0.8387066461856771,
+      0.7789535753649043
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61323717.pdf_203",
+    "order": 4
+  }
+]

@@ -1,0 +1,925 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_1",
+    "text": "Formula Bar",
+    "canon_role": "section_header",
+    "bbox": [
+      0.26591760491546207,
+      0.08134920599958431,
+      0.4063670410349124,
+      0.09747023774561606
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_2",
+    "text": "The tormula bar appears below the Ribbon (Figure 1-12a). As you type, Excel displays the entry in the formula bar. You can make the formula bar larger by dragging the sizing handle (Figure 1-7) on the formula bar or clicking the expand button to the right of the formula bar. Excel also displays the active cell reference in the Name box on the left side of the formula bar.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2640449466172411,
+      0.10755813950399183,
+      0.9176029870806487,
+      0.18030753955385848
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_3",
+    "text": "Mini Toolbar and Shortcut Menus",
+    "canon_role": "section_header",
+    "bbox": [
+      0.2677902622701153,
+      0.21502976213888345,
+      0.6498127394420304,
+      0.2311507938849152
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_4",
+    "text": "The Mini toolbar, which appears automatically based on tasks you perform (such as selecting text), contains commands related to changing the appearance of text in a worksheet. All commands on the Mini toolbar also exist on the Ribbon. The purpose of the Mini toolbar is to minimize mouse movement. For example, if you want to format text using a command that currently is not displayed on the active tab, you can use the command on the Mini toolbar - instead of switching to a different tab to use the command.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2640449533622683,
+      0.2398255813311741,
+      0.9213483211918523,
+      0.34011627849770365
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_5",
+    "text": "When the Mini toolbar appears, it initially is transparent (Figure 1-12a). If you do not use the transparent Mini toolbar, it disappears from the screen. To use the Mini toolbar, move the mouse pointer into the toolbar, which causes the Mini toolbar to change from a transparent to bright appearance (Figure 1-12b).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2640449455099148,
+      0.3400297622089624,
+      0.9232209653506548,
+      0.40552325612989315
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_70",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.07161337052476349,
+      0.43020211949067955,
+      0.9308884607107153,
+      0.5854493309469784
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_10",
+    "text": "formula bar",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.27528090065468447,
+      0.44469246012177105,
+      0.3314606741268388,
+      0.4534883719523401
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_11",
+    "text": "sizing handle",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3857677917300509,
+      0.4476686508859948,
+      0.45131086159391914,
+      0.456395348478503
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_20",
+    "text": "Paste",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6273408239373092,
+      0.4476744186430449,
+      0.6516853926045136,
+      0.45494186018447424
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_6",
+    "text": "Clipboard",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0805243470174758,
+      0.45784883729614567,
+      0.12546816384394738,
+      0.465116278837575
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_13",
+    "text": "Alignment",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.34644194737524253,
+      0.4578488375437838,
+      0.39513108470965147,
+      0.46656976720427806
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_21",
+    "text": "Clipboard D",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6197696284887326,
+      0.466234935260214,
+      0.6779831819539688,
+      0.47562552972749816
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_25",
+    "text": "Font",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7453183520662107,
+      0.46802325602797706,
+      0.7696629207334151,
+      0.47529069756940673
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_31",
+    "text": "Alignn",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8876404495392648,
+      0.46802325602797706,
+      0.9157303362753417,
+      0.47529069756940673
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_17",
+    "text": "commands on",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.528089889108328,
+      0.4694767442910585,
+      0.5936329589721963,
+      0.47674418583248795
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_14",
+    "text": "Walk and Rock Music",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2827715382464113,
+      0.47383720938916896,
+      0.3988764056986572,
+      0.4811507936771302
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_7",
+    "text": "B5",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1273408238330129,
+      0.4738372094164218,
+      0.1423220973280358,
+      0.4811046509578514
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_18",
+    "text": "Mini toolbar are",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.528089890705245,
+      0.4781746032504452,
+      0.6067415725906351,
+      0.4854651160468774
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_22",
+    "text": "B5",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.666666666904746,
+      0.4825581397482412,
+      0.6835205994342051,
+      0.49127906940873567
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_32",
+    "text": "Walk and Rock Mu",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8239700356016381,
+      0.48255813989359014,
+      0.9194756548946167,
+      0.49131944460512866
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_8",
+    "text": "TA",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11048689167123574,
+      0.4854651167797914,
+      0.12921348323513127,
+      0.49999999986265053
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_19",
+    "text": "also on Ribbon",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5262172281789685,
+      0.4868551588138343,
+      0.5992509341805821,
+      0.4942956350043107
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_23",
+    "text": "A",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6573033711176649,
+      0.4985465115485655,
+      0.6685393253242827,
+      0.5101744183932951
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_26",
+    "text": "B",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7116104868702621,
+      0.4985465118049272,
+      0.7209737826522098,
+      0.5072674414654216
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_33",
+    "text": "D",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.81835205990397,
+      0.4985465118049272,
+      0.8277153556859178,
+      0.5072674414654216
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_9",
+    "text": "Name box",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0898876413119285,
+      0.5029069771755669,
+      0.14044943890030617,
+      0.5116567460230778
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_24",
+    "text": "2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6217228466080897,
+      0.5247093025389389,
+      0.6310861423900375,
+      0.5334302321994333
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 28
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_28",
+    "text": "- 11",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7434456934987946,
+      0.5290178571048532,
+      0.7677902621659991,
+      0.5364583332953293
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 29
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_15",
+    "text": "transparent",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2808988760442419,
+      0.5290697676558841,
+      0.33895130977036475,
+      0.5363372091973136
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 30
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_27",
+    "text": "Calibri",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6853932584901593,
+      0.5290697676740527,
+      0.7172284632951089,
+      0.5363372092154822
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 31
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_16",
+    "text": "Mini toolbar",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2808988791609859,
+      0.5376984127412512,
+      0.3426966285169167,
+      0.5451388889317274
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 32
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_34",
+    "text": "bright",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.82584269775358,
+      0.537790697761262,
+      0.8576779025585298,
+      0.5450581393026915
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 33
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_29",
+    "text": "A - A A",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7265917619530614,
+      0.5436046510349997,
+      0.7827715354252156,
+      0.5553075395767513
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 34
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_35",
+    "text": "Mini toolbar",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.823970040209675,
+      0.5465116279938201,
+      0.8857677895656058,
+      0.5538194443497675
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 35
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_12",
+    "text": "walk and Rock Music",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14794007585368849,
+      0.5523255818597332,
+      0.26029962279799695,
+      0.5669642858266308
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 36
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_30",
+    "text": "Walk and Rock Musio",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6910112369685744,
+      0.5625000001033452,
+      0.8014981285370436,
+      0.5726744183559571
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 37
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_36",
+    "text": "(a) Transparent Mini Toolbar",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14419476449995852,
+      0.5944767441939143,
+      0.36142321737270067,
+      0.6061507935486492
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 38
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_37",
+    "text": "(b) Bright Mini Toolbar",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6835206014513604,
+      0.5944767443055591,
+      0.8595505580055683,
+      0.6076388888983891
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 39
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_38",
+    "text": "Figure 1-12",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.45665807122056784,
+      0.6265109848659605,
+      0.5452145901655057,
+      0.6409308754513603
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 40
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_71",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.0702296026510085,
+      0.671111499561983,
+      0.46572886824042875,
+      0.9323653613819796
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 41
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_69",
+    "text": "A shortcut menu, which appears when you right-click an object, is a list of frequently used commands that relate to the right-clicked object. If you right-click an item in the document window such as a cell, Excel displays both the Mini toolbar and a shortcut menu (Figure 1-13).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4775280952084359,
+      0.674308531306398,
+      0.9270231104503093,
+      0.7582501267253099
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 42
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_40",
+    "text": "Home Insert",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11797753064692487,
+      0.6816860465984713,
+      0.19850187278628356,
+      0.6889880952589312
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 43
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_65",
+    "text": "Review",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.40074906414657074,
+      0.6816860466166399,
+      0.4344569292054892,
+      0.6889534881580693
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 44
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_41",
+    "text": "Page Layout",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2191011257176862,
+      0.6816860467249855,
+      0.27340823893587174,
+      0.6904761906235406
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 45
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_43",
+    "text": "Data",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.35767790378339454,
+      0.6816860469430086,
+      0.38014981219663047,
+      0.690406976603503
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 46
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_42",
+    "text": "Formulas",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2921348311660696,
+      0.6831395349040856,
+      0.335205992616702,
+      0.6889534883264503
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 47
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_45",
+    "text": "A A",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2659176038007086,
+      0.7020348837697696,
+      0.2977528086056584,
+      0.7123015875154451
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 48
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_44",
+    "text": "Calibri",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14606741554992092,
+      0.7049418604799512,
+      0.1760299625399667,
+      0.710755813902316
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 49
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_47",
+    "text": "B I U-",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1479400746414561,
+      0.7209302325645853,
+      0.21535580475929297,
+      0.7311507938002555
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 50
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_46",
+    "text": "Paste",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08426966434945762,
+      0.7209302326449828,
+      0.11048689083156606,
+      0.7281976741864122
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 51
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_49",
+    "text": "Font",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20224719162613555,
+      0.7398255815003609,
+      0.22659176029334005,
+      0.7470930230417904
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 52
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_52",
+    "text": "Alignment",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.34456928883181487,
+      0.7398255815360318,
+      0.39138576591225516,
+      0.7485465111965263
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 53
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_48",
+    "text": "Clipboard D",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.076779025856976,
+      0.7398255817540552,
+      0.13483145958309892,
+      0.7485465114145496
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 54
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_51",
+    "text": "•x V f",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20786516953961956,
+      0.7543604654618724,
+      0.27153557914951904,
+      0.764632936666509
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 55
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_53",
+    "text": "Walk and Rock Music",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.28089887809216985,
+      0.7557043651037006,
+      0.3913857696606391,
+      0.7646329365322719
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 56
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_50",
+    "text": "B5",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12359550592628162,
+      0.7558139535752155,
+      0.14044943845574084,
+      0.7630813951166451
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 57
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_66",
+    "text": "G",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.43632958831491825,
+      0.7718023257220783,
+      0.44756554252153613,
+      0.7805232553825727
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 58
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_54",
+    "text": "right-clicked text",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09550562019904722,
+      0.7805059522312693,
+      0.17602996233840593,
+      0.7892441856878053
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 59
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_55",
+    "text": "Mini toolbar",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.31835206101615204,
+      0.797867063432057,
+      0.3764044947422749,
+      0.8053075396225333
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 60
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_57",
+    "text": "• 11",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23033707926658503,
+      0.8023255816087062,
+      0.2546816479337895,
+      0.8110465112692006
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 61
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_56",
+    "text": "Calibri",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17228464525670115,
+      0.8037790700480837,
+      0.20411985006165087,
+      0.8110465115895132
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 62
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_58",
+    "text": "Walk and Back Music",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14606741683280655,
+      0.8343023255020539,
+      0.25655430840127585,
+      0.8459821427888027
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 63
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_59",
+    "text": "Cut",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.19850187285512058,
+      0.845930232786032,
+      0.2153558053845798,
+      0.8546511624465264
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 64
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_67",
+    "text": "shortcut",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.37827715441103144,
+      0.8531976745236165,
+      0.4194756556076951,
+      0.860465116065046
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 65
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_60",
+    "text": "Copy",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.19850187321321422,
+      0.8604651165069622,
+      0.2228464418804187,
+      0.8691860461674565
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 66
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_68",
+    "text": "menu",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3782771539166056,
+      0.8648255814021607,
+      0.40636704065268275,
+      0.8677325581133432
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 67
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_61",
+    "text": "Paste",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.19850187408728534,
+      0.8750000000868434,
+      0.2247191005693938,
+      0.8822674416282729
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 68
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_63",
+    "text": "Eormat Cells..",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1985018751581769,
+      0.8908730159230216,
+      0.2602996245141077,
+      0.8983134921134978
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 69
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_62",
+    "text": "10",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07677902617383688,
+      0.9011627907360683,
+      0.09176029966885979,
+      0.9084302322774978
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 70
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_64",
+    "text": "Pick From Drop-down List...",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.19850187381017054,
+      0.9040178572495359,
+      0.31835206177035374,
+      0.9127906973520497
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 71
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12_39",
+    "text": "Figure 1-13",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22275669650073243,
+      0.9428905216061174,
+      0.31095117043075954,
+      0.9553652921899212
+    ],
+    "page": "docstructbench_llm-raw-the-eye-o.O-1%20Excel.pdf_12",
+    "order": 72
+  }
+]

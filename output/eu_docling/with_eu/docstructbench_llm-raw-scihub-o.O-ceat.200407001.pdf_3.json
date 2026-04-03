@@ -1,0 +1,370 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_30",
+    "source": "visual_seed",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_30",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7984964748043331,
+          0.03579738890162837,
+          0.9082463997750303,
+          0.0662775740013918
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C",
+        "bbox": [
+          0.8798449611204192,
+          0.03633720927143373,
+          0.8934108526715702,
+          0.047965116116163206
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_1",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.09302326707544821,
+          0.07986111066761803,
+          0.49031006654858267,
+          0.09895833288984023
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.09302325763713278,
+          0.17286706372075636,
+          0.49031007701727414,
+          0.18895348772502202
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.09087252605961149,
+          0.2083587047368121,
+          0.29091042360004415,
+          0.23640873760981446
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5096899223702356,
+          0.5784883720427515,
+          0.9089147276440871,
+          0.6104651154889827
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with",
+        "bbox": [
+          0.5096899231474545,
+          0.616279069978798,
+          0.5406976734610724,
+          0.6279069768235275
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_20",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5077519382507355,
+          0.6366279069997474,
+          0.9108527127379545,
+          0.6686507939804303
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.12373586296451947,
+          0.6656976743564312,
+          0.4941860466254261,
+          0.6973260384756663
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_23",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.8759689924392328,
+          0.7020348835295752,
+          0.910852712488785,
+          0.7180232561506573
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_29",
+    "source": "visual_seed",
+    "member_count": 15,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and Bp → ∞. At this limit, equilibrium is considered to be sufficient for calculating the response of the solid phase to changes of the concentration in the fluid. Model 4 is our complete, highest order model, as previously outlined and in exact correspondence to [13-18]. Mainly this model has been evaluated for both isothermal and non-isothermal conditions.",
+        "bbox": [
+          0.5077519383757929,
+          0.08283730170164805,
+          0.9089147381542086,
+          0.18459302315346932
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The damping function f(R-r) remains the same as for the mass transfer (Eq.(11)), while the slope parameter and the damping parameter are slightly modified to, respectively,",
+        "bbox": [
+          0.09285400306139419,
+          0.1118551589376811,
+          0.49046775061837217,
+          0.1555232558143538
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The partial differential equation or equations of the various models have been solved by the method of lines. The numerical calculations were conducted for different mesh densities, and the results accepted when the change of calculated gas moisture content values was lower than 0.05% of the maximal difference of gas moisture content appearing in the packed bed. When the error was bigger, the mesh was made denser. Since the width of the concentration front is, in many cases, not much smaller than the length of the bed, equidistant meshes have been used in the axial direction. In the maldistribution models (models 3 and 4 in the previous section) meshes that were denser near the wall than in the center of the tube have been applied.",
+        "bbox": [
+          0.5077519369132044,
+          0.24553571435605587,
+          0.9089147351394442,
+          0.43459302328670596
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The heat release by adsorption, see [19] for AHad, is derived in the last term on the right-hand side of Eq. (14) from the change of solids load with time. This very term couples the energy with the mass balance, so that both have to be solved simultaneously in order to account for thermal effects. Heat transfer resistances to or in the particles are neglected. The terms bed(r) and Abed(r) in Eqs. (8), (10), (15) and (17) describe the isotropic effective diffusivity and thermal conductivity of the bed without fluid flow. Boundary and initial conditions for Eqs. (7) and (14) are recapitulated in Tab. 1.",
+        "bbox": [
+          0.09098166771203896,
+          0.2455357143742243,
+          0.4904391940294612,
+          0.4055232559417446
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On the basis of the above described general model various reductions are possible by neglecting thermal effects, the radial coordinate or gas-to-particle and intraparticle mass transfer resistances. From such reduced versions the following has been considered in more detail in the present work:",
+        "bbox": [
+          0.09108526153770745,
+          0.4084302327694958,
+          0.49031007629824763,
+          0.479662698588718
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To check the numerical procedure, respective results have been compared with available analytical solutions. One of such a solution is attributed to Anzelius [1] and refers to model 2 after the classification of section 3, additionally reduced by neglecting axial dispersion (Dax = 0). Furthermore, it is assumed that the sorption equilibrium is throughout linear (\"Henry's law\"), and that the bed is long. The mass transfer resistance is attributed to the fluid phase. Then, axial profiles can be derived to",
+        "bbox": [
+          0.5096899342907946,
+          0.4374999998722088,
+          0.9108527051148899,
+          0.5683139533496903
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "plug-flow model (1-D) with local equilibrium between the gas and the solids,",
+        "bbox": [
+          0.09302327189618459,
+          0.4825581395282165,
+          0.4903100713693191,
+          0.5101744183936266
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "plug-flow model (1-D) with mass transfer resistance to the solids,",
+        "bbox": [
+          0.09289127200582273,
+          0.5096309867891263,
+          0.4904183342912505,
+          0.5381833284960217
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "2-D maldistribution model with local equilibrium,",
+        "bbox": [
+          0.0930232584279739,
+          0.5421511628203678,
+          0.43992248667861505,
+          0.5538194442430888
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "2-D maldistribution model with mass transfer resistance to the solids.",
+        "bbox": [
+          0.09302326069624947,
+          0.5566860467714336,
+          0.490310060169384,
+          0.5813953486066838
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In our terminology \"plug flow\" means that every influence of the radial coordinate is neglected, including the influence of the wall on porosity and flow velocity. However, axial dispersion, as expressed by the dispersion coefficient Dax, is accounted for, so that the equation",
+        "bbox": [
+          0.09108527360376209,
+          0.5857558139468212,
+          0.4903100762098393,
+          0.6569940475399272
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and applies to the isothermal plug No models (model and 2), = k(+-₴) Eq. (20) is the classical, conventional way to model packed bed adsorbers. Local equilibrium corresponds, in terms of the two-layers model from [19], to the limiting case of Br → co",
+        "bbox": [
+          0.4961240313505992,
+          0.6729651167797914,
+          0.536821706004052,
+          0.6874999998626505
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In Eq. (21) the concentration of adsorbate in the gas phase, C, is used instead of the content, Y, assuming an ini-",
+        "bbox": [
+          0.5077519320940832,
+          0.732558139470709,
+          0.908914726549328,
+          0.761656745583429
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_22",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1. Boundary and initial conditions for models.",
+        "bbox": [
+          0.08914728801479618,
+          0.7805059526104773,
+          0.35658914425264576,
+          0.7936507938803185
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_29",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "+>0 | z = 0 | Y = Yin | T = Tin | L=L | ax = 0 | t > 0 | 05 Z51 | 1=0 | I = R | 2 = 0. | 7 = 0 | T = Tw | t = 0 | X (r,z) = Xo | Y (r,z) = Yo | T(r,z) = To",
+        "bbox": [
+          0.09214347936280626,
+          0.7979849766085392,
+          0.9075808839515275,
+          0.9042567013613441
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_7",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200407001.pdf_3_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(19) 4 Numerical Solution and its Validation",
+        "bbox": [
+          0.4573643384796791,
+          0.21354166632836177,
+          0.827519375047453,
+          0.22966269807439352
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

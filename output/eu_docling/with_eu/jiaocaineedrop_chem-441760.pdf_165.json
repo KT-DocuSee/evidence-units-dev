@@ -1,0 +1,1857 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_137",
+    "source": "visual_seed",
+    "member_count": 124,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_137",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09741258509018842,
+          0.03482855016534979,
+          0.20729384478400736,
+          0.05005300001664595
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hydrocarbons",
+        "bbox": [
+          0.1315789469898173,
+          0.151162790911698,
+          0.18984962298198726,
+          0.15843023245312762
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R-OH",
+        "bbox": [
+          0.5206766918023162,
+          0.18750000023219224,
+          0.5582706753656037,
+          0.19476744177362176
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R-X",
+        "bbox": [
+          0.44548872125368155,
+          0.18750000035870626,
+          0.475563909573386,
+          0.19622093001920068
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R'- CEC-R2",
+        "bbox": [
+          0.27987482615390114,
+          0.18787675115891933,
+          0.3292329981971983,
+          0.1958411833984518
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R'",
+        "bbox": [
+          0.6785714284839838,
+          0.1918604652932994,
+          0.693609022643836,
+          0.2005813949537937
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ARENE",
+        "bbox": [
+          0.3683155402177902,
+          0.21634781273608053,
+          0.39860175377063495,
+          0.22551265224601427
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HALOALKANE",
+        "bbox": [
+          0.43416632851038445,
+          0.21639594159329487,
+          0.490645702976033,
+          0.2254645233863383
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ACID ANHYDRIDE",
+        "bbox": [
+          0.8195488740991512,
+          0.21651785721319874,
+          0.8890977441809242,
+          0.22529069731571222
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CARBOXYLIC ACID",
+        "bbox": [
+          0.738721805388152,
+          0.21651785733432274,
+          0.8120300718674875,
+          0.22529069743683625
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ALDEHYDE",
+        "bbox": [
+          0.5977443624920082,
+          0.2165697676552179,
+          0.640977443100097,
+          0.22529069731571222
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "KETONE",
+        "bbox": [
+          0.6804511290323438,
+          0.21656976766975278,
+          0.7142857137496108,
+          0.2252906973302472
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ALCOHOL",
+        "bbox": [
+          0.5206766922227444,
+          0.21656976769155512,
+          0.5601503764332707,
+          0.22529069735204954
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ALKYNE",
+        "bbox": [
+          0.2875939854139229,
+          0.21656976780056672,
+          0.32142857013119,
+          0.22529069746106115
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ALKANE",
+        "bbox": [
+          0.12969924769995253,
+          0.21656976782479154,
+          0.16541353306445855,
+          0.22529069748528596
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ALKENE",
+        "bbox": [
+          0.20864661612100516,
+          0.21656976782479154,
+          0.24436090148551118,
+          0.22529069748528596
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -one",
+        "bbox": [
+          0.67293232969408,
+          0.226686507856221,
+          0.719924811596647,
+          0.23412698404669735
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -ane",
+        "bbox": [
+          0.12593984940993008,
+          0.2266865078865021,
+          0.17105263066525792,
+          0.23412698407697835
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -yl benzene",
+        "bbox": [
+          0.3496240610534098,
+          0.2266865078865021,
+          0.4172932304879438,
+          0.23412698407697835
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -ol",
+        "bbox": [
+          0.5206766912359022,
+          0.2266865078865021,
+          0.5601503754464285,
+          0.23412698407697835
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -ene",
+        "bbox": [
+          0.20300751856469396,
+          0.22668650792283931,
+          0.25000000046726084,
+          0.23412698411331545
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -yne",
+        "bbox": [
+          0.2819548876514734,
+          0.2266865079958482,
+          0.32894736955404036,
+          0.2341269841863244
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming al",
+        "bbox": [
+          0.595864662163061,
+          0.2266865080833578,
+          0.6390977427711497,
+          0.23983134935319889
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Nag thanic anyanide",
+        "bbox": [
+          0.8139097747409126,
+          0.22668650813686286,
+          0.8909774425147262,
+          0.24131944464479932
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. chloroethane",
+        "bbox": [
+          0.4360902271093338,
+          0.23110465129808364,
+          0.48684210540946316,
+          0.23837209283951324
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. ethene",
+        "bbox": [
+          0.2086466173114813,
+          0.23255813951943785,
+          0.2443609026759873,
+          0.23837209294180245
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. ethyne",
+        "bbox": [
+          0.287593986400765,
+          0.23255813951943785,
+          0.32142857111803197,
+          0.23837209294180245
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. ethyl benzene",
+        "bbox": [
+          0.35526315988392554,
+          0.23255813962172706,
+          0.4116541352288564,
+          0.23983134909517048
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. ethanol",
+        "bbox": [
+          0.5206766930554491,
+          0.23255813962172706,
+          0.5582706766187362,
+          0.23983134909517048
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.a. etnane",
+        "bbox": [
+          0.12969925191070805,
+          0.23401162804174172,
+          0.16353383417951722,
+          0.23691860451639782
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "My Proponen",
+        "bbox": [
+          0.6729323313696663,
+          0.2353670634618101,
+          0.7180451077280786,
+          0.23837209288849076
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R-CEN",
+        "bbox": [
+          0.7536833583330821,
+          0.2686647699071934,
+          0.7970685224494873,
+          0.2778468578659985
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C-NH2",
+        "bbox": [
+          0.5258704356807855,
+          0.27009233869194055,
+          0.5659031150512788,
+          0.28616621086458366
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "•R2",
+        "bbox": [
+          0.31390977502341644,
+          0.2703488373499854,
+          0.3289473679590398,
+          0.2790697670104798
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OR?",
+        "bbox": [
+          0.22932330799138576,
+          0.2747093025026015,
+          0.25000000042026843,
+          0.283430232163096
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R2",
+        "bbox": [
+          0.46428571443581584,
+          0.27470930260622334,
+          0.47556390974964785,
+          0.2819767441476529
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ACYL HALIDE",
+        "bbox": [
+          0.12218045175438594,
+          0.2978670634677281,
+          0.17481203070175436,
+          0.30679563489629963
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ETHER",
+        "bbox": [
+          0.291353383576048,
+          0.29796511641975276,
+          0.31954887124851344,
+          0.3066860460802472
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_54",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AMINE",
+        "bbox": [
+          0.44736842179659936,
+          0.29796511641975276,
+          0.4755639094690648,
+          0.3066860460802472
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AMIDE",
+        "bbox": [
+          0.5263157902176518,
+          0.29796511641975276,
+          0.5545112778901174,
+          0.3066860460802472
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_67",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NITRO",
+        "bbox": [
+          0.8402255635338346,
+          0.29796511641975276,
+          0.8665413530075187,
+          0.3066860460802472
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ESTER",
+        "bbox": [
+          0.2124060159147071,
+          0.2979651164924273,
+          0.24060150358717255,
+          0.3066860461529216
+        ],
+        "order": 52
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_60",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NITRATE",
+        "bbox": [
+          0.5996240613198602,
+          0.2979651164924273,
+          0.6372180448831474,
+          0.3066860461529216
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_65",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NITRILE",
+        "bbox": [
+          0.7593984976789605,
+          0.2979651165166522,
+          0.7932330823962275,
+          0.30668604617714634
+        ],
+        "order": 54
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EPOXIDE",
+        "bbox": [
+          0.3646616543649729,
+          0.29941860486518634,
+          0.4022556379282602,
+          0.3066860464066159
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_62",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NITRITE",
+        "bbox": [
+          0.6804511282710658,
+          0.29941860486518634,
+          0.7142857129883328,
+          0.3066860464066159
+        ],
+        "order": 56
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -yl -oate",
+        "bbox": [
+          0.19736842067402788,
+          0.3080357142137059,
+          0.2556390966661978,
+          0.3154761904041822
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_68",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: nitro-",
+        "bbox": [
+          0.8289473692092693,
+          0.3080357142137059,
+          0.8778195468621595,
+          0.3154761904041822
+        ],
+        "order": 58
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-oxy -ane",
+        "bbox": [
+          0.30263158038572735,
+          0.3080357143230521,
+          0.33646616510299443,
+          0.31547619051352843
+        ],
+        "order": 59
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -ene oxide",
+        "bbox": [
+          0.35150376116321846,
+          0.3080357143230521,
+          0.4154135342001899,
+          0.31547619051352843
+        ],
+        "order": 60
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -amine",
+        "bbox": [
+          0.4342105289732091,
+          0.3080357143230521,
+          0.48872180367090096,
+          0.31547619051352843
+        ],
+        "order": 61
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -amide",
+        "bbox": [
+          0.5131578973942619,
+          0.3080357143230521,
+          0.5676691720919538,
+          0.31547619051352843
+        ],
+        "order": 62
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_61",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -yl nitrate",
+        "bbox": [
+          0.5883458670946073,
+          0.3080357143230521,
+          0.6503759394843398,
+          0.31547619051352843
+        ],
+        "order": 63
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_63",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -yl nitrite",
+        "bbox": [
+          0.667293236183891,
+          0.3080357143230521,
+          0.7274436079263843,
+          0.31547619051352843
+        ],
+        "order": 64
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_66",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: - nitrile",
+        "bbox": [
+          0.7481203034092992,
+          0.3080357143230521,
+          0.8026315781069913,
+          0.31547619051352843
+        ],
+        "order": 65
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming:",
+        "bbox": [
+          0.274436091102677,
+          0.308139534988733,
+          0.3026315787751425,
+          0.3154069765301626
+        ],
+        "order": 66
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_56",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. ethanamine",
+        "bbox": [
+          0.43609022531296404,
+          0.3154069769598765,
+          0.4830827023186154,
+          0.3197674417901236
+        ],
+        "order": 67
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_69",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-R$",
+        "bbox": [
+          0.21992481220496501,
+          0.3401162791610002,
+          0.24248120283262894,
+          0.3502906974136121
+        ],
+        "order": 71
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_70",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RINECEO",
+        "bbox": [
+          0.5168982643242604,
+          0.34347819544503616,
+          0.5650855446682135,
+          0.3644824503008431
+        ],
+        "order": 72
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_73",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RISTS- R2",
+        "bbox": [
+          0.8308270683948923,
+          0.348837209222984,
+          0.8759398496502203,
+          0.36046511606771364
+        ],
+        "order": 73
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_71",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RI-NEN-R?",
+        "bbox": [
+          0.5939849614009044,
+          0.3488372094025327,
+          0.6428571439507103,
+          0.36046511624726213
+        ],
+        "order": 74
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_72",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R-SH",
+        "bbox": [
+          0.6785714288403033,
+          0.3502906978151017,
+          0.7142857142048095,
+          0.35901162747559595
+        ],
+        "order": 75
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_87",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ISOCYANATE",
+        "bbox": [
+          0.5150191657384496,
+          0.37929602648778715,
+          0.565807903122428,
+          0.38814583368965716
+        ],
+        "order": 76
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_90",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AZO COMPOUND",
+        "bbox": [
+          0.5864661660191082,
+          0.3807043650576764,
+          0.6503759390560798,
+          0.38814484124815263
+        ],
+        "order": 77
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_84",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CYANATE",
+        "bbox": [
+          0.4435826263382004,
+          0.3807316195109574,
+          0.48122940354875426,
+          0.3881637292907391
+        ],
+        "order": 78
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_77",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IMINE",
+        "bbox": [
+          0.2142857148912887,
+          0.3808139533834118,
+          0.2387218037177338,
+          0.3880813953978941
+        ],
+        "order": 79
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_79",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IMIDE",
+        "bbox": [
+          0.2932330833123413,
+          0.3808139533834118,
+          0.3176691721387865,
+          0.3880813953978941
+        ],
+        "order": 80
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_81",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AZIDE",
+        "bbox": [
+          0.37030075179294386,
+          0.3808139533834118,
+          0.3966165412666281,
+          0.3880813953978941
+        ],
+        "order": 81
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_92",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "THIOL",
+        "bbox": [
+          0.6842105269213637,
+          0.3808139533834118,
+          0.708646615747809,
+          0.3880813953978941
+        ],
+        "order": 82
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_97",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DISULFIDE",
+        "bbox": [
+          0.8327067678726471,
+          0.3808139533955649,
+          0.875939848480736,
+          0.388081395410047
+        ],
+        "order": 83
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_74",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NITROSO",
+        "bbox": [
+          0.12969924834993535,
+          0.38081395370239574,
+          0.16729323191322265,
+          0.3880813952438253
+        ],
+        "order": 84
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_94",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SULFIDE",
+        "bbox": [
+          0.757518796572133,
+          0.38081395372056437,
+          0.7932330819366391,
+          0.38808139526199387
+        ],
+        "order": 85
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_75",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: nitroso-",
+        "bbox": [
+          0.1203007538688879,
+          0.3895348838077736,
+          0.1766917292138188,
+          0.39682539684073226
+        ],
+        "order": 86
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_80",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -imide",
+        "bbox": [
+          0.2781954895989975,
+          0.3895348838077736,
+          0.33082706854636595,
+          0.39682539684073226
+        ],
+        "order": 87
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_82",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -ylazide",
+        "bbox": [
+          0.35338346174780094,
+          0.3895348838077736,
+          0.4135338334902943,
+          0.39682539684073226
+        ],
+        "order": 88
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_88",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -yl isocyanate",
+        "bbox": [
+          0.5018797012321408,
+          0.3895348838077736,
+          0.5789473690059543,
+          0.39682539684073226
+        ],
+        "order": 89
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_91",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: azo-",
+        "bbox": [
+          0.5958646627557946,
+          0.3895348838077736,
+          0.6409774440111226,
+          0.39682539684073226
+        ],
+        "order": 90
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_78",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -imine",
+        "bbox": [
+          0.20112782088283007,
+          0.38953488382594226,
+          0.25187969918295944,
+          0.39682539685890084
+        ],
+        "order": 91
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_85",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -yl cyanate",
+        "bbox": [
+          0.428571429393797,
+          0.38953488382594226,
+          0.49436090307800756,
+          0.39682539685890084
+        ],
+        "order": 92
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_93",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -thiol",
+        "bbox": [
+          0.6729323316152841,
+          0.3895348839349539,
+          0.7218045092681743,
+          0.39682539673138617
+        ],
+        "order": 93
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_95",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: sulfide",
+        "bbox": [
+          0.7500000000651608,
+          0.3895348839349539,
+          0.8007518783652902,
+          0.39682539673138617
+        ],
+        "order": 94
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_98",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: disulfide",
+        "bbox": [
+          0.8251879700343013,
+          0.38953488395312247,
+          0.8815789453792324,
+          0.3968253967495548
+        ],
+        "order": 95
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_99",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. dimethyl disulfide",
+        "bbox": [
+          0.8194941137746413,
+          0.3964060212522178,
+          0.8853931020797099,
+          0.40301258328574996
+        ],
+        "order": 96
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_96",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. dimethyl sulfide",
+        "bbox": [
+          0.7443609073618356,
+          0.39680232565173684,
+          0.8045112791043292,
+          0.40116279048198394
+        ],
+        "order": 97
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_86",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. methyl cyanate",
+        "bbox": [
+          0.4323308295267825,
+          0.39680232568807405,
+          0.4887218048717133,
+          0.40116279051832116
+        ],
+        "order": 98
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_76",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. murosuetlant",
+        "bbox": [
+          0.1203007519736842,
+          0.39825581397518117,
+          0.17293233092105262,
+          0.40116279068636357
+        ],
+        "order": 99
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_83",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "eg. Phenylaciot",
+        "bbox": [
+          0.3571428561875031,
+          0.3982558139755805,
+          0.40601503873730904,
+          0.4011627906867629
+        ],
+        "order": 100
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_89",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.9. memytiocyonate",
+        "bbox": [
+          0.5056390969033453,
+          0.3982558140882532,
+          0.5714285656906403,
+          0.4011627905629094
+        ],
+        "order": 101
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_103",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R'NECES",
+        "bbox": [
+          0.5944245546534483,
+          0.4243492086966636,
+          0.6441127739124141,
+          0.44587779898982116
+        ],
+        "order": 102
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_100",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R'S.",
+        "bbox": [
+          0.5169172943399102,
+          0.4273255813644569,
+          0.5413533831663554,
+          0.43895348820918656
+        ],
+        "order": 103
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_102",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "R'-",
+        "bbox": [
+          0.4398496240366542,
+          0.43750000017702034,
+          0.45300751877349626,
+          0.44622092983751455
+        ],
+        "order": 104
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_101",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OH",
+        "bbox": [
+          0.3890977441794724,
+          0.4404069767408526,
+          0.4041353383393246,
+          0.44622093016321723
+        ],
+        "order": 105
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_118",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "THIOCYANATE",
+        "bbox": [
+          0.5112127940871486,
+          0.4604960896998236,
+          0.5677345758420402,
+          0.4697364681629027
+        ],
+        "order": 106
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_113",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SULFONIC ACID",
+        "bbox": [
+          0.35325381409465717,
+          0.4616398996008359,
+          0.41366347751906957,
+          0.4714996356044089
+        ],
+        "order": 107
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_130",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PHOSPHINE",
+        "bbox": [
+          0.8307582828159122,
+          0.4619826281489736,
+          0.8778883337689068,
+          0.47115690695320767
+        ],
+        "order": 108
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_104",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SULFOXIDE",
+        "bbox": [
+          0.12593984987985488,
+          0.4622093022334322,
+          0.17105263113518274,
+          0.4694767442479145
+        ],
+        "order": 109
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_127",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "THIOKETONE",
+        "bbox": [
+          0.7481203006578947,
+          0.46220930223559537,
+          0.8007518796052633,
+          0.46947674425007757
+        ],
+        "order": 110
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_110",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SULFINIC ACID",
+        "bbox": [
+          0.2763157907946418,
+          0.4622093024124247,
+          0.33458646678681175,
+          0.46949404751336954
+        ],
+        "order": 111
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_114",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SULFONATE ESTER",
+        "bbox": [
+          0.4248120324141563,
+          0.4622093024305933,
+          0.4999999995407309,
+          0.4694940475315381
+        ],
+        "order": 112
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_124",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "THIAL",
+        "bbox": [
+          0.684210526644737,
+          0.4622093024305933,
+          0.710526316118421,
+          0.46947674397202294
+        ],
+        "order": 113
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_121",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ISOTHIOCYANATE",
+        "bbox": [
+          0.5845864665803541,
+          0.462209302720625,
+          0.654135336662127,
+          0.4709302323811193
+        ],
+        "order": 114
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_105",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SULFONE",
+        "bbox": [
+          0.20676691911270006,
+          0.462209302756962,
+          0.24624060087476854,
+          0.4709302324174565
+        ],
+        "order": 115
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_116",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: -yl sulfonate",
+        "bbox": [
+          0.42481203095206166,
+          0.4723837210116859,
+          0.4981202974313971,
+          0.4781976744340506
+        ],
+        "order": 116
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_131",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: phosphane",
+        "bbox": [
+          0.8214285706062032,
+          0.47238372114425614,
+          0.8872180442904136,
+          0.47966269831318714
+        ],
+        "order": 117
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_125",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Namind. -thial",
+        "bbox": [
+          0.672932330383303,
+          0.4738372093130133,
+          0.7199248122858699,
+          0.4767441860241958
+        ],
+        "order": 118
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_107",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Namind. sutone",
+        "bbox": [
+          0.1992481202067669,
+          0.47383720931363654,
+          0.25187969915413533,
+          0.47674418602481883
+        ],
+        "order": 119
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_128",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "wamina. \"imone",
+        "bbox": [
+          0.7481203006578947,
+          0.47383720931363654,
+          0.8007518796052633,
+          0.47674418602481883
+        ],
+        "order": 120
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_106",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Namina. sutroxide",
+        "bbox": [
+          0.11842105288737369,
+          0.47383720931413875,
+          0.17669172887954362,
+          0.47674418602532104
+        ],
+        "order": 121
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_122",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming: Isotniocyanate",
+        "bbox": [
+          0.5789473677156867,
+          0.4738372093726672,
+          0.6560150305925846,
+          0.4781976742029144
+        ],
+        "order": 122
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_111",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Namind: \"sumnic acid",
+        "bbox": [
+          0.2687969917080123,
+          0.4738372094370906,
+          0.34022555754010875,
+          0.4767441859117468
+        ],
+        "order": 123
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_115",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Naming, \"sutronic acio",
+        "bbox": [
+          0.3477443672719214,
+          0.4738372094370906,
+          0.4191729331040179,
+          0.4767441859117468
+        ],
+        "order": 124
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_119",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Namind. thiocvanare",
+        "bbox": [
+          0.5056390985582588,
+          0.4738372094370906,
+          0.5733082630958772,
+          0.4767441859117468
+        ],
+        "order": 125
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_123",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.c. emyt sorniocyanate",
+        "bbox": [
+          0.5827067673585177,
+          0.4796511628111279,
+          0.6541353380875298,
+          0.48263888891481965
+        ],
+        "order": 126
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_112",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.a. denzenesuminicacio",
+        "bbox": [
+          0.27067669112374887,
+          0.47965116281123704,
+          0.3383458654551985,
+          0.4826388889149288
+        ],
+        "order": 127
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_132",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.c. merny pnospnane",
+        "bbox": [
+          0.819548872271672,
+          0.4796511628114745,
+          0.8853383459558823,
+          0.4826388889151662
+        ],
+        "order": 128
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_120",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.c. emy, miocyanate",
+        "bbox": [
+          0.5075187977831774,
+          0.479651162811604,
+          0.5714285708201489,
+          0.4826388889152958
+        ],
+        "order": 129
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_109",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.t. almetny. sutrone",
+        "bbox": [
+          0.1954887215456848,
+          0.47965116281188824,
+          0.2556390981850938,
+          0.48263888891558004
+        ],
+        "order": 130
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_129",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.a. propanetnione",
+        "bbox": [
+          0.7462406026438426,
+          0.47965116281221154,
+          0.8026315779887737,
+          0.4826388889159035
+        ],
+        "order": 131
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_126",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e,g. etnanetnial",
+        "bbox": [
+          0.6729323305673569,
+          0.4796511628132557,
+          0.719924812469924,
+          0.48263888891694756
+        ],
+        "order": 132
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_108",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.g. dimerny, suiroxice",
+        "bbox": [
+          0.11278195570111599,
+          0.4796511629254627,
+          0.18045112023873433,
+          0.48263888891089135
+        ],
+        "order": 133
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_117",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "e.c. denzenesuronicacio e.c. mety metnanesutronate",
+        "bbox": [
+          0.34774436028506817,
+          0.4796511629254627,
+          0.499999985391625,
+          0.48263888891089135
+        ],
+        "order": 134
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_133",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "© Andy Brunning/Compound Interest 2020 - www.compoundchem.com | Twitter: @compoundchem | FB: www.facebook.com/compoundchem This graphic is shared under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 licence.",
+        "bbox": [
+          0.14473685040162088,
+          0.5014534886096752,
+          0.7499999905000565,
+          0.5203488368869333
+        ],
+        "order": 135
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_1",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 5.2.1: Functional groups in organic chemistry. (CC BY-NC-ND, CompoundChem.com).",
+        "bbox": [
+          0.08646618412528063,
+          0.5493551587559949,
+          0.6879699211378769,
+          0.5625000000258361
+        ],
+        "order": 136
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_134",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This page titled 5.2: Families of Organic Molecules - Functional Groups is shared under a CC BY-NC-SA 3.0 license and was authored, remixed, and/or curated by Lisa Sharpe Elles.",
+        "bbox": [
+          0.08458646828444505,
+          0.5798611109020878,
+          0.9154135476503754,
+          0.6061507937036881
+        ],
+        "order": 137
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_138",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_138",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08521031996783088,
+          0.07965782165527344,
+          0.9156499167049632,
+          0.5348889715021307
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "FUNCTIONAL GROUPS IN ORGANIC CHEMISTRY",
+        "bbox": [
+          0.11090224571931459,
+          0.09883720941315233,
+          0.889097745634069,
+          0.12354651169472876
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Functional groups are the characteristic groups in organic molecules that give them their reactivity. In the formulae below, R represents the rest of the molecule and X represents any halogen atom.",
+        "bbox": [
+          0.10902259412429198,
+          0.13662790719010165,
+          0.889097726129467,
+          0.145348836850596
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sulfur-containing groups",
+        "bbox": [
+          0.633458644924812,
+          0.14970930246626454,
+          0.7387218028195489,
+          0.1584821430418308
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Oxygen-containing groups",
+        "bbox": [
+          0.35902256170581687,
+          0.15104166657749044,
+          0.46804511110120056,
+          0.15848214276796657
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Phosphorus-containing groups",
+        "bbox": [
+          0.765037597514407,
+          0.15104166657749044,
+          0.89285714358835,
+          0.15848214276796657
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Halogen-containing groups",
+        "bbox": [
+          0.21804511629040743,
+          0.15104166659565915,
+          0.33082706698026926,
+          0.15848214278613526
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Nitrogen-containing groups",
+        "bbox": [
+          0.4943609055657854,
+          0.15104166667977964,
+          0.6090225569028862,
+          0.15997023810835118
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_51",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_51",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ES. memory emiere",
+        "bbox": [
+          0.27443609011026787,
+          0.31686046525104405,
+          0.3327067612055222,
+          0.31976744172570015
+        ],
+        "order": 68
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-441760.pdf_165",
+    "primary_id": "docling_jiaocaineedrop_chem-441760.pdf_165_59",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "59.5019198109",
+        "bbox": [
+          0.5150375937340167,
+          0.31686046525104405,
+          0.5620300707396678,
+          0.31976744172570015
+        ],
+        "order": 69
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-441760.pdf_165_64",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.5.549:1008199",
+        "bbox": [
+          0.6710526313280015,
+          0.31686046525104405,
+          0.7180451083336529,
+          0.31976744172570015
+        ],
+        "order": 70
+      }
+    ]
+  }
+]

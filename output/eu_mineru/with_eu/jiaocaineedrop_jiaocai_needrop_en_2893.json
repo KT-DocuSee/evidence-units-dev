@@ -1,0 +1,456 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_16",
+    "source": "visual_seed",
+    "member_count": 18,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "第4课时 图形的认识与测量(4)",
+        "bbox": [
+          0.271864067966017,
+          0.08166214995483288,
+          0.7436281859070465,
+          0.10840108401084012
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.在方格纸上分别画出下面立体图形从正面、左 面、上面看到的图形。",
+        "bbox": [
+          0.527736131934033,
+          0.12140921409214092,
+          0.9035482258870565,
+          0.15754290876242097
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_16",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5417291354322838,
+          0.16332429990966577,
+          0.8845577211394303,
+          0.25221318879855464
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（1）观察下面体图形，从右面看，看到的形 状相同的是( A )。",
+        "bbox": [
+          0.13193403298350825,
+          0.18066847335140018,
+          0.4897551224387806,
+          0.2175248419150858
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_17",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "能力提升",
+        "bbox": [
+          0.5537231384307846,
+          0.27100271002710025,
+          0.6336831584207896,
+          0.2876242095754291
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.淘把一个圆锥形的铅锤放入一个底面周长是 25.12cm的圆柱形烧杯里，然后倒入水，使水 面没过铅锤，当把铅锤完全拿出水面以后（铅 锤带出的忽略不计)，面下降了0.75cm。这 个铅锤的体积是多少？量得铅锤的底直径是 4cm，铅锤的高是多少? 25.12÷3.14÷2=4(cm) 体积：3.14×4²×0.75=37.68(cm³) 高：37.68×3÷[3.14×(4÷2)²]=9(cm)",
+        "bbox": [
+          0.5287356321839081,
+          0.2948509485094851,
+          0.9055472263868066,
+          0.47913279132791325
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_5",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "A.①和③ B.①和② C.②和④ D.③和④",
+        "bbox": [
+          0.1329335332333833,
+          0.2999096657633243,
+          0.39980009995002497,
+          0.3367660343270099
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（2）5块体积都是1cm3的正体积木搭建 个模型，下图分别是从上和左看到的图 形，这个图形可能是( D )。",
+        "bbox": [
+          0.13093453273363317,
+          0.34110207768744355,
+          0.4897551224387806,
+          0.3996386630532972
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.下图是一个圆柱形油桶的展开图（接头处、铁皮 厚度忽略不计），求这个油桶的体积。（单位：dm）",
+        "bbox": [
+          0.527736131934033,
+          0.5246612466124662,
+          0.9045477261369316,
+          0.5622402890695574
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(3）个物体从上和正看到的形状如图， 它的体积是( C )cm³{。",
+        "bbox": [
+          0.13193403298350825,
+          0.5622402890695574,
+          0.4867566216891554,
+          0.5998193315266486
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10cm 从上面看 从正面看",
+        "bbox": [
+          0.20789605197401298,
+          0.6056007226738934,
+          0.41179410294852575,
+          0.6937669376693767
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_21",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "16.56÷(3.14+1）=4(dm) 3.14×(4÷2)²×(4×2)=100.48(dm³)",
+        "bbox": [
+          0.5757121439280359,
+          0.6518518518518519,
+          0.862568715642179,
+          0.6872628726287263
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.把下面图形折成一个正方体后，B面所对的是 哪个？D所对的是哪个？如果E 在底部，那么哪一个面在上面？",
+        "bbox": [
+          0.111944027986007,
+          0.7197831978319783,
+          0.4897551224387806,
+          0.7775971093044264
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6.一个由若个正体搭成的体图形，从 正面和上面看到的图形如下图。搭这个立体 图形最少需要(7 )个正体，最多需要 ( 9 )个正方体。",
+        "bbox": [
+          0.5287356321839081,
+          0.7335140018066847,
+          0.9045477261369316,
+          0.8122854561878952
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A C D EF B",
+        "bbox": [
+          0.3808095952023988,
+          0.78193315266486,
+          0.48875562218890556,
+          0.839747064137308
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B所对的是A；D所对 的是F面；如果E面在底部， 那么C面在上面",
+        "bbox": [
+          0.13793103448275862,
+          0.8007226738934056,
+          0.3728135932033983,
+          0.8585365853658536
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_27",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "上面",
+        "bbox": [
+          0.7976011994002998,
+          0.8910569105691057,
+          0.8325837081459271,
+          0.9040650406504065
+        ],
+        "order": 27
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_25",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "正面",
+        "bbox": [
+          0.5987006496751625,
+          0.8917795844625113,
+          0.6336831584207896,
+          0.9033423667570009
+        ],
+        "order": 28
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_4",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "基础训练",
+        "bbox": [
+          0.13993003498250875,
+          0.13586269196025294,
+          0.22088955522238882,
+          0.15176151761517614
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.选择题。",
+        "bbox": [
+          0.11594202898550725,
+          0.16043360433604337,
+          0.19790104947526238,
+          0.17633242999096657
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.13193403298350825,
+          0.22258355916892503,
+          0.4757621189405297,
+          0.2955736224028907
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.20389805097451275,
+          0.4039747064137308,
+          0.41579210394802596,
+          0.4820234869015357
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_8",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.13093453273363317,
+          0.4914182475158085,
+          0.4877561219390305,
+          0.5571815718157181
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_20",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_20",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7166416791604198,
+          0.5672990063233966,
+          0.9015492253873063,
+          0.6475158084914182
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.1256 B.2286 C.314 D.120",
+        "bbox": [
+          0.1329335332333833,
+          0.6995483288166215,
+          0.46476761619190404,
+          0.7147244805781391
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_22",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_22",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "思维拓展",
+        "bbox": [
+          0.5547226386806596,
+          0.7089430894308943,
+          0.6356821589205397,
+          0.7248419150858175
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_26",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_26",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7526236881559221,
+          0.8158988256549232,
+          0.8705647176411794,
+          0.8888888888888888
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2893",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_24",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2893_24",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5617191404297851,
+          0.8317976513098464,
+          0.671664167916042,
+          0.8888888888888888
+        ],
+        "order": 26
+      }
+    ]
+  }
+]

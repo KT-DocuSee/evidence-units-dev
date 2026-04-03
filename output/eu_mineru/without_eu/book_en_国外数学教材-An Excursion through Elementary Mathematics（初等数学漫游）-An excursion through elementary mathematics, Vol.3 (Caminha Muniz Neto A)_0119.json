@@ -1,0 +1,67 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119_0",
+    "text": "C and D are at the same side of A B: if AC D was to be acute, then AC or A D would leave B and O at different half-planes. In turn, this would assure that the distance from AC or A D to O would be less than the distance of A B to O, thus contradicting our choice of A and B. Therefore, AC D is not acute and, accordingly, the same is true of B C D. 业 C and D are in opposite sides with respect to A B: since AC B D is convex, at most one of the triangles AC D or B C D contains the center O, and hence at most one of such triangles is acute. On the other hand, by the choice of A and B the set {C, D} can be chosen in exactly k(k — 1) ways, and this is the largest possible number of acute triangles of this kind.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1638001638001638,
+      0.08860075634792004,
+      0.8801528801528802,
+      0.2701242571582928
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119_1",
+    "text": "(ii) Those having neither A nor B as one of their vertices: by induction hypothesis, there are at most (k − 1)k(2k − 1) such triangles.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1223041223041223,
+      0.2787682333873582,
+      0.8768768768768769,
+      0.3162254637133081
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119_2",
+    "text": "Adding the contributions of the three cases above, we conclude that the number of acute triangles having its vertices at three of the 2k + 1 given points is at most",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.3248694399423735,
+      0.879060879060879,
+      0.3601656762110571
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119_3",
+    "text": "Problems: Sect. 4.2",
+    "canon_role": "section_header",
+    "bbox": [
+      0.12121212121212122,
+      0.4876643255897713,
+      0.343980343980344,
+      0.5078336034575905
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119_4",
+    "text": "1. (India) Prove that, for every n ≥ 6, every square can be partitioned into n other squares. 2. (Brazil) Given a natural number n > 1, we write a real number of modulus less than 1 in each cell of an n × n chessboard, in such a way that the sum of the numbers written in the four cells of any 2 × 2 square is equal to 0. If n is odd, show that the sum of the numbers written in the n2 cells is less than n. 3. (TT) Point O is situated in the interior of the convex polygon A1 A2 . .. An. Consider all of the angles /Aj O A j, with distinct 1 ≤ i, j ≤ n. Prove that at least n — 1 of them are not acute. 4. (TT) In a convex polygon P some diagonals were drawn, such that no two of them intersect in the interior of P. Show that there are at least two vertices of P such that none of the traced diagonals is incident to none of these two vertices. 5. (Hungary) In an n × n chessboard we have a certain number of towers (at most one tower for each 1 × 1 square). A tower can move from one square to another if and only if these two squares belong to a single line or column of the board and there are no other towers in between. On the other hand, if two towers belong to a single line or column and there are no other towers in between, then we say that any of these towers can attack the other. Prove that one can paint the towers with one of three colors in such a way that no tower can attack another tower of the same color.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12885612885612885,
+      0.5316045380875203,
+      0.8801528801528802,
+      0.8924905456509995
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0119",
+    "order": 5
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_120",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_120_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_120_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "示例讲解（3)",
+        "bbox": [
+          0.19347581552305962,
+          0.13866666666666666,
+          0.3199600049993751,
+          0.18044444444444444
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_120",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_120_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_120_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.--Does he speak Chinese or English?",
+        "bbox": [
+          0.19497562804649418,
+          0.3128888888888889,
+          0.4334458192725909,
+          0.4328888888888889
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_120_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A.Yes, he does B.No, he doesn't C.None D.Neither, he speaks Japanese",
+        "bbox": [
+          0.19597550306211722,
+          0.43555555555555553,
+          0.38695163104611924,
+          0.6328888888888888
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_120",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_120_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_120_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【答案】D",
+        "bbox": [
+          0.6174228221472315,
+          0.44533333333333336,
+          0.7044119485064367,
+          0.48444444444444446
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_120_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【解析】这是选择疑问句， 两选一，或两都不选，C是 三都以上都不，不合题意。",
+        "bbox": [
+          0.6059242594675666,
+          0.48533333333333334,
+          0.8418947631546057,
+          0.608
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

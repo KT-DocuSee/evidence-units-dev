@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "337 Synthesis of Azomethines from a-Oxocarboxylates, Amines and Aryl Bromides via One-Pot Three-Component Decarboxylative Coupling",
+        "bbox": [
+          0.03143893591293833,
+          0.08037622915775973,
+          0.4852881902458686,
+          0.12255949836112298
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adv. Synth. Catal. 2011, 353, 337–342",
+        "bbox": [
+          0.083031035872632,
+          0.13624055864329485,
+          0.34099153567110035,
+          0.14992161892546674
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Felix Rudolphi, Bingrui Song, Lukas J. GooBen*",
+        "bbox": [
+          0.05965336557839581,
+          0.16417272338606242,
+          0.4111245465538089,
+          0.1784238278466581
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_3",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "FULL PAPERS",
+        "bbox": [
+          0.0886739218057235,
+          0.3648282741912498,
+          0.24506247480854493,
+          0.380789511187117
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adv. Synth. Catal. 2011, 353, 349–370",
+        "bbox": [
+          0.083031035872632,
+          0.4446344591705857,
+          0.3401854091092302,
+          0.4583155194527576
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Andreas Farwick, Jens U. Engelhart, Olena Tverskoy, Carolin Welter, Quendolin A. Umlauf (née Stang), Frank Rominger, William J. Kerr,*Günter Helmchen*",
+        "bbox": [
+          0.05804111245465538,
+          0.4725666239133533,
+          0.45223700120918986,
+          0.5141798489382927
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adv. Synth. Catal. 2011, 353, 371–375",
+        "bbox": [
+          0.083031035872632,
+          0.6298988171583297,
+          0.34099153567110035,
+          0.6435798774405016
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "She-Jie Chai, Yi-Feng Lai, Jiang-Cheng Xu, Hui Zheng, Qing Zhu, Peng-Fei Zhang*",
+        "bbox": [
+          0.062071745264006446,
+          0.6578309819010973,
+          0.4619105199516324,
+          0.6863331908222887
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

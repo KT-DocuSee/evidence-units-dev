@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "续表",
+        "bbox": [
+          0.12701100652665304,
+          0.10239906540535543,
+          0.17170006437862353,
+          0.1186528853109674
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.12701100652665304,
+          0.1267797952637734,
+          0.8585003218931178,
+          0.23242962465025122
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_5",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "另外，处方药物按类别区分，频次前4位的是：补虚药302频次 (24.65%),消食药163频次(13.31%),利水祛湿药118频次(9.63%)， 理气药106频次(8.65%）。",
+        "bbox": [
+          0.12701100652665304,
+          0.25518497251810796,
+          0.8608523775695373,
+          0.34295560000841263
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.2处方中药物组合关联规则见表2。对药物组合出现关 联规则进行分析，支持度个数23（在所有药物中同时出现次数）、置信 度为0.95（若X→Y，置信度为Y在含X的事物中出现的频繁度）。",
+        "bbox": [
+          0.12465895085023353,
+          0.354333273942341,
+          0.8608523775695373,
+          0.44372928342320683
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表2处方中药物组合关联规则（置信度>0.95）",
+        "bbox": [
+          0.23520556764195005,
+          0.46485924930050243,
+          0.7503057607778206,
+          0.485989215177798
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.12465895085023353,
+          0.5006176530928488,
+          0.8585003218931178,
+          0.7818087374599358
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.3基于熵聚类的方剂组方规律分析",
+        "bbox": [
+          0.17405212005504303,
+          0.8029387033372315,
+          0.5974221418105531,
+          0.8256940512050882
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.3.1基于改进的互信息法的药物间关联度分析见表3。依 据方剂数量，结合经验判断和不同参数提取数据的预读，设置相关度 为8，惩罚度为5，进行聚类分析，得到方剂中两两药物间的关联度。",
+        "bbox": [
+          0.12465895085023353,
+          0.8370717251390166,
+          0.8608523775695373,
+          0.9264677346198824
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

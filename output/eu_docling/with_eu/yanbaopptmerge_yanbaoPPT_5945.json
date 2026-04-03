@@ -1,0 +1,107 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5945",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_5945_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_5945_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.760098876953125,
+          0.0018346365292867025,
+          0.79726904296875,
+          0.048775426228841144
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5945",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_5945_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_5945_0",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "alJia + be + the + omn, A, B, or C?",
+        "bbox": [
+          0.07558140923227367,
+          0.22868217240036498,
+          0.6860465043889888,
+          0.2751937972563349
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_5945_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "eg. Which city is the most beautiful, Beijing, Shanghai or Fuzhou?",
+        "bbox": [
+          0.08284884146974995,
+          0.3002645508628401,
+          0.8764534954488546,
+          0.3392857148840042
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5945",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_5945_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_5945_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "eg. The Yellow River is the second longest river in China.",
+        "bbox": [
+          0.0833333479300749,
+          0.566666666710628,
+          0.7666666691532582,
+          0.6055555550949274
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5945",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_5945_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_5945_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "eg. She is one of the tallest girls in her calss.",
+        "bbox": [
+          0.08284883470807843,
+          0.8313492060103258,
+          0.6104651236349447,
+          0.8682170528979042
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

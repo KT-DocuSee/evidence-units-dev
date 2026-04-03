@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_0",
+    "text": "Moreover, for 1 ≤ k ≤ n such numbers satisfy the recurrence relation which is known as Stifel's relation and allows us to prove that (k) ∈ N for every n and k as above.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11902811902811902,
+      0.08932108770034215,
+      0.7556647556647557,
+      0.10804970286331712
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_1",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.18080316945795066,
+      0.877968877968878,
+      0.21609940572663425
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_2",
+    "text": "Proposition 1.26 If A is a finite set with n elements and 0 ≤ k ≤ n, then A possesses exactly (k) subsets of k elements.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11902811902811902,
+      0.22474338195569962,
+      0.879060879060879,
+      0.26292094363407165
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_3",
+    "text": "Proof If k = O there is nothing to do, for ∅ is the only subset of A having O elements and (n) = 1. Thus, let 1 ≤ k ≤ n and Cκ be the number of subsets of A with k elements.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.2701242571582928,
+      0.8801528801528802,
+      0.3234287772375293
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_4",
+    "text": "For a fi xed x ∈ A, there are two kinds of subsets of A with k elements: those which do not contain x and those which do contain x. The former ones are precisely the k-element subsets of A \\ {x}; since |A \\ {x}| = n − 1, there are exactly Cn−1 of these subsets of k elements of A.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12121212121212122,
+      0.3248694399423735,
+      0.879060879060879,
+      0.3961822438321628
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_5",
+    "text": "On the other hand, if B C A has k elements and x ∈ B, then B \\ {x } C A \\ {x} has k − 1 elements; conversely, if B′ C A \\{x} has k − 1 elements, then B′U{x} C A has k elements, one of which is x. Since such correspondences are clearly inverses of each other, we conclude that there are as many k-element subsets of A containing x, as there are k − 1 element subsets of A \\ {x}; thus, there are exactly Cn−1 such k-element subsets of A.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11902811902811902,
+      0.3969025751845849,
+      0.8801528801528802,
+      0.5042319466954799
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_6",
+    "text": "Taking these two contributions into account, we obtain for 1 ≤ k ≤ n the recurrence relation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.5056726094003241,
+      0.8768768768768769,
+      0.5402485143165856
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_7",
+    "text": "which is identical to Stifel's relation for the binomial numbers (%). Finally, since Cn = 1 = (n) and Cn = n = (n) (for A has exactly n subsets of 1 element each— the sets {x}, with x ∈ A), an easy induction gives Cκ = (k) for 0 ≤ k ≤ n. □",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.5957140284530884,
+      0.8801528801528802,
+      0.656221862056546
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_8",
+    "text": "In words, the previous proposition computes how many are the unordered choices of k distinct elements of a set having n elements; one uses to say that such choices are the combinations of n objects, taking k at a time. Also thanks to the former proposition, one uses to refer to the binomial number (k) as \"n chooses k\".",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.6634251755807672,
+      0.8801528801528802,
+      0.7368989735278229
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_9",
+    "text": "Example 1.27 When all diagonals of a certain convex octagon have been drawn, one noticed that there were no three of them passing through a single interior point of the octagon. How many points in the interior of the octagon are intersection points of two of its diagonals?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.744102287052044,
+      0.8801528801528802,
+      0.8168557536466775
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035_10",
+    "text": "Solution Firstly, note that the condition on the diagonals of the octagon guarantees that each one of the points of intersection we wish to count is determined by a single pair of diagonals. Hence, it suffi ces to count how many pairs of diagonals of the octagon intersect in its interior. To this end, note that each 4-element subset of",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12012012012012012,
+      0.8247793985233207,
+      0.8801528801528802,
+      0.8975328651179543
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0035",
+    "order": 11
+  }
+]

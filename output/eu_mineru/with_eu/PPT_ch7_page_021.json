@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_021",
+    "primary_id": "mineru_PPT_ch7_page_021_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_021_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "7.2 Matrix Multiplication",
+        "bbox": [
+          0.6786666666666666,
+          0.019555555555555555,
+          0.9673333333333334,
+          0.057777777777777775
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_ch7_page_021_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Parallel processing of products on the computer is facilitated by a variant of (3) for computing C = AB, which is used by standard algorithms (such as in Lapack). In this method, A is used as given, B is taken in terms of its column vectors, and the product is computed columnwise; thus,",
+        "bbox": [
+          0.05466666666666667,
+          0.13066666666666665,
+          0.9273333333333333,
+          0.45155555555555554
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_ch7_page_021_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Columns of B are then assigned to different processor: (individually or several to each processor), which simultaneously compute the columns of the product matrix Ab1, Ab2, etc.",
+        "bbox": [
+          0.05733333333333333,
+          0.5386666666666666,
+          0.8573333333333333,
+          0.7528888888888889
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

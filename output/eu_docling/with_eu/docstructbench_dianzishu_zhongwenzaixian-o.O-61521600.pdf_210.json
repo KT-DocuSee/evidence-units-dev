@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210_0",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "4:: 1",
+        "bbox": [
+          0.821721313382766,
+          0.10610465166218011,
+          0.8668032775325347,
+          0.12354651098316878
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61521600.pdf_210_2",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "H / 1: | H / 1: | 5* (HẾ1-) | 5* (HẾ1-) | 5* (HẾ1-) | 5* (HẾ1-) | T - T | đ x th | fli 1 | TK1# MK | H Ti ẨT | À $ N4 | Tà $ 14 | SK wif | nàH H15 | T tề: | T NAT | fE I t | XBEK E | MD4 | M HH H7 | JI F | tHie | # Tit it T Y.",
+        "bbox": [
+          0.10523620521744256,
+          0.1273140246623572,
+          0.8853690274294839,
+          0.6527043826150036
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

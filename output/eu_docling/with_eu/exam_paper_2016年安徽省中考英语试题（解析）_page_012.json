@@ -1,0 +1,244 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_2016年安徽省中考英语试题（解析）_page_012",
+    "primary_id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "72.B 73.A 74.B",
+        "bbox": [
+          0.0882956888329559,
+          0.09447674441393886,
+          0.12525667333029267,
+          0.15988372071687507
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "exam_paper_2016年安徽省中考英语试题（解析）_page_012",
+    "primary_id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_10",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ZHEN3551-77.",
+        "bbox": [
+          0.09856263302287994,
+          0.2354651165690355,
+          0.3408624231578182,
+          0.2499999996518947
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MNHE",
+        "bbox": [
+          0.13665848531695282,
+          0.46075581424345424,
+          0.27720739467948896,
+          0.4752906973263133
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B",
+        "bbox": [
+          0.4928131415201614,
+          0.4912790701261481,
+          0.5051334700814814,
+          0.49999999978664245
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_10",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3648049517150658,
+          0.5394011550909844,
+          0.42611114981673215,
+          0.5895961648941855
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "exam_paper_2016年安徽省中考英语试题（解析）_page_012",
+    "primary_id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_9",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "71C I*#BER ·TRIE*E* But it was very hard for people from Europe to visit China then. After three and a half years, the Polos reached China on 1275. PIERRT-DES MART RaM, BUt C.",
+        "bbox": [
+          0.09650926058815953,
+          0.26308139492492405,
+          0.9219712363223312,
+          0.3095930226110757
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "72B 40757207H2 · TRIEtE* fter three and a half years, the Polos reached China on 1275 ·J#0=·&—*# 1275 + 7+75, at B.",
+        "bbox": [
+          0.09650923830208145,
+          0.3196924606482977,
+          0.9034907675392094,
+          0.36631944428275975
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "73.A ZH TIff At While he was there, Marco Polo worked for Kublai Khan, the emperor (IN) of China.",
+        "bbox": [
+          0.08829569724111164,
+          0.37645348866205885,
+          0.9096509310956434,
+          0.390988371744918
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Robots seem to be getting cleverer and cleverer. Here are four examples.",
+        "bbox": [
+          0.09034907957559356,
+          0.5188492065012222,
+          0.6036960900342629,
+          0.5319940477710635
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Budgee •He was created by Five Elements Roboties. •With two wheels and a little basket, he can carry things for you while you're at the shops. | Paro •He was made by Takanori Shibata. •He is used on patients in hospitals. He can learn a name and even show feelings such as surprise, happiness and sadness. | Rover •He was created by a team at Sydney University. •He is used to make cows move together from a field to a diary (44343) . | Simon •He was developed by the Georgia Institute of Technology. He can clean up offices. •In tests, he could tell whether someone was paying attention to him or not.",
+        "bbox": [
+          0.0815388265515181,
+          0.534249829654767,
+          0.795305282057701,
+          0.8784692184493907
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "75. Which robot can help you when you are shopping?",
+        "bbox": [
+          0.08829569125911713,
+          0.8880813955806637,
+          0.4784394294801024,
+          0.9026162786635227
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "exam_paper_2016年安徽省中考英语试题（解析）_page_012",
+    "primary_id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_12",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_12",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7106049432719922,
+          0.5436516966051197,
+          0.7880670439087062,
+          0.6042765421253741
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "exam_paper_2016年安徽省中考英语试题（解析）_page_012",
+    "primary_id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_11",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3555665021940183,
+          0.7077761450706765,
+          0.4305350915984923,
+          0.7576870373957888
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "exam_paper_2016年安徽省中考英语试题（解析）_page_012",
+    "primary_id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_13",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_2016年安徽省中考英语试题（解析）_page_012_13",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7152594828115553,
+          0.7163929835299541,
+          0.7877313136477857,
+          0.7743070226492358
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

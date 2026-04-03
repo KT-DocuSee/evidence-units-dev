@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_2845",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_2845_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_2845_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "茶",
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          0.2693333333333333
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_2845",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_2845_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_2845_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PART 4",
+        "bbox": [
+          0.42144731908511435,
+          0.32711111111111113,
+          0.5779277590301213,
+          0.4017777777777778
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_2845",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_2845_2",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_2845_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "比喻论证",
+        "bbox": [
+          0.31296087989001375,
+          0.45155555555555554,
+          0.5734283214598175,
+          0.576
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_2845_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "喻证法",
+        "bbox": [
+          0.5629296337957755,
+          0.6097777777777778,
+          0.6949131358580177,
+          0.6968888888888889
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.17107941955187406,
+          0.1642441865721532,
+          0.8737270889766393,
+          0.18313953448525955
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "# 3",
+        "bbox": [
+          0.1486761717458764,
+          0.31540697638671805,
+          0.18940936855089396,
+          0.3313953490078003
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60482015.pdf_56_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "41) | TRA 0 E | 41> | 1960 | 2824 | - 1805 | 1984 | - 94344 | 77376 | 1961 | 3822 | - 2833 | 1985 | - 118155 | 101363 | 1962 | 3387 | - 2263 | - 147177 | 118286 | 1963 | 4414 | -4053 | - 160655 | 169338 | 1964 | 6823 | -5917 | - 121153 | 139949 | 1965 | 5431 | - 4974 | - 99486 | 49545 | 1966 | 3031 | - 3660 | - 78968 | 60337 | 1967 | 2583 | - 2378 | 2897 | 46420 | 1968 | 611 | - 1049 | - 50078 | 96253 | 1969 | 399 | 1117 | - 84805 | 81490 | 1970 | 2331 | -2111 | - 121612 | 127052 | 1971 | - 1433 | 11212 | - 113567 | 86298 | 1972 | -5795 | 7674 | - 124764 | 137687 | 1973 | 7140 | - 4486 | - 140402 | 221334 | 1974 | 1962 | 596 | -213528 | 69740 | 1975 | 18116 | -22533 | -299826 | 236148 | 1976 | 4295 | - 13251 | -415150 | 486373 | 1977 | - 14335 | 18434 | - 388959 | 400243 | 1978 | - 15143 | 5906 | -472446 | 503167 | 1979 | - 285 | - 24063 | -527514 | 538345 | 1980 | 2317 | - 23203 | -665286 | 582419 | 1981 | 5030 | -26822 | -791508 | 785449 | 1982 | - 5536 | -31293 | -811477 | 833183 | 1983 | - 38691 | 22321",
+        "bbox": [
+          0.12389355498000075,
+          0.3365738853506727,
+          0.8748446821023862,
+          0.8652621119331934
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_1",
+    "text": "Zaslavsky, Extremal arrangements of hyperplanes, Ann. N. Y. Acad. Sci. 440 (1985), 69-87.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12776342926298545,
+      0.06761400131799891,
+      0.4888025578909339,
+      0.09747023801862972
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_11",
+    "text": "B-5 The answer is 1/16. We have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360997167675,
+      0.06969246042324895,
+      0.751879691949899,
+      0.08139534896500032
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6118330652573529,
+      0.09434605685147372,
+      0.8266740148207721,
+      0.19532474864612925
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_2",
+    "text": "B-4 The maximum is 2k, achieved for instance by the subspace",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466033834588,
+      0.1061046512395782,
+      0.4906015024436091,
+      0.1356508907035685
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1541353388991188,
+      0.14825581403027585,
+      0.4266917270783249,
+      0.16279069711313499
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_4",
+    "text": "First selin: Moe general come shot has any parine in Z. The proof is by induction on k + n; the case k = n = 0 is clearly true.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195416930068,
+      0.18023255859491935,
+      0.49248121261777006,
+      0.2369186045851554
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_13",
+    "text": "with equality when f(x) = x/2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.558270684896287,
+      0.2048611112469596,
+      0.7669172902446904,
+      0.2180232558397898
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_14",
+    "text": "B-6 First solution: We start with some easy upper and lower bounds on an. We write O(f(n)) and S(f(n)) for functions g(n) such that f(n)/g(n) and g(n) / f(n), respectively, are bounded above. Since an is a nondecreasing sequence, an+1 - An is bounded above, so An = O(n). That means an - 1/k = S(n-1/k), so",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5263157957907105,
+      0.22965116277783895,
+      0.9210526188352457,
+      0.3211952050786997
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_5",
+    "text": "Suppose that V is a k-plane in R\". Denote the hyperplanes {Xn = 0} and {n = 1) by Vo and Vi, respectively. If V nVo and V ^Vi are each at most (k - 1)dimensional, then V NVoNZ and V NV, NZ each have cardinality at most 2k-' by the induction assumption, and hence V ^Z has at most 2' elements. Otherwise, if n% or V NV, is k-dimensional, then V C Vo or VC Vi; now apply the induction hypothesis on V, viewed as a subset of R\"-' by dropping the last coordinate.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593986385585723,
+      0.2441860463949485,
+      0.4924811857368749,
+      0.3866279067270495
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_15",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6032709099264706,
+      0.33119198885830964,
+      0.8319544893152574,
+      0.37475916082208804
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_16",
+    "text": "In fact, all we will need is that an → ∞ as n → ∞. By Taylor's theorem with remainder, for 1 < m < 2 and x > 0,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706830989893,
+      0.3821924602294505,
+      0.9191729331416121,
+      0.4142441859887723
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_6",
+    "text": "Second solution: Let S be a subset of Z contained in a k-dimensional subspace of V. This is equivalent to asking that any 11,..., Ik+1 € S satisfy a nontrivial linear dependence c11+... +ck+1+1 = 0 with c1,..., Ck+1 E R. Since 11,..., Ek+1 E Q\", given such a dependence we can always find another one with c1,..., Ck+1 E Q; then by clearing denominators, we can find one with C1,..., Ck+1 E Z and not all having a common factor.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954002757723,
+      0.39384920646588584,
+      0.49060151109241035,
+      0.5087209297792855
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_17",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5996240597901003,
+      0.4476686507484243,
+      0.7443609018953634,
+      0.46366279082846734
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_18",
+    "text": "Taking m = (k + 1)/k and x = an+1/an = 1 +an(k+1)/k we obtain",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5562336076908015,
+      0.48110465146495834,
+      0.9154135290300996,
+      0.5135852911138635
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_7",
+    "text": "Let Ez denote the field of two elements, and let S C Fy be the reductions modulo 2 of the points of S. Then any 11,..., k+1 ES satisfy a nontrivial linear dependence, because we can take the dependence from the end of the previous paragraph and reduce modulo 2. Hence S is contained in a k-dimensional subspace of Ez, and the latter has cardinality exactly 2k · Thus S has at most 2k elements, as does S.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12770737240970653,
+      0.5130813948849532,
+      0.49077747279398404,
+      0.6279761902493886
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_19",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7048872179249677,
+      0.5208262855968296,
+      0.823991615012257,
+      0.5533016208542235
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_20",
+    "text": "In particular,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5562348368963351,
+      0.5662714575176448,
+      0.6448929848624776,
+      0.5819843563926846
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_21",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7800751882387997,
+      0.5915697675286695,
+      0.8157894736033059,
+      0.6046511629655166
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_8",
+    "text": "Variant (suggested by David Savitt): if S contained k + 1 linearly independent elements, the (k + 1) x n matrix formed by these would have a nonvanishing maximal minor. The lift of that minor back to R would also not vanish, so S would contain k + 1 linearly independent elements.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593986134332594,
+      0.6351686506891945,
+      0.4906015005112703,
+      0.7194767440342518
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_22",
+    "text": "In general, if Xn is a sequence with lim, *∞ Xn = c, then also",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112782257197,
+      0.6366279074300167,
+      0.9191729290826987,
+      0.6627906977910979
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_23",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6672629798246379,
+      0.674345809054407,
+      0.772586644008738,
+      0.700654189476545
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_24",
+    "text": "by Cesaro's lemma. Explicitly, for any & > 0, we can find N such that |xn - c| ≤ 8/2 forn ≥ N, and then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390978273191,
+      0.7194767438493427,
+      0.919172938756884,
+      0.7500000002034672
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_9",
+    "text": "Third solution: (by Catalin Zara) Let V be a kdimensional subspace. Form the matrix whose rows are the elements of V NZ; by construction, it has row rank at most k. It thus also has column rank at most k; in particular, we can choose k coordinates such that each point of V NZ is determined by those k of its coordinates. Since each coordinate of a point in Z can only take two values, V ^Z can have at most 2k elements.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984229104832,
+      0.726686507749266,
+      0.4906015095808188,
+      0.8430232558781283
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_25",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5864661658521303,
+      0.7659883720136818,
+      0.8477443615876958,
+      0.7906976739212166
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_26",
+    "text": "for n large, the right side is smaller than E.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909893392612,
+      0.8124999998096456,
+      0.8364661605197612,
+      0.8271329363175821
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_27",
+    "text": "In our case, we deduce that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390983345535,
+      0.8313492064645533,
+      0.7387217992202543,
+      0.8459821429724897
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_10",
+    "text": "Remark: The proposers probably did not realize that this problem appeared online about three months before the exam, at http://www.artofproblemsolving.com/ Forum/viewtopic.php?t=105991. (It may very well have also appeared even earlier.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954244612342,
+      0.8473837213074075,
+      0.4906015029298164,
+      0.9331395348903879
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 28
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_28",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6466165448565082,
+      0.8561046510031072,
+      0.7857142851399598,
+      0.8808139532846837
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 29
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_29",
+    "text": "and so",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909781156229,
+      0.9010416664943622,
+      0.6015037593709507,
+      0.912790697546119
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 30
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006_30",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6368940287083721,
+      0.9206374631826499,
+      0.7916774024810875,
+      0.9572695128340231
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_006",
+    "order": 31
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and",
+        "bbox": [
+          0.14152700186219738,
+          0.08381391772395233,
+          0.18302740090449587,
+          0.10073048827374087
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let n ≥ 2, and assume that the theorem is true for integers a and b ≥ 1 whose Euclidean algorithm has length n. Let a and b ≥ 1 be integers whose Euclidean algorithm has length n + 1 and whose sequence of partial quotients is (qo, q1, . . . , qn). Let",
+        "bbox": [
+          0.14046288906624102,
+          0.14840445982314496,
+          0.8640595903165735,
+          0.22606689734717417
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_2",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "be the n + 1 equations in the Euclidean algorithm for a = ro and b = r1. The Euclidean algorithm for the positive integers r1 and r2 has length n with sequence of partial quotients q1, .. . , 9n. It follows from the induction hypothesis that",
+        "bbox": [
+          0.14152700186219738,
+          0.382160707420223,
+          0.8629954775206172,
+          0.45828527489427145
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and so",
+        "bbox": [
+          0.14259111465815377,
+          0.5021145713187236,
+          0.20963022080340515,
+          0.5190311418685121
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This completes the proof.",
+        "bbox": [
+          0.1447193402500665,
+          0.5874663590926567,
+          0.4160681032189412,
+          0.6066897347174164
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is also true that the representation of a rational number as a fi nite simple continued fraction is essentially unique (Exercise 8).",
+        "bbox": [
+          0.13939877627028466,
+          0.6428296808919647,
+          0.8629954775206172,
+          0.6820453671664745
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_6",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Exercises",
+        "bbox": [
+          0.1457834530460229,
+          0.7143406382160707,
+          0.25006650704974726,
+          0.7335640138408305
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0035_7",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "1. Use the Euclidean algorithm to compute the greatest common divisor of 35 and 91, and to express (35, 91) as a linear combination of 35 and 91. Compute the simple continued fraction for 91/35. 2. Use the Euclidean algorithm to write the greatest common divisor of 4534 and 1876 as a linear combination of 4534 and 1876. Compute the simple continued fraction for 4534/1876. 3. Use the Euclidean algorithm to compute the greatest common divisor of 1197 and 14280, and to express (1197, 14280) as a linear combina- tion of 1197 and 14280.",
+        "bbox": [
+          0.1681298217611067,
+          0.7443291041906959,
+          0.8640595903165735,
+          0.9457900807381776
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

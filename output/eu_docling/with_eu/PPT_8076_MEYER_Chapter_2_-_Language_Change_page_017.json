@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017_1",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Morphology (cont.)",
+        "bbox": [
+          0.08720930406311196,
+          0.19961240317092582,
+          0.47965115959967874,
+          0.2616279063428163
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Agglutinative languages-Meaning is expressed by very complex internal structure. Turkish is a very agglutinative language. The construction çayiçtik means 'We drank the tea' (say = 'tea'; iç = 'drink'; and tik = 'we/past').",
+        "bbox": [
+          0.08720931501982788,
+          0.35449735526592524,
+          0.9026162591742442,
+          0.6402018500340774
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017_5",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7270909423828125,
+          0.9054838053385417,
+          0.9763743896484375,
+          0.9769905598958334
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CAMBRIDGE",
+        "bbox": [
+          0.7848837253485718,
+          0.9089147284786915,
+          0.9781976721481982,
+          0.943798449643617
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "UNIVERSITY PRESS",
+        "bbox": [
+          0.78633720689654,
+          0.9496124031390013,
+          0.9752906973808686,
+          0.967054263721464
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

@@ -1,0 +1,1645 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_110",
+    "source": "visual_seed",
+    "member_count": 24,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "MARKET ROUNDUP",
+        "bbox": [
+          0.042042045804307836,
+          0.050843253923082685,
+          0.18318318412562193,
+          0.058139534651528754
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_110",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.04453086853027344,
+          0.06654703328897665,
+          0.4835034734552557,
+          0.29395631224244506
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Nasdaq",
+        "bbox": [
+          0.04804804816912578,
+          0.19040697681286076,
+          0.09309309289694029,
+          0.19767441835429034
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Russell 2000",
+        "bbox": [
+          0.3543543562092366,
+          0.19040697684919805,
+          0.42942942945142415,
+          0.19767441839062766
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Close",
+        "bbox": [
+          0.1981981988268307,
+          0.21656976754687243,
+          0.22522522527226843,
+          0.22383720908830193
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Close",
+        "bbox": [
+          0.04204204195961298,
+          0.2194767443208116,
+          0.06906906644879568,
+          0.22238372079546753
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "High",
+        "bbox": [
+          0.042042041982486365,
+          0.22529069771281235,
+          0.06906906842792407,
+          0.23255813925424193
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "High",
+        "bbox": [
+          0.1951951951356395,
+          0.22529069771281235,
+          0.2222222215810772,
+          0.23255813925424193
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "hign",
+        "bbox": [
+          0.3483483479490355,
+          0.2281976745533697,
+          0.3723723703692829,
+          0.23110465102802574
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_51",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Low",
+        "bbox": [
+          0.34834834908959345,
+          0.23401162799382003,
+          0.37537537553503114,
+          0.2412790695352495
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Previous",
+        "bbox": [
+          0.34834834925771435,
+          0.24273255822637832,
+          0.3933933939855288,
+          0.2499999997678078
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Previous",
+        "bbox": [
+          0.19519519460305973,
+          0.24273255832327736,
+          0.24024023933087424,
+          0.24999999986470697
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Previous",
+        "bbox": [
+          0.04204204144990658,
+          0.24273255837172705,
+          0.08708708617772107,
+          0.24999999991315666
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Gold futures",
+        "bbox": [
+          0.13813813749878365,
+          0.2529069766480526,
+          0.21021021062829084,
+          0.2601744186625349
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Crude Oil",
+        "bbox": [
+          0.4114114128939016,
+          0.2529069768310295,
+          0.465465465784777,
+          0.260174418372459
+        ],
+        "order": 52
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Yen",
+        "bbox": [
+          0.24624624750457522,
+          0.25290697687947905,
+          0.2762762760189482,
+          0.26017441842090855
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_54",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Euro",
+        "bbox": [
+          0.33633633647698086,
+          0.25436046511698296,
+          0.3633633629224185,
+          0.2601744185393477
+        ],
+        "order": 54
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.2492492493422951,
+          0.2659883721980351,
+          0.26726726762467184,
+          0.27325581373946467
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.42642642651947227,
+          0.2659883721980351,
+          0.4444444448018491,
+          0.27325581373946467
+        ],
+        "order": 56
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.1621621617296825,
+          0.26598837232521544,
+          0.1801801800120593,
+          0.27325581386664505
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_80",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Trom Page 1",
+        "bbox": [
+          0.50450450442485,
+          0.5130813953576892,
+          0.5615615613409158,
+          0.5159883720688716
+        ],
+        "order": 76
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_65",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "from Page 1",
+        "bbox": [
+          0.042042042763188354,
+          0.6641865079793465,
+          0.09909909967925404,
+          0.6686507936936322
+        ],
+        "order": 88
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_100",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FOR INFORMATION CONTACT",
+        "bbox": [
+          0.6366366432645235,
+          0.9316860465984713,
+          0.822822822401142,
+          0.9389880952589312
+        ],
+        "order": 109
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_103",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IN CONJUNCTION WITH BERKSON & SONS LTD.",
+        "bbox": [
+          0.5585585646872382,
+          0.9650297617463001,
+          0.9009009061836324,
+          0.9739583331748715
+        ],
+        "order": 112
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_106",
+    "source": "visual_seed",
+    "member_count": 30,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_78",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "LOCAL STOCKS",
+        "bbox": [
+          0.5045045062004953,
+          0.06820436512286955,
+          0.5915915877184239,
+          0.07564484131334581
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_106",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "STOCK | 0z000zz:",
+        "bbox": [
+          0.5008738569779829,
+          0.07294687795115042,
+          0.9545351340553977,
+          0.1787397246308379
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10 DAYS",
+        "bbox": [
+          0.339339340081672,
+          0.10901162818761855,
+          0.3903903889473571,
+          0.11631944454356606
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10-yr T-note",
+        "bbox": [
+          0.05105104977158274,
+          0.25290697681286073,
+          0.12312312290108997,
+          0.26017441835429034
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_83",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "her astar, or reden usion tee the week ending Dec. 5, yeals, decorums l nois veparument or rubho Health told the Tribune last week that initial analvsis showed that norovirus cases in Illinois were slightly above",
+        "bbox": [
+          0.8064099734874431,
+          0.45790836602881285,
+          0.9114102317131043,
+          0.47419934102425954
+        ],
+        "order": 72
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_87",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "consider getting tested uve when sven early ill di 1lmness, vonra sala. Inose who are 1ll Shoula sell-iso late or wear masks if they available for the flu and Oluer aula lor those ou to 14 wno are at Increased rISK Or severe Ko v. Intants can ks v antibody it their mothers didn't get",
+        "bbox": [
+          0.8108108118322574,
+          0.49851190470573226,
+          0.9519519527709086,
+          0.5538194443662694
+        ],
+        "order": 74
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_82",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Illinois is now one of 36 states with hign or verv high levels of respiratorv 1lness activity. according to the",
+        "bbox": [
+          0.5045045057642679,
+          0.5348837210170759,
+          0.6486486523813099,
+          0.5581395348641265
+        ],
+        "order": 78
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_84",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In addition to the increase ur dillaue rise in Outbreaks an lines. thar can cause vomiung and diarrhea. There were 91 susnected or contrmed even a few years ago.",
+        "bbox": [
+          0.5045045057642679,
+          0.5711805555048834,
+          0.6486486498639115,
+          0.6192956349532964
+        ],
+        "order": 79
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_88",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "frequent hand-washing, uent-nuune masks ana 2000 ventllacion to neip avola catching the ulnesses",
+        "bbox": [
+          0.657657658917421,
+          0.590029761850256,
+          0.7987987972387351,
+          0.6133720928884909
+        ],
+        "order": 80
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_89",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "People with symptoms such as a fever, runny nose sore throat or cough should nologies.",
+        "bbox": [
+          0.6576576589240943,
+          0.6148255814821922,
+          0.8018018030170647,
+          0.6337209298011774
+        ],
+        "order": 81
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_63",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Nonna Feaster nrenares to administer a flu shot at a Oth ward COVIN-10 and flu vaccination clinic in Pullman Community Center in Chicago on Oct. 10. TESS CROWLEY/CHICAGO TRIBUNE",
+        "bbox": [
+          0.042042034452752265,
+          0.6220238095073077,
+          0.4804804734551561,
+          0.6337209301457147
+        ],
+        "order": 82
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_69",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Envista, Drury said: \"Brands with affordable vehicles are not giving up a lot. They're absorbing a lot of urst-ume",
+        "bbox": [
+          0.19819819954316537,
+          0.6510416665774903,
+          0.34234234580217976,
+          0.6744186046315012
+        ],
+        "order": 83
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_91",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E, and a fuller lineup of EVs I seneral dre neipins, loo",
+        "bbox": [
+          0.8108108130161644,
+          0.6510416665774903,
+          0.9579579614177954,
+          0.6627906975396537
+        ],
+        "order": 84
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_90",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "With so much of his business EVs. though, Dosanih said he's not too worried about the rential for the Sell burn eas in knowing more about them ular even tus own tedil.& Unevrolet coumox rv tlat starts at 033.000. incentives on the ford Mustang Mach-",
+        "bbox": [
+          0.6546546582416778,
+          0.6569767442910585,
+          0.801801802466514,
+          0.7369186044354724
+        ],
+        "order": 86
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_86",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"It's a new era ofbusiness,\" he said. \"It's not pre-COVID business. It's a combietelv new era. We're all learning.\"",
+        "bbox": [
+          0.5015015131590944,
+          0.6569767444182387,
+          0.648648651705769,
+          0.683139534845327
+        ],
+        "order": 87
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_92",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Its a much smartel buver. Dosanth said about \" The overallger for us, in cumipele markels al Testa. We car compete Will wivever W neea to compete, wnien wasn't always that way lI the past.\"",
+        "bbox": [
+          0.8108108099003312,
+          0.6656746031801037,
+          0.9549549561593454,
+          0.7369186046666087
+        ],
+        "order": 89
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_66",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sand nertormance-orented Dodge Charger Daytona first retail EVs from its U.S. lealer lots before the end of the monur just as truly lakes once",
+        "bbox": [
+          0.04204204113475703,
+          0.6773255814087582,
+          0.1861861873937714,
+          0.7239583333745879
+        ],
+        "order": 90
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_75",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a senarate note to inves tors, Nelson emphasized that for GM, elevated inven credit, weaker sales in China and its lack of exposure to the last-crowins nyorta market are challenges for the Detroit automaker 1n 2023 GM nans to reintroduce plug-in hybrids to North America in 2027.",
+        "bbox": [
+          0.3483483463900124,
+          0.6773255815301137,
+          0.4954954983547324,
+          0.75581395325618
+        ],
+        "order": 91
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_70",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Aven thourh the Fordi Maverick compact truck has small pickup that represents Ford's entry level has generated a popular 1010wins. Dut recalls ana warrantv issues have nlagued the Dearborn automaker. It has been seekingto address those problems with an leave older models",
+        "bbox": [
+          0.19819819784384754,
+          0.6830357142494072,
+          0.33933933855185927,
+          0.7631448414778641
+        ],
+        "order": 92
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_85",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "With H.s havino tiohten margins than some of the Cools. keeping inventories around 90 days, reducins markeung spenains and limitin? hiring in lavor o1 using avallable digital tech",
+        "bbox": [
+          0.5045045049283134,
+          0.6830357142527106,
+          0.6486486521084862,
+          0.736918604544484
+        ],
+        "order": 93
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_67",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Customers who bought a vehicle six to seven years ago. when they come back they're not going to be look› that looks but tale other brands. \"They chased the upmarker customers and went all in on the Grana wagoneer. In going upmar ket, they left behind those that helped start the entire like Mark Trudell, gener at Extreme Dodge Chryslet Jeer nalu Jackson, die expecuns a 2ood cuzs Dasea on the steps une company took around incentives in the nnal months of 2024 and the ifthe plug-in vehicle lax creulls gu away.",
+        "bbox": [
+          0.042042038582204594,
+          0.7266865079255068,
+          0.18618618844482251,
+          0.8110465115410637
+        ],
+        "order": 94
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_71",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Almost three 73% of Ford's inventory is still model-year 2024 according to kamunas. 'Ihat's compared to 34% 01| the industry overall. GM'sis 23%.",
+        "bbox": [
+          0.19819819833884272,
+          0.7673611111776187,
+          0.34234234580217976,
+          0.8095930231905105
+        ],
+        "order": 96
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_72",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"They were heapin on '23% deep™ \"Now they're far behind th competton. L sudratilee in Maren ana April, unere will be 44 model-vear rora products on dealer lots. It's Stop the bleeding, going to",
+        "bbox": [
+          0.19511629626096003,
+          0.8110119048157444,
+          0.3394182418739408,
+          0.8737314894434306
+        ],
+        "order": 98
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_96",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Currently 73 % occupied and ideal for an investor or user with remaining almost 4,000 sq. ft. of vacant space. High Visibility adjacent to Bob Chinn's and Superdawg. 150 Parking Spaces.",
+        "bbox": [
+          0.5255255367718079,
+          0.8385416664489751,
+          0.9369369199849489,
+          0.8720930231689706
+        ],
+        "order": 100
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_76",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Salespeople forgot how to sell ca, to reinstitute was a recaliing business, said Inder Dosanjh, CEO of the Califormla automouve Keramn? Group. which has lo showrooms in California's san Hrancisco Bav Area. including nine GM stores and a Ford store, after Stellantis loc because its too expensive. Increases in inventories, along with high transacuon prices ana inter est rates. Increasea costs and made the market more competitive again.",
+        "bbox": [
+          0.34834834852953733,
+          0.8648255814821922,
+          0.4954954967107581,
+          0.8909883718789996
+        ],
+        "order": 101
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_73",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Garret Nelson, analyst culd yed long lal gel on rule Shares Vy on loote",
+        "bbox": [
+          0.19819819792343474,
+          0.870535714323052,
+          0.34234234104020633,
+          0.9011627905629094
+        ],
+        "order": 102
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_68",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"There's a lot of positivity coming out of the busi ness centers. ruael sara. \"People are all about pricing right now. Rates have hoped a litre bit, yich a bit of a sweet spot with offerings like the Chevy Irax and coumox ana buici",
+        "bbox": [
+          0.039039042325761775,
+          0.8953373016686443,
+          0.18618618709347112,
+          0.9419642855180963
+        ],
+        "order": 105
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_77",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "He's optimistic for 2025 now unat Interest rates nave come aown Shenuv. automakers have increased their incentive spending, and they're emphasizing reduccosts to make vehi. Up to sales at one Dosanjh's stores die evo, Mildrills loudy s market muen anerent thar",
+        "bbox": [
+          0.35135135099700066,
+          0.8968023256517368,
+          0.49549549895533307,
+          0.9680232558006115
+        ],
+        "order": 106
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_74",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "While Ford's Q4 sales were suonger than expectea. we think 1t faces 1ts fair share ot headwinds enterino 2025, namely bloated inventory levels, tepid consumer interest rates, and the lil elimination of the federal EV tax creall, eison wrote in a note. \"In our opinion, the execuuonor (roru) manaze ment nas aiso been under whe mine.",
+        "bbox": [
+          0.19819819975499775,
+          0.9024129343508924,
+          0.3393780847266889,
+          0.9680232558006115
+        ],
+        "order": 107
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_99",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On-site inspections December Noon to 2 PM, December 17, January 9, 15 & 21",
+        "bbox": [
+          0.5765765791364833,
+          0.9055059523594503,
+          0.8828828879806339,
+          0.9216269839444081
+        ],
+        "order": 108
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "High: 42,931.54",
+        "bbox": [
+          0.12612613036215672,
+          0.06969246025028662,
+          0.21321321188008543,
+          0.07713293644076268
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_44",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Previous: 42,706.56",
+        "bbox": [
+          0.33933934138223254,
+          0.06969246025028662,
+          0.4534534552143639,
+          0.07713293644076268
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Low: 42,380.75",
+        "bbox": [
+          0.23423423593022485,
+          0.06969246037746675,
+          0.32132131744815356,
+          0.07713293656794301
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "43,400",
+        "bbox": [
+          0.2822822829125343,
+          0.08284883724769615,
+          0.3213213195899682,
+          0.09011627878912555
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Dow Jones industrials",
+        "bbox": [
+          0.09309309524362859,
+          0.08575581416751207,
+          0.23123122562724235,
+          0.09302325570894147
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Close: 42,528.36",
+        "bbox": [
+          0.09309309698016069,
+          0.09300595234128156,
+          0.19519519471153085,
+          0.10029069744222636
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Change: -178.20 (-0.4%)",
+        "bbox": [
+          0.09309309023385616,
+          0.10019841254006139,
+          0.2372372364928706,
+          0.10912698396863281
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_104",
+    "source": "visual_seed",
+    "member_count": 27,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "42,780",
+        "bbox": [
+          0.2822822813566797,
+          0.09593023256878191,
+          0.32132132194662355,
+          0.10174418599114658
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "42,160",
+        "bbox": [
+          0.28228228371333514,
+          0.10755813957327738,
+          0.321321320390769,
+          0.11482558111470698
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "46,000",
+        "bbox": [
+          0.0510510510200593,
+          0.113372093255448,
+          0.09309309172268351,
+          0.1206395347968776
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "44,000",
+        "bbox": [
+          0.05105105158215984,
+          0.12936046512692134,
+          0.09309309228478403,
+          0.1351744185492861
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "42,000",
+        "bbox": [
+          0.051051051570609844,
+          0.14534883722154188,
+          0.09309309227323403,
+          0.15116279064390656
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "40.000",
+        "bbox": [
+          0.05105105027990187,
+          0.1627906978091837,
+          0.09009008695733577,
+          0.16569767428383964
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "38,000",
+        "bbox": [
+          0.051051051120159396,
+          0.17587209306164947,
+          0.0930930918227836,
+          0.18313953460307908
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "S&P 500",
+        "bbox": [
+          0.2012012026836914,
+          0.19040697683102945,
+          0.2552552555745668,
+          0.19767441837245905
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19,489.68",
+        "bbox": [
+          0.12612612637424833,
+          0.21656976754687243,
+          0.17417417512725314,
+          0.22383720908830193
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19,940.21",
+        "bbox": [
+          0.13213213227631554,
+          0.22529069788844217,
+          0.17417417297893975,
+          0.23255813942987175
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6,000.68",
+        "bbox": [
+          0.2822822830915482,
+          0.22529069795506035,
+          0.3273273278193627,
+          0.23255813949648996
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19.421.02",
+        "bbox": [
+          0.13213213121904205,
+          0.23546511628345929,
+          0.17117117180898597,
+          0.23837209299464152
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.236.55",
+        "bbox": [
+          0.4384384375253485,
+          0.23546511628345929,
+          0.4774774781152924,
+          0.23837209299464152
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19,864.98",
+        "bbox": [
+          0.13213213265169088,
+          0.24273255815177447,
+          0.1741741733543151,
+          0.24854651157413912
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+.20",
+        "bbox": [
+          0.2462462461760974,
+          0.27761627902909614,
+          0.2762762766467254,
+          0.2848837210435784
+        ],
+        "order": 58
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+.07",
+        "bbox": [
+          0.07207207176597298,
+          0.27761627906124287,
+          0.10210210223660099,
+          0.28343023248360755
+        ],
+        "order": 59
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+.0029",
+        "bbox": [
+          0.3273273273903925,
+          0.2776162790763442,
+          0.372372372118207,
+          0.28343023249870886
+        ],
+        "order": 60
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+18.30",
+        "bbox": [
+          0.15315315329733656,
+          0.2776162792837911,
+          0.19519519399996077,
+          0.2848837208252206
+        ],
+        "order": 61
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+.69",
+        "bbox": [
+          0.4234234236807515,
+          0.27761627930195965,
+          0.45345345219512445,
+          0.2848837208433892
+        ],
+        "order": 62
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_56",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "to.9656/$1",
+        "bbox": [
+          0.32432432526685717,
+          0.2834302324597562,
+          0.37537537413254224,
+          0.29069767447423844
+        ],
+        "order": 63
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "to $2,656.70",
+        "bbox": [
+          0.14414414666080214,
+          0.28343023264498296,
+          0.2042042036895481,
+          0.29069767418641246
+        ],
+        "order": 64
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "to 4.69%",
+        "bbox": [
+          0.06606606726130049,
+          0.2834302326631515,
+          0.1081081079639247,
+          0.2906976742045811
+        ],
+        "order": 65
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "to 157.78/$1",
+        "bbox": [
+          0.23423423549149922,
+          0.2834302326631515,
+          0.28828828838237464,
+          0.2906976742045811
+        ],
+        "order": 66
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_60",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "to $74.25",
+        "bbox": [
+          0.414414413822279,
+          0.2834302327903318,
+          0.4594594585500934,
+          0.2906976743317613
+        ],
+        "order": 67
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_104",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "NASD | S&P +2423",
+        "bbox": [
+          0.052382306185635656,
+          0.31967277107657965,
+          0.4802026922052557,
+          0.3488224104996566
+        ],
+        "order": 70
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_101",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rick Levin & Associates, Inc. | since 1991",
+        "bbox": [
+          0.5255255356707069,
+          0.9389534882443017,
+          0.936936918883848,
+          0.9506448413950782
+        ],
+        "order": 110
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_102",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "312.440.2000 | www.ricklevin.com",
+        "bbox": [
+          0.5495495584283953,
+          0.952034883593139,
+          0.9129129085385715,
+          0.9636627904378686
+        ],
+        "order": 111
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_108",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_108",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "CLOSE | BACON TOREREEES | TREASURY YIELDS | 4.91 | CLOSt | 1035.196",
+        "bbox": [
+          0.6346214155717329,
+          0.18522753369677197,
+          0.7594037420099432,
+          0.47232620406936815
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5,909.03",
+        "bbox": [
+          0.28228228300396063,
+          0.21656976754687243,
+          0.32732732773177514,
+          0.22383720908830193
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2,249.80",
+        "bbox": [
+          0.43543543484330005,
+          0.21656976767405267,
+          0.4804804795711145,
+          0.22383720921548228
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2,286.18",
+        "bbox": [
+          0.44144144237199373,
+          0.22529069795506035,
+          0.4804804790494277,
+          0.23255813949648996
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5,890.68",
+        "bbox": [
+          0.28528528655559476,
+          0.23401162818761853,
+          0.327327327258219,
+          0.24127906972904803
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5,975.38",
+        "bbox": [
+          0.2852852858048441,
+          0.24273255815177447,
+          0.32732732650746826,
+          0.24854651157413912
+        ],
+        "order": 46
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_107",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_107",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "CLOSE | CLOSE | CLOSE | NASDAQ STOCK MARKET | NASDAQ STOCK MARKET | NASDAQ STOCK MARKET | CLUSt | CLUSt",
+        "bbox": [
+          0.501491532759233,
+          0.18648744687929258,
+          0.6260652299360795,
+          0.47192291595123625
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_109",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_109",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "%RTN",
+        "bbox": [
+          0.7679800137606534,
+          0.18947020142942994,
+          0.9545717551491477,
+          0.4569642320570055
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_47",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-16.85 (-74%)",
+        "bbox": [
+          0.40835609852085925,
+          0.20191173873454576,
+          0.480532792168195,
+          0.20942546997955636
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-66.35 (-1.11%)",
+        "bbox": [
+          0.25225225441994725,
+          0.20203488380777354,
+          0.32732732766213485,
+          0.20932539684073223
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-375.30 (-1.89%)",
+        "bbox": [
+          0.09009009248055896,
+          0.20203488382594226,
+          0.17417417388580733,
+          0.20932539685890084
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_61",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_61",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Major market growth and decline 5-dav % Change 30-day % Change",
+        "bbox": [
+          0.045045048702954664,
+          0.29935515895885156,
+          0.28228228453027837,
+          0.3154761904926924
+        ],
+        "order": 68
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_62",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_62",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "I-vear % Chanee",
+        "bbox": [
+          0.34834834911464196,
+          0.31250000001068784,
+          0.4234234223568295,
+          0.3154761904868784
+        ],
+        "order": 69
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_105",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_105",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "FUTURES | LOW | WHEAT (CBOT) | 5,000 bu minimum-cents per bushel Mar 25 | 547.25 | 554.50 | CORN (CBOT) | 5,000 bu minimum- cents per bushel Mar 25 | May 45 | SOYBEANS (CBOT) | 5,000 bu minimum- cents per bushel Jan 25 | Mar 2' | SOYBEAN OIL (CBOT) | 60,000 lbs- cents per lb | Jan 25 Mar 25 | 40.33 | 40.05 | 41.25 | SOYBEAN MEAL (CBOT) | 100 tons- dollars per ton | Jan 25 Mar 25 | 307.10 307.30 | 303.50 | LIGHT SWEET CRUDE (NYMX) 1,000 bbl.- dollars per bb. | Feb 25 Mar 25 | 73.44 | 73.57 | NATURAL GAS (NYMX) | 10,000 mm btu's, 5 per mm btu | 3.449 | NY HARBOR GAS BLEND (NYMX)42,000 gallons- dollars per gallon | NY HARBOR GAS BLEND (NYMX)42,000 gallons- dollars per gallon | Mar 25",
+        "bbox": [
+          0.044950367320667615,
+          0.3586044277987637,
+          0.48033375133167616,
+          0.4715956065418956
+        ],
+        "order": 71
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_98",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(less than $50 per sq. ft.)",
+        "bbox": [
+          0.6426426402392652,
+          0.8953373014984174,
+          0.8168168189251624,
+          0.902616279140401
+        ],
+        "order": 104
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "visual_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_111",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_111",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.044218285300514915,
+          0.4961775626717033,
+          0.4930732865767046,
+          0.6177178485576923
+        ],
+        "order": 73
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_79",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_79",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Illness",
+        "bbox": [
+          0.5045045043973737,
+          0.500000000006446,
+          0.5705705694765004,
+          0.5101744182590578
+        ],
+        "order": 75
+      },
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_81",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "at risk of developing severe Cases",
+        "bbox": [
+          0.5045045041340555,
+          0.5232558140403317,
+          0.6486486521084862,
+          0.5348837208991957
+        ],
+        "order": 77
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_64",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_64",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Cars",
+        "bbox": [
+          0.04504504529316725,
+          0.6540697676552177,
+          0.09309309404617207,
+          0.6627906973157123
+        ],
+        "order": 85
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_93",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_93",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "REAL ESTATE AUCTION JANUARY 29, 2025",
+        "bbox": [
+          0.5135135074406888,
+          0.7485119049005865,
+          0.9429429382800317,
+          0.7776162788718559
+        ],
+        "order": 95
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_94",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_94",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "OUT-OF STATE LONG-TERM OWNER DIRECTS SALE",
+        "bbox": [
+          0.5165165291498314,
+          0.781976744069367,
+          0.9429429364014341,
+          0.8095930227550924
+        ],
+        "order": 97
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_95",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_95",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "15,594 SQ. FT. 1-STORY OFFICE BUILDING 307 S. MILWAUKEE AVE., WHEELING, IL",
+        "bbox": [
+          0.5195195148880853,
+          0.8154069769807676,
+          0.9399399375643673,
+          0.8386627905589926
+        ],
+        "order": 99
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0020",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_97",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_97",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Replacement Value in Excess of $2,500,000 Suggested Opening Bid $625,000",
+        "bbox": [
+          0.5375375449177241,
+          0.8750000000851766,
+          0.9249249272294227,
+          0.8953488369606083
+        ],
+        "order": 103
+      }
+    ]
+  }
+]

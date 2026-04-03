@@ -1,0 +1,106 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_0",
+    "text": "a 06 12 182448(hr) 0 6 12 18 24(hr) aspase-9 47kDa aspase-3 32kDa aspase-8 44/40kDa 55/50k 44/40k 23kDa 40/36k Actin MNNG/ADR WE-68/ADR b MNNG/ADR 80 * * 60 40 20 0 Flavopiridol （200nMD Z·VAD-FMK（75μM) + Z-IETD-FMK（75μM) K Z-DEVD-FMK(50μM) + WE-68/ADR 100 * 水 60 40 20 0 Flavopiridol（160nM) Z-VAD·FMK（40μM + Z-IETD-FMK(40μM + Z-DEVD-FMK(50M) C Flavopiridol（200nM) Z·VAD-FMK（75μM) Z-1ETD-FMK（75μM) Z-DEVD-FMK(50μM) Cleaved PARP 85kDa Caspase-3 32kDa Actin",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10294117647058823,
+      0.08024691358024691,
+      0.47549019607843135,
+      0.5604938271604938
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_2",
+    "text": "a P ADR P ADR Flavopiridol (nM) 0 400 0 400 0320 0 320 Cytochrome c (cytosol) Actin MNNG WE-68 b MNNG/ADR WE-68/ADR P53 Bax Bcl-xL Bcl-2 1 0 Actin 0100200400(nM) 0 80160320(nN Flavopiridol Flavopiridol",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5098039215686274,
+      0.08148148148148149,
+      0.8937908496732027,
+      0.3790123456790123
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_3",
+    "text": "FMK efficiently inhibited flavopiridol-induced caspase-3 activa- tion and cleavage of PARP in MNNG/ADR cells. These results revealed that flavopiridol could induce caspase-dependent apopto- sis in the drug-resistant OS and EFTs clones, and that caspase-3 inhibitor, but not caspase-8 inhibitor, could prevent the cleavage of caspase-3 and the activation of PARP.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5098039215686274,
+      0.5098765432098765,
+      0.9019607843137255,
+      0.5802469135802469
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_4",
+    "text": "The apoptotic effect of flavopiridol was mainly mediated by mitochondrial pathway in the ADR clones of OS and EFTs",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5081699346405228,
+      0.5950617283950618,
+      0.8594771241830066,
+      0.6185185185185185
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_5",
+    "text": "We next investigated whether the activation of caspase-9 and caspase-3 were attributed to the mitochondrial injury, which could lead to release of cytochrome c. Treatments of parental and ADR clones of OS and EFTs with 400 and 320 nM flavopiridol resulted in the expression of cytochrome c in the cytosolic fractions of the treated cells (Fig. 4a). It is reported that disruption of the balance between proapoptotic and antiapoptotic proteins, e.g. altered Bax/ Bcl-2 ratio, is a precursor for the release of cytochrome c from mi- tochondria, an hat Bax gene is a target of p53 and can be reu lated by p53 via transcriptional-dependent32 or independent mech- anisms.3 In the present study, as shown in Figure 4b, the treat- ments of MNNG/ADR and WE-68/ADR cells with flavopiridol resulted in a decrease in the Bcl-2 and Bcl-xL expression in a dose-dependent manner. On the other hand, flavopiridol dose- dependently increased Bax and p53 expression in WE-68/ADR cells, but not in MNNG/ADR cells. This difference in response may relate to the difference in p53 status, which is wild-type in WE-68 and mutant in MNNG.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5098039215686274,
+      0.6222222222222222,
+      0.9019607843137255,
+      0.8308641975308642
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_1",
+    "text": "time-dependent manner in ADR clones of OS and EFTs, as indi- cated by the reduction in the intensites of proenzymes of caspase- 9 and caspase-3, and increase in the cleaved products of caspase-8 (Fig. 3a). Co-treatment with a broad-spectrum caspase inhibitor (Z-VAD-FMK) or a caspase-3 specific inhibitor (Z-DEVD-FMK) signifi cantly reduced the efficacy of fl avopiridol on the induction of the cell death in ADR cells, but a caspase-8 specific inhibitor (Z-IETD-FMK) could not inhibit the cell death (Fig. 3b). As shown in Figure 3c, 75 M Z-VAD-FMK and 50 M Z-DEVD-",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09640522875816994,
+      0.8024691358024691,
+      0.49019607843137253,
+      0.908641975308642
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_6",
+    "text": "Flavopiridol inhibited the growth of the drug-resistant OS and EFTs tumors in mice",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5081699346405228,
+      0.845679012345679,
+      0.8790849673202614,
+      0.8703703703703703
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4_7",
+    "text": "Since flavopiridol displayed antiproliferative and apoptotic effects on ADR clones of OS and EFTs in vitro, we set out to investigate the antiproliferative activity of flavopiridol in vivo.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5098039215686274,
+      0.8728395061728395,
+      0.9019607843137255,
+      0.908641975308642
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22820.pdf_4",
+    "order": 8
+  }
+]

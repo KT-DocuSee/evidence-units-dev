@@ -1,0 +1,143 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТіТИ, ХЛИНТ, \"А",
+        "bbox": [
+          0.27108134889754026,
+          0.21951219493585944,
+          0.42587208716982883,
+          0.2398373983277875
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "КУКА ІМ, ПЕДИККА ПИСКО ПЕКА ХТ А",
+        "bbox": [
+          0.574127918453787,
+          0.2723577233295376,
+          0.9374999945791588,
+          0.34146341464471713
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "'I HE LAND ME TA",
+        "bbox": [
+          0.16930183861034906,
+          0.5752032518609463,
+          0.4258720876024147,
+          0.6464260933592677
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "XANK \"КА КИЙ ВОЛАТИКАСКЛЕЖИНИТРА",
+        "bbox": [
+          0.6458333365495661,
+          0.6016260160124643,
+          0.9374999956473888,
+          0.7723802914110601
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AHNI 1E, FENA",
+        "bbox": [
+          0.27207341340141616,
+          0.8535739066407323,
+          0.42587208628943024,
+          0.8761276887364993
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_4",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "1989: 15.",
+        "bbox": [
+          0.38163441797774866,
+          0.8841082584476052,
+          0.41860464735367864,
+          0.9004163778091597
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60599898.pdf_30_3",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "202: 111.",
+        "bbox": [
+          0.2815600180558889,
+          0.8983344896514804,
+          0.32703488035137274,
+          0.9126016255257343
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

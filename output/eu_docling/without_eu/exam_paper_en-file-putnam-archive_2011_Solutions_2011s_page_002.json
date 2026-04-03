@@ -1,0 +1,353 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_1",
+    "text": "A5 (by Abhinav Kumar) Define G : R → R by G(x) = Jo 8(t) dt. By assumption, G is a strictly increasing, thrice continuously differentiable function. It is also bounded: for x > 1, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10526317827690149,
+      0.06969246013255129,
+      0.49060151109241035,
+      0.12648809522559315
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_13",
+    "text": "we show that b € (0, 1) as follows. First suppose b = 0; then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706768927793,
+      0.06969246020038078,
+      0.9210526323897326,
+      0.0944767439555211
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_14",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6049917778783542,
+      0.11337209340618694,
+      0.8270676688975174,
+      0.14825581381613884
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13345864633207216,
+      0.13953488391108448,
+      0.4417293174273265,
+      0.16279069760054343
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_15",
+    "text": "because [xe(G)X(gi) equals n for i = 1 and 0 otherwise. However, this contradicts the hypothesis that {81,..., 8k} is not all of G. Hence b > 0. Next suppose b = 1, and choose X EÔ - {ê} with 2x| = 1. Since each of X (81),..., X (8k) is a complex number of norm 1, the triangle inequality forces them all to be equal. Since X (81) = X (e) = 1, X must map each of 81,..., 8k to 1, but this is impossible because X is a nontrivial character and g1,..., 8k form a set of generators of G. This contradiction yields b < 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909716221888,
+      0.15988372139328466,
+      0.9210526380050044,
+      0.30813953498786656
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_3",
+    "text": "and similarly, for x < - 1, we have 0 > G(x) - G(-1) ≥ - 1. It follows that the image of G is some open interval (A,B) and that G-' : (A, B) → R is also thrice continuously differentiable.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195501143383,
+      0.17732558127866943,
+      0.4906894389414297,
+      0.23412698429866954
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_4",
+    "text": "pain a 0) 15 vice Coin sly dit twice continuously differentiable since F and G-' are. By our assumptions about F,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12767159405872955,
+      0.23834325307562226,
+      0.4906015101854555,
+      0.29838332873360474
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_16",
+    "text": "Since v = ExecYx and Mvx = 2x)x, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706744830827,
+      0.3110119043898643,
+      0.8740601481672933,
+      0.32848837130293634
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10526315876883972,
+      0.3125000000037151,
+      0.2199248111529621,
+      0.34302325527095967
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_17",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6146616553464873,
+      0.34156976772789244,
+      0.8157894742407572,
+      0.3764534880688933
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_18",
+    "text": "Since the vectors x are pairwise orthogonal, the limit we are interested in can be written as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.558270678428266,
+      0.39087301568316185,
+      0.9210526389119592,
+      0.41569767418807924
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_6",
+    "text": "Therefore H is constant along any line parallel to the vector (1,1), or equivalently, H(x, y) depends only on x-y. We may thus write H (x, y) = h(x-y) for some function h on (-(B -A),B - A), and we then have F(x, y) = hG(x) - G(y)). Since F (u, u) = 0, we have h(0) = 0. Also, h is twice continuously differentiable (since it can be written as h(x) = H((A +B +x) /2, (A + B -x)(2)), so h' is bounded on the closed interval I-(B - A) /2, (B - A) /2), say by M.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1259398494171223,
+      0.3908730158840171,
+      0.49060151109241035,
+      0.5203488368902667
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_19",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5934752721501392,
+      0.4345238093004516,
+      0.8421052633327846,
+      0.455339892577632
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_20",
+    "text": "and then rewritten as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909812810088,
+      0.4680059526124785,
+      0.6954887214445549,
+      0.4781976741880791
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_21",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5601503763419496,
+      0.4898255811501883,
+      0.875939845640355,
+      0.5279173328819209
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_7",
+    "text": "Given x1,.., Xn+1 € R for some n ≥ 2, the numbers G(x1),..., G(Yn+1) all belong to (A,B), so we can choose indices i and j so that |G(xi) - G(x;) | ≤ (B A) /n ≤ (B - A) /2. By the mean value theorem,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1259398514097744,
+      0.5247093022270707,
+      0.4906015054724391,
+      0.5828488367085807
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_22",
+    "text": "By construction, this last quantity is nonzero and finite.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706799398576,
+      0.5391865080773016,
+      0.9210526404235507,
+      0.5523313493471429
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_23",
+    "text": "Remark. It is easy to see that the result fails if we do not assume g1 = e: take G = Z/22, n = 1, and g1 = 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706895742237,
+      0.558035714210707,
+      0.919172918015062,
+      0.5858134918803051
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_24",
+    "text": "Remark. Harm Derksen points out that a similar argument applies even if G is not assumed to be abelian, provided that the operator g1 + ... + gk in the group algebra Z(G] is normal, i.e., it commutes with the operator 81 -1+...+8k ·. This includes the cases where the set {81,...,gk) is closed under taking inverses and where it is a union of conjugacy classes (which in turn includes the case of G abelian).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112808270677,
+      0.5930059523742854,
+      0.9210526339699165,
+      0.707848837271476
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_8",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14849624257518795,
+      0.6119186047561748,
+      0.4229323305974332,
+      0.6380813951166449
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_9",
+    "text": "so the claim holds with C = M(В -А).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985361716384,
+      0.6497093026446168,
+      0.3853383470595278,
+      0.664244185727476
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_10",
+    "text": "A6 Choose some ordering h1,..., hn of the elements of G with h1 = e. Define an n X n matrix M by settting Mij = 1/k if hj = hig for some g € 181,...,8k} and Mij = 0 otherwise. Let v denote the column vector (1,0,...,0). The probability that the product of m random elements of {81,...,gk) equals hi can then be interpreted as the i-th component of the vector M\" v.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338346789848794,
+      0.6758432541441632,
+      0.4906015074147949,
+      0.7748015872795848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_25",
+    "text": "Remark. The matrix M used above has nonnegative entries with row sums equal to 1 (i.e., it corresponds to a Markov chain), and there exists a positive integer m such that M™ has positive entries. For any such matrix, the Perron-Frobenius theorem implies that the sequence of vectors My converges to a limit w, and there exists b € (0,1) such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5561603782518382,
+      0.715029761682736,
+      0.9210526389119592,
+      0.8154761902482981
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_11",
+    "text": "Let G denote the dual group of G, i.e., the group of complex-valued characters of G. Let ê € G denote the trivial character. For each X € G, the vector Vx = (x (hi))i=| is an eigenvector of M with eigenvalue 2x =(X(81) +... + X8k))/k. In particular, vê is the all-ones vector and N° = 1. Put",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12770309326214715,
+      0.7819767441602103,
+      0.4908451141573253,
+      0.8663194446652696
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_26",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6296992488904286,
+      0.850290697761262,
+      0.6654135342549348,
+      0.8575581393026915
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_27",
+    "text": "is nonzero and finite. (The intended interpretation in case b = 0 is that M™, = w for all large m.) However, the limit need not exist in general.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909788875353,
+      0.8735119048834188,
+      0.9210526192581778,
+      0.9171626983356898
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.18796992410840005,
+      0.8793604646923661,
+      0.38909774645550976,
+      0.895348837313448
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_002",
+    "order": 28
+  }
+]

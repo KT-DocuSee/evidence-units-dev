@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "mineru_eastmoney_c2abc680754ea4676c752cb3bda24323046ece560f8b23ce66b705887c9bcf9b.pdf_16_0",
+    "text": "资产负债表（百万元）",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08222490931076179,
+      0.10436270316509838,
+      0.21201128577186618,
+      0.11747932706016538
+    ],
+    "page": "eastmoney_c2abc680754ea4676c752cb3bda24323046ece560f8b23ce66b705887c9bcf9b.pdf_16",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_eastmoney_c2abc680754ea4676c752cb3bda24323046ece560f8b23ce66b705887c9bcf9b.pdf_16_1",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.08061265618702136,
+      0.1157684630738523,
+      0.731962918178154,
+      0.6005132591958939
+    ],
+    "page": "eastmoney_c2abc680754ea4676c752cb3bda24323046ece560f8b23ce66b705887c9bcf9b.pdf_16",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_eastmoney_c2abc680754ea4676c752cb3bda24323046ece560f8b23ce66b705887c9bcf9b.pdf_16_2",
+    "text": "资料来源：公司公告、星展证券",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.083031035872632,
+      0.5993726832050186,
+      0.27650141072148327,
+      0.6130595950955232
+    ],
+    "page": "eastmoney_c2abc680754ea4676c752cb3bda24323046ece560f8b23ce66b705887c9bcf9b.pdf_16",
+    "order": 3
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B4 For any continuous real-valued function f defined on the interval (0, 1], let",
+        "bbox": [
+          0.10338346608144533,
+          0.06820436488334425,
+          0.4906015055977524,
+          0.09981703714410577
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ing first. The playing area consists of n spaces, arranged in a line. Initially all spaces are empty. At each turn, a player either",
+        "bbox": [
+          0.556330380401024,
+          0.06820436523360326,
+          0.9191729406115204,
+          0.11211641171789087
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.11842105323308269,
+          0.11185515916554199,
+          0.46052631639097746,
+          0.1642441857604797
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "places a stone in an empty space, or",
+        "bbox": [
+          0.5751879653537009,
+          0.12351190464755839,
+          0.8289473666481788,
+          0.13517441861131818
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "removes a stone from a nonempty space s, places a stone in the nearest empty space to the left of s (if such a space exists), and places a stone in the nearest empty space to the right of s (if such a space exists).",
+        "bbox": [
+          0.5789473697647082,
+          0.1423611113196341,
+          0.921052629253149,
+          0.21553884062078943
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Show that if f and g are continuous real-valued functions defined on the interval [0, 1], then",
+        "bbox": [
+          0.12767902808325682,
+          0.1787790699787981,
+          0.4906014999273264,
+          0.20561061130688277
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.144736848021287,
+          0.21651785692443354,
+          0.43233082179074306,
+          0.2341269839085606
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Furthermore, a move is permitted only if the resulting position has not occurred previously in the game. A player loses if he or she is unable to move. Assuming that both players play optimally throughout the game, what moves may Alice make on her first turn?",
+        "bbox": [
+          0.5563909716221888,
+          0.2238372096940355,
+          0.9210526248972754,
+          0.2951388888075462
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B5 Let exactly 2 - neil let k X St su chat there every x € X there is a j ≥ 0 such that f(1)(x) ≤ k. [Here f') denotes the jth iterate of f, so that f(° (x) = x and fi+1) (x) = f(fi)(x)).]",
+        "bbox": [
+          0.10338345368672497,
+          0.25145348804790874,
+          0.49248120364410225,
+          0.3271329364033694
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B6 Let n ≥ 1 be an odd integer. Alice and Bob play the following game, taking alternating turns, with Alice play-",
+        "bbox": [
+          0.10338346789848794,
+          0.3372093026819547,
+          0.49060151109241035,
+          0.3648313493168619
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

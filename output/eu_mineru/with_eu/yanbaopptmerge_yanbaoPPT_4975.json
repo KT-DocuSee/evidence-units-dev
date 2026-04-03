@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4975",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4975_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4975_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.15733333333333333,
+          0.060444444444444446,
+          0.786,
+          0.7608888888888888
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4975_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "谁带着泡泡旅行呢？",
+        "bbox": [
+          0.26666666666666666,
+          0.8088888888888889,
+          0.6073333333333333,
+          0.8773333333333333
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

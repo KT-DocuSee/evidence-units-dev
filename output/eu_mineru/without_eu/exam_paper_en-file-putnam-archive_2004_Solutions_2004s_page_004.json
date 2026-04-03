@@ -1,0 +1,197 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.06606060606060606,
+      0.92,
+      0.1103030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_0",
+    "text": "or in other words",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.06727272727272728,
+      0.2415686274509804,
+      0.08060606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_1",
+    "text": "To show this, we check that the function f (x) = (1 − 1/x)x−1 is strictly decreasing for x > 1; while this can be achieved using the weighted arithmetic-geometric mean inequality, we give a simple calculus proof in- stead. The derivative of log f(x) is log(1 − 1/x) + 1/x, so it is enough to check that this is negative for x > 1. An equivalent statement is that log(1 − x) + x < 0 for 0 < x < 1; this in turn holds because the function g(x) = log(1 − x) + x tends to 0 as x → 0+ and has derivative 1−x < 0 for 0 <x < 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.13636363636363635,
+      0.49019607843137253,
+      0.28424242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_8",
+    "text": "by the symmetry in how the Ri are defined. Hence that is, Rn(T ) = T . Hence T = n, as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.1496969696969697,
+      0.8878431372549019,
+      0.16484848484848486
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_9",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.20363636363636364,
+      0.847843137254902,
+      0.2193939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_10",
+    "text": "B–5 First solution: By taking logarithms, we see that the desired limit is exp(L), where L = imx→1− ∑n=0xn (1n(1 + xn+1) − n(1 + xn). Now",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.22787878787878788,
+      0.92,
+      0.28484848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_2",
+    "text": "B−3 The answer is {a|a > 2}. If a > 2, then the func- tion f(x) = 2a/(a − 2) has the desired property; both perimeter and area of R in this case are 2a2/(a − 2). Now suppose that a ≤ 2, and let f(x) be a nonnega- tive continuous function on [0, a]. Let P = (xo, yo) be a point on the graph of f (x) with maximal y-coordinate; then the area of R is at most ayo since it lies below the line y = yo. On the other hand, the points (O, 0), (a, 0), and P divide the boundary of R into three sections. The length of the section between (O, O) and P is at least the distance between (O, O) and P, which is at least yo; the length of the section between P and (a, 0) is similarly at least yo; and the length of the section between (0, 0) and (a, 0) is a. Since a ≤ 2, we have 2yo + a > ayo and hence the perimeter of R is strictly greater than the area of R.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09490196078431372,
+      0.2909090909090909,
+      0.49019607843137253,
+      0.5224242424242425
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_11",
+    "text": "since limN→∞(xN 1n(1 + xN+1) = 0 for 0 < x < 1, we conclude that L = −1n 2 + imx→1− f(x), where",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.42424242424242425,
+      0.9192156862745098,
+      0.45636363636363636
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_3",
+    "text": "B–4 First solution: Identify the xy-plane with the complex plane C, so that Pk is the real number k. If z is sent to z′ by a counterclockwise rotation by θ about Pk, then zc −k = eiθ (z− k); hence the rotation Rk sends z to ζz + k(1 − ζ), where ζ = e2i/n,. It follws that R1 followed by R2 sends z to ζ(ζz + (1 − ζ) + 2(1 − ζ) = ζ2z + (1 – ζ)(ζ + 2), and so forth; an easy induction shows that R sends z to",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.5327272727272727,
+      0.49098039215686273,
+      0.6509090909090909
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_12",
+    "text": "This final double sum converges absolutely when 0 < x < 1, since",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.5503030303030303,
+      0.9184313725490196,
+      0.5793939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_13",
+    "text": "which converges. (Note that − ln(1 − x) and −ln(1 − xn) are positive.) Hence we may interchange the sum- mations in f (x) to obtain",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.673939393939394,
+      0.9192156862745098,
+      0.7181818181818181
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_4",
+    "text": "Expanding the product (1 − ζ)(ζn−1 + 2ζn−2 + … + (n − 1)ζ +n) ields −ζn − ζn−1 −.. −ζ +n = n. hus R sends z to z + n; in cartesian coordinates, R(x, y) = (x + n, y).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.6884848484848485,
+      0.49019607843137253,
+      0.7490909090909091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_5",
+    "text": "Second solution: (by Andy Lutomirski, via Ravi Vakil) Imagine a regular n-gon of side length 1 placed with its top edge on the x-axis and the left endpoint of that edge at the origin. Then the rotations correspond to rolling this n-gon along the x-axis; after the n rotations, it clearly ends up in its original rotation and translated n units to the right. Hence the whole plane must do so as well.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.7527272727272727,
+      0.49019607843137253,
+      0.8684848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_14",
+    "text": "This last sum converges absolutely uniformly in x, so it is legitimate to take limits term by term. Since",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.8157575757575758,
+      0.92,
+      0.8460606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004_6",
+    "text": "Third solution: (attribution unknown) Viewing each Rk as a function of a complex number z as in the first solution, the function Rn  Rn−1  · . ·  R1(z) is linear in z with slope ζn = 1. It thus equals z + T for some T ∈ C. Since fi (1) = 1, we can write 1 + T = Rn  … ·  R2(1). However, we also have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.8733333333333333,
+      0.49098039215686273,
+      0.9181818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2004_Solutions_2004s_page_004",
+    "order": 15
+  }
+]

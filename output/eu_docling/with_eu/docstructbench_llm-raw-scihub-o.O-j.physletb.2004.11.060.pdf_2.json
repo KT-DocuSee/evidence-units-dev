@@ -1,0 +1,378 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "that is relatively flat for hv < kT and which approaches zero for hv > kT.",
+        "bbox": [
+          0.08284024060051848,
+          0.12351190459710734,
+          0.4792899496032943,
+          0.15406976747133053
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "they would have obtained",
+        "bbox": [
+          0.5187376730268337,
+          0.12351190491775457,
+          0.7100591679494974,
+          0.1396329366637863
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.518737674410095,
+          0.14680232544454622,
+          0.9191321499363919,
+          0.2514534881257318
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In spite of early convictions by some investigators that the zero-point energy term in Eq. (1) would not have any experimental correlate, this has not been the case. Indeed, the zero-point term has proved important in explaining X-ray scattering in solids [4]; understanding of the Lamb shift between the s and p levels in hydrogen [5,6]; predicting the Casimir effect [7-9]; understanding the origin of van der Waals forces [7]; interpretation of the Aharonov-Bohm effect [10,11]; explaining Compton scattering [5]; and predicting the spectrum of noise in electrical circuits [12-15]. It is this latter effect that concerns us here.",
+        "bbox": [
+          0.08086784310739956,
+          0.15697674418564628,
+          0.48126233476242286,
+          0.3459821429341514
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Eq. (3), which is correct from the perspective of quantum electrodynamics [22], predicts that if all frequencies v are taken into account then there should be an infinite energy per unit volume since",
+        "bbox": [
+          0.5167652865589109,
+          0.2688492062313263,
+          0.91715976952151,
+          0.3313953485545109
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_11",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5660749507467794,
+          0.3401162790194959,
+          0.5857988162016027,
+          0.3909883717197821
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Koch et al. [13] measured the frequency spectrum of current fluctuations in Josephson junctions. At low temperatures and high frequencies the experimental spectrum is dominated by zero-point fluctuations, confirming the physical relevance of the zero-point term in Eq. (1) up to frequencies of the order max = 6 x 10'' Hz. Here we reanalyze their experimental results in light of recent astronomical estimates of dark energy density in the universe [16-19].",
+        "bbox": [
+          0.0826899585607075,
+          0.35019841264674006,
+          0.4812623357584781,
+          0.4928075394801834
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_12",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "diverges. To avoid this one could introduce a cutoff frequency vc < 00.",
+        "bbox": [
+          0.5187376654249538,
+          0.39825581388931347,
+          0.9171597628787939,
+          0.43030754008605154
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Split the total energy density into",
+        "bbox": [
+          0.5325443791918237,
+          0.43023255791911014,
+          0.786982242938354,
+          0.44622093054019224
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5187376766968377,
+          0.4563953486458543,
+          0.9191321495457497,
+          0.47395833375521373
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where",
+        "bbox": [
+          0.5207100596792158,
+          0.482558139360065,
+          0.5680473362971156,
+          0.49563953479691175
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Our hypothesis is that the signature of zero-point fluctuations measured by Koch et al. imply a nonvanishing vacuum energy density in the universe. This vacuum energy would have large scale gravitational effects, and cannot exceed the measured dark energy density of the universe as determined in astronomical measurements [16,17]. On this basis we predict a cutoff frequency (Vc) for the zero-point fluctuations in Josephson junction experiments, which is only slightly larger than the maximum frequency max reached in Koch et al's 1982 experiment. Future experiments, based on Josephson junctions that operate in the THz region [20,21], could thus help to clarify whether this cutoff exists and whether the dark energy of the universe is related to the vacuum fluctuations that play a role in the Josephson junction experiments.",
+        "bbox": [
+          0.08086784080001355,
+          0.4941860468791132,
+          0.48132425648779925,
+          0.7500000001348478
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_16",
+    "source": "text_cluster",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5186805966219551,
+          0.501453487908209,
+          0.9191321495105284,
+          0.5292528132794714
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "is due to zero-point fluctuations, and",
+        "bbox": [
+          0.5167652875152121,
+          0.5421511625448371,
+          0.788954626784591,
+          0.5581395351659192
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.51869126035809,
+          0.5654069766400405,
+          0.9191321496748939,
+          0.6022545157577371
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "corresponds to the radiation energy density generated by photons of energy hv. Integration of (5) up to vc yields",
+        "bbox": [
+          0.5167652873208838,
+          0.6075581393344445,
+          0.9171597688890939,
+          0.6555232561779102
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_20",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5188426147640101,
+          0.6642441860933497,
+          0.9191321499117372,
+          0.7136627905569914
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "while integration of (6) over all frequencies yields the well-known Stefan-Boltzmann law",
+        "bbox": [
+          0.5187376653756441,
+          0.7209302320942554,
+          0.9171597628294844,
+          0.7514880954043144
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_22",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.518737672307445,
+          0.7645348833478893,
+          0.917159763176037,
+          0.8110465116345739
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_6",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_6",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2. Estimating a cutoff frequency for zero-point fluctuations",
+        "bbox": [
+          0.08086785186366863,
+          0.8008432539244701,
+          0.4516765202551818,
+          0.8299418603264345
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Suppose Eq. (5) is valid only up to a cutoff frequency Vc, due to new but as yet unknown physics. How might we determine vc? We propose using estimates of the dark energy density to place an upper limit on the value calculated from Eq. (7).",
+        "bbox": [
+          0.5187376652375771,
+          0.8168604648958543,
+          0.9191321582436853,
+          0.8968253969904152
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If Planck [1] and Nernst [3] had used the relation p(v, T) = 8thv2Ü (v, T)/63. ', then instead of Eq. (2)",
+        "bbox": [
+          0.08284023935440553,
+          0.866279069797112,
+          0.4792899376950915,
+          0.8968253967596105
+        ],
+        "order": 24
+      }
+    ]
+  }
+]

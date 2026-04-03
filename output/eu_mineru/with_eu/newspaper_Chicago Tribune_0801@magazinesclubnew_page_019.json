@@ -1,0 +1,707 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "MARKET ROUNDUP",
+        "bbox": [
+          0.04424242424242424,
+          0.05010989010989011,
+          0.18,
+          0.058021978021978025
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_0",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Dow High: 42,931.54 LoW:42,380.75 Previous: 42,706.56 Dow Jones industrials 43,400 Close: 42,528.36 42,780 Change: -178.20 (-0.4%) 42,160 10DAYS 46,000 44,000 42,000 40,000 38,000 J A S O N D Nasdaq S&P500 Russell 2000 V -375.30 (-1.89%) V -66.35 (-1.11%) V -16.85 (-.74%) Close 19,489.68 Close 5,909.03 Close 2,249.80 High 19,940.21 High 6,000.68 High 2,286.18 Low 19,421.02 Low 5,890.68 Low 2,236.55 Previous 19,864.98 Previous 5,975.38 Previous 2,266.65 10-yr T-note Gold futures Yen Euro Crude oil 7 7 7 7 7 +.07 +18.30 +.20 +.0029 +.69 to 4.69% to $2,656.70 to 157.78/$1 to.9656/$1 to $74.25",
+        "bbox": [
+          0.04363636363636364,
+          0.06622710622710623,
+          0.4818181818181818,
+          0.2945054945054945
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_7",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "LOCALSTOCKS",
+        "bbox": [
+          0.5054545454545455,
+          0.06798534798534799,
+          0.5921212121212122,
+          0.07413919413919413
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_2",
+    "source": "visual_seed",
+    "member_count": 31,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.49393939393939396,
+          0.07150183150183151,
+          0.96,
+          0.47413919413919414
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "😂",
+        "bbox": [
+          0.045454545454545456,
+          0.496996336996337,
+          0.4921212121212121,
+          0.618021978021978
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.66,
+          0.49758241758241756,
+          0.8012121212121213,
+          0.5813919413919414
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.813939393939394,
+          0.4981684981684982,
+          0.9545454545454546,
+          0.5591208791208792
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_9",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Illiness",
+        "bbox": [
+          0.5066666666666667,
+          0.49934065934065935,
+          0.5696969696969697,
+          0.5095970695970696
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Illinois is now one of 36 states with high or very high levels of respiratory illness activity, according to the Centers for Disease Control and Prevention.",
+        "bbox": [
+          0.5066666666666667,
+          0.5356776556776557,
+          0.6472727272727272,
+          0.5720146520146521
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Annual vaccines are also available for the fl u and COVID-19. An RSV vaccine is available for pregnant women, adults 75 and older and for those 60 to 74 who are at increased risk of severe RSV. Infants can receive an RSV antibody if their mothers didn't get vaccinated during preg- nancy.",
+        "bbox": [
+          0.813939393939394,
+          0.5605860805860806,
+          0.9545454545454546,
+          0.6323809523809524
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In addition to the increase in respiratory virus activ- ity, the nation has seen a dramatic rise in outbreaks of norovirus — an illness that can cause vomiting and diarrhea. There were 91 suspected or confirmed outbreaks across 14 states (not including Illinois) for the week ending Dec. 5, compared with a maximum of41 outbreaks for that week in each of the previous three years, according to the CDC. Aspokesperson with the Illi- nois Department of Public Health told the Tribune last week that initial analysis showed that norovirus cases in Illinois were slightly above the levels seen in the years right before the pandemic. Hanlth nffininle nonom- mend thorough and frequent hand-washing, tight-fitting masks and good ventilation to help avoid catching the illnesses.",
+        "bbox": [
+          0.5060606060606061,
+          0.5728937728937729,
+          0.6466666666666666,
+          0.6332600732600733
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.66,
+          0.5828571428571429,
+          0.8,
+          0.6142124542124542
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "People with symptoms such as a fever, runny nose, sore throat or cough should consider getting tested early to help avoid spread- ing the illnesses and because treatments for the fl u and COvID-19 are most eff ec- tive when given early in an illness, Vohra said. Those who are ill should self-iso- late or wear masks if they cannot isolate.",
+        "bbox": [
+          0.6606060606060606,
+          0.6147985347985347,
+          0.8,
+          0.6329670329670329
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E, and a fuller lineup of EVs in general are helping, too. \"It's a much smarter buyer,\" Dosanjh said about EV shoppers, adding in particular about Cadillac: \"The overall EV lineup, it's a game-changer for us. We can compete in the same markets at Tesla. We can compete with whoever we need to compete, which wasn't always that way in the past.\"",
+        "bbox": [
+          0.8133333333333334,
+          0.6502564102564102,
+          0.9557575757575758,
+          0.7372893772893773
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Envista, Drury said: \"Brands with affordable vehicles are not giving up a lot. They're absorbing a lot of first-time customers.\"",
+        "bbox": [
+          0.19818181818181818,
+          0.6508424908424908,
+          0.3387878787878788,
+          0.681025641025641
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3521212121212121,
+          0.6511355311355311,
+          0.49272727272727274,
+          0.6754578754578755
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5060606060606061,
+          0.6511355311355311,
+          0.6478787878787878,
+          0.7375824175824176
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6593939393939394,
+          0.6511355311355311,
+          0.8018181818181818,
+          0.7372893772893773
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "S and performance-oriented Dodge Charger Daytona muscle car — the company's fi rst retail EVs from its U.S. brands — are expected to hit dealer lots before the end of the month just as Trump takes off ce.",
+        "bbox": [
+          0.044848484848484846,
+          0.6757509157509157,
+          0.18484848484848485,
+          0.7241025641025641
+        ],
+        "order": 27
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a separate note to inves- tors, Nelson emphasized that for GM, elevated inen tory levels, potential elimi- nation of the federal EV tax credit, weaker sales in China, and its lack of exposure to the fast-growing hybrid market are challenges for the Detroit automaker in 2025. GM plans to reintroduce plug-in hybrids to North America in 2027.",
+        "bbox": [
+          0.3521212121212121,
+          0.6766300366300366,
+          0.49272727272727274,
+          0.7551648351648351
+        ],
+        "order": 28
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Even though the Ford Maverick compact truck has crept up in price since it was unveiled, the small pickup thatrepresents Ford's enty- level has generated a popu- lar following. But recalls and warranty issues have plagued the Dearborn auto- maker. It has been seekingto address those problems with each new vehicle launch, but that can leave older models in limbo.",
+        "bbox": [
+          0.19757575757575757,
+          0.6813186813186813,
+          0.3393939393939394,
+          0.7671794871794871
+        ],
+        "order": 29
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Customers who bought a vehicle six to seven years ago, when they come back, they're not going to be look- ing at a lineup that looks familiar,\" said Drury, noting that the company's defec- tion rate is higher than other brands. \"They chased the upmarket customers and went all in on the Grand Wagoneer. In going upmar- ket, they left behind those that helped start the entire market for them.\"",
+        "bbox": [
+          0.04363636363636364,
+          0.7243956043956044,
+          0.18545454545454546,
+          0.8158241758241759
+        ],
+        "order": 30
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Last year was a recali- bration for the vehicle-sell- ing business, said Inder Dosanjh, CEO of the Cali- fornia Automotive Retailing Group, which has 18 show- rooms in California's San Francisco Bay Area, includ- ing nine GM stores and a Ford store, after selling a Stellantis location last year because its vehicles became too expensive. Increases in inventories, along with high transaction prices and inter- est rates, increased costs and made the market more competitive again.",
+        "bbox": [
+          0.3515151515151515,
+          0.756043956043956,
+          0.49393939393939396,
+          0.8650549450549451
+        ],
+        "order": 32
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Almost three-quarters — 73% − of Ford's inventory is still model-year 2024, according to Edmunds. That's compared to 34% of the industry overall. GM's is 23%.",
+        "bbox": [
+          0.1987878787878788,
+          0.7674725274725275,
+          0.3393939393939394,
+          0.8099633699633699
+        ],
+        "order": 33
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"They were putting heavy incentives on '23s deep into '24,\" Drury said. \"Now they're far behind the competition. I guarantee in March and April, there will be '24 model-year Ford products on dealer lots. It's like: Are we ever going to stop the bleeding?\"",
+        "bbox": [
+          0.19757575757575757,
+          0.8105494505494506,
+          0.3393939393939394,
+          0.8715018315018315
+        ],
+        "order": 34
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But dealers like Mark Trudell, general manager at Extreme Dodge Chrys- ler Jeep Ram in Jackson, are expecting a good 2025 based on the steps the company took around incentives in the fi nal months of 2024 and the communication from upper management like a commit- ment to not leaving retailers hangingifthe plug-in vehicle tax credits go away.",
+        "bbox": [
+          0.04363636363636364,
+          0.8158241758241759,
+          0.18545454545454546,
+          0.8952380952380953
+        ],
+        "order": 36
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Currently 73 % occupied and ideal for an investor or user with remaining almost 4,Ooo sq. ft. of vacant space. High Visibility adjacent to Bob Chinn's and Superdawg. 150 Parking Spaces.",
+        "bbox": [
+          0.5266666666666666,
+          0.8380952380952381,
+          0.9363636363636364,
+          0.8720879120879121
+        ],
+        "order": 37
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Salespeople forgot how to sell cars,\" said Dosanjh, noting the company had to reinstitute regular sales o a  a He's optimistic for 2025 now that interest rates have come down slightly, auto- makers have increased their incentive spending, and they're emphasizing reduc- ing costs to make vehi- cles, particularly EVs, more affordable. Up to 60% of sales at one Dosanjh's stores are EVs, making today's market much different than even a few years ago. \"Its a new era ofusiness,\" he said. \"It's not pre-COVID business. It's a completely new era. ere all leari With EVs having tighter margins than some of the gas- or diesel-powered vehicles, that means cutting costs: keeping inventories around 90 days, reducing marketing spending and limiting hiring in favor of using available digital tech- nologies. With so much of his busi- ness EVs, though, Dosanjh said he's not too worried about the potential for the Trump administration to end the plug-in vehicle tax credit. EVs can be a tough sell, ut many buyers come in knowing more about them than even his own team. A Chevrolet Equinox EV that starts at $33,600, incentives on the Ford Mustang Mach-",
+        "bbox": [
+          0.3527272727272727,
+          0.8647619047619047,
+          0.49333333333333335,
+          0.892014652014652
+        ],
+        "order": 38
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Garret Nelson, analyst at financial insights firm CFRA Research, on Friday cut ayearlong target on Ford shares by $1 to $10.",
+        "bbox": [
+          0.19818181818181818,
+          0.8715018315018315,
+          0.3393939393939394,
+          0.9013919413919413
+        ],
+        "order": 39
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3515151515151515,
+          0.8928937728937729,
+          0.49333333333333335,
+          0.9687912087912088
+        ],
+        "order": 41
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(less than $50 per sq. ft.) On-site inspections December Noon to 2 PM, December 17, January 9, 15 & 21",
+        "bbox": [
+          0.5751515151515152,
+          0.8949450549450549,
+          0.8860606060606061,
+          0.9207326007326008
+        ],
+        "order": 42
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"There's a lot of positiy- ity coming out of the busi- ness centers,\" Trudell said. \"People are all about pric- ing right now. Rates have dropped a little bit, which helps, but aff ordability is the biggest thing right now.\"",
+        "bbox": [
+          0.044848484848484846,
+          0.8955311355311355,
+          0.18484848484848485,
+          0.9441758241758241
+        ],
+        "order": 43
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"While Ford's Q4 sales were stronger than expected, we think it faces its fair share of headwinds entering 2025, namely bloated inven- tory levels, tepid consumer demand due to stubbornly high new vehicle prices an interest rates, and the likely elimination of the federal EV tax credit,\" Nelson wrote in a note. \"In our opinion, the execution of (Ford) manage- ment has also been under- whelming.\"",
+        "bbox": [
+          0.19818181818181818,
+          0.9025641025641026,
+          0.3393939393939394,
+          0.9684981684981685
+        ],
+        "order": 44
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Meanwhile, GM is hittig a bit of a sweet spot with offerings like the Chevy Trax and Equinox and Buick",
+        "bbox": [
+          0.04363636363636364,
+          0.943003663003663,
+          0.18484848484848485,
+          0.9687912087912088
+        ],
+        "order": 45
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Major market growth and decline 5-day % change 30-day % change",
+        "bbox": [
+          0.045454545454545456,
+          0.2994871794871795,
+          0.2818181818181818,
+          0.3170695970695971
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "1-year % change",
+        "bbox": [
+          0.3484848484848485,
+          0.31062271062271063,
+          0.4260606060606061,
+          0.31677655677655675
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.0503030303030303,
+          0.32058608058608057,
+          0.4812121212121212,
+          0.3495970695970696
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "table_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.045454545454545456,
+          0.3575091575091575,
+          0.4824242424242424,
+          0.47384615384615386
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "from Page 1",
+        "bbox": [
+          0.5060606060606061,
+          0.5107692307692308,
+          0.5648484848484848,
+          0.5169230769230769
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "at risk of developing severe cases.",
+        "bbox": [
+          0.5060606060606061,
+          0.5221978021978022,
+          0.6460606060606061,
+          0.5350915750915751
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_19",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_19",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Cars",
+        "bbox": [
+          0.044848484848484846,
+          0.6528937728937729,
+          0.09272727272727273,
+          0.6622710622710622
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "from Page 1",
+        "bbox": [
+          0.044848484848484846,
+          0.6631501831501831,
+          0.09696969696969697,
+          0.6698901098901099
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_40",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_40",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "REaL ESTaTe AUcTION JANUARY 29, 2025 OUT-OF STATE LONG-TERM OWNER DIRECTS SALE",
+        "bbox": [
+          0.5096969696969696,
+          0.7452014652014652,
+          0.9503030303030303,
+          0.8096703296703297
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_41",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_41",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "15,594 SQ. FT. 1-STORY OFFICE BUILDING 307 S. MILWAUKEE AVE., WHEELING, IL",
+        "bbox": [
+          0.5224242424242425,
+          0.8137728937728937,
+          0.9412121212121212,
+          0.8375091575091576
+        ],
+        "order": 35
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "newspaper_Chicago Tribune_0801@magazinesclubnew_page_019",
+    "primary_id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_43",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Chicago Tribune_0801@magazinesclubnew_page_019_43",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Replacement Value in Excess of $2,500,000 Suggested Opening Bid $625,000",
+        "bbox": [
+          0.5387878787878788,
+          0.8744322344322344,
+          0.9248484848484848,
+          0.8943589743589744
+        ],
+        "order": 40
+      }
+    ]
+  }
+]

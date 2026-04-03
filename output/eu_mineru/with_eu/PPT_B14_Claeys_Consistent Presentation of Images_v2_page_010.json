@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_010",
+    "primary_id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_010_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_010_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Monitor Characteristic Curve",
+        "bbox": [
+          0.13333333333333333,
+          0.04888888888888889,
+          0.8706666666666667,
+          0.13066666666666665
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_010_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08333333333333333,
+          0.21155555555555555,
+          0.7733333333333333,
+          0.7608888888888888
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_010",
+    "primary_id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_010_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_010_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Slide Provided by David Clunie, Quintiles Intelligent Imaging",
+        "bbox": [
+          0.158,
+          0.856,
+          0.8593333333333333,
+          0.9013333333333333
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

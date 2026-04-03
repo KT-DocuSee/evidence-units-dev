@@ -1,0 +1,676 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_48",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_48",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.009088391572042229,
+          0.021337799203973884,
+          0.056980274341724535,
+          0.046628922488853454
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "17",
+        "bbox": [
+          0.8669438669991689,
+          0.12790697666101852,
+          0.991683991424313,
+          0.1351744186755009
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HAN",
+        "bbox": [
+          0.9480249475408692,
+          0.3197674422191714,
+          0.9750519748603782,
+          0.3284883718796657
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ANTH",
+        "bbox": [
+          0.8669438678160606,
+          0.4869186050825434,
+          0.9043659046025119,
+          0.4956395347430378
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_49",
+    "source": "visual_seed",
+    "member_count": 41,
+    "elements": [
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_49",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.003900647076819371,
+          0.05729267772123516,
+          0.42931849660437094,
+          0.2709131330425711
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЛИННН ДА, 111 ПАТДАЛЕ, ФІНТ",
+        "bbox": [
+          0.6486486434098627,
+          0.13808139526800356,
+          0.8482328487813581,
+          0.17013888884054984
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ROUE.",
+        "bbox": [
+          0.522606383001914,
+          0.17877907000502413,
+          0.5696465715680813,
+          0.1875000001385713
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ШИВА ДЕЛЕ ВЕСТИСТ Н191 15 , 4451E2000 716426117,1700#40",
+        "bbox": [
+          0.4449064463204654,
+          0.19618055537064646,
+          0.6465696372222641,
+          0.23691860421978203
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EZ#",
+        "bbox": [
+          0.9501039500035023,
+          0.2369186050825435,
+          0.975051975429623,
+          0.24563953474303796
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "БХ\"WKE\", \"T1K\"",
+        "bbox": [
+          0.4449064467227997,
+          0.2543604653296365,
+          0.6424116455329173,
+          0.2631448412961779
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ДИКК2А tIt.",
+        "bbox": [
+          0.6486486479938005,
+          0.2543604653296365,
+          0.8482328513541233,
+          0.27180232534381316
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "#*BE",
+        "bbox": [
+          0.11226611269529774,
+          0.28052325602731104,
+          0.14345114380158375,
+          0.28924418568780536
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЖИТИНАО ВИТА ЛЕТОВИА",
+        "bbox": [
+          0.25363827268699785,
+          0.3226686506309653,
+          0.6881496711106458,
+          0.3313953486965262
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ДН ХКДкД ВРАТАтА КАМАЛАЕХЛ",
+        "bbox": [
+          0.25363827727906013,
+          0.3298611110736627,
+          0.83783783367035,
+          0.3561507934594386
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*J*.",
+        "bbox": [
+          0.09563409543091798,
+          0.35174418647789235,
+          0.12681912653720398,
+          0.36046511613838667
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "H×X17172 14177, #ЕПіДх",
+        "bbox": [
+          0.8669438652995555,
+          0.35319767450544787,
+          0.9937629961497598,
+          0.39534883706861923
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "РЕШ\"К, Ны+: 276101 Mth, Fu 1171,2107077 7 90%.",
+        "bbox": [
+          0.09355509598255432,
+          0.36918604659847143,
+          0.23076922834177002,
+          0.47674418595966833
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "173K17-4568, ⅞\"Э|®\",†£&У ХУ#_#*₩#K1354₩,&2 #₩Ґ$Œ###&*# \\4*Д\"",
+        "bbox": [
+          0.251559253374793,
+          0.37354651205928774,
+          0.7817047767707371,
+          0.39831349184802267
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#11t",
+        "bbox": [
+          0.9480249478007444,
+          0.4026162792467878,
+          0.9750519751202534,
+          0.4113372089072819
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Н, ДОВШаЛікШ",
+        "bbox": [
+          0.09563409605886311,
+          0.49418604642894154,
+          0.22869022805756103,
+          0.501488095325928
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#,14 2HZ, КИЛА К19ТЕ,40004КМ КИ КРА ПНУХЖИВЛЕ ПИСАЛА ЛЕЛ",
+        "bbox": [
+          0.25155925443216653,
+          0.5043604654507605,
+          0.837837815422304,
+          0.5131448414173019
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3 КіЯ, EZH\"A*K\"",
+        "bbox": [
+          0.5488565547265684,
+          0.5101686506790835,
+          0.694386692674679,
+          0.5203488368637093
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "С15 НИттЛЕН.",
+        "bbox": [
+          0.4012474068847936,
+          0.513081395780218,
+          0.5384615372593503,
+          0.5218253966957153
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "206,",
+        "bbox": [
+          0.5930407802557867,
+          0.520337301558632,
+          0.6902286855335529,
+          0.529069767083154
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "GaRA0445.400\"# - МЖДЕН ##*",
+        "bbox": [
+          0.8731808751430798,
+          0.5290697676740528,
+          0.9938250163098598,
+          0.5872093021122239
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЛУВЕЛАШе. НЕ",
+        "bbox": [
+          0.09563409725428929,
+          0.5944767445810899,
+          0.22869022925298724,
+          0.6031976742415843
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЕТ НАТАЛЕТ \"ЗАіД 3*1600 AK. #31",
+        "bbox": [
+          0.8669438669991689,
+          0.6205357143895677,
+          0.991683991424313,
+          0.6701388889801769
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LEHESZAMA. 2009F, t GDP 1X 44X#5%,H2005FF 3715% ПіКНАМЖЕ# Dral 72.1127, Lt 2005 F JEà J 10.6%o",
+        "bbox": [
+          0.25155925044563543,
+          0.6787790699444621,
+          0.3970893957238821,
+          0.7296626984225331
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Н17",
+        "bbox": [
+          0.4898492906305603,
+          0.678779070005024,
+          0.5426195440758,
+          0.6875000001385712
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "АнтА",
+        "bbox": [
+          0.17003545996724678,
+          0.7194767442910585,
+          0.2307692307841309,
+          0.726744185832488
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4N6000 17.",
+        "bbox": [
+          0.39747340473453285,
+          0.7296511629259904,
+          0.48024948113929367,
+          0.7369186044674201
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+*AERATEnDAE",
+        "bbox": [
+          0.41787941959615976,
+          0.7369186048645201,
+          0.5426195440213039,
+          0.7456395345250145
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8#X",
+        "bbox": [
+          0.9480249482165447,
+          0.7456395350970781,
+          0.9750519755360537,
+          0.7543604647575727
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Пітит ГАлііви ін дАРилядилріны 43600 ₴ / прИіл-КлинЕЕ",
+        "bbox": [
+          0.6340956370895391,
+          0.7688492064678869,
+          0.8378378332721599,
+          0.8779761904223508
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AUF* 776MM 2*1 2670 17Ш0417жАЕ",
+        "bbox": [
+          0.8669438686606087,
+          0.8037790699807992,
+          0.993762987340856,
+          0.829941860227534
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "120H771077,A71, K77771 720067 ## 20094 20104\"761\"*724",
+        "bbox": [
+          0.4282744337410069,
+          0.8531746033042847,
+          0.6320166290227273,
+          0.9040697670589294
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ІДКЕТ»?",
+        "bbox": [
+          0.01247401190677044,
+          0.8546511630047211,
+          0.07900207790611939,
+          0.8619186045461507
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ПАДИАЛДЕЕХЕнК",
+        "bbox": [
+          0.07092198086685096,
+          0.8705357143412208,
+          0.21413720900847333,
+          0.877976190531697
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "KERN] 360m \"Susitz\" 449 7 400 Б г, 13 i ho",
+        "bbox": [
+          0.22012324310003875,
+          0.8936084382199014,
+          0.4220374122521108,
+          0.9288194443679363
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1 1200 To",
+        "bbox": [
+          0.8690228703467333,
+          0.9055059523412816,
+          0.9126819128133502,
+          0.9127906974422264
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "→Т, 7 7 EN 8000 CE, 4444^ 7 # 2400 % 75",
+        "bbox": [
+          0.638253638836058,
+          0.911337209515683,
+          0.837837842245023,
+          0.9201388888052131
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "до тАтка нати, міднА",
+        "bbox": [
+          0.012474009404574321,
+          0.9126984125811843,
+          0.21413721741238684,
+          0.9201388887716605
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12 Д 15 , H5M XX 16",
+        "bbox": [
+          0.8856548845626925,
+          0.9374999999098784,
+          0.9916839892418815,
+          0.9462209300434254
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "141,004d Д#77878/17:475 і",
+        "bbox": [
+          0.0124740193265925,
+          0.9709302326631514,
+          0.21413721907895356,
+          0.986918604219782
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19974, TUN HAHMEN WAKх",
+        "bbox": [
+          0.44490644872966834,
+          0.9781746030734804,
+          0.6299376199467006,
+          0.9869186044620302
+        ],
+        "order": 51
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_24",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_24",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "FRESSENE SIEFIETE",
+        "bbox": [
+          0.2515592419941026,
+          0.4113372098014226,
+          0.8357588416727374,
+          0.4680232554329524
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_50",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_50",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5569844076230029,
+          0.5411728691649214,
+          0.8309015012254902,
+          0.7466682459261551
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_13",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_5aedf678eff04d8ebac3692d54103e19_1_13",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "1/10",
+        "bbox": [
+          0.029106028583360255,
+          0.5581395354844543,
+          0.08731808700915536,
+          0.58866279024229
+        ],
+        "order": 31
+      }
+    ]
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_0",
+    "source": "text_cluster",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4. Compute the order of 2 with respect to the prime moduli 3, 5, 7, 11, 13, 17, and 19.",
+        "bbox": [
+          0.16919393455706305,
+          0.08304498269896193,
+          0.8629954775206172,
+          0.12149173394848135
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5. Compute the order of 10 with respect to the modulus 7.",
+        "bbox": [
+          0.1670657089651503,
+          0.1368704344482891,
+          0.7438148443735035,
+          0.1568627450980392
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6. Let ri denote the least nonnegative residue of 10i (mod 7). Compute ri for i = 1, .. . , 6. Compute the decimal expansion of the fraction 1/7 without using a calculator. Can you find where the numbers r1, . . . , r6 appear in the process of dividing 7 into 1?",
+        "bbox": [
+          0.16919393455706305,
+          0.1714725105728566,
+          0.8640595903165735,
+          0.2491349480968858
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7. Compute the order of 10 modulo 13. Compute the period of the frac- tion 1/13.",
+        "bbox": [
+          0.16919393455706305,
+          0.2637447135717032,
+          0.8619313647246608,
+          0.302960399846213
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8. Let p be prime and a an integer not divisible by p. Prove that if a2n = −1 (mod p), then a has order 2n+1 modulo p.",
+        "bbox": [
+          0.16919393455706305,
+          0.3191080353710111,
+          0.8619313647246608,
+          0.3575547866205306
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9. Let m be a positive integer not divisible by 2 or 5. Prove that the decimal expansion of the fraction 1/m is periodic with period equal to the order of 10 modulo m.",
+        "bbox": [
+          0.1670657089651503,
+          0.37216455209534793,
+          0.8629954775206172,
+          0.42983467896962707
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10. Prove that the decimal expansion of 1/m is finite if and only if the prime divisors of m are 2 and 5.",
+        "bbox": [
+          0.1596169193934557,
+          0.44521337946943484,
+          0.8629954775206172,
+          0.48366013071895425
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11. Prove that 10 has order 22 modulo 23. Deduce that the decimal ex- pansion of 1/23 has period 22.",
+        "bbox": [
+          0.1596169193934557,
+          0.499038831218762,
+          0.8619313647246608,
+          0.5382545174932718
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12. Prove that if p is a prime number congruent to 1 modulo 4, then there exists an integer x such that x2 = −1 (mod p).",
+        "bbox": [
+          0.15748869380154296,
+          0.5536332179930796,
+          0.8640595903165735,
+          0.592079969242599
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hint: Observe that and apply Theorem 2.4.",
+        "bbox": [
+          0.19898909284384145,
+          0.5990003844675125,
+          0.3841447193402501,
+          0.6182237600922722
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_10",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.19792498004788509,
+          0.7697039600153787,
+          0.43202979515828677,
+          0.7889273356401384
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13. Prove that if n ≥ 2, then 2n − 1 is not divisible by n.",
+        "bbox": [
+          0.15855280659749935,
+          0.8043060361399462,
+          0.7161479116786379,
+          0.8242983467896963
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hint: Let p be the smallest prime that divides n. Consider the con- gruence 2n = 1 (mod p).",
+        "bbox": [
+          0.19047619047619047,
+          0.8312187620146098,
+          0.8619313647246608,
+          0.87120338331411
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0085_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14. Prove that if p and q are distinct primes, then",
+        "bbox": [
+          0.1596169193934557,
+          0.8850442137639369,
+          0.6512370311252993,
+          0.9058054594386774
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

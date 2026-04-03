@@ -1,0 +1,185 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11",
+    "primary_id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_11",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_11",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11960215957503305,
+          0.04863422426403078,
+          0.20090774582231874,
+          0.07010530651125134
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10",
+        "bbox": [
+          0.3896388520311135,
+          0.1816860470123495,
+          0.4312114870343732,
+          0.1962209300952086
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11",
+    "primary_id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SOUTHWEST SECURITIES",
+        "bbox": [
+          0.11909650959063794,
+          0.06395348860428521,
+          0.2012320297659672,
+          0.07122093014571482
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11",
+    "primary_id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_10",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "nhp tẩy : 200120",
+        "bbox": [
+          0.07183147423643257,
+          0.2018974411150397,
+          0.17868187227467874,
+          0.21670721041244267
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ha at : H g Tà đ h & B N tH 35 ÷ 05 11 th A $ 8#",
+        "bbox": [
+          0.06981519281774072,
+          0.24999999993582525,
+          0.5092402399337996,
+          0.2659883725569073
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Đ/ Ả : 100033",
+        "bbox": [
+          0.07186858326808382,
+          0.2718023260821169,
+          0.1786447632411564,
+          0.2864583333720034
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Htt: iK H| Từ ha H Xố Đ 8 6001 ÷ 1 7 1 t s 22 t",
+        "bbox": [
+          0.06776180376840849,
+          0.31820436517304124,
+          0.48254619643693053,
+          0.3328488370719528
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "this ờn : 518038",
+        "bbox": [
+          0.06975725734301252,
+          0.33700607960930995,
+          0.18075608783066371,
+          0.35340089724922086
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "thp tảg : 400025",
+        "bbox": [
+          0.07180871445534927,
+          0.4067537329611597,
+          0.17870463205086887,
+          0.4217346394930839
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_10",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "& tả | t % | M tr | np tầ | # $ | # i# ** | 021-68415309 | 18621310081 | jst@swsc.com.cn | # $ | H SÌ | ĐH 1 42 37 | 15642960315 | 15642960315 | clw@swsc.com.cn | # $ | i7 t i7 | ĐH 1 43 F7 | 13122900886 | 13122900886 | tsz@swsc.com.cn | # $ | #H7 | Đ) 1 42 37 | 18502146429 | 18502146429 | xsy@swsc.com.cn | # $ | * 71) | ĐH 1 42 J7 | 18616243268 | 18616243268 | cyryf@swsc.com.cn | # $ | i * | ĐH 17 42 | 13127920536 | 13127920536 | wyyt@swsc.com.cn | # $ | 3K F. t/t | ĐH 1÷ 42 F7 | 18957157330 | 18957157330 | zymyt@swsc.com.cn | # $ | I%. Fa Fa | 42 | 17863111858 | 17863111858 | cyyyt@swsc.com.cn | # $ | # 19 | 4 1 4 | 18801732511 | 18801732511 | yfliyu@swsc.com.cn | # $ | Đ/ 1$ 43 F92 | 13262983309 | 13262983309 | bly@swsc.com.cn | # $ | Đ/ 1 42 F72 | 18062608256 | 18062608256 | Isyu@swsc.com.cn | # $ | 18817337408 | 18817337408 | tjw@swsc.com.cn | # $ | lR) 4E | 17275202601 | 17275202601 | kyu@swsc.com.cn | # $ | 1/% ĐÈ Fa | ĐH 1 43 37 | 15026480118 | 15026480118 | wxyang@swsc.com.cn | # $ | # t3) | Đ/ 1 ố H | 18601139362 | 18601139362 | yfly@swsc.com.cn | # $ | 3K i | đh 1 ău ớ lá | 18601241803 | 18601241803 | zhanglan@swsc.com.cn | # $ | t3) TX | TN | 15652285702 | 15652285702 | yangwei@swsc.com.cn | # $ | E -* | Đi 1 43 37 | 18040060359 | 18040060359 | wyf@swsc.com.cn | # $ | *E Át | 15652026677 | 15652026677 | yhang@swsc.com.cn | # $ | #] # Tie | 18800123955 | 18800123955 | hax@swsc.com.cn",
+        "bbox": [
+          0.07015618730527756,
+          0.46195031842614853,
+          0.9301448764397658,
+          0.8899898170405983
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11",
+    "primary_id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_4",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_8e0ecdad6ea6edd7014a328fa79e4b69230c1b4f82cc031dd247c3c1c39744cf.pdf_11_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "H6 À",
+        "bbox": [
+          0.0718685842641674,
+          0.22817460306509113,
+          0.10882956861057588,
+          0.24131944433493255
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

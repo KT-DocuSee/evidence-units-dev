@@ -1,0 +1,198 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where the differenceperators t,  are hediscretiation f, and theiffrence perators , x, are thedisretiati of a  ifeatpe san  al vation laws for the different numerical methods.",
+        "bbox": [
+          0.07348618360848604,
+          0.10771799535324791,
+          0.9351116864179847,
+          0.15080519349454707
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_1",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.1. Symplectic method for Maxwel's equations",
+        "bbox": [
+          0.07532333819869819,
+          0.16426994291370306,
+          0.39315108230540025,
+          0.17773469233285905
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The following method is constructed based on the method of ines, ie. discretizing the Hamiltonian PDEs in space, then applying the symplectic method to the resulting Hamiltonian ODEs (e for example[6,2]). Later, we will show the method is also multisymplectic in the corresponding statement of multisymplecticity.",
+        "bbox": [
+          0.07164902901827389,
+          0.19119944175201506,
+          0.9369488410081969,
+          0.23428663989331422
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For Maxwel's equations in Hamiltonian form, we use the central fnite diference in space (which is leapfrog discretiza tion) and implicit midpoint rule(hich s spletic) in tie, t is asy to show that the Hamiltonian forulations in 5) an (7) for Maxwell's equations reduce to the same discretized system,",
+        "bbox": [
+          0.07164902901827389,
+          0.2356331148352298,
+          0.9351116864179847,
+          0.2773738380346134
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where inices , denote spatial ineentsnd indeenotes tie eent, and atrices, Ka in ().efe to this particular discretization as the symplectic method, though it is also multisymplectic.",
+        "bbox": [
+          0.07532333819869819,
+          0.31103571158250337,
+          0.9332745318277725,
+          0.3406581603046465
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The symplectic method (1) is second-order in space and time, and is unconditionally stable. Furthermore, this discrete systemprseves o discretized lal consevation ws: he frst oe is the discete quadratic al coneration la ased on(8),",
+        "bbox": [
+          0.07348618360848604,
+          0.3406581603046465,
+          0.9351116864179847,
+          0.3823988835040301
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The second discretized global conservation law for symplectic method is based on the helicity Hamiltonian functional (6)",
+        "bbox": [
+          0.07164902901827389,
+          0.4214466568195825,
+          0.925925913466924,
+          0.43625788118065406
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where × = R1∂x + R2∂x2 + R3∂x3. Furthermore, the scheme (18) is proved to be multisymplectic, ince it preserves he fol- lowing multisymplectic conservation law",
+        "bbox": [
+          0.07348618360848604,
+          0.4793450793219532,
+          0.9351116864179847,
+          0.5089675280440964
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Besides the global conservation laws, for the scheme (18) applied to Maxwel's equations, we also have the following local conservation laws based on (13)–(15):",
+        "bbox": [
+          0.07348618360848604,
+          0.5816771749075388,
+          0.938785995598409,
+          0.6112996236296819
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The discrete quadratic conservation law is",
+        "bbox": [
+          0.09553203869103184,
+          0.6112996236296819,
+          0.39315108230540025,
+          0.6247643730488379
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The discrete energy conservation law is",
+        "bbox": [
+          0.07532333819869819,
+          0.6934345950865335,
+          0.35457083591094507,
+          0.708245819447605
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The discrete momentum conservation law is",
+        "bbox": [
+          0.07348618360848604,
+          0.7823019412529629,
+          0.3876396185347638,
+          0.7971131656140346
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

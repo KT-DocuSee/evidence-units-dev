@@ -1,0 +1,399 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(by elementary algebra, or Cramer's rule), so the center of the circle is rational. This proves the desired result.",
+        "bbox": [
+          0.12705882352941175,
+          0.06666666666666667,
+          0.49098039215686273,
+          0.09575757575757576
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.06666666666666667,
+          0.9192156862745098,
+          0.09575757575757576
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: The above solution is deliberately more ver- bose than is really necessary. A shorter way to say this is that any two distinct rational points determine a ra- tional line (a line of the form ax + by + c = 0 with a, b, c rational), while any two nonparallel rational lines inter- sect at a rational point. A similar statement holds with the rational numbers replaced by any fi eld.",
+        "bbox": [
+          0.12705882352941175,
+          0.1006060606060606,
+          0.49019607843137253,
+          0.20242424242424242
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Conversely, if this holds, then the Cauchy-Schwarz in- equality and the above analysis imply that C lies in H.",
+        "bbox": [
+          0.556078431372549,
+          0.13636363636363635,
+          0.9192156862745098,
+          0.16666666666666666
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If r is the radius of C, then",
+        "bbox": [
+          0.5576470588235294,
+          0.1709090909090909,
+          0.7341176470588235,
+          0.18545454545454546
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: A more explicit argument is to show that the equation of the circle through the rational points (x1, y1), (x2, y2), (x3, y3) is",
+        "bbox": [
+          0.12627450980392158,
+          0.20727272727272728,
+          0.49019607843137253,
+          0.25212121212121213
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "so r ≤ √2. Since this is achieved by the circle through (1, 1, 0, 0) and (O, 0, 1, 1), it is the desired maximum.",
+        "bbox": [
+          0.5576470588235294,
+          0.30606060606060603,
+          0.9192156862745098,
+          0.33636363636363636
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which has the form a(x2 + y2) + dx + ey + f = 0 for a, d,e, f rational. The center of this circle is (−d/(2a), −e/(2a)), which is again a rational point.",
+        "bbox": [
+          0.12705882352941175,
+          0.336969696969697,
+          0.49098039215686273,
+          0.38303030303030305
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: One may similarly ask for the radius of the largest k-dimensional ball inside an n-dimensional unit hypercube; the given problem is the case (n, k) = (4, 2). Daniel Kane gives the following argument to show that the maximum radius in this case is 2 √. (Thanks for Noam Elkies for passing this along.)",
+        "bbox": [
+          0.5568627450980392,
+          0.3406060606060606,
+          0.9192156862745098,
+          0.42787878787878786
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−2 We claim that Fn(x) = (1nx − an)xn/n!, where an = ∑k=1 1/k. Indeed, temporarily write Gn(x) = (1nx − an)xn /n! for x > 0 and n ≥ 1; then imx→0Gn(x) = 0 and Gn() = (1nx − an + 1/n)xn−1/(n − 1)! = Gn−1(x), and the claim follows by the Fundamental Theorem of Calculus and induction on n.",
+        "bbox": [
+          0.09333333333333334,
+          0.39090909090909093,
+          0.49098039215686273,
+          0.4781818181818182
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We again scale up by a factor of 2, so that we are trying to show that the maximum radius r of a k-dimensional ball contained in the hypercube [−1, 1 is √. Again, there is no loss of generality in centering the ball at the origin. Let T : Rk → Rn be a similitude carrying the unit ball to this embedded k-ball. Then there exists a vector vi ∈ Rk such that for e1, . . ., en the standard basis of Rn, x · vi = T (x) · ei for all x ∈ Rk. The condition of the problem is equivalent to requiring |vi| ≤ 1 for all i, while the radius r of the embedded ball is determined by the fact that for all x ∈ Rk,",
+        "bbox": [
+          0.5568627450980392,
+          0.43272727272727274,
+          0.92,
+          0.5921212121212122
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Given the claim, we have Fn(1) = −an/n! and so we eed oeal→ i ef 1/x is strictly decreasing forx positive, ∑κ−21/k= an− 1 is bounded below by J2 dx/x = Inn − In 2 and above by J∫n dx/x = 1nn. It follows that imn→∞ an = 1, and the desired limit is –1.",
+        "bbox": [
+          0.12705882352941175,
+          0.48303030303030303,
+          0.49019607843137253,
+          0.5703030303030303
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−3 The largest possible radius is  . It wil e convenient to solve the problem for a hypercube of side length 2 instead, in which case we are trying to show that the largest radius is √2.",
+        "bbox": [
+          0.09411764705882353,
+          0.5787878787878787,
+          0.49019607843137253,
+          0.64
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Choose coordinates so that the interior of the hypercube is the set H = [−1, 1]4 in R4. Let C be a circle centered at the point P. Then C is contained both in H and its refl ection across P; these intersect in a rectangular par- alellepiped each of whose pairs of opposite faces are at most 2 unit apart. Consequently, if we translate C so that its center moves to the point O = (O, 0, 0, 0) at the center of H, then it remains entirely inside H.",
+        "bbox": [
+          0.12705882352941175,
+          0.6442424242424243,
+          0.49019607843137253,
+          0.7606060606060606
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let M be the matrix with columns v1, .., vk; then MMT = r2Ik, for Ik the k × k identity matrix. We then have",
+        "bbox": [
+          0.556078431372549,
+          0.6496969696969697,
+          0.9192156862745098,
+          0.6921212121212121
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This means that the answer we seek equals the largest possible radius of a circle C contained in H and centered at 0. Let v1 = (v11, .,v14) and v2 = (v21, . ., v24) be two points on C lying on radi perpen- dicular to each other. Then the points of the circle can be expressed as v1 cos θ + v2 sin θ for 0 ≤ θ < 2π. Then C lies in H if and only if for each i, we have",
+        "bbox": [
+          0.12705882352941175,
+          0.7654545454545455,
+          0.49098039215686273,
+          0.8672727272727273
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_17",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "yielding te upper bound ≤ √.",
+        "bbox": [
+          0.5576470588235294,
+          0.7915151515151515,
+          0.7843137254901961,
+          0.8084848484848485
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To show that this bound is optimal, it is enough to show that one can fi nd an orthogonal projection of IRn onto Rk so that the projections of the ei all have the same norm (one can then rescale to get the desired configuration of v1, . ., vn). We construct such a configuration by a \"smoothing\" argument. Startw with any projection. Let",
+        "bbox": [
+          0.5568627450980392,
+          0.8115151515151515,
+          0.9192156862745098,
+          0.8987878787878788
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In geometric terms, the vector (vi, v2i) in R2 has dot product at most 1 with every unit vector. Since this holds for the unit vector in the same direction as (v1i, v2i), we must have",
+        "bbox": [
+          0.12627450980392158,
+          0.9054545454545454,
+          0.49019607843137253,
+          0.9357575757575758
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

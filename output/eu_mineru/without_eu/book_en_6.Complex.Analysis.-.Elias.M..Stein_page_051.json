@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_0",
+    "text": "2 Cauchy's Theorem and tss",
+    "canon_role": "section_header",
+    "bbox": [
+      0.26666666666666666,
+      0.08606060606060606,
+      0.7223529411764706,
+      0.15454545454545454
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_1",
+    "text": "The solution of a large number of problems can be reduced, in the last analysis, to the evaluation of def- inite integrals; thus mathematicians have been much occupied with this task.. However, among many re- sults obtained, a number were initially discovered by the aid of a type of induction based on the passage from real to imaginary. Often passage of this kind led directly to remarkable results. Nevertheless this part of the theory, as has been observed by Laplace, is subject to various difficulties...",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.403921568627451,
+      0.20666666666666667,
+      0.756078431372549,
+      0.34363636363636363
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_2",
+    "text": "After having reflected on this subject and brought together various results mentioned above, I hope to establish the passage from the real to the imaginary based on a direct and rigorous analysis; my researches have thus led me to the method which is the object of this memoir...",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4031372549019608,
+      0.34484848484848485,
+      0.756078431372549,
+      0.4260606060606061
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_3",
+    "text": "A. L. Cauchy, 1827",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6266666666666667,
+      0.42787878787878786,
+      0.7552941176470588,
+      0.4406060606060606
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_4",
+    "text": "In the previous chapter, we discussed several preliminary ideas in com- plex analysis: open sets in C, holomorphic functions, and integration along curves. The first remarkable result of the theory exhibits a deep connection between these notions. Loosely stated, Cauchy's theorem says that if f is holomorphic in an open set Ω and γ C Ω is a closed curve whose interior is also contained in Ω then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24627450980392157,
+      0.4951515151515152,
+      0.7874509803921569,
+      0.5927272727272728
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_5",
+    "text": "Many results that follow, and in particular the calculus of residues, are related in one way or another to this fact.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24627450980392157,
+      0.6496969696969697,
+      0.7874509803921569,
+      0.6812121212121212
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_6",
+    "text": "A precise and general formulation of Cauchy's theorem requires defin- ing unambiguously the \"interior\" of a curve, and this is not always an easy task. At this early stage of our study, we shall make use of the device of limiting ourselves to regions whose boundaries are curves that are \"toy contours.\" As the name suggests, these are closed curves whose visualization is so simple that the notion of their interior will be unam-",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24627450980392157,
+      0.683030303030303,
+      0.7874509803921569,
+      0.7806060606060606
+    ],
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051",
+    "order": 7
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(HA 1000 15, 850 SALL LIVE)",
+        "bbox": [
+          0.3379174862039295,
+          0.19912790730255733,
+          0.6620825129774719,
+          0.22247023855306602
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239_2",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "- 11 47. 45 7 1* (120 %) | 20 | 7, 1 3 | 41 20 1 | #t zix iz 1 1 i E | - 11 47. 45 7 1* (120 %) | # 11#1 | 20 | F | Fait til No 717 1 | - 11 47. 45 7 1* (120 %) | 30 | 178, HE HAt At | 417 10 1; EliXiEt 101 | - 11 47. 45 7 1* (120 %) | $ 113 117 | 30 | 11 ‡ | 173K17 30 10; to 15 10; 147171 | - 11 47. 45 7 1* (120 %) | 20 | T 1H17 20 1; HER 4917 10 10; 12 TEA HIT171 | * A 7 F*, | (150 %) | 25 | HITE, IIE.",
+        "bbox": [
+          0.10641634528012199,
+          0.2380143418142447,
+          0.8977182969690006,
+          0.8996302789379015
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

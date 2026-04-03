@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_The Right Moves_page_016",
+    "primary_id": "docling_PPT_The Right Moves_page_016_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_The Right Moves_page_016_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.4997628479003906,
+          0.00011067837476730347,
+          0.9994324951171875,
+          0.1636563517252604
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_The Right Moves_page_016",
+    "primary_id": "docling_PPT_The Right Moves_page_016_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_The Right Moves_page_016_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ESL programs at secondary school",
+        "bbox": [
+          0.010174417371344485,
+          0.01744186054532262,
+          0.47093023484522534,
+          0.15906084622443753
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_The Right Moves_page_016",
+    "primary_id": "docling_PPT_The Right Moves_page_016_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_The Right Moves_page_016_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The framework of ESL programs in secondary school differs significantly from the framework of ESL programs in elementary school.",
+        "bbox": [
+          0.05959302578150683,
+          0.37790697587336075,
+          0.9011627795616807,
+          0.5562169302023418
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "scihub_AEM.01420-09.pdf_3",
+    "primary_id": "docling_scihub_AEM.01420-09.pdf_3_10",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_scihub_AEM.01420-09.pdf_3_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 3. Mapping of transposon insertions sites that result in white phenotype in C. sakazaki ESS",
+        "bbox": [
+          0.19649805894434222,
+          0.08720930278996573,
+          0.8015564224953465,
+          0.10174418587282485
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_scihub_AEM.01420-09.pdf_3_10",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "COG functional category\" | COG functional class | Annotation'.,e | Annotation'.,e | Homologue | Gene product | Mutation in pigment operon | H: coenzyme transport and metabolism | Geranylgeranyl pyrophosphate synthase crE | Geranylgeranyl pyrophosphate | GC: carbohydrate transport and metabolism/signal transduction mechanisms | Glucosyl transferases, related to UDP- crtX glucosyltransferase | Zexiin glucosy transferase | R/E: general function prediction only/amino acid transport and metabolism | Acetyltransferase/choline dehydrogenase and related flavoproteins | crtY | Lycopene cyclase | Q: secondary metabolites biosynthesis, transport and catabolism | Phytoene dehydrogenase and related proteins | crtl | Phytoene dehydrogenase | I: lipid transport and metabolism | Phytoene/squalene synthase | crtB | Phytoene synthase | Mutation outside pigment operon | C: energy production and conversion | F.F, -type ATP synthase, subunit alpha F.E,-type ATP synthase, subunit beta F.F, -type ATP synthase, subunit | ESA. 04012 ESA_04007 | F,F, ATP synthase subunit alpha EF; ATP synase subuni beta gamma | gamma F.F,-type ATP synthase, subunit epsilon (mitochondrial delta subunit) | ESA_04005 | F.F, ATP synthase subunit epsilon | Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acetyltransferase (E1) component, and related enzymes | ESA_02622 | SUCA 2-oxoglutarate dehydrogenase E1 component | Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acetyltransferase (E2) component, and related enzymes | ESA_02621 | Dihydrolipoamide acetyltransferase | Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acetyltransferase (E3) component, and related enzymes | ESA_03222 | aceF dihydrolipoamide acetyltransferase | Malate/lactate dehydrogenases | ESA_03622 | Malate dehydrogenase | Succinate dehydrogenase/fumarate reductase, flavoprotein subunit | ESA_02624 | Succinate dehydrogenase flavoprotein subunit | P: inorganic ion transport and metabolism | Nat/H† antiporter | ESA_03316 | pH-dependent sodium/proton antiporter | T: signal transduction mechanisms | CAMP-binding proteins, catabolite gene | ESA_04376 | CAMP regulatory protein | DnaK suppressor protein | ESA_03194 | Dnak transcriptional regulator DksA | S: function unknown | Uncharacterized conserved protein | ESA_04343 (Ent638_ 3811)4 | Hypothetical protein (intracellular growth attenuator IgA, Enterobacter sp. 638)d | ESA_03563 (ETA_03450)d | Hypothetical protein (YhbC-like Frein, Ervinia tasmaniensis | ESA_00549 (AAG53883)* | Hypothetical protein (sigma factor RpoS, Escherichia coli)",
+        "bbox": [
+          0.07250714111328126,
+          0.10457163843615301,
+          0.9262836538461539,
+          0.7457649739583333
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_scihub_AEM.01420-09.pdf_3_4",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "a NCBI clusters of orthologous groups (COG) of proteins.",
+        "bbox": [
+          0.08365759612194455,
+          0.7514534885299442,
+          0.3910505827691059,
+          0.7616567459695726
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_scihub_AEM.01420-09.pdf_3_6",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "*Nomaserbay AT ACC haz hi comp ween the for ent apons race in en peon facession no. POO 1).",
+        "bbox": [
+          0.08171206445198528,
+          0.7601686503897387,
+          0.774319077804824,
+          0.7834821424532309
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_scihub_AEM.01420-09.pdf_3_5",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "d Closest annotated homolog.",
+        "bbox": [
+          0.0854516227648968,
+          0.7813831157643436,
+          0.2394057930628716,
+          0.7915981209956257
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_scihub_AEM.01420-09.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(data not shown), consistently with the results for LB, all mutant strains showed significantly increased maximum rates of growth (maxv, 0.14; мтахдспх, 0.22; мтахдснЕ, 0.24; and мтахдену, 0.19; Р = 0.000).",
+        "bbox": [
+          0.07198443632558056,
+          0.8328373018116603,
+          0.48638133278920526,
+          0.8896329362957799
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_scihub_AEM.01420-09.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cold stress experiments were performed by growing AcrtE, AcrtX, and AcrtY in LB and M9 medium at 10°C (for results in M9, see Fig. 1B). Under these conditions, no significant dif- ferences in maximum specific growth rates were detected for AcrtY, AcrtE, and AcrtX in both LB and M9 compared to those of the wild type (in LB, umaxw = 0.04, umaxcrx = 0.03, umaxAcE = 0.03, and maxery = 0.04; in M9, maxwe = 0.01, мтахдсих = 0.01, мтахдсне = 0.01, and мтах дону = 0.01).",
+        "bbox": [
+          0.0739299609579861,
+          0.8880813952902974,
+          0.48638131825276426,
+          0.9303075396255323
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_scihub_AEM.01420-09.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To evaluate growth under acidic conditions, wild-type and",
+        "bbox": [
+          0.5291828840818661,
+          0.9171511628857747,
+          0.9260700262683285,
+          0.9288194443084957
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

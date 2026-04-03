@@ -1,0 +1,211 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "nociceptors, can be released following high frequency stimulation of nociceptive primary afferent fibers (Lever et al., 2001), and plays an important role in regulating inflammatory pain thresholds and secondary hyperalgesia (Thompson et al., 1999; Zhao et al., 2006). On the other hand exogenously applied BDNF causes thermal analgesia and attenuates mechanical allodynia (Siuciak et al., 1994; Cejas et al., 2000).",
+        "bbox": [
+          0.12677078048045953,
+          0.09593023320521064,
+          0.4828388612498087,
+          0.20784883664801862
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_8",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_8",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Electrophysiological Recordings",
+        "bbox": [
+          0.5173076941433399,
+          0.18601190488605152,
+          0.7961538387412757,
+          0.2006448413939881
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "At the cellular level, the neurotrophin is able to potentiate glutamatergic synaptic transmission between primary afferent fibers and dorsal horn neurons, by modulating postsynaptic NMDA receptors (Slack et al., 2004; Garraway et al., 2003). Recent evidence has been provided that BDNF, acting on trkB receptors, causes an increase of spontaneous glutamate release in dorsal horn lamina II, both in control animals and during inflammation (Bardoni et al., 2004; Matayoshi et al., 2005).",
+        "bbox": [
+          0.12499999527155746,
+          0.20930232572007712,
+          0.4846153893438272,
+          0.3517441856984062
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Slice Preparation. Postnatal Sprague-Dawley rats were anesthetized with halothane and decapitated, the spinal cord and vertebrae were rapidly removed and placed in ice-cold Krebs' solution (composition in mM: 125 NaCI, 2.5 KCI, 1.25 NaH2P04, 26 NaHCO3, 25 glucose, 1 MgCl, and 2 CaCh, pH 7.4, 320 mOsm), bubbled with carboxygen (95% 02, 5% COz). The lumbar part of the spinal cord was isolated, laid down on an agarose block, and transverse slices (500 um thick) were obtained using a vibrating microtome (Campden Instruments, UK). Slices were incubated in oxygenated Krebs' solution at 35°C for 1 h and used for recording within 6-7 h.",
+        "bbox": [
+          0.5173076832954661,
+          0.2107558139322864,
+          0.8751389550954488,
+          0.3579800424861571
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Nonetheless, a modulatory action of BDNF on inhibitory synaptic transmission in dorsal horn has also been reported: BDNF released from microglia cells causes a modulation of Cl-transporter expression in lamina I neurons, and a shift of chloride equilibrium potential to positive values (Coull et al., 2005). Moreover, the application of BDNF to the isolated adult rat spinal cord increases KCI-evoked GABA content in the collected superfusate (Pezet et al., 2002).",
+        "bbox": [
+          0.12675193014153852,
+          0.3516865080288519,
+          0.4828345583578467,
+          0.48115079367319646
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Patch-Clamp Recording and Focal Synaptic Stimulation. Patch-clamp recording in whole-cell configuration was performed on visually identified lamina Il neurons at room temperature. Neurons were visualized by using a Zeiss Axioskop microscope, fitted with Nomarski optics and connected to a camera (Dage-MTI, USA). Slices were perfused at 12 mL/min. Thick-walled borosilicate pipettes, having a resistance of 3-5 m, were filled with a solution having the following composition (in mM): 130 Cs-gluconate, 10 CsCl, 11 EGTA, 1 CaCk, 10 HEPES, and 2 Mg + -ATP, pH adjusted to 7.2 with NaOH, osmolarity adjusted to 305 with sucrose. Junction potential was corrected after recording.",
+        "bbox": [
+          0.5192307720775168,
+          0.37645348838965076,
+          0.8750000090122262,
+          0.5364583333151647
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The role of BDNF in regulating GABAergic and glycinergic transmission in dorsal horn, however, has not been fully investigated. Furthermore, although the distribution of full length (fl) functional trkB receptors has recently been investigated in rat and mouse lamina II (Salio et al., 2005), the presence of these receptors on inhibitory interneurons in dorsal horn has not been reported yet. In this study, we tested the hypothesis that BDNF can control the release of GABA and glycine in superficial dorsal horn. Since local GABAergic and glycinergic inhibition is critical for gating of nociceptive transmission (Malcangio and Bowery, 1996), any effect of BDNF on inhibitory synapses could have a great impact on pain signaling, especially in pathological conditions of persistent pain. By using the patch-clamp technique, we have studied the modulatory effects of BDNF on spontaneous and evoked release of GABA and glycine in lamina II neurons from neonatal rats. Furthermore, by performing ultrastructural immunocytochemical studies, we have determined the pattern of expression of fl-trkB receptors at GABAergic synapses in this lamina.",
+        "bbox": [
+          0.12499999527155746,
+          0.4825581397459083,
+          0.4846153869592119,
+          0.7936507934617715
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Data were recorded and acquired using a Multiclamp 700A amplifier and pClamp 9 software (Molecular Devices, USA). Sampling rate was 10 kHz, and data were filtered at 2 kHz. Both miniature inhibitory postsynaptic currents (mIPSCs) and evoked inhibitory postsynaptic currents (eIPSCs) were recorded in Krebs' solution, in constant presence of 10 MM NBQX and 50 M D-APV; only for mIPSCs recording, 0.5 uM tetrodotoxin (TTX) was added to the bath solution.",
+        "bbox": [
+          0.5192307602826455,
+          0.5391865081630891,
+          0.8750000090122262,
+          0.643895348636965
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Evoked IPSCs were obtained by focally stimulating the tissue around the recorded cell with a patch-clamp pipette, filled with Krebs' solution. The second pole was represented by a silver wire placed close to the slice. Stimuli had intensities of 0.1-1 mA and duration of 0.05-0.1 ms. Evoked IPSCs with constant latency and no failures during 1 Hz stimulation were considered monosynaptic and tested for BDNF.",
+        "bbox": [
+          0.5173076932020685,
+          0.6468023254536043,
+          0.8750000075298547,
+          0.7558139536958943
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Data Analysis and Statistics. Miniature IPSC amplitudes, frequencies, and kinetics were determined using Minianalysis software (Synaptosoft, Decatur, USA). Detection threshold for mIPSCs was set at 8-10 pA. Selection of mIPSCs was performed manually and events with rise-time higher than 3 ms were usually discarded (the exclusion of slower events did not affect the results of the analysis). Analysis of mIPSCs was performed on the same time window (10 min) during control and when the BDNF effect was stabilized.",
+        "bbox": [
+          0.5192307624701454,
+          0.7732558141113394,
+          0.8750000075298547,
+          0.8924418598180451
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "METHODS",
+        "bbox": [
+          0.1269230785994982,
+          0.8139534884259879,
+          0.21923076736204022,
+          0.8255813952707173
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_6",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_6",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Animals",
+        "bbox": [
+          0.1269230763462993,
+          0.8430232556391346,
+          0.1961538454229315,
+          0.8561046510759815
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20401.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Experiments were carried out in Sprague-Dawley postnatal rats, ranging in age from 8 (P8) to 30 days (P30). Patch- clamp experiments were carried out in P8-P16 animals, whereas histology was performed in young-adult rats (P25P30). All experimental procedures were in strict accordance with the Italian and EU regulation on animal welfare, and previously authorized by the Italian Ministry of Health.",
+        "bbox": [
+          0.12692307739802985,
+          0.867732558118333,
+          0.4826923152221622,
+          0.8924418603264345
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

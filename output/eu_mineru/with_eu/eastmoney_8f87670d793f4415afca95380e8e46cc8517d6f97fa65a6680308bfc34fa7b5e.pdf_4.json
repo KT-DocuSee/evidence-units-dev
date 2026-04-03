@@ -1,0 +1,179 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4",
+    "primary_id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.05965336557839581,
+          0.08493658258515036,
+          0.9423619508262797,
+          0.23599828986746474
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4",
+    "primary_id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_1",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：中证指数公司、开源证券研究所",
+        "bbox": [
+          0.062071745264006446,
+          0.23884851075958385,
+          0.35066505441354295,
+          0.2519595268633319
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4",
+    "primary_id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "对比恒生A股专精特新 50指数与中证全指，恒生A股专精特新50指数直接将 北交所内较核心的专精特新公司包含在内，10只标的总权重达到2.70%，至2024 年1月23日总市值达到308.59亿元。而北交所内专精特新“小巨人”企业现阶段总 市值为2250.18亿元，指数内10只标的市值占比为13.71%，具有一定代表性。",
+        "bbox": [
+          0.2958484482063684,
+          0.26507054296707994,
+          0.9407496977025392,
+          0.3374661536269061
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4",
+    "primary_id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_3",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2、被动资金持续利于提升机构持仓，国际投资者有望引",
+        "bbox": [
+          0.2958484482063684,
+          0.466866182129115,
+          0.9076985086658605,
+          0.4873877725523728
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "此轮恒生A股专精特新50指数发布预计为北交所入选标的带来较大量的被动 投资资金，进一步提升机构持仓比例。",
+        "bbox": [
+          0.2958484482063684,
+          0.49650847940715404,
+          0.9391374445787989,
+          0.5324212626478552
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "以吉林碳谷(836077.BJ)为例。以目前披露出的2023年公募基金持仓情况来看， 2023Q4吉林碳谷的公募基金总持仓为641.11万股，占流通A股的2.35%，对应总市 值（以2024年1月23日市价计算）8719.10万元。",
+        "bbox": [
+          0.294236195082628,
+          0.543252102037908,
+          0.9399435711406691,
+          0.5962662106313239
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表4：2023Q4吉林碳谷的公募基金总持仓为641.11万股，占流通A股的2.35%",
+        "bbox": [
+          0.060459492140266025,
+          0.6082371383782244,
+          0.6723095525997581,
+          0.6241983753740915
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4",
+    "primary_id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.058847239016525596,
+          0.6259085079093629,
+          0.9463925836356308,
+          0.9126407296565484
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4",
+    "primary_id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_8f87670d793f4415afca95380e8e46cc8517d6f97fa65a6680308bfc34fa7b5e.pdf_4_8",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：Wind、开源证券研究所",
+        "bbox": [
+          0.062071745264006446,
+          0.9143508621918198,
+          0.29343006852075776,
+          0.9280319224739917
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

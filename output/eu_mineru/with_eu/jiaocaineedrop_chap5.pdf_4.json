@@ -1,0 +1,136 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chap5.pdf_4",
+    "primary_id": "mineru_jiaocaineedrop_chap5.pdf_4_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_chap5.pdf_4_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(d)",
+        "bbox": [
+          0.11529411764705882,
+          0.09272727272727273,
+          0.14352941176470588,
+          0.1096969696969697
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_chap5.pdf_4_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Parsing stack Input Action 1 $0 int x,y,z$ shift 3 2 $0int3 x,y,z$ reduce2 3 $0T2 x,y,z$ shift 6 4 $0T2id6 ,y,z$ reduce 5 5 $0T2V5 Y,z$$ shift 7 6 $0T2V5,7 y,z$$ shift 8 7 $0T2V5,7id8 ,z$ reduce 4 8 $0T2V5 ,z$ shift 7 9 $0T2V5,7 z$ shift8 10 $0T2V5,7id8 6 reduce 4 11 $0T2V5 reduce 1 12| $0D1 $accept [D' → .D , $] D [D' → D ., $ ] [D → .T V , $] [T → . int, id] [T → .float,id] T ① int float ② ↓ id [T → int., id] [ ③ aCous → id., $/,] ⑥ [V → V.,id, ,] [V → V, .id,$/,] id [V  V, id., $/, ⑤ 7 -",
+        "bbox": [
+          0.1419607843137255,
+          0.10121212121212121,
+          0.7850980392156863,
+          0.6915151515151515
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_chap5.pdf_4_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(e)",
+        "bbox": [
+          0.11529411764705882,
+          0.38242424242424244,
+          0.1411764705882353,
+          0.3993939393939394
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chap5.pdf_4",
+    "primary_id": "mineru_jiaocaineedrop_chap5.pdf_4_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_chap5.pdf_4_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(f) The LALR(1) parsing table is the same as the SLR(1) parsing table shown in (c).",
+        "bbox": [
+          0.11372549019607843,
+          0.693939393939394,
+          0.7772549019607843,
+          0.7133333333333334
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_chap5.pdf_4",
+    "primary_id": "mineru_jiaocaineedrop_chap5.pdf_4_4",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_chap5.pdf_4_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Exercise 5.10",
+        "bbox": [
+          0.11607843137254902,
+          0.7478787878787879,
+          0.22980392156862745,
+          0.7654545454545455
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_chap5.pdf_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We use similar language to that on page 210, with appropriate modifi cations:",
+        "bbox": [
+          0.11764705882352941,
+          0.7830303030303031,
+          0.7254901960784313,
+          0.8018181818181818
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_chap5.pdf_4_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The SLR(l) parsing algorithm. Let s be the current state whose number is at the top of the parsing stack. Then actions are defined as follows:",
+        "bbox": [
+          0.11294117647058824,
+          0.8187878787878788,
+          0.836078431372549,
+          0.8527272727272728
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_chap5.pdf_4_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1) If state s contains any item of the form A → α.X β, where X is a terminal, and X is the next token in the input string, then the action is to remove the current input token and push onto the stack the number of the state containing the item A → αX. β.",
+        "bbox": [
+          0.11529411764705882,
+          0.8551515151515151,
+          0.883921568627451,
+          0.9096969696969697
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

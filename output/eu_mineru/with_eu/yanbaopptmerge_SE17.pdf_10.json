@@ -1,0 +1,90 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_SE17.pdf_10",
+    "primary_id": "mineru_yanbaopptmerge_SE17.pdf_10_0",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_SE17.pdf_10_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Interface Design Principles -I",
+        "bbox": [
+          0.072,
+          0.15466666666666667,
+          0.544,
+          0.20444444444444446
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE17.pdf_10_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Anticipation—A WebApp should be designed so that it anticipates the use's next move.",
+        "bbox": [
+          0.09533333333333334,
+          0.23644444444444446,
+          0.9,
+          0.31377777777777777
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE17.pdf_10_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Communication—The interface should communicate the status of any activity initiated by the user",
+        "bbox": [
+          0.12133333333333333,
+          0.3244444444444444,
+          0.9,
+          0.4026666666666667
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE17.pdf_10_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consistency—The use of navigation controls, menus, icons, and aesthetics (e.g., color, shape, layout)",
+        "bbox": [
+          0.124,
+          0.41333333333333333,
+          0.8493333333333334,
+          0.49333333333333335
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE17.pdf_10_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Controlled autonomy——The interface should facilitate user movement throughout the WebApp, but it should do so in a manner that enforces navigation conventions that have been established for the application.",
+        "bbox": [
+          0.12333333333333334,
+          0.5013333333333333,
+          0.9013333333333333,
+          0.6204444444444445
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE17.pdf_10_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Efficiency—The design of the WebApp and its interface should optimize the user's work efficiency, not the efficiency of the Web engineer who designs and builds it or the client-server environment that executes it.",
+        "bbox": [
+          0.12266666666666666,
+          0.6293333333333333,
+          0.878,
+          0.7884444444444444
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

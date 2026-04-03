@@ -1,0 +1,152 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003",
+    "primary_id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Early praise for Reactive Programming with RxJs",
+        "bbox": [
+          0.304,
+          0.21037037037037037,
+          0.7466666666666667,
+          0.23185185185185186
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Every significant shift in software development demands rethinking our approach- es. Real-time and asynchronous web applications pose a huge challenge in web development today. This book does an excellent job explaining how RxJS addresses those challenges and teaches you how to rethink your world in terms of Observ- ables.",
+        "bbox": [
+          0.19644444444444445,
+          0.26814814814814814,
+          0.856,
+          0.3637037037037037
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003",
+    "primary_id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_2",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "| Zef Hemel",
+        "bbox": [
+          0.21422222222222223,
+          0.37037037037037035,
+          0.30933333333333335,
+          0.38666666666666666
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "VP engineering, STX Next",
+        "bbox": [
+          0.22311111111111112,
+          0.3888888888888889,
+          0.43377777777777776,
+          0.4066666666666667
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This book is as hot as reactive programming itself with great writing, clear expla- nations, and practical examples, this is a fantastic resource for learning RxJS.",
+        "bbox": [
+          0.19555555555555557,
+          0.42444444444444446,
+          0.8542222222222222,
+          0.4622222222222222
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fred Daoud Software-development contractor",
+        "bbox": [
+          0.19466666666666665,
+          0.4674074074074074,
+          0.4968888888888889,
+          0.5044444444444445
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Be proactive and learn reactive programming with this book before it's too late. Rx.Observable.fromBook(book).subscribe(function(value) {..do amazing stuff.)",
+        "bbox": [
+          0.19555555555555557,
+          0.5222222222222223,
+          0.8533333333333334,
+          0.56
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Javier Collado Cabeza Senior software developer, NowSecure, Inc.",
+        "bbox": [
+          0.19644444444444445,
+          0.5651851851851852,
+          0.5768888888888889,
+          0.6022222222222222
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A very readable book with great content. This book is eminently useful and provides a clear roadmap for learning reactive programming with RxJs with practical ex- amples.",
+        "bbox": [
+          0.19644444444444445,
+          0.6207407407407407,
+          0.8542222222222222,
+          0.6777777777777778
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3473-Reactive Programming with RxJS-2015-英文版_page_003_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ramaninder Singh Jhaj Software engineer, Area Services & Development, Know-Center, Austria",
+        "bbox": [
+          0.2,
+          0.682962962962963,
+          0.8142222222222222,
+          0.72
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

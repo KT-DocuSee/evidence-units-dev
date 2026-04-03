@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "mineru_PPT_ch7_page_030_0",
+    "text": "7.2 Matrix Multiplication",
+    "canon_role": "section_header",
+    "bbox": [
+      0.6793333333333333,
+      0.019555555555555555,
+      0.9673333333333334,
+      0.057777777777777775
+    ],
+    "page": "PPT_ch7_page_030",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_030_1",
+    "text": "If all the diagonal entries of a diagonal matrix S are equal, say, c, we call S a scalar matrix because multiplication of any square matrix A of the same size by S has the same effect as the multiplication by a scalar, that is,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.058,
+      0.18488888888888888,
+      0.956,
+      0.3982222222222222
+    ],
+    "page": "PPT_ch7_page_030",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_030_2",
+    "text": "In particular, a scalar matrix, whose entries on the main diagonal are all 1, is called a unit matrix (or identity matrix) and is denoted by In or simply by I. For I, formula (12) becomes",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.058666666666666666,
+      0.48533333333333334,
+      0.956,
+      0.6942222222222222
+    ],
+    "page": "PPT_ch7_page_030",
+    "order": 3
+  }
+]

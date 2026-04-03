@@ -1,0 +1,651 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: The reader may notice a strong similarity between this solution and the first solution. The primary difference is we compute that E' (0) ≥ 0 instead of discovering that Ez (-1) = 0.",
+        "bbox": [
+          0.5582706701654218,
+          0.06820436488334425,
+          0.9210526319761984,
+          0.12648809540289263
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Corollary 2 to (Pj(x) - Pi(x))/x', we see that |z| ≥ 1 - 1+2, contradiction.",
+        "bbox": [
+          0.12781955424829114,
+          0.0682043649290629,
+          0.48872180429091394,
+          0.10029069731904583
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: Elkies also reports that this problem is his submission, dating back to 2005 and arising from work of Joe Harris. It dates back further to Example 3.7 in: Hajime Kaji, On the tangentially degenerate curves, J. London Math. Soc. (2) 33 (1986), 430-440, in which the second solution is given.",
+        "bbox": [
+          0.12781954153916858,
+          0.10317460324038952,
+          0.49060151197743535,
+          0.19047619024366377
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: It is also possible to solve this problem using a p-adic valuation on the field of algebraic numbers in place of the complex absolute value; however, this leads to a substantially more complicated solution. In lieu of including such a solution here, we refer to the approach described by Victor Wang here: http://www.artofproblemsolving. com/Forum/viewtopic.php?f=80&t=616731.",
+        "bbox": [
+          0.556390979180146,
+          0.13219246051981662,
+          0.9191729396638392,
+          0.24709302280254136
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: Elkies points out a mild generalization which may be treated using the first solution but not the second: for integers a < b < c < d and z € C which is neither zero nor a root of unity, the matrix",
+        "bbox": [
+          0.12781954426691744,
+          0.19618055553788724,
+          0.4906015102230494,
+          0.2529761904916365
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_25",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_25",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A6 The largest such k is n\". We first show that this value can be achieved by an explicit construction. Let el,...,en be the standard basis of R\". For is,..., in E {1,...,n}, let Mi,., in be the matrix with row vectors ei,,..., eins and let Ni,..,in be the transpose of Mi,..,in · Then Mi,., in Nj,., in has k-th diagonal entry eik ejes proving the claim.",
+        "bbox": [
+          0.5319548948565082,
+          0.2571924605379852,
+          0.9210526404235507,
+          0.3591269842996702
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_4",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.23543451645795035,
+          0.26594446355646306,
+          0.3412742704503676,
+          0.3153191583806818
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "has rank 3 (the problem at hand being the case a = 0,b = 1, c=i+ 1,d=j+1).",
+        "bbox": [
+          0.12593984861372184,
+          0.32412790686006493,
+          0.4906015101854555,
+          0.35466269851737603
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: It seems likely that the individual polynomials Pk(x) are all irreducible, but this appears difficult to prove.",
+        "bbox": [
+          0.12593986160648382,
+          0.3590116282633502,
+          0.4906015069761984,
+          0.4011627905735275
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_26",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We next show that for any families of matrices Mi, Nj as described, we must have k _n\". Let V be the n-fold tensor product of R, i.e., the vector space with orthonormal basis ei, 8... @ei, for is,..., in E {1,...,n}. Letmi be the tensor product of the rows of Mi; that is,",
+        "bbox": [
+          0.5563909749978152,
+          0.36334325408260054,
+          0.9191729354815081,
+          0.43459302318980647
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution: (by David Feldman) Note that",
+        "bbox": [
+          0.12969925010400193,
+          0.4069767448331175,
+          0.4379699211992562,
+          0.42013888895289503
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1616541448715335,
+          0.43023255855513814,
+          0.41917292787282723,
+          0.4462209292840093
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_27",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_27",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5657894746760611,
+          0.4578373013739441,
+          0.8665413471914263,
+          0.4724702382085839
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If |z| ≥ 1, then",
+        "bbox": [
+          0.1296313130096739,
+          0.4604519683056256,
+          0.22563184728275537,
+          0.4741410548563836
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.152255640018797,
+          0.4854422243474103,
+          0.42514813879917257,
+          0.5030322400009903
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_28",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Similarly, let n; be the tensor product of the columns of Nj. One computes easily that min; equals the product of the diagonal entries of MiNj, and so vanishes if and only if i # j. For any ci E R such that Lic;m; = 0, for each j we have",
+        "bbox": [
+          0.5563909776685544,
+          0.49553571450040396,
+          0.9191729381522473,
+          0.5654761903850474
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with the first equality occurring only if |z| = 1 and the second equality occurring only if z is a positive real number. Hence the equation Pn (z) (1 - z) = 0 has no solutions with |z| ≥ 1 other than the trivial solution z = 1. Since",
+        "bbox": [
+          0.12781954715913987,
+          0.5158730157013305,
+          0.490601509400681,
+          0.5843023254780502
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_29",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_29",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.586466166290647,
+          0.5915697679220806,
+          0.851503758717734,
+          0.6104651158351869
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_12",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_12",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.16165413980700136,
+          0.5973837212842731,
+          0.4097744293659311,
+          0.6148313490103283
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "it now suffices to check that the curves",
+        "bbox": [
+          0.12781955593106945,
+          0.6293604653538611,
+          0.38345864807895536,
+          0.6381448413204026
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_30",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Therefore the vectors m1,..., mk in V are linearly independent, implying k ≤n\" as desired.",
+        "bbox": [
+          0.5563909832728615,
+          0.6307043650286931,
+          0.9210526404235507,
+          0.6599702381359095
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.13533834508584364,
+          0.6540178570489809,
+          0.44172932532769016,
+          0.6701388887950126
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_31",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: Noam Elkies points out that similar argument may be made in the case that the Mi are m X n matrices and the Nj are n x m matrices.",
+        "bbox": [
+          0.5582706784360982,
+          0.6641865078464968,
+          0.9210526389197912,
+          0.7078488368902667
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "are pairwise disjoint as n varies over positive integers.",
+        "bbox": [
+          0.12781955479323281,
+          0.6816860469649005,
+          0.4830827126879697,
+          0.694767441455642
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Write z. = u + iv; we may assume without loss of generality that v ≥ 0. Define the function",
+        "bbox": [
+          0.12781955838469541,
+          0.7020348837384881,
+          0.4906015069761984,
+          0.7281976743041477
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_32",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_32",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Bl These are the integers with no O's in their usual base 10 expansion. If the usual base 10 expansion of N is dk 10k+... + do 10º and one of the digits is 0, then there exists an i ≤ k - 1 such that di = 0 and di+1 > 0; then we can replace di+110*+ + (0) 10' by (di+1 - 1) 10+1 + (10) 10' to obtain a second base 10 over-expansion.",
+        "bbox": [
+          0.5335631515194534,
+          0.7140555812753708,
+          0.919382514409577,
+          0.8023313493955924
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0020",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_17",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_17",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1766917354003638,
+          0.7441860467822137,
+          0.4022556367800873,
+          0.758720929865073
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "One computes that for n E R, Ez (n) < 0 if and only if",
+        "bbox": [
+          0.12969925484459524,
+          0.7703373014335055,
+          0.48308270229826183,
+          0.784970237941442
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_19",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.17481203104386164,
+          0.7978670637099761,
+          0.3834586449981244,
+          0.827034883187205
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0021",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_33",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We claim conversely that if N has no 0's in its usual base 10 expansion, then this standard form is the unique base 10 over-expansion for N. This holds by induction on the number of digits of N: if 1 ≤ N≤9, then the result is clear. Otherwise, any base 10 overexpansion N= dk 10k+... + d/10 + do10° must have do = N (mod 10), which uniquely determines do since",
+        "bbox": [
+          0.5582706749786888,
+          0.8095238095931504,
+          0.921052640360894,
+          0.911458333103108
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0022",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_20",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In addition, Ez(0) = 0 and",
+        "bbox": [
+          0.12781955335149156,
+          0.840029762101283,
+          0.3007518757838467,
+          0.853197674626127
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_21",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.11090225806938714,
+          0.8642443480687293,
+          0.4666585873213075,
+          0.894226529837298
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2014_Solutions_2014s_page_003_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "since log(u) is concave. From this, it follows that the equation Ez(n) = 0 can have at most one solution with n > 0.",
+        "bbox": [
+          0.1278195435128528,
+          0.9055059523924539,
+          0.49060151109241035,
+          0.9476744185386439
+        ],
+        "order": 34
+      }
+    ]
+  }
+]

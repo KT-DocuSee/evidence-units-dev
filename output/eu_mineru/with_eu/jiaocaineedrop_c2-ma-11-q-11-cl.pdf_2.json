@@ -1,0 +1,149 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2",
+    "primary_id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16.已知函数y=x+2，当−1<x≤1时，y的取值范围是( ) 2",
+        "bbox": [
+          0.05392840539284054,
+          0.0757201646090535,
+          0.6601580660158066,
+          0.10864197530864197
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5 312 B\\a$ 512 312 512 3-2 512 A. <y≤ <y< C. ≤y < D. <y≤ 2 -",
+        "bbox": [
+          0.0901906090190609,
+          0.11522633744855967,
+          0.8284518828451883,
+          0.15275720164609052
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2",
+    "primary_id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_5",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "17．明的亲饭后散步，从家中20分钟到个离家900的报亭看10分钟的报纸后，15分 钟返回家中，下列图形中表明亲离家的时间与距离之间的关系是（ ）",
+        "bbox": [
+          0.0502092050209205,
+          0.15736625514403293,
+          0.9418874941887494,
+          0.19818930041152263
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18.当a<0,b>0时，函数y=ax+b与y=bx+a在同坐标系中的图象致是( )",
+        "bbox": [
+          0.05299860529986053,
+          0.34897119341563787,
+          0.8210134821013482,
+          0.36872427983539097
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_5",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09855880985588099,
+          0.38781893004115225,
+          0.7782426778242678,
+          0.5418930041152263
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "三、解答题（第19题6分，其余每题10分，共56分）",
+        "bbox": [
+          0.05206880520688052,
+          0.5675720164609054,
+          0.5476522547652255,
+          0.5866666666666667
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19．地壳的厚度约为8到40km，在地表以下不太深的地，温度可按y=3.5xt计算，其中x是深 度，t是地球表面温度，y是所达深度的温度. ling",
+        "bbox": [
+          0.05299860529986053,
+          0.5925925925925926,
+          0.9390980939098094,
+          0.6347325102880659
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（1）在这个变化过程中，变量和因变量分别是什么？ (2) 如果地表温度为2℃，计算当x为5km时地壳的温度.",
+        "bbox": [
+          0.0901906090190609,
+          0.64,
+          0.6155276615527662,
+          0.6834567901234568
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2",
+    "primary_id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_c2-ma-11-q-11-cl.pdf_2_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0502092050209205,
+          0.22518518518518518,
+          0.8944676894467689,
+          0.3463374485596708
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

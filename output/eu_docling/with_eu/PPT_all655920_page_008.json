@@ -1,0 +1,90 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_all655920_page_008",
+    "primary_id": "docling_PPT_all655920_page_008_0",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_PPT_all655920_page_008_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Dialogue 1",
+        "bbox": [
+          0.370309995319199,
+          0.09651318973499565,
+          0.631143493350573,
+          0.16899068685600924
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_all655920_page_008_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NURSE: Good morning. May I help you?",
+        "bbox": [
+          0.058333345526336296,
+          0.2555555558333334,
+          0.7749999758625528,
+          0.3111772479458473
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_all655920_page_008_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PATIENT: Yes, please. I am here for some blood tests.",
+        "bbox": [
+          0.062499997244887966,
+          0.3409391532340919,
+          0.8968023242344403,
+          0.4666666660231882
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_all655920_page_008_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NURSE: Sure. May I ask you a few questions for the admission form?",
+        "bbox": [
+          0.06104651798709883,
+          0.4960317460602682,
+          0.9113372100288895,
+          0.6164021173371101
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_all655920_page_008_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PATIENT: Of course.",
+        "bbox": [
+          0.06250000412679217,
+          0.6550387609247282,
+          0.41133720568425436,
+          0.7015503857806982
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_all655920_page_008_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NURSE. Thank you. I just need some personal data.",
+        "bbox": [
+          0.0625000191687791,
+          0.7403100771374493,
+          0.8764534793777323,
+          0.8617411003485917
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

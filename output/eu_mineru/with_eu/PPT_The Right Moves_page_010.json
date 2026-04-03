@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_The Right Moves_page_010",
+    "primary_id": "mineru_PPT_The Right Moves_page_010_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_The Right Moves_page_010_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Academic English",
+        "bbox": [
+          0.054,
+          0.08977777777777778,
+          0.47933333333333333,
+          0.16266666666666665
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_The Right Moves_page_010",
+    "primary_id": "mineru_PPT_The Right Moves_page_010_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_The Right Moves_page_010_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Academic English takes 5 -7 years to acquire.",
+        "bbox": [
+          0.05266666666666667,
+          0.30666666666666664,
+          0.8786666666666667,
+          0.36977777777777776
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_The Right Moves_page_010",
+    "primary_id": "mineru_PPT_The Right Moves_page_010_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_The Right Moves_page_010_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Academic English is more difficult to acquire and takes much longer, often five or more years. ELLs are working hard to catch up to a moving target - they are learning the language of instruction at the same time as they are learning the grade curriculur",
+        "bbox": [
+          0.051333333333333335,
+          0.456,
+          0.8673333333333333,
+          0.7697777777777778
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

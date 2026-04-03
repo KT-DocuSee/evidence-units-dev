@@ -1,0 +1,249 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_0",
+    "text": "Solutions to the 63rd William Lowell Putnam Mathematical Competition Saturday, December 7, 2002",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1984313725490196,
+      0.06363636363636363,
+      0.8094117647058824,
+      0.1
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_1",
+    "text": "Kiran Kedlaya and Lenny Ng",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.40078431372549017,
+      0.11393939393939394,
+      0.6070588235294118,
+      0.1290909090909091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_2",
+    "text": "A−1 By differentiating Pn(x)/(xk − 1)n+1, we ind that Pn+1(x) = (xk − 1)h(x) − (n + 1)kxk−1pn(x); substi− tuting x = 1 yields Pn+1(1) = −(n + 1)kPn(1). Since P0(1) = 1, an easy induction gives Pn(1) = (−k)nn! for all n ≥ 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.16424242424242425,
+      0.49019607843137253,
+      0.23757575757575758
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_10",
+    "text": "For i, j = 1, 2, 3, let Aij denote the position in row i and column j. Without loss of generality, we may assume that Player 1's first move is at A11. Player 0 then plays at A22:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5552941176470588,
+      0.16545454545454547,
+      0.9192156862745098,
+      0.22303030303030302
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_3",
+    "text": "Note: one can also argue by expanding in Taylor series around 1. Namely, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.24242424242424243,
+      0.49019607843137253,
+      0.2721212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_11",
+    "text": "After Player 1's second move, at least one of A23 and A32 remains vacant. Without loss of generality, assume A23 remains vacant; Player 0 then plays there.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.2921212121212121,
+      0.92,
+      0.33575757575757575
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_4",
+    "text": "SO and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.32545454545454544,
+      0.1450980392156863,
+      0.33515151515151514
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_12",
+    "text": "After Player 1's third move, Player 0 wins by playing at A21 if that position is unoccupied. So assume instead that Player 1 has played there. Thus of Player 1's three moves so far, two are at A11 and A21. Hence for i equal to one of 1 or 3, and for j equal to one of 2 or 3, the following are both true:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.34,
+      0.9192156862745098,
+      0.42727272727272725
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.3890909090909091,
+      0.15450980392156863,
+      0.4018181818181818
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_13",
+    "text": "(a) The 2 × 2 submatrix formed by rows 2 and i and by columns 2 and 3 contains two zeroes and two empty positions. (b) Column j contains one zero and two empty posi- tions.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5670588235294117,
+      0.43636363636363634,
+      0.9192156862745098,
+      0.5145454545454545
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_6",
+    "text": "A–2 Draw a great circle through two of the points. There are two closed hemispheres with this great circle as bound- ary, and each of the other three points lies in one of them. By the pigeonhole principle, two of those three points lie in the same hemisphere, and that hemisphere thus contains four of the five given points.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.5109090909090909,
+      0.49019607843137253,
+      0.5981818181818181
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_14",
+    "text": "Player 0 next plays at Aij. To prevent a zero column, Player 1 must play in column j, upon which Player 0 completes the 2 × 2 submatrix in (a) for the win.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.5248484848484849,
+      0.92,
+      0.5684848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_15",
+    "text": "Note: one can also solve this problem directly by mak- ing a tree of possible play sequences. This tree can be considerably collapsed using symmetries: the symme- try between rows and columns, the invariance of the outcome under reordering of rows or columns, and the fact that the scenario after a sequence of moves does not depend on the order of the moves (sometimes called \"transposition invariance\").",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.5727272727272728,
+      0.9192156862745098,
+      0.6890909090909091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_7",
+    "text": "Note: by a similar argument, one can prove that among any n + 3 points on an n-dimensional sphere, some n + 2 of them lie on a closed hemisphere. (One cannot get by with only n+ 2 points: put them at the vertices of a reg- ular simplex.) Namely, any n of the points lie on a great sphere, which forms the boundary of two hemispheres; of the remaining three points, some two lie in the same hemisphere.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.603030303030303,
+      0.49019607843137253,
+      0.7193939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_16",
+    "text": "Note (due to Paul Cheng): one can reduce Determi- nant Tic-Tac-Toe to a variant of ordinary tic-tac-toe. Namely, consider a tic-tac-toe grid labeled as follows:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.693939393939394,
+      0.9192156862745098,
+      0.7375757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_8",
+    "text": "A−3 Note that each of the sets {1}, {2} , . . . , {n} has the de- sired property. Moreover, for each set S with inte- ger average m that does not contain m, SU {m} also has average m, while for each set T of more than one element with integer average m that contains m, T i {m} also has average m. Thus the subsets other than {1}, {2}, ., {n} can be grouped in pairs, so Tn − n is even.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.7278787878787879,
+      0.49019607843137253,
+      0.8448484848484848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_17",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.6674509803921569,
+      0.7490909090909091,
+      0.7686274509803922,
+      0.8024242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_18",
+    "text": "Then each term in the expansion of the determinant oc- curs in a row or column of the grid. Suppose Player 1 first plays in the top left. Player 0 wins by playing fi rst in the top row, and second in the left column. Then there are only one row and column left for Player 1 to threaten, and Player 1 cannot already threaten both on the third move, so Player O has time to block both.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.8121212121212121,
+      0.9192156862745098,
+      0.9145454545454546
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001_9",
+    "text": "A–4 (partly due to David Savitt) Player 0 wins with opti- mal play. In fact, we prove that Player 1 cannot prevent Player 0 from creating a row of all zeroes, a column of all zeroes, or a 2 × 2 submatrix of all zeroes. Each of these forces the determinant of the matrix to be zero.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09254901960784313,
+      0.8545454545454545,
+      0.49098039215686273,
+      0.9272727272727272
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_001",
+    "order": 19
+  }
+]

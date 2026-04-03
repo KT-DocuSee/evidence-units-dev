@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "北京中技知识产权融资担保有限公司 哈尔滨市企业信用融资担保服务中心 北京首创融资担保有限公司 安徽蒙城农村商业银行股份有限合 安徽涡阳农村商业银行股份有限公司 0 器真 2 行 0 （有限时信用合作联社 限会台司限公司 ReCaee 行股 家 ： 2 滚 .20 ?. 安微 于路 六 上 Q tndc 公司保山分行 公司合司本省分 2： 中国银行股份有限公司西安鼓楼支行 A",
+        "bbox": [
+          0.14200877574058773,
+          0.11804827324565949,
+          0.8692658393817794,
+          0.3643465223631466
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "运用Gephi软件对网络结构图的相关指标进行统计，整理得出2014年 商标权质押贷款网络特征统计，如表4-9所示。",
+        "bbox": [
+          0.13125053515417956,
+          0.41826980767289224,
+          0.8671141912644977,
+          0.4663635486248276
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表4-92014 年商标权质押贷款网络特征统计",
+        "bbox": [
+          0.2947757920675836,
+          0.4765652512509957,
+          0.7035889343510937,
+          0.49405388432442676
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.13125053515417956,
+          0.5027982008611422,
+          0.8671141912644977,
+          0.7053748672950517
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63674848.pdf_101_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "从表4-9中可以看出，该网络的密度为0.001，一个完备的网络图密 度为1，该网络不具有完备性，说明商标专用权质押贷款中出质人之间没 有连接的关系，只是出质人和质权人会有连接的关系。而网络直径为2， 也就是说任意两个节点之间的最大距离为2，说明该网络的稳定性还是很 好的，如果出现网络故障时，能够很容易地找到出现故障的节点。该网络 加权度的最大值为17，说明在整个网络中质权人最多与17个出质人发生 了合作关系，而平均值为1.196，最小值为1，说明大部分的质权人与出质",
+        "bbox": [
+          0.13125053515417956,
+          0.7243208864579354,
+          0.8692658393817794,
+          0.9108663059078664
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

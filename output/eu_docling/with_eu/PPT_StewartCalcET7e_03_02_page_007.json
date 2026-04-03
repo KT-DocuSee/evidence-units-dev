@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_007",
+    "primary_id": "docling_PPT_StewartCalcET7e_03_02_page_007_0",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_007_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "The Product Rule",
+        "bbox": [
+          0.04796512024684154,
+          0.09093915440137001,
+          0.48110464879385606,
+          0.15116279183591055
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_007_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If we divide by Ax, we get",
+        "bbox": [
+          0.058139529005650135,
+          0.23048941850363416,
+          0.43750000045863563,
+          0.27910052961474535
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_007_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2122093034495391,
+          0.3139534884149111,
+          0.6075581396648971,
+          0.40503876002529204
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_007_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If we now let Ax → 0, we get the derivative of uv:",
+        "bbox": [
+          0.058139521224886616,
+          0.4378306883587468,
+          0.7790697720890668,
+          0.4884259264539848
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_007_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.13517441875825237,
+          0.5445736430028086,
+          0.8634332314890899,
+          0.9011627906077757
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

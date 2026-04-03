@@ -1,0 +1,211 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6",
+    "primary_id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_14",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_14",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14015726368545478,
+          0.035117620278138695,
+          0.31427533335380137,
+          0.06852388157707955
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2%",
+        "bbox": [
+          0.24024640639453637,
+          0.22529069779856542,
+          0.26694045138780453,
+          0.23691860464329498
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2%",
+        "bbox": [
+          0.24229979508550142,
+          0.2543604650177684,
+          0.2689938400787696,
+          0.2674418604546154
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1%",
+        "bbox": [
+          0.2402464071306802,
+          0.2848837209235655,
+          0.2689938399945765,
+          0.29651162776829504
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1%",
+        "bbox": [
+          0.24024640632780123,
+          0.3154069769747115,
+          0.2669404513210694,
+          0.3255813952273235
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(%)",
+        "bbox": [
+          0.7135781953545307,
+          0.373511904537546,
+          0.7453798658516599,
+          0.38665674580738724
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MEERA (%)",
+        "bbox": [
+          0.49995617081806687,
+          0.392361111336802,
+          0.655030797318008,
+          0.4069940478447386
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6",
+    "primary_id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_15",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_15",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.22486215058664602,
+          0.15830424138754542,
+          0.9051670134427902,
+          0.41291974130070275
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6",
+    "primary_id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3%",
+        "bbox": [
+          0.2422997950187663,
+          0.16569767439740277,
+          0.26899384001203447,
+          0.1773255812421321
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3%",
+        "bbox": [
+          0.24024640641199438,
+          0.1947674419991469,
+          0.26899383927589066,
+          0.20639534884387634
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6",
+    "primary_id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_13",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_13",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "8 # #% | Let (%) | 7#4 | Et (%) | 1 | 8.37% | 1 | 8.43% | 5.07% | 2 | 4.43% | 4.59% | * * in 1à | 4.36% | 4.02% | * ДНій | 4.24% | 3.84% | # 5, 1 | 4.15% | * 1ій | 3.68% | **inin | 3.82% | 101 o | 1 00 7 Hi | 3.58% | 3.60% | **ihi | 3.50% | F 7 in 1à | 3.52% | 127148 | 3.03% | #F#t | 3.41% | 10 | * Kin | 2.87% | 10 | 3.32%",
+        "bbox": [
+          0.06276831113729973,
+          0.4722787662161982,
+          0.9176832796440447,
+          0.6797863461615541
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_10",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2. 1718RD",
+        "bbox": [
+          0.22577856994419118,
+          0.7090088630856886,
+          0.3512234824199484,
+          0.7299446255819102
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_eastmoney_e480008a65ea31d8c1a5e86900788b67d07422f02dbc5296aedf9423e1a23b4e.pdf_6_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22 17 106 62 16.8% (Il =3)",
+        "bbox": [
+          0.23613963203243735,
+          0.8618551583230029,
+          0.9548254522495037,
+          0.9229651164538886
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

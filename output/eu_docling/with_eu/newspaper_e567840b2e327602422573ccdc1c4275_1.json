@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_e567840b2e327602422573ccdc1c4275_1",
+    "primary_id": "docling_newspaper_e567840b2e327602422573ccdc1c4275_1_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_e567840b2e327602422573ccdc1c4275_1_1",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8287703681009441,
+          0.0046677982846502425,
+          0.9927965218205338,
+          0.027404306745371802
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "newspaper_e567840b2e327602422573ccdc1c4275_1",
+    "primary_id": "docling_newspaper_e567840b2e327602422573ccdc1c4275_1_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_e567840b2e327602422573ccdc1c4275_1_0",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3257361628823983,
+          0.41611250029750574,
+          0.7752189996368918,
+          0.6804409332159177
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

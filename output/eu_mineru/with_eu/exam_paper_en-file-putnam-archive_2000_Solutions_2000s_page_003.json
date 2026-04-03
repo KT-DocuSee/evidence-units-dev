@@ -1,0 +1,94 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and SN = So U {N + a : a ∈ So}, as desired.",
+        "bbox": [
+          0.5576470588235294,
+          0.06606060606060606,
+          0.8376470588235294,
+          0.08242424242424243
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It follows from the definition of Sn, and induction on n, that",
+        "bbox": [
+          0.12705882352941175,
+          0.06666666666666667,
+          0.4894117647058824,
+          0.09515151515151515
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–6 For each point P in B, let Sp be the set of points with all coordinates equal to ±1 which differ from P in ex- actly one coordinate. Since there are more than 2n+1 /n points in B, and each Sp has n elements, the cardinali- ties of the sets Sp add up to more than 2n+1, which is to say, more than twice the total number of points. By the pigeonhole principle, there must be a point in three of the sets, say Sp, SQ, SR. But then any two of P, Q, R dif- fer in exactly two coordinates, so PQR is an equilateral triangle, as desired.",
+        "bbox": [
+          0.5247058823529411,
+          0.09090909090909091,
+          0.9192156862745098,
+          0.23636363636363636
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_003_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From the identity (x + y)2 = x2 + y2 (mod 2) and in− dtin n n, e hve (x+y)2   2n ( d 2). Hence if we choose N to be a power of 2 greater than max {So}, then",
+        "bbox": [
+          0.12627450980392158,
+          0.1806060606060606,
+          0.49098039215686273,
+          0.2412121212121212
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

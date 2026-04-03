@@ -1,0 +1,113 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "primary_id": "docling_PPT_MMAT5390Lecture1_page_024_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_024_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "What is a digital image?",
+        "bbox": [
+          0.24273256044373043,
+          0.03869047495349848,
+          0.715116271516864,
+          0.09496124083329611
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "primary_id": "docling_PPT_MMAT5390Lecture1_page_024_1",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_024_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "· Mathematical definition of color image:",
+        "bbox": [
+          0.027616297121087183,
+          0.1491402116071393,
+          0.6351744113091453,
+          0.1899224803230533
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_024_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A 2D (color) digital image is a 2D function defined on a 2D domain (usually rectangular domain):",
+        "bbox": [
+          0.07500003184578016,
+          0.199999999974517,
+          0.8958333288486632,
+          0.27713178299714913
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_024_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.29166667145833314,
+          0.29431217006204924,
+          0.7083333381249999,
+          0.3555555527733083
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_024_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "fR, fG, fB are the intensity/brightness/grey level corresponding to R, G and B respectively ;",
+        "bbox": [
+          0.0769573137581283,
+          0.3788395657204971,
+          0.9507421207514009,
+          0.46666666658103834
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_024_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Combination of R, G, B forms the full spectrum of color!",
+        "bbox": [
+          0.10901163792725964,
+          0.4767441868972733,
+          0.7761627711466607,
+          0.5155423286290601
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_024_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WE WILL FOCUS ON: Grayscale image!",
+        "bbox": [
+          0.2622401082165981,
+          0.5923318241330284,
+          0.7960592765496216,
+          0.6396121306716052
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

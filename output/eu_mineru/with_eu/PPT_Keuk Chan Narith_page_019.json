@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_Keuk Chan Narith_page_019",
+    "primary_id": "mineru_PPT_Keuk Chan Narith_page_019_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_Keuk Chan Narith_page_019_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "An Emergence of English language Variety in Cambodia",
+        "bbox": [
+          0.082,
+          0.09688888888888889,
+          0.92,
+          0.21244444444444444
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_Keuk Chan Narith_page_019_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Some of these features are caused by non-equivalence in the two languages in phonological propositions in the form of language transfer and overgeneralization of the target language.",
+        "bbox": [
+          0.08066666666666666,
+          0.2408888888888889,
+          0.9073333333333333,
+          0.6053333333333333
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

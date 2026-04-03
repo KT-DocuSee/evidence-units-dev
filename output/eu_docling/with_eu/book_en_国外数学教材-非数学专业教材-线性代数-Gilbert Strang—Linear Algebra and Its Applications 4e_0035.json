@@ -1,0 +1,540 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "columns b1, b2, b3, the columns of AB should be Ab,, Abz, Ab3!",
+        "bbox": [
+          0.14373717925467358,
+          0.08575581425807875,
+          0.7022587228671605,
+          0.10466269803521265
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_37",
+    "source": "visual_seed",
+    "member_count": 25,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6427104727672306,
+          0.11482558112046193,
+          0.7679671447591648,
+          0.17732558077583604
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2731006206796346,
+          0.137940843355682,
+          0.6776180701503693,
+          0.18313953470728542
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.33059548689566737,
+          0.44331395328793277,
+          0.8685831615921037,
+          0.46230158768329677
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_37",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.21205343963733753,
+          0.48583514673070755,
+          0.8467079540838498,
+          0.5763900254515819
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a11",
+        "bbox": [
+          0.40451745366353026,
+          0.5029069766939144,
+          0.43121149865679836,
+          0.5145348835386439
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A12",
+        "bbox": [
+          0.44969199227441736,
+          0.5029069767520539,
+          0.47843942513831356,
+          0.5145348835967833
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A13",
+        "bbox": [
+          0.4969199177241052,
+          0.5029069767930255,
+          0.5236139627173734,
+          0.5130813950456374
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "014",
+        "bbox": [
+          0.5462012324571647,
+          0.5043604653296367,
+          0.5728952774504328,
+          0.5130813949901311
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Row times",
+        "bbox": [
+          0.2114989740575988,
+          0.5130813956055804,
+          0.3121149904187872,
+          0.5276162786884395
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*",
+        "bbox": [
+          0.7946611907504484,
+          0.5218023260081103,
+          0.8172484600024605,
+          0.539244185329099
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AB =",
+        "bbox": [
+          0.3347022594399925,
+          0.5247093022270707,
+          0.3860369615559007,
+          0.5377906976639176
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "021",
+        "bbox": [
+          0.40451745411185325,
+          0.5247093023431391,
+          0.43121149910512135,
+          0.5363372091878686
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A23",
+        "bbox": [
+          0.49691991817756165,
+          0.5247093023431391,
+          0.5236139631708299,
+          0.5363372091878686
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0724",
+        "bbox": [
+          0.5420944565475223,
+          0.5261627908191882,
+          0.5728952772820466,
+          0.5363372090718002
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "column",
+        "bbox": [
+          0.21141653566582758,
+          0.5274291664462758,
+          0.2834499938030723,
+          0.5437917635182111
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "631",
+        "bbox": [
+          0.605749486969485,
+          0.5334302333046218,
+          0.6324435319627533,
+          0.5508720926256105
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "632,",
+        "bbox": [
+          0.6509240251491607,
+          0.5363372098030471,
+          0.6796714580130571,
+          0.5508720928859062
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "031)",
+        "bbox": [
+          0.40246406575183435,
+          0.546511627856705,
+          0.4332648864863587,
+          0.5581395347014345
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "032)",
+        "bbox": [
+          0.4476386036214442,
+          0.5465116282623494,
+          0.47843942435596853,
+          0.5610465113452086
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(AB)32",
+        "bbox": [
+          0.7802874745327626,
+          0.5465116285274901,
+          0.8439425038724393,
+          0.5639534878484789
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "034)",
+        "bbox": [
+          0.5420944564705202,
+          0.5479651162869376,
+          0.5728952772050445,
+          0.559593023131667
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "033)",
+        "bbox": [
+          0.49486652969947303,
+          0.5479651165095951,
+          0.5256673504339971,
+          0.558139534762207
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "642",
+        "bbox": [
+          0.6509240251286269,
+          0.5581395351736868,
+          0.6796714579925232,
+          0.5726744182565459
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "641",
+        "bbox": [
+          0.6057494868904253,
+          0.5581395353844424,
+          0.6303901440130655,
+          0.5726744184673016
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_34",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.34086242362411723,
+          0.7281403181935819,
+          0.6941961132233119,
+          0.7791271228529864
+        ],
+        "order": 36
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Our first requirement had to do with rows, and this one is concerned with columns. A third approach is to describe each individual entry in AB and hope for the best. In fact, there is only one possible rule, and I am not sure who discovered it. It makes everything work. It does not allow us to multiply every pair of matrices. If they are square, they must have the same size. If they are rectangular, they must not have the same shape; the number of columns in A has to equal the number of rows in B. Then A can be multiplied into each column of B.",
+        "bbox": [
+          0.14168378072820045,
+          0.19186046571741264,
+          0.9075975390998693,
+          0.3284883715936339
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If A is m by n, and B is n by P, then multiplication is possible. The product AB will be m by p. We now find the entry in row i and column j of AB.",
+        "bbox": [
+          0.1416837738116059,
+          0.3313492068120583,
+          0.9096509238789687,
+          0.36929563510248964
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1C The i, j entry of AB is the inner product of the ith row of A and the jth column of B. In Figure 1.7, the 3, 2 entry of AB comes from row 3 and column 2:",
+        "bbox": [
+          0.18480492787684588,
+          0.38368055567052123,
+          0.8665297639239121,
+          0.4389534887087969
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_26",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "612)",
+        "bbox": [
+          0.6509240246840725,
+          0.4912790699411285,
+          0.6817248454185968,
+          0.5058139530239877
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_27",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "622)",
+        "bbox": [
+          0.6509240251710189,
+          0.5130813950536615,
+          0.6817248459055432,
+          0.5290697676747437
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_9",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 1.7: A 3 by 4 matrix A times a 4 by 2 matrix B is a 3 by 2 matrix AB.",
+        "bbox": [
+          0.2669404617254992,
+          0.5944767440901313,
+          0.7843942479254247,
+          0.6076388886829615
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note. We write AB when the matrices have nothing special to do with elimination. Our earlier example was EA, because of the elementary matrix E. Later we have PA, or LU, or even LDU. The rule for matrix multiplication stays the same.",
+        "bbox": [
+          0.1416837915213624,
+          0.6408730159160202,
+          0.9096509138858927,
+          0.7006448414276922
+        ],
+        "order": 34
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_33",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_33",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Example 1.",
+        "bbox": [
+          0.14360242326039202,
+          0.7131544072528166,
+          0.26091503249020875,
+          0.730159545233747
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The entry 17 is (2) (1) + (3)(5), the inner product of the first row of A and first column of B. The entry 8 is (4) (2) + (0)(-1), from the second row and second column.",
+        "bbox": [
+          0.14373716237857015,
+          0.7848837216767149,
+          0.9075975358555161,
+          0.8212209304820528
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The third column is zero in B, so it is zero in AB. B consists of three columns side by side, and A multiplies each column separately. Every column of AB is a combination of the columns of A. Just as in a matrix-vector multiplication, the columns of A are multiplied by the entries in B.",
+        "bbox": [
+          0.14168377753689318,
+          0.8241279076111003,
+          0.9075975339060218,
+          0.9011627909471689
+        ],
+        "order": 38
+      }
+    ]
+  }
+]

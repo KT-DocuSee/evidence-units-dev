@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_yanbaoPPT_4618",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_4618_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_4618_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图E3 即使在同个业中，企业也可能有非常不同的供应链结构和显著的重叠",
+        "bbox": [
+          0.09915356711003627,
+          0.05472424112868747,
+          0.7537283353486497,
+          0.08835684765569332
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_4618_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "企业依赖复杂、多层和互通的架构",
+        "bbox": [
+          0.10237807335751713,
+          0.11856918911215619,
+          0.43047158403869407,
+          0.1516317514607382
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_4618",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_4618_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_4618_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10318419991938735,
+          0.13168020521590423,
+          0.9318823055219669,
+          0.851075958386775
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_yanbaoPPT_4618",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_4618_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_4618_3",
+        "observed_type": "image_footnote",
+        "canon_role": "support_paragraph",
+        "text": "1.聚集程度基于聚类系数，该系数通过对所有供应商——客户关系的网络分析来计算。聚类系数衡量的是节点聚集并形成互联子群的程度。 2.网络层深水平通过网络直径进行测量，应用所有供应商——客户关系的网络分析结果。网络直径是对网络规模的度量，它通过测量网络中 最长的最短路径来说明整体结构。 资料来源：彭博供应链数据库；麦肯锡全球研究所分析",
+        "bbox": [
+          0.1007658202337767,
+          0.86076670941998,
+          0.9262394195888755,
+          0.9092204645860054
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

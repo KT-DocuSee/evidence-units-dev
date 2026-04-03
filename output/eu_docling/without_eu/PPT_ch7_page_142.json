@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "docling_PPT_ch7_page_142_1",
+    "text": "(continued 3)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.059593025514873596,
+      0.1607142856252085,
+      0.22093022707233578,
+      0.19186046505653848
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_142_2",
+    "text": "The transpose AT of a matrix A = [aik] is AT = [ajkl; rows become columns and conversely (Sec. 7.2). Here, A need not be square. If it is and A = AT, then A is called symmetric; if A = -AT, it is called skew-symmetric.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05813955509608636,
+      0.23643410796084693,
+      0.946220936584324,
+      0.45598471232867926
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_142_3",
+    "text": "For a product, (AB) = B'A\" (Sec. 7.2).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.060844035681951375,
+      0.44923630325230873,
+      0.6149408025625318,
+      0.5010130681371363
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_142_4",
+    "text": "A main application of matrices concerns linear systems of equations",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06072197314529754,
+      0.5076058205063089,
+      0.9433139372418003,
+      0.601120474310564
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_142_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05668604561772028,
+      0.6286875830874449,
+      0.8911906172326076,
+      0.673637997674395
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_142_6",
+    "text": "(m equations in n unknowns X1, ... , X,; A and b given).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056686055946712374,
+      0.699612403298871,
+      0.8677325351870087,
+      0.7480620154672789
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 7
+  }
+]

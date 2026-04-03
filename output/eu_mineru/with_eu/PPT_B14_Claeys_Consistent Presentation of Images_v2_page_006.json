@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006",
+    "primary_id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_1",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Problems of Inconsistency",
+        "bbox": [
+          0.16933333333333334,
+          0.04888888888888889,
+          0.832,
+          0.13066666666666665
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11133333333333334,
+          0.1431111111111111,
+          0.8753333333333333,
+          0.6346666666666667
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "•Printed images don't look like displayed images",
+        "bbox": [
+          0.31333333333333335,
+          0.7137777777777777,
+          0.7093333333333334,
+          0.8204444444444444
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_006_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Slide Provided by David Clunie, Quintiles Intelligent Imaging",
+        "bbox": [
+          0.16133333333333333,
+          0.8551111111111112,
+          0.8626666666666667,
+          0.9004444444444445
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

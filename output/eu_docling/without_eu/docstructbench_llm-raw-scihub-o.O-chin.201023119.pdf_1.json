@@ -1,0 +1,678 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_2",
+    "text": "Imidazole derivatives R 0190",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08616807925521057,
+      0.10019841255849266,
+      0.26488706607361406,
+      0.12954324712457235
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_4",
+    "text": "DOI: 10.1002/chin.201023119",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6591375800968233,
+      0.11627906955991953,
+      0.9117043095849019,
+      0.12946428588080505
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_5",
+    "text": "Stereoselective Synthesis of 5-Substituted Pyrrolo[1,2-climidazol-3-ones: Access to Annulated Chiral Imidazol(in)ium Salts. - The title compounds are available in a 2-step procedure via diastereoselective or enantioselective lithiation. Followed by a POCI,-induced salt formation, precatalysts of type (XII) can be prepared. — (METALLINOS*, C.; XU, S.; Org. Lett. 12 (2010) 1, 76-79; Dep. Chem., Brock Univ., St. Catharines, Ont. L2S 3A1, Can.; Eng.) - R. Simon",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20739221077700343,
+      0.13219246077284477,
+      0.907597538863653,
+      0.22966269884608032
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_3",
+    "text": "23- 119",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09240246273519992,
+      0.13662790760694735,
+      0.18480492761387607,
+      0.15406976692793625
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_55",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.10194164601968629,
+      0.24185683394147536,
+      0.8961890469963331,
+      0.6038088842162713
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_11",
+    "text": "a R: 1CH2; X: -Br 50%",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5174537984191118,
+      0.24702380949997443,
+      0.7248459947533729,
+      0.2631448412460062
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_7",
+    "text": "1. A)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23408624312076826,
+      0.24999999987120827,
+      0.26899383959654866,
+      0.2631448411410496
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_12",
+    "text": "b R: -SiMe: X: -Cl",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5174538046562843,
+      0.26884920616207486,
+      0.6776180692656867,
+      0.2819940474319163
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_13",
+    "text": "63%",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6919917863202849,
+      0.2688953490859034,
+      0.7248459949254374,
+      0.27906976733851524
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_10",
+    "text": "tBu",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4558521571324126,
+      0.2747093023189143,
+      0.49486652934944925,
+      0.28633720916364375
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_8",
+    "text": "2. R-X (II), B)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23408624088273136,
+      0.27470930252582587,
+      0.34086242085580404,
+      0.28497023786643466
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_6",
+    "text": "\"tBu",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1806981528298716,
+      0.27761627907763514,
+      0.21560574930565202,
+      0.28924418592236467
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_9",
+    "text": "R",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3716632444462393,
+      0.27761627937296735,
+      0.3839835730075593,
+      0.28779069762557935
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_14",
+    "text": "c R: - SnMez: X: -Cl 55%",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5174538026200015,
+      0.28488372123815636,
+      0.7248459989542626,
+      0.29796511572889783
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_16",
+    "text": "0",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.41683778233844065,
+      0.2877906974995998,
+      0.4312114987703888,
+      0.30087209293644673
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_17",
+    "text": "III*",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.41478439521693516,
+      0.30668604650496084,
+      0.4496919916927156,
+      0.3183139533496905
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_15",
+    "text": "I*",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15195071869779211,
+      0.3066860467603219,
+      0.17043121087099633,
+      0.3168604650129339
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_18",
+    "text": "A): sBuLi, TMEDA, EtzO, -78°C, [2 h] B): -78 -> +25°C, [16 h]",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10677618672519373,
+      0.3357558134896043,
+      0.6078028766219772,
+      0.3517441861506574
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_19",
+    "text": "H",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3942505135670514,
+      0.36482558151080646,
+      0.4086242299989994,
+      0.37499999976341847
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_31",
+    "text": "1. C)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6139630399183181,
+      0.37499999988332056,
+      0.6509240242647267,
+      0.3881448411531619
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_21",
+    "text": "1. A)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14784394314507096,
+      0.375000000086809,
+      0.18480492749147942,
+      0.3881448413566502
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_20",
+    "text": "I*",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1006160168158662,
+      0.3880813951740184,
+      0.12114989685969851,
+      0.4011627906108654
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_25",
+    "text": "Phy",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3182751544461441,
+      0.39244186098167355,
+      0.3655030808207962,
+      0.41133720889477987
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_34",
+    "text": "tBu",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8644763866553252,
+      0.39534883731264747,
+      0.8952772073898494,
+      0.4055232555652595
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_33",
+    "text": "Ph",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7720739221573657,
+      0.3968023257636818,
+      0.7967145792800058,
+      0.4084302326084113
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_22",
+    "text": "2. Ph-",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14784394331345724,
+      0.39970930267962196,
+      0.18891170340112187,
+      0.41716269881074375
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 28
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_32",
+    "text": "2. Ph-Br (VII), B)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6139630412075471,
+      0.4010416666729335,
+      0.7392197120162721,
+      0.41279069772469046
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 29
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_23",
+    "text": "Ph",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2032854216481728,
+      0.4011627911290552,
+      0.22381930169200512,
+      0.4098837207895495
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 30
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_24",
+    "text": "(IV), B)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22780069932565614,
+      0.40527166332926345,
+      0.28554632388394313,
+      0.42030973166163277
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 31
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_27",
+    "text": "Ph 0",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3642999604571123,
+      0.40885509837939166,
+      0.41219664124889493,
+      0.4236583177886077
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 32
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_26",
+    "text": "HO",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3285420942795466,
+      0.41279069782763517,
+      0.3552361392728148,
+      0.42441860467236475
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 33
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_28",
+    "text": "V*",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.38603696088220757,
+      0.4316860463041055,
+      0.4086242301342196,
+      0.4447674417409527
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 34
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_36",
+    "text": "VIII*",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8131416852867672,
+      0.43168604637678004,
+      0.8562628332450598,
+      0.44476744181362704
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 35
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_35",
+    "text": "VI",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5215605749510128,
+      0.43168604651122766,
+      0.5523613956855372,
+      0.44476744194807466
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 36
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_29",
+    "text": "60%",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3798767968062534,
+      0.45058139547298404,
+      0.4127310054114058,
+      0.4622093023177136
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 37
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_37",
+    "text": "30% (87% e.e.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7761807003697307,
+      0.450581395608643,
+      0.8850102682134313,
+      0.4623015874733833
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 38
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_30",
+    "text": "C): iPrLi, (-)-sparteine, Me-O-tBu, -78°C, [2 h]",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11293635610798229,
+      0.47093023242934773,
+      0.4661190912568362,
+      0.4841269841412083
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 39
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_39",
+    "text": "1. C)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1560574953376536,
+      0.5130813953567428,
+      0.19507186755469016,
+      0.5261627907935899
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 40
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_43",
+    "text": "1. POCIz, 110°C, [16 h]",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4825462036876889,
+      0.513081395709401,
+      0.6509240197796037,
+      0.5276162787922601
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 41
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_49",
+    "text": "+Bu",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7638603699338238,
+      0.5203488376858887,
+      0.8110882963084759,
+      0.539244185598995
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 42
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_38",
+    "text": "VI",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10266940467070855,
+      0.5261627906910074,
+      0.12525667392272058,
+      0.5377906975357367
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 43
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_46",
+    "text": "Me",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6776180696388896,
+      0.527616279098437,
+      0.7043121146321577,
+      0.540697674535284
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 44
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_41",
+    "text": "Me",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.32648870614093867,
+      0.5334302323833205,
+      0.3511293632635787,
+      0.5465116278201676
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 45
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_42",
+    "text": "tBu",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.42505133558141167,
+      0.5334302325660074,
+      0.45995893205719207,
+      0.5450581394107369
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 46
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_44",
+    "text": "2. Na+ BPh÷ (XI)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.48049281301145275,
+      0.5376984125367278,
+      0.607802871690806,
+      0.5523313490446643
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 47
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_40",
+    "text": "2. Me, S04 (IX), B)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.156057496084671,
+      0.537698412562683,
+      0.2977412698584208,
+      0.5523313490706195
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 48
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_50",
+    "text": "BPhA",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7679671460734542,
+      0.549418604547017,
+      0.8151950724481063,
+      0.5654069771680993
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 49
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_45",
+    "text": "МеОН, 25°C",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.502917159556385,
+      0.5559624729168438,
+      0.5874319165816771,
+      0.5675840389626956
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 50
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_47",
+    "text": "X*",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3839835729273864,
+      0.5712209300250357,
+      0.4086242300500264,
+      0.5843023254618828
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 51
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_51",
+    "text": "XII*",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7330595488702546,
+      0.5712209300795416,
+      0.7679671453460352,
+      0.5843023255163886
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 52
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_52",
+    "text": "50%",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7351129364058427,
+      0.5886627904901521,
+      0.7679671450109951,
+      0.6017441859269991
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 53
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1_48",
+    "text": "63% (94% e.e.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3470225865637717,
+      0.5900297617574118,
+      0.45379876653684437,
+      0.6002906975710735
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.201023119.pdf_1",
+    "order": 54
+  }
+]

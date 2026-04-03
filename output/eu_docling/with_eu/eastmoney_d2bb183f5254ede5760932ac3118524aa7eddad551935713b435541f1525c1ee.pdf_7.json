@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7",
+    "primary_id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ABC INTERNATIONAL",
+        "bbox": [
+          0.6796714604159534,
+          0.047867063540402564,
+          0.7987679676127943,
+          0.05679563496897393
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ABCI SECURITIES COMPANY LIMITED",
+        "bbox": [
+          0.6796714602158052,
+          0.059523809704163363,
+          0.8767967171969259,
+          0.06831395312966573
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7",
+    "primary_id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_7",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "7%) | #1j | (47 7%) | 1(47%",
+        "bbox": [
+          0.07763609142372657,
+          0.24597736829975417,
+          0.6946174962921328,
+          0.3191188569250347
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7",
+    "primary_id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.4%)",
+        "bbox": [
+          0.07392197202009158,
+          0.3793604651812859,
+          0.1334702256185121,
+          0.39244186061813285
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7",
+    "primary_id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТТ тРттТТ ХЕТЛЕЛЕЕ ВОЛІЛИ ТВА СКИЛЕВИЛЯКИЙ, Нов од в Ки В ВИСТИ ПЕЛА ДИ. І",
+        "bbox": [
+          0.0759753449653568,
+          0.48110465095067156,
+          0.9199178667976237,
+          0.6526162786635227
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "НХ ХТ1 2024",
+        "bbox": [
+          0.07597535929087679,
+          0.6961805557818311,
+          0.43326489158181297,
+          0.7123015875278629
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_eastmoney_d2bb183f5254ede5760932ac3118524aa7eddad551935713b435541f1525c1ee.pdf_7_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ei:(852)2147 8863",
+        "bbox": [
+          0.07597535726815385,
+          0.7658730160875951,
+          0.26694045063739036,
+          0.7819940478336268
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

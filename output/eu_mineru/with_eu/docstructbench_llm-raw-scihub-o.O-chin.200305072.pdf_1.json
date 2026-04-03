@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Polycarboxylic acids and esters",
+        "bbox": [
+          0.08388457678838396,
+          0.0830452203659482,
+          0.34752181812330496,
+          0.09829842410663257
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Michael Addition of Nitroalkanes to Dimethyl Citraconate, with DBU as Base:  ate proceeds via an isomerization of the double bond of (Il) followed by Michael addi- tion of the anion derived from (I) and a Nef-type conversion. The expected adducts (IV) are not observed. — (BALLINI*, R.; BARBONI, L.; BOSICA, G.; FIORINI, D.; GIL, M. V.; Synlett 2002, 10, 1706-1708; Dip. Sci. Chim., Univ. Camerino, I-62032 Camerino, Macerata, Italy; Eng.) — Mais",
+        "bbox": [
+          0.1605790469949064,
+          0.0864348211972114,
+          0.9131435358964082,
+          0.22879805611026546
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

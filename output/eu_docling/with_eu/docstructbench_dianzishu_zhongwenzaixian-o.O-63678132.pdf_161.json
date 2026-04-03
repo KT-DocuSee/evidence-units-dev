@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_3",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.12792643973683135,
+          0.08956304479528357,
+          0.8719013832325896,
+          0.44031433428406086
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WHAT",
+        "bbox": [
+          0.7935619341278236,
+          0.49851190513051785,
+          0.8709016350495783,
+          0.5203488368738368
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2571 МАШИНК, УК",
+        "bbox": [
+          0.12909836673310657,
+          0.6378602683655051,
+          0.48986215591566956,
+          0.741319444358436
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

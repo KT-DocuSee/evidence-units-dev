@@ -1,0 +1,175 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_PresentationSpecification_page_010",
+    "primary_id": "mineru_PPT_PresentationSpecification_page_010_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "REQUIREMENTS-1",
+        "bbox": [
+          0.108,
+          0.12444444444444444,
+          0.49533333333333335,
+          0.18933333333333333
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0 Each group is required to present, with TwO options:",
+        "bbox": [
+          0.10933333333333334,
+          0.22133333333333333,
+          0.8673333333333333,
+          0.3422222222222222
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. A short video summary in 1 min PLUs a classroom live presentation in 6-8 mir",
+        "bbox": [
+          0.14066666666666666,
+          0.3857777777777778,
+          0.9193333333333333,
+          0.5057777777777778
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tutorial: 6-8 min classroom live presentation",
+        "bbox": [
+          0.356,
+          0.52,
+          0.648,
+          0.5982222222222222
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1-min video by Mar 11",
+        "bbox": [
+          0.16666666666666666,
+          0.5208888888888888,
+          0.32866666666666666,
+          0.592
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7-10 min tutorial discussion, Q&A",
+        "bbox": [
+          0.696,
+          0.5208888888888888,
+          0.8786666666666667,
+          0.5964444444444444
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2. A ful1 video presentation in 5-7 min;",
+        "bbox": [
+          0.14333333333333334,
+          0.6373333333333333,
+          0.876,
+          0.6853333333333333
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tutorial: introduction and view video presentation",
+        "bbox": [
+          0.356,
+          0.6968888888888889,
+          0.6413333333333333,
+          0.7768888888888889
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "~6-min full video by Mar 11",
+        "bbox": [
+          0.166,
+          0.6977777777777778,
+          0.3373333333333333,
+          0.776
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_PresentationSpecification_page_010",
+    "primary_id": "mineru_PPT_PresentationSpecification_page_010_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7-10 min tutorial discussion, Q&A",
+        "bbox": [
+          0.696,
+          0.6986666666666667,
+          0.8786666666666667,
+          0.7742222222222223
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_PresentationSpecification_page_010",
+    "primary_id": "mineru_PPT_PresentationSpecification_page_010_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_010_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ALL videos due on Mar 11, 2016;",
+        "bbox": [
+          0.11133333333333334,
+          0.8408888888888889,
+          0.75,
+          0.8915555555555555
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

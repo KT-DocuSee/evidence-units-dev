@@ -1,0 +1,249 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_6",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.06606060606060606,
+      0.9192156862745098,
+      0.19757575757575757
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_0",
+    "text": "Remarks: The first two solutions are related by the fact that if x = tan(θ), then 1 − x/(1 + x) = tan(π/4 − θ). The strategy of the third solution (introducing a parameter then differentiating it) was a favorite of physics Nobelist (and Putnam Fellow) Richard Feyn- man. The fifth solution resembles Gauss's evaluation of J−exp(−x2) dx. Noam Elkies notes that this inte- gral is number 2.491#8 in Gradshteyn and Ryzhik, Ta- ble of integrals, series, and products. The Mathemat- ica computer algebra system (version 5.2) successfully computes this integral, but we do not know how.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.13818181818181818,
+      0.4894117647058824,
+      0.29757575757575755
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_7",
+    "text": "B−1 Take P(x, y) = (y − 2x)(y − 2x − 1). To see that this works, first note that if m = |a, then 2m is an integer less than or equal to 2a, so 2m ≤ |2a. On the other hand, m + 1 is an integer strictly greater than a, so 2m + 2 is an integer strictly greater than 2a, so |2a ≤ 2m + 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.523921568627451,
+      0.20666666666666667,
+      0.9192156862745098,
+      0.2806060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_8",
+    "text": "B-2 By the arithmetic-harmonic mean inequality or the Cauchy-Schwarz inequality,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.2896969696969697,
+      0.9192156862745098,
+      0.3187878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_1",
+    "text": "A–6 First solution: The angle at a vertex P is acute if and only if all of the other points lie on an open semicir- cle. We first deduce from this that if there are any two acute angles at all, they must occur consecutively. Suppose the contrary; label the vertices Q1, . . , Qn in counterclockwise order (starting anywhere), and sup- pose that the angles at Q1 and Qi are acute for some i with 3 ≤ i ≤ n – 1. Then the open semicircle start- ing at Q2 and proceeding counterclockwise must con- tain all of Q3, .. ., Qn, while the open semicircle start- ing at Qi and proceeding counterclockwise must contain Qi+1, .., Qn, Q1, . . , Qi−1. Thus two open semicircles cover the entire circle, contradiction.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09411764705882353,
+      0.30727272727272725,
+      0.4894117647058824,
+      0.49575757575757573
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_9",
+    "text": "We must thus have 5n − 4 ≥ n2, so n ≤ 4. Without loss of generality, we may suppose that k1 ≤ ·.· ≤ kn.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.37454545454545457,
+      0.9184313725490196,
+      0.40545454545454546
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_10",
+    "text": "If n = 1, we must have k1 = 1, which works. Note that hereafter we cannot have k1 = 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.40969696969696967,
+      0.9192156862745098,
+      0.4387878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_11",
+    "text": "If n = 2, we have (k1, k2) ∈ {(2, 4), (3, 3)}, neither of which work.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.44242424242424244,
+      0.9192156862745098,
+      0.4721212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_12",
+    "text": "If n = 3, we have k1 + k2 + k3 = 11, so 2 ≤ k1 ≤ 3. Hence",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.4763636363636364,
+      0.9192156862745098,
+      0.5066666666666667
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_2",
+    "text": "It follows that if the polygon has at least one acute an- gle, then it has either one acute angle or two acute an- gles occurring consecutively. In particular, there is a unique pair of consecutive vertices Q1, Q2 in counter- clockwise order for which ∠Q2 is acute and ∠Q1 is not acute. Then the remaining points all lie in the arc from the antipode of Q1 to Q1, but Q2 cannot lie in the arc, and the remaining points cannot all lie in the arc from the antipode of Q1 to the antipode of Q2. Given the choice of Q1, Q2, let x be the measure of the coun- terclockwise arc from Q1 to Q2; then the probability that the other points fall into position is 2−n+2 − xn−2 if x ≤ 1/2 and 0 otherwise.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.5012121212121212,
+      0.49019607843137253,
+      0.6890909090909091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_13",
+    "text": "and only (2, 3, 6) works.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.546060606060606,
+      0.7168627450980393,
+      0.5612121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_14",
+    "text": "If n = 4, we must have equality in the AM-HM inequal- ity, which only happens when k1 = k2 = k3 = k4 = 4.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.5654545454545454,
+      0.9184313725490196,
+      0.5951515151515151
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_15",
+    "text": "Hence the solutions are n = 1 and k1 = 1, n = 3 and (k1, k2, k3) is a permutation of (2, 3, 6), and n = 4 and (k1, k2, k3, k4) = (4, 4, 4, 4).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.5993939393939394,
+      0.92,
+      0.6436363636363637
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_16",
+    "text": "Remark: In the cases n = 2, 3, Greg Kuperberg sug- gests the alternate approach of enumerating the solu- tions of 1/k1 + . . · + 1/kn = 1 with k1 ≤ … · ≤ kn. This is easily done by proceeding in lexicographic order: one obtains (2, 2) for n = 2, and (2, 3, 6), (2,4, 4), (3, 3, 3) for n = 3, and only (2, 3, 6) contributes to the final an- swer.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.6472727272727272,
+      0.9192156862745098,
+      0.7484848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_3",
+    "text": "Hence the probability that the polygon has at least one acute angle with a given choice of which two points will act as Q1 and Q2 is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.693939393939394,
+      0.49019607843137253,
+      0.7381818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_17",
+    "text": "B–3 First solution: The functions are precisely f (x) = cxd for c, d > 0 arbitrary except that we must take c = 1 in case d = 1. To see that these work, note that f (a/x) = dc(a/x)d−1 adx/f(x) =1/(cxd−1), sth given q tion holds if and ony if d2−1 = 1. If ≠1, we y solve for a no matter what c is; if d = 1, we must have c = 1. (Thanks to Brad Rodgers for pointing out the d = 1 restriction.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5247058823529411,
+      0.7581818181818182,
+      0.9192156862745098,
+      0.8757575757575757
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_4",
+    "text": "Since there are n(n – 1) choices for which two points act as Q1 and Q2, the probability of at least one acute angle is n(n − 2)2−n+1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.7909090909090909,
+      0.49019607843137253,
+      0.8351515151515152
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_5",
+    "text": "Second solution: (by Calvin Lin) As in the first solu- tion, we may compute the probability that for a particu- lar one of the points Q1, the angle at Q1 is not acute but the following angle is, and then multiply by n. Imag- ine picking the points by first choosing Q1, then pick- ing n — 1 pairs of antipodal points and then picking one member of each pair. Let R2, . . . , Rn be the points of the pairs which lie in the semicircle, taken in order away from Q1, and let S2, . . ., Sn be the antipodes of these. Then to get the desired situation, we must choose from the pairs to end up with all but one of the Si, and we can- not take Rn and the other Si or else /Q1 will be acute. That gives us (n – 2) good choices out of 2n−1; since we could have chosen Q1 to be any of the n points, the probability is again n(n − 2)2−n+1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.84,
+      0.4894117647058824,
+      0.9272727272727272
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004_18",
+    "text": "To check that these are all solutions, put b = log(a) and y = log(a/x); rewrite the given equation as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5552941176470588,
+      0.88,
+      0.92,
+      0.9096969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2005_Solutions_2005s_page_004",
+    "order": 19
+  }
+]

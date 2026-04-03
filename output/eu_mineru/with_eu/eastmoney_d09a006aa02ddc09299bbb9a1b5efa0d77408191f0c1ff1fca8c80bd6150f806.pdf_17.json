@@ -1,0 +1,172 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17",
+    "primary_id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_2",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "PCB——全球产值",
+        "bbox": [
+          0.0050148879485973985,
+          0.006582040432534086,
+          0.25513242438489264,
+          0.06017865538316878
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.15859583137439273,
+          0.08556652562294312,
+          0.32471399467168155,
+          0.11283497884344147
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表：全球各类PCB市场规模预估（亿美元）",
+        "bbox": [
+          0.4983544898918665,
+          0.08556652562294312,
+          0.7434571383795643,
+          0.11283497884344147
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.056417489421720736,
+          0.0921485660554772,
+          0.4651308572324087,
+          0.4889515749882464
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_6",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "2022年全球PCB产品结构",
+        "bbox": [
+          0.16110327534869143,
+          0.5068171133051246,
+          0.3121767748001881,
+          0.5331452750352609
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_8",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "2021年全球PCB以及细分业产值（%）",
+        "bbox": [
+          0.5842344460115969,
+          0.5077574047954866,
+          0.8167998746278012,
+          0.5340855665256229
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_5",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：Prismark，前瞻产业研究院，PCB城ISPCAIGPCA公众号，中时新闻，诚领智慧助您成功公众号，天风证券研究所",
+        "bbox": [
+          0.0037611659614480487,
+          0.8970380818053597,
+          0.7334273624823695,
+          0.92524682651622
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17",
+    "primary_id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.49145901896254507,
+          0.1231781852374236,
+          0.9377840463877135,
+          0.47578749412317817
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17",
+    "primary_id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_9",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.49208587995611974,
+          0.538787023977433,
+          0.9202319385676226,
+          0.8782322519981194
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17",
+    "primary_id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_d09a006aa02ddc09299bbb9a1b5efa0d77408191f0c1ff1fca8c80bd6150f806.pdf_17_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06707412631249021,
+          0.5575928537846733,
+          0.41999686569503214,
+          0.8716502115655853
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

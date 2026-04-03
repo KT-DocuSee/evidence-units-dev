@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Result Parameter Details",
+        "bbox": [
+          0.08705882352941176,
+          0.06545454545454546,
+          0.3207843137254902,
+          0.08363636363636363
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_1",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Peripheral Control Status",
+        "bbox": [
+          0.08705882352941176,
+          0.08969696969696969,
+          0.28705882352941176,
+          0.10545454545454545
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The SMPC outputs the peripheral control status to the status register (SR) when the SMPC control mode is used. The status register (SR) is a register that can be read without regard for the INTBACK command. However, when the register is read when the INTBACK command is not in use, all bits except the RESB bit will be undefined.",
+        "bbox": [
+          0.08627450980392157,
+          0.10666666666666667,
+          0.8149019607843138,
+          0.19636363636363635
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08627450980392157,
+          0.23454545454545456,
+          0.8235294117647058,
+          0.636969696969697
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

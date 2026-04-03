@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3063",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3063_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3063_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19.解：（1）取EF的中点G，连接DG，CG",
+        "bbox": [
+          0.0685530250747642,
+          0.103515625,
+          0.27697262479871176,
+          0.12369791666666667
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3063_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "∴ 四边形ADE1和BCE2F2都是菱形， ∠DE11= ∠CE2F2 = 60 ∴ DG⊥EF 又BC=2 ∴DG=CG =√{$ 又CD =AB =√6 即有 DG2+CG2=CD2,DG⊥CG 又CG∩EF=G，CG,EFC平面BCEF ∴ DG平面BCEF… 又DGC平面AFED ∴ 平面AFED平BCEF （2）连接DF，DB 由（1）知DG平BCEF，同理 CG平面AFED 且S形BCEF=2√3=2√3，S△ADF = \\×2x√\\ =\\}$ 2 V=VD−BcEF +VD−ABF =VD−BcEF +VB-ADF - m$ 菱形BCEF DG+= ∆ADF ·CG =\\×2√\\x\\ +=×\\x\\$ 3 3 =3 20.解：(1）f(x)=−m2+2(m−1x+4_−(mx+2)(x−2) (m>0) 令fx)=0，解得x=−或x=2，且- 2<2. m m 当x∈(−00, =]时，f(x)≤0，当x ∈(−=,2)时，f(x)>0, m m 当x ∈[2, +∞o)时，f′(x) ≤0 · 即f(x)的单调增区间为(−2,2)，单调减区间为(一∞,−2 1 ,[2,+∞) (2）由(1）知，当m>0,x∈[1,2]时，f(x) >0恒成 所以f(x)在[1,2]上为增函数， 即 f(x)mx = f (2) = m+2 f ()min = 1) n e f(x)−f(x2)的最大值为g(m) = f(x)mαx−f(x)min (4-e)m+2 02 … B 2 ≥[f(x)−f(x2)]恒成立……… }$ 4 (4-e)m+2 0 M $\\ra}$ 即m≤ 2 4-e ∂m>0 ∴ m∈ 0, 2 4e 故m的取值范围 0, 2 4e 21.解：(1)∵e=c = ∴c2$ = −a2, ∴.b2 = a2 −c2 2 a 2 2 2 ∵椭圆的中O到直线x+y−2b=0的距离为5√2， ∴ -2b|=5√2，∴b=5.∴.b²=25, a²=2b2=50. $\\ra}$ $x^2ra}$ ∴椭圆C的程 \\ + =1.$ (2）由(1）可知F(5,0)，由题可知直线AB的程为y=√2(x−5)，与椭圆C (y = √(x−5) 的方程联立 $x^2}$ $2{2}$ =1 ，消去y得 x^²-8x+10=0 5025 设A(x1, y1)，B(x2,y2)，则有x1+x2=8,x1x2=10. 6 设Q(x, y) ，由OQ= λOA+OB得(x, y) = λ(x1, y₁)+(x₂, y2)=(λx₁ +x2,λy₁ +₂), (cx = λx1 + 2 y = λy1 +2$",
+        "bbox": [
+          0.06763285024154589,
+          0.13151041666666666,
+          0.3754313319530711,
+          0.2858072916666667
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3063",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3063_3",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3063_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5047158960202438,
+          0.109375,
+          0.9109730848861284,
+          0.7454427083333334
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3063_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.37405106970324364,
+          0.14778645833333334,
+          0.5079365079365079,
+          0.27734375
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3063_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.06625258799171843,
+          0.302734375,
+          0.46744881527490223,
+          0.875
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3063_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5079365079365079,
+          0.666015625,
+          0.9077524729698643,
+          0.8717447916666666
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

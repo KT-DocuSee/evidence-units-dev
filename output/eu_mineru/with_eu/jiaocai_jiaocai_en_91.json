@@ -1,0 +1,172 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "jiaocai_jiaocai_en_91",
+    "primary_id": "mineru_jiaocai_jiaocai_en_91_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.14026602176541716,
+          0.08436653840672652,
+          0.6207174526400645,
+          0.13567051446487102
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocai_jiaocai_en_91",
+    "primary_id": "mineru_jiaocai_jiaocai_en_91_1",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In addition, we define that \"an employee fits a job\" if and only if the employee has all skills that are needed by the job.",
+        "bbox": [
+          0.1483272873841193,
+          0.1413709562491093,
+          0.852881902458686,
+          0.17557360695453897
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Please write relational algebra expressions for the following queries.",
+        "bbox": [
+          0.14913341394598953,
+          0.18127404873877725,
+          0.7077791213220476,
+          0.1989454182699159
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "1) Find the name of female employees who have at least one skill needed by the “DEV\"job. 2) Find the names of employees who fit the \"DEV\" job.",
+        "bbox": [
+          0.14913341394598953,
+          0.2046458600541542,
+          0.8125755743651754,
+          0.26279036625338464
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocai_jiaocai_en_91",
+    "primary_id": "mineru_jiaocai_jiaocai_en_91_4",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2. SQL Query (20 points, 5 points each)",
+        "bbox": [
+          0.14913341394598953,
+          0.2696308963944706,
+          0.5554212011285772,
+          0.2890123984608807
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consider the relational schemas given in problem 1, please write SQL statements to meet the following requests.",
+        "bbox": [
+          0.1483272873841193,
+          0.294712840245119,
+          0.8359532446594116,
+          0.32834544677212485
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_6",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "1) Find the employees who have not any skills. 2) Find the jobs that need at least\"Java\" and \"C++\"skills. 3) Find the names of employees who have the maximum number of skills among all employees. 4) Find the employees who fit both the \"DEV\" and \"UAT\" jobs.",
+        "bbox": [
+          0.1483272873841193,
+          0.33461593273478696,
+          0.845626763401854,
+          0.4395040615647713
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "jiaocai_jiaocai_en_91",
+    "primary_id": "mineru_jiaocai_jiaocai_en_91_7",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3. Embedded SQL (10 points)",
+        "bbox": [
+          0.15074566706972994,
+          0.4457745475274334,
+          0.4554615074566707,
+          0.46515604959384355
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_8",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Based on the schemas defined in problem 1, the following embedded SQL program accepts the id of an employee as input , and output all skills of the employee. Please fill in the blanks of the program. main( )",
+        "bbox": [
+          0.14913341394598953,
+          0.47142653555650565,
+          0.8351471180975413,
+          0.5443921903947556
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_91_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "{ EXEC SQL INCLUDE SQLCA; EXEC SQL BEGIN DECLARE SECTION; char id[10]; char skill [20]; EXEC SQL END DECLARE SECTION; EXEC SQL CONNECT TO skill_db USER use1 USING password1; EXEC SQL DECLARE skill_cursor CURSOR for ① printf(\"please input employee id :\"); scanf (\"%s\", id); EXEC SQL ② for (; ;) { EXEC SQL ③ if( ④ ) break; printf( \"%s\\ n\", id); }",
+        "bbox": [
+          0.14993954050785974,
+          0.5381217044320935,
+          0.8472390165255945,
+          0.9035200228017671
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

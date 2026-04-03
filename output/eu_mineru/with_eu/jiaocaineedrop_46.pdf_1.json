@@ -1,0 +1,208 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_46.pdf_1",
+    "primary_id": "mineru_jiaocaineedrop_46.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8.抛物线y=ax²+bx+c(a≠0)关于x轴对称的抛物线解析式为y=-ax2 bxc；关于y轴对称的抛物线解析式为y=ax2bx+c；关于原 点对称的抛物线解析式为y=-ax²+bxc",
+        "bbox": [
+          0.025081943850648426,
+          0.0354695687222894,
+          0.4805472424112869,
+          0.1418782748891576
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_46.pdf_1",
+    "primary_id": "mineru_jiaocaineedrop_46.pdf_1_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "板块二中考真题",
+        "bbox": [
+          0.5210203790793787,
+          0.03788794840790004,
+          0.6367393472994157,
+          0.06368399838774688
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_46.pdf_1",
+    "primary_id": "mineru_jiaocaineedrop_46.pdf_1_2",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "二次函数的图象与性质",
+        "bbox": [
+          0.5221604674362263,
+          0.07496977025392987,
+          0.6737922188969645,
+          0.10237807335751713
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【例1】(1)(2009年陕西省)根据下表中的次函数y=ax²+bx+c的自 变量x与函数y的对应值，可判断二次函数的图像与x轴 （ ）",
+        "bbox": [
+          0.5255807325067693,
+          0.11124546553808948,
+          0.9747755451047456,
+          0.21120515920999597
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A.只有一个交点 B．有两个交点，且它们分别在y轴两侧 C．有两个交点，且它们均在y轴同侧 D.无交点",
+        "bbox": [
+          0.5495225880005701,
+          0.31519548569125355,
+          0.8185834402166168,
+          0.45787988714228134
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2)(2010年杭州市)定义[a，b，c|为函数y=ax²+bx+c的特征数，下面 给出特征数为[2m，1-m,−1−m]的函数的些结论：",
+        "bbox": [
+          0.025651988029072252,
+          0.5344619105199516,
+          0.47997719823286306,
+          0.6021765417170496
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_46.pdf_1",
+    "primary_id": "mineru_jiaocaineedrop_46.pdf_1_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5552230297848083,
+          0.21523579201934703,
+          0.7935014963659683,
+          0.3063280935106812
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_46.pdf_1",
+    "primary_id": "mineru_jiaocaineedrop_46.pdf_1_9",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_9",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "二次函数的图象变换",
+        "bbox": [
+          0.5215904232578025,
+          0.5360741636436921,
+          0.658971070257945,
+          0.5626763401854091
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【例2】(北京东城2009二模)定义{a,b,c}为函数y=ax²+bx+c的“特 征数”。如：函数y=x²-2x+3的“特征数是{1，-2，3}，函 数y=2x+3的“特征数”是{0，2，3}，函数y=-x的“特征数” 是{0,-1，0}。",
+        "bbox": [
+          0.5255807325067693,
+          0.5723498589278516,
+          0.9753455892831695,
+          0.7166465135026199
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_7",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "①当m=—3时，函数图象的顶点坐标是($ )}$ ③当m<0时，函数在x>时，y随x的增大而减小； ④当m≠0时，函数图象经过同一个点。其中正确的结论有( )",
+        "bbox": [
+          0.040473136668091776,
+          0.6102378073357517,
+          0.47940715405443923,
+          0.7932285368802902
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)将“特征数”是{0,$1的函数图象向下平移2个单位，得到 个新函数，这个新函数的解析式是",
+        "bbox": [
+          0.5706142226022517,
+          0.7271261588069327,
+          0.9747755451047456,
+          0.819024586860137
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_46.pdf_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. ①②③④ B. ①②④C. ①③④D. ②④",
+        "bbox": [
+          0.041613225024939436,
+          0.7996775493752519,
+          0.3956106598261365,
+          0.8303103587263201
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

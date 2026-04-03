@@ -1,0 +1,162 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_DLT10902008_extracted_page_8",
+    "primary_id": "mineru_book_zh_DLT10902008_extracted_page_8_0",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DL/T1090-20C8",
+        "bbox": [
+          0.10810810810810811,
+          0.08412698412698413,
+          0.2635135135135135,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.1.3可用系效（AF）",
+        "bbox": [
+          0.10810810810810811,
+          0.1111111111111111,
+          0.2882882882882883,
+          0.12857142857142856
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.1.4运行系数（SF）",
+        "bbox": [
+          0.10810810810810811,
+          0.16984126984126985,
+          0.28603603603603606,
+          0.1873015873015873
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.1.5平均无故障可用小时数（MTBF）",
+        "bbox": [
+          0.11036036036036036,
+          0.22857142857142856,
+          0.42117117117117114,
+          0.24603174603174602
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.1.6不可用系数（UF）",
+        "bbox": [
+          0.10810810810810811,
+          0.2873015873015873,
+          0.3063063063063063,
+          0.30317460317460315
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.2对由两个及以上率联补偿装置组成的申联补偿系统，事联补偿系统的评价指标为串联等效可用系 数（Series EquivalentAvailableFactorSEAF），其计算公式按式（7）进行统计",
+        "bbox": [
+          0.1036036036036036,
+          0.346031746031746,
+          0.9009009009009009,
+          0.38095238095238093
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_zh_DLT10902008_extracted_page_8",
+    "primary_id": "mineru_book_zh_DLT10902008_extracted_page_8_6",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "5填表要求",
+        "bbox": [
+          0.10810810810810811,
+          0.4746031746031746,
+          0.20945945945945946,
+          0.49047619047619045
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_7",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "5.1中联补偿装置基本情况表见表1。 5.2串联补偿装置基础事件表见表2. 5.3串联补偿装置可率性指标汇总表见表3. 5.4申联补偿装置停运部件原因分类表见表4，共中中联补偿装置部件分类参见用录3。",
+        "bbox": [
+          0.10585585585585586,
+          0.5015873015873016,
+          0.7905405405405406,
+          0.5746031746031746
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_8",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表1串联补偿装置基本情况表",
+        "bbox": [
+          0.38063063063063063,
+          0.5857142857142857,
+          0.6283783783783784,
+          0.6031746031746031
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "book_zh_DLT10902008_extracted_page_8",
+    "primary_id": "mineru_book_zh_DLT10902008_extracted_page_8_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_DLT10902008_extracted_page_8_9",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10810810810810811,
+          0.6079365079365079,
+          0.9031531531531531,
+          0.9047619047619048
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_916",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_916_5",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_916_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8582697304438508,
+          0.026430559794108074,
+          0.9734455190171541,
+          0.08030543518066406
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_916_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "STIte",
+        "bbox": [
+          0.8938718269569627,
+          0.038591667087219776,
+          0.9753142209108009,
+          0.07510342300192466
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_916_0",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "TIN",
+        "bbox": [
+          0.06976745645048543,
+          0.15762273843565314,
+          0.8270348785967528,
+          0.18604651198424366
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaor2_yanbaoPPT_916",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_916_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_916_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2021#₴=5А#]лешаХтОР 10 7л д",
+        "bbox": [
+          0.6002907019798206,
+          0.27116402087207825,
+          0.8372093027585518,
+          0.2971781302195209
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_916_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "tnt rh | #1F | АШЛAX | #Ш | АША | EINH | €51=*",
+        "bbox": [
+          0.5188019405289183,
+          0.33463863118489584,
+          0.9371071963172573,
+          0.8988211263020833
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_916",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_916_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_916_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.037700608735858704,
+          0.3353855997721354,
+          0.5133575679749016,
+          0.8987882486979166
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

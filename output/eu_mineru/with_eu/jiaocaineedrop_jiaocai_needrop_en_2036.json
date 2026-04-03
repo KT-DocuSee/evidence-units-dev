@@ -1,0 +1,162 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2036",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "九、根据汉语意思选出正确的短语。(12分)",
+        "bbox": [
+          0.020989505247376312,
+          0.012109623964308477,
+          0.5577211394302849,
+          0.033779477374123644
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "- )1.做家务 A. do our homework B. do the housework - )2.去野餐 A. have a picnic B. have a fever - )3.煮面条 A. cook noodles B. cook fish - )4.玩得愉快 A. have a busy day B. have a good time ( )5.做海报 A. make a cake B.make a poster ( )6.在度假 A. on holiday B. have a nice holiday",
+        "bbox": [
+          0.05697151424287856,
+          0.05162523900573614,
+          0.9455272363818091,
+          0.27151051625239003
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2036",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_3",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "十、根据图示，将下列短语补充完整。(9分)",
+        "bbox": [
+          0.021989005497251374,
+          0.28808158062460165,
+          0.5577211394302849,
+          0.31102613129381773
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11094452773613193,
+          0.3275971956660293,
+          0.928535732133933,
+          0.6806883365200764
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "十一、根据汉语提示补全句子。(5分)",
+        "bbox": [
+          0.021989005497251374,
+          0.687061822817081,
+          0.4877561219390305,
+          0.7106437221159975
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.It will be （晴朗的）tomorrow.",
+        "bbox": [
+          0.09195402298850575,
+          0.8457616316124921,
+          0.6206896551724138,
+          0.8680688336520076
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.My sister's （头发）is short.",
+        "bbox": [
+          0.09095452273863068,
+          0.8859145952836202,
+          0.5867066466766616,
+          0.9088591459528362
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2036",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. Did you buy some (水)?",
+        "bbox": [
+          0.09095452273863068,
+          0.7278521351179095,
+          0.5497251374312844,
+          0.7507966857871256
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.My （姑姑) is a nice teacher.",
+        "bbox": [
+          0.08995502248875563,
+          0.7680050987890376,
+          0.5957021489255372,
+          0.7896749521988528
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2036_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3. The Great Wall is very (古老的).",
+        "bbox": [
+          0.09095452273863068,
+          0.8075207138304653,
+          0.6596701649175413,
+          0.8291905672402804
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

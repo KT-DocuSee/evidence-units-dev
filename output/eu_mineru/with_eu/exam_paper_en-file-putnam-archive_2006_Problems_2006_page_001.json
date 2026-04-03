@@ -1,0 +1,283 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "The 67th William Lowell Putnam Mathematical Competition Saturday, December 2, 2006",
+        "bbox": [
+          0.24627450980392157,
+          0.06363636363636363,
+          0.7592156862745097,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−1 Show that the curve x3 + 3xy + y3 = 1 contains only one set of three distinct points, A, B, and C, which are ver- tices of an equilateral triangle, and find its area.",
+        "bbox": [
+          0.5231372549019608,
+          0.13454545454545455,
+          0.9184313725490196,
+          0.17939393939393938
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−1 Find the volume of the region of points (x, y, z) such that",
+        "bbox": [
+          0.09254901960784313,
+          0.13515151515151516,
+          0.4894117647058824,
+          0.1509090909090909
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−2 Prove that, for every set X = {x1, x2, . . , xn} of n real numbers, there exists a non-empty subset S of X and an integer m such that",
+        "bbox": [
+          0.523921568627451,
+          0.18848484848484848,
+          0.9192156862745098,
+          0.23212121212121212
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–2 Alice and Bob play a game in which they take turns removing stones from a heap that initially has n stones. The number of stones removed at each turn must be one less than a prime number. The winner is the player who takes the last stone. Alice plays first. Prove that there are infinitely many n such that Bob has a winning strat- egy. (For example, if n = 17, then Alice might take 6 leaving 11; then Bob might take 1 leaving 10; then Al- ice can take the remaining stones to win.)",
+        "bbox": [
+          0.09333333333333334,
+          0.19515151515151516,
+          0.49019607843137253,
+          0.32666666666666666
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B—3 Let S be a finite set of points in the plane. A linear parti- tion of S is an unordered pair {A, B} of subsets of S such that A U B = S, A ∩ B = 0, and A and B lie on opposite sides of some straight line disjoint from S (A or B may be empty). Let Ls be the number of linear partitions of S. For each positive integer n, find the maximum of Ls over all sets S of n points.",
+        "bbox": [
+          0.523921568627451,
+          0.2824242424242424,
+          0.9192156862745098,
+          0.38303030303030305
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A—3 Let 1, 2, 3, ... , 2005, 2006, 2007, 2009, 2012, 2016, ... be a sequence defined by xk = k for k = 1, 2, . ., 2006 and xk+1 = xk + xk−2005 for k ≥ 2006. Show that the sequence has 2005 consecutive terms each divisible by 2006.",
+        "bbox": [
+          0.09333333333333334,
+          0.33575757575757575,
+          0.4894117647058824,
+          0.4078787878787879
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–4 Let Z denote the set of points in R\" whose coordinates are 0 or 1. (Thus Z has 2n elements, which are the ver- tices of a unit hypercube in IRn.) Given a vector sub- space V of Rn, let Z(V) denote the number of members of Z that lie in V. Let k be given, 0 ≤ k ≤ n. Find the maximum, over all vector subspaces V ⊆ Rn of dimen- sion k, of the number of points in V ∩Z. [Editorial note: the proposers probably intended to write Z(V) instead of \"the number of points in V ∩ Z\", but this changes nothing.]",
+        "bbox": [
+          0.5247058823529411,
+          0.39212121212121215,
+          0.9192156862745098,
+          0.5381818181818182
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−4 Let S = {1, 2, . ., n} for some integer n > 1. ay a per- mutation π of S has a local maximum at k ∈ S if",
+        "bbox": [
+          0.09333333333333334,
+          0.41818181818181815,
+          0.49019607843137253,
+          0.4478787878787879
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(i) π(k) > π(k + 1) for k = 1; (ii) π(k − 1) < π(k) and π(k) > π(k + 1) for 1 < k < n; (ii) π(k − 1) < π(k) for k = n.",
+        "bbox": [
+          0.13333333333333333,
+          0.45636363636363636,
+          0.4894117647058824,
+          0.5266666666666666
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(For example, if n = 5 and π takes values at 1, 2, 3, 4, 5 of 2, 1, 4, 5, 3, then π has a local maximum of 2 at k = 1, and a local maximum of 5 at k = 4.) What is the average number of local maxima of a permutation of S, averaging over all permutations of S?",
+        "bbox": [
+          0.12627450980392158,
+          0.5351515151515152,
+          0.49019607843137253,
+          0.6084848484848485
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−5 For each continuous function f : [0, 1] → R, let I(f) = J x2f (x) dx and J(x) = J0 x(f(x))2 dx. Find the maxi− mum value of I(f ) − J(f) over all such functions f.",
+        "bbox": [
+          0.5231372549019608,
+          0.5466666666666666,
+          0.9184313725490196,
+          0.5945454545454546
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–6 Let k be an integer greater than 1. Suppose ao > 0, and define",
+        "bbox": [
+          0.5231372549019608,
+          0.603030303030303,
+          0.92,
+          0.6321212121212121
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–5 Let n be a positive odd integer and let 0 be a real num- ber such that θ/π is irrational. Set ak = tan(θ + kπ/n), k = 1, 2, . . ., n. Prove that",
+        "bbox": [
+          0.09333333333333334,
+          0.6181818181818182,
+          0.4894117647058824,
+          0.6612121212121213
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for n > 0. Evaluate",
+        "bbox": [
+          0.5568627450980392,
+          0.6836363636363636,
+          0.6854901960784314,
+          0.6981818181818182
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "is an integer, and determine its value.",
+        "bbox": [
+          0.12627450980392158,
+          0.7121212121212122,
+          0.37098039215686274,
+          0.7272727272727273
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–6 Four points are chosen uniformly and independently at random in the interior of a given circle. Find the proba- bility that they are the vertices of a convex quadrilateral.",
+        "bbox": [
+          0.09254901960784313,
+          0.7357575757575757,
+          0.49019607843137253,
+          0.7806060606060606
+        ],
+        "order": 17
+      }
+    ]
+  }
+]

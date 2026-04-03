@@ -1,0 +1,316 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Solutions to the 73rd William Lowell Putnam Mathematical Competition Saturday, December 1, 2012",
+        "bbox": [
+          0.1984313725490196,
+          0.06363636363636363,
+          0.8086274509803921,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kiran Kedlaya and Lenny Ng",
+        "bbox": [
+          0.40078431372549017,
+          0.11393939393939394,
+          0.6070588235294118,
+          0.1290909090909091
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A1 Without loss of generality, assume d1 ≤ d2 ≤ ·· ≤ d12. If di+2 < d2 + di+1 for some i ≤ 10, then di,di+1,di+2 are the side lengths of an acute triangle, since in this case di < di+1 +di+2 and di+1 < di +di+2 as wel1 hus we may assume di+2 ≥ d2 + di+1 for all i. But then by induction, d2 ≥ Fid1 for all i, where Fi is the i-th Fibonacci number (with F1 = F2 = 1): i = 1 is clear, i = 2 follows from d2 ≥ d1, and the induction step follows from the assumed inequality. Setting i = 12 now gives di2 ≥ 144d1, contradicting d1 > 1 and d12 < 12.",
+        "bbox": [
+          0.10196078431372549,
+          0.16484848484848486,
+          0.4894117647058824,
+          0.3151515151515151
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. We may assume #S ≥ 3, as otherwise S is trivially an arithmetic progression. Let a1, a2 be the smallest and second- smallest elements of S, respectively, and put d = a2 − a1. Let m be the smallest positive integer such that a1 + md  S. Sup- pose that there exists an integer n contained in S but not in {a1, a1 + d, . . . , a1 + (m − 1)d}, and choose the least such n. By the hypothesis applied with (a, b, c) = (a1, a2, n), we see that n — d also has the property, a contradiction. □",
+        "bbox": [
+          0.5168627450980392,
+          0.16484848484848486,
+          0.9192156862745098,
+          0.2812121212121212
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We now return to the original problem. By dividing B, q, r by gcd(q, r) if necessary, we may reduce to the case where gcd(q, r) = 1. We may assume #S ≥ 3, as otherwise S is trivially an arithmetic progression. Let a1, a2, a3 be any three distinct elements of S, labeled so that a1 < a2 < a3, and write rai = bi + miq with bi, mj ∈ Z and bi ∈ B. Note that b1, b2, b3 must also be distinct, so the differences b2 − b1, b3 − b1, b3 − b2 are all nonzero; consequently, two of them have the same sign. If bi − bj and bk − b1 have the same sign, then we must have",
+        "bbox": [
+          0.5568627450980392,
+          0.2957575757575758,
+          0.92,
+          0.45515151515151514
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. A materially equivalent problem appeared on the 2012 USA Mathematical Olympiad and USA Junior Mathematical Olympiad.",
+        "bbox": [
+          0.12705882352941175,
+          0.3193939393939394,
+          0.49019607843137253,
+          0.3624242424242424
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A2 Write d for a * c = b* c ∈ S. For some e ∈ S, d * e = a, and thus for f = c * e, a * f = a * c * e = d  e = a and b  f = b c * e = d  e = a. Let g ∈ S satisfy g * a = b; then b = g  a = g  (a  f) = (g  a)  f = b f = a, as desired.",
+        "bbox": [
+          0.10196078431372549,
+          0.37212121212121213,
+          0.49019607843137253,
+          0.4448484848484848
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. With slightly more work, one can show that S forms an abelian group with the operation *.",
+        "bbox": [
+          0.12627450980392158,
+          0.4496969696969697,
+          0.4894117647058824,
+          0.47878787878787876
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A3 We will prove that f (x) = √1− x2 for all x ∈ [−1, 1]. Define g : (−1, 1) → R by g(x) = f (x)/ √1 −x2. Plug- ging f (x) = g(x)√1−x2 into equation (i) and simplify- ing yields",
+        "bbox": [
+          0.1011764705882353,
+          0.48727272727272725,
+          0.4894117647058824,
+          0.5503030303030303
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_13",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "because both sides are of the same sign, of absolute value less than q, and congruent to each other modulo q. In other words, the points (a1, b1), (a2, b2), (a3, 3) in R2 are collinear. It follows that a4 = a1 + a3 − a2 also belongs to S (by taking b4 = b1 + b3 − b2), so S satisfies the conditions of the lemma. It is therefore an arithmetic progression.",
+        "bbox": [
+          0.5568627450980392,
+          0.49454545454545457,
+          0.9192156862745098,
+          0.5963636363636363
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Reinterpretations. One can also interpret this argu- ment geometrically using cross products (suggested by Noam Elkies), or directly in terms of congruences (sug- gested by Karl Mahlburg).",
+        "bbox": [
+          0.556078431372549,
+          0.6018181818181818,
+          0.9184313725490196,
+          0.6593939393939394
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for all x ∈ (−1, 1). Now fix x ∈ (−1, 1) and define a sequence {an}n−1 by a1 = x and n+1 = 2− Then an ∈ (−1, 1) and thus |an+1| ≤ |an|2 for all n. It follows that {|an|} is a decreasing sequence with |an| ≤ |x|n for all n, and so limn→∞ an = 0. Since g(an) = g(x) for all n by (1) and g is continuous at 0, we conclude that g(x) = g(0) = f (0) = 1. This holds for all x ∈ (−1, 1) and thus for x = ±1 as well by continuity. The result follows.",
+        "bbox": [
+          0.12705882352941175,
+          0.6060606060606061,
+          0.49019607843137253,
+          0.7460606060606061
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. The problem phrasing is somewhat confus- ing: to say that \"S is the intersection of [the interval] A with an arithmetic progression\" is the same thing as saying that \"'S is the empty set or an arithmetic progres- sion'\" unless it is implied that arithmetic progressions are necessarily infinite. Under that interpretation, how- ever, the problem becomes false; for instance, for",
+        "bbox": [
+          0.5568627450980392,
+          0.6636363636363637,
+          0.9192156862745098,
+          0.7654545454545455
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. As pointed out by Noam Elkies, condition (iii) is unnecessary. However, one can use it to derive a slightly different solution by running the recursion in the opposite direction.",
+        "bbox": [
+          0.12705882352941175,
+          0.7515151515151515,
+          0.4894117647058824,
+          0.8096969696969697
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "we have",
+        "bbox": [
+          0.5576470588235294,
+          0.806060606060606,
+          0.6133333333333333,
+          0.8187878787878788
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A4 We begin with an easy lemma.",
+        "bbox": [
+          0.10196078431372549,
+          0.82,
+          0.32784313725490194,
+          0.8345454545454546
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Lemma. Let S be a finite set of integers with the following property: for all a, b, c ∈ S with a ≤ b ≤ c, we also have a + c − b ∈ S. Then S is an arithmetic progression.",
+        "bbox": [
+          0.08549019607843138,
+          0.8442424242424242,
+          0.49019607843137253,
+          0.8878787878787879
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A5 The pairs (p, n) with the specified property are those pairs with n = 1, together with the single pair (2, 2). We first check that these do work. For n = 1, it is clear that taking v = (1) and M = (0) has the desired effect.",
+        "bbox": [
+          0.5301960784313725,
+          0.8636363636363636,
+          0.9192156862745098,
+          0.9224242424242424
+        ],
+        "order": 18
+      }
+    ]
+  }
+]

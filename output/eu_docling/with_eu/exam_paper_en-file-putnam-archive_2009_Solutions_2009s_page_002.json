@@ -1,0 +1,500 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "product of the orders of all of its elements cannot be a power of 2.",
+        "bbox": [
+          0.1278195451654217,
+          0.06820436488334425,
+          0.49060150564911464,
+          0.0963500057163558
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_16",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Moreover, the partial derivatives",
+        "bbox": [
+          0.5582706783279955,
+          0.06820436528272197,
+          0.7706766849708769,
+          0.08284883670858066
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_17",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6127819531954888,
+          0.10317460315059944,
+          0.8233082689849625,
+          0.1498015875016106
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We may thus consider only abelian 2-groups hereafter. For such a group G, the product of the orders of all of its elements has the form 2k(G) for some nonnegative integer G, and we must show that it is impossible to achieve k(G) = 2009. Again by the structure theorem, we may write",
+        "bbox": [
+          0.1259398547393161,
+          0.10317460316320173,
+          0.49060151109241035,
+          0.18762488719974033
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "have no common zero in (0,1)?. Namely, for the first partial to vanish, we must have xo = 1/2 since 1 + yo is nowhere zero, but for xo = 1/2 the second partial cannot vanish.",
+        "bbox": [
+          0.5563909685990056,
+          0.17005813990236882,
+          0.9210526389119592,
+          0.22819767453528397
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.26127819645715605,
+          0.2267441863271534,
+          0.2819548864375809,
+          0.234011627868583
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. This problem amounts to refuting a potential generalization of the Mean Value Theorem to bivariate functions. Many counterexamples are possible. Kent Merryfield suggests y sin(2x), for which all four of the boundary integrals vanish; here the partial derivatives are 2mycos (2x) and sin(2x). Catalin Zara suggests 21/3,2/3. Qingchun Ren suggests xy (1 - y).",
+        "bbox": [
+          0.5545112806077694,
+          0.23401162836024944,
+          0.9210526389119592,
+          0.337301587695409
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_4",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for some nonnegative integers e1, e2,..., all but finitely many of which are 0.",
+        "bbox": [
+          0.12781954865256293,
+          0.24553571407647,
+          0.4887218005225646,
+          0.27480158746227146
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For any nonnegative integer m, the elements of G of order at most 2\" form a subgroup isomorphic to",
+        "bbox": [
+          0.12781954002757723,
+          0.28050595247118465,
+          0.4906015005112703,
+          0.30813953452734755
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.22172924758333623,
+          0.3252784212598627,
+          0.35721811763847006,
+          0.353197674359174
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-1 Every positive rational number can be uniquely written in lowest terms as ab for a,b positive integers. We prove the statement in the problem by induction on the largest prime dividing either a or b (where this is considered to be 1 if a = b = 1). For the base case, we can write 1/1 = 2!/2!. For a general a/b, let p be the largest prime dividing either a or b; then a/b = p'a'/b' for some k # 0 and positive integers a', b' whose largest prime factors are strictly less than p. We now have a/b= (p!)*p-146 and all prime factors of a and (p - 1)!\"b' are strictly less than p. By the induction assumption, (p- 1)!, can be written as a quotient of products of prime factorials, and so a/b = (p!)k (p-i ky can as well. This completes the induction.",
+        "bbox": [
+          0.5244360951597743,
+          0.34738372092356545,
+          0.9192796678604671,
+          0.5683139528413009
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_7",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which has 2*m elements for sm = Li, min{i,m}ei. Hence",
+        "bbox": [
+          0.1296327938490551,
+          0.3677325584222333,
+          0.4906015054724391,
+          0.39264271738307693
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2067669170086143,
+          0.41418650780982796,
+          0.3703007510393221,
+          0.4288194443177645
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since s1 ≤ 52<.., k(G) + 1 is always divisible by 2\"'. In particular, k(G) = 2009 forces s1 ≤ 1.",
+        "bbox": [
+          0.12781954002757723,
+          0.45203488417420284,
+          0.4906015005112703,
+          0.47966269824990243
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "However, the only cases where s1 ≤ 1 are where all of the ej are 0, in which case k(G) = 0, or where ei = 1 for some i and ej = 0 for j # i, in which case k(G) = (i 1)2' + 1. The right side is a strictly increasing function of i which equals 1793 for i = 8 and 4097 for i = 9, so it can never equal 2009. This proves the claim.",
+        "bbox": [
+          0.12781955060871733,
+          0.48685515893262554,
+          0.49060151109241035,
+          0.5712209302583944
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. Noam Elkies points out that the representations are unique up to rearranging and canceling common factors.",
+        "bbox": [
+          0.5581589428735487,
+          0.5735412442109866,
+          0.9192735623526485,
+          0.6149330010054519
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. One can also arrive at the key congruence by dividing G into equivalence classes, by declaring two elements to be equivalent if they generate the same cyclic subgroup of G. Forh > 0, an element of order 24 belongs to an equivalence class of size 2h-1, so the products of the orders of the elements of this equivalence class is 2/ for j= h2k-1. This quantity is divisible by 4 as long as h > 1; thus to have k(G) = 1 (mod 4), the number of elements of G of order 2 must be congruent to 1 modulo 4. However, there are exactly 2e - 1 such elements, for e the number of cyclic factors of G. Hence e = 1, and one concludes as in the given solution.",
+        "bbox": [
+          0.12569795539149614,
+          0.5783730156831618,
+          0.4908629508910347,
+          0.7499999998804875
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_22",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_22",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-2 The desired real numbers c are precisely those for which 1/3 < c ≤ 1. For any positive integer m and any sequence 0 = x0 < X1 < ... < Xm = 1, the cost of jumping along this sequence is Ei, (xi - Xi-1)x}. Since",
+        "bbox": [
+          0.5244360852913535,
+          0.627906976754687,
+          0.9191729396638392,
+          0.6860465117320527
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_23",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5977443585338347,
+          0.6976744186733259,
+          0.8345864637969926,
+          0.8038194443947732
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_12",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-6 We disprove the assertion using the example",
+        "bbox": [
+          0.09586467188281175,
+          0.761627906860065,
+          0.419172928568316,
+          0.7748015873169227
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_13",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.18421053452034708,
+          0.7848837215386335,
+          0.3928571398687505,
+          0.8023313492646889
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We have b - a = d -c = 0 because the identity f(x, y) = f(1 -x, y) forces a = b, and because",
+        "bbox": [
+          0.12969925494859724,
+          0.8154069766275067,
+          0.48872179970679125,
+          0.8430232551668824
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_24",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "we can only achieve costs c for which 1/3 < c ≤ 1.",
+        "bbox": [
+          0.5582706788120382,
+          0.8168604657633503,
+          0.8947368498220469,
+          0.8299418602540917
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It remains to check that any such c can be achieved. Suppose 0 = xo < ... < Xm = 1 is a sequence with m > 1. For i = 1,...,m, let ci be the cost of the sequence 0, xi, xi+1,..., Xm. For i > 1 and 0 < y < xi-1, the cost of the sequence O, y, xi,..., Xm is",
+        "bbox": [
+          0.5582706702656722,
+          0.837209302391589,
+          0.9210526307493652,
+          0.9069940474803657
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_15",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.18229423045757334,
+          0.8590116278189669,
+          0.39477343619509747,
+          0.9187736207935383
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_26",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_26",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5770676698928451,
+          0.9186046518438662,
+          0.8552631502199369,
+          0.9360465111648549
+        ],
+        "order": 27
+      }
+    ]
+  }
+]

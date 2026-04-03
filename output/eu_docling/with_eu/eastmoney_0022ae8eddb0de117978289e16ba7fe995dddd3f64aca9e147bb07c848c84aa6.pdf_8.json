@@ -1,0 +1,143 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8",
+    "primary_id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.055738031647946266,
+          0.007417449690226359,
+          0.22862175384484582,
+          0.05414746020685256
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8",
+    "primary_id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Huajin Securities",
+        "bbox": [
+          0.11088295670958771,
+          0.03050595236208322,
+          0.22997946390642873,
+          0.03924418581861918
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8",
+    "primary_id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "HEZK | (FT) | 1 | 52, 261. 23 | 43, 886. 66 | 3 7 | 2 | 7* 190 | 40, 000. 00 | 28, 656. 10 | 37 | 7,457. 24 | 7,457.24 | Kit | 99, 718. 47 | 80, 000. 00",
+        "bbox": [
+          0.05356925862876219,
+          0.14663535807570008,
+          0.9539597867622053,
+          0.2599741465620324
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8",
+    "primary_id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_7",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "223 16 40, 000 F 00 2 ТРЕН20 1 8300 1,100 Д 72% ₴ 8. 64%",
+        "bbox": [
+          0.20739219900807782,
+          0.37053571473626434,
+          0.9425051216669327,
+          0.4521329366238154
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_7",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "1 гц | Ế T 141 (127) | PE-TTM | 2022 # 41 (12*) | 2022 4 | #* 7117 (127) | 2022 13 2022 +/* | 2022 F | 2022 4 ROE PEA | 002821. SZ | 453.97 | 13. 23 | 102. 55 | 121. 08% | 33. 02 | 208. 77% | 47. 37% | 21. 10% | 300363. SZ | 163. 95 | 8.51 | 70. 35 | 126. 55% | 20. 05 | 282. 78% | 51. 96% | 33. 41% | 603456. SH | LIN 21K | 234. 24 | 23.57 | 54. 45 | 34. 01% | 9.21 | 15. 28% | 34. 66% | 17. 39% | 300725. SZ | 99. 83 | 33. 15 | 15. 95 | 32. 71% | 3. 14 | -35. 42% | 45. 48% | 11. 82% | 002326. SZ | 139. 17 | 73.46 | 63. 36 | 41. 79% | 5. 54 | 97. 63% | 29. 76% | 16. 16% | 002250. SZ | 97.59 | 14. 62 | 78. 65 | 19. 41% | 6.97 | 120. 93% | 26. 15% | 10. 02% | 301201. SZ | 39. 79 | 39. 83 | 4. 11 | -1. 03% | 1. 06 | 6.02% | 48. 01% | 4. 81% | 301509. SZ | / | / | 7.17 | 30. 50% | 1. 61 | 90. 96% | 44. 11% | 18. 37%",
+        "bbox": [
+          0.05493343034995654,
+          0.5961850391794036,
+          0.9445727716189919,
+          0.8015777600937901
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "#**IF: Wind (### E E#: 2023 7 7 A 14 E), # E LE # # * FF",
+        "bbox": [
+          0.05749486953634998,
+          0.8052325580228555,
+          0.4599589349811037,
+          0.8183139534597026
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8",
+    "primary_id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_0022ae8eddb0de117978289e16ba7fe995dddd3f64aca9e147bb07c848c84aa6.pdf_8_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5. 63 ИТТТН-ТТ",
+        "bbox": [
+          0.34681802894870795,
+          0.508680555924152,
+          0.942505124729903,
+          0.5466269838821238
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

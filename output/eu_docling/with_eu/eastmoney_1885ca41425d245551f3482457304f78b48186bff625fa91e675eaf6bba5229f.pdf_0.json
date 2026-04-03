@@ -1,0 +1,524 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0",
+    "primary_id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_35",
+    "source": "visual_seed",
+    "member_count": 18,
+    "elements": [
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_35",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8076579268062273,
+          0.04677448647974698,
+          0.927943459156779,
+          0.08498419768999947
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24 Sep 2023",
+        "bbox": [
+          0.041067762917473105,
+          0.0770348835931392,
+          0.12525667096343043,
+          0.08866279043786854
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22,5 3 14 Investment Focus",
+        "bbox": [
+          0.1211498987568602,
+          0.20783730138221226,
+          0.31211499212609667,
+          0.21949404741395817
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "VL Ft OUTPERFORM",
+        "bbox": [
+          0.3039014398820723,
+          0.25570436488567716,
+          0.42299794707891336,
+          0.2646329363142486
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rmb18.38",
+        "bbox": [
+          0.37161081230185444,
+          0.27015904481217823,
+          0.42305037846601834,
+          0.2778060714380688
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rmb24.50",
+        "bbox": [
+          0.3715855026055948,
+          0.2845986214774634,
+          0.42307568707386817,
+          0.2924362623381875
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+511",
+        "bbox": [
+          0.058643057326529933,
+          0.28488372114358995,
+          0.08829568762289199,
+          0.29365079378714265
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rmb9.94bn / US$1.36bn",
+        "bbox": [
+          0.30390143832491967,
+          0.312500000140683,
+          0.4229979455217607,
+          0.32122092980117734
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "US$15.46mn",
+        "bbox": [
+          0.3571623720539497,
+          0.3265277317971574,
+          0.42312510063189385,
+          0.33626296599716565
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "540.85mn",
+        "bbox": [
+          0.3715053416147001,
+          0.34107928955302536,
+          0.4231558503722606,
+          0.35078117542733456
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50%",
+        "bbox": [
+          0.398357289200487,
+          0.35610465137681424,
+          0.4229979463231271,
+          0.3633720929182438
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rmb33.62-Rmb15.99",
+        "bbox": [
+          0.318275152947751,
+          0.37063953509774444,
+          0.42299794505019556,
+          0.37790697663917405
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Price Return",
+        "bbox": [
+          0.1540041092511359,
+          0.4098837211799271,
+          0.232032853685209,
+          0.41865079382347964
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "150",
+        "bbox": [
+          0.06776180669569995,
+          0.4287790697738877,
+          0.09445585168896811,
+          0.4389534880264998
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "125",
+        "bbox": [
+          0.06776180740582999,
+          0.44767441881800857,
+          0.09445585239909815,
+          0.4563953484785031
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "100",
+        "bbox": [
+          0.06776180740582999,
+          0.46511627928312493,
+          0.09445585239909815,
+          0.47383720894361936
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "75",
+        "bbox": [
+          0.07392197188773475,
+          0.48255813963822897,
+          0.09445585193156705,
+          0.4927325578908408
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50",
+        "bbox": [
+          0.07597535989389068,
+          0.5000000002133576,
+          0.09445585206709493,
+          0.5087209298738519
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0",
+    "primary_id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_2",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "* iN ½ Sunstone Development (603612 CH)",
+        "bbox": [
+          0.04080445638424779,
+          0.09724086483882599,
+          0.6881487165799437,
+          0.12656766137050324
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Expand Anode Production Capacity to Stabilize the Leading Position, and Lay out the Second Growth Curve of Anode Cultivation: Initiation",
+        "bbox": [
+          0.03901436472653459,
+          0.1569767446672673,
+          0.963039034914122,
+          0.19331395312088692
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0",
+    "primary_id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_33",
+    "source": "visual_seed",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(Please see APPENDIX 1 for English summary)",
+        "bbox": [
+          0.44353183755074904,
+          0.22965116291221152,
+          0.7577002031576696,
+          0.23983134909683732
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_28",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "282 5 22 19401 1 05.12% 7 САТ 22 1 * 9.05 12F2, FIt K 45.99%, = 7 CAGR it 119%. 2023 7 1 # 209% 1 1197 412 172.43%.",
+        "bbox": [
+          0.46201231095079237,
+          0.2718023259585704,
+          0.9691991780712409,
+          0.3927427856658106
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "i: ELIT Rmb18.38 * 2023 7 9 A 21 E 4A11",
+        "bbox": [
+          0.04722793150543034,
+          0.38368055539487134,
+          0.2915811095109966,
+          0.39244186010640986
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_29",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ТНкт I F*, TRAFAE 2019 741 407.6 A/t, tHE 2022 7 4 866.6 F/rt.",
+        "bbox": [
+          0.4640657074258094,
+          0.44040697697601217,
+          0.9671457999321645,
+          0.5159883721224934
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_33",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Sep-22 | Jan-23 | May-23 | Sep-23 | ##**: Factset | 462+11 | 1mth 5.8% 3mth 9.7% | 12mth -40.8% | 4x11 (**) | 5.7% 7.9% | -43.1% | *Ex† MSCI China | 5.8% 9.7% | -40.8% | (Rmb mn) | Dec-22A | Dec-23E Dec-24E | Dec-25E | 19,401 | 17,097 22,311 | 28,205 | (+/-) | 105% | -12% | 26% | 905 | 189 | 1,391 | (+/-) | 46% | -79% | 47% | (Rmb) | 1.67 | 0.35 | 2.57 | €717 | 13.2% | 10.7% 14.4% | 14.9% | #***** | 16.6% | 2.7% 11.8% | 14.7% | 7 A 4 | 10.75 | 51.38 | 7.00 | ***#: 40156, HTI",
+        "bbox": [
+          0.04472258820355011,
+          0.5653294937747273,
+          0.423570884326349,
+          0.8149369160674187
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_30",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "FEKEI, 47 Пі 2023 777444 7V32, А*47",
+        "bbox": [
+          0.466119103234697,
+          0.6235119048511363,
+          0.9630390107283419,
+          0.639632936597168
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_31",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "·AHMEH: AHMA 2023-2025 72745279 170.97. 223.11. 282.05 125, FIt K-11.9%. 30.5%. 26.42%. #lithit 4 8) 2023-2025 7 EPS A R| $ 0.35, 1.75. 2.57 F, ARE TI15 Р 250",
+        "bbox": [
+          0.4394250522232422,
+          0.684523809307719,
+          0.9650923917878732,
+          0.7616567459028645
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "if lit Vijie Wu lisa.j.wu@htisec.com",
+        "bbox": [
+          0.03693674817472561,
+          0.8850864074099307,
+          0.13144107379531533,
+          0.8983438248238543
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Please see appendix for English translation of the disclaimer)",
+        "bbox": [
+          0.010163946257628741,
+          0.9563492060086685,
+          0.987679684968223,
+          0.9872581573431032
+        ],
+        "order": 36
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0",
+    "primary_id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "AKA-AFt 7 Initiate with OUTPERFORM",
+        "bbox": [
+          0.05544149226955365,
+          0.22965116303705874,
+          0.42710471825406016,
+          0.24429563493597026
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0",
+    "primary_id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6 time (%)",
+        "bbox": [
+          0.04722792608250737,
+          0.35610465116650564,
+          0.13552361521992742,
+          0.36780753970825725
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0",
+    "primary_id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_34",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_34",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06832125570350288,
+          0.40751450851088,
+          0.3893927835928053,
+          0.5592762577523525
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0",
+    "primary_id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MSCI China",
+        "bbox": [
+          0.28336755651601453,
+          0.40988372126471395,
+          0.3572895252088315,
+          0.4186507934352139
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0",
+    "primary_id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_1885ca41425d245551f3482457304f78b48186bff625fa91e675eaf6bba5229f.pdf_0_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Volume",
+        "bbox": [
+          0.08008213409431401,
+          0.5276162782219411,
+          0.09240246533073733,
+          0.5595930234641053
+        ],
+        "order": 31
+      }
+    ]
+  }
+]

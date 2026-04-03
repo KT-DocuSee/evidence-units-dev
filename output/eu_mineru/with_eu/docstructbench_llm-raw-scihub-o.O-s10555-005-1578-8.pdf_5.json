@@ -1,0 +1,176 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 2. (Continued)",
+        "bbox": [
+          0.14115748737588324,
+          0.14251104832471886,
+          0.2571082805775016,
+          0.1531993769490728
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.13779659481931458,
+          0.15676215315719075,
+          0.8587080482032897,
+          0.4002185273785855
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "* N: Northern blot, F: Flow cytometry, W: Western blot, R: Reverse transcription-polymerase chain reaction. ** Not determined.",
+        "bbox": [
+          0.13779659481931458,
+          0.40378130358670344,
+          0.725952792218828,
+          0.4275331449741566
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "the β isoform in melanocytes [49], and further showed that PKC inhibitor reduces pigmentation in murine skin in vivo [50]. It is interesting to assume that the β isoform is indispensable for the regulation of the ty- rosinase activity, but melanin is detected even in the melanoma cells lacking the PKC β isoform [25,27]. On the other hand, the α isoform is increased in murine B16 melanoma cells treated with retinoic acid [37,39], and the induction as well as the overexpression of this",
+        "bbox": [
+          0.11427034692333404,
+          0.44653461808411915,
+          0.4789271893110324,
+          0.5736069695069934
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PKC isoform enhances the melanin synthesis, suggest- ing the involvement of the α isoform in melanogenesis [38]. The level of the α isoform is also elevated in B16 cells cultured with mannosylerythiritol lipid, a novel extracellular glycolipid from yeast that induces differ- entiation of HL-60 promyelocytic leukemia cells [44]. The introduction of antisense oligodeoxynucleotides against the α isoform prevented mannosylerythiritol lipid-induced melanogenesis, and the expression of the",
+        "bbox": [
+          0.5175774537115718,
+          0.44653461808411915,
+          0.8822342960992702,
+          0.5736069695069934
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 3. The expression of PKC isoforms in human melanoma cells in vivo",
+        "bbox": [
+          0.20165355339411892,
+          0.6009215871025646,
+          0.6133628915737783,
+          0.6127975077962912
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.20165355339411892,
+          0.6139850998656637,
+          0.7965315359067697,
+          0.8111253833815248
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10555-005-1578-8.pdf_5_7",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "*ALM: acral lentiginous melanoma: SSM: superficial spreading melanoma, NS: not stated. **W: Western blot, I: immunohistochemistry. ***Not determined.",
+        "bbox": [
+          0.19997310711583458,
+          0.8158757516590155,
+          0.6923438666531416,
+          0.8515035137401953
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

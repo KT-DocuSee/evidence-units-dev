@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1000",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1000_2",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1000_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "1.3 Laser distance meter at an angle from the vertical",
+        "bbox": [
+          0.0951229343006852,
+          0.10659826136525581,
+          0.6352277307537283,
+          0.12540971925324212
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1000_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2555421201128577,
+          0.17272338606241983,
+          0.7440548166062072,
+          0.629328772979906
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1000_3",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 1.6 Equipment for experiment 1.3 shown in the figure:",
+        "bbox": [
+          0.09189842805320435,
+          0.6361693031209918,
+          0.5578395808141878,
+          0.6527005842952829
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1000_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A: Optical vessel with water and measuring tape B: Magnet to secure the angle iron on top of the black box.(You find magnet placed on the angle iron). C: Angle iron with self-adhesive foam pads D: Self-adhesive foam pads",
+        "bbox": [
+          0.09270455461507457,
+          0.6572609377226735,
+          0.864167674324869,
+          0.7364970785235856
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1000_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remove the black felt pad from the lens. The LDM should now be placed in the following set-up: Place two self-adhesive foam pads on the angle iron, see A on Fig. 1.7.",
+        "bbox": [
+          0.09189842805320435,
+          0.7632891549095054,
+          0.890769850866586,
+          0.8037622915775973
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1000",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1000_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1000_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In this part of the experiment you will need the equipment shown in Fig. 1.6.",
+        "bbox": [
+          0.08948004836759371,
+          0.1294000285022089,
+          0.7174526400644902,
+          0.14593130967649992
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

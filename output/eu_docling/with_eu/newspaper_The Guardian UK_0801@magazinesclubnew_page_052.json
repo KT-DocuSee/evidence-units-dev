@@ -1,0 +1,3750 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_273",
+    "source": "visual_seed",
+    "member_count": 256,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_273",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.22405376816245215,
+          0.030210557128105227,
+          0.36060199355629785,
+          0.05565178251836404
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_104",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Puzzles",
+        "bbox": [
+          0.22255809662600276,
+          0.03173784674377257,
+          0.3632083282933996,
+          0.05837843223440806
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_109",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10",
+        "bbox": [
+          0.3704379559526641,
+          0.1758720930147313,
+          0.3832116789013505,
+          0.18168604643709593
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_134",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.9343065696561434,
+          0.2093023256302348,
+          0.9507299263748783,
+          0.21947674388284666
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_131",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.6532846721262333,
+          0.20930232579475286,
+          0.6660583938865403,
+          0.2180232554552472
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_133",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "26",
+        "bbox": [
+          0.7481751828811982,
+          0.21075581414262107,
+          0.7627737227149088,
+          0.2194767438031153
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_132",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.7007299275930824,
+          0.21075581423413015,
+          0.7135036493533895,
+          0.21802325577555973
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5 72",
+        "bbox": [
+          0.11131386936459071,
+          0.21800595225549424,
+          0.14963503702227057,
+          0.2267441857120301
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.09671532852342911,
+          0.2180232559546365,
+          0.10766423339871203,
+          0.22674418561513088
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9",
+        "bbox": [
+          0.04197080314630015,
+          0.2180232560418458,
+          0.05291970802158306,
+          0.22674418570234026
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "648",
+        "bbox": [
+          0.05656934381714545,
+          0.21802325605153586,
+          0.09489051147482529,
+          0.2267441857120301
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_138",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.7481751824880968,
+          0.22819767455928774,
+          0.7572992698841658,
+          0.2369186042197821
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_140",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "|26",
+        "bbox": [
+          0.8412408758860646,
+          0.22819767455928774,
+          0.8558394157197751,
+          0.2369186042197821
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_143",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14",
+        "bbox": [
+          0.9361313872265984,
+          0.2281976745956249,
+          0.9489051089869056,
+          0.23691860425611935
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_142",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.8886861316076811,
+          0.2281976747530862,
+          0.9014598533679882,
+          0.23691860441358045
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.11131386864229392,
+          0.2296511629677179,
+          0.12043795603836305,
+          0.23837209262821235
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.04379562064959317,
+          0.22965116300405516,
+          0.05291970804566229,
+          0.23837209266454953
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_135",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.6788321167685628,
+          0.22965116300472135,
+          0.6897810216438458,
+          0.23691860454615085
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_137",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "26",
+        "bbox": [
+          0.7244525547181813,
+          0.22965116300472135,
+          0.7390510945518918,
+          0.23691860454615085
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_139",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18",
+        "bbox": [
+          0.8175182484492259,
+          0.22965116300472135,
+          0.830291970209533,
+          0.23691860454615085
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_141",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.8649635039236786,
+          0.22965116300472135,
+          0.8777372256839857,
+          0.23691860454615085
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_136",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.7007299273002979,
+          0.2296511630410585,
+          0.7153284671340084,
+          0.236918604582488
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "236",
+        "bbox": [
+          0.05474452699294849,
+          0.2398255814986941,
+          0.09671532842067677,
+          0.24999999975130605
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1",
+        "bbox": [
+          0.09671532880962747,
+          0.23982558153603198,
+          0.1094890505699346,
+          0.24854651119652632
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.15328467153919173,
+          0.23982558153603198,
+          0.16240875893526083,
+          0.24854651119652632
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.043795620737541015,
+          0.2398255816329311,
+          0.05474452561282394,
+          0.24854651129342556
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_149",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16",
+        "bbox": [
+          0.9361313866095986,
+          0.24709302333008945,
+          0.9489051095582849,
+          0.2572674415827012
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_144",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.6532846718714659,
+          0.24709302336082598,
+          0.6678832117051764,
+          0.25436046490225545
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_147",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.7956204382101687,
+          0.24709302346917136,
+          0.8065693430854515,
+          0.2558139531296658
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_146",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.7481751824163733,
+          0.24709302359029542,
+          0.7591240872916563,
+          0.25581395325078976
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_148",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22",
+        "bbox": [
+          0.8886861317254805,
+          0.24709302368719474,
+          0.903284671559191,
+          0.2558139533476891
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_145",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16",
+        "bbox": [
+          0.7007299272813428,
+          0.24854651184193058,
+          0.7135036490416499,
+          0.25581395338336005
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.09671532852342911,
+          0.2514534885127762,
+          0.10766423339871203,
+          0.2601744181732704
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.12591240875457266,
+          0.2514534885127762,
+          0.13686131362985557,
+          0.2601744181732704
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.05656934346513983,
+          0.2514534885612256,
+          0.0711678832988504,
+          0.26017441822172005
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2 5",
+        "bbox": [
+          0.0693430668802038,
+          0.2514534885854505,
+          0.09489051040081808,
+          0.26017441824594495
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.043795620737541015,
+          0.2514534886096753,
+          0.05474452561282394,
+          0.2601744182701697
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.08394160586527824,
+          0.2616279070255836,
+          0.09489051074056118,
+          0.27180232527819553
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9",
+        "bbox": [
+          0.06934306562805197,
+          0.26162790722543816,
+          0.08029197050333488,
+          0.27180232547805017
+        ],
+        "order": 52
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.043795620737541015,
+          0.26308139543568043,
+          0.05474452561282394,
+          0.27034883697711015
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.05656934326745128,
+          0.2630813955991979,
+          0.07116788310116186,
+          0.2703488371406276
+        ],
+        "order": 54
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.09671532870591085,
+          0.26308139578021805,
+          0.10766423358119376,
+          0.27180232544071226
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.15328467172167345,
+          0.26308139578021805,
+          0.16240875911774255,
+          0.27180232544071226
+        ],
+        "order": 56
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_152",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.722627737309422,
+          0.26598837216729865,
+          0.7372262771431327,
+          0.2761627904199107
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_153",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13",
+        "bbox": [
+          0.7481751831283624,
+          0.2659883721798666,
+          0.7609489048886695,
+          0.2732558137212962
+        ],
+        "order": 58
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_150",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.6532846718714659,
+          0.2659883721980352,
+          0.6678832117051764,
+          0.2732558137394648
+        ],
+        "order": 59
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_151",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.6770073000165451,
+          0.265988372282156,
+          0.6934306567352799,
+          0.2747093019426503
+        ],
+        "order": 60
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_156",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22",
+        "bbox": [
+          0.8649635044959686,
+          0.265988372282156,
+          0.8850364961731311,
+          0.2747093019426503
+        ],
+        "order": 61
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_154",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.7718978106184244,
+          0.26598837233060557,
+          0.786496350452135,
+          0.27470930199109983
+        ],
+        "order": 62
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_155",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.7937956210845666,
+          0.26598837233060557,
+          0.8065693428448738,
+          0.27470930199109983
+        ],
+        "order": 63
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_158",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.9124087595235342,
+          0.26598837233060557,
+          0.9270072993572446,
+          0.27470930199109983
+        ],
+        "order": 64
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_157",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.8868613137814414,
+          0.2659883724275047,
+          0.9014598536151521,
+          0.27470930208799904
+        ],
+        "order": 65
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.05656934309484866,
+          0.2732558141305086,
+          0.06569343049091778,
+          0.28197674379100296
+        ],
+        "order": 66
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.08394160586857129,
+          0.2732558141305086,
+          0.0930656932646404,
+          0.28197674379100296
+        ],
+        "order": 67
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.08394160583486462,
+          0.28343023256458555,
+          0.09489051071014754,
+          0.2936046508171974
+        ],
+        "order": 68
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_159",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "25",
+        "bbox": [
+          0.6514598540300197,
+          0.2834302326735971,
+          0.6678832119371338,
+          0.2936046509262091
+        ],
+        "order": 69
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.04379562064959317,
+          0.28343023280783425,
+          0.05291970804566229,
+          0.2921511624683287
+        ],
+        "order": 70
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_160",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.8886861317254805,
+          0.2848837210352445,
+          0.903284671559191,
+          0.29215116257667406
+        ],
+        "order": 71
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_168",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "L",
+        "bbox": [
+          0.9452554744588998,
+          0.2921511629895203,
+          0.954379561854969,
+          0.3008720926500146
+        ],
+        "order": 72
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.12591240876546908,
+          0.2950581395413296,
+          0.13503649616153818,
+          0.30523255779394165
+        ],
+        "order": 73
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.054744525946891665,
+          0.2950581397240164,
+          0.06934306578060223,
+          0.30377906938451077
+        ],
+        "order": 74
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.07116788340050559,
+          0.29505813976277606,
+          0.08029197079657469,
+          0.30377906942327054
+        ],
+        "order": 75
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9",
+        "bbox": [
+          0.15328467172167345,
+          0.29505813976277606,
+          0.16240875911774258,
+          0.30377906942327054
+        ],
+        "order": 76
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.043795620737541015,
+          0.2950581397724659,
+          0.05474452561282394,
+          0.30377906943296035
+        ],
+        "order": 77
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.08394160613900088,
+          0.2950581397724659,
+          0.0948905110142838,
+          0.30377906943296035
+        ],
+        "order": 78
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.0967153284017746,
+          0.29505813986936524,
+          0.10766423327705753,
+          0.3037790695298596
+        ],
+        "order": 79
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_169",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.9379562044054242,
+          0.30377906983611674,
+          0.9489051092807073,
+          0.31104651137754624
+        ],
+        "order": 80
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_167",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.8886861317863076,
+          0.3037790698542853,
+          0.9032846716200182,
+          0.3110465113957148
+        ],
+        "order": 81
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_163",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.7244525553379122,
+          0.3037790698724539,
+          0.7372262770982192,
+          0.3110465114138834
+        ],
+        "order": 82
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_165",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14",
+        "bbox": [
+          0.7700729930393491,
+          0.3037790698724539,
+          0.7846715328730597,
+          0.3110465114138834
+        ],
+        "order": 83
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_161",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.6532846715977432,
+          0.3037790698815382,
+          0.6678832114314538,
+          0.3110465114229677
+        ],
+        "order": 84
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_164",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.7463503649371592,
+          0.30377906998146537,
+          0.7609489047708698,
+          0.311046511522895
+        ],
+        "order": 85
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_166",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.7956204378908257,
+          0.30377906999963417,
+          0.8065693427661085,
+          0.31104651154106366
+        ],
+        "order": 86
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_162",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20 2",
+        "bbox": [
+          0.6751824818418872,
+          0.30377907010192345,
+          0.7098540133527603,
+          0.3125000002354705
+        ],
+        "order": 87
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.14963503686163476,
+          0.3052325580601933,
+          0.16240875862194187,
+          0.316860464904923
+        ],
+        "order": 88
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.04014598574007902,
+          0.3052325581328678,
+          0.05474452557378958,
+          0.3168604649775973
+        ],
+        "order": 89
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.0711678834005056,
+          0.3052325584851281,
+          0.0802919707965747,
+          0.31540697673774004
+        ],
+        "order": 90
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9",
+        "bbox": [
+          0.054744525946891665,
+          0.3066860467007606,
+          0.06934306578060223,
+          0.3154069763612551
+        ],
+        "order": 91
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "47",
+        "bbox": [
+          0.1259124100523449,
+          0.3066860467007606,
+          0.15145985357295919,
+          0.3154069763612551
+        ],
+        "order": 92
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.11131386885189623,
+          0.3066860469430086,
+          0.12226277372717917,
+          0.315406976603503
+        ],
+        "order": 93
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_170",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.6496350367572218,
+          0.3212209304630836,
+          0.6697080284343843,
+          0.3313953487156953
+        ],
+        "order": 94
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_172",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.8412408761663731,
+          0.322674418709663,
+          0.8521897810416561,
+          0.32994186025109273
+        ],
+        "order": 95
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_171",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.7937956203687224,
+          0.32267441897789234,
+          0.8065693433174088,
+          0.33139534863838677
+        ],
+        "order": 97
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7 3 6182",
+        "bbox": [
+          0.04197080571572523,
+          0.3357558140386649,
+          0.12408759049777837,
+          0.34598214273329614
+        ],
+        "order": 98
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9 5",
+        "bbox": [
+          0.12408759118818725,
+          0.33575581409417155,
+          0.1532846708556084,
+          0.3444940475507074
+        ],
+        "order": 99
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_174",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.6934306573639735,
+          0.341569767567008,
+          0.713503649041136,
+          0.3517441858196198
+        ],
+        "order": 100
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_178",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.8631386868778588,
+          0.3415697676309932,
+          0.8795620435965936,
+          0.3502906972914875
+        ],
+        "order": 101
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_173",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.6751824819992032,
+          0.34156976770266684,
+          0.6897810218329137,
+          0.3517441859552788
+        ],
+        "order": 102
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_179",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.8850364966178222,
+          0.3415697677642294,
+          0.9014598533365571,
+          0.35029069742472385
+        ],
+        "order": 103
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_176",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.7700729926743856,
+          0.34156976780056675,
+          0.7846715325080961,
+          0.350290697461061
+        ],
+        "order": 104
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_177",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.8412408761025045,
+          0.3415697678151016,
+          0.8521897809777874,
+          0.3502906974755961
+        ],
+        "order": 105
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.12591240878827933,
+          0.34738372110725285,
+          0.13503649618434843,
+          0.3561046507677473
+        ],
+        "order": 106
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.07116788361112525,
+          0.34738372111936505,
+          0.08576642344483583,
+          0.35610465077985953
+        ],
+        "order": 107
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.08394160648602647,
+          0.34738372111936505,
+          0.09671532824633362,
+          0.35610465077985953
+        ],
+        "order": 108
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9",
+        "bbox": [
+          0.04379562062678296,
+          0.3473837211581248,
+          0.052919708022852056,
+          0.3561046508186191
+        ],
+        "order": 109
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.15328467172167345,
+          0.3473837211581248,
+          0.16240875911774258,
+          0.3561046508186191
+        ],
+        "order": 110
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.09489051116972477,
+          0.3473837212647139,
+          0.10766423293003191,
+          0.3561046509252084
+        ],
+        "order": 111
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4869",
+        "bbox": [
+          0.056569344496417345,
+          0.35755813954132976,
+          0.10766423153764591,
+          0.36773255779394176
+        ],
+        "order": 112
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.11131386860858723,
+          0.3575581396755669,
+          0.12226277348387016,
+          0.36627906933606114
+        ],
+        "order": 113
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_184",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "117",
+        "bbox": [
+          0.746350365328788,
+          0.3590116279558162,
+          0.759124087089095,
+          0.36918604620842793
+        ],
+        "order": 114
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_51",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.04379562060397274,
+          0.3590116283020203,
+          0.05291970800004184,
+          0.3677325579625146
+        ],
+        "order": 115
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_186",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11",
+        "bbox": [
+          0.7956204382557892,
+          0.36046511636591305,
+          0.8065693431310722,
+          0.36773255790734277
+        ],
+        "order": 116
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_175",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "26",
+        "bbox": [
+          0.7007299272416432,
+          0.36046511649049784,
+          0.7153284670753538,
+          0.36773255803192734
+        ],
+        "order": 117
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_54",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.04379562062678296,
+          0.3691860467395202,
+          0.052919708022852056,
+          0.37790697640001464
+        ],
+        "order": 118
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2 78456",
+        "bbox": [
+          0.05656934595669988,
+          0.36918604674921024,
+          0.14051094881215645,
+          0.37797619064776544
+        ],
+        "order": 119
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_181",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.677007299276418,
+          0.377906976750632,
+          0.6861313866724872,
+          0.38808139500324396
+        ],
+        "order": 120
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_217",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.9124087591304326,
+          0.377906976750632,
+          0.9215328465265016,
+          0.38808139500324396
+        ],
+        "order": 121
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_180",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "17",
+        "bbox": [
+          0.6532846721262333,
+          0.37790697695754366,
+          0.6660583938865403,
+          0.38662790661803786
+        ],
+        "order": 122
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_185",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.7481751831283624,
+          0.37790697698176834,
+          0.7609489048886695,
+          0.3866279066422626
+        ],
+        "order": 123
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_211",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.8886861313932064,
+          0.37790697708835763,
+          0.8978102187892754,
+          0.3866279067488519
+        ],
+        "order": 124
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_110",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "916****10",
+        "bbox": [
+          0.4105839428041787,
+          0.3793604652031224,
+          0.45437956230531035,
+          0.38662790674455183
+        ],
+        "order": 126
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_113",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": ": 10-",
+        "bbox": [
+          0.46350365003448296,
+          0.3793604652031224,
+          0.4781021898681935,
+          0.38665674593156857
+        ],
+        "order": 127
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_188",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.795620438602815,
+          0.3793604652031224,
+          0.808394160363122,
+          0.38662790674455183
+        ],
+        "order": 128
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_182",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.7007299272813428,
+          0.37936046533030265,
+          0.7135036490416499,
+          0.38662790687173215
+        ],
+        "order": 129
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_190",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.817518248148838,
+          0.37936046533030265,
+          0.8321167879825486,
+          0.38662790687173215
+        ],
+        "order": 130
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_191",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.8649635036232906,
+          0.37936046533030265,
+          0.8795620434570012,
+          0.38662790687173215
+        ],
+        "order": 131
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_218",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.9361313868349698,
+          0.37936046533030265,
+          0.9507299266686802,
+          0.38662790687173215
+        ],
+        "order": 132
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_183",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.7226277372364294,
+          0.37936046546045055,
+          0.7372262770701399,
+          0.38808139512094497
+        ],
+        "order": 133
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_56",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "957614",
+        "bbox": [
+          0.05656934595669988,
+          0.38081395367750476,
+          0.14051094881215645,
+          0.389534883337999
+        ],
+        "order": 134
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.04379562044430122,
+          0.39098837223370636,
+          0.05291970784037034,
+          0.3997093018942006
+        ],
+        "order": 135
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6123987",
+        "bbox": [
+          0.056569344333106175,
+          0.39098837230638067,
+          0.1496350375555799,
+          0.39970930196687515
+        ],
+        "order": 136
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_212",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13",
+        "bbox": [
+          0.8886861311351458,
+          0.3968023256556708,
+          0.9014598540838323,
+          0.4069767439082826
+        ],
+        "order": 137
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_219",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.9361313869327965,
+          0.39680232575841556,
+          0.9470802918080795,
+          0.4055232554189098
+        ],
+        "order": 138
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_189",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.7937956207765754,
+          0.3968023257947527,
+          0.8083941606102859,
+          0.4055232554552472
+        ],
+        "order": 139
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_187",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.6514598542136253,
+          0.3968023259158769,
+          0.66788321093236,
+          0.40552325557637137
+        ],
+        "order": 140
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_60",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8931",
+        "bbox": [
+          0.0547445273923949,
+          0.4026162792589001,
+          0.11131386865383378,
+          0.41133720891939457
+        ],
+        "order": 141
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_61",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6547",
+        "bbox": [
+          0.11131386949641736,
+          0.40261627940424893,
+          0.16240875653764594,
+          0.4113372090647434
+        ],
+        "order": 142
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.04379562060397274,
+          0.4026162794648108,
+          0.05291970800004184,
+          0.41133720912530525
+        ],
+        "order": 143
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_63",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "539",
+        "bbox": [
+          0.0546286719018931,
+          0.4124793931148684,
+          0.0968311835080798,
+          0.4232764206724837
+        ],
+        "order": 144
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_64",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7 42 8",
+        "bbox": [
+          0.09484321079542594,
+          0.412598610597357,
+          0.14968233847564888,
+          0.4217037148999601
+        ],
+        "order": 145
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_65",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.15328467153919173,
+          0.4127906978151017,
+          0.16240875893526083,
+          0.42151162747559595
+        ],
+        "order": 146
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_62",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1",
+        "bbox": [
+          0.04379562064959317,
+          0.412790697887776,
+          0.05291970804566229,
+          0.4215116275482705
+        ],
+        "order": 147
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_111",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15-",
+        "bbox": [
+          0.40693430696739663,
+          0.4142441862467562,
+          0.4397810204048662,
+          0.42441860449936814
+        ],
+        "order": 148
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_112",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16 *",
+        "bbox": [
+          0.44343065712947827,
+          0.41567460308559273,
+          0.4616788319216165,
+          0.42441860447414254
+        ],
+        "order": 149
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_197",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "25",
+        "bbox": [
+          0.7919708029625014,
+          0.41569767452194983,
+          0.8083941608696155,
+          0.42587209277456184
+        ],
+        "order": 150
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_202",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "123",
+        "bbox": [
+          0.839416058436954,
+          0.41569767452194983,
+          0.855839416344068,
+          0.42587209277456184
+        ],
+        "order": 151
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_198",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.8175182482704927,
+          0.41569767455928774,
+          0.8321167881042033,
+          0.42441860421978195
+        ],
+        "order": 152
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_196",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.7481751825076141,
+          0.4156976745956249,
+          0.7591240873828972,
+          0.42441860425611916
+        ],
+        "order": 153
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_195",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.7244525553379122,
+          0.41569767463196206,
+          0.7372262770982192,
+          0.4244186042924565
+        ],
+        "order": 154
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_192",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.6532846715977432,
+          0.41569767465013063,
+          0.6678832114314538,
+          0.42441860431062506
+        ],
+        "order": 155
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_220",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "119",
+        "bbox": [
+          0.9343065693532178,
+          0.4156976746672987,
+          0.9489051091869282,
+          0.4258720929199107
+        ],
+        "order": 156
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_194",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "|11",
+        "bbox": [
+          0.6989051097098706,
+          0.4156976747530862,
+          0.7116788314701777,
+          0.42441860441358065
+        ],
+        "order": 157
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_213",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.8886861313932064,
+          0.415697674762776,
+          0.8978102187892754,
+          0.4244186044232705
+        ],
+        "order": 158
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_193",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.6770073000165451,
+          0.417151162877541,
+          0.6934306567352799,
+          0.42441860441897067
+        ],
+        "order": 159
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_205",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.864963504396107,
+          0.417151162877541,
+          0.8813868611148419,
+          0.42441860441897067
+        ],
+        "order": 160
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_67",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7 45 2 8",
+        "bbox": [
+          0.056569344101254526,
+          0.4228670633334911,
+          0.12408758904959712,
+          0.43313953453812776
+        ],
+        "order": 161
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_66",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.04197080312805196,
+          0.4244186050462064,
+          0.052919708003334884,
+          0.43313953470670064
+        ],
+        "order": 162
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_214",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.8886861313605171,
+          0.434593023396497,
+          0.9032846711942276,
+          0.4433139530569915
+        ],
+        "order": 163
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_203",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.841240875843175,
+          0.43459302353357776,
+          0.8540145987918615,
+          0.4447674417861897
+        ],
+        "order": 164
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_199",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.7007299272156432,
+          0.4360465118782677,
+          0.7116788320909263,
+          0.4433139534196974
+        ],
+        "order": 165
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_200",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9",
+        "bbox": [
+          0.6532846715391918,
+          0.4520348838616132,
+          0.6624087589352609,
+          0.4607558135221077
+        ],
+        "order": 167
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_201",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10",
+        "bbox": [
+          0.7718978105842625,
+          0.4534883721616979,
+          0.7846715323445695,
+          0.4607558137031276
+        ],
+        "order": 168
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_208",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16",
+        "bbox": [
+          0.795620438549591,
+          0.45348837219803506,
+          0.8083941603098981,
+          0.4607558137394648
+        ],
+        "order": 169
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_215",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.8886861316076811,
+          0.4534883723252153,
+          0.9014598533679882,
+          0.46075581386664505
+        ],
+        "order": 170
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_204",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.8430656936390006,
+          0.45348837248806667,
+          0.8540145985142835,
+          0.46220930214856115
+        ],
+        "order": 171
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_221",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.9142335768810933,
+          0.45348837252440405,
+          0.9251824817563763,
+          0.4622093021848983
+        ],
+        "order": 172
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_210",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.8649635037145317,
+          0.4549418604617828,
+          0.8795620435482422,
+          0.46075581388414755
+        ],
+        "order": 173
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_69",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MAGIC",
+        "bbox": [
+          0.040116971735175436,
+          0.45630564135487317,
+          0.0894450716366065,
+          0.4666594752648919
+        ],
+        "order": 174
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_70",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AQUARIA",
+        "bbox": [
+          0.09854014872412549,
+          0.456395349026342,
+          0.16605839367246805,
+          0.46511627868683647
+        ],
+        "order": 175
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_73",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NI",
+        "bbox": [
+          0.11678832148754717,
+          0.46366279087469453,
+          0.1295620432478543,
+          0.47238372053518896
+        ],
+        "order": 176
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_71",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P",
+        "bbox": [
+          0.09854014617422822,
+          0.4636627909255668,
+          0.10766423357029735,
+          0.4723837205860612
+        ],
+        "order": 177
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_74",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IR",
+        "bbox": [
+          0.15328467146746805,
+          0.46366279108060543,
+          0.16423357634275101,
+          0.4723837207410999
+        ],
+        "order": 178
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_75",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MODEM",
+        "bbox": [
+          0.11678832162473043,
+          0.47238372111936505,
+          0.16605839534607245,
+          0.48110465077985953
+        ],
+        "order": 179
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_207",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.7007299276006859,
+          0.47238372114359,
+          0.7135036493609931,
+          0.4811046508040843
+        ],
+        "order": 180
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_206",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16",
+        "bbox": [
+          0.6532846718068902,
+          0.4723837211442561,
+          0.6660583935671974,
+          0.4796511626856856
+        ],
+        "order": 181
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_209",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.7956204378908257,
+          0.4723837211624249,
+          0.8065693427661085,
+          0.4796511627038544
+        ],
+        "order": 182
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_216",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.8886861313214829,
+          0.4723837211624249,
+          0.8996350361967657,
+          0.4796511627038544
+        ],
+        "order": 183
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_72",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SQUIRTS",
+        "bbox": [
+          0.0401459858895757,
+          0.4723837212647141,
+          0.10766423083791828,
+          0.4811046509252084
+        ],
+        "order": 184
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_76",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NAPKIN",
+        "bbox": [
+          0.04192952022322564,
+          0.48674002842093717,
+          0.10040624814561175,
+          0.4958181110051365
+        ],
+        "order": 185
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_77",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "USAEL",
+        "bbox": [
+          0.10583941618677425,
+          0.48691860428538924,
+          0.1551094899081162,
+          0.5029069769064713
+        ],
+        "order": 186
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_223",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "J KYMNO PQRS TUVWX Y Z",
+        "bbox": [
+          0.7609489061157103,
+          0.4985119047222341,
+          0.958029201001078,
+          0.5072674415017588
+        ],
+        "order": 187
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_222",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ABCDEFGHI",
+        "bbox": [
+          0.6532846732994041,
+          0.4985465119623885,
+          0.7554744473818612,
+          0.507267441622883
+        ],
+        "order": 188
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_78",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PLAGUES",
+        "bbox": [
+          0.05102259889543941,
+          0.5011228804440153,
+          0.12233506771236892,
+          0.5119585147815464
+        ],
+        "order": 189
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_79",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NEX",
+        "bbox": [
+          0.12408759273381996,
+          0.5029069768310294,
+          0.15693430617128953,
+          0.5101744183724588
+        ],
+        "order": 190
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_235",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11",
+        "bbox": [
+          0.8886861316408258,
+          0.5145348838259423,
+          0.8996350365161087,
+          0.5218023253673718
+        ],
+        "order": 191
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_237",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.9142335768963,
+          0.5145348838259423,
+          0.9251824817715831,
+          0.5218023253673718
+        ],
+        "order": 192
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_238",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13",
+        "bbox": [
+          0.9361313868415558,
+          0.514534883934954,
+          0.9470802917168386,
+          0.5218023254763835
+        ],
+        "order": 193
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_224",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10",
+        "bbox": [
+          0.8667883211025045,
+          0.5145348839531224,
+          0.8777372259777874,
+          0.5218023254945521
+        ],
+        "order": 194
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_80",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NIGH",
+        "bbox": [
+          0.041970803671160045,
+          0.5188953489240528,
+          0.0802919713288399,
+          0.5261627904654823
+        ],
+        "order": 195
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_81",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B I",
+        "bbox": [
+          0.041970803219292835,
+          0.5247093025147141,
+          0.05291970809457577,
+          0.5334821430902805
+        ],
+        "order": 196
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_228",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "17",
+        "bbox": [
+          0.7244525548008013,
+          0.5319767443267295,
+          0.7354014596760843,
+          0.540697673987224
+        ],
+        "order": 197
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_225",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14",
+        "bbox": [
+          0.6551094896502645,
+          0.5319767444236287,
+          0.6770072994008303,
+          0.5406976740841231
+        ],
+        "order": 198
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_82",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LENT",
+        "bbox": [
+          0.041970803671160045,
+          0.5334302326449828,
+          0.0802919713288399,
+          0.5406976741864122
+        ],
+        "order": 199
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_226",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.6751824821512712,
+          0.5334302326449828,
+          0.6897810219849818,
+          0.5406976741864122
+        ],
+        "order": 200
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_232",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.7937956211844281,
+          0.5334302326449828,
+          0.810218977903163,
+          0.5406976741864122
+        ],
+        "order": 201
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_234",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.8649635040490813,
+          0.5334302326449828,
+          0.879562043882792,
+          0.5406976741864122
+        ],
+        "order": 202
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_239",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "25",
+        "bbox": [
+          0.9124087599704213,
+          0.5334302326449828,
+          0.9324817516475837,
+          0.5406976741864122
+        ],
+        "order": 203
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_83",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RUST",
+        "bbox": [
+          0.11678832191933525,
+          0.5334302327472722,
+          0.1551094895770151,
+          0.5421511624077666
+        ],
+        "order": 204
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_236",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.8886861317863076,
+          0.5334302327472722,
+          0.9032846716200182,
+          0.5421511624077666
+        ],
+        "order": 205
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_227",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16",
+        "bbox": [
+          0.7007299272813428,
+          0.5334302327721632,
+          0.7135036490416499,
+          0.5406976743135927
+        ],
+        "order": 206
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_229",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18",
+        "bbox": [
+          0.7481751827557953,
+          0.5334302327721632,
+          0.7609489045161024,
+          0.5406976743135927
+        ],
+        "order": 207
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_230",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.7718978101992199,
+          0.5334302327721632,
+          0.7828467150745029,
+          0.5406976743135927
+        ],
+        "order": 208
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_233",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22",
+        "bbox": [
+          0.8412408758252372,
+          0.5334302327903316,
+          0.8558394156589479,
+          0.5406976743317611
+        ],
+        "order": 209
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_240",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "26",
+        "bbox": [
+          0.9361313873862698,
+          0.5334302329895203,
+          0.9489051091465769,
+          0.5421511626500146
+        ],
+        "order": 210
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_231",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A",
+        "bbox": [
+          0.781021897816564,
+          0.5406976747627762,
+          0.790145985212633,
+          0.5494186044232706
+        ],
+        "order": 211
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_84",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CACT",
+        "bbox": [
+          0.041970803675015066,
+          0.5479651165069622,
+          0.0784671532592915,
+          0.5566860461674565
+        ],
+        "order": 212
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_85",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SHOVING",
+        "bbox": [
+          0.04197080309088148,
+          0.5625000002278924,
+          0.10766423471933749,
+          0.5712209298883867
+        ],
+        "order": 213
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_86",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ORM",
+        "bbox": [
+          0.13321168032506078,
+          0.5639534884589363,
+          0.16605839376253034,
+          0.5712209300003659
+        ],
+        "order": 214
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_88",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BAVARLA",
+        "bbox": [
+          0.04014598699924549,
+          0.6002906977293142,
+          0.0985401463340878,
+          0.6104651159819261
+        ],
+        "order": 217
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_90",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MANATEE",
+        "bbox": [
+          0.10766423353594724,
+          0.6017441862302543,
+          0.16423357479738607,
+          0.6090116277716838
+        ],
+        "order": 218
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_115",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.4160583941669289,
+          0.6031976745592876,
+          0.425182481562998,
+          0.611918604219782
+        ],
+        "order": 221
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_243",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1 Idiot husband attracted to old goddess sealing fate (6)",
+        "bbox": [
+          0.6040145973032536,
+          0.611855158556472,
+          0.7572992679339728,
+          0.6322674417752886
+        ],
+        "order": 223
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_257",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1 Nipper gets caught - something illegally broken? (4)",
+        "bbox": [
+          0.7919708057935779,
+          0.6133432541818326,
+          0.9543795572842808,
+          0.6322674417086702
+        ],
+        "order": 224
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_91",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RUNWILD",
+        "bbox": [
+          0.10766423480946447,
+          0.6148255816759908,
+          0.16605839414430676,
+          0.6220930232174202
+        ],
+        "order": 225
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_89",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• WICILIT",
+        "bbox": [
+          0.04197080294123306,
+          0.6162790697770222,
+          0.08029197059891291,
+          0.6192956349494674
+        ],
+        "order": 226
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_242",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "4 A theologian with hesitation about death, as shown in final notes? (8)",
+        "bbox": [
+          0.6058394200528582,
+          0.6321924602667882,
+          0.7572992665331058,
+          0.6599743242891035
+        ],
+        "order": 227
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_259",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "2 Speech offering worship putting a daughter off (7)",
+        "bbox": [
+          0.7937956257256411,
+          0.6321924602667882,
+          0.9653284675833611,
+          0.6511627904600921
+        ],
+        "order": 228
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_92",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BUTPLAVER",
+        "bbox": [
+          0.03828448084240912,
+          0.6495685065913486,
+          0.11682500951714382,
+          0.662931493292224
+        ],
+        "order": 229
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_93",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FESCO",
+        "bbox": [
+          0.11861313800632269,
+          0.6497093027694644,
+          0.16605839365426128,
+          0.6686046506825706
+        ],
+        "order": 230
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_258",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "3 Priest's greeting wayward, not right (8)",
+        "bbox": [
+          0.791970806531215,
+          0.6510416667504529,
+          0.9507299218751111,
+          0.6701388889747869
+        ],
+        "order": 231
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_244",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "9 Wreath made specially with a name on the front (6)",
+        "bbox": [
+          0.6040145975580209,
+          0.6613372095136817,
+          0.7554744501153368,
+          0.6803075394778506
+        ],
+        "order": 232
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_94",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CORER",
+        "bbox": [
+          0.04011053018935244,
+          0.6655883412616531,
+          0.0821522445813282,
+          0.6745279376572971
+        ],
+        "order": 233
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_95",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TABLEWINE",
+        "bbox": [
+          0.08941605983248899,
+          0.6656976745236164,
+          0.16423357707444525,
+          0.672965116065046
+        ],
+        "order": 234
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_260",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "5 Finds very big lake's behind dance venue (11)",
+        "bbox": [
+          0.7919708028843668,
+          0.6715116282101765,
+          0.9379562012214726,
+          0.6904761905993158
+        ],
+        "order": 235
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_98",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TORONTO",
+        "bbox": [
+          0.10401459851829954,
+          0.6729651159915281,
+          0.16605839399994868,
+          0.6889534886126102
+        ],
+        "order": 236
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_97",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AI",
+        "bbox": [
+          0.12043795595266413,
+          0.672965116382415,
+          0.1332116789013505,
+          0.6831395346350267
+        ],
+        "order": 237
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_96",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HAIRNET",
+        "bbox": [
+          0.04192925856469512,
+          0.6786050839893149,
+          0.09858169130053039,
+          0.6876739855660079
+        ],
+        "order": 238
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_245",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "10 Crustacean, a sort confused with fish (8)",
+        "bbox": [
+          0.5985401464030514,
+          0.6816860468557994,
+          0.7718978063341748,
+          0.6991567462054328
+        ],
+        "order": 239
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_100",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I T",
+        "bbox": [
+          0.1058394162528695,
+          0.6860119047837967,
+          0.1332116778468872,
+          0.6933139532077303
+        ],
+        "order": 240
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_261",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "6 Lord, the old man turning up in a flap (6)",
+        "bbox": [
+          0.7937956253600773,
+          0.6904069768475312,
+          0.959854012997587,
+          0.7093253966085058
+        ],
+        "order": 241
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_101",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CAHI ERS",
+        "bbox": [
+          0.10397888087329929,
+          0.6930695848751551,
+          0.16426929413264507,
+          0.6993722755703577
+        ],
+        "order": 242
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_99",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SUNLESSI",
+        "bbox": [
+          0.04014598675208149,
+          0.6933139535752154,
+          0.10036496416032721,
+          0.7005813951166449
+        ],
+        "order": 243
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_246",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "11 Mad Parisian, top bod acquiring condemnation (14)",
+        "bbox": [
+          0.598540147290529,
+          0.7005813955975312,
+          0.7664233530014422,
+          0.7194940477929554
+        ],
+        "order": 244
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_262",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "7 Say no to commercial product after end of Christmas month (7)",
+        "bbox": [
+          0.791970801542099,
+          0.71075581429766,
+          0.958029198457901,
+          0.7281976740744331
+        ],
+        "order": 245
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_116",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14",
+        "bbox": [
+          0.4908759130553696,
+          0.7194767443751792,
+          0.5036496348156767,
+          0.7281976740356736
+        ],
+        "order": 246
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_247",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "13 Opposing team with angry thought? (10)",
+        "bbox": [
+          0.5985401496263605,
+          0.7209302327714971,
+          0.742700729890063,
+          0.7398313490241628
+        ],
+        "order": 247
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_263",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "8 Saleswoman in eating area by motorway (9)",
+        "bbox": [
+          0.7919708059255162,
+          0.7281746031811597,
+          0.9452554765562357,
+          0.7485465112692007
+        ],
+        "order": 248
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_117",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.46532846779989506,
+          0.7383720931100992,
+          0.4781021895602021,
+          0.7456395346515287
+        ],
+        "order": 249
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_249",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "14 A bit of tin blocking public entrance (4)",
+        "bbox": [
+          0.5985401469157996,
+          0.7398255816319306,
+          0.7408759091060985,
+          0.758969439147094
+        ],
+        "order": 250
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_264",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "12 Put outside theatre or inside? (11)",
+        "bbox": [
+          0.7883211699431976,
+          0.7499999999191664,
+          0.9616788298743211,
+          0.7572674419336486
+        ],
+        "order": 251
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_118",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16",
+        "bbox": [
+          0.22445255539113598,
+          0.7572674419473086,
+          0.23722627715144312,
+          0.764534883488738
+        ],
+        "order": 252
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_122",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "17",
+        "bbox": [
+          0.2718978108655885,
+          0.7572674420495977,
+          0.2846715326258957,
+          0.7659883717100923
+        ],
+        "order": 253
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_124",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.5127737229017808,
+          0.7572674422191715,
+          0.5255474446620879,
+          0.7659883718796658
+        ],
+        "order": 254
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_123",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18",
+        "bbox": [
+          0.3448905114130338,
+          0.7572674422918458,
+          0.357664233173341,
+          0.7659883719523402
+        ],
+        "order": 255
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_265",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "13 Island nation in which peak always starts to delight everyone (4,5)",
+        "bbox": [
+          0.7883211710222393,
+          0.7586805555271071,
+          0.961678830390926,
+          0.7877906973157123
+        ],
+        "order": 256
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_248",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "16 Power shown by lustful man in small vehicle (4)",
+        "bbox": [
+          0.5985401515774359,
+          0.7586805557760805,
+          0.7627737211415422,
+          0.7776162787110611
+        ],
+        "order": 257
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_250",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "18 Case when number one inhabitant amasses millions (10)",
+        "bbox": [
+          0.5985401481897432,
+          0.7775297619882164,
+          0.7682481762642648,
+          0.7966269843108716
+        ],
+        "order": 258
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_125",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.3211678834017746,
+          0.7776162793019595,
+          0.3321167882770575,
+          0.7848837208433891
+        ],
+        "order": 259
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_266",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "15 Bad act of wise man, imprisoning head monk heartlessly? (8)",
+        "bbox": [
+          0.7883211693273214,
+          0.7876984127032473,
+          0.961678829258445,
+          0.806795634968974
+        ],
+        "order": 260
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_119",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "21",
+        "bbox": [
+          0.22445255473997414,
+          0.7950581396755668,
+          0.23540145961525702,
+          0.8037790693360611
+        ],
+        "order": 261
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_251",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "21 Panic? It's over - go out to get something to eat (8,6)",
+        "bbox": [
+          0.600364965616004,
+          0.7978670634122217,
+          0.7554744543201269,
+          0.8169642856416113
+        ],
+        "order": 262
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_267",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "17 A new coin seen here? One held to be very old (7)",
+        "bbox": [
+          0.7883211693694068,
+          0.8080357143583887,
+          0.952554738933513,
+          0.8271329363384734
+        ],
+        "order": 263
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_126",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22",
+        "bbox": [
+          0.5620437962670484,
+          0.8154069768310294,
+          0.5748175180273556,
+          0.8226744183724589
+        ],
+        "order": 264
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_252",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "23 Rector, I start with hymn, somehow showing verbal skill (8)",
+        "bbox": [
+          0.600364967821525,
+          0.8182043649002121,
+          0.7737226284154284,
+          0.8373015872967527
+        ],
+        "order": 265
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_268",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "19 One who painted over second entrance (7)",
+        "bbox": [
+          0.7883211721068459,
+          0.8270348840665235,
+          0.9452554693773386,
+          0.8461373081277458
+        ],
+        "order": 266
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_127",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "24",
+        "bbox": [
+          0.439781022199933,
+          0.8343023255601935,
+          0.45437956203364355,
+          0.8459302324049229
+        ],
+        "order": 267
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_120",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23",
+        "bbox": [
+          0.22445255472476727,
+          0.834302325795419,
+          0.23540145960005018,
+          0.8415697673368484
+        ],
+        "order": 268
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_254",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "24 Newest info from the French game (6)",
+        "bbox": [
+          0.598540148097756,
+          0.8372093025389389,
+          0.7536496368018789,
+          0.8561507934836635
+        ],
+        "order": 269
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_269",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "20 See inside enclosed area cut green? (6)",
+        "bbox": [
+          0.7883211707598685,
+          0.84738372114359,
+          0.937956205243781,
+          0.8663194442420883
+        ],
+        "order": 270
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_253",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "25 To be gripping not everyone, one put in power (8)",
+        "bbox": [
+          0.5985401507787583,
+          0.8561046511318989,
+          0.7737226287832851,
+          0.8766083856131102
+        ],
+        "order": 271
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_270",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "22 Shock report finally appearing in tabloid (4)",
+        "bbox": [
+          0.7883211724561766,
+          0.8662790699807993,
+          0.9598540143138964,
+          0.8866567461704278
+        ],
+        "order": 272
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_121",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "25",
+        "bbox": [
+          0.22445255502617245,
+          0.8720930232942077,
+          0.2372262767864796,
+          0.8793604648356371
+        ],
+        "order": 273
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_128",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "26",
+        "bbox": [
+          0.44160583991820407,
+          0.8735465118782678,
+          0.4543795616785113,
+          0.8808139534196974
+        ],
+        "order": 274
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_255",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "26 Energy's associated with enzyme (6)",
+        "bbox": [
+          0.598540149794064,
+          0.8764534884572698,
+          0.7755474458719943,
+          0.8953488368609781
+        ],
+        "order": 275
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_102",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Stuck? For help call 0906 200 83 83. Laus costri. O der minute. dius vou: phone company's access charge. Service supplied by ATS.",
+        "bbox": [
+          0.03832116878404934,
+          0.8836805555048836,
+          0.15510948974846753,
+          0.9114583331651817
+        ],
+        "order": 276
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_103",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cdll 0550 555 0340 for customer service (charded at standard rate). Want more? Get access to more than 4,000 puzzles at theguardian.com/ crossword. Io Duy puzzle books, visit guardianbookshop.com or call 0330 333 6846.",
+        "bbox": [
+          0.03832116587462497,
+          0.9126984126709098,
+          0.1532846711428257,
+          0.9549418603836629
+        ],
+        "order": 277
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_271",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_271",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0408776264168208,
+          0.0325187037637593,
+          0.06013039453009975,
+          0.05592640853749524
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_276",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_276",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6437978216559923,
+          0.13960953062749004,
+          0.9641392935852842,
+          0.5536615601015057
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_129",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Codeword",
+        "bbox": [
+          0.6477353774906707,
+          0.14507911864765904,
+          0.720877760151058,
+          0.15869995125741101
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_272",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_272",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.036901876137309976,
+          0.14345401596738047,
+          0.17057785914840068,
+          0.9550924862132353
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Yesterday's solutions",
+        "bbox": [
+          0.03824987697140079,
+          0.1450893814968691,
+          0.12050924824464357,
+          0.17151162789041963
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_274",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_105",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Killer sudoku",
+        "bbox": [
+          0.22262773772938788,
+          0.1453373017198166,
+          0.3211678851720719,
+          0.15848214298965793
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_274",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.22158700248799137,
+          0.16800379479325345,
+          0.5905532387597541,
+          0.5544054823902917
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_106",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Easy",
+        "bbox": [
+          0.22262773824091384,
+          0.17587209290657646,
+          0.25729926975178685,
+          0.18895348834342346
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_130",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_130",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Each letter of the alphabet makes at least one appearance in the grid, and is represented by the same number wherever it appears. The letters decoded should help you to identify other letters and words in the grid.",
+        "bbox": [
+          0.6478102163485006,
+          0.17435515869070903,
+          0.9525547395365361,
+          0.2034883719715095
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_107",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_107",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The normal rules of sudoku apply: fill each row, column and 3x3 box with all the numbers from 1 to 9. In addition, the digits in each inner shape (marked by dots) must add up to the number in the top corner of that box. No digit can be repeated within an inner shape.",
+        "bbox": [
+          0.22259029957536688,
+          0.19320436490284515,
+          0.34306569424218736,
+          0.3111887259353225
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Killer sudoku Easy",
+        "bbox": [
+          0.040145985909388594,
+          0.19618055540940627,
+          0.09854014594479339,
+          0.2122093021115579
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1597",
+        "bbox": [
+          0.056569344496417345,
+          0.22819767442505062,
+          0.10766423153764591,
+          0.2383720926776626
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_42",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_42",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Medium",
+        "bbox": [
+          0.04014598641609634,
+          0.3226744188325435,
+          0.07481751792696935,
+          0.3313953484930379
+        ],
+        "order": 96
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_108",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_108",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Medium",
+        "bbox": [
+          0.22077716044048626,
+          0.37927800413400936,
+          0.2792228383908611,
+          0.3910708332464104
+        ],
+        "order": 125
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_68",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_68",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Codeword",
+        "bbox": [
+          0.04008038781877229,
+          0.4444970140092583,
+          0.08583202245814388,
+          0.452305311408749
+        ],
+        "order": 166
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_275",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_114",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Guardian cryptic crossword No 29,586 set by Pasquale",
+        "bbox": [
+          0.22262773647193249,
+          0.5741279069125694,
+          0.5875912370682136,
+          0.5901162795336515
+        ],
+        "order": 215
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_275",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.22222815919119002,
+          0.6019031067824291,
+          0.5878289787732811,
+          0.8918954238194282
+        ],
+        "order": 219
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_87",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_87",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Cryptic crossword Solution No. 29,585",
+        "bbox": [
+          0.04014598633025344,
+          0.5813492063958787,
+          0.12043795424848547,
+          0.5974702381034968
+        ],
+        "order": 216
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_241",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_241",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Across",
+        "bbox": [
+          0.6147970709902368,
+          0.6027340218399961,
+          0.6516262855913673,
+          0.6123822569112692
+        ],
+        "order": 220
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_052",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_256",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_052_256",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Down",
+        "bbox": [
+          0.8047445261516909,
+          0.6031976746464968,
+          0.8339416058191119,
+          0.6119186043069913
+        ],
+        "order": 222
+      }
+    ]
+  }
+]

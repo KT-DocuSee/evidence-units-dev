@@ -1,0 +1,136 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Daily streamflow modelling and assessment based on the curve-number technique",
+        "bbox": [
+          0.12435302459304,
+          0.17813881040589857,
+          0.87047117215128,
+          0.22564249318080487
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Jin-Yong Choi, 1* Bernard A. Engel and Ha Woo Chung2 1 Department of Agricultural and Biological Engineering, Purdue University, West Lafayette IN 47907-1146, USA. 2Division of Biological Resoures and Material Engineering, Seul National University, Suwon, Kyoung 41-744, South Korea",
+        "bbox": [
+          0.14115748737588324,
+          0.24345637422139474,
+          0.855347155646721,
+          0.2862096887188104
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_2",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Abstract:",
+        "bbox": [
+          0.46884451164132646,
+          0.33490096356308935,
+          0.5411037016075524,
+          0.34915206839556123
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A cell-based long-term hydrological model (CELTHYM) that can be integrated with a geographical information system (GIS) was developed to predict continuous stream fow from small agricultural watersheds. The CELTHYM uses a cel-by-cell soil moisture balance approach. For surface runoff estimation, the curve number echnique considering soil moisuren  dail basis wassean release rae was seto estimate basefw. Evapoansiratin computed using the FAO modifed Penman equation that considered land-use-based crop coefficients, soil moisture ad e ien ofpgpon aatnice p  water ut e slspte f e seif application f the md to East Asia.Mdel sensitivity nalsis was conucte toobtainopertional foration ab the model calibration parameters. The CELTHYM was calibrated and verified with measured runof data from the WS#1 and WS#3 watersheds of the Seoul National University, Department of Agriculural Engineering, in Hwaseng County, Kyounggi Province, South Korea. The WS#1 watershed is comprised of about 35.4% rice paddy fields and 42.3% forest, whereas the WS#3 watershed is about 85.0% forest and 11.5% rice paddy fields. The CELTHYM was calibrated for the parameter release rate, K, and soil moisture storage coeficient, ST, and results were compared with the measured runoff data for 1986. The validation results for WS#1 considering al daily stream fow were poor with R2, E2 and RMSE having values of 0.40,—6.63 and 9.69 (mm), respectively, but validation results for days without rainfall were statistically signifcant (R2 = 0.66). Results for WS#3 showed good agreement with observed data for all days, and R2, E2 and RMSE were 0.92, 0.91 and 2.23 (mm), respectively, suggesting potential for CELTHYM application to ther watersheds. The direct runof and water balance components for watershed WS#1 with signifcant areas of paddy felds did not perform well, suggesting that additional study of these components is needed. Copyright © 2002 John Wiley & Sons, Ltd.",
+        "bbox": [
+          0.1327552559844616,
+          0.35865280495054247,
+          0.8620689407598583,
+          0.581920113992602
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "KEY woRDs watershed modelling; GIS; soil moisture balance; grid-based modelling, paddy field water balance; model calibration; sensitivity analysis; model assessment",
+        "bbox": [
+          0.1327552559844616,
+          0.5914208505475833,
+          0.8755125109861329,
+          0.6151726919350364
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_5",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "INTRODUCTION",
+        "bbox": [
+          0.43019424724078703,
+          0.6436749015999802,
+          0.5612690569469643,
+          0.6579260064324521
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Water resources development and watershed management require an understanding of hydrological variations owing to changes in watershed characteristics over long-term periods (Bhaduri et al., 2000), and spatial variability of watershed characteristics that ffect hydrological phenomenon also must be evaluated in heterogeneous land-use watersheds. However, hydrological model operations that refect long-term watershed changes often have limitations owing to dificulties obtaining measured hydrological data and data quantifying land use and soil characteristics. Therefore, simulation of stream fow on a daily basis using a long-term hydrological model that is simple to operate with readily available data is needed.",
+        "bbox": [
+          0.11427034692333404,
+          0.6662391509180607,
+          0.880553849820986,
+          0.7648092926759913
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Continuous models, also called long-term hydrological models or continuous stream flow models, typically are focused on estimating water yield from a watershed. Owing to complications and dificulties related to data preparation and operation, however, these hydrological models largely have been used for daily, 10-day and",
+        "bbox": [
+          0.1109094543667654,
+          0.7648092926759913,
+          0.8771929572644173,
+          0.8075626071734069
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

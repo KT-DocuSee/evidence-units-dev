@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1",
+    "primary_id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "- - -",
+        "bbox": [
+          0.4205438066465257,
+          0.0,
+          0.9997985901309164,
+          0.4723646723646724
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1",
+    "primary_id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Beyond traditional corporate governance: What's the role of the board in fostering sustainability and innovation?",
+        "bbox": [
+          0.0717019133937563,
+          0.12535612535612536,
+          0.3214501510574018,
+          0.3868945868945869
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1",
+    "primary_id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_4",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Summary",
+        "bbox": [
+          0.5099697885196375,
+          0.584045584045584,
+          0.6292044310171199,
+          0.6034188034188034
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The European Corporate Governance Conference 2021 explored how boards can support the process of long- term value creation.",
+        "bbox": [
+          0.05720040281973817,
+          0.5857549857549857,
+          0.47854984894259817,
+          0.6336182336182337
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The European Corporate Governance Conference 2021 explored how sustainable corporate governance can help to foster sustainability and long-term value creation. Key topics included the roles of the audit committee and internal audit, sustainability reporting, remuneration policies, supply chain due diligence, competitiveness, innovation and the European Commission's sustainable corporate governance proposal.",
+        "bbox": [
+          0.5075528700906344,
+          0.6125356125356125,
+          0.9216515609264854,
+          0.7601139601139602
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaor2_ey-beyond-traditional-corporate-governance.pdf_1_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Boards should make time to reflect on their company's long-term value creation and its role in the global value chain. Audit committees can assure the reliability of the information used to inform decision-making, making links between financial and sustainability risks. Sustainable corporate governance will help to drive better risk management, greater innovation and higher levels of transparency.",
+        "bbox": [
+          0.05639476334340383,
+          0.6370370370370371,
+          0.47854984894259817,
+          0.7863247863247863
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

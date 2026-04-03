@@ -1,0 +1,221 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "多栏式库存现金日记账是在三栏式日记账基础上发展建立起来的。现金支出按应借科目分设专 栏，现金收入按应贷科目设专栏，各有关专栏的合计数就是登记总账的依据。这种账簿由于现金对 应科目较多，账页会很大，给登账工作带来一定困难。因此，我们又可以将多栏式库存现金日记账 分为库存现金收入日记账和库存现金支出日记账。其格式如表8-6、表8-7所示。",
+        "bbox": [
+          0.07476420309949629,
+          0.08824807241154746,
+          0.9086726222861856,
+          0.1669925062556975
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "表8-6 第页",
+        "bbox": [
+          0.11310482007359694,
+          0.1737808195181242,
+          0.1629476221399278,
+          0.188715108695463
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_3",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "库存现金收入曰记账",
+        "bbox": [
+          0.40449350907676196,
+          0.1737808195181242,
+          0.5559389461244596,
+          0.19007277134794837
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.8070699873048189,
+          0.1941457593054044,
+          0.86841497446338,
+          0.20772238583025787
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07476420309949629,
+          0.21043771113522855,
+          0.9067555914374806,
+          0.4208754222704571
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "库存现金支出日记账",
+        "bbox": [
+          0.40449350907676196,
+          0.42494841022791313,
+          0.5559389461244596,
+          0.4412403620577373
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_7",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "第页",
+        "bbox": [
+          0.8070699873048189,
+          0.44531335001519334,
+          0.86841497446338,
+          0.45753231388756144
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "多栏式库存现金日记账的登记方法与三栏式库存现金日记账的一样，区别在于现金收入和现金 支出分别反映在两本账上。根据现金付款凭证登记库存现金支出日记账，并按日结出每天的现金支 出总数填记在支出合计栏内，同时将库存现金支出日记账上的支出合计数转记到库存现金收入日记 账上。根据现金收入凭证登记库存现金收入日记账，并按日结出每天现金收入总数，登记在收入合 计栏内，同时按公式“当日现金余额=昨日现金余额+当日收入现金合计-当日支出现金合计”结出 当天现金的结存余额，与现金实存数核对相符。",
+        "bbox": [
+          0.07476420309949629,
+          0.6815466515476435,
+          0.9086726222861856,
+          0.8010209649663539
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "银行存款日记账是指由出纳员根据银行存款收款凭证、银行存款付款凭证和部分现金付款凭证 逐日逐笔按经济业务发生的先后顺序进行登记的账簿。其格式也有三栏式和多栏式，均采用订本式 账簿。",
+        "bbox": [
+          0.07476420309949629,
+          0.8227435674061194,
+          0.9067555914374806,
+          0.8797653988105039
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.三栏式银行存款日记账及其登记方法 三栏式银行存款日记账主要设有“收入”“支出”和“结存”三栏。其格式如表8-8所示。",
+        "bbox": [
+          0.11118778922489192,
+          0.8838383867679599,
+          0.8664979436146749,
+          0.9218529410375496
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表8-7",
+        "bbox": [
+          0.11310482007359694,
+          0.42494841022791313,
+          0.1629476221399278,
+          0.43988269940525193
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_8",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07668123394820132,
+          0.46160530184501747,
+          0.9048385605887755,
+          0.6706853503277607
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_10",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61518266.pdf_149_10",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "（二）银行存款日记账",
+        "bbox": [
+          0.11310482007359694,
+          0.8023786276188392,
+          0.3009738432466902,
+          0.8200282421011487
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

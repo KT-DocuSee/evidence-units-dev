@@ -1,0 +1,179 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_8",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05165284963754507,
+          0.04060453283513015,
+          0.9518044272621909,
+          0.5460490503490344
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E0.17",
+        "bbox": [
+          0.6845124296052463,
+          0.8212209303194015,
+          0.7093690243781827,
+          0.828488371860831
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E-1.02",
+        "bbox": [
+          0.5181644365015713,
+          0.8808139535752154,
+          0.5487571706367333,
+          0.888081395116645
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E-1,01",
+        "bbox": [
+          0.615678777511361,
+          0.8808139535752154,
+          0.6443594643624441,
+          0.888081395116645
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_9",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3469136332417582,
+          0.6559148800397965,
+          0.9523334880451579,
+          0.9302881165187892
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+12.50",
+        "bbox": [
+          0.8833652008492822,
+          0.7223837213616134,
+          0.9043977060340833,
+          0.7311046510221076
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E2.11",
+        "bbox": [
+          0.5774378587581755,
+          0.754360465125058,
+          0.6003824087370444,
+          0.7601744185474227
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*0.93",
+        "bbox": [
+          0.8891013382076671,
+          0.8459302327777638,
+          0.9063097513143217,
+          0.8561046510303758
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "K4 INTERNENME",
+        "bbox": [
+          0.11190437101655899,
+          0.8488372093188826,
+          0.328871891468914,
+          0.9099702381227964
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

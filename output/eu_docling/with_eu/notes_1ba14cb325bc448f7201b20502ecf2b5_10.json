@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_10",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NO",
+        "bbox": [
+          0.7802874741290886,
+          0.06395348842093246,
+          0.8028747430680366,
+          0.07412790667354435
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7782340862451981,
+          0.09156976765321671,
+          0.8172484601100383,
+          0.10319767449794617
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7782340862451981,
+          0.09156976765321671,
+          0.8172484601100383,
+          0.10319767449794617
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_10",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1 1+1",
+        "bbox": [
+          0.43121150059076185,
+          0.29651162803112363,
+          0.579055436904105,
+          0.3081395348758531
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ER 28",
+        "bbox": [
+          0.27720739226027213,
+          0.3110119044252008,
+          0.3429158119638406,
+          0.3299418599303903
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_10",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CId#",
+        "bbox": [
+          0.6755646824634699,
+          0.31250000032708475,
+          0.7248459945679178,
+          0.331395348240191
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_10",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_10_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ЗАПРАННА.",
+        "bbox": [
+          0.12320328515535771,
+          0.6569767442723426,
+          0.3737166305970623,
+          0.678779069369684
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

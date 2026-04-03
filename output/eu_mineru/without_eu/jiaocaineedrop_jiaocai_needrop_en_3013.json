@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_0",
+    "text": "1.获取已知数据X0,yo,f,Xs1,Ys1,Zs1, φ1,ω1,K1,Xs2,Ys2,Zs2,φ2,ω22",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13631780600927607,
+      0.1105885706142226,
+      0.7630570679572495,
+      0.13396038192959955
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_1",
+    "text": "2.量测像点坐标X1,y1,×2y2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1347045775357935,
+      0.1413709562491093,
+      0.38152853397862474,
+      0.15961236995867178
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_2",
+    "text": "3.由外位线元素计算基线分量Bx,By,Bz",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13228473482556968,
+      0.1675929884566054,
+      0.5001008267795927,
+      0.18697449052301554
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_3",
+    "text": "4.由外位元素计算像空间辅助坐标X₁,Y1,Z1,X2,Y2,Z2(需要旋转矩阵R)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13793103448275862,
+      0.1943850648425253,
+      0.779189352692075,
+      0.2149066552657831
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_4",
+    "text": "BxZ₂-B_X2 Bx = X s2 −Xs1 = NX1 −N2X2 N, = X,Z2 −X 2Z1 By = Ys2 −Ys1 = NY, −N2Y2 BxZ₁− BzX₁ Bz = Zs2 −Zs1 = N,Z, −N2Z2 N₂= X,Z2−X₂Z₁",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1613228473482557,
+      0.2171868319794784,
+      0.8767896753377697,
+      0.3562776115148924
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_5",
+    "text": "5.计算投影系数N1,N2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13309134906231096,
+      0.3659683625480975,
+      0.3379713651945957,
+      0.3847798204360838
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_6",
+    "text": "6.计算地坐标XA，YA,ZA",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13309134906231096,
+      0.3927604389340174,
+      0.37184916313772937,
+      0.4127119851788514
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_7",
+    "text": "利用立体像对确定地面点",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1201855212744505,
+      0.43494370813738065,
+      0.7307924984875983,
+      0.4811172865897107
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3013_8",
+    "text": "● 共线条件严密解法 ● 空间后交会-空间前交会解法",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1387376487194999,
+      0.5136098047598688,
+      0.43960475902399676,
+      0.5552230297848083
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3013",
+    "order": 9
+  }
+]

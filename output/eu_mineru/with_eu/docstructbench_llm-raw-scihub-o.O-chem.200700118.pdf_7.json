@@ -1,0 +1,257 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "own. Typical of the results are those afforded by B3LYP/6- 31 +G* methods; these indicate an equilibrium geometry which, like that of H2C=SHCl,9] is a bent planar one with the HF axis directed toward the S atom and subtending a C=S.H angle close to 90°, as shown in Figure 6. Such a structure and its dimensions tally with those deduced in the earlier theoretical studies.[29,30] The vibrational properties computed for the present model, together with the corre- sponding properties computed on a similar basis for the free subunits H2C=S and HF, the experimental results both for the normal and perdeuterated forms of D and for the com- plex H2C=SHCl, are given as Supporting Information.",
+        "bbox": [
+          0.07562008252279459,
+          0.0807562607173407,
+          0.4822880818676011,
+          0.1496366007409548
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5158970074332876,
+          0.0807562607173407,
+          0.922565006778094,
+          0.2612702552619846
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.16804462782843244,
+          0.16863807385091734,
+          0.3932244291185319,
+          0.2672082156088479
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.07730052880107892,
+          0.31827467459187214,
+          0.4822880818676011,
+          0.41446963221105737
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a final step, continued UV-visible irradiation brings about a tautomeric change in CHgSF, with detachment of a hydrogen atom from the methyl group to form HF and thio- formaldehyde, H2C=S, which together form the complex H2C=S.HF.",
+        "bbox": [
+          0.5158970074332876,
+          0.26245784733135724,
+          0.922565006778094,
+          0.3301505952855987
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_2",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 6. Molecular model of the H2CS.HF complex optimized with the B3LYP/6-31 + G* theoretical model.",
+        "bbox": [
+          0.07562008252279459,
+          0.2743337680250838,
+          0.48396852814588537,
+          0.2968980173431643
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_11",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Scheme 2 summarizes these photochemical events. In ad- dition, there are secondary reactions involving, for example, the elimination of OCS, together presumably with CH₃F al- though this could not be detected, as well as the formation of loosely bound CO complexes.",
+        "bbox": [
+          0.5158970074332876,
+          0.332525779424344,
+          0.922565006778094,
+          0.4014061194479581
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Where comparisons can be made, there is good agreement between the theoretical and experimental wavenumbers. Both the direction and magnitude of the wavenumber shifts found experimentally to be induced by complexation are re- produced by the calculations. For example, the experimental (HF) shift of –435.3 cm−1 is matched theoretically by a shift of –437.9 cm-1. Small blue shifts of the fundamentals that could be observed for the H2C=S subunit are also anticipat- ed satisfactorily by the calculations. Low intensity in terms of IR absorption, masking by more intense absorptions of other species, and wavenumbers falling below the minimum threshold of the present measurements are then explana- tions sufficient to account for the fundamentals of H2C= SHF and D2C=SDF that escaped detection. Despite these omissions, though, we have little doubt that D has thus been identified correctly.",
+        "bbox": [
+          0.07562008252279459,
+          0.41565722428043006,
+          0.48396852814588537,
+          0.637736941253117
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_11",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5158970074332876,
+          0.422782776696666,
+          0.9158432216649567,
+          0.7220559781785756
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The matrix photochemistry of methyl thiofluoroformate, FC(O)SCH3, follows closely the precedents set by the corre- sponding thiochloroformate, ClC(O)SCH3.[9] The various re- action channels have been charted by characterization of the photoproducts by their IR spectra and by monitoring the behavior of the IR absorptions as a function of photoly- sis time. The conclusions have been endorsed by studying the effects of perdeuteration of the parent compound and carrying out quantum chemical calculations on the putative products.",
+        "bbox": [
+          0.07562008252279459,
+          0.6935537685136318,
+          0.4822880818676011,
+          0.8313144485608601
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_12",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Scheme 2. Outline of the photochemical reactions of FC(O)SCH3 isolated in a solid Ar matrix.",
+        "bbox": [
+          0.5142165611550032,
+          0.7303691226641842,
+          0.922565006778094,
+          0.7529333719822647
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_13",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Experimental and Computational Procedures",
+        "bbox": [
+          0.539423255329268,
+          0.7707472530228545,
+          0.8990387588821135,
+          0.7861859499246991
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FC(O)SCH3 was prepared by the reaction of ClC(O)SCH3 with TIF (both from Aldrich) at ambient temperature, 7] and subsequently purified by repeated trap-to-trap condensation under vacuum. The purity of the compound was checked by reference to the IR spectrum of the vapor and to the 'H, 13C, and 19F NMR spectra of the liquid.[8] The perdeuterat- ed compound FC(O)SCD3 was prepared for the first time by the corre-",
+        "bbox": [
+          0.5158970074332876,
+          0.800437054757171,
+          0.9208845604998097,
+          0.8740677630582757
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The photolytic interconversion of the two rotamers of FC(O)SCHz is the first process observed on broadband UV- visible irradiation of the matrix-isolated molecule, behavior made familiar by analogous studies of other sulfenyl carbon- yl compounds, for example, ClC(O)SCH,[9] FC(O)SCl,[12] FC(O)SBr,[4] and ClC(O)SBr.[1] The unambiguous identifi- cation of IR absorptions due to the less stable anti rotamer allows us to conclude that the vapor is composed of approxi- mately 98 % of the syn form and 2 % of the anti form at am- bient temperatures, in good agreement with the forecasts of quantum chemical calculations. Both forms of FC(O)SCH3 then photodecompose. The main reaction channel involves the elimination of CO with the formation of the hitherto elusive sulfenyl fluoride CH₃SF, thus emulating similar pho- tochemical processes starting from ClC(O)sCH3,[9] FC(O)SC1, 3] FC(O)SBr,[4] and CIC(O)SBr.[1]",
+        "bbox": [
+          0.07562008252279459,
+          0.8348772247689781,
+          0.4822880818676011,
+          0.8740677630582757
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700118.pdf_7_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Conclusions",
+        "bbox": [
+          0.23190158640323674,
+          0.665051558848688,
+          0.3276870242654432,
+          0.67930266368116
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tir 4/5",
+        "bbox": [
+          0.3750000006314165,
+          0.10019841263896198,
+          0.4036885249150314,
+          0.10615079359134284
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_33",
+    "source": "visual_seed",
+    "member_count": 29,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_33",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10076332092285156,
+          0.10024332908444447,
+          0.893313864003057,
+          0.27982980402782975
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tir 6",
+        "bbox": [
+          0.6495901650983784,
+          0.10610465124963411,
+          0.6721311471283975,
+          0.11337209279106371
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tir O aps",
+        "bbox": [
+          0.7315573782654635,
+          0.11036706339305256,
+          0.7622950815193725,
+          0.12209302318980673
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Locene strata",
+        "bbox": [
+          0.7889344301609479,
+          0.1103670634618102,
+          0.8237704913554451,
+          0.11337209288849086
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LINE TI",
+        "bbox": [
+          0.12704918113969021,
+          0.1641865079958482,
+          0.163934426647195,
+          0.1716269841863245
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Line T1 (merge)",
+        "bbox": [
+          0.13114754268877302,
+          0.2005813954356805,
+          0.1782786883904619,
+          0.2078488369771101
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "adam, mean.",
+        "bbox": [
+          0.6188524566605713,
+          0.2354651168438033,
+          0.6250000019194434,
+          0.2674418583015456
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LINE TIB",
+        "bbox": [
+          0.3790750378666622,
+          0.2659152878086291,
+          0.42420364915614867,
+          0.27332889838810465
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_1",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 14. Line drawing of the N-S seismic profile T1. The profile is located west of the Elba-Pianosa ridge in the Corsica Basin (see Figs 4D and 13 for positions). Note: (i) continuous presence of Oligocene strata below the Neogene; (ii) regular pattern of Tir 0. (The uninterpreted seismic profile has been published in Lazzarotto et al. (1995); A, B, C, D are unconformities also shown in Fig. 7.)",
+        "bbox": [
+          0.10040984002951073,
+          0.28918650788350314,
+          0.8831967266536852,
+          0.3401162788331857
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E",
+        "bbox": [
+          0.8565573770233587,
+          0.35610465098797184,
+          0.8709016391651659,
+          0.36918604642481895
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "W",
+        "bbox": [
+          0.10450819697283138,
+          0.3575581396382288,
+          0.12090163942061125,
+          0.3677325578908408
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FARO BASIN",
+        "bbox": [
+          0.6188524605255127,
+          0.364825581374147,
+          0.7172131152121921,
+          0.37648809533790684
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "S. VINCENZO BASIN",
+        "bbox": [
+          0.3688524638176261,
+          0.36482558138868176,
+          0.5245901617288219,
+          0.37648809535244165
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SECCHE DI VADA RIDGE",
+        "bbox": [
+          0.6987704897714484,
+          0.38219246030212495,
+          0.889344259562568,
+          0.3938953488438762
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Line T1",
+        "bbox": [
+          0.2581967213701724,
+          0.38662790698738647,
+          0.28688524565378726,
+          0.3924418604097512
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tir 4/5",
+        "bbox": [
+          0.5840163930110309,
+          0.3953373016390294,
+          0.6106557383243515,
+          0.4011627906888955
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tir 6",
+        "bbox": [
+          0.6946721310008752,
+          0.3982558141675121,
+          0.7151639340606001,
+          0.4055232557089415
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "436 4,42",
+        "bbox": [
+          0.8258196721805585,
+          0.4055059523776189,
+          0.8504098358522283,
+          0.41279069771508986
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "364",
+        "bbox": [
+          0.70901639371323,
+          0.40552325590079685,
+          0.721311475549065,
+          0.41279069744222646
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(nad) aunt tvu ou",
+        "bbox": [
+          0.8811475382426354,
+          0.42732558115265856,
+          0.8872950845032662,
+          0.47093023134734135
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PRE-NEOGENE SUBSTRATE",
+        "bbox": [
+          0.7069672178581484,
+          0.44469246016988917,
+          0.8135245884260045,
+          0.454941860119523
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PRE-NEOGENE SUBSTRATE",
+        "bbox": [
+          0.5225409893062356,
+          0.4563492063612082,
+          0.6290983598740918,
+          0.4608134920754939
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PEO-OLIGOCEN",
+        "bbox": [
+          0.23565573944533175,
+          0.45784883734998544,
+          0.2950819643114989,
+          0.46656976701047986
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SIKALA",
+        "bbox": [
+          0.2520491797217934,
+          0.4680232558207653,
+          0.282786885647059,
+          0.47093023253194777
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LINE T3",
+        "bbox": [
+          0.4754098375012345,
+          0.4694767442910585,
+          0.5184426225909785,
+          0.476744185832488
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_12",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 15. Line drawing of seismic profile T3 (Figs 4D and 13). Note: (i) highly deformed substrate below quasi-regular pattern of Tir 0; (ii) triangular-shaped geometry of Tir 2, and listric geometry of the west-dipping master fault; (iii) Tir 3 is missing; (iv) wide bowl-shaped geometry of Tir 4/5; and (iv) blanket geometry of Tir 6. In this profile it is difficult to distinguish Tir 4 from Tir 5 and therefore they have been considered together. Box (B) gives an interpretation of the development of the initial thrust top basin basin of Tir 0. (The uninterpreted seismic profile has been published in Lazzarotto et al. (1995) and Pascucci (1997a); A, B, C, D are unconformities also shown in Fig. 7.)",
+        "bbox": [
+          0.10245901152937513,
+          0.6031746031423999,
+          0.8893442659598321,
+          0.6803075398068869
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(sp. 900-1000; Fig. 19), traces of gently prograding clinoforms can be observed and, in places (T7, sp. 500; Fig. 19), mounded reflections have been recognized. The maximum thickness of Tir 2 is 0.6 s TWT.",
+        "bbox": [
+          0.10040983648039188,
+          0.6976686506659702,
+          0.49795082919583744,
+          0.7514880952969352
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tir 3 has been recognized only in the Ombrone area (lines: T4A, T5B, T6, T7, T8; Figs 13, 16-20). It is bounded at the base by unconformity B* and at the top by unconformity C or its correlative conformity. It is characterized by well-defined, discontinuous, closely spaced relicions awarally op, thine actio the basal more widely spaced and less defined. At the bottom, in several profiles, the reflections are mounded and very prograding clinoforms (line T5B, sp. 2400, Fig. 17 and line T8, sp. 600-500, Fig. 20) or a transparent pattern",
+        "bbox": [
+          0.508196711503205,
+          0.7398255814250188,
+          0.8975409787414537,
+          0.9229651162130624
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Interpretation. Tir 2 has not been drilled in the Tuscan Shelf, but it has similar character and stratigraphic position to Seq 2. Therefore, it probably correlates with Lit 2 + Lit 3 of the Volterra Basin. This correlation is supported by the fact that Lit 3 crops out in the Tuscan Shelf on the Secche di Vada shoal (Aiello et al., 1981). The prograding clinoforms and the mounded reflections are correlated with clastic deposits, such as conglomerates and sands, typical of fluvio-lacustrine environments. Tir 2 is interpreted to be late Tortonian to early Messinian in age. If this is correct, it implies that in the Tuscan Shelf the equivalent of Seq 1 (Lit 1) has not been recognized and therefore we have preferred to use Tir 0 instead of Tir 1, possibly equivalent of Seq 1.",
+        "bbox": [
+          0.10027877805627355,
+          0.754360465254961,
+          0.4877049090385102,
+          0.9229651157773475
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Line Tib (merge) S",
+        "bbox": [
+          0.8073770500759947,
+          0.10168650803318617,
+          0.8770491724649894,
+          0.10763888898556702
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_34",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2117.1999.00104.x.pdf_11_34",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1043087871754227,
+          0.35929622054864524,
+          0.8908472475798234,
+          0.5903518109201314
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

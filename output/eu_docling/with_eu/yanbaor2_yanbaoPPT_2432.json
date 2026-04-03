@@ -1,0 +1,94 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_yanbaoPPT_2432",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_2432_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_2432_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "07",
+        "bbox": [
+          0.09034907593131544,
+          0.204941860715032,
+          0.19096509229250383,
+          0.254360465278185
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_2432",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_2432_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_2432_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10712632129673802,
+          0.5598962334497916,
+          0.20720177204173595,
+          0.6313430114198109
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_2432",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_2432_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_2432_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.48348419669173215,
+          0.5602123950372755,
+          0.5828965174387848,
+          0.6313777171734716
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_yanbaoPPT_2432",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_2432_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_2432_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12 GMV. 100",
+        "bbox": [
+          0.10472279303346406,
+          0.6904837468128577,
+          0.4171509236258327,
+          0.8139880951740891
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

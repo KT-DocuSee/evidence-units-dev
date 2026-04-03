@@ -1,0 +1,249 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_1",
+    "text": "B-5 First solution. The answer is no. Suppose otherwise. For the condition to make sense, f must be differentiable. Since fis strictly increasing, we must have f'(x) ≥ 0 for all x. Also, the function f'(x) is strictly increasing: if y > x then f'(y) = f(f(y)) > f(f(x)) = f'(x). In particular, f' (y) > 0 for all y E R.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466240601499,
+      0.06820436488334425,
+      0.4906015069761984,
+      0.15552325546584814
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_2",
+    "text": "For any xo ≥ - 1, if f(xo) = b and f' (xo) = a > 0, then f'(x) > a for x > xo and thus f(x) ≥ a(x - x0) + b for x ≥ xo. Then either b < xo or a = f'(x) = f(f(x0)) = f(b) ≥ ab -xo) + b. In the latter case, b ≤ a xo + 1)/(a + 1) ≤ xo + 1. We conclude in either case that f(x0) < xo + 1 for all xo ≥ -1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955768545533,
+      0.16133720929565853,
+      0.4906015054724391,
+      0.2456395342366499
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_11",
+    "text": "B-6 For any polynomial p(x), let [p(x)]A denote the n x n matrix obtained by replacing each entry Ajj of A by p(Aij); thus Ak = [a*JA. Let P(x) =*\" + An-18-1 + ... + ao denote the characteristic polynomial of A. By the Cayley-Hamilton theorem,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360913533834,
+      0.22238372100702009,
+      0.9191729340438677,
+      0.2966269840624778
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_3",
+    "text": "It must then be the case that f(f(x)) = f(x) ≤ 1 for all x, since otherwise f(x) > x + 1 for large x. Now by the above reasoning, if f(0) = bo and f'(0) = ao > 0, then f(x) > aox + bo for x > 0. Thus for x > max {0, - bo/ao), we have f(x) > 0 and f(f(x)) > aox + bo. But then f(f(x)) > 1 for sufficiently large x, a contradiction.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1259398488132752,
+      0.2529069767375191,
+      0.49060151116289896,
+      0.3502906975226237
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6015037573101545,
+      0.3110119045254336,
+      0.8045112698841054,
+      0.3870766153360337
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_4",
+    "text": "Second solution. (Communicated by Catalin Zara.) Suppose such a function exists. Since f is strictly increasing and differentiable, so is fof = f. In particular, f is twice differentiable; also, f\"(x) = f (f(x))f (x) is the product of two strictly increasing nonnegative functions, so it is also strictly increasing and nonnegative. In particular, we can choose a > 0 and ME R such that f\" (x) > 40 for all x ≥ M. Then for all x ≥ M,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1277118660490399,
+      0.3590116280264893,
+      0.49074490119024655,
+      0.4883720928122313
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_13",
+    "text": "Thus each entry of A is a root of the polynomial xp(x).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706895742237,
+      0.39825581389131476,
+      0.9172932291757762,
+      0.41145833353518935
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_14",
+    "text": "Now suppose m _ n + 1. Then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706738201794,
+      0.4186046518098618,
+      0.759398496167289,
+      0.43179563511665575
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_15",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5827067685460465,
+      0.44320436504122673,
+      0.8496240541566498,
+      0.4796626980634924
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_16",
+    "text": "since each entry of A is a root of am+I-nP(x). On the other hand,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5581769391471078,
+      0.49418604677252387,
+      0.9191729331416121,
+      0.5235935826126003
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14080891707862744,
+      0.49986167319193503,
+      0.43810994873730436,
+      0.5198688927714197
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_6",
+    "text": "In particular, for some M' > M, we have f(x) ≥ ax? for all x ≥ M'.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12773667670633712,
+      0.5274121602672122,
+      0.4906949261522413,
+      0.5553075397705496
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_17",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5883458651860842,
+      0.5348837207207088,
+      0.846013934001404,
+      0.5712713727034014
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_7",
+    "text": "Pick T > 0 so that AT? > M'. Then for x ≥ T, f(x) > M' and so f' (x) = f(f(x)) ≥ af(x)?. Now",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985894578166,
+      0.5580764735787362,
+      0.48894975193251017,
+      0.5915697675060353
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_18",
+    "text": "Therefore if Ak = All for m + 1 - n ≤k ≤ m, then Am+1 = Am+1. The desired result follows by induction on m.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390973682026,
+      0.5843023259354357,
+      0.9191729381522473,
+      0.6279761906598779
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_8",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14473684175031534,
+      0.6016865077213179,
+      0.4342105253661523,
+      0.6351744187838937
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_19",
+    "text": "Remark. David Feldman points out that the result is best possible in the following sense: there exist examples of n x n matrices A for which Ak = Ak) for k= 1,.., n but A\"+| # Ant!!.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112869135014,
+      0.6366279068418962,
+      0.9210526305642394,
+      0.6919642857539563
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_9",
+    "text": "however, as T → o, the left side of this inequality tends to 0 while the right side tends to +o, a contradiction.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954970176249,
+      0.6468023254647162,
+      0.4906015101854555,
+      0.6744186046769991
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_10",
+    "text": "Third solution. (Communicated by Noam Elkies.) Since fis strictly increasing, for some yo, we can define the inverse function g(y) of f for y ≥ yo. Then x = 8(f(x)), and we may differentiate to find that 1 = 8' (f(x)f' (x) = 8'(f(x))f (f(x)). It follows that 8' (y) = 1/f(y) for y ≥ yo; since g takes arbitrarily large values, the integral fo dy/ f(y) must diverge. One then gets a contradiction from any reasonable lower bound on f(y) for y large, e.g., the bound f(x) ≥ ax? from the second solution. (One can also start with a linear lower bound f(x) ≥ Bx, then use the integral expression for g to deduce that g(x) ≤ ylogx, which in turn forces f(x) to grow exponentially.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593986201313345,
+      0.6802325583858958,
+      0.4906666097488146,
+      0.7239583331903173
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "order": 20
+  }
+]

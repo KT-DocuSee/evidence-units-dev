@@ -1,0 +1,188 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1719",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_0",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "通过简单的推理或试验，可以发现：",
+        "bbox": [
+          0.13866666666666666,
+          0.0946031746031746,
+          0.4888888888888889,
+          0.11428571428571428
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（1）从1到6的每一个点数都有可能出现，所有可能的点数共有6种，但 是事先无法预料掷一次骰子会出现哪一种结果；",
+        "bbox": [
+          0.09333333333333334,
+          0.11936507936507937,
+          0.8577777777777778,
+          0.16380952380952382
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "（2）出现的点数肯定大于0； （3）出现的点数绝对不会是7； （4）出现的点数可能是4，也可能不是4，事先无法确定.",
+        "bbox": [
+          0.13866666666666666,
+          0.16825396825396827,
+          0.6977777777777778,
+          0.23873015873015874
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在一定条件下，有些事件必然会发生.例如，问题1中“抽到的数字小于 6”，问题2中“出现的点数大于0”，这样的事件称为必然事件.相反地，有些 事件必然不会发生.例如，问题1中“抽到的数字是0”，问题2中“出现的点 数是7”，这样的事件称为不可能事件.必然事件与不可能事件统称确定性事件.",
+        "bbox": [
+          0.09333333333333334,
+          0.24317460317460318,
+          0.8604444444444445,
+          0.33714285714285713
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在一定条件下，有些事件有可能发生，也有可能不发生，事先无法确定. 例如，间题1中“抽到的数字是1”，问题2中“出现的点数是4”，这两个事 件是否发生事先不能确定，在一定条件下，可能发生也可能不发生的事件，称 为随机事件（randomevent).",
+        "bbox": [
+          0.09422222222222222,
+          0.34095238095238095,
+          0.8604444444444445,
+          0.43492063492063493
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "你还能举出一些随机事件的例子吗?",
+        "bbox": [
+          0.13333333333333333,
+          0.43936507936507935,
+          0.4915555555555556,
+          0.46095238095238095
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1719",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_6",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "城习",
+        "bbox": [
+          0.1608888888888889,
+          0.49714285714285716,
+          0.208,
+          0.5142857142857142
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "指出下列事件中，哪些是必然事件，哪些是不可能事件，哪些是随机事件.",
+        "bbox": [
+          0.12266666666666666,
+          0.5288888888888889,
+          0.7626666666666667,
+          0.5479365079365079
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_8",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "（1）通常加热到100℃时，水沸腾； (2）篮球队员在罚球线上投篮一次，未投中； (3）掷一次融子，向上一面的，点数是6； （4）任意画一个三角形，其内角和是360° (5）经过有交通信号灯的路口，遇到红灯； (6）射击运动员射击一次，命中靶心.",
+        "bbox": [
+          0.1288888888888889,
+          0.5523809523809524,
+          0.512,
+          0.6838095238095238
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "问题3 袋子中装有4个黑球、2个白球，这些球的 形状、大小、质地等完全相同，即除颜色外无其他差别. 在看不到球的条件下，随机从装子中摸出1个球.",
+        "bbox": [
+          0.09333333333333334,
+          0.7390476190476191,
+          0.6568888888888889,
+          0.8107936507936508
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（1）这个球是白球还是黑球? （2）如果两种球都有可能被摸出，那么摸出黑球和 摸出白球的可能性一样大吗?",
+        "bbox": [
+          0.09244444444444444,
+          0.8152380952380952,
+          0.656,
+          0.886984126984127
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1719",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1719_10",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.688,
+          0.7320634920634921,
+          0.8168888888888889,
+          0.8895238095238095
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

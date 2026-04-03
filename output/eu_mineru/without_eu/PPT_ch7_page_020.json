@@ -1,0 +1,54 @@
+[
+  {
+    "chunk_id": "mineru_PPT_ch7_page_020_0",
+    "text": "7.2 Matrix Multiplication",
+    "canon_role": "section_header",
+    "bbox": [
+      0.678,
+      0.019555555555555555,
+      0.9673333333333334,
+      0.057777777777777775
+    ],
+    "page": "PPT_ch7_page_020",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_020_1",
+    "text": "Our examples show that in matrix products the order of factors must always be observed very carefully. Otherwise matrix multiplication satisfies rules similar to those for numbers, namely.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.054,
+      0.10755555555555556,
+      0.8966666666666666,
+      0.32355555555555554
+    ],
+    "page": "PPT_ch7_page_020",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_020_2",
+    "text": "(a) (kA)B = k(AB) = A(kB) written kAB or AkB (2) (b) A(BC) = (AB)C written ABC (c) (A+B)C = AC+BC (d) C(A +B) =CA +CB provided A, B, and C are such that the expressions on the left are defined; here, k is any scalar. (2b) is called the associative law. (2c) and (2d) are called the distributive laws.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056666666666666664,
+      0.344,
+      0.9193333333333333,
+      0.8515555555555555
+    ],
+    "page": "PPT_ch7_page_020",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_020_3",
+    "text": "Advanced Engineering Mathematics, 10/e by Edwin Kreyszig Copyright 2011 by John Wiley & Sons. All rights reserved.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.45266666666666666,
+      0.9057777777777778,
+      0.91,
+      0.9635555555555556
+    ],
+    "page": "PPT_ch7_page_020",
+    "order": 4
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(e) the \"reverse-triangular\" matrix that results from row exchanges,",
+        "bbox": [
+          0.1498973376104585,
+          0.08720930311566844,
+          0.7433264964244487,
+          0.1046626983006848
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.44353182725176954,
+          0.11592894206776849,
+          0.6252589171015979,
+          0.20083980173963725
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Show how rule 6 (det = 0 if a row is zero) comes directly from rules 2 and 3.",
+        "bbox": [
+          0.11909652069042755,
+          0.21502976205655672,
+          0.8234086245183333,
+          0.2326388890406838
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Suppose you do two row operations at once, going from",
+        "bbox": [
+          0.11909651169861005,
+          0.24553571462725252,
+          0.6427104829112459,
+          0.26165674637328445
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.34496920018573163,
+          0.2775297622634683,
+          0.6695683079679225,
+          0.3260517364286324
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_7",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Find the determinant of the new matrix, by rule 3 or by direct calculation.",
+        "bbox": [
+          0.14989735013849315,
+          0.33134920592409245,
+          0.794661184317359,
+          0.34895833290821937
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "If @ is an orthogonal matrix, so that @'@ = I, prove that det @ equals +1 or - 1. What kind of box is formed from the rows (or columns) of Q?",
+        "bbox": [
+          0.10677620190694401,
+          0.35901162842353407,
+          0.8850102262758078,
+          0.3968253965425878
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Prove again that det @ = 1 or - 1 using only the Product rule. If det @ > 1 then det Q\" blows up. How do you know this can't happen to l\"?",
+        "bbox": [
+          0.108829579362372,
+          0.41133721009241275,
+          0.8829568707916322,
+          0.4476744178145642
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Use row operations to verify that the 3 by 3 \"Vandermonde determinant\" is",
+        "bbox": [
+          0.10882959346714542,
+          0.46075581445287783,
+          0.8069815122823409,
+          0.47819767377386646
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_11",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.34086242538720996,
+          0.4898255813648467,
+          0.6940451764823128,
+          0.5537790694880771
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) A skew-symmetric matrix satisfies KT = -K, as in",
+        "bbox": [
+          0.10882957804378288,
+          0.569692460311994,
+          0.6303901399849645,
+          0.5901162785142399
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_13",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.44353182811105185,
+          0.601686508026519,
+          0.6139630359618533,
+          0.6656976739192152
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_14",
+    "source": "text_cluster",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the 3 by 3 case, why is det (- K) = (-1)3 det K? On the other hand det K' = det K (always). Deduce that the determinant must be zero.",
+        "bbox": [
+          0.18275155610986454,
+          0.6787790703738416,
+          0.8850102506663161,
+          0.7180232550238665
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) Write down a 4 by 4 skew-symmetric matrix with det K not zero.",
+        "bbox": [
+          0.14989734753060543,
+          0.7266865083400196,
+          0.7535934242969097,
+          0.7428075400860515
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_16",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "True or false, with reason if true and counterexample if false:",
+        "bbox": [
+          0.11082557030505347,
+          0.755646091762451,
+          0.6858905517736501,
+          0.7722481396145584
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_17",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) If A and B are identical except that b11 = 2a11, then det B = 2 detA.",
+        "bbox": [
+          0.1498973255602101,
+          0.7863372090819009,
+          0.7720739145629932,
+          0.8023313491619442
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_18",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) The determinant is the product of the pivots.",
+        "bbox": [
+          0.14989733605589958,
+          0.8110119047033651,
+          0.5728952802069339,
+          0.8271329364493968
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(c) If A is invertible and B is singular, then A + B is invertible.",
+        "bbox": [
+          0.14989734242165711,
+          0.8343023259354357,
+          0.6960985588103756,
+          0.8517441852564245
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(d) If A is invertible and B is singular, then AB is singular.",
+        "bbox": [
+          0.14989732877147152,
+          0.859011628304622,
+          0.6570841970190827,
+          0.876488095217694
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_21",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(e) The determinant of AB - BA is zero.",
+        "bbox": [
+          0.14989733476849318,
+          0.8851686510815154,
+          0.5051334577879751,
+          0.9011627911615586
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

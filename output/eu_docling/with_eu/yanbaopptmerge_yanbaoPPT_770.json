@@ -1,0 +1,107 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_770",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_770_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_770_2",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08425409698486327,
+          0.1903676486545139,
+          0.13048309326171875,
+          0.3010634765625
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_770_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3С0",
+        "bbox": [
+          0.6933139539432812,
+          0.46511627922318266,
+          0.7340116269537289,
+          0.5038759682851229
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_770",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_770_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_770_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6243175659179687,
+          0.5695836588541666,
+          0.677539794921875,
+          0.66511474609375
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_770",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_770_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_770_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0032080113887786865,
+          0.591974609375,
+          0.9982447509765625,
+          0.9589682074652778
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_770",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_770_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_770_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#- PPT teIs -WWW.1PPT.COM",
+        "bbox": [
+          0.26308140322978485,
+          0.7596899213803501,
+          0.7354651143029185,
+          0.8165784848829629
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocai_jiaocai_en_595",
+    "primary_id": "mineru_jiaocai_jiaocai_en_595_0",
+    "source": "text_cluster",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "off for a few days from the pressures of modern day living as completely as you can in Bruges. Its beauty and peace are perfectly preserved in this medieval town in Europe.",
+        "bbox": [
+          0.28297080148932,
+          0.10242506401566501,
+          0.8755633940819126,
+          0.1723151076969423
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• Two days from only £ 599 per person (£ 100 for an extra day) • Price Includes: meals in local restaurants; return flights or railway",
+        "bbox": [
+          0.28297080148932,
+          0.17653261033288145,
+          0.8747795414462081,
+          0.2711251694532309
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1 When we take the tour to Georgia, we can",
+        "bbox": [
+          0.27199686458945715,
+          0.2885976803735502,
+          0.7611209092690574,
+          0.30908269317668324
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.enjoy the beautiful trees in the countryside B.visit some famous tourist sites in big cities C. taste the peace of medieval town in Europe D. taste the local foods in the restaurants without extra fee",
+        "bbox": [
+          0.30021555947481876,
+          0.31330019581262236,
+          0.8685087203605723,
+          0.4066877541798464
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2 What is special about the tour to New England?",
+        "bbox": [
+          0.2712130119537527,
+          0.4157252598282874,
+          0.7626886145404664,
+          0.43621027263142037
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A. It contains a specialized tour guide service. B.It boasts a beautiful scenery of the mountains. C. It promises free return fights to any places. D. It unfolds the amazing history of whole America.",
+        "bbox": [
+          0.3009994121105232,
+          0.44042777526735954,
+          0.7901234567901234,
+          0.5344178340111463
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3 What do the three tours have in common?",
+        "bbox": [
+          0.2696453066823437,
+          0.5428528392830245,
+          0.7125220458553791,
+          0.5627353517095948
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_7",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A.Each tour provides hotel accommodation. B. Superb travel experiences are guaranteed. C.No discounts are offered. D. Only flight transport is provided.",
+        "bbox": [
+          0.30021555947481876,
+          0.5675553547220967,
+          0.7470115618263766,
+          0.6621479138424462
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocai_jiaocai_en_595",
+    "primary_id": "mineru_jiaocai_jiaocai_en_595_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_595_8",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.2774838330393886,
+          0.6741979213737008,
+          0.8794826572604351,
+          0.9025455640909775
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

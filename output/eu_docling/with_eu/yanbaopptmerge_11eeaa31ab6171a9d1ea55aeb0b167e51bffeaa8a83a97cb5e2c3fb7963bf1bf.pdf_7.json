@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7",
+    "primary_id": "docling_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.16882063905470168,
+          0.04844587243688876,
+          0.36679787932924984,
+          0.10003671894831859
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "CENTRAL WEALTH",
+        "bbox": [
+          0.16837782122523184,
+          0.08854166685610468,
+          0.3572895322655279,
+          0.10174418602692632
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7",
+    "primary_id": "docling_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "32",
+        "bbox": [
+          0.08624229993514913,
+          0.1250000005216129,
+          0.3757700163208399,
+          0.14534883702683676
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "a # | 2023-02-16 | Best Discovery International Limited, 29.9%, 1L1 KM 2.56 12#t. | 2023-02-17 | 2 3 6 12 17 4t 4g 49.75%•",
+        "bbox": [
+          0.08746108039537488,
+          0.17567376654185818,
+          0.9238729505775484,
+          0.31130815744909685
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

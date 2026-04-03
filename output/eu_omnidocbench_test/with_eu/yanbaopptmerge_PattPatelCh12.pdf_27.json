@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_PattPatelCh12.pdf_27",
+    "primary_id": "omni_yanbaopptmerge_PattPatelCh12.pdf_27_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "omni_yanbaopptmerge_PattPatelCh12.pdf_27_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Example: Symbol Table",
+        "bbox": [
+          0.035146110534667895,
+          0.10726125081380224,
+          0.46950906372070306,
+          0.16115018431787045
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_PattPatelCh12.pdf_27",
+    "primary_id": "omni_yanbaopptmerge_PattPatelCh12.pdf_27_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "omni_yanbaopptmerge_PattPatelCh12.pdf_27_1",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10231597137451172,
+          0.19928216552734376,
+          0.8389207153320313,
+          0.5796807047526041
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

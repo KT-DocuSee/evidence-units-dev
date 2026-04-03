@@ -1,0 +1,156 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 Summary of datasets",
+        "bbox": [
+          0.07532333819869819,
+          0.13054479283540033,
+          0.21127277787439733,
+          0.15611542235986017
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07532333819869819,
+          0.1574612449664107,
+          0.9167401405158633,
+          0.3701012168013927
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We have also evaluated the performance of the classifi cation model built directly by IFN (see Section 2.3). This model is based on the same features as \"C4.5 after IFN', but the model structure may be different due to the IFN restric- tion of using the same feature at all splits of each layer. The error rate of all models has been mea- sured on the same validation sets. We have also calculated the lower and upper bounds of the 95% confidence interval for the error rate of C4.5 with a full set of features and compared statistically the error rates after different feature selection methods to this \"base\" error rate. The comparison was based on the normal approximation of the bino- mial distribution.",
+        "bbox": [
+          0.5162404398496143,
+          0.4158591854241103,
+          0.913065831335439,
+          0.6567614319966532
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "types, ranging from purely continuous to purely nominal attribute domains. In the last three col- umns, we show the number of attributes selected by the information-theoretic algorithm (IFN) and by the two alternative feature selection methods (Relief and ABB).",
+        "bbox": [
+          0.07716049278891034,
+          0.41720500803066085,
+          0.47398588427473487,
+          0.5114125904891972
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To evaluate the effect of each method on the performance of a standard decision-tree classifi er (C4.5), we have randomly partitioned the datasets into training and validation records, using the standard 2/3:1/3 ratio. Only the training examples were used in the feature selection process. For each dataset, the C4.5 algorithm (Quinlan, 1993, 1996) has been trained on the following four subsets of features:",
+        "bbox": [
+          0.07716049278891034,
+          0.5127584130957477,
+          0.47398588427473487,
+          0.6554156093901027
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "1. Before feature selection (the set of all available attributes) 2. After IFN (the subset of features selected by the information-theoretic algorithm) 3. After Relief (the subset of features selected by Relief). As suggested by Kira and Rendell (1992), the distinction between relevant and ir- relevant features was performed manually, based on the relevance levels computed by Re- lief. 4. After A BB (the subset of features selected by ABB). Though ABB required discretization of every continuous feature, C4.5 was always trained on the original (continuous) values of the selected continuous features.",
+        "bbox": [
+          0.07532333819869819,
+          0.6581072546032037,
+          0.47398588427473487,
+          0.8990095011757466
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_6",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.2. Analysis of results",
+        "bbox": [
+          0.5180775944398265,
+          0.6769487710949109,
+          0.6944444351001929,
+          0.6917528197669667
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s0167-8655%2801%2900019-8.pdf_10_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The last row of Table 1 shows the average di- mensionality reduction due to each one of the feature selection methods used (IFN, Relief, and ABB). All the methods tend to remove more than 3/4 of the available features. The best dimensio- nality reducer is Relief, which considers as relevant only 12% of features (on average). IFN removes the least number of features (average dimensio- nality reduction of 78%). These results suggest that the relevance of some features to the target may be revealed only by a feature selection procedure, which is able to evaluate subsets of features (like",
+        "bbox": [
+          0.5180775944398265,
+          0.7092485136521234,
+          0.913065831335439,
+          0.9017011463888476
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

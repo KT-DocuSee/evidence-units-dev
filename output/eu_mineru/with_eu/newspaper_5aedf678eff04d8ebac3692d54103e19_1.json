@@ -1,0 +1,1308 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_0",
+    "source": "visual_seed",
+    "member_count": 53,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.004841442749939482,
+          0.05822120673605822,
+          0.43040426046961994,
+          0.26978082423626976
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "王云贵",
+        "bbox": [
+          0.9494069232631324,
+          0.2366082762122366,
+          0.9750665698378117,
+          0.24371667936024372
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "食用菊花的产业经营，是西柏店村对生态农业 园区进行第三次“种植结构调整”，由“种植精品化” 发展为“种植精品特色化”。西柏店村生态农业园",
+        "bbox": [
+          0.4444444444444444,
+          0.2454091563002454,
+          0.6424594529169693,
+          0.27113480578827115
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12月14日，北京市延庆县委 宣传部编辑的反映延庆近年来发展 变化的一部风光画册—《北京夏 都——延庆风光摄影集》出版。据 介绍该摄影集收集了120余幅优秀 作品,是“爱北京、爱家乡”的一部很 好的乡土教材。 贾德勇",
+        "bbox": [
+          0.8671023965141612,
+          0.2691038334602691,
+          0.9924957637375939,
+          0.328002030972328
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.39941902687000724,
+          0.28805957518828806,
+          0.542241587993222,
+          0.40551747482440553
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "周末，北京市大兴区庞各庄镇 的红薯地里随处可见忙碌的身影。 一个个拿着镐头、铁锹刨地的可不 是当地农民，来的都是城里人。传 统的采摘已经不过瘾，挥着锄头，汗 湿衣衫，城市居民在农活体验中找 到了乐趣。",
+        "bbox": [
+          0.25175502299685304,
+          0.2883980705762884,
+          0.39409343984507383,
+          0.34695777270034694
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5480513192931493,
+          0.2883980705762884,
+          0.6899055918663762,
+          0.4051789794364052
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6966836117162915,
+          0.2883980705762884,
+          0.8390220285645122,
+          0.32157061860032154
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "为全面贯彻落实“生态平谷、 绿色北京”发展理念，打造绿色名 片，增强地区科学发展软实力，北 京市平谷区马昌营镇党委、政府以 争创国家级环境优美乡镇和国家 级卫生镇为目标，从2008年6月起 在全镇17个村全面推行了垃圾源 头分类。",
+        "bbox": [
+          0.0944081336238199,
+          0.2924600152322925,
+          0.22996853062212538,
+          0.3588051112803588
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "汪宝国说：“我们是站在城乡统 筹的基点上谋划农业发展，传统农 业是农民摘果卖给城里人，而都市 型农业正在把大兴多年积累的绿甜 资源赋予生态价值、文化内涵，把大 兴以外的人引进来，使之成为吸引 商贾，展示形象的金色名片’。这 种发展理念的转变，赋予了大兴农 业新的生机和活力。”",
+        "bbox": [
+          0.6966836117162915,
+          0.32224760937632224,
+          0.8385378842895183,
+          0.3967165947363967
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "“十一五”期间，大兴区以自然 农业生态为依托，以设施农业生产 为基础，以提高人居生活品质为依 归，打破传统农业的单一生产功能， 以科技创新和文化创意作为两大驱 动“引擎”，开发生态功能、文化功能 和生活功能，一、二、三产业融合发 互动，使生产、交易、观光、体验融为 一体的活功能。大兴按照经济效 益与生态效益并重的原则，提出了 “农业产业化，产业园区化，园区景 观化”的农田建设方针，启动了“十 大农业观光园”系列工程。依托区 内丰富的“绿甜”资源，科学规划设 计，投资近1亿元建设了集观光采 摘、旅游休闲、特色农产品销售、高 科技农业示范精品展示、休闲健身、 餐饮住宿等为一体的观光旅游大 道，即：庞安路都市型现代农业产业 带，该产业带全长13.5公里，沿途经 过庞各庄镇、魏善庄镇和安定镇，涉 资源的同时，非常注重发掘和创造 无形资源，开发农业资源的农业价 值。已经举办了22届的大兴西瓜节 不仅成了大兴对外交往的名，更 启发了大兴人发展创意农业的灵 感，孕育和促进了新型农业经济业 态的诞生和发展。近年来，大兴人 将西瓜文化拓展到具有深厚文化底 蕴的大兴梨、果桑、葡萄等多个领 域，形成了独具特色的农耕文化氛 围，并将农业文化内涵向纵深发掘， 形成体系，经过资源整合，整体包 装，推向市场，形成特有的农业文化 经济，成为大兴展示形象、助推产业 推出并注册了果品、蔬菜、畜禽、加 工四大类50种大兴农产品品牌，使 兴农产品带着“大兴农业”的光环 走出大兴，走出北京，走出国门。",
+        "bbox": [
+          0.25223916727184703,
+          0.3472962680883473,
+          0.3936092955700799,
+          0.4058559702124059
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "北京市顺义区仁和镇从今年2 月份陆续发放了“京卡·互助服务 卡”,随卡赠送了非工伤意外造成的 身故、伤残保障险和家庭财产火灾 损失保障险，截至目前该镇共发放 “京卡·互助服务卡”6515张。",
+        "bbox": [
+          0.8685548293391431,
+          0.3527121942963527,
+          0.9920116194625999,
+          0.40247101633240245
+        ],
+        "order": 26
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "作为平谷区垃圾分类“第一个 吃螃蟹”的镇，该镇在组织学习王 平模式基础上，投资120余万元为 全镇4000余户农户购置了“三桶、 三袋”（3个垃圾桶、3个垃圾袋）， 为17个村配备了46辆垃圾清运电 瓶车和276个厨余垃圾盛放桶，配 置有害垃圾桶34个。建设标准化 厨余垃圾积肥池34个，白色垃圾 护网17个，按照每70户配备一名 保洁员的标准为各村配齐了保洁 员。通过实施台账制、奖励制、督 办制和保洁人员专岗制四项机制， 村级垃圾分类合格率达到90%。",
+        "bbox": [
+          0.09489227789881384,
+          0.3594821020563595,
+          0.22996853062212538,
+          0.4759245155284759
+        ],
+        "order": 27
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "大兴农业正在超越传统农业发",
+        "bbox": [
+          0.7155652384410555,
+          0.3973935855123974,
+          0.8375695957395304,
+          0.40551747482440553
+        ],
+        "order": 28
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "蒋培伦",
+        "bbox": [
+          0.9494069232631324,
+          0.4034865024964035,
+          0.9760348583877996,
+          0.4105949056444106
+        ],
+        "order": 29
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "拓展生态生活功能 实现三产融合发展",
+        "bbox": [
+          0.2561123214717986,
+          0.4143183549124143,
+          0.8298232873396272,
+          0.4613692138444614
+        ],
+        "order": 30
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "近日，北京市顺义区南法信镇对 辖区内小商店、小饭店、小旅馆、小发 廊等“六小”单位进行了安全检查。 此次检查主要包括日常消防安全责 任制是否落实到位，安全出口、疏散 通道是否畅通，消防设施运行状况是 否良好等。 张艳丽 柏松浩",
+        "bbox": [
+          0.8671023965141612,
+          0.43632055513243634,
+          0.9920116194625999,
+          0.4945417618684945
+        ],
+        "order": 32
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "为应对教育、商业等城乡一体 化发展为垃圾分类工作带来的挑 战，马昌营镇在深入调研的基础 上，因地制宜，逐步探索出了村级、 企事业单位和商业街、学校三种垃 圾减量、垃圾分类模式：",
+        "bbox": [
+          0.0944081336238199,
+          0.47694000169247697,
+          0.22948438634713145,
+          0.526021832952526
+        ],
+        "order": 34
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "展，城乡之间互动互融，不断拓展都 市农业的发展空间。",
+        "bbox": [
+          0.25223916727184703,
+          0.5033426419565034,
+          0.39264100702009197,
+          0.5195904205805196
+        ],
+        "order": 37
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "的平台。同时，为大兴农产品赋予展的思维和价值取向，用更加开放 统一的标识，主动推出“大兴农业”的视野，敞开博大的胸怀，在北京迈 品牌战略。2006年，“大兴农业”品 向世界城市的历史进程中，担当起 牌完成了CI、BI、MI的完整系统。“绿北京”赋予她的神圣使命。",
+        "bbox": [
+          0.5480513192931493,
+          0.5033426419565034,
+          0.8385378842895183,
+          0.5368536853685368
+        ],
+        "order": 38
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.40038731541999517,
+          0.5036811373445037,
+          0.5403050108932462,
+          0.5195904205805196
+        ],
+        "order": 39
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_51",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "近日，北京市顺义区南彩镇将 台由群众自编、自导、自演的“靓 丽南彩、和谐家园——南彩镇环境 综合整治演出”送到全镇26个村。 今年10月全镇开展环境综合整治 以来，南彩镇充分利用各种载体宣 传环境综合整治的目的和意义，调 动群众的参与热情。 蔡春轶",
+        "bbox": [
+          0.8671023965141612,
+          0.5195904205805196,
+          0.9920116194625999,
+          0.5862740120165862
+        ],
+        "order": 40
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "传统的农业生产为大兴造就了 20万亩的果园、57万亩的农田，包裹 着大兴新城。对于迈向世界城市的 新北京，大兴千顷沃野的功能和地 位，价值取向正在发生历史性的变 化。为首都营造宜居宜业绿色发展 空间，正取代传统农业的生产功能， 成为新时期的使命所在。“绿海甜 园，都市庭院”不仅成为大兴区域形 象的写照，更是新时期大兴农业发 展的核心理念。",
+        "bbox": [
+          0.25175502299685304,
+          0.51992891596852,
+          0.3936092955700799,
+          0.6113226707286114
+        ],
+        "order": 41
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "每到夏天，瓜乡大道游客络绎 不绝，来采摘的市民车辆排满了路 边、停车场，沿线的西瓜大部分通过 采摘走向市场，价格比过去翻番。 “摘的不仅是瓜，得到的更是农趣。” 大兴区农委主任汪宝国指着瓜乡大 道西瓜文化长廊和农事体验区兴奋 地说，“我们对大道两侧有条件、有 特色的农田都进行精雕细琢'，赋 予它文化内涵和生态价值，使其成 为市民休憩的家园。市民来这里不 仅能观光、采摘，更能体验田园文化 的意境。”",
+        "bbox": [
+          0.39990317114500123,
+          0.51992891596852,
+          0.541757443718228,
+          0.6279089447406279
+        ],
+        "order": 42
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "“户源头分类、保洁员把关运 输、村考核奖励”的村级模式：户源 头分类：编印包括指导垃圾分类的 顺口溜及开展垃圾分类工作照片 的宣传挂历，印制《垃圾分类减量 化、资源化、无害化手册》等指导村 民分类；保洁员把关运输：由保洁 员每天对各户分类情况进行复检， 并分别运至厨余垃圾积肥池、白色 垃圾护网；村考核奖励：采取每月10元物质奖励与分类合 格率挂钩的方式，按照保洁员在各户《垃圾分类积分簿》上 的记录情况分三个等次为村民发放生活必需品奖励。同 时制定保洁员考核激励机制。设立保洁员奖励基金，年终 根据村干部和管片村民代表“双评价”对保洁员进行奖励。",
+        "bbox": [
+          0.09392398934882595,
+          0.5266988237285267,
+          0.22948438634713145,
+          0.6015063044766015
+        ],
+        "order": 43
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.002420721374969741,
+          0.6018447998646018,
+          0.22900024207213748,
+          0.6434797325886434
+        ],
+        "order": 46
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "绿海成就了生态大兴。目前， 大兴区农田林网化面积已达99%，全 区林地总面积41.67万亩，建有万亩 规模以上林地1处、千亩以上规模林 地12处。兴的环境、环境 和人居环境得到明显改善，并被评 为国家生态示范区。就是那一望无 际的绿海，其创造的生态价值要远 远超出自身经济价值。2009年，大 兴区农业总产值47.9亿元，农业 GDP仅占全区的5%，比2005年下 降1.5%。而农田和森林的生态服务 价值达到72.1亿元，比2005年提高 了10.6%",
+        "bbox": [
+          0.25175502299685304,
+          0.6116611661166117,
+          0.3936092955700799,
+          0.7284420749767284
+        ],
+        "order": 47
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "近日，北京市顺义区木林镇针对 残疾人这一特殊群体开展了“弘扬法 治精神、促进社会和谐\"主题宣传活 动。并通过悬挂横幅、散发宣传单等 形式广泛宣传法律知识及各类惠残 政策。共向镇域群众发放各类宣传 资料600余份。 雒方华",
+        "bbox": [
+          0.8675865407891552,
+          0.6116611661166117,
+          0.9924957637375939,
+          0.6698823728526698
+        ],
+        "order": 48
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在果园四周扎上竹篱，门前 立起竹牌楼，两侧挂上红灯笼，犹如 都市中的庭院，花的钱虽然不多，但 却渗透出“倚杖柴门外，临风听暮 蝉”的意境。目前大兴区已包装了 150多个各类蔬菜园、西园、精品 梨园、桑椹园、花卉园，推出10余条 以休闲体验为主题的精品旅游线 路，让游人享受到“星级”服务，让每 一块有条件的农都成为休闲观光 园。据统计，每年来大兴体验田园 生活的中外游客达百余万人次，总 收近6000余万元。",
+        "bbox": [
+          0.39990317114500123,
+          0.6285859355166286,
+          0.541757443718228,
+          0.7365659642887366
+        ],
+        "order": 49
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "“有偿服务、属地管理”的企事业单位和商业街模式： 在配齐分类垃圾桶的基础上，咨询市政管委定价办法，以 人口、日均产生垃圾量等依据制定收费标准，由属地村负 责清运、管理。",
+        "bbox": [
+          0.0038731541999515854,
+          0.6441567233646441,
+          0.2280319535221496,
+          0.6766522806126767
+        ],
+        "order": 50
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "“家庭学校社会三方联动”的学校模式：组织开展“小 手拉大手、文明一起走”和“党徽、团徽、队徽三徽闪光”主 题实践活动，倡导在校园认真分类、在村内不乱扔垃圾、在 家引导督促父母三项垃圾分类活动，推进华夏管理学院、 王子岛小学、幼儿园等垃圾分类工作。",
+        "bbox": [
+          0.002420721374969741,
+          0.676990776000677,
+          0.22948438634713145,
+          0.7182872133367183
+        ],
+        "order": 52
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "日前，经北京市农村工作委 员会、北京市文物局推荐并经住 房和城乡建设部、国家文物局联 合评审，顺义区龙湾屯镇焦庄户 村被评选为第五批中国历史文化 名村，同时也是北京市第四个获 此殊荣的村。 高丰义",
+        "bbox": [
+          0.8675865407891552,
+          0.6949310315646949,
+          0.9924957637375939,
+          0.7538292290767539
+        ],
+        "order": 53
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "推行垃圾源头分类以来，垃圾减量化、资源化水平大 幅提高，初步实现了“环保经济两不误”：全镇日产垃圾由 2008年以前的8吨减少到现在的0.7吨，垃圾减量化、资源 化达到91%。",
+        "bbox": [
+          0.004357298474945534,
+          0.7193026995007193,
+          0.22948438634713145,
+          0.7524752475247525
+        ],
+        "order": 54
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "农业不只承担了“都市绿肺”的 生态功能，还承担着一、三产业相融 及19个行政村，4000余农户，将沿 途1.5万亩设施保护地西瓜连成片。",
+        "bbox": [
+          0.25175502299685304,
+          0.7291190657527291,
+          0.39312515129508596,
+          0.7460438351527461
+        ],
+        "order": 55
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "大兴农业在整合开发自身有形",
+        "bbox": [
+          0.411522633744856,
+          0.7375814504527376,
+          0.5407891551682401,
+          0.7460438351527461
+        ],
+        "order": 56
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_73",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6356814330670539,
+          0.7694000169247694,
+          0.8385378842895183,
+          0.9024287044089024
+        ],
+        "order": 58
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_77",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "近年来，北京市顺义区大孙各 庄镇共建6座沼气站、1座秸秆气 站，覆盖镇域2000余户及1个蔬菜 合作社。全年处理牲畜粪便2670 立方米、玉米芯110吨、蔬菜叶1100 吨，产出沼气17万立方米、秸秆气 15.5万立方米。高晓波于磊",
+        "bbox": [
+          0.8671023965141612,
+          0.7788778877887789,
+          0.9924957637375939,
+          0.8370990945248371
+        ],
+        "order": 60
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "北京市平谷区王辛庄镇副镇长梁茂辉",
+        "bbox": [
+          0.2599854756717502,
+          0.8184818481848185,
+          0.4168482207697894,
+          0.8272827282728272
+        ],
+        "order": 61
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_67",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "豌豆在我们国家列为小杂粮系列，很不起眼。但这对 普通的农家夫妇看准了南方市场的需求量，在农科院 专家的指导下，虚心学习，走南闯北，长年不离田间地 头，十三年如一日，终于探索出了一套豌豆种植、育种 及管理经验，并先后注册了“荣涛”牌豌豆种子和“卡超 那”牌休闲食品。其中，“荣涛”牌豌豆种子于2006年被 四川省西昌市列为“良种”补贴项目。“卡超那”牌豌豆 黄在2009年、2010年“平谷大集进京城”农副产品展销 中深得广大市民的喜爱，并取得了良好的经济效益，单 日最高纯收入突破2万元。",
+        "bbox": [
+          0.4279835390946502,
+          0.8360836083608361,
+          0.6298717017671266,
+          0.92003046458492
+        ],
+        "order": 62
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "如何把农民有效地组织起来，共同走向市场，应对 市场经济，在市场经济大潮中锻炼自己，提升自己，树 立新型农民形象？",
+        "bbox": [
+          0.012587751149842653,
+          0.8364221037488364,
+          0.2130234809973372,
+          0.8614707624608615
+        ],
+        "order": 63
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_63",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "样才能够赢得百姓和社会的公信力，社员才会围着合 作社转。",
+        "bbox": [
+          0.22028564512224644,
+          0.8364221037488364,
+          0.42023723069474705,
+          0.8526698823728527
+        ],
+        "order": 64
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_64",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "以平谷区王辛庄镇荣涛豌豆产业合作社为例。 一对普普通通的农家夫妇，早在1998年，在一斤豌 豆能够挣二毛钱的时候，就能够拿出八分钱来通过 分红的方式，返利给自己的社员。也是这对普普通 通的农家夫妇，在汶川地震发生后，第一时间向灾区 农民捐赠了360吨“爱心豌豆种子”。还是这对普普 通通的农家夫妇，在今年的9月初，拿出400万元，仍 然是以分红的方式二次返利给合作社的527户入股 社员。",
+        "bbox": [
+          0.21931735657225854,
+          0.8536853685368537,
+          0.42168966351972886,
+          0.9288313446729288
+        ],
+        "order": 66
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "如何把农副产品尽可能地推向市场，提高农副 产品的附加值，使农民尽快实现真正意义上的增收 致富?",
+        "bbox": [
+          0.012587751149842653,
+          0.8621477532368621,
+          0.2130234809973372,
+          0.8861809257848862
+        ],
+        "order": 67
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_79",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "北京市顺义区北务镇已有60 多农户种植蔬菜、水果、花卉的大 棚使用“新型吊袋式二氧化碳气 肥”技术。据介绍，每年每个使用 “吊袋肥”的大棚能为农民提收 入1200元。汤健松王升旗",
+        "bbox": [
+          0.8675865407891552,
+          0.8628247440128628,
+          0.9924957637375939,
+          0.9122450706609122
+        ],
+        "order": 68
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_60",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "如何让农民把自己的农副产品形成特色，成为品 牌产品，在市场经济中立住脚跟，占有一席之地？",
+        "bbox": [
+          0.013071895424836602,
+          0.8871964119488872,
+          0.21253933672234326,
+          0.9031056951849031
+        ],
+        "order": 69
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_74",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "目前，荣涛豌豆产业合作社已发展种植基地4万 多亩，年产量突破8000吨，年销售收入实现2400多万 元，带动农户3600多户。入股社员527户，户均增收 6000元。“荣涛”牌豌豆豆种已覆盖四川、湖南、湖北等 五省市。小小的豌豆成为市民聚焦的热点，荣涛豌豆 产业合作社走出了一条自己的成功之路，成为百姓热 门的话题。",
+        "bbox": [
+          0.6361655773420479,
+          0.9027671997969028,
+          0.8380537400145244,
+          0.9613269019209614
+        ],
+        "order": 70
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_61",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "走合作社发展之路。通过合作社把农民有效地组 织起来，通过合作社把农副产品推向市场，通过合作社 树立地区特色的农副产品品牌。近年来，北京市平谷 区王辛庄镇下力量抓合作社的建设和发展，让合作社 在农村真正发挥带动作用，让合作社在农民增收致富 方面发挥顶梁柱作用。",
+        "bbox": [
+          0.011135318324860808,
+          0.9037826859609038,
+          0.21350762527233116,
+          0.9535415079969536
+        ],
+        "order": 71
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_69",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "农户依托合作社能够增收，合作社依托农户能够 不断壮大实力，二者互为依托，相互信赖，才能实现互 惠互利。那么，合作社靠什么才能真正带动起农户的 积极性呢？实践证明，靠信誉。",
+        "bbox": [
+          0.42895182764463813,
+          0.9372937293729373,
+          0.6284192689421447,
+          0.9697892866209697
+        ],
+        "order": 75
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_81",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12月15日，北京市顺义区北 石槽镇千亩御杏园里，西赵各庄农 村义工工作站的“新农村建设义工 服务队”正忙着“充电”，学习修剪 果枝技能。技能培训后，义工们还 将分组到果农户帮助果农义务修 剪果枝。 刘佳任阿曼",
+        "bbox": [
+          0.8671023965141612,
+          0.937970720148938,
+          0.9924957637375939,
+          0.9944994499449945
+        ],
+        "order": 76
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_66",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "品牌是产品走向市场、占领市场、立足于市场的根 本。品牌就是经济效益，品牌就是社会信誉。品牌在 赢得了社会信誉之后，带来的便是更大的经济效益。",
+        "bbox": [
+          0.22076978939724037,
+          0.9454176186849454,
+          0.420721374969741,
+          0.9701277820089701
+        ],
+        "order": 77
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_70",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "一个好的带头，心思能够放在为自己的社员谋 取共同利益上，而不是只考虑个人利益的得与失。这",
+        "bbox": [
+          0.012103606874848705,
+          0.9704662773969704,
+          0.2130234809973372,
+          0.9870525514089871
+        ],
+        "order": 80
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_72",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "还是以平谷区王辛庄镇荣涛豌豆产业合作社为例。 1997年，刚刚开始种植豌豆时，绝大多数农户对 豌豆并不认可，只有几户抱着试试看的想法，试种了 几亩。但是这对普通的农家夫妇并没有灰心，不分 昼夜，奔走于专家和农户之间，向专家学习知识和经 验，传授农户于田间地头，向农户们宣传种植豌豆周 期短、见效快、易管理，还可以改良土壤等方面的好 处，并以保护价订单收购的办法全部回收种植的豌 豆。精诚所至，金石为开。这对普通的农家夫妇就 是靠着这种热心、爱心和诚心，渐渐地得到了农户的 认可，赢得了信誉。豌豆种植面积由最初的几亩逐 渐发展到了十几亩、几十亩、上百亩，乃至发展到今 天的4万多亩；豌豆种植户数由最初的几户逐渐发 展到了十几户、几十户、上百户，乃至发展到了今天 的3600多户。保护价订单收购，二次分红返利更是 赢得了农户的信赖，由过去的每亩分红返利几块钱 增加到了十几块、几十块、上百块钱，乃至增加到了 今天的每亩可以实现二次分红返利400块钱。",
+        "bbox": [
+          0.4463810215444202,
+          0.9708047727849708,
+          0.6293875574921327,
+          0.9870525514089871
+        ],
+        "order": 81
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_71",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "仍以平谷区王辛庄镇荣涛豌豆产业合作社为例。 1997年，这对普通的农家夫妇开始与豌豆结缘。",
+        "bbox": [
+          0.23577826192205278,
+          0.9711432681729711,
+          0.420721374969741,
+          0.9870525514089871
+        ],
+        "order": 82
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_37",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_37",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "京郊快讯",
+        "bbox": [
+          0.8898571774388768,
+          0.06465261910806465,
+          0.9644153957879448,
+          0.07751544385207751
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "平谷食用菊花等您採",
+        "bbox": [
+          0.35633018639554587,
+          0.06871456376406872,
+          0.831275720164609,
+          0.10865701954810866
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_38",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_38",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "张镇培训山区生态林管护员",
+        "bbox": [
+          0.8729121278140886,
+          0.0897012778200897,
+          0.9857177438876785,
+          0.10561056105610561
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "近日，北京市顺义区张镇聘 请北京林业大学教授对15个山区 村107名管护员进行了集中培 训。主要包括林木抚育、森林火灾 预防和处置、森林病虫害预防和处 置等内容。 李海明韩涛",
+        "bbox": [
+          0.8675865407891552,
+          0.11068799187611068,
+          0.9920116194625999,
+          0.16044681391216045
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "区有152栋、占地300亩的日光温室大棚。园区全 部道路硬化，并配套建设供电、供水、排水、排污、太 阳能照明和太阳能杀虫灯工程，实施园区整体绿 化。园区现有2家蔬菜产销合作社和3家种植养殖 合作社，11个品种取得了有机食品认证，创出了 “柏店二仙”自有农产品品牌。生态园区的西瓜、 白萝卜、甜椒、杭椒、西红柿、食用菊等有机果蔬产 销两旺，年实现亩产蔬菜10000公斤。",
+        "bbox": [
+          0.6482691842168966,
+          0.12795125666412796,
+          0.8491890583393852,
+          0.19463484810019463
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_5",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "赵明革",
+        "bbox": [
+          0.46187363834422657,
+          0.1326901920961327,
+          0.4914064391188574,
+          0.14115257679614115
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "日前，北京市平谷区大兴庄镇西柏店村“观生 态村、品菊花宴”活动开幕，数万朵盛开的菊花喜迎 来客。此次活动共举办菊花采摘、菊花宴品 尝、参观绿色循环农业以及小西红柿、小黄瓜等特 有机蔬菜采摘等系列活动。",
+        "bbox": [
+          0.4444444444444444,
+          0.14555301684014554,
+          0.6424594529169693,
+          0.18651095878818652
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_40",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_40",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "杨镇菊花“开”在餐桌上",
+        "bbox": [
+          0.8821108690389736,
+          0.1651857493441652,
+          0.9765190026627936,
+          0.18075653719218077
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "目前，北京市顺义区杨镇的一 处温室大棚内，几位工作人员正在 采摘食用菊花。种植可食鲜菊花的 是北京神农天地农业科技有限公 司。据该公司负责人介绍，种植可 食用菊花在顺义区尚属首家。",
+        "bbox": [
+          0.8685548293391431,
+          0.18583396801218582,
+          0.9920116194625999,
+          0.2355927900482356
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2007年，西柏店村以菊花产业带动，发展绿色 循环经济，以生态富民，用生态挣钱发展现代都市 农业。截至目前，大兴庄镇西柏店村共有食用菊花 种植大棚19个，种植面积达15亩，每棚产菊花2000 斤，每棚纯收至少3万元。西柏店村种植的食用 菊花有26个品种，全部使用沼渣沼液等有机肥进行 浇灌，属绿色有机食品。",
+        "bbox": [
+          0.44347615589445655,
+          0.1871879495641872,
+          0.6434277414669571,
+          0.24507066091224508
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "近年来，大兴庄镇西柏店村高度重视环境问 题，在发展都市农业的同时，探索出一条绿色循环 农业之路，有效地改善了村内环境。该村在原有4 个养殖小区和1个高效设施蔬菜园区的基础上，又 投资建设了污水处理体系、沼气站一期和二期等配 套工程。为了促进生态和经济两个系统的良性循 环，西柏店村以沼气站为纽带，上联养殖，下接种 植，形成了畜、沼、炊、蔬多位一体的农村循环经济 模式。",
+        "bbox": [
+          0.6482691842168966,
+          0.1953118388761953,
+          0.8491890583393852,
+          0.27045781501227045
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_43",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_43",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "延庆画册成乡土教材",
+        "bbox": [
+          0.8869523117889131,
+          0.24913260556824912,
+          0.972645848462842,
+          0.26436489802826435
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_8",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_8",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "韩聪晓",
+        "bbox": [
+          0.11183732752360204,
+          0.2806126766522806,
+          0.14233841684822077,
+          0.28873656596428876
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_45",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_45",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "仁和发放互助服务卡 6515张",
+        "bbox": [
+          0.8719438392641007,
+          0.33274096640433276,
+          0.9881384652626483,
+          0.34763476347634764
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_48",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_48",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "南法信加强安全检查",
+        "bbox": [
+          0.8806584362139918,
+          0.416010831852416,
+          0.9784555797627693,
+          0.4315816197004316
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_25",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_25",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "-兴农业“十一五”发展综述（下)",
+        "bbox": [
+          0.35390946502057613,
+          0.46644664466446645,
+          0.7344468651658194,
+          0.4847253956164847
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_26",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_26",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "李永晖",
+        "bbox": [
+          0.5398208666182522,
+          0.4891258356604891,
+          0.5683853788428952,
+          0.4969112295844969
+        ],
+        "order": 35
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_50",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_50",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "南彩镇文艺演出促环境整治",
+        "bbox": [
+          0.8729121278140886,
+          0.49961919268849964,
+          0.9866860324376664,
+          0.5151899805365152
+        ],
+        "order": 36
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "visual_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_36",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_36",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5572500605180344,
+          0.5426081069645426,
+          0.8303074316146212,
+          0.7463823305407464
+        ],
+        "order": 44
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_52",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_52",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "木林镇街头为残疾人普法",
+        "bbox": [
+          0.8753328491890583,
+          0.5916899382245917,
+          0.9789397240377633,
+          0.6069222306846069
+        ],
+        "order": 45
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_54",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_54",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "焦庄户入选中国历史文化名村",
+        "bbox": [
+          0.869523117889131,
+          0.6752982990606753,
+          0.9900750423626241,
+          0.6905305915206905
+        ],
+        "order": 51
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_76",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_76",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "大孙各庄积极发展生态循环经济",
+        "bbox": [
+          0.8690389736141371,
+          0.7585681645087585,
+          0.991043330912612,
+          0.7741389523567741
+        ],
+        "order": 57
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_56",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_56",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "农村合作社发展之路初探",
+        "bbox": [
+          0.05470830307431614,
+          0.7761699246847762,
+          0.6221253933672234,
+          0.8134044173648134
+        ],
+        "order": 59
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_78",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_78",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "北务农民大棚里吊“技术”",
+        "bbox": [
+          0.8811425804889857,
+          0.8421765253448422,
+          0.9770031469377874,
+          0.8574088178048574
+        ],
+        "order": 65
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0020",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_80",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_80",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "北石槽义工服务队寒冬“充电”",
+        "bbox": [
+          0.8719438392641007,
+          0.9173225014809173,
+          0.9866860324376664,
+          0.9325547939409325
+        ],
+        "order": 72
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0021",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_68",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_68",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "合作社发展要靠信誉带动农户",
+        "bbox": [
+          0.4623577826192205,
+          0.9237539138529237,
+          0.5959816025175503,
+          0.9332317847169332
+        ],
+        "order": 73
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0022",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_65",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_65",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "合作社发展要靠品牌赢得市场",
+        "bbox": [
+          0.2541757443718228,
+          0.9322162985529322,
+          0.38828370854514643,
+          0.9413556740289414
+        ],
+        "order": 74
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0023",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_62",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_62",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "合作社发展要有个好带头",
+        "bbox": [
+          0.04502541757443718,
+          0.9576034526529577,
+          0.17961752602275477,
+          0.9667428281289667
+        ],
+        "order": 78
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0024",
+    "kind": "section_text_panel",
+    "page": "newspaper_5aedf678eff04d8ebac3692d54103e19_1",
+    "primary_id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_75",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_5aedf678eff04d8ebac3692d54103e19_1_75",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "我与都市型现代农业",
+        "bbox": [
+          0.6787702735415154,
+          0.9701277820089701,
+          0.7998063422900025,
+          0.9816366252009816
+        ],
+        "order": 79
+      }
+    ]
+  }
+]

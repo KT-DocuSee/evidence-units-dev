@@ -1,0 +1,28 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358_0",
+    "text": "有机液体的相对密度坐标值列于下表中。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14871117186089658,
+      0.10376756167520264,
+      0.48652420423626663,
+      0.12106215528773641
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358_1",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.10832048320731974,
+      0.1250532153521673,
+      0.8830873291986575,
+      0.907300987980618
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358",
+    "order": 2
+  }
+]

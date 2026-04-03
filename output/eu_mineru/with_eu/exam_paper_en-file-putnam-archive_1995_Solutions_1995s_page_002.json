@@ -1,0 +1,330 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "by Stirling's approximation is asymptotic to a constant times m−5/2. This term alone is bigger than c(2/3)n, s0 we must have An+1/An ≥ 2/3 for some n. (In fact, we must have An+1/An ≥ 1 − ε for any ε > 0.)",
+        "bbox": [
+          0.12978637646110439,
+          0.06270485962662106,
+          0.5046352277307538,
+          0.11856918911215619
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now how to compute the eighth root of L? Notice that if x satisfies the quadratic x2 − ax + 1 = 0, then we have",
+        "bbox": [
+          0.5723498589278516,
+          0.06270485962662106,
+          0.9447803305118904,
+          0.09063702436938863
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–1 For a given π, no more than three different values of π(x) are possible (four would require one part each of size at least 1,2,3,4, and that's already more than 9 el- ements). If no such x, y exist, each pair (π(x), π′(x)) occurs for at most 1 element of x, and since there are only 3 × 3 possible pairs, each must occur exactly once. In particular, each value of π(x) must occur 3 times. However, clearly any given value of π(x) occurs kπ(x) times, where k is the number of distinct partitions of that size. Thus π(x) can occur 3 times only if it equals 1 or 3, but we have three distinct values for which it occurs, contradiction.",
+        "bbox": [
+          0.09592906086255543,
+          0.12654980761008977,
+          0.5038291011688835,
+          0.2901524868177284
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Clearly, then, the positive square roots of the quadratic x2 − bx + 1 satisfy the quadratic x2 − (b2 + 2)1/2x + 1 = 0. Thus we compute that L1/2 is the greater root of x2 − 47x + 1 = 0, L1/4 is the greater root of x2 − 7x + 1 = 0, and L1/8 is the greater root of x2 − 3x + 1 = 0, otherwise known as (3 + √5)/2.",
+        "bbox": [
+          0.5715437323659814,
+          0.14650135385492374,
+          0.9455864570737605,
+          0.23086789226165028
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–5 This problem is dumb if you know the Sprague- Grundy theory of normal impartial games (see Conway, Berlekamp and Guy, Winning Ways, for details). I'll de- scribe how it applies here. To each position you assign a nim-value as follows. A position with no moves (in which case the person to move has just lost) takes value 0. Any other position is assigned the smallest number not assigned to a valid move from that position.",
+        "bbox": [
+          0.5392986698911729,
+          0.2394185549380077,
+          0.9455864570737605,
+          0.34886703719538265
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B-2 For those who haven't taken enough physics, \"rolling without slipping'\" means that the perimeter of the ellipse and the curve pass at the same rate, so all we're saying is that the perimeter of the ellipse equals the length of one period of the sine curve. So set up the integrals:",
+        "bbox": [
+          0.09673518742442563,
+          0.2998432378509335,
+          0.5030229746070133,
+          0.3682485392617928
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For a single pile, one sees that an empty pile has value 0, a pile of 2 has value 1, a pile of 3 has value 2, a pile of 4 has value 0, a pile of 5 has value 1, and a pile of 6 has value 0.",
+        "bbox": [
+          0.5715437323659814,
+          0.3534273906227733,
+          0.9455864570737605,
+          0.4075815875730369
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "You add piles just like in standard Nim: the nim-value of the composite of two games (where at every turn you pick a game and make a move there) is the \"base 2 ad- dition without carries\" (i.e. exclusive OR) of the nim- values of the constituents. So our starting position, with piles of 3, 4, 5, 6, has nim-value 2 ⊕ 0 ⊕ 1 ⊕0 = 3.",
+        "bbox": [
+          0.5723498589278516,
+          0.4115718968220037,
+          0.9447803305118904,
+          0.49422830269345874
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let 0 = x/a in the second integral and write 1 as sin2 θ + cos2 θ and you get",
+        "bbox": [
+          0.12898024989923418,
+          0.45318512184694315,
+          0.5038291011688835,
+          0.4811172865897107
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A position is a win for the player to move if and only if it has a nonzero value, in which case the winning strat- egy is to always move to a 0 position. (This is always possible from a nonzero position and never from a zero position, which is precisely the condition that defines the set of winning positions.) In this case, the winning move is to reduce the pile of 3 down to 2, and you can easily describe the entire strategy if you so desire.",
+        "bbox": [
+          0.5731559854897219,
+          0.49821861194242556,
+          0.9455864570737605,
+          0.6082371383782244
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since the left side is increasing as a function of b, we have equality if and only if b2 = a2 + c2.",
+        "bbox": [
+          0.12978637646110439,
+          0.5654838249964372,
+          0.5038291011688835,
+          0.5934159897392048
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–3 For n = 1 we obviously get 45, while for n = 3 the answer is 0 because it both changes sign (because de- terminants are alternating) and remains unchanged (by symmetry) when you switch any two rows other than the fi rst one. So only n = 2 is left. By the multilinear- ity of the determinant, the answer is the determinant of the matrix whose first (resp. second) row is the sum of all possible fi rst (resp. second) rows. There are 90 first rows whose sum is the vector (450, 405), and 100 sec- ond rows whose sum is (450, 450). Thus the answer is 450× 450− 450×405 = 45 ×450 = 20250.",
+        "bbox": [
+          0.09592906086255543,
+          0.6019666524155622,
+          0.5038291011688835,
+          0.751888271341029
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–6 Obviously α, β , γ have to be greater than 1, and no two can both be rational, so without loss of generality as- sume that α and β are irrational. Let {x} = x − [x] denote the fractional part of x. Then m ∈ S(α) if and only if f (m/ α) ∈ (1 − 1/ α, 1) U {0}. In particular, this means that (α) ∩ {1, . ., n} contains [(n + 1)/α] − 1 elements, and similarly. Hence for every integer n,",
+        "bbox": [
+          0.5384925433293027,
+          0.6167878010545818,
+          0.9455864570737605,
+          0.7131252672082087
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–4 The infinite continued fraction is defined as the limit of the sequence Lo = 2207, Ln+1 = 2207 − 1/Ln. No- tice that the sequence is strictly decreasing (by induc- tion) and thus indeed has a limit L, which satisfies L = 2207 − 1/L, or rewriting, L2 − 2207L + 1 = 0. More- over, we want the greater of the two roots.",
+        "bbox": [
+          0.09592906086255543,
+          0.7610089781958101,
+          0.5038291011688835,
+          0.8430953398888413
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Dividing through by n and taking the limit as n → ∞ shows that 1/α + 1/ β + 1/γ = 1. That in turn implies that for all n,",
+        "bbox": [
+          0.5723498589278516,
+          0.7638591990879293,
+          0.9455864570737605,
+          0.8049023799344449
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1995_Solutions_1995s_page_002_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Our desired contradiction is equivalent to showing that the left side actually takes the value 1 for some n. Since",
+        "bbox": [
+          0.5723498589278516,
+          0.8550662676357418,
+          0.9455864570737605,
+          0.8829984323785093
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

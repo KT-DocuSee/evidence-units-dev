@@ -1,0 +1,307 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5568627450980392,
+          0.06545454545454546,
+          0.9184313725490196,
+          0.15393939393939393
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(difference of squares). The latter is easily seen (e.g. by AM-GM) to have minimum value 6 (achieved at x = 1).",
+        "bbox": [
+          0.12705882352941175,
+          0.06666666666666667,
+          0.49019607843137253,
+          0.09575757575757576
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–2 Consider a triangle as described by the problem; label its vertices A, B, C so that A = (a, b), B lies on the x-axis, and C lies on the line y = x. Further let D = (a, −b) be the reflection of A in the x-axis, and let E = (b, a) be the reflection of A in the line y = x. Then AB = DB and AC = CE, and so the perimeter of ABC is DB + BC + CE ≥ DE = √(a − b)2 + (a + b)2 = √2a2 + 2b2. It is clear that this lower bound can be achieved; just set B (resp. C) to be the intersection between the segment DE and the x-axis (resp. line x = y); thus the minimum perimeter is in fact √2a2 + 2b2.",
+        "bbox": [
+          0.09411764705882353,
+          0.10545454545454545,
+          0.49019607843137253,
+          0.2672727272727273
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−6 First solution: Write p(n) = n3 + an2 + bn + c. Note that p(n) and p(n + 2) have the same parity, and recall that any perfect square is congruent to 0 or 1 (mod 4). Thus if p(n) and p(n + 2) are perfect squares, they are congruent mod 4. But p(n + 2) − p(n) = 2n2 + 2b (mod 4), which is not divisible by 4 if n and b have opposite parity.",
+        "bbox": [
+          0.5247058823529411,
+          0.16242424242424242,
+          0.9192156862745098,
+          0.26545454545454544
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: We prove more generally that for any polynomial P(z) with integer coefficients which is not a perfect square, there exists a positive integer n such that P(n) is not a perfect square. Of course it suffices to assume P(z) has no repeated factors, which is to say P(z) and its derivative P'(z) are relatively prime.",
+        "bbox": [
+          0.556078431372549,
+          0.2696969696969697,
+          0.9192156862745098,
+          0.356969696969697
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–3 We use the well-known result that the surface area of the \"sphere cap\" {(x, y, z) |x2 + y2 + z2 = 1, z ≥ z0} is simply 2π(1 – zo). (This result is easily verified using calculus; we omit the derivation here.) Now the desired surface area is just 2π minus the surface areas of five identical halves of sphere caps; these caps, up to isome- try, correspond to zo being the distance from the center of the pentagon to any of its sides, i.e., zo = cos . Thus the desired area is 2π − 2 (2π(1 − cos )) = 5πcos − 3π (i.e., B = π/2).",
+        "bbox": [
+          0.09411764705882353,
+          0.2775757575757576,
+          0.49019607843137253,
+          0.4254545454545455
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In particular, if we carry out the Euclidean algorithm on P(z) and P′(z) without dividing, we get an integer D (the discriminant of P) such that the greatest com- mon divisor of P(n) and P′(n) divides D for any n. Now there exist infinitely many primes p such that p divides P(n) for some n: if there were only finitely many, say, p1, . . . , pk, then for any n divisible by m = P(0)p1p2 · · pk, we have P(n) = P(0) (mod m), that is, P(n)/ P(0) is not divisible by p1, . . , k, so must be ±1, but then P takes some value infinitely many times, con- tradiction. In particular, we can choose some such p not dividing D, and choose n such that p divides P(n). Then P(n + kp) = P(n) + kp′(n)(modp) (write out the Tay− lor series of the left side); in particular, since p does not divide P′(n), we can find some k such that P(n + kp) is divisible by p but not by p2, and so is not a perfect square.",
+        "bbox": [
+          0.5568627450980392,
+          0.3618181818181818,
+          0.9192156862745098,
+          0.6078787878787879
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−4 For convenience, define fm,n(i) = [n] + [n], so that thegiven )==(−1)() n are both odd, then S(m, n) is the sum of an odd num- ber of ±1's, and thus cannot be zero. Now consider the case where m and n have opposite parity. Note that ]+k−] = −1 for l nteers i,k,m. Th []+ [mn−i=1]= n−1and|i]+[mn−i−1]=m−1; this implies that fm,n(i) + fm,n(mn − i− 1) = m+ n− 2 is odd, and so (−1)fm,n(i) = −(−1)fm,n(mn−i−1) for all i t follows that S(m, n) = 0 if m and n have opposite parity.",
+        "bbox": [
+          0.09411764705882353,
+          0.43393939393939396,
+          0.49019607843137253,
+          0.5878787878787879
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "=n",
+        "bbox": [
+          0.12627450980392158,
+          0.5921212121212122,
+          0.49019607843137253,
+          0.6375757575757576
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution: (from David Rusin, David Savitt, and Richard Stanley independently) Assume that n3 + an2 + bn + c is a square for all n > 0. For sufficiently large n, thus if n is a large even perfect square, we have n3 + an2 + bn + c = (n3/2 + 2an1/2)2. We conclude this is an equality of polynomials, but the right-hand side is not a perfect square for n an even non-square, contradiction. (The reader might try generalizing this approach to ar- bitrary polynomials. A related argument, due to Greg Kuperberg: write √n3 + an2 + bn + c as n3/2 times a power series in 1/n and take two finite differences to get an expression which tends to 0 as n → ∞, contradic- tion.)",
+        "bbox": [
+          0.5568627450980392,
+          0.6121212121212121,
+          0.9192156862745098,
+          0.656969696969697
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thus S(2k, 21) vanishes if and only if S(k, ) vanishes (if 1 + (−1)k+I = 0, then k and I have opposite parity and so S(k, ) also vanishes).",
+        "bbox": [
+          0.12627450980392158,
+          0.6975757575757576,
+          0.49019607843137253,
+          0.7418181818181818
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5568627450980392,
+          0.7381818181818182,
+          0.9192156862745098,
+          0.8848484848484849
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Piecing our various cases together, we easily deduce that S(m, n) = 0 if and only if the highest powers of 2 dividing m and n are different.",
+        "bbox": [
+          0.12705882352941175,
+          0.7466666666666667,
+          0.49019607843137253,
+          0.7903030303030303
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−5 Write N = (101998 − 1)/9. Then where r < 10-200. Now the digits after the decimal point of 199/3 are give  .33... hile t e dig- its after the decimal point of 10-999are given by .00000.. 16666. It follows that the irst 1000 dig- its of √N are given by .33333 ..3331; in particular, the thousandth digit is 1.",
+        "bbox": [
+          0.09333333333333334,
+          0.7981818181818182,
+          0.3419607843137255,
+          0.8151515151515152
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1998_Solutions_1998s_page_002_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: in case n3 + an2 + bn + c has no repeated factors, it is a square for only finitely many n, by a theorem",
+        "bbox": [
+          0.5576470588235294,
+          0.8884848484848484,
+          0.9192156862745098,
+          0.9193939393939394
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

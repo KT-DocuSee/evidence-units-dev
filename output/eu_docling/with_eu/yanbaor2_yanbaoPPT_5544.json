@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_yanbaoPPT_5544",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_5544_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_5544_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "3 | 4 | 5 | 6 | HWAWE | Hi t, | 7 | 8 | 9 | 10 | 44. 48 | 41. 41",
+        "bbox": [
+          0.1377597425984356,
+          0.0844245378968042,
+          0.9256747521396992,
+          0.31302327404372865
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_5544",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_5544_5",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_5544_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14941790948611794,
+          0.3478903703171761,
+          0.8453057691581015,
+          0.6106251899683358
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_5544_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11",
+        "bbox": [
+          0.30481633594375024,
+          0.49058073432425686,
+          0.4832814742547217,
+          0.5111587024372629
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_5544_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "... --",
+        "bbox": [
+          0.6832895718888703,
+          0.5026340368231935,
+          0.7868201560663663,
+          0.515080763894683
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_5544_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТОР",
+        "bbox": [
+          0.3834589778734366,
+          0.652529761813308,
+          0.8398357157061253,
+          0.6716269840355303
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

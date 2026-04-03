@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 Method validation data for the 53 PCB congeners",
+        "bbox": [
+          0.06889829740965729,
+          0.10451294802904228,
+          0.3394501482134335,
+          0.12969679092760666
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.05377428090509838,
+          0.12466002234789379,
+          0.9124823291083881,
+          0.8675833878555437
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Da used 20−500ng/g) otherwise, lw level alibration (n=4) was used (220ng/g) fr te determination ofMDLs and RSDs. MDL=1.943..",
+        "bbox": [
+          0.07225918996622595,
+          0.8688425800004719,
+          0.9208845604998097,
+          0.8940264228990363
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

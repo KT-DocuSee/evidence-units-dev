@@ -1,0 +1,477 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_1",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "W1,..., Wn be the projections of e1,..., en. If the desired condition is not achieved, we can choose i, j such that",
+        "bbox": [
+          0.1278195422832163,
+          0.06820436523360326,
+          0.49060150276690934,
+          0.09598214300682581
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.21428571446714417,
+          0.1162790696507625,
+          0.4116541358753174,
+          0.1366279069080693
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By precomposing with a suitable rotation that fixes en for h i, j, we can vary wil, wjl without varying wilf + wilF or |wn| for h #i,j. We can thus choose such a rotation to force one of |w;|?, Iw;? to become equal to \"(w,|? + ... + |wn|*). Repeating at most n - 1 times gives the desired configuration.",
+        "bbox": [
+          0.1257328323282173,
+          0.14825581383680908,
+          0.49081643317358764,
+          0.23837209256998315
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thus the derivative of fat any rational number is #1. Since f is continuously differentiable, we conclude that f'(x) = 1 for all real x or f' (x) = - 1 for all real x. Since f(0) must be an integer (a rational number with denominator 1), f(x) = x+n or f(x) = —x + n for some integer n.",
+        "bbox": [
+          0.5563909686616625,
+          0.19469246010126964,
+          0.9210526389119592,
+          0.2790697671073789
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-4 We use the identity given by Taylor's theorem:",
+        "bbox": [
+          0.09586467707640853,
+          0.24999999990148933,
+          0.4342105193521627,
+          0.2631448411713307
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: After showing that f'(q) is an integer for each 9, one can instead argue that f' is a continuous function from the rationals to the integers, so must be constant. One can then write f(x) = ax + b and check that b € Z by evaluation at a = 0, and that a = 1 by evaluation at x = 1/a.",
+        "bbox": [
+          0.554420231451677,
+          0.28633720931282636,
+          0.9210526143083033,
+          0.3723554571818853
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.20300752273871364,
+          0.2876984125421732,
+          0.34022556225502065,
+          0.31398809508185566
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In this expression, h\")(x)/i! is a polynomial in x with integer coefficients, so its value at an integer x is an integer.",
+        "bbox": [
+          0.1259398600964588,
+          0.3270348833236645,
+          0.49060151109241035,
+          0.3723313017662504
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For x = 0, ...,p - 1, we deduce that",
+        "bbox": [
+          0.12969925206766905,
+          0.3779069767132941,
+          0.366541357330827,
+          0.3896329365100484
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-6 In all solutions, let En,k be the number of k-limited permutations of {1,...,n}.",
+        "bbox": [
+          0.5244360968045111,
+          0.3836805555378874,
+          0.9191729389097743,
+          0.40997023795222215
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1635338370864661,
+          0.40252976217625885,
+          0.41353383708646607,
+          0.41865079392229065
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "First solution: (by Jacob Tsimerman) Note that any permutation is k-limited if and only if its inverse is klimited. Consequently, the number of k-limited permutations of {1,...,n} is the same as the number of k-limited involutions (permutations equal to their inverses) of {1,...,n}.",
+        "bbox": [
+          0.5582706724210608,
+          0.4171511631470712,
+          0.9210526329047538,
+          0.5029761906258735
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(This can also be deduced more directly using the binomial theorem.) Since we assumed h(x) and h(x + p) are distinct modulo p', we conclude that h' (x) # 0 (mod p). Since h' is a polynomial with integer coefficients, we have h' (x) = h'(x + mp) (mod p) for any integer m, and so h' (x) # 0 (mod p) for all integers x.",
+        "bbox": [
+          0.12781954715913987,
+          0.4316860465291856,
+          0.49060151260400175,
+          0.5159883719735108
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We use the following fact several times: the number of involutions of {1,...,n} is odd if n = 0, 1 and even otherwise. This follows from the fact that non-involutions come in pairs, so the number of involutions has the same parity as the number of permutations, namely n!.",
+        "bbox": [
+          0.556390979180146,
+          0.5086805557740791,
+          0.9191729396638392,
+          0.5799418598180451
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_10",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now for x = 0,...,p - 1 and y = 0,..., p - 1, we write",
+        "bbox": [
+          0.12969925542981636,
+          0.5218023258640937,
+          0.4906015054724391,
+          0.5364583331539802
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_11",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1503759436039938,
+          0.5478670635049974,
+          0.4248120226366077,
+          0.5669642857272196
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thus h(x), h(x+p*),...,h(x+ (p-1)p?) run over all of the residue classes modulo p' congruent to h(x) modulo p?. Since the h(x) themselves cover all the residue classes modulo p', this proves that h(O),...,h(p3 - 1) are distinct modulo p",
+        "bbox": [
+          0.12593985625873957,
+          0.5755813951393136,
+          0.4906015069649042,
+          0.6485784913350628
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_23",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For n < k + 1, all involutions are k-limited. By the previous paragraph, Fn,k is odd for n = 0, 1 and even for n =2,..., k+1.",
+        "bbox": [
+          0.5582310066126717,
+          0.5872093021907335,
+          0.9191729340438677,
+          0.6281036988638913
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For n > k + 1, group the k-limited involutions into classes based on their actions on k + 2,...,n. Note that for C a class and o € C, the set of elements of A = {1,..,k + 1} which map into A under o depends only on C, not on o. Call this set S(C); then the size of C is exactly the number of involutions of S(C). Consequently, C is even unless S(C) has at most one element. However, the element 1 cannot map out of A because we are looking at k-limited involutions. Hence if S(C) has one element and o € C, we must have o (1) = 1. Since o is k-limited and o (2) cannot belong to A, we must have o (2) = k + 2. By induction, for i = 3, ...,k + 1, we must have o i) = k+i.",
+        "bbox": [
+          0.5563909892474611,
+          0.6351686508466557,
+          0.9210526380050044,
+          0.8212209302150003
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_13",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: More generally, the same proof shows that for any integers d, e > 1, h permutes the residue classes modulo p' if and only if it permutes the residue classes modulo pe. The argument used in the proof is related to a general result in number theory known as Hensel's lemma.",
+        "bbox": [
+          0.12733637026570477,
+          0.6555059525791957,
+          0.4906015101854555,
+          0.7393854605392322
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-5 The functions f(x) = x + n and f(x) = —x + n for any integer n clearly satisfy the condition of the problem; we claim that these are the only possible f.",
+        "bbox": [
+          0.09586466233989613,
+          0.751453488382594,
+          0.4906015101854555,
+          0.7936507936925762
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let q = a/b be any rational number with gcd (a, b) = 1 and b > 0. For n any positive integer, we have",
+        "bbox": [
+          0.12781955462465844,
+          0.7993551585561404,
+          0.4887218007218288,
+          0.8271329364989365
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_25",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If n < 2k + 1, this shows that no class C of odd cardinality can exist, so En,k must be even. If n ≥ 2k + 1, the classes of odd cardinality are in bijection with klimited involutions of {2k + 2,...,n}, so Enk has the same parity as En-2k-1,k. By induction on n, we deduce",
+        "bbox": [
+          0.5582706781741773,
+          0.8283730158355674,
+          0.9210526404235507,
+          0.8998015872573614
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_16",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.18421052658983245,
+          0.8438407341346952,
+          0.43810923890877607,
+          0.8764534881345107
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_005_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "is an integer by the property of f. Since f is differentiable at a/b, the left hand side has a limit. It follows that for sufficiently large n, both sides must be equal to some integer ( = f () f() =f+ Now c cannot be 0, since otherwise f (ab+1) = f(%) for sufficiently large n has denominator b rather than bn. Similarly, |c| cannot be greater than 1: otherwise if we take n = k/c| for k a sufficiently large positive integer, then f(6) + on has denominator bk, contradicting the fact that f (abn*) has denominator bn. It follows that с= f'(6)=#1.",
+        "bbox": [
+          0.12781954009023386,
+          0.888081395232158,
+          0.49060151260400175,
+          0.9303075396625384
+        ],
+        "order": 26
+      }
+    ]
+  }
+]

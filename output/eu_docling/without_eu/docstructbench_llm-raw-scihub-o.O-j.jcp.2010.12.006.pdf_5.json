@@ -1,0 +1,314 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.176237625772347,
+      0.0711805554073736,
+      0.7445544495591129,
+      0.1056395340369097
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_3",
+    "text": "where the difference operators at, a are the discretization of g, and the difference operators ax, ax, are the discretization of ax,. Via these notations and the properties of the difference operators,® we present the statement of the local/global conservation laws for the different numerical methods.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0751463603339716,
+      0.11036706365434878,
+      0.9346534482636167,
+      0.15116279063166702
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_4",
+    "text": "3.1. Symplectic method for Maxwell's equations",
+    "canon_role": "section_header",
+    "bbox": [
+      0.07524753260143632,
+      0.1671511627840306,
+      0.3940594060619299,
+      0.17881944467980443
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_5",
+    "text": "The following method is constructed based on the method of lines, i.e. discretizing the Hamiltonian PDEs in space, then applying the symplectic method to the resulting Hamiltonian ODEs (see for example [6,22]). Later, we will show the method is also multisymplectic in the corresponding statement of multisymplecticity.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07524753593060948,
+      0.194692460143663,
+      0.9326732580274444,
+      0.23546511628673752
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_6",
+    "text": "For Maxwell's equations in Hamiltonian form, we use the central finite difference in space (which is leapfrog discretization) and implicit midpoint rule (which is symplectic) in time, it is easy to show that the Hamiltonian formulations in (5) and (7) for Maxwell's equations reduce to the same discretized system,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07326731963815351,
+      0.23685515879838842,
+      0.9326732580274444,
+      0.27761627897469027
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8990099012297401,
+      0.29215116266190594,
+      0.9326732676481475,
+      0.305232558098753
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_8",
+    "text": "where indices i, j, k denote spatial increments and index l denotes time increment, and matrices M, K1,... as in (10). We refer to this particular discretization as the symplectic method, though it is also multisymplectic.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07524750692033198,
+      0.31540697688286784,
+      0.9326732637232329,
+      0.3415697674422608
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_9",
+    "text": "The symplectic method (18) is second-order in space and time, and is unconditionally stable. Furthermore, this discrete system preserves two discretized global conservation laws: the first one is the discrete quadratic global conservation law based on (8),",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07524752513698924,
+      0.3415178573673262,
+      0.9326732851588758,
+      0.38226744166627685
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_10",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.89702970301284,
+      0.3997093023360823,
+      0.9326732663931007,
+      0.41279069777292937
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_11",
+    "text": "The second discretized global conservation law for symplectic method is based on the helicity Hamiltonian functional (6)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07524755024729264,
+      0.42435515871360163,
+      0.9267326619639282,
+      0.43749999998344286
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13861386131589043,
+      0.44622093044591565,
+      0.9306930683599907,
+      0.4738372092736559
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_13",
+    "text": "where Tx = R12x, + R20x2 + R32x3. Furthermore, the scheme (18) is proved to be multisymplectic, since it preserves the following multisymplectic conservation law",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07326733124428987,
+      0.4811046515545006,
+      0.9326732637232329,
+      0.5087209302150003
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_14",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1366336649768582,
+      0.5523255817837253,
+      0.9326732666406257,
+      0.5726744182889492
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_15",
+    "text": "Besides the global conservation laws, for the scheme (18) applied to Maxwell's equations, we also have the following local conservation laws based on (13)-(15):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07524750906389624,
+      0.5857558140776353,
+      0.9326732658667972,
+      0.6119186047789539
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_16",
+    "text": "The discrete quadratic conservation law is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09702971043815371,
+      0.613343253844107,
+      0.39405940441333126,
+      0.6249999998758531
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_24",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8970297032037875,
+      0.6671511626201068,
+      0.9326732665840483,
+      0.6831395352411889
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_17",
+    "text": "The discrete energy conservation law is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07524752668887172,
+      0.6961805556478995,
+      0.35445545058835587,
+      0.7078488370706205
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_25",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8772277221908451,
+      0.754360465507989,
+      0.9306930685517292,
+      0.7688953485908481
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_18",
+    "text": "The discrete momentum conservation law is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0752475257651466,
+      0.7848837210456902,
+      0.38811881608303817,
+      0.795138888927338
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_19",
+    "text": "6 Let pi and qi are the functions at grid i, a, & are the difference operators, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08316832658744987,
+      0.8516865079380087,
+      0.5267326525214612,
+      0.8648313492078501
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_20",
+    "text": "дар] —q + дар даРі+ + 9ідРі,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12079208276018705,
+      0.8720238094114643,
+      0.35247523827941707,
+      0.883720930021202
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_21",
+    "text": "091P1 = дді+1Рі+1 + Фін1дРі",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12079208110744659,
+      0.8866279070064143,
+      0.28910891319948395,
+      0.8983134922251768
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_22",
+    "text": "дарі + дріді + Рі 9,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15510825489959196,
+      0.8997093028263028,
+      0.37227722548510656,
+      0.9142441859091619
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5_23",
+    "text": "Дарі] —дідріН + да,рі.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12079208221029142,
+      0.9156746031932721,
+      0.27920792175010456,
+      0.9273313492250181
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_5",
+    "order": 26
+  }
+]

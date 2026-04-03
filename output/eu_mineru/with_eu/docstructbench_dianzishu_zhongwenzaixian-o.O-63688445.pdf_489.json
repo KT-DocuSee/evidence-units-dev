@@ -1,0 +1,234 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "系统架构设计师教程（第4版）",
+        "bbox": [
+          0.0938811591871147,
+          0.07652280212763655,
+          0.5006995156646118,
+          0.10075502280138812
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "使用也可一起使用。IKE则提供加密算法、密钥等的协商。",
+        "bbox": [
+          0.12517487891615295,
+          0.11350882315599423,
+          0.6203519734521109,
+          0.13136414365244276
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_2",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "1．安全关联和安全策略",
+        "bbox": [
+          0.1656726338596142,
+          0.14284256397158823,
+          0.37184302266268965,
+          0.15942250443257616
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "安全关联（SecurityAssociation，SA）是指提供通信安全服务的发送方和接收方之间 的一种单向关系。安全关联是构成 IPSec 的基础，它是进行通信的双方经协商建立起来的 一种协定。安全关联可以用一个32位的安全参数索引（Security Parameter Index，SPI）来 唯一标识，一个 SPI 值决定一个特定的 SA，它通常放在AH 或ESP 头中；安全关联是单 向的，如果要对两台主机A与B 实现双向安全，则需要两个安全关联，每个方向一个：（A， B）、（B，A）。安全关联的内容包含了IP数据包是否加密、认证，以及加密、认证采用的 算法、密钥等相关信息。所有的 SA 记录都存放在安全关联数据库中，按散列方式存取。",
+        "bbox": [
+          0.12517487891615295,
+          0.17090092475172164,
+          0.8835873805846091,
+          0.3150188687587705
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "安全策略（Security Policy）定义了两个 IPSec 系统之间的安全通信特征，并决定在该 通信中为数据包提供的安全服务。一个 IPSec 系统的所有安全策略都存放在安全策略数据 库中，根据选择符（包括源地址、目的地址、协议、端口等）进行检索。安全策略通常与 SA合作，共同作用于通信的数据包。",
+        "bbox": [
+          0.12517487891615295,
+          0.3188450088651523,
+          0.8835873805846091,
+          0.39919395109917066
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_5",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.AH",
+        "bbox": [
+          0.1638318268167296,
+          0.41194775145377677,
+          0.22826007331769066,
+          0.4259769318438435
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AH 协议先将数据进行校验和加密，然后封装为IP 包，从而实现无连接通信的数据完 整性、数据源认证和防止重放攻击。AH 能完成除数据加密外的所有的ESP 所能提供的功 能。在认证机制上，它所覆盖的范围比ESP 的广，包括对IP 头中一些选项的认证。",
+        "bbox": [
+          0.12517487891615295,
+          0.43873073219844955,
+          0.8835873805846091,
+          0.4986735938650982
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "为了应用IPSec 协议，IP 数据包的格式要有所改变，即在 IP 头和被保护的数据之间插 入一个AH头，如图16-3所示。",
+        "bbox": [
+          0.12149326483038374,
+          0.5024997339714801,
+          0.8817465735417245,
+          0.5407611350352983
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_10",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图16-3用AH保护的IP数据包格式示意图",
+        "bbox": [
+          0.342390109976536,
+          0.5866748163118802,
+          0.6682129565671105,
+          0.6032547567728681
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AH头的格式如图16-4所示，包括：下一报头、有效载荷长度、保留位、安全参数索 引、序列号、认证数据。",
+        "bbox": [
+          0.12333407187326835,
+          0.6160085571274743,
+          0.8817465735417245,
+          0.6542699581912925
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_12",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图16-4 AH头的格式",
+        "bbox": [
+          0.4197040057776893,
+          0.7563003610281412,
+          0.587217446680188,
+          0.7728803014891292
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AH 使用的典型的认证算法是一种迭代型的消息摘要算法。AH中采用MD5 算法，可 以提供完整性服务。从前面的讲述可以知道 MD5 可以对任意长度的信息进行散列运算产 生一个唯一的128 位消息摘要。由于消息摘要是唯一的，所以对信息的任何修改都将得到另 一个不同的消息摘要，因此能防止消息被篡改，从而保证了数据的完整性。AH 也可以采用 SHA 算法提供更强的抗攻击能力，SHA 是在 MD5 的基础上，增加了分组处理的迭代次数",
+        "bbox": [
+          0.12517487891615295,
+          0.7843587218082747,
+          0.8835873805846091,
+          0.887664504680584
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_8",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.29084751277576715,
+          0.5560656954608256,
+          0.7160739396821102,
+          0.5790225360991166
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688445.pdf_489_11",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.23930491557499828,
+          0.6682991385813593,
+          0.7694573439257637,
+          0.747372700779917
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

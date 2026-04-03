@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_lay_linalg5_01_05_page_004",
+    "primary_id": "docling_PPT_lay_linalg5_01_05_page_004_0",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_004_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "HOMOGENEOUS LINEAR SYSTEMS",
+        "bbox": [
+          0.061046510791637414,
+          0.09093915272910438,
+          0.6831395298229803,
+          0.13955026384021554
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_004_1",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.06540697713280019,
+          0.19767441864391655,
+          0.9331395346558076,
+          0.405038760283259
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_004_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Since x3 is a free variable, Ax = 0 has nontrivial solutions (one for each choice of X3.)",
+        "bbox": [
+          0.05959303994008139,
+          0.46317829375299796,
+          0.8517441731594824,
+          0.5794573633027463
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_004_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Continue the row reduction of |A echelon form: 0] to reduced",
+        "bbox": [
+          0.05416667369791654,
+          0.5974738601843067,
+          0.8503924630841901,
+          0.70542635604253
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_004_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.34883721025414727,
+          0.6686046511450119,
+          0.8099111295357816,
+          0.9399224814299418
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

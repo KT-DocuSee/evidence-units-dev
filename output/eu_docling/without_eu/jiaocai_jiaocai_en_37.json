@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_2",
+    "text": "2. (18%) On FA and Regular Languages",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1293634529237474,
+      0.08854166711216108,
+      0.5277207426272449,
+      0.10466269885819279
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_3",
+    "text": "Say whether each of the following languages is regular or not regular? Prove your answers.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15605749688562437,
+      0.10755814009616736,
+      0.8747433072480757,
+      0.13808139500466574
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_4",
+    "text": "(a) L1 = {w|w € {0, 1}* and w has an equal number of 0s and 1s}.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16221766539072058,
+      0.14825581427252393,
+      0.7433264969809424,
+      0.16279069735538304
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_5",
+    "text": "(b) L2 = {w|wE {0, 1}* and w has an equal number of 01s and 10s}.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16016427614880543,
+      0.17005813925874194,
+      0.761806986445308,
+      0.18604651187982407
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_6",
+    "text": "3. (20%) On PDA and Context-Free Languages",
+    "canon_role": "section_header",
+    "bbox": [
+      0.12936346067940832,
+      0.5014534887697382,
+      0.5995893044540621,
+      0.5188953480907269
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_7",
+    "text": "Let L3 = {wcamz\"|w E {a, b}*, where w = wh , and m, n E N, n ≤ m ≤ 2n}.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15400412059575955,
+      0.5188492067539189,
+      0.8131416830448392,
+      0.5364583337380459
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_8",
+    "text": "(a) Give a context-free grammar for the language L3.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16221766836604598,
+      0.5436046514818264,
+      0.6262833699296416,
+      0.5581395345646855
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_9",
+    "text": "(b) Design a PDA M = (K, L,I,A, s, F) accepting the language L3.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16016427689075455,
+      0.5654069772871801,
+      0.7577002114460009,
+      0.5828488366081689
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_10",
+    "text": "Solution: (a)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1560574971859822,
+      0.5900297620094391,
+      0.2792607801240793,
+      0.6046626985173756
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_11",
+    "text": "(b) The PDA M = (K, E, [, A, s, F) is defined below:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15195072418124955,
+      0.6626984130084482,
+      0.6201232014861014,
+      0.6803075399925752
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_13",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.2437294126277679,
+      0.6909096184934801,
+      0.7845062661776375,
+      0.9336625352380825
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_jiaocai_jiaocai_en_37_12",
+    "text": "(9, 0, B) K = { < = {a, b, c} Г = < s = F ={ }",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2771321928240047,
+      0.6976686509896716,
+      0.6550308000178748,
+      0.8925701817949234
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 14
+  }
+]

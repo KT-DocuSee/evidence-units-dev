@@ -1,0 +1,172 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "non-indigenous cases. BreastScreen Cairns screened 2310 indige- nous women in the 5-year period of this study. Their detection rate (per 1000) was 3.9 among indigenous women compared with 3.77 among all women (BreastScreen Queensland Cairns Service, unpubl. data, 2001). The districts of drainage of the Cairns Base Hospital, BreastScreen Cairns and the Australian Bureau of Sta- tistics survey may all differ slightly.",
+        "bbox": [
+          0.06721785113137296,
+          0.07562939082357091,
+          0.48732942070245405,
+          0.1743321551187397
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5108556685984346,
+          0.07691124490532635,
+          0.9309672381695157,
+          0.13203097042081022
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_6",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "ACKNOWLEDGEMENTS",
+        "bbox": [
+          0.6184042304086314,
+          0.15254063572889726,
+          0.8250991226376032,
+          0.16792288470996253
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The authors wish to thank Dr David Whiteman (Queensland Institute of Medical Research) for assistance with statistical analy- sis and Mr Keith Coakley of BreastScreen Cairns.",
+        "bbox": [
+          0.5108556685984346,
+          0.17561400920049516,
+          0.9309672381695157,
+          0.2166333398166692
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Despite this, indigenous women presented with larger tumours and a higher incidence of nodal and metastatic disease, although these figures did not all reach statistical significance perhaps because of the small numbers in this study. These figures may be extrapolated to support epidemiological findings that breast cancer in indigenous women has a higher mortality rate.2",
+        "bbox": [
+          0.06721785113137296,
+          0.1768958632822506,
+          0.48732942070245405,
+          0.2589345245145987
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_8",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_8",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "REFERENCES",
+        "bbox": [
+          0.6604153873657395,
+          0.23970671328826712,
+          0.7797270731239264,
+          0.25380710818757696
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Despite larger tumour size, indigenous women were consid- ered suitable for breast conservation surgery at a rate similar to the non-indigenous population. All patients received adjuvant therapy as directed by visiting oncologists although completion was not recorded in all cases. As such, it would be hoped that stage-for-stage, indigenous women will have the same choices and outcomes as non-indigenous women.",
+        "bbox": [
+          0.06721785113137296,
+          0.26021637859635416,
+          0.48732942070245405,
+          0.35891914289152294
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "1. National Breast Cancer Centre. NHMRC National Breast Cancer Centre Breast Cancer and Aboriginal and Torres Strait Islander Women Executive Summary. Canberra: National Breast Cancer Centre, 15 July 1999. Available from URL: http://www.nbcc.org.au Accessed on: 20 January 2002. 2. Australian Institute of Health and Welfare. Australia's Health 1992: The Third Biennial Report of the Australian Institute of Health and Welfare. Canberra: AGPS, 1992. 3. Scrimgeour D, Bartlett B. Cancer Screening in Aboriginal Popu- lations. Cancer Forum 1998; 22: 36–9. 4. Kricker A, Jeffs P. Breast Cancer in Australian Women 1921– 1994. Canberra: Australian Institute of Health and Welfare, 1996. 5. Australian Bureau of Statistics. National Aboriginal and Torres Strait Islander and Torres Strait Islander Survey. Canberra: Aus- tralian Bureau of Statistics, 1995 (Catalogue No. 4190.0). 6. McMichael C, Kirk M, Manderson L, Hoban E, Potts H. Indige- nous women's perceptions of breast cancer diagnosis and treatment in Queensland. Aust. N. Z. J. Pub. Health 2000; 24: 515–19. 7. Kirk M, McMichael C, Potts H, Hoban E, Hill D, Manderson L. Breast Cancer: Screening, Diagnosis, Treatment and Care for Aboriginal Women and Torres Strait Islander Women in Queensland Report. Brisbane: Queensland Health, 2000.",
+        "bbox": [
+          0.5108556685984346,
+          0.26021637859635416,
+          0.9326476844478,
+          0.569143212299415
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "According to the Australian Bureau of Statistics there are more than 23000 Aboriginal and Torres Strait Islander women aged 40 and over.5 This belies the often claimed notion that the age profile of the Aboriginal and Torres Strait Islander reduces the impor- tance of breast cancer.",
+        "bbox": [
+          0.06721785113137296,
+          0.35891914289152294,
+          0.48732942070245405,
+          0.42813926330631663
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1445-2197.2003.02751.x.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The benefit from this audit study will be the intention for all future patients to be included prospectively in the Royal Australa- sian College of Surgeons' Breast Cancer Surgical Audit. This will allow the trends found in the present study to be followed to see if the apparent later presentation of indigenous patients con- tinues. If so, strategies currently in place in Far North Queensland to detect early breast cancer can then be reviewed. If, with time, future audits show no difference in presentation, this information can be used to support the continued use of these strategies (such as those used by BreastScreen Queensland). In 5 to 10 years, audits will also allow a review of mortality rates in the two groups. From these data, we will be able to ensure that indigenous women can expect the same outcomes as other women in regional Australia.",
+        "bbox": [
+          0.06721785113137296,
+          0.4294211173880721,
+          0.48732942070245405,
+          0.5704250663811704
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

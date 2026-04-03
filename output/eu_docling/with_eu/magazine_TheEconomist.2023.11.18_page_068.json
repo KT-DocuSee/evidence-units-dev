@@ -1,0 +1,544 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_35",
+    "source": "visual_seed",
+    "member_count": 11,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_35",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3602654296875,
+          0.06915023894329603,
+          0.6392033203125,
+          0.34183420059578196
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MUMBAI",
+        "bbox": [
+          0.6583771497475561,
+          0.170005132295601,
+          0.698493080261317,
+          0.17883207685872488
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "200",
+        "bbox": [
+          0.9083969466591713,
+          0.7906976743085622,
+          0.9293893126919737,
+          0.7979651163230446
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "150",
+        "bbox": [
+          0.908396946964515,
+          0.8226744188325436,
+          0.9293893129973174,
+          0.8313953484930379
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "100",
+        "bbox": [
+          0.9083969465446676,
+          0.8561046515069621,
+          0.92938931257747,
+          0.8648255811674564
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50",
+        "bbox": [
+          0.9141221377898683,
+          0.8880813955621948,
+          0.9293893129734906,
+          0.896802325222689
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22 23*",
+        "bbox": [
+          0.8606129913377545,
+          0.9358253809428113,
+          0.9046541856943683,
+          0.9449885723370116
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.8129770991985584,
+          0.9360465116767464,
+          0.8301526717460982,
+          0.9462209299293585
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2014",
+        "bbox": [
+          0.6679389321179292,
+          0.93604651176859,
+          0.6965648851212565,
+          0.9447674414290843
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18",
+        "bbox": [
+          0.7671755727911156,
+          0.9375000000868432,
+          0.7843511453386554,
+          0.9447674416282729
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16",
+        "bbox": [
+          0.7213740459005553,
+          0.9375000001140962,
+          0.7366412210841777,
+          0.9447674416555258
+        ],
+        "order": 35
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_15",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_15",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Business in India",
+        "bbox": [
+          0.6603053472414868,
+          0.06969246027890069,
+          0.7709923645269611,
+          0.07994186022853468
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "· nese drones. Some states, including Florida, have already barred emergency services from doing so. All this is proving a boon for the likes of Skydio and BRINC.",
+        "bbox": [
+          0.051526721974819896,
+          0.06969246030212502,
+          0.34160304963869925,
+          0.12063953481771361
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_16",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_16",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "From tycoons to tiffin boxes",
+        "bbox": [
+          0.6583969449345504,
+          0.08854166685521986,
+          0.8606870212928348,
+          0.13372092983206924
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Other types of aerial snooping device are also in the works. Skydweller, another startup, is developing an autonomous solar-powered aircraft that will not have to land to recharge. That, says the firm, would allow for \"persistent surveillance\".",
+        "bbox": [
+          0.061068703863848224,
+          0.12202380948413878,
+          0.3416030552376258,
+          0.20064484138935376
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_18",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_18",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Inside India's unusual IPO boom",
+        "bbox": [
+          0.6583969565083883,
+          0.18168604663314167,
+          0.8893129729286348,
+          0.19196428576979224
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A second ascendant technology is satellites. Spacex, Elon Musk's rocket company, and its copycats have helped reduce the price of sending objects into space to around one-tenth of the level two decades ago. That has led to a carpeting of lowEarth orbit with satellites, around oneeighth of which are used for observing the planet. PitchBook, a data firm, reckons there are now nearly 200 companies in the business of selling satellite imagery-so many that the market has become commoditised, according to Trae Stephens of Founders Fund, another vc firm. BlackSky, one of those firms, says it can take an image of a spot on Earth every hour or so. Satellite imagery has come a long way since 2013, when police in Oregon used pictures from Google Earth to uncover an illegal marijuana plantation in a resident's yard.",
+        "bbox": [
+          0.06094500488664263,
+          0.20203488371426315,
+          0.3436199452325343,
+          0.46511627900376
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "tention either on the sprawling conglomerates run by the country's tycoons or the buzzy tech firms transforming the way Indians shop, learn or move around. How, then, to explain the excitement over Cello World, a 61-year-old company of middling size that listed its shares on the two local bourses on November 6th? It produces the \"tiffin\" boxes Indians use to carry their lunch to school or work, along with inexpensive pens and moulded furniture— hardly exciting stuff. Yet on the first day of trading its shares soared by 29%, sending its market value above $2bn. That is nearly 60 times the net profit it made in the last fiscal year. Its initial public offering (IPO) was roughly 40 times oversubscribed.",
+        "bbox": [
+          0.6581670550919312,
+          0.22817460315693502,
+          0.9408396992493748,
+          0.4521329365706103
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Axon, notes that there are 18,000 police departments in America. One-fifth of them do not use electronic records. Until 2009, the NYPD was still buying typewriters.",
+        "bbox": [
+          0.3606870261628275,
+          0.3618551586049217,
+          0.6412213702493864,
+          0.41279069760841125
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For newcomers that do gain a foothold, the rewards can be rich. David Ulevitch, who runs Andreessen Horowitz's American Dynamism fund, observes that word of mouth can spread fast, creating \"virality\". Fusus, a startup that sells real-time crimemonitoring software, says its sales grew by over 300% last year, albeit from a low base. In 2017 Flock Safety, another startup, launched a licence-plate reader that is now used in 47 American states. What's more, notes Paul Kwan of General Catalyst, another vc firm, relationships with government buyers, once established, tend to last a long time.",
+        "bbox": [
+          0.3605982365345162,
+          0.414186508153399,
+          0.6412213721196153,
+          0.6108218242644102
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cello World does not have bold plans for reinvesting the $230m raised in the offering; all of it will go back to the family that controls the firm, which still owns 81% of the equity. Nor is the business unique. At the end of last month another company making pens, Flair Writing Industries, received approval for its IPO. Several furniture companies are lined up to offer shares in the near future, too. Cello World is, in short, rather boring.",
+        "bbox": [
+          0.6583969485382618,
+          0.4533730160778155,
+          0.9408396904856403,
+          0.5974702379158848
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Techies are also selling tools to help law enforcement make better use of the profusion of images and information now at their fingertips. Ambient.Al, another startup backed by Andreessen Horowitz, has developed technology that automatically monitors cameras for suspicious activity. Palantir, a data-mining firm that has injected itself into America's military-industrial complex, sells its tools to the likes of the Los Angeles Police Department.",
+        "bbox": [
+          0.061068698403296914,
+          0.46651785734510287,
+          0.34351145497456564,
+          0.6104651160192639
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Few venture capitalists would line up for a stake in such a business. Foreign portfolio managers, many of whom have settled on a strategy of entering India through slivers of holdings in the country's mightiest conglomerates, would probably pass it over, too. Recent months, however, have shown that one of the most appealing corners of the Indian economy may be the companies like Cello World, which are»",
+        "bbox": [
+          0.6564885513811012,
+          0.5988372093101932,
+          0.9522900700063339,
+          0.7311507937713069
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Facial-recognition software is now used more widely across America, too, with around a tenth of police forces having access to the technology. A report released in September by America's Government Accountability Office found that six federal law-enforcement agencies, including the FBI and the Secret Service, were together executing an average of 69 facial-recognition searches every day. Among the top vendors listed was Clearview Al, a company backed by Peter Thiel, a vc veteran.",
+        "bbox": [
+          0.05916030940113941,
+          0.6118551588115013,
+          0.343667366413169,
+          0.770348837143295
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_13",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The bigger firms are adapting. Motorola Solutions has made 15 acquisitions since 2019, including Calipsa, a video-analytics tool, and WatchGuard, which makes cameras for cop-car dashboards. Axon has also acquired startups and taken stakes in others, including Fusus and Skydio.",
+        "bbox": [
+          0.3587786284223808,
+          0.6118551588260364,
+          0.6412213786386878,
+          0.7034883714459523
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The application of new technological wizardry to the job of watching citizens will make many uncomfortable. In 2020 Amazon, Microsoft and IBM stopped providing facial-recognition services to lawenforcement agencies because of worries about privacy. But surveillance is likely to remain lucrative, not least because governments are not the only customers for these technologies. Skydio's drones assess cell towers and bridges for damage. Hedge funds use satellite imagery to count the cars in retailers' parking lots, hoping to gauge their revenues ahead of market disclosures. SmartEye, a Swedish firm, sells eye-tracking technology to monitor the moods of pilots. It also sells its wares to advertising firms. The trend towards greater surveillance, whether by big brother or big business, looks unlikely to reverse.",
+        "bbox": [
+          0.360440918200102,
+          0.7033730160290343,
+          0.6413286044822285,
+          0.9680232555541476
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_36",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_36",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.661814111328125,
+          0.7452070812157378,
+          0.93857724609375,
+          0.963138000014276
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_22",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Making it in India",
+        "bbox": [
+          0.6698473316962219,
+          0.7571924601931131,
+          0.788167938437366,
+          0.7688953487348648
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "India, number of initial public offerings",
+        "bbox": [
+          0.6679389388584215,
+          0.7718023255747282,
+          0.8721374021244028,
+          0.783482142861477
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_8",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_8",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Silicon snoops",
+        "bbox": [
+          0.06106869993160203,
+          0.7848837211789266,
+          0.16412213770198578,
+          0.7951388890605744
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Surveillance capabilities may soon be further fortified by generative Al, of the type that powers ChatGPT, thanks to its ability to work with \"unstructured\" data such as images and video footage. Will Marshall, the boss of Planet Labs, a satellite firm, says that analysing satellite imagery with the technology will let users \"search the Earth for objects\", much as Google lets users search the internet for information.",
+        "bbox": [
+          0.06106870421626269,
+          0.7978670632961533,
+          0.34360324671394316,
+          0.9273313491331746
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For the newcomers, selling clever new surveillance technologies to the government is not easy. Rick Smith, the boss of",
+        "bbox": [
+          0.06106871239851432,
+          0.9302325581328678,
+          0.3435114402732414,
+          0.9680232558206205
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_34",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*To November 7th",
+        "bbox": [
+          0.8511450382487196,
+          0.9505813955325797,
+          0.9293893102881764,
+          0.9578488370740093
+        ],
+        "order": 36
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_068",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.18_page_068_30",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.18_page_068_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Source: Bloomberg",
+        "bbox": [
+          0.6679389311380074,
+          0.9505813955490816,
+          0.7480916005413818,
+          0.9608134921757266
+        ],
+        "order": 37
+      }
+    ]
+  }
+]

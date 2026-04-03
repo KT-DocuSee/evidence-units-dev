@@ -1,0 +1,329 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_19",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. This follows immediately from Theorem 3.3, since |(Z/pZ)*| = p-1.0",
+        "bbox": [
+          0.14084507116565048,
+          0.08575581460449339,
+          0.8631790661368015,
+          0.12354651120119194
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_19",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "4( - 1) | primitive roots | 2 | 1 | 1 | 3 | 1 | 2 | 5 | 2 | 2,3 | 7 | 2 | 3,5 | 11 | 4 | 2,6, 7,8 | 13 | 4 | 2,6,7,11",
+        "bbox": [
+          0.3458002551688448,
+          0.18812205524730571,
+          0.6590751532260076,
+          0.32256682328836866
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let p be a prime, and let g be a primitive root modulo p. If a is an integer not divisible by p, then there exists a unique integer k such that",
+        "bbox": [
+          0.14285715221813267,
+          0.33430232598894105,
+          0.8631790681959872,
+          0.37209302260480887
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This integer k is called the index of a with respect to the primitive root g, and is denoted by",
+        "bbox": [
+          0.14279295744178516,
+          0.4592365176287747,
+          0.8632564660425058,
+          0.49709302285816875
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If ki and kz are any integers such that k1 ≤ k2 and",
+        "bbox": [
+          0.14285715474177416,
+          0.5247093028068022,
+          0.6418511009926321,
+          0.5421626979918186
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If a = g* and so (mod p) and b = g° (mod p), then ab = g'gl = glite (mod p),",
+        "bbox": [
+          0.1427581988944981,
+          0.6728670631505252,
+          0.8651911384435146,
+          0.7095384129280566
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The index map ind, is also called the discrete logarithm to the base g modulo p.",
+        "bbox": [
+          0.14285714513742365,
+          0.7398255819508763,
+          0.8611669984920424,
+          0.7761627910222658
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For example, 2 is a primitive root modulo 13. Here is a table of indz(a) for a = 1,...,12:",
+        "bbox": [
+          0.14486921905832967,
+          0.7790178570988522,
+          0.8611669816951518,
+          0.8139880952215384
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The following table lists the primitive roots for the first six primes.",
+        "bbox": [
+          0.16498993486392807,
+          0.1598837212842731,
+          0.8189134774600161,
+          0.17733134901032838
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.42022643743864563,
+          0.38092583800856283,
+          0.5858097789546834,
+          0.4039578826160586
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and then",
+        "bbox": [
+          0.14285714315792972,
+          0.4142441856492458,
+          0.18309859144971616,
+          0.4302325582703279
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_6",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.40241449483554476,
+          0.4345238094434674,
+          0.6036217258217321,
+          0.45348837159463445
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4425856701961492,
+          0.49974254158247816,
+          0.5634505488329564,
+          0.5176993188069432
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.38229376674435894,
+          0.552325581909905,
+          0.6237424564950774,
+          0.5741567461942629
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_11",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3963782780071067,
+          0.6016865081870347,
+          0.6096579445281044,
+          0.6235465116584092
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and so",
+        "bbox": [
+          0.14285714278478157,
+          0.6307043648460063,
+          0.20925553298986635,
+          0.6453488367449178
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_12",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_12",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3923541248122267,
+          0.6497093027564866,
+          0.6136820956534242,
+          0.6686507931795985
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.253521136800795,
+          0.7150297621282307,
+          0.752515083051653,
+          0.7341269843504528
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "table_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_20",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0100_20",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "ind (a) | a ind2(a) | 7 | 11 | 2 | 1 | 8 | 3 | 3 | 4 | 9 | 8 | 4 | 2 | 10 | 10 | 5 | 9 | 11 | 7 | 6 | 5 | 12 | 6",
+        "bbox": [
+          0.36978144542940694,
+          0.8133673750405493,
+          0.6353717386865273,
+          0.9480733728463812
+        ],
+        "order": 21
+      }
+    ]
+  }
+]

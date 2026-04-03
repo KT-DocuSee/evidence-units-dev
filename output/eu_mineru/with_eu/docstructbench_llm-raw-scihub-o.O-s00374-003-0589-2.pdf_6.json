@@ -1,0 +1,143 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.36465684238769835,
+          0.06113403846576909,
+          0.9158432216649567,
+          0.5744052364179554
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5091752223201502,
+          0.7998370032604789,
+          0.9208845604998097,
+          0.9144633253837959
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_0",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 3 Time course of the N2O fluxes from the control (ON) and (NH4)2SO4 (upper figure) and liquid fattening pig manure (traditional farming; lower fig- ure) applied to soil at four application rates: 25 mg N kg-1 (25N), 50 mg N kg1(50N), 100 mg N kg-1 (100N), 200mg N kg (200N). At day 57 water was added (see Fig. 2)",
+        "bbox": [
+          0.07730052880107892,
+          0.06240766426713928,
+          0.2772736359169135,
+          0.1935911218082688
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 4 Total N2O emission after application of NH4NO3 and significant differences (α=0.05) in log-transformed N2O emission (uid pig manure (traditional farming) with different application between treatments chniques. For each column, different letters indicate statistically",
+        "bbox": [
+          0.07730052880107892,
+          0.6024250040480996,
+          0.922565006778094,
+          0.6406337780892053
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07730052880107892,
+          0.6419074038905754,
+          0.922565006778094,
+          0.7718172356303348
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Discussion",
+        "bbox": [
+          0.07898097507936323,
+          0.8011106290618492,
+          0.16300328899357946,
+          0.8163941386782914
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-003-0589-2.pdf_6_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Application of manure and fertilizer increases the amount of mineral N in soil and leads to higher emission of N2O. Most research so far provides emissions for animal manure as such without discriminating between a range of manure qualities that are found in agricultural practice. The results reported here suggest that N2O emission may be quite different depending on manure species and related quality and on manure management and handling. Most of these effects can be attributed to specific manure or fertilizer characteristics. Even though our results are from laboratory incubations using a soil with relatively low organic matter content and low pH, they may form the basis for designed testing and verification methods in field conditions and eventually lead to the formulation of",
+        "bbox": [
+          0.07898097507936323,
+          0.8278567708906232,
+          0.4906903132590227,
+          0.9157369511851662
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

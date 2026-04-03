@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_dcf347592d4160dffacffdf00a9c39aa75cf9859205a7543c283d1df8bb14f90.pdf_1",
+    "primary_id": "docling_eastmoney_dcf347592d4160dffacffdf00a9c39aa75cf9859205a7543c283d1df8bb14f90.pdf_1_3",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_eastmoney_dcf347592d4160dffacffdf00a9c39aa75cf9859205a7543c283d1df8bb14f90.pdf_1_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "# SI | і 12 і н | # 1T | 10% 10%≤ | 20%5-10% | # # | IT 117472 | IT 117472 | 5%< | IT 117472 | 35 F tT | 5%2F",
+        "bbox": [
+          0.07051101186399449,
+          0.5839302027108273,
+          0.7884408565645783,
+          0.7565323534863991
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_eastmoney_dcf347592d4160dffacffdf00a9c39aa75cf9859205a7543c283d1df8bb14f90.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "th k: 200120",
+        "bbox": [
+          0.08008213630194348,
+          0.8779069768475314,
+          0.17659137692187576,
+          0.8881448414061902
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_eastmoney_dcf347592d4160dffacffdf00a9c39aa75cf9859205a7543c283d1df8bb14f90.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "m3 tế: hfyjs@hfzq.com.cn",
+        "bbox": [
+          0.08008214169327504,
+          0.8982558140750022,
+          0.25462012139707396,
+          0.9084821427696333
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_dcf347592d4160dffacffdf00a9c39aa75cf9859205a7543c283d1df8bb14f90.pdf_1",
+    "primary_id": "docling_eastmoney_dcf347592d4160dffacffdf00a9c39aa75cf9859205a7543c283d1df8bb14f90.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_dcf347592d4160dffacffdf00a9c39aa75cf9859205a7543c283d1df8bb14f90.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "НЗНтТН ·",
+        "bbox": [
+          0.06981522869535127,
+          0.7790178573188768,
+          0.9034907469719994,
+          0.7936507938268134
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

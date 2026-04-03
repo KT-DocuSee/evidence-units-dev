@@ -1,0 +1,420 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_6",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "教材全解/+/二年级英语（第一学期)",
+        "bbox": [
+          0.1469265367316342,
+          0.05024769992922859,
+          0.5097451274362819,
+          0.07289455060155697
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Read andjudge（判断下列句子是否符合所给的情景，用",
+        "bbox": [
+          0.09295352323838081,
+          0.13305024769992924,
+          0.5527236381809095,
+          0.15074309978768577
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_6",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09095452273863068,
+          0.1521585279547063,
+          0.1329335332333833,
+          0.3248407643312102
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_10",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Learn theletters→见教材P25",
+        "bbox": [
+          0.09495252373813093,
+          0.34182590233545646,
+          0.41379310344827586,
+          0.3616418966737438
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "小试牛刀",
+        "bbox": [
+          0.4497751124437781,
+          0.09766454352441614,
+          0.55872063968016,
+          0.11677282377919321
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_16",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0 或（ 表示）",
+        "bbox": [
+          0.5497251374312844,
+          0.12738853503184713,
+          0.6956521739130435,
+          0.15711252653927812
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Look！↓ Alion！ 看！头狮！",
+        "bbox": [
+          0.09195402298850575,
+          0.4748761500353857,
+          0.41679160419790107,
+          0.49327671620665253
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Look！ Akite！↓看！只风筝!",
+        "bbox": [
+          0.09195402298850575,
+          0.4989384288747346,
+          0.42278860569715143,
+          0.5173389950460014
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Look！A lion and a kite.看！一头狮子和一只风筝。",
+        "bbox": [
+          0.09195402298850575,
+          0.5237084217975938,
+          0.5897051474262869,
+          0.5414012738853503
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Abig lion and a small kite.一头大狮子和一只小风筝。",
+        "bbox": [
+          0.09195402298850575,
+          0.5477707006369427,
+          0.5787106446776612,
+          0.5654635527246992
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_16",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.384807596201899,
+          0.5725406935598019,
+          0.4197901049475262,
+          0.6043878273177636
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_17",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "词汇清单",
+        "bbox": [
+          0.4497751124437781,
+          0.5824486907289455,
+          0.55872063968016,
+          0.6015569709837226
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_23",
+    "source": "visual_seed",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.你点着的，你说：This is my ear.",
+        "bbox": [
+          0.14592703648175911,
+          0.15711252653927812,
+          0.5157421289355323,
+          0.1762208067940552
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.你指着对方的鼻子，你说：This isyour nose.",
+        "bbox": [
+          0.14592703648175911,
+          0.1932059447983015,
+          0.5407296351824088,
+          0.21160651096956828
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.你有双眼睛，你说:My eyes are big.",
+        "bbox": [
+          0.14592703648175911,
+          0.2300070771408351,
+          0.5077461269365318,
+          0.24769992922859166
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.指着自己的红头发，你说：Look.My hair is yellow.",
+        "bbox": [
+          0.14592703648175911,
+          0.2653927813163482,
+          0.5947026486756621,
+          0.283793347487615
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.告诉别人，你喜欢苹果，你说：You like apples.",
+        "bbox": [
+          0.14492753623188406,
+          0.3007784854918613,
+          0.5537231384307846,
+          0.3191790516631281
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_20",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "重点讲解·吃透教材",
+        "bbox": [
+          0.2938530734632684,
+          0.7749469214437368,
+          0.45077461269365315,
+          0.7912243453644727
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "字母K的发音是清辅音 /k/,声带不振动。发音时舌后部 隆起紧贴软聘，憋住气，然后突然 分开，气流送出口腔，形成爆 破音。",
+        "bbox": [
+          0.6746626686656672,
+          0.7975937721160651,
+          0.9185407296351824,
+          0.8995046001415428
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_22",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "认读和书写：Kk和LI并掌握其基本读音",
+        "bbox": [
+          0.09295352323838081,
+          0.8004246284501062,
+          0.4387806096951524,
+          0.8181174805378627
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_23",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.18490754622688654,
+          0.8259023354564756,
+          0.55872063968016,
+          0.9341825902335457
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "字母L的发音是/1/，舌端齿",
+        "bbox": [
+          0.7096451774112944,
+          0.9051663128096249,
+          0.9175412293853074,
+          0.9221514508138712
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_11",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09295352323838081,
+          0.37933474876150036,
+          0.9175412293853074,
+          0.46426043878273177
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_18",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_18",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09295352323838081,
+          0.6128803963198868,
+          0.9175412293853074,
+          0.7225760792639774
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_19",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_19",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "互动学习",
+        "bbox": [
+          0.45077461269365315,
+          0.7438075017692852,
+          0.5577211394302849,
+          0.7629157820240623
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_21",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级上册英语上海牛津版_page_058_21",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "指点迷津·提升能力",
+        "bbox": [
+          0.7176411794102948,
+          0.775654635527247,
+          0.8725637181409296,
+          0.7905166312809625
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

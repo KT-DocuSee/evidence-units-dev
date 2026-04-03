@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The last two expectations in this expression are known from the basic result about E[U] so that the only really new part concerns the expectation of the product UV. Now, by the definition of U, V",
+        "bbox": [
+          0.1164625850340136,
+          0.08,
+          0.8827210884353741,
+          0.13405405405405404
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let the rv S = X + Y. Clearly, S is normally distributed, with mean s = x + y and variance σ2 = σ2 + σ2 + 2σxσy. It then follows from the basic result about E[U] that",
+        "bbox": [
+          0.1164625850340136,
+          0.1809009009009009,
+          0.8827210884353741,
+          0.2363963963963964
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Putting together this result — with s, σs expressed in terms of the original parameters as earlier — and the previously known facts about the means and variances of U, V, the correlation coeficient is, after slight simplification, found to be",
+        "bbox": [
+          0.11755102040816326,
+          0.32288288288288286,
+          0.8838095238095238,
+          0.39423423423423426
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "primary_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note that the correlation between U and V is completely independent of the means of X and Y. As explained earlier, the exponentiation turns the location parameters x, y of X and Y into scaling factors of U and V. Because variations of the scaling factors generally do not change linear correlations, the result was to be expected. On the other hand, the standard deviations σx, σy of X and Y turn into powers for U and V, which generally do influence the linear correlation coefficient.",
+        "bbox": [
+          0.1164625850340136,
+          0.4663063063063063,
+          0.8838095238095238,
+          0.5924324324324325
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The result about the correlation of U and V may also be used to verify the properties we already discussed in part c. Note, in particular, that in the equal-variance case σx = σy = σ we get",
+        "bbox": [
+          0.11755102040816326,
+          0.5938738738738739,
+          0.8827210884353741,
+          0.647927927927928
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The correlation of U and V is shown in Figure 3.25 as a function of the correlation o of the original rvs X and Y, for three values of σ. For 0 = +1, the two correlations are identical, but for any other value the correlation between U and V is weaker than that between X and Y.",
+        "bbox": [
+          0.1164625850340136,
+          0.7120720720720721,
+          0.8827210884353741,
+          0.7855855855855856
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

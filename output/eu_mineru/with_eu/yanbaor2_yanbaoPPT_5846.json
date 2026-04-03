@@ -1,0 +1,149 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_yanbaoPPT_5846",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_5846_0",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "电商发展促进商业数字化升级，并加速新品孵化及流通",
+        "bbox": [
+          0.0719910011248594,
+          0.13244444444444445,
+          0.6729158855143107,
+          0.18933333333333333
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "稳健的GDP上涨离不开消费“马车”的牵引，线上零售持续升温为经济增长注入强心剂。电商的发展不仅助力商品流 通效率大幅提升，电商经济下的商业数字化升级也为新品高效孵化夯实了基础。",
+        "bbox": [
+          0.06599175103112111,
+          0.22133333333333333,
+          0.9368828896387952,
+          0.3022222222222222
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_4",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "库存周转周期",
+        "bbox": [
+          0.45294338207724033,
+          0.36,
+          0.5469316335458068,
+          0.3982222222222222
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_5",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "2016-2020实物商品线上零售额 占社会消费品总额比重",
+        "bbox": [
+          0.09648793900762405,
+          0.36088888888888887,
+          0.3054618172728409,
+          0.4408888888888889
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_yanbaoPPT_5846",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_5846_2",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "商业模式的升级",
+        "bbox": [
+          0.7499062617172854,
+          0.36177777777777775,
+          0.8568928883889514,
+          0.39911111111111114
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_8",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "商品流通效率大幅提升：传统的 商品流通需要经历多环节的商品 流通体系，而如今的D2C模式更 为高效 144 商业数据化+智能化： 电商经济 下的流程借助大数据与平台优势 提高了准确度和效率 CBND 全渠道营销：全互联网都是营销 种草的阵地 营运精细化：供应链的高效和营 运的精细能降低成本",
+        "bbox": [
+          0.678915135608049,
+          0.44,
+          0.9093863267091613,
+          0.8426666666666667
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "实物商品线上零售额占 社会消费品总额比重 24.9% 1D:364144 20.7% 18.4% D 15.0% AData 12.6% 14 2016 2017 2018 20192020",
+        "bbox": [
+          0.07699037620297462,
+          0.45155555555555554,
+          0.32545931758530183,
+          0.8684444444444445
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_7",
+        "observed_type": "image_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：公开资料整理",
+        "bbox": [
+          0.4454443194600675,
+          0.8871111111111111,
+          0.5554305711786027,
+          0.912
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_5846",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_5846_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_5846_6",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3734533183352081,
+          0.4008888888888889,
+          0.6274215723034621,
+          0.864
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

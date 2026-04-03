@@ -1,0 +1,197 @@
+[
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_0",
+    "text": "由于\"和\"彼此不相关，相对合成标准不确定度为：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15883668903803133,
+      0.0855106888361045,
+      0.6174496644295302,
+      0.10292953285827396
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_1",
+    "text": "合成标准不确定度为：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14093959731543623,
+      0.14726840855106887,
+      0.33109619686800895,
+      0.16468725257323832
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_2",
+    "text": "6扩展不确定度的评定",
+    "canon_role": "section_header",
+    "bbox": [
+      0.13870246085011187,
+      0.2058590657165479,
+      0.35570469798657717,
+      0.22486144101346
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_3",
+    "text": "取k= 2,扩展不确定度为U=kx(w)=2x0.021%=0.042%",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1767337807606264,
+      0.23594615993665874,
+      0.6554809843400448,
+      0.25336500395882816
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_4",
+    "text": "7测量不确定度报告",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14093959731543623,
+      0.2660332541567696,
+      0.33557046979865773,
+      0.2850356294536817
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_5",
+    "text": "本实验室依据方法国家标准国家标准GB/T223.11-2008过硫酸铵氧化容量法测 钢中铬测量不确定度报告可表示为：w=(16.46±0.05)%；k=2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13870246085011187,
+      0.2913697545526524,
+      0.8814317673378076,
+      0.33729216152019004
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_6",
+    "text": "C.2高氯酸脱水重量法测定钢样中硅的测量不确定度评定",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1297539149888143,
+      0.3737133808392716,
+      0.6375838926174496,
+      0.391132224861441
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_7",
+    "text": "1概述",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14093959731543623,
+      0.39588281868566905,
+      0.203579418344519,
+      0.41330166270783847
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_8",
+    "text": "1.1方法依据",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14093959731543623,
+      0.41963578780680916,
+      0.2684563758389262,
+      0.43705463182897863
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_9",
+    "text": "依据国家标准GB/T223.60-1997《钢铁及合金化学分析方法高氯酸脱水重量法 测定硅含量》进行分析。称取试样适量，用盐酸、硝酸分解试样，高氯酸冒烟使硅酸 脱水，过滤，洗涤后，灼烧成二氧化硅，用硫酸-氢氟酸处理，使硅生成四氟化硅挥 发除去，由除硅前后的质量差计算硅量。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13870246085011187,
+      0.4433887569279493,
+      0.883668903803132,
+      0.5304829770387965
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_10",
+    "text": "1.2设备",
+    "canon_role": "section_header",
+    "bbox": [
+      0.13870246085011187,
+      0.5352335708630246,
+      0.22818791946308725,
+      0.552652414885194
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_11",
+    "text": "电子天平：METTLER TOLEDO公司XP204S型",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1767337807606264,
+      0.5589865399841647,
+      0.610738255033557,
+      0.5764053840063341
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_12",
+    "text": "2测量模型",
+    "canon_role": "section_header",
+    "bbox": [
+      0.13870246085011187,
+      0.5811559778305622,
+      0.2550335570469799,
+      0.5985748218527316
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_13",
+    "text": "式(C.2.1)中:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13870246085011187,
+      0.6429136975455265,
+      0.24608501118568232,
+      0.6603325415676959
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_book_zh_CNASGL0092018_extracted_page_73_14",
+    "text": "f—二氧化硅转化为硅的换算系数f=0.4674 一氢氟酸处理前铂金坩埚与沉淀的质量，g: m2—氢氟酸处理后铂金坩埚与残渣质量，g: m—称样量，g: mg一氢氟酸处理前铂金坩埚与空白试样沉淀的质量，g： m4—氢氟酸处理后铂金坩埚与空自试样沉淀的质量，g。 令Δm] = mj −nt2  Δm2 =mg −m4 = Δmz = Δm| −Δm₂",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13870246085011187,
+      0.6682501979414094,
+      0.6286353467561522,
+      0.9152810768012668
+    ],
+    "page": "book_zh_CNASGL0092018_extracted_page_73",
+    "order": 15
+  }
+]

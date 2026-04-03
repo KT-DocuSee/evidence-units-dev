@@ -1,0 +1,90 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2559",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2559_0",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2559_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【解析】",
+        "bbox": [
+          0.11527609834744054,
+          0.0900669801909648,
+          0.1725110842402257,
+          0.10488812882998433
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2559_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "正四面体ABCD中，AB=√ ，图中点O为外接球的球心，半径为R=OA=OB，O₁为△BCD的外心 所以_B=\\fra{}$ $\\ra{}$ $\\frac{}$ $\\ ， 于OB^}+ O{=OB^} 2 又因为O₁A=1 (√2)²_( (\\a$ 2$，所以(\\)^}+(2}\\}$ -R)^}= R^}^ R=\\a$ 2 B \\$ 因此外接球的表面积为4π× $\\}$ ²=3π,故A正确；  E(Λ 2 Q 由于BE $\\ B r$ $\\frac{}$ AO 2\\fra}$ 且AB与平面BCD所成的角为 C ∠ABO1, 2\\\\$ 因此sin∠ABO1 $A ra$ $\\rac}$ $\\_B错误；ra{$ 因为AE⊥CD于E,所以AMmin=AE;BE⊥CD于E,所以BMmin=BE; 因此当M与E点重合时，AM+BM最小，最小值为2× √6 =√ ,故C正确； 2 在平面ABC中过点T作PT⊥AB交AC于P，在平面ADC中过点T作RT⊥AB交AD于R，连接 PR, 又因为RT∩PT=T,所以AB平TPR,因此平TPR即为所求， TP=TR= \\\\,AD=PR=$ 3 2√2$ 3 则△TPR的周长 \\ra$ + √\\ +2√2 =2√ +2√2$ 3 3 3 同理在平ABC中过点N作NQ⊥AB交BC于Q，在平面ABD中过点N作NS⊥AB交BD于S， 连接QS，可得平面NQS，而平面NQS即为所求， NQ=NS: √ ,BQ=QS=AP= $2\\rac}$ 则△NQS的周长为\\+\\+2√2 $2√ +2√ ，D正确. 3 故选：ACD.",
+        "bbox": [
+          0.1128577186618299,
+          0.10659826136525581,
+          0.9076985086658605,
+          0.642439789083654
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2559_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "26.(2022.湖南·雅礼中学高三阶段练习)若存在实常数k和b，使得函数F(x)和G(x)对其公共定义域上的任 意实数x都满:F(x)≥kx+b和G(x)≤kx+b恒成,则称此直线y=kx+ b为F(x)和G(x)的“隔 离直线, 已知函数 f(x) = x2(x ∈ R), g(x) = (x <0), h(x) = 2elnx(e为自然对数的底数),则 ( ）",
+        "bbox": [
+          0.08786779524385328,
+          0.6481402308678923,
+          0.9149536477226925,
+          0.7342169018098903
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2559_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. m(x) = f(x) −g(x) 在 x ∈ ( 1 ,0)内单调递增 $\\ra$ B.f(x)和g(x)间存在“隔离直线”，且k的取值范围是[4,1] C.f(x)和g(x)之间存在“隔离直线”，且b的最小值为-1 D. f(x)和h(x)之间存在唯的\"隔离直线”y=2√ex−e",
+        "bbox": [
+          0.11446997178557033,
+          0.7410574319509762,
+          0.5892785167271262,
+          0.8288442354282457
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2559_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【答案】AD",
+        "bbox": [
+          0.11527609834744054,
+          0.8351147213909078,
+          0.20475614671503425,
+          0.8505059142083512
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2559_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【解析】A：令m()=(x)—(x)=2-⊥，x∈(一$)",
+        "bbox": [
+          0.11446997178557033,
+          0.8556363118141656,
+          0.5675130995566304,
+          0.8835684765569332
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

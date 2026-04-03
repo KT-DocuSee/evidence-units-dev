@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_78",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_78_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_78_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "1 ASSARAER",
+        "bbox": [
+          0.13552361497182555,
+          0.25436046540371876,
+          0.39219712709981486,
+          0.2748015869289534
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_78_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "PRATTAR RECENT. | tH 7 | 1Et FO°C | ARK | *AF57#1724 | 18 72",
+        "bbox": [
+          0.0672628277681529,
+          0.2759016212094336,
+          0.9734346397751046,
+          0.5867743986380183
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_78",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_78_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_78_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "#KĂ | 710 | * B | -#-#k(F#K#CE). i | 5M | 1E. E* | BEA | 177",
+        "bbox": [
+          0.10531735386974808,
+          0.6512110146224087,
+          0.9719378738722542,
+          0.8984751574261167
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

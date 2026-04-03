@@ -1,0 +1,198 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.12.16_page_049",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.16_page_049_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2 -",
+        "bbox": [
+          0.06026666666666667,
+          0.08522294932278192,
+          0.9368,
+          0.4888144879013849
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "COP28 concludes",
+        "bbox": [
+          0.06133333333333333,
+          0.5044386952772282,
+          0.17893333333333333,
+          0.5176279612438492
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.12.16_page_049",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.16_page_049_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.66,
+          0.5052503424136356,
+          0.9389333333333333,
+          0.6754933292750976
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.12.16_page_049",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.16_page_049_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "The long goodbye?",
+        "bbox": [
+          0.0632,
+          0.5214832851417847,
+          0.3264,
+          0.547455993506823
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.12.16_page_049",
+    "primary_id": "mineru_magazine_TheEconomist.2023.12.16_page_049_3",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "DUBAI Climate talks at last lead to a global deal on cutting fossil-fuel use",
+        "bbox": [
+          0.061066666666666665,
+          0.6071120580327702,
+          0.5309333333333334,
+          0.629432354283975
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.36106666666666665,
+          0.6369400902957439,
+          0.6392,
+          0.7024805965606452
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "M tions climate conference, delegates were treated to a dazzling light show. It trans- formed the central dome of the venue, Ex- po City in Dubai, into a teeming coral reef. Priority was given to prettiness over preci- sion. Turtles swam cosily with similar- sized humpback whales. A change in soundtrack saw them suddenly turned into dancing, blood-red squid.",
+        "bbox": [
+          0.06186666666666667,
+          0.6375488256480495,
+          0.3408,
+          0.7818191041444732
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CoP28 marked a critical moment in the UN climate calendar. The Paris agreement, signed in 2o15, decreed that this year's meeting would be the fi rst \"global stock- take\": an inventory of progress on cutting emissions thus far and feedback on how efforts could improve. The verdict that countries remain well off-track was not a surprise. The text states that greenhouse- gas emissions need to be cut by 43% by 2030 and 6o% by 2035, relative to 2019 lev- els, if limiting global warming to 1.5°C by the end of the century is to be considered plausible. It noted with alarm that even if every aspect of countries' current plans were met, emissions reductions in 2030 looked closer to a dismal 5% (putting the world on track for a rise of 2.1°C-2.8°C even in the best-case scenario). More urgent re- duction is possible; the cuts of 7% year on year needed to hit the target are not.",
+        "bbox": [
+          0.66,
+          0.6775224471161163,
+          0.9397333333333333,
+          0.95368538527875
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Nevertheless, it was a rare success for multilateralism, given the 198 delegations involved. The conference took place against the backdrop of wars in Ukraine and the Gaza strip, both of which have worsened divisions between the rich and poor worlds. An agreement before the summit between America and China laid the groundwork for its success. The pair promised to triple the deployment of re- newable energy by 2o3o—a declaration originally made by the G2o—which ulti- mately inspired a clause in cop28's fi nal agreement. Similarly a cross-cutting co- alition of countries from the EU, Latin America and the Alliance of Small Island States (Aosis) repeatedly pushed for more progress on reducing fossil-fuel use.",
+        "bbox": [
+          0.3608,
+          0.7043068026175621,
+          0.6397333333333334,
+          0.9406990310962309
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the end the conference delivered the same combination of deliberate choreo- graphy and otherworldly fantasy. For the first time in more than three decades of international climate diplomacy, all par- ties explicitly agreed to move away from using fossil fuels in energy systems. These systems generate vast wealth, but also the bulk of the world's emissions. On Decem- ber 13th the meeting's president, Sultan al- Jaber, chief executive of the Abu Dhabi Na- tional Oil Company, announced that the agreement would be passed without objec- tions. The plenary rose in applause. Out- side, the desert sun beat down on a planet that is already around 1.2C warmer than in pre-industrial times. The world's largest gas-fired power plant, just a stone's throw away, ran on regardless.",
+        "bbox": [
+          0.06186666666666667,
+          0.7832394866331862,
+          0.3408,
+          0.9674833865976766
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The fi nal text is a product of bitter com- promises between the desire to limit the planet's warming and the economic inter- ests aligned with fossil fuels. It calls on parties to transition \"away from fossil fu- els in energy systems\"and to accelerate ac- tion \"in this critical decade, so as to achieve net zero by 2o5o'. Although many of the deal's provisions leave much room for interpretation, the agreement forged in Dubai could serve to indicate the direction of travel. But like all uN climate deals, there is no enforcement mechanism within the latest one. Government actions alone will give it teeth.",
+        "bbox": [
+          0.36106666666666665,
+          0.9417135900167403,
+          0.64,
+          0.9670775630294729
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.12.16_page_049_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The exact implications of the deal will",
+        "bbox": [
+          0.6802666666666667,
+          0.9551057677674631,
+          0.9522666666666667,
+          0.9672804748135748
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

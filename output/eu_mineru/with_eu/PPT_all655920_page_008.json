@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_all655920_page_008",
+    "primary_id": "mineru_PPT_all655920_page_008_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_all655920_page_008_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Dialogue",
+        "bbox": [
+          0.36466666666666664,
+          0.08888888888888889,
+          0.6333333333333333,
+          0.1688888888888889
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_all655920_page_008_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "NURSE: Good morning. May I help you? PATlENT: Yes, please. I am here for some blood tests. NURSE: Sure. May I ask you a few questions for the admission form? PATlENT: Of course. NURSE. Thank you. I just need some personal data.",
+        "bbox": [
+          0.03866666666666667,
+          0.22044444444444444,
+          0.9146666666666666,
+          0.8826666666666667
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

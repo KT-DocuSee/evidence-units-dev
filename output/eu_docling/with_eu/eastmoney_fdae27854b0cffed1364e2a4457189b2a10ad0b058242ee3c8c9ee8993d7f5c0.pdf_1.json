@@ -1,0 +1,123 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1",
+    "primary_id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_7",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ETiT*",
+        "bbox": [
+          0.1440161513411104,
+          0.05886343717366499,
+          0.25277743448403633,
+          0.08212493506480338
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14510589931723283,
+          0.05928996899499576,
+          0.2515341264016683,
+          0.0841699122547477
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11717",
+        "bbox": [
+          0.7587328708579287,
+          0.5493551591494059,
+          0.931863711002674,
+          0.5683139528955066
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11 (100020)",
+        "bbox": [
+          0.45976024917392183,
+          0.8168604651267799,
+          0.5611222424149054,
+          0.8299418605636271
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1",
+    "primary_id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CHINA REFORM SECURITIES",
+        "bbox": [
+          0.1442885806858238,
+          0.07837301590485314,
+          0.2525050100957392,
+          0.08581349209532937
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1",
+    "primary_id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_6",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "1 1k it 2 | 3521 Hê 7/3 | * 13 | НЛ#* 5% | tra t 5% 3| 15% | A BE | ha t 15% /2 1",
+        "bbox": [
+          0.06945079356035558,
+          0.1698526759907577,
+          0.9340398896850438,
+          0.3471640404803114
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_eastmoney_fdae27854b0cffed1364e2a4457189b2a10ad0b058242ee3c8c9ee8993d7f5c0.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "##: 010 - 85556155 / at : www.crsec.com.cn",
+        "bbox": [
+          0.07214429585543516,
+          0.8357558139710461,
+          0.410821647297537,
+          0.8474702379037724
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

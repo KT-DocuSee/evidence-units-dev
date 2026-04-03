@@ -1,0 +1,303 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Solutions to the 70th William Lowell Putnam Mathematical Competition Saturday, December 5, 2009",
+        "bbox": [
+          0.1992156862745098,
+          0.06363636363636363,
+          0.807843137254902,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kiran Kedlaya and Lenny Ng",
+        "bbox": [
+          0.40078431372549017,
+          0.11393939393939394,
+          0.6070588235294118,
+          0.1290909090909091
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–3 The limit is 0; we will show this by checking that dn = 0 for all n ≥ 3. Starting from the given matrix, add the third column to the first column; this does not change the determinant. However, thanks to the identity c   , gat the form",
+        "bbox": [
+          0.5231372549019608,
+          0.16484848484848486,
+          0.9192156862745098,
+          0.2515151515151515
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–1 Yes, it does follow. Let P be any point in the plane. Let ABCD be any square with center P. Let E, F, G, H be the midpoints of the segments AB, BC, CD, DA, respec- tively. The function f must satisfy the equations",
+        "bbox": [
+          0.09333333333333334,
+          0.16545454545454547,
+          0.49019607843137253,
+          0.22363636363636363
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_11",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "with the first column being a multiple of the second. Hence dn = 0.",
+        "bbox": [
+          0.5576470588235294,
+          0.3406060606060606,
+          0.9184313725490196,
+          0.3696969696969697
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If we add the last four equations, then subtract the first equation and twice the second equation, we obtain 0 = 4f (P), whence f (P) = 0.",
+        "bbox": [
+          0.12627450980392158,
+          0.35393939393939394,
+          0.49019607843137253,
+          0.3975757575757576
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. Another way to draw the same conclu- sion is to observe that the given matrix is the sum of the two rank 1 matrices Ajk = cos(j − 1)ncosk and B jk = − sin(j − 1)n sink, and so has rank at most 2. One can also use h matrices Aj = ei(i−1)k), e−i(j−1)n+k.",
+        "bbox": [
+          0.5552941176470588,
+          0.37454545454545457,
+          0.9192156862745098,
+          0.46484848484848484
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. Problem 1 of the 1996 Romanian IMO team selection exam asks the same question with squares re- placed by regular polygons of any (fixed) number of vertices.",
+        "bbox": [
+          0.12705882352941175,
+          0.4018181818181818,
+          0.49019607843137253,
+          0.46
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−2 Multiplying the first differential equation by gh, the sec- ond by f h, and the third by fg, and summing gives",
+        "bbox": [
+          0.09333333333333334,
+          0.4703030303030303,
+          0.4894117647058824,
+          0.5
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−4 The answer is no; indeed, S = Q\\ {n + 2/5|n ∈ Z} sat- isfies the given conditions. Clearly S satisfies (a) and (b); we need only check that it satisfies (c). It suffices to show that if x = p/q is a fraction with (p, q) = 1 and p > 0, then we cannot have 1/(x(x − 1)) = n + 2/5 for an integer n. Suppose otherwise; then",
+        "bbox": [
+          0.523921568627451,
+          0.47575757575757577,
+          0.92,
+          0.5636363636363636
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Write k(x) = f (x)g(x)h(x); then  = 6k2 + 6 andk(0) = 1. One solution for this differential equation with this initial condition is k(x) = tan(6x + π/4); by standard uniqueness, this must necessarily hold for x in some open interval around 0. Now the first given equation becomes",
+        "bbox": [
+          0.12705882352941175,
+          0.5381818181818182,
+          0.49019607843137253,
+          0.6254545454545455
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since p and q are relatively prime, and p divides 5q2, we must have p|5, so p = 1 or p = 5. On the other hand, p − q and q are also relatively prime, so p − q divides 5 as well, and p − q must be ±1 or ±5. This leads to eight possibilities for (p, 9): (1, 0), (5,0), (5, 10), (1, −4), (1, 2), (1, 6), (5, 4), (5, 6). The fi rst three are impossible, while the fi nal five lead to 5n + 2 = 16, −20, −36, 16, −36 respectively, none of which holds for integral n.",
+        "bbox": [
+          0.5568627450980392,
+          0.6024242424242424,
+          0.92,
+          0.7333333333333333
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "integrating both sides gives",
+        "bbox": [
+          0.12627450980392158,
+          0.6836363636363636,
+          0.30745098039215685,
+          0.6987878787878787
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. More generally, no rational number of the form m/n, where m, n are relatively prime and neither of ±m is a quadratic residue mod n, need be in S. If x = p/q is in lowest terms and 1/(x(x − 1)) = m/n + k for some integer k, then p(p − q) is relatively prime to q2; q2/(p(p − q)) = (m + kn) /n then implies that m + kn = ±q2 and so ±m must be a quadratic residue mod n.",
+        "bbox": [
+          0.5552941176470588,
+          0.7375757575757576,
+          0.92,
+          0.8533333333333334
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "whence f(x) = ec(cin(6x+/4)|/6. Substituting f(0) = 1 gives ec = 2−1/12 and thus f(x) = 2-1/12 sin(x+π/4) (c2(6x+π/4))",
+        "bbox": [
+          0.12392156862745098,
+          0.7503030303030302,
+          0.49019607843137253,
+          0.8218181818181818
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. The answer can be put in alternate forms using trigonometric identities. One particularly simple one is",
+        "bbox": [
+          0.12627450980392158,
+          0.8248484848484848,
+          0.49019607843137253,
+          0.8678787878787879
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–5 No, there is no such group. By the structure theorem for fi nitely generated abelian groups, G can be written as a product of cyclic groups. If any of these factors has odd order, then G has an element of odd order, so the",
+        "bbox": [
+          0.5223529411764706,
+          0.8636363636363636,
+          0.9192156862745098,
+          0.9218181818181819
+        ],
+        "order": 17
+      }
+    ]
+  }
+]

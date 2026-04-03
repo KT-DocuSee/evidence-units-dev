@@ -1,0 +1,273 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_0",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.384807596201899,
+          0.07643312101910828,
+          0.41879060469765117,
+          0.10828025477707007
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "词汇清单",
+        "bbox": [
+          0.4497751124437781,
+          0.08634111818825195,
+          0.55872063968016,
+          0.10615711252653928
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "看！这只兔正在吃胡萝。",
+        "bbox": [
+          0.13193403298350825,
+          0.8959660297239915,
+          0.37881059470264866,
+          0.9129511677282378
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_2",
+    "source": "visual_seed",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09095452273863068,
+          0.11323425336164189,
+          0.9185407296351824,
+          0.6213729653220099
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "重点讲解·吃透教材",
+        "bbox": [
+          0.2938530734632684,
+          0.6709129511677282,
+          0.45177411294352826,
+          0.6878980891719745
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_15",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "watch，read的用法： watch强调观赏，多用在看电视、 比赛或展览的时候。如： It's raining outside. Let's watch TV at home. 外面下雨了。我们在家看电 视吧。 read强调阅读一类的“看”，后接 纸张类阅读物，如书、报纸、杂志、 小说、地图等。如： I like reading fairy tales.",
+        "bbox": [
+          0.6746626686656672,
+          0.6935598018400566,
+          0.9195402298850575,
+          0.9065817409766455
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "see 和 look的区别",
+        "bbox": [
+          0.09295352323838081,
+          0.6956829440905874,
+          0.24687656171914044,
+          0.7119603680113235
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "see通常指看的客观结果，即“看见”，后面可以直接跟看见的 东西。如：",
+        "bbox": [
+          0.09295352323838081,
+          0.7169143665958952,
+          0.6536731634182908,
+          0.7551309271054494
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "我能看见彩缤纷的彩虹挂在天空。",
+        "bbox": [
+          0.13193403298350825,
+          0.7770700636942676,
+          0.4367816091954023,
+          0.7940552016985138
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "look通常表示主动地、有意识地“看”，侧重于看的为，后 不能直接跟东西。如：",
+        "bbox": [
+          0.09295352323838081,
+          0.7968860580325549,
+          0.6526736631684158,
+          0.8329794762915782
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "看！天上挂着道彩缤纷的彩虹。",
+        "bbox": [
+          0.13193403298350825,
+          0.8563340410474168,
+          0.43478260869565216,
+          0.8733191790516631
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "我喜欢读童话故事。",
+        "bbox": [
+          0.6756621689155422,
+          0.9030431705590941,
+          0.8225887056471765,
+          0.9186128803963199
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "互动学习",
+        "bbox": [
+          0.45077461269365315,
+          0.640481245576787,
+          0.55872063968016,
+          0.659589525831564
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_5",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "指点迷津·提升能力",
+        "bbox": [
+          0.7186406796601699,
+          0.6723283793347488,
+          0.8725637181409296,
+          0.6871903750884643
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I can see the colourful rainbow in the sky.",
+        "bbox": [
+          0.13193403298350825,
+          0.7579617834394905,
+          0.4947526236881559,
+          0.7742392073602264
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Look! There is a colourful rainbow in the sky.",
+        "bbox": [
+          0.13093453273363317,
+          0.8365180467091295,
+          0.5357321339330335,
+          0.8535031847133758
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006",
+    "primary_id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_006_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Look! The rabbit is eating the carrot.",
+        "bbox": [
+          0.12893553223388307,
+          0.8761500353857041,
+          0.4577711144427786,
+          0.8931351733899504
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

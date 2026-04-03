@@ -1,0 +1,286 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_223",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "48.\"Augie is Jenny's bridge to the world\" means that",
+        "bbox": [
+          0.0502092050209205,
+          0.07308641975308643,
+          0.6304044630404463,
+          0.09020576131687243
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A. it helps Jenny a lot in her life B. it does everything it can for Jenny C. it picks up things Jenny drops at school D. children who don't know Jenny come to talk to her because of Augie",
+        "bbox": [
+          0.0901906090190609,
+          0.09547325102880659,
+          0.6834030683403068,
+          0.177119341563786
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This is a chart of a car's fuel consumption during a certain day.",
+        "bbox": [
+          0.22129242212924222,
+          0.22320987654320987,
+          0.7754532775453278,
+          0.24098765432098765
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_223",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_4",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "B",
+        "bbox": [
+          0.48907484890748487,
+          0.20148148148148148,
+          0.5076708507670851,
+          0.21662551440329217
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3300790330079033,
+          0.25020576131687244,
+          0.6806136680613668,
+          0.42732510288065845
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.8a.m. B.9 a.m. C. 4 p.m. D. 6 p.m.",
+        "bbox": [
+          0.07624360762436076,
+          0.56559670781893,
+          0.7801022780102278,
+          0.5833744855967078
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.45 litres of petrol B. 40 litres of petrol C. 35 litres of petrol D. 10 litres of petrol",
+        "bbox": [
+          0.08275220827522083,
+          0.6083950617283951,
+          0.8749418874941888,
+          0.6261728395061729
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_223",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_5",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Time of day",
+        "bbox": [
+          0.44537424453742447,
+          0.43720164609053497,
+          0.5523012552301255,
+          0.45366255144032924
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_223",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_6",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fuel consumption-燃料消耗 petrol-汽油 litre-升",
+        "bbox": [
+          0.1097164109716411,
+          0.45695473251028806,
+          0.602510460251046,
+          0.4760493827160494
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "49.The above chart shows",
+        "bbox": [
+          0.05113900511390051,
+          0.4806584362139918,
+          0.42491864249186423,
+          0.497119341563786
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. how much petrol was needed to fill the tank B. the speed the car was going C. which trip used the most petrol D. how far the car travelled",
+        "bbox": [
+          0.08926080892608089,
+          0.5017283950617284,
+          0.7949790794979079,
+          0.5399176954732511
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50. The driver bought petrol at",
+        "bbox": [
+          0.04834960483496048,
+          0.5445267489711935,
+          0.46118084611808463,
+          0.5616460905349794
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "51. Throughout the day the car used",
+        "bbox": [
+          0.05206880520688052,
+          0.5873251028806584,
+          0.506741050674105,
+          0.6037860082304527
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_223",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_13",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_13",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "C",
+        "bbox": [
+          0.4881450488145049,
+          0.6505349794238683,
+          0.509530450953045,
+          0.6669958847736626
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "There are many unusual hotels around the world. In Greenland, there is a hotel made out of ice, open between December and April every year. In Turkey, there is a cave hotel with a television, furniture, anda bathroom in each room. And in Bolivia, there is the Salt Palace Hotel.",
+        "bbox": [
+          0.0502092050209205,
+          0.6722633744855967,
+          0.9214318921431892,
+          0.7321810699588477
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thousands of years ago, the area around the Salt Palace Hotel was a large lake. But over time, all the waiter disappeared. Today, the area has only two small lakes and two salt deserts.",
+        "bbox": [
+          0.05206880520688052,
+          0.7361316872427983,
+          0.9214318921431892,
+          0.7756378600823045
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The larger of the two deserts, the Uyuni salt desert, is 12,000 square kilometres. During the day, the desert is bright white because of the salt. There are no roads across the Uyuni desert, so local people must show guests the way to the hotel. In the early 1990s, a man named Juan Quesada built the hotel. He cut big blocks of salt from the desert an used the blocks to build it.Everything in the hotel is madeout of salt: the walls, the roof(屋顶),the tables the chairs, the beds, and the hotel's bar. ini",
+        "bbox": [
+          0.046490004649000466,
+          0.7789300411522634,
+          0.9400278940027894,
+          0.8928395061728395
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_223_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The sun heats使热 the walls and roof during the day. At night the desert is very cold, but the",
+        "bbox": [
+          0.07810320781032078,
+          0.8941563786008231,
+          0.9446768944676894,
+          0.9125925925925926
+        ],
+        "order": 18
+      }
+    ]
+  }
+]

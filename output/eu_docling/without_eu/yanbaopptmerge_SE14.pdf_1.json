@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "docling_yanbaopptmerge_SE14.pdf_1_0",
+    "text": "· What is a Component?",
+    "canon_role": "section_header",
+    "bbox": [
+      0.0319767544291832,
+      0.16071428476073363,
+      0.4360465035650029,
+      0.20542635645702012
+    ],
+    "page": "yanbaopptmerge_SE14.pdf_1",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_yanbaopptmerge_SE14.pdf_1_1",
+    "text": "OMG Unified Modeling Language Specification [OMG01] defines a component as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08575580519015573,
+      0.23445767220620747,
+      0.8197674401379174,
+      0.33139534944438853
+    ],
+    "page": "yanbaopptmerge_SE14.pdf_1",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_yanbaopptmerge_SE14.pdf_1_2",
+    "text": "... a modular, deployable, and replaceable part of a system that encapsulates implementation and exposes a set of interfaces.\"",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1700281087757418,
+      0.34490740763024774,
+      0.9084302238529175,
+      0.45950154207062655
+    ],
+    "page": "yanbaopptmerge_SE14.pdf_1",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_yanbaopptmerge_SE14.pdf_1_3",
+    "text": "00 view: a component contains a set of collaborating classes",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08866279398601153,
+      0.4903100774843558,
+      0.9258721019442209,
+      0.5822034425678416
+    ],
+    "page": "yanbaopptmerge_SE14.pdf_1",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_yanbaopptmerge_SE14.pdf_1_4",
+    "text": "Conventional view: a component contains processing logic, the internal data structures that are required to implement the processing logic, and an interface that enables the component to be invoked and data to be passed to it.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08866280530027053,
+      0.6084656085673107,
+      0.9127906686241483,
+      0.8645915935154935
+    ],
+    "page": "yanbaopptmerge_SE14.pdf_1",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_yanbaopptmerge_SE14.pdf_1_6",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.0,
+      0.8426604817708333,
+      0.18124446105957032,
+      1.0
+    ],
+    "page": "yanbaopptmerge_SE14.pdf_1",
+    "order": 6
+  }
+]

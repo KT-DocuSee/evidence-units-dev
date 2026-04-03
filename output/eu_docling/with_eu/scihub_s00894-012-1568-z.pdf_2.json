@@ -1,0 +1,713 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_47",
+    "source": "visual_seed",
+    "member_count": 11,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_47",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Structure | a (A) | b (A) | c (A) | ZB | 6.4266 | 6.4266 | 6.4266 | Cd:0.000 | 0.000 | 0.000 | Te:0.250 | 0.250 | 0.250 | 14m2 | 5.2482 | 5.2482 | 3.1639 | Cd:0.000 | 0.000 | 0.000 | Te:0.000 | 0.500 | 0.750 | Imm2 | 5.0492 | 5.2145 | 2.7446 | Cd:0.000 | 0.000 | 0.000 | Te: 0.000 | 0.500 | 0.8472",
+        "bbox": [
+          0.29730126820279434,
+          0.06735642736588601,
+          0.9150561110140191,
+          0.20714384694505292
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 The atomic fractional coordinates and equilibrium lattice parameters of the ZB, 14m2 and Imm2 phases",
+        "bbox": [
+          0.08301158384235023,
+          0.07266865075781395,
+          0.26447876757680255,
+          0.11929563475955035
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "53.2 GPa, which is relatively close to the theoretical values 46 GPa and 48.98 GPa [18, 19]. The bulk modulus can vary in a wide range according to the methodology of the study. The bulk modulus of the 14m2 (binary -tin) phase is calculated to be 70.7 GPa and the bulk modulus of the Imm2 phase is calculated to be 75.7 GPa. In general, our results agree with the experimental and theoretical results.",
+        "bbox": [
+          0.5096525088585323,
+          0.22817460328783845,
+          0.9189189064876071,
+          0.33866279014214673
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "performed the total energy of these phases as a function of volume and their energy-volume relations were fit to the thirdorder Birch Murnaghan equation of states. The energyvolume curve of the structures is presented in Fig. 2 and as shown ZB structure has the lowest energy. On the other hand, to determine the most stable structure at finite pressure and temperature, the free energy G= Erot + PV-TS should be used. Our density functional calculations are basically completed at zero Kelvin temperature and entropic contributions can be ignored. Therefore, the enthalpy values, H=E+pV, including the pressure-volume effects are determined. This behavior is compatible with a phase transition between these structures, which is also clearly reflected in the enthalpy calculation.",
+        "bbox": [
+          0.08108107927359039,
+          0.22817460336635845,
+          0.4903474842525148,
+          0.43030753986239323
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The pressure-volume relation of CdTe obtained through the constant pressure simulation can be seen in Fig. 4. As can be seen from the figure, the volume monotonically decreases with increasing pressure to 15 GPa. When the pressure is increased from 15 to 20 GPa the structural phase transition begins and volume shows a noticeable decrease, which is typical for a first order phase transition. The structural analysis brings out that zinc-blende CdTe converts into a I4m2 (binary ß-tin) structure. This tendency is indeed anticipated when some conditions in simulations are considered, namely, the use of ideal structure, the size of the simulated structure etc. Consequently, simulated systems have to cross a significant energy barrier to transform from one phase to another.",
+        "bbox": [
+          0.5133918333281298,
+          0.38808139534217007,
+          0.9171197303992142,
+          0.5915697674422608
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Simple comparison of the static lattice enthalpies of ZB state, 14m2 (binary -tin) and the Imm2 state determines the pressure of the transition between them. The crossing of three enthalpy curves indicates a pressure-induced phase transition between these phases. The computed enthalpy curves of the ZB, 14m2 and Imm2 phases are plotted as a function of pressure in Fig. 3. As can be seen from the figure, the enthalpy curves of the 14m2 phase and Imm2 phase have the same enthalpy and intersect with that of ZB phase at 4.8 GPa, indicating a first order phase transition between these phases. On the other hand, from the energyvolume data, we also calculate the bulk modulus of these phases. For the zinc-blende state, our bulk modulus is",
+        "bbox": [
+          0.08494207725915488,
+          0.43303571434394345,
+          0.4884169971086057,
+          0.6409883716770886
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In this study, we are particularly interested in understanding the transformation mechanism to control structural phase transition. Therefore, as a next step, we studied the atomic movement during the phase transformation by",
+        "bbox": [
+          0.5133860504838614,
+          0.5944767441793795,
+          0.917086204302105,
+          0.655523255737166
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P,=4.8 GPa",
+        "bbox": [
+          0.667953669299859,
+          0.8080357141191948,
+          0.731660229397052,
+          0.8212209304400804
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Pressure (GPa)",
+        "bbox": [
+          0.6988417019557965,
+          0.8705357143681681,
+          0.7837837820853873,
+          0.883720930216001
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_6",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2 The computed energies of ZB, 14m2 and Imm2 phase of CdTe phases as a function of volume",
+        "bbox": [
+          0.08301158745067978,
+          0.8807043649186809,
+          0.4884169885352901,
+          0.9069940474924784
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_45",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 3 Enthalpy curves of ZB, 14m2 and Imm2 phase of CdTe",
+        "bbox": [
+          0.5115830219895191,
+          0.8923611111187789,
+          0.8783783771417547,
+          0.9069940476267153
+        ],
+        "order": 49
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_21",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_21",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Parinello Rahman simulation",
+        "bbox": [
+          0.513513512061195,
+          0.3561046513014725,
+          0.7104247069542492,
+          0.3678075398432239
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-724.0",
+        "bbox": [
+          0.10424710513671209,
+          0.6482558136167846,
+          0.1486486483933486,
+          0.6642441862378669
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_48",
+    "source": "visual_seed",
+    "member_count": 28,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_48",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08375459830158423,
+          0.6518556909990897,
+          0.4873669035057059,
+          0.8682608519785503
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ZB",
+        "bbox": [
+          0.6447876452375243,
+          0.6904069768724858,
+          0.6660231652699219,
+          0.7020348837172152
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Imm2",
+        "bbox": [
+          0.6409266409971894,
+          0.7151162792084492,
+          0.6814671803831195,
+          0.7267441860531787
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "- - -",
+        "bbox": [
+          0.6023166023566346,
+          0.7165178572320334,
+          0.6351351340011517,
+          0.7239583334225096
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E (eV/atom)",
+        "bbox": [
+          0.0830115791399783,
+          0.7165697680619316,
+          0.09845560216173158,
+          0.7776162775776031
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-724.0 -",
+        "bbox": [
+          0.5308880324399735,
+          0.7223837208135533,
+          0.5810810802461819,
+          0.7354651162504003
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "H (eV/atom)",
+        "bbox": [
+          0.5096525070372654,
+          0.7340116272949107,
+          0.527027029481396,
+          0.7863372090422989
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Imm2",
+        "bbox": [
+          0.17374517360498692,
+          0.7398255811841032,
+          0.20849420844134514,
+          0.7485465117907031
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-725.0 -",
+        "bbox": [
+          0.1042471048788021,
+          0.7455357140933753,
+          0.15637065587685153,
+          0.7572674418221432
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-724.5 -",
+        "bbox": [
+          0.5308880315231761,
+          0.7529069765366637,
+          0.5830115825212255,
+          0.7659883719735108
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-725.0 -",
+        "bbox": [
+          0.5307214824095264,
+          0.7830586239187142,
+          0.5812476301840833,
+          0.7968832362940038
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-725.5 -",
+        "bbox": [
+          0.10424710415831123,
+          0.7921511628738729,
+          0.1563706551563607,
+          0.8053075395346891
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ZB",
+        "bbox": [
+          0.38996139073991437,
+          0.8052325581328678,
+          0.411196910772312,
+          0.8168604649775973
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-725.5",
+        "bbox": [
+          0.5308880325833824,
+          0.8139534882263438,
+          0.5810810803895908,
+          0.8270348836631908
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "25",
+        "bbox": [
+          0.27799227773151,
+          0.832848837810436,
+          0.3011583009557488,
+          0.8502906971314247
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "30",
+        "bbox": [
+          0.343629343412037,
+          0.8372093021180591,
+          0.36293436276556934,
+          0.8502906975549059
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "35",
+        "bbox": [
+          0.4073359075529636,
+          0.8386627906910075,
+          0.426640926906496,
+          0.8502906975357368
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "40",
+        "bbox": [
+          0.47104247125952725,
+          0.8386627908191883,
+          0.49034749061305954,
+          0.8488372090718002
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15",
+        "bbox": [
+          0.15250965267844618,
+          0.8386627909090305,
+          0.17181467203197853,
+          0.8502906977537602
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-726.0",
+        "bbox": [
+          0.5308586542720253,
+          0.8444184344630875,
+          0.5714579470321782,
+          0.8561629611066891
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "V (A 3/atom)",
+        "bbox": [
+          0.2740460060481648,
+          0.8515245706731662,
+          0.3591586267675015,
+          0.8708591499441498
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.7104247103112058,
+          0.8546511627404257,
+          0.7239382238586785,
+          0.8662790695851553
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0",
+        "bbox": [
+          0.5694980695478659,
+          0.8546511630505034,
+          0.5810810811599851,
+          0.866279069895233
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.6177606181591365,
+          0.8546511630505034,
+          0.6274131272076588,
+          0.866279069895233
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10",
+        "bbox": [
+          0.8030888032254219,
+          0.8561046512782484,
+          0.8223938225789541,
+          0.8662790695308603
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14",
+        "bbox": [
+          0.8996138997368565,
+          0.8561046512782484,
+          0.9169884171550354,
+          0.8662790695308603
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.6660231659145125,
+          0.8561046513616133,
+          0.675675675591279,
+          0.8648255810221077
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.8513513511847328,
+          0.8561046513993723,
+          0.868725868602912,
+          0.8662790696519843
+        ],
+        "order": 46
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-723.0",
+        "bbox": [
+          0.5308880319720929,
+          0.6627906975759078,
+          0.5714285713580229,
+          0.6758720930127549
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_49",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_49",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5110538579532573,
+          0.663339134775404,
+          0.9173639336693243,
+          0.8809766669570721
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1-4m2",
+        "bbox": [
+          0.21428571504161598,
+          0.6874999999497283,
+          0.25096525055683955,
+          0.6991279067944579
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_25",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-723.5 -",
+        "bbox": [
+          0.5308100938382735,
+          0.6916945009570226,
+          0.5850200228911364,
+          0.7065613128455811
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-724.5 -",
+        "bbox": [
+          0.10424710428862008,
+          0.6976686507303766,
+          0.15637065528666952,
+          0.7108134920002179
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s00894-012-1568-z.pdf_2",
+    "primary_id": "docling_scihub_s00894-012-1568-z.pdf_2_27",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s00894-012-1568-z.pdf_2_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1-4m2",
+        "bbox": [
+          0.6428571430499427,
+          0.7020348835134078,
+          0.6814671817570073,
+          0.7151162789502549
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

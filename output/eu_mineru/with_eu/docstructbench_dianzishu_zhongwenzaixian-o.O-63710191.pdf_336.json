@@ -1,0 +1,153 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 10.8 China's Outward FDI Stock in Developed Countries (Regions) , by the end of 2017",
+        "bbox": [
+          0.18214937007116253,
+          0.10590948333598312,
+          0.588190674188129,
+          0.13674388987683894
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10435640993660353,
+          0.14076576899086363,
+          0.6640862450511134,
+          0.4155941751158831
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By the end of 2017, China's outward FDI stock in transition economies had reached $27.49 billion, accounting for 1.5% of the total stock. In particular, Russia received $13.87 billion, accounting for 50.5% of the total stock in the transition economies.",
+        "bbox": [
+          0.10625379920817814,
+          0.42765981245795714,
+          0.6659836343226879,
+          0.5080973947384506
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.20871281987320706,
+          0.5174817793378416,
+          0.5616272243860845,
+          0.6461819109866311
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_4",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 10.18 Structure of China's Outward FDI Stock in Economies, by the end of 2017",
+        "bbox": [
+          0.17645720225643868,
+          0.6515444164719973,
+          0.5938828420028528,
+          0.6823788230128532
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 10.9 Top 20 Countries (Regions) as Destinations of China's Outward FDI Stock , by the End of 2017",
+        "bbox": [
+          0.13091985973864806,
+          0.6957850867262688,
+          0.6375227952490689,
+          0.7279601196384662
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63710191.pdf_336_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10625379920817814,
+          0.7319819987524908,
+          0.6640862450511134,
+          0.9210103171116506
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

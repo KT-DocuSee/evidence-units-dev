@@ -1,0 +1,310 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: If a, b, c, d are in arithmetic progres- sion, then we may write",
+        "bbox": [
+          0.5568627450980392,
+          0.06666666666666667,
+          0.9184313725490196,
+          0.09636363636363636
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To produce a value of n for which sn = 2015 (mod 10000), we take n = 3m + 1 for some nonnega- tive integer m for which s3m+1 = 30m + 15. We must also have 30m = 2000 (mod 10000), or equivalently m = 400 (mod 1000). By taking m = 1400, we ensure that m = 2 (mod 3), so sm = 10m + 7; this ensures that Sn does indeed equal 30m + 15 = 42015, as desired.",
+        "bbox": [
+          0.12705882352941175,
+          0.11090909090909092,
+          0.49098039215686273,
+          0.21272727272727274
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for some r, s. If s = 0, then clearly all powers of M are in xS. Also, if r = 0, then one easily checks that M3 is in S.",
+        "bbox": [
+          0.556078431372549,
+          0.13515151515151516,
+          0.9192156862745098,
+          0.1787878787878788
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We now assume rs ≠ 0, and show that in that case M cannot be in S. First, note that the characteristic polyno- mial of M is x2 − 2rx − 8s2, and since M is nonsingular (as s ≠ 0), this is also the minimal polynomial of M by the Cayley-Hamilton theorem. By repeatedly using the relation M2 = 2rM + 8s2I, we see that for each positive integer, we have Mk = tkM + ukI for unique real con- stants tk, uk (uniqueness follows from the independence of M and I). Since M is in S, we see that Mk lies in S only if uk = 0.",
+        "bbox": [
+          0.5568627450980392,
+          0.18363636363636363,
+          0.92,
+          0.3290909090909091
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: With a bit more work, we can give a complete description of sn, and in particular fi nd the first term in the sequence whose decimal expansion ends in 2015. Define the function on nonnegative integers",
+        "bbox": [
+          0.12627450980392158,
+          0.2175757575757576,
+          0.49098039215686273,
+          0.27575757575757576
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which takes values in {−1, 0, 1}; we then have",
+        "bbox": [
+          0.12941176470588237,
+          0.3145454545454546,
+          0.4337254901960784,
+          0.3303030303030303
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On the other hand, we claim that if k > 1, then rtk > 0 and uk > 0 if k is even, and tk > 0 and ruk > 0 if k is odd (in particular, uk can never be zero). The claim is true for k = 2 by the relation M2 = 2rM + 8s2I. Assum- ing the claim for k, and multiplying both sides of the relation Mk = tkM + ukI by M, yields",
+        "bbox": [
+          0.556078431372549,
+          0.3333333333333333,
+          0.9192156862745098,
+          0.4212121212121212
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consequently, if we write n in base 3, then f (n) = 0 unless the expansion ends with 2 followed by a string of 1s of length k ≥ 0, in which case f (n) = (−1)k+1.",
+        "bbox": [
+          0.12705882352941175,
+          0.4103030303030303,
+          0.49098039215686273,
+          0.45454545454545453
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In this notation, we have sn = 2015 (mod 10000) if and only if n = 3m + 1 for some nonnegative integer m for which m = 400 (mod 1000) and f (m) = −1. Since 400 = 112211(3), the first such term in the sequence is in fact s1201 = 12015.",
+        "bbox": [
+          0.12549019607843137,
+          0.4587878787878788,
+          0.49019607843137253,
+          0.5321212121212121
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_12",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "implying the claim for k + 1.",
+        "bbox": [
+          0.5568627450980392,
+          0.46,
+          0.7458823529411764,
+          0.47515151515151516
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: (from artofproblemsolving.com, user hoeij) Once one has uk = 0, one can also finish using the relation M · Mk = Mk · M.",
+        "bbox": [
+          0.5552941176470588,
+          0.48,
+          0.92,
+          0.5230303030303031
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B4 First solution: The answer is 17/21. For fixed b,c, there is a triangle of side lengths a, b, c if and only if |b − c| < a < b + c. It follows that the desired sum is",
+        "bbox": [
+          0.5325490196078432,
+          0.5327272727272727,
+          0.92,
+          0.576969696969697
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B3 First solution: Any element of S can be written as M = αA+βB, whereA=(),B=(-), and α,β ∈R. Nt tha() B() satisfies the given condition.",
+        "bbox": [
+          0.1027450980392157,
+          0.5412121212121213,
+          0.49019607843137253,
+          0.6163636363636363
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We claim that these are also the only matrices in S satisfying the given condition. Indeed, suppose M = αA+ B where α,β ≠0. Let C = (−11/2) with in- verse C−1 = (1/√21/)) If we deine D = C−1MC, then D = 2α( ) where = − √2. Now suppose that Mk is in S with k ≥ 2. Since (1 −1)A (−1) = (1 −1) B ( −1) = 0, we have (1 −1)Mk( −1) = 0, and so the upper left entry of C−1MkC = Dk is 0. On the other hand, from the expression for D, an easy induc- ) γ2pk + pk+1. In particular, it follows from the inductive definition that pk > 0 when k ≥ 1, whence the upper left entry of Dk is nonzero when k ≥ 2, a contradiction.",
+        "bbox": [
+          0.12627450980392158,
+          0.62,
+          0.49098039215686273,
+          0.8654545454545455
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We write this as S = S1 + S2 where S1 sums over positive integers b, c with b ≤ c and S2 sums over b > c. Then",
+        "bbox": [
+          0.5568627450980392,
+          0.6406060606060606,
+          0.9192156862745098,
+          0.6703030303030303
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: A variant of this solution can be obtained by diagonalizing the matrix M.",
+        "bbox": [
+          0.12627450980392158,
+          0.8696969696969697,
+          0.4894117647058824,
+          0.8993939393939394
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

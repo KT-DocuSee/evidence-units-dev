@@ -1,0 +1,223 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_22",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.725693312112447,
+      0.04129421369496346,
+      0.9213969097379764,
+      0.05797331289329708
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_7",
+    "text": "Experimental Section",
+    "canon_role": "section_header",
+    "bbox": [
+      0.634496922753157,
+      0.08283730143350557,
+      0.8028747367950979,
+      0.09747023794144212
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_1",
+    "text": "lar effect has already been discussed for antimony, tin and silicon complexes. 5,831) The negative charge on the pyridine nitrogen atom also increases upon complex formation. Furthermore, the chlorine and hydrogen atoms also bear higher negative charges in complex 1b than in H,SiC. These changes in the charge distribution are evidence for a bonding situation in the complex that involves generally more polar bonds than in the starting molecule HSiCk. This assumption is confirmed by the bond polarities shown in Table 6. The Si-Cl bond has 26.71% Si character in HSiCk, and this value decreases to 15.86% and 16.92% for the valence structures A and B, respectively. A similar effect is observed for the Si-H bond.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07597535763226927,
+      0.08283730144761907,
+      0.48665297089869763,
+      0.26017441854975565
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_8",
+    "text": "Caution: Handling of dichlorosilane is not trivial due to its low boiling point of 8.4°C and oxidative and hydrolytic sensitivity. All reactions were carried out under dry argon using Schlenk techniques. Solvents were dried and purified by standard methods. CP/MAS NMR spectra were recorded with a Bruker Avance 400 MHz WB spectrometer by using a 7mm probehead with zirconia rotors and KelF inserts operating at 400.23, 100.61 and 79.51 MHz for 'H, 13C and 2Si, respectively. Chemical shifts are reported in ppm relative to TMS. Raman spectra were recorded with a Bruker RFS 100/S instrument equipped with an Nd/YAG Laser. X-ray single crystal structure analyses were carried out with a Bruker Nonius X8 APEX2 CCD diffractometer. Elemental analysis (determination of the chlorine content of product 1c) was performed by hydrolysis of 0.15 g of 1c in 100 mL of dilute sodium hydroxide solution followed by chloride quantification by ion chromatography (Dionex, ICS-2000; eluent: 22 mm KOH; column: AS11 HC, electrical conductivity measurement).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5133470261207516,
+      0.11185515870382215,
+      0.9240246300362747,
+      0.29215116257734025
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_2",
+    "text": "Conclusion",
+    "canon_role": "section_header",
+    "bbox": [
+      0.23812680109204173,
+      0.29044175133317657,
+      0.3265549209522391,
+      0.3025815040769127
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_9",
+    "text": "The structures were solved by direct methods and refined by full-matrix least-squares methods. All non-hydrogen atoms were refined anisotropically. Carbon-bonded hydrogen atoms were placed in idealised positions and refined isotropically (riding model). Si-bonded hydrogen atoms were found by analysis of the residual electron density and refined without bond length restraints. Structure solution and refinement of F against all reflections were carried out with the software SHELXS-97 and SHELL-97 (G. M. Sheldrick, Universität Göttingen (1986-1997)). Structure determination and refinement data for the crystal structures presented in this paper are summarised in Tables8, 9 and 10. CCDC 621840 (1a), 621841 (1b), 621839 (1c), 634403 (1d), 621844 (le), 621843 (1 f), 621845 (2), 621846 (3d) and 621842 (3e) contain the supplementary crystallographic data for this paper. These data can be obtained free of charge from the Cambridge Crystallographic Data Centre via www.ccdc.cam.ac.uk/data_request/cif.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5133470239808486,
+      0.29651162802849046,
+      0.9219712627939501,
+      0.46656976713866066
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_3",
+    "text": "Hexacoordinate dichlorosilane/pyridine adducts have been synthesised in various aprotic solvents by the direct reaction of HSiCk with pyridine. The first example of H,SiC*2Rpy compound bearing non-coplanar pyridine rings has been found, although a coplanar arrangement of the pyridine ligands seems to be the most typical conformation in the solid state. Quantum chemical analysis demonstrates that both coordination modes may be favourable. Some of these pyridine adducts (those bearing 4-methyland 4-ethylpyridine) have been shown to undergo ligand redistribution when extracted with hot chloroform to yield the hexacoordinate siliconium salts [H Si(RPy)4]Cl, the anion of which is stabilised by chloroform molecules.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07597536585694925,
+      0.3196924601921126,
+      0.4866529691960968,
+      0.49854651137921285
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_10",
+    "text": "The Quantum chemical calculations were carried out using the GAUSSIAN 03 program suite! The solid-state geometries obtained from X-ray structure analyses were used for the calculations without further optimisation. The calculations were performed at the density functional theory level (DFT), using Becke's three-parameter hybrid exchange functional and the correlation functional of Lee, Yang and Parr (BLYP), 33,341 with the 6-311 + G(2d,p) basis set for all atoms. (35-37)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5132027892998203,
+      0.4694767441924925,
+      0.9219712443501007,
+      0.5506918607117068
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_4",
+    "text": "The 29Si CP/MAS NMR spectra of the adducts H SiCk·2 Rpy reveal large spans for the shielding tensors of their octahedrally coordinated silicon nuclei, and GIAO calculations have provided an insight into the directions of the principal components [(11), (22) and (33)] of the shielding tensors, which point almost along the Cl-Si-Cl, H-Si-H and N-Si-N axes, respectively. The highest shielding is observed in the direction of the Si-H and Si-N bonds, and the shielding is considerably lower in the direction of the Si-Cl bonds. Quantitative descriptions of those shielding tensors, however, are difficult due to general problems with the modelling of H-Si bond influences on 2Si NMR properties, which have not yet been overcome.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07597536515276432,
+      0.4987625974155898,
+      0.4866529866235191,
+      0.6803075397342124
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_11",
+    "text": "The AIM analyses 2 were performed at the B3LYP/6-311 + G(2d,p) level with the geometries obtained from the X-ray structure analyses.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5154004106146738,
+      0.5508432538295721,
+      0.9219712627939501,
+      0.5741567459332354
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_12",
+    "text": "The wavefunction files for the AIM analysis were generated in Cartesian coordinates with a basis set containing 6d functions (option \"6D 10F\" in Gaussian 03). The electron-density topology was analysed by using the programs AIM200038) and Xaim. (39)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5133470283971174,
+      0.5783730159213549,
+      0.9219712627939501,
+      0.622093023080795
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_13",
+    "text": "The NBO analyses were performed with NBO 3.0.28) The different valence structures A-D were generated with the \"CHOOSE\" option in the NBO programme.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5133470345085575,
+      0.6250000000175576,
+      0.9219712430721508,
+      0.6584821426545654
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_14",
+    "text": "Relaxed potential energy surface (PES) scans were performed with the Opt = ModRedundant utility in Gaussian 03 with B3LYP/6-31G(d). This option includes the specification of redundant internal coordinates. In these cases, a specific torsion angle was changed in 5° steps. The geometry of the molecule was completely optimised in every step whilst restricting only the torsion angle to the specified value. This method allows access to a defined section of the potential energy surface.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5133470228088189,
+      0.6626984127759217,
+      0.9219712627939501,
+      0.7413194442420883
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_5",
+    "text": "Four possible valence structures A-D have been investigated with the NBO method, with the valence structures B, C and D being equally good descriptions of the bonding situation. The NBO analysis reveals that these structures contain polar covalent Si-H bonds, strong polar Si-Cl bonds, and that the highest bond polarisation is observed for the Si-N interaction, which therefore has to be considered as a donor-acceptor interaction. Analysis of the topological properties of the electron density distribution (AIM) suggests that the Lewis structure C is the best description for the bonding situation in molecules of the type H,SiCh®2 Rpy.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0759284251211792,
+      0.6816860465291857,
+      0.48665297145068637,
+      0.8490157289842702
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_15",
+    "text": "The principal components of the NMR shielding tensor were extracted from the spectra using the HB-MAS program (D. Fenzke, Universität Leipzig 1989).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.515400400450403,
+      0.7455357142302077,
+      0.9219712536461065,
+      0.7776162787473984
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_16",
+    "text": "NMR shielding tensors were calculated by the Gauge-Independent Atomic Orbital method (GIAO)(4) at the B3LYP/6-311 + G(2d,p) level of theory with the geometries obtained from the X-ray structure analyses. Calculated absolute shielding values were converted to relative shifts (d) by calculating the shielding of tetramethylsilane at the same level of theory.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.515400400450403,
+      0.7819767442712231,
+      0.9219712627939501,
+      0.8488372089581542
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10_17",
+    "text": "HSiCk (Degussa), 4-methylpyridine (Alfa Aesar), 4-ethylpyridine (Merck), 3-bromopyridine (ABCR), 4-tert-butylpyridine (Fluka), 4-vinyl-",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5154004106146738,
+      0.8531746032487786,
+      0.9219712627939501,
+      0.8750000002061901
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200701412.pdf_10",
+    "order": 19
+  }
+]

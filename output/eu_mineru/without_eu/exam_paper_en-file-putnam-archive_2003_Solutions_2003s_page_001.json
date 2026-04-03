@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_0",
+    "text": "Solutions to the 64th William Lowell Putnam Mathematical Competition Saturday, December 6, 2003",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1992156862745098,
+      0.06363636363636363,
+      0.807843137254902,
+      0.1
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_1",
+    "text": "Manjul Bhargava, Kiran Kedaya, and Lenny Ng",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3349019607843137,
+      0.11393939393939394,
+      0.6713725490196079,
+      0.1290909090909091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_2",
+    "text": "A1 There are n such sums. More precisely, there is exactly one such sum with k terms for each of k = 1, . ., n (and clearly no others). To see this, note that if n = a1 + a2 + .  · + ak with a1 ≤ a2 ≤ · · ≤ ak ≤ a1 + 1, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1011764705882353,
+      0.16484848484848486,
+      0.49019607843137253,
+      0.22424242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_10",
+    "text": "Third solution: Since both sides are continuous in each ai, it is sufficient to prove the claim with a1 , . . , an all positive (the general case follows by taking limits as some of the ai tend to zero). Put ri = bi/ai; then the given inequality is equivalent to",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.16484848484848486,
+      0.92,
+      0.2381818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_11",
+    "text": "In terms of the function",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.2793939393939394,
+      0.7152941176470589,
+      0.29333333333333333
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_3",
+    "text": "However, there is a unique integer a1 satisfying these inequalities, namely a1 = |n/k. Moreover, once a1 is fixed, there are k different possibilities for the sum a1 + a2 + …  + ak: if i is the last integer such that ai = a1, then the sum equals ka1 + (i – 1). The possible values of i are 1, ., , and exactly one of these sums comes out equal to n, proving our claim.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.29818181818181816,
+      0.49019607843137253,
+      0.4012121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_12",
+    "text": "and the quantities si = log ri, we can rewrite the desired inequality as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.3333333333333333,
+      0.92,
+      0.3624242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_4",
+    "text": "Note: In summary, there is a unique partition of n with k terms that is \"as equally spaced as possible\". One can also obtain essentially the same construction induc- tively: except for the all-ones sum, each partition of n is obtained by \"augmenting\" a unique partition of n – 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.40545454545454546,
+      0.49019607843137253,
+      0.47878787878787876
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_13",
+    "text": "This will follow from Jensen's inequality if we can ver- ify that f is a convex function; it is enough to check that f (x) > 0 for all x. In fact,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5552941176470588,
+      0.4163636363636364,
+      0.9192156862745098,
+      0.46060606060606063
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_5",
+    "text": "A2 First solution: Assume without loss of generality that aj + bi > 0 for each i (otherwise both sides of the desired inequality are zero). Then the AM-GM inequality gives and likewise with the roles of a and b reversed. Adding these two inequalities and clearing denominators yields the desired result.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10196078431372549,
+      0.48727272727272725,
+      0.49098039215686273,
+      0.5321212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_14",
+    "text": "is an increasing function of x, so f \"(x) > 0 and Jensen's inequality thus yields the desired result. (As long as the ai are all positive, equality holds when s1 = … . = s, i.e., when the vectors (a1, . . . , an) and (b1, . . . , bn). Of course other equality cases crop up if some of the ai vanish, i.e., if a1 = b1 = 0.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.5121212121212121,
+      0.92,
+      0.6
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_15",
+    "text": "Fourth solution: We apply induction on n, the case n = 1 being evident. First we verify the auxiliary inequality for a, b, c,d ≥ 0. The left side can be written as",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.6048484848484849,
+      0.9192156862745098,
+      0.6345454545454545
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_6",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.6284848484848485,
+      0.49019607843137253,
+      0.6715151515151515
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_16",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.6727272727272727,
+      0.8674509803921568,
+      0.6878787878787879
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_7",
+    "text": "Second solution: Write the desired inequality in the form",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.6763636363636364,
+      0.49019607843137253,
+      0.7048484848484848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_8",
+    "text": "expand both sides, and compare the terms on both sides in which k of the terms are among the aj. On the left, one has the product of each k-element subset of {1, . . , n}; on the right, one has",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.7448484848484849,
+      0.49098039215686273,
+      0.8036363636363636
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_17",
+    "text": "Applying the weighted AM-GM inequality between matching terms in the two sums yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.8090909090909091,
+      0.92,
+      0.8381818181818181
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001_9",
+    "text": "which is precisely (\") times the geometric mean of the terms on the left. Thus AM-GM shows that the terms under consideration on the left exceed those on the right; adding these inequalities over all k yields the desired result.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.8593939393939394,
+      0.49098039215686273,
+      0.9327272727272727
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_001",
+    "order": 18
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1381",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_31",
+    "source": "visual_seed",
+    "member_count": 17,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_31",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.031719845452944914,
+          0.017769220307117372,
+          0.10476541590654868,
+          0.04850981179184801
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "FH.",
+        "bbox": [
+          0.5442477872310765,
+          0.49418604706292757,
+          0.6017699127057126,
+          0.5116279063839163
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.11725663751461081,
+          0.5595930235156197,
+          0.1283185839455662,
+          0.5712209303603493
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.11725663776115004,
+          0.582848837330816,
+          0.1305309731901774,
+          0.5930232555834279
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.11725663732102673,
+          0.6090116278276353,
+          0.12831858375198213,
+          0.6206395346723648
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "45°",
+        "bbox": [
+          0.25663716793761476,
+          0.6206395347307044,
+          0.2876106196730047,
+          0.6337209301675514
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.11725663748460136,
+          0.6351744185253096,
+          0.13053097291362875,
+          0.6468023253700391
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-/FR",
+        "bbox": [
+          0.8139940785743287,
+          0.6476929057179245,
+          0.9249439723067743,
+          0.6633536060618286
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1",
+        "bbox": [
+          0.11725663729337185,
+          0.6627906976808645,
+          0.12831858372432725,
+          0.6729651159334765
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "130°",
+        "bbox": [
+          0.13274336338808918,
+          0.6831395348043795,
+          0.17699114911191083,
+          0.6947674416491089
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.37610619505134546,
+          0.6933139537929625,
+          0.39823008791325626,
+          0.7122093017060687
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0",
+        "bbox": [
+          0.1261061944500021,
+          0.6962209300250357,
+          0.14159292031769707,
+          0.7093023254618827
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1",
+        "bbox": [
+          0.1703539825804716,
+          0.6962209301047672,
+          0.18362831800949897,
+          0.7078488369494966
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.21238938057568915,
+          0.6962209301047672,
+          0.2522123883033669,
+          0.7078488369494966
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.336283185993593,
+          0.6962209301532167,
+          0.3473451324245485,
+          0.7078488369979461
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.252212389641681,
+          0.6962209303712399,
+          0.26548672507070836,
+          0.7078488372159693
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.28982300888584284,
+          0.6962209307332796,
+          0.3053097347535378,
+          0.7107558138161387
+        ],
+        "order": 28
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1381",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(2)717173 50 Т Ж*ЕМ 5 Л мУми",
+        "bbox": [
+          0.06194689546289013,
+          0.2020348835295752,
+          0.49557521975834895,
+          0.21802325615065732
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1381",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "7 81 1211 7 72 AM HAs 1 t, 11 1 1",
+        "bbox": [
+          0.037610618630774,
+          0.3226686504789494,
+          0.500000008544742,
+          0.34302325538923994
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1381",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Д *конкиДА і ідж? (3 5)",
+        "bbox": [
+          0.5419792388729282,
+          0.3226686505344558,
+          0.9800885006429286,
+          0.36203831406654746
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1381",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_30",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_30",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "4 1 2016 4 2017 4 2018 4 2019 4 2020 4 | 2000 | 2800 | 3600 | 4600 | 5600 | 17.3 | 1600 | 2000 | 3000 | 4200 | 5600",
+        "bbox": [
+          0.5403190281080164,
+          0.5157915250522884,
+          0.9796460107348669,
+          0.596775265190545
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2016 2017 2018 2019 2020 F.15",
+        "bbox": [
+          0.6349557536025635,
+          0.760168650553625,
+          0.9535398154239852,
+          0.7776162782796805
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1381",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_32",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_32",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11506259352013447,
+          0.5477190993902251,
+          0.4435399182732852,
+          0.7078710841381644
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1381",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_33",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_33",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5646548978928505,
+          0.6301606546236774,
+          0.9530459379685158,
+          0.7739660308117003
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6000",
+        "bbox": [
+          0.5641592920612892,
+          0.6656976744223194,
+          0.6106194696643742,
+          0.677325581267049
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5000",
+        "bbox": [
+          0.5641230123490215,
+          0.6801697868715055,
+          0.6106557498735093,
+          0.6919232362358197
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4000",
+        "bbox": [
+          0.5641592926627416,
+          0.6933139535170417,
+          0.6084070783865633,
+          0.7063953489538887
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3000",
+        "bbox": [
+          0.5640539332585484,
+          0.7076937639260454,
+          0.6085124377884263,
+          0.7210853059822956
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_18",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "(1) N EX X 171 7: BEBEN FE TE FC ). (1.5 45) ) Vind ( ) ( THE. (1.550) (25)",
+        "bbox": [
+          0.061389610436858005,
+          0.718005952386819,
+          0.49778760910276665,
+          0.8313953484818363
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2000",
+        "bbox": [
+          0.5641592926627416,
+          0.722383720958902,
+          0.6084070783865633,
+          0.7354651163957491
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1000.",
+        "bbox": [
+          0.5641592937299877,
+          0.735465117159389,
+          0.6128318574499533,
+          0.7645348833251072
+        ],
+        "order": 32
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1381",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1381_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DER T7",
+        "bbox": [
+          0.21238938078358263,
+          0.6482558142725241,
+          0.37168141169429353,
+          0.6627906973553831
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

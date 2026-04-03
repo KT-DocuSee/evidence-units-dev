@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_0",
+    "text": "办学条件保障",
+    "canon_role": "section_header",
+    "bbox": [
+      0.6418439716312057,
+      0.043914081145584725,
+      0.8058510638297872,
+      0.07000795544948289
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_1",
+    "text": "续表",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8173758865248227,
+      0.0954653937947494,
+      0.8546099290780141,
+      0.11010342084327765
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_2",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.1099290780141844,
+      0.11455847255369929,
+      0.8900709219858156,
+      0.3284009546539379
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_3",
+    "text": "北京交通学教育基会全年出24822503.5元（见表74），其中业务活动成本 24485300.06元，管理费337203.44元。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10904255319148937,
+      0.34685759745425615,
+      0.8882978723404256,
+      0.3856801909307876
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_4",
+    "text": "表74北京交通大学教育基金会公益事业支出情况表",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.30319148936170215,
+      0.39649960222752584,
+      0.6941489361702128,
+      0.4124105011933174
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343_5",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.1099290780141844,
+      0.4162291169451074,
+      0.8909574468085106,
+      0.9043754972155926
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60368448.pdf_343",
+    "order": 6
+  }
+]

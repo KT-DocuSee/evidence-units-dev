@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2",
+    "primary_id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_8",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11442606509668796,
+          0.04339851747980073,
+          0.23607503575021727,
+          0.07256184382640485
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2 18 100005",
+        "bbox": [
+          0.2874737038337408,
+          0.7993551587014892,
+          0.5687885108856041,
+          0.8124999999713305
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ГАСТ 6001 51778 32 05 518026",
+        "bbox": [
+          0.09887797708857872,
+          0.8196924603994222,
+          0.607802870632309,
+          0.8343253969073587
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2",
+    "primary_id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MINSHENG SECURITIES",
+        "bbox": [
+          0.11498973635435997,
+          0.06540697693331879,
+          0.23819301929245715,
+          0.07415674625388244
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2",
+    "primary_id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_7",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_7",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "17252 | ТХНДФСТА | TEXT METES XERE 15%21 | ТХНДФСТА | 171/7723 | ТХНДФСТА | 171/7723 | ТХНДФСТА | 171/7723 | ТХНДФСТА | ТХНДФСТА | ТХНДФСТА",
+        "bbox": [
+          0.06342354420450895,
+          0.24935055879916632,
+          0.9418639767703295,
+          0.3956043101519079
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "F. FATHEATERATE BETASTIC, BESTO, DEALING STARTE. ALOFATREEJAXFU.",
+        "bbox": [
+          0.05749486635889216,
+          0.7063492059614302,
+          0.9383983618593853,
+          0.7398255811247628
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2",
+    "primary_id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_0c79d327060dbf9f1582d03c235dadb039533a19091d2c0d24f2ad95d267f79b.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8NA 11 55; 200120",
+        "bbox": [
+          0.2566181620039131,
+          0.77901785702751,
+          0.5071868488329544,
+          0.7936507935354467
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

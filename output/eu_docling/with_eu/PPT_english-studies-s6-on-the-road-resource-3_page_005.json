@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_english-studies-s6-on-the-road-resource-3_page_005",
+    "primary_id": "docling_PPT_english-studies-s6-on-the-road-resource-3_page_005_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_english-studies-s6-on-the-road-resource-3_page_005_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "What would I pack in my suitcase?",
+        "bbox": [
+          0.16860466332610385,
+          0.04067460281930607,
+          0.8357557965455049,
+          0.20929096203525174
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_english-studies-s6-on-the-road-resource-3_page_005_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Write a list of what you would pack in your suitcase if you were to take this trip.",
+        "bbox": [
+          0.05516131416696933,
+          0.2517425948721446,
+          0.9288377353172981,
+          0.38194444519697246
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_english-studies-s6-on-the-road-resource-3_page_005_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Think about not only the essentials, but also some other 'things' that you might want to take (such as a travel diary, or your lucky socks).",
+        "bbox": [
+          0.056686048476427255,
+          0.41071428570566315,
+          0.8720930294450842,
+          0.6822089954236138
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

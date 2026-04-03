@@ -1,0 +1,106 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007_0",
+    "text": "The second and third parts of this book are more difficult than the \"first course,\" and require an undergraduate course in advanced calculus or real analysis.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14365522745411013,
+      0.08304498269896193,
+      0.8629954775206172,
+      0.13917723952326028
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007_1",
+    "text": "Part II is concerned with prime numbers, divisors, and other topics in multiplicative number theory. After deriving properties of the basic arith- metic functions, we obtain important results about divisor functions, and we prove the classical theorems of Chebyshev and Mertens on the distribu- tion of prime numbers. Finally, we give elementary proofs of two of the most famous results in mathematics, the prime number theorem, which states that the number of primes up to x is asymptotically equal to x/ log x, and Dirichlet's theorem on the infinitude of primes in arithmetic progressions.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14365522745411013,
+      0.14148404459823144,
+      0.8629954775206172,
+      0.29296424452133796
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007_2",
+    "text": "Part II, \"Three problems in additive number theory,\" is an introduction to some classical problems about the additive structure of the integers. The first additive problem is Waring's problem, the statement that, for every integer k ≥ 2, every nonnegative integer can be represented as the sum of a bounded number of kth powers. More generally, let f (x) = akxk + ak−1xk−1 + ·.· + ao be an integer-valued polynomial with ak > 0 such that the integers in the set A(f) = {f(x) : x = 0, 1, 2, . ..} have no common divisor greater than one. Waring's problem for polynomials states that every sufficiently large integer can be represented as the sum of a bounded number of elements of A(f).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14259111465815377,
+      0.2945021145713187,
+      0.8640595903165735,
+      0.48519800076893504
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007_3",
+    "text": "The second additive problem is sums of squares. For every s ≥ 1 we denote by Rs(n) the number of representations of the integer n as a sum of s squares, that is, the number of solutions of the equation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14259111465815377,
+      0.4859669357939254,
+      0.8629954775206172,
+      0.5428681276432141
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007_4",
+    "text": "in integers x1, .. . , xg. The shape of the function Rs(n) depends on the parity of s. In this book we derive formulae for Rs(n) for certain even values of s, in particular, for s = 2, 4, 6, 8, and 10.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14152700186219738,
+      0.5805459438677432,
+      0.8629954775206172,
+      0.6382160707420222
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007_5",
+    "text": "The third additive problem is the asymptotics of partition functions. A partition of a positive integer n is a representation of n in the form n = a1 + ... + ak, where the parts a1, ..., ak are positive integers and a1 ≥ ·.. ≥ ak. The partition function p(n) counts the number of partitions of n. More generally, if A is any nonempty set of positive integers, the partition function pA(n) counts the number of partitions of n with parts belonging to the set A. We shall determine the asymptotic growth of p(n) and, more generally, of pA(n) for any set A of integers of positive density.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14259111465815377,
+      0.6389850057670127,
+      0.8629954775206172,
+      0.7920030757401
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007_6",
+    "text": "This book contains many examples and exercises. By design, some of the exercises require old-fashioned manipulations and computations with pencil and paper. A few exercises require a calculator. Number theory, after all, begins with the positive integers, and students should get to know and love them.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14259111465815377,
+      0.7935409457900807,
+      0.8629954775206172,
+      0.8873510188389081
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007_7",
+    "text": "This book is also an introduction to the subject of \"elementary methods in analytic number theory.\" The theorems in this book are simple state- ments about integers, but the standard proofs require contour integration,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14365522745411013,
+      0.8888888888888888,
+      0.8619313647246608,
+      0.9450211457131872
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0007",
+    "order": 8
+  }
+]

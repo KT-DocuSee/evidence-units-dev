@@ -1,0 +1,1054 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "New lower prices on selected departurest",
+        "bbox": [
+          0.34750461758692636,
+          0.06969246024023068,
+          0.656192232259038,
+          0.08432539674816712
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_60",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_60",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.03509503662652513,
+          0.09293907768812801,
+          0.6100106753815003,
+          0.4742348447227228
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Grand Tour of Lake Como, Milan & the Bernina Express",
+        "bbox": [
+          0.053604431787320946,
+          0.10610465167976402,
+          0.5268022146698573,
+          0.17162698331511572
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_35",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "An unforgettable journey on the Bernina Express",
+        "bbox": [
+          0.6266173827683632,
+          0.2978670634303904,
+          0.8780036976999052,
+          0.3081395346350268
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_39",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Marvel at the vistas from a first-class seat on the Bernina Express",
+        "bbox": [
+          0.6266173772799248,
+          0.35755813963822897,
+          0.8724584132191512,
+          0.3750000000527839
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_26",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_26",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "11 DAYS",
+        "bbox": [
+          0.6266025538257946,
+          0.11478039836523789,
+          0.6839334897182271,
+          0.12649867152807967
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_27",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_27",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "DEPARTURES JULY TO OCTOBER 2025",
+        "bbox": [
+          0.6266173804237676,
+          0.13070436513870548,
+          0.9057301288491838,
+          0.14244186032643447
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_66",
+    "source": "visual_seed",
+    "member_count": 40,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TOUR",
+        "bbox": [
+          0.5508317935484484,
+          0.15406976748025425,
+          0.5822550829148911,
+          0.16133720902168383
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_29",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Return flights with hotel transfers",
+        "bbox": [
+          0.6266173820787416,
+          0.17877906985261846,
+          0.8040665410266187,
+          0.1889880952242608
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WITH RETURN FLIGHTS FROM A SELECTION OF REGIONAL AIRPORTS PLUS TRANSFERS",
+        "bbox": [
+          0.055452863805986616,
+          0.1816860463263238,
+          0.5268022147882622,
+          0.20348837198967804
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_30",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Ten nights in three to four-star hand-picked hotels with daily breakfast and seven dinners",
+        "bbox": [
+          0.6266173846589093,
+          0.19040697684753127,
+          0.9316081338253787,
+          0.20932539695074445
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_31",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Services of our experienced and insightful tour manager",
+        "bbox": [
+          0.62661738347757,
+          0.2135416667040045,
+          0.9131238436481232,
+          0.22247023813257596
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_33",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Five visits including Bellagio, Stresa on Lake Maggiore, St Moritz, Lugano and Monza",
+        "bbox": [
+          0.6266173827497069,
+          0.25290697689598085,
+          0.9057301311751232,
+          0.27182539662304067
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_34",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Three guided tours including Milan, Villa del Balbianello and Isola Bella",
+        "bbox": [
+          0.6266173770085925,
+          0.2747093023043795,
+          0.9094269909396511,
+          0.29365079369529884
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_36",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Admire Da Vinci's masterpiece, The Last Supper",
+        "bbox": [
+          0.6264852629970077,
+          0.3095282564470596,
+          0.8706905259228976,
+          0.3243739985667427
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_37",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Sip an aperitif in Villa Carlotta with lake views",
+        "bbox": [
+          0.6266173760340356,
+          0.32118055557522507,
+          0.8595194019696614,
+          0.33284883699794615
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_38",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Experience Villa Carlotta's gardens and the private art collection",
+        "bbox": [
+          0.6266173761872306,
+          0.33430232545360417,
+          0.8853974028639094,
+          0.353197674204581
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To book, visit thetimes.com/rtravel-col6",
+        "bbox": [
+          0.6340110918813469,
+          0.46075581427585743,
+          0.8484288288210564,
+          0.46949404773239345
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_66",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5117934993960304,
+          0.49022050943370465,
+          0.8023648373409691,
+          0.7613982421021734
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_41",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Lake Garda, Venice & Verona TOUR",
+        "bbox": [
+          0.5249537888526177,
+          0.49553571429781007,
+          0.7523105365690936,
+          0.5392441854909841
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sicily",
+        "bbox": [
+          0.07024029744439586,
+          0.4956395351818486,
+          0.13493530411356558,
+          0.5188953488713076
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EIGHT DAYS FROM",
+        "bbox": [
+          0.8280961198319695,
+          0.501453488378539,
+          0.9057301268716658,
+          0.5188953484542782
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EIGHTODAYS",
+        "bbox": [
+          0.37146024262897603,
+          0.5027018779506185,
+          0.4492421607019173,
+          0.5205539364369515
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TOUR",
+        "bbox": [
+          0.16081330933106933,
+          0.5043604653969209,
+          0.18669131248039092,
+          0.5116279069383505
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WITH RETURN FLIGHTS FROM A SELECTION OF REGIONAL AIRPORTS PLUS TRANSFERS",
+        "bbox": [
+          0.07024029166319692,
+          0.5260416668493533,
+          0.3105360358921374,
+          0.5436507935677842
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WITH RETURN FLIGHTS FROM A SELECTION OF REGIONAL AIRPORTS PLUS TRANSFERS",
+        "bbox": [
+          0.5249537919978023,
+          0.5508432539929401,
+          0.76524954000832,
+          0.5683139532992394
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Seven nights in a choice of three-star to four-star superior accommodation inclusive of all local taxes, with breakfast and dinner* Services of an experienced tour manager",
+        "bbox": [
+          0.807763398934772,
+          0.594476744520528,
+          0.9279112774082272,
+          0.6569940475507072
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Seven nights in four-star accommodation inclusive of all local taxes, with breakfast and dinner, plus one lunch in a restaurant Services of an experienced tour manager",
+        "bbox": [
+          0.35120147748436004,
+          0.6001984127412512,
+          0.4731977790775626,
+          0.6614583335510251
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Guided tours of Venice and Verona",
+        "bbox": [
+          0.8040665472067323,
+          0.6700581397240163,
+          0.9297597046725034,
+          0.686046511305538
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Three guided tours including the Valley of the Temples and the Roman Villa in Piazza Armerina Visits, including Siracusa Enjoy authentic Sicilian food at a local restaurant",
+        "bbox": [
+          0.35304991135343183,
+          0.6743551589215137,
+          0.47319778065401696,
+          0.7383720929182439
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Visits to a selection of villages on Lake Garda, the Dolomites and a tour of a local vineyard with a tasting",
+        "bbox": [
+          0.8096118318271931,
+          0.6904069769582096,
+          0.9242144182195259,
+          0.7325581394315386
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Enjoy a wine tasting experience with additional wines and a rustic lunch with local ingredients in an authentic restaurant",
+        "bbox": [
+          0.8059149726168308,
+          0.7455357142130398,
+          0.9279112745715812,
+          0.7877906975875751
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sample the wines of Mount Etna and lunch amidst the surroundings of a historic winery",
+        "bbox": [
+          0.3512014844395817,
+          0.7529069768310294,
+          0.47504620915253143,
+          0.7863372090701334
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ominated by snow-capped Mount Etna, blessed with abundant sunshine and unspoilt landscapes and coastlines, Sicily is a truly beautiful part of Italy, but with a character all of its own. Ruled by different civilisations for millennia, there are countless architectural and archaeological riches to explore, from Piazza Armerina's stunning Roman villa, Monreale's cathedral and Agrigento's Valley of the Temples.",
+        "bbox": [
+          0.05545286047901793,
+          0.7688492061886325,
+          0.33826247441007656,
+          0.8226744185178078
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thay Firsty Lake Gar da, where wanes lap finesy on the shing them shoreline, with the snow-capped Dolomite mountains in the background; then Venice, a unique city full of cultural delights such as the Doge's Palace, St Mark's Basilica and the Grand Canal; lastly, Verona, one of the most romantic cities you will ever find.",
+        "bbox": [
+          0.5101663611244848,
+          0.7688492066293716,
+          0.7837338305575855,
+          0.8226744183724588
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Relax and unwind whilst soaking up the views of Taormina over an aperitivo Enjoy a boat trip to explore the caves of Syracuse and admire beautiful Ortigia from a different perspective",
+        "bbox": [
+          0.35120148104258536,
+          0.7891865081038592,
+          0.47319778263578793,
+          0.8605342045425612
+        ],
+        "order": 52
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_56",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Absorb Verona's atmosphere over an aperitivo, against a backdrop of its amphitheatre",
+        "bbox": [
+          0.82070240126252,
+          0.7906746032686138,
+          0.9131238462421009,
+          0.8328488372969983
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Departures April to October 2025",
+        "bbox": [
+          0.05730129412506436,
+          0.8328373015090674,
+          0.2162661737100993,
+          0.8401162791510512
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cruise Venice's iconic canals aboard a traditional gondola",
+        "bbox": [
+          0.8059149710148592,
+          0.8357558140585004,
+          0.9279112726080617,
+          0.8619186044741425
+        ],
+        "order": 56
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To book, visit thetimes.com/rtravel-vv",
+        "bbox": [
+          0.5175600746663702,
+          0.8501984125158365,
+          0.7227356671081218,
+          0.859126983944408
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To book, visit thetimes.com/rtravel-se",
+        "bbox": [
+          0.06469500968999903,
+          0.8501984128823001,
+          0.266173755892256,
+          0.8591269843108715
+        ],
+        "order": 58
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RIVERA",
+        "bbox": [
+          0.05914972300813872,
+          0.8895348839946287,
+          0.17190388010338312,
+          0.9200581387524643
+        ],
+        "order": 61
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Call now to book, quoting TIMES-0801",
+        "bbox": [
+          0.25138632257816906,
+          0.8968023256665719,
+          0.4528650687804261,
+          0.9069940477152254
+        ],
+        "order": 62
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TIMES Travel Partner",
+        "bbox": [
+          0.7264325318348321,
+          0.9069767446854357,
+          0.9463955670330052,
+          0.9244186040064245
+        ],
+        "order": 63
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TRAVEL",
+        "bbox": [
+          0.10351201541446348,
+          0.908430232892621,
+          0.17005545001991745,
+          0.9171511625531154
+        ],
+        "order": 64
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "08082914718 o thetimes.com/rtravel",
+        "bbox": [
+          0.27171904652014894,
+          0.9098837214558743,
+          0.680221798650831,
+          0.9288194444200248
+        ],
+        "order": 65
+      },
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ABTA",
+        "bbox": [
+          0.19593345604703227,
+          0.9113372094410075,
+          0.2347504619751489,
+          0.922965116285737
+        ],
+        "order": 66
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_28",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_28",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Price Includes",
+        "bbox": [
+          0.628465807200743,
+          0.15843023269055453,
+          0.7264325311726396,
+          0.1686507934531718
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_32",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_32",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Your Included Experiences",
+        "bbox": [
+          0.6284658123429566,
+          0.23401162801032196,
+          0.8133086830359708,
+          0.2442956350789862
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "visual_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_65",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_65",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6272481848321051,
+          0.38976370835210516,
+          0.944873101188821,
+          0.4605653695322739
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "visual_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_61",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_61",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07030367824736904,
+          0.49492834915287787,
+          0.13321269950824266,
+          0.5165291415806575
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_47",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "81,239",
+        "bbox": [
+          0.8243343325990716,
+          0.5187859793554793,
+          0.9076434869169081,
+          0.5495279736985861
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_48",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_48",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "PRICE INCLUDES",
+        "bbox": [
+          0.8299445491853825,
+          0.563953488477105,
+          0.9038817003525104,
+          0.5712209300185346
+        ],
+        "order": 34
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "visual_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_62",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_62",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05685316177045676,
+          0.5667982188933486,
+          0.34624863943878614,
+          0.7603310201302425
+        ],
+        "order": 35
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_13",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_13",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "PRICE INCLUDES",
+        "bbox": [
+          0.3752310534983831,
+          0.5696924603956354,
+          0.44916820466551094,
+          0.5771329365861115
+        ],
+        "order": 36
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_49",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_49",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Return flights with hotel transfers",
+        "bbox": [
+          0.8114602598250914,
+          0.5755813955810295,
+          0.9223659841675147,
+          0.5917796813567433
+        ],
+        "order": 37
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_14",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_14",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Return flights with hotel transfers",
+        "bbox": [
+          0.35859519548385604,
+          0.5798611110494378,
+          0.46765249670653203,
+          0.5974485810482415
+        ],
+        "order": 38
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_51",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_51",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "INCLUDED EXPERIENCES",
+        "bbox": [
+          0.8133086894687606,
+          0.6598837210170759,
+          0.9223659906914365,
+          0.6671626984225332
+        ],
+        "order": 41
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_16",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_16",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "INCLUDED EXPERIENCES",
+        "bbox": [
+          0.35859519598688405,
+          0.6641865078257312,
+          0.4658040644567389,
+          0.6716269840162074
+        ],
+        "order": 42
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_54",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_54",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SIGNATURE TOURS",
+        "bbox": [
+          0.8262476881119865,
+          0.7353670634948213,
+          0.9094269885936093,
+          0.7428075396852974
+        ],
+        "order": 46
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_18",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_18",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SIGNATURE TOURS",
+        "bbox": [
+          0.37130193459626215,
+          0.740925635077163,
+          0.45489409899229766,
+          0.7501417194439159
+        ],
+        "order": 47
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0020",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_44",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_44",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Departures April to October 2025",
+        "bbox": [
+          0.5120147947837236,
+          0.8313492063336498,
+          0.6709796647356846,
+          0.8415697670962672
+        ],
+        "order": 54
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0021",
+    "kind": "visual_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_64",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_64",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.18283722636697025,
+          0.8824685806267748,
+          0.23461603455336658,
+          0.9256656325087375
+        ],
+        "order": 59
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0022",
+    "kind": "visual_panel",
+    "page": "newspaper_The Times UK_0801@magazinesclubnew_page_083",
+    "primary_id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_63",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Times UK_0801@magazinesclubnew_page_083_63",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0567387420688243,
+          0.884957983067797,
+          0.17030298829211277,
+          0.9252018826452599
+        ],
+        "order": 60
+      }
+    ]
+  }
+]

@@ -1,0 +1,523 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Solutions to the 61st William Lowell Putnam Mathematical Competition Saturday, December 2, 2000",
+        "bbox": [
+          0.20112783008895613,
+          0.06686046501213344,
+          0.8045112775426226,
+          0.10319767427005383
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Manjul Bhargava, Kiran Kedlaya, and Lenny Ng",
+        "bbox": [
+          0.3345864605632914,
+          0.11627907015915184,
+          0.6710526315733001,
+          0.13081395324201098
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-1 The possible values comprise the interval (0, A7).",
+        "bbox": [
+          0.09383346655484635,
+          0.16541427254127464,
+          0.4531796335156936,
+          0.1848094158079827
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Pythagorean Theorem then shows that the rectangle P2P4P6Ps has sides V2 and 2V2. For notational ease, dent here pa alyon by pulting brackets around",
+        "bbox": [
+          0.5537634552932201,
+          0.16860465128693755,
+          0.9193548350293602,
+          0.22916666755543547
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To see that the values must lie in this interval, note that",
+        "bbox": [
+          0.1278195546309442,
+          0.18750000021135613,
+          0.4887218046735669,
+          0.19915674624310223
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1654135332706767,
+          0.21354166611335618,
+          0.3684210515534158,
+          0.25297618992288007
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By symmetry, the area of the octagon can be expressed as",
+        "bbox": [
+          0.5545112781041677,
+          0.2296511630266767,
+          0.9191729377203645,
+          0.2572674415936025
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "so E'-0x} ≤ A3-2x071. Letting m → ∞s, we have",
+        "bbox": [
+          0.12593985950122066,
+          0.26587301564954724,
+          0.4906014912506591,
+          0.2849702378717695
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.599624063397227,
+          0.27180232592950065,
+          0.8345864582193145,
+          0.28645833321938713
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note that [P2P3Pa] is V2 times the distance from P3 to PzP4, which is maximized when P, lies on the midpoint of arc PaPa; similarly, [PaPsPo) is V2/2 times the distance from Ps to PaPo, which is maximized when Ps lies on the midpoint of arc P4P6. Thus the area of the octagon is maximized when Ps is the midpoint of arc P2P4 and Ps is the midpoint of arc PAP6. In this case, it is easy to calculate that (P2P3P4] = V5 - 1 and [P,PsP6) = V5/2 - 1, and so the area of the octagon is 3V5.",
+        "bbox": [
+          0.5545112848301682,
+          0.2978670636440794,
+          0.9210526404235507,
+          0.4476744187087969
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_6",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To show that all values in (0, A3) can be obtained, we use geometric progressions with x1/x0 = x2/x1 = ...= d for variable d. Then [j=0*j = xo/(1 - d) and",
+        "bbox": [
+          0.1259398506447247,
+          0.30668604608771477,
+          0.490601496213065,
+          0.35174418578561556
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.17293233098887736,
+          0.36773255772720465,
+          0.3966165411251342,
+          0.4069767440377456
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As d increases from 0 to 1, (1 - d)/(1 + d) decreases from 1 to 0. Thus if we take geometric progressions with Ej-ox; =A, Ej-ox; ranges from O to A?. Thus the possible values are indeed those in the interval (0,A7), as claimed.",
+        "bbox": [
+          0.12774644911247598,
+          0.42005814003560527,
+          0.4906015101854555,
+          0.4930214284792734
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-4 To avoid some improper integrals at 0, we may as well replace the left endpoint of integration by some & > 0. We now use integration by parts:",
+        "bbox": [
+          0.5244360935150376,
+          0.4578373016895357,
+          0.9210526404235507,
+          0.5000000000876095
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A -2 First solution: Let a be an even integer such that a + 1 is not prime. (For example, choose a = 2 (mod 5), so that a? + 1 is divisible by 5.) Then we can write a + 1 as a difference of squares x - 62, by factoring a + 1 as rs with r < s > 1, and setting x = (r+s)/2,b = r-s)2 Finally, put n = x2 - 1, so that n = a +b,n + 1 =x, n+2=12+1.",
+        "bbox": [
+          0.09578919028468005,
+          0.5042000088197133,
+          0.49062130960236067,
+          0.6031976744010469
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_21",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5695488722979324,
+          0.5116279070912011,
+          0.8797527180710184,
+          0.6148255812579992
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: It is well-known that the equation 12 - 2y2 = 1 has infinitely many solutions (the socalled \"Pell\" equation). Thus setting n = 2y? (so that n= g2+12,n+1=17+02,n+2=12+13 yields infinitely many n with the desired property.",
+        "bbox": [
+          0.12593986385585723,
+          0.6112999067186916,
+          0.4906981158340046,
+          0.6831395349095573
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now six cost? tends to 0 as B → ∞, and the integral 1/ thes & sonerge absolutely by comparison with",
+        "bbox": [
+          0.5563909868508448,
+          0.6251742525408209,
+          0.9210526186002831,
+          0.6788194443297665
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution: As in the first solution, it suffices to exhibit x such that x? - 1 is the sum of two squares. We will take x = 32\" \", and show that x? - 1 is the sum of two squares by induction on n: if 32\" - 1 = a- + 62, then",
+        "bbox": [
+          0.12593985625873957,
+          0.6889534886329889,
+          0.4906015101854555,
+          0.7456395352749307
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_23",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5601503770570134,
+          0.6889534890144297,
+          0.8421052633082708,
+          0.7848837210287433
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_12",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.14285714966258173,
+          0.7586805558797572,
+          0.4323308246325309,
+          0.7994186040447631
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and that the final integral converges absolutely by comparison to 1/3.",
+        "bbox": [
+          0.5545112848301682,
+          0.7965116282986867,
+          0.9191729165796065,
+          0.8256448414603957
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fourth solution (by Jonathan Weinstein): Let n = 4k* + 4k2 = (2k2)2+ (2k)ª for any integer k. Then n+ 1 = (2k7+1)7+07and n+2= (2k7+1)=+17.",
+        "bbox": [
+          0.1259398561112073,
+          0.8182043651730412,
+          0.48872180622431866,
+          0.8633720933054537
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_25",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "An alternate approach is to first rewrite sinxsinx as E(cos(17-x) - COs(+2 +x)). Then",
+        "bbox": [
+          0.5562102516710132,
+          0.829861110984542,
+          0.9191729325401083,
+          0.8605556343800984
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-3 The maximum area is 3V5.",
+        "bbox": [
+          0.09586466715444045,
+          0.8735119049560932,
+          0.31203007509180003,
+          0.8866567462259343
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_26",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_26",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.7500000017448276,
+          0.8922830254495684,
+          0.8302748606259354,
+          0.9447674418027259
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We deduce from the area of PiPPsPy that the radius of the circle is V5/2. An easy calculation using the",
+        "bbox": [
+          0.12593985625873957,
+          0.8938492064467164,
+          0.4906015024649204,
+          0.924418604969698
+        ],
+        "order": 27
+      }
+    ]
+  }
+]

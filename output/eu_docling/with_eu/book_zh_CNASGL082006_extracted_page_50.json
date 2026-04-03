@@ -1,0 +1,156 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_CNASGL082006_extracted_page_50",
+    "primary_id": "docling_book_zh_CNASGL082006_extracted_page_50_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_zh_CNASGL082006_extracted_page_50_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.25051334846375267,
+          0.10451306392588892,
+          0.3100616005779995,
+          0.1338083925086284
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_zh_CNASGL082006_extracted_page_50_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-1514 W:",
+        "bbox": [
+          0.19912734849368915,
+          0.1422699995538372,
+          0.32448661275652646,
+          0.16150907032233697
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_zh_CNASGL082006_extracted_page_50",
+    "primary_id": "docling_book_zh_CNASGL082006_extracted_page_50_4",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_zh_CNASGL082006_extracted_page_50_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3",
+        "bbox": [
+          0.1047227909647722,
+          0.30813953508658387,
+          0.3141683773719835,
+          0.3299418604221372
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_zh_CNASGL082006_extracted_page_50_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.25139438705956374,
+          0.3431854972929966,
+          0.6803079387485581,
+          0.5010420556872588
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_CNASGL082006_extracted_page_50",
+    "primary_id": "docling_book_zh_CNASGL082006_extracted_page_50_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_zh_CNASGL082006_extracted_page_50_6",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "# 4-1",
+        "bbox": [
+          0.15605749509472666,
+          0.6539984163211926,
+          0.21355236052927512,
+          0.6715116280404065
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "book_zh_CNASGL082006_extracted_page_50",
+    "primary_id": "docling_book_zh_CNASGL082006_extracted_page_50_12",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_zh_CNASGL082006_extracted_page_50_12",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "ISE IRL | c, = 8510x, | k.|x1(x,) | Ẻ 1 10 | 14, | 0.2% | 1 | 0.2% | 2 | 0.29% | 1 | 0.29% | 50 | 0.02% | 0.02% | 8",
+        "bbox": [
+          0.12399864196777344,
+          0.6798727076297135,
+          0.7770600798946099,
+          0.8021114829600282
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_CNASGL082006_extracted_page_50",
+    "primary_id": "docling_book_zh_CNASGL082006_extracted_page_50_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_zh_CNASGL082006_extracted_page_50_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2463209657408098,
+          0.8006358186533945,
+          0.35737513232555007,
+          0.8214572050072868
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_zh_CNASGL082006_extracted_page_50_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2607802871789035,
+          0.8269992082184661,
+          0.32854209454594246,
+          0.8444767443633117
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

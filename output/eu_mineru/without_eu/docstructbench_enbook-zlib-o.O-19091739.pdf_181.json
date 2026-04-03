@@ -1,0 +1,223 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_0",
+    "text": "Model We are asked to find the magnetic field due to a simple current distribution, so this example is a typical problem for which the Biot—Savart law is appropriate. We must fi nd the field contribution from a small element of current and then integrate over the current distribution from θ1 to θ2, as shown in Figure 29.3b.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10748354114199417,
+      0.07666359868777224,
+      0.708719599405024,
+      0.13927220428278625
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_2",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.7355904846905226,
+      0.08305223191175326,
+      0.9119306693766068,
+      0.21338034968096606
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_1",
+    "text": "Analyse Let's start by considering a length element d s located a distance r from P. The direction of the magnetic fi eld at point P due to the current in this element is out of the page because ds × f is out of the page. In fact, because all the current elements I ds lie in the plane of the page, they all produce a magnetic field directed out of the page at point P. Therefore, the direction of the magnetic field at point P is out of the page and we need only fi nd the magnitude of the field. We place the origin at O and let point P be along the positive y axis, with k being a unit vector pointing out of the page.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10748354114199417,
+      0.14566083750676725,
+      0.718796181387086,
+      0.2542676023144446
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_6",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.7355904846905226,
+      0.24404578915607497,
+      0.9152895300372942,
+      0.38842890001804603
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_3",
+    "text": "From the geometry in Figure 29.3a, we can see that the angle between the vectors d s and r is π -0 radians. 2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10580411081165052,
+      0.26193396218322185,
+      0.7171167510567423,
+      0.31048757468547755
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_4",
+    "text": "Evaluate the cross product in the Biot-Savart law:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10916297147233783,
+      0.31304302797507,
+      0.438331316219695,
+      0.32837574771262446
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_8",
+    "text": "Substitute into Equation 29.1:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10748354114199417,
+      0.38715117337324984,
+      0.30565632012254595,
+      0.40120616646600804
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_7",
+    "text": "Figure 29.3 (Example 29.1) (a) A thin, straight wire carrying a current I (b) The angles θ1 and θ2 are used for determining the net f eld.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7355904846905226,
+      0.39481753324202706,
+      0.9119306693766068,
+      0.4753143118641879
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_5",
+    "text": "From the geometry in Figure 29.3a, express r in terms of 0:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10580411081165052,
+      0.4523152322578562,
+      0.5004702384424103,
+      0.46764795199541065
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_9",
+    "text": "Notice hat tan θ =—x/a from the right triangle in Figure 29.3a (the negative ign is necessary because d is located at a negative value of x) and solve for x:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10748354114199417,
+      0.5187570177872588,
+      0.9119306693766068,
+      0.5494224572623677
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_10",
+    "text": "Find the diffential dx:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10748354114199417,
+      0.582643350027069,
+      0.2653499921942981,
+      0.5966983431198273
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_11",
+    "text": "Substitute Equations (2) and (3) into he magnitude of the field from Equation (1):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10412468048130685,
+      0.6503628622012678,
+      0.6432218165216214,
+      0.6669733085836185
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_12",
+    "text": "Integrate Equation 4) over al length elements on the wire, where the subtending angles range from θ to θ as defned in Figure 29.3b:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10748354114199417,
+      0.7257487342442439,
+      0.9052129480552322,
+      0.7564141737193528
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_13",
+    "text": "Check the dimensions, noting that the quantity in brackets is dimensionless:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10580411081165052,
+      0.807523239511201,
+      0.6163509312361228,
+      0.8228559592487554
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_14",
+    "text": "(B) Find an expression for the field at a point near a very long current-carrying wire.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10580411081165052,
+      0.8535213987238642,
+      0.665054410816089,
+      0.8688541184614187
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_15",
+    "text": "Solution",
+    "canon_role": "section_header",
+    "bbox": [
+      0.10748354114199417,
+      0.8867422914885655,
+      0.18473733633780248,
+      0.9007972845813238
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_docstructbench_enbook-zlib-o.O-19091739.pdf_181_16",
+    "text": "We can use Equation 29.4 to ind the magnetic feld of any straight current-carrying wire if we know the geometry and hence the angles θ and θ, If the wire in Figure 29.3b becomes infnitely long, we see that θ, = π/2 and θ2 = −π/2 for",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10580411081165052,
+      0.9033527378709162,
+      0.9001746570642012,
+      0.9352959039908213
+    ],
+    "page": "docstructbench_enbook-zlib-o.O-19091739.pdf_181",
+    "order": 17
+  }
+]

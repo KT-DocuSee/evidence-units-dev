@@ -1,0 +1,354 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_27",
+    "source": "visual_seed",
+    "member_count": 20,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10",
+        "bbox": [
+          0.24640657132606228,
+          0.16133720954868666,
+          0.2751540041017271,
+          0.17587209263154577
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_27",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.19144614624097286,
+          0.16193895148333956,
+          0.8038796057357834,
+          0.5369793719438061
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.1",
+        "bbox": [
+          0.24024640672068132,
+          0.30668604641730984,
+          0.26899383949634603,
+          0.31976744185415695
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "→ Gulkana",
+        "bbox": [
+          0.3429158137529815,
+          0.3501984124049508,
+          0.4722792599049827,
+          0.3678075393890779
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-=- Himalaya",
+        "bbox": [
+          0.3429158130331851,
+          0.37202380966249127,
+          0.4784394197183551,
+          0.3896329366466182
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.01",
+        "bbox": [
+          0.22792607750840665,
+          0.37645348895224034,
+          0.27310061663943735,
+          0.3953488368653467
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.001",
+        "bbox": [
+          0.21560574968253413,
+          0.4476744186909472,
+          0.27310061523386364,
+          0.46947674378828863
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1200",
+        "bbox": [
+          0.2587269003219044,
+          0.46802325611854373,
+          0.31006159998610394,
+          0.48691860403165016
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1800",
+        "bbox": [
+          0.7532729129126373,
+          0.4689965197709532,
+          0.8052486476902552,
+          0.4873988294157432
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1500",
+        "bbox": [
+          0.5070031596637576,
+          0.469204096885789,
+          0.5587052588448158,
+          0.48719125166476906
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1600",
+        "bbox": [
+          0.5871735171466831,
+          0.46933017510547115,
+          0.6407525598156112,
+          0.4870651738538871
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1700",
+        "bbox": [
+          0.6735112954475143,
+          0.4694767437393303,
+          0.7227926064826706,
+          0.4869186049525301
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1400",
+        "bbox": [
+          0.42505133577364973,
+          0.4694767437621334,
+          0.4763860354378493,
+          0.4854651163832154
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1300",
+        "bbox": [
+          0.34086242349198226,
+          0.4694767448162498,
+          0.39425051178522513,
+          0.48691860413723853
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5400",
+        "bbox": [
+          0.6692798005456846,
+          0.49116477024999994,
+          0.7229173245314303,
+          0.5204631363122248
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5100 5200 5300",
+        "bbox": [
+          0.42710472571787195,
+          0.49127906970669355,
+          0.6406570788908436,
+          0.5188953491725051
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5500",
+        "bbox": [
+          0.7471482236415993,
+          0.4924567348859225,
+          0.8011063963561004,
+          0.5206246600696578
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure Ati, Y change of di, 9), el alp to mas in Gula lane 120- on i a sane in trimalayas",
+        "bbox": [
+          0.11088296819836901,
+          0.5406746031832715,
+          0.8829568785602112,
+          0.5697674410770452
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "concentration of the alga occurred at snow area S5, and the alga was completely dominant at snow areas $5 and S6. The alga observed on the ice area probably came from the upper snow area, washed down by meltwater and/or from snow that had covered the ice surface before it melted.",
+        "bbox": [
+          0.11293633053790558,
+          0.5828373018274959,
+          0.8809034786003808,
+          0.6279761905000255
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The condition of the distribution of the four opportunists may be associated with physical or biological conditions on the glacier surface. The alga of Raphidonema has been found in eastern Europe and in the Antarctic, and one of the species of Raphidonema (Koliella) was reported as a shade-adapted species (Komárek et al., 1973). However, the distribution of Raphidonema on this glacier cannot be explained by the shade-light characteristics. The distribution of this alga (mainly at S4 and a little at S1) corresponded to the area where higher species diversity occurred relative to the other sites. The alga may prefer an area with high species diversity and may be able to survive in areas with keen species competition. The distribution of Oscillatoriacean 1 may be associated with the distribution of cryoconite holes. A cryoconite hole is a water-filled depression on the glacial ice surface, and is inhabited by many organisms, including algae, cyanobacteria, rotifers, and insects (e.g. Wharton et al., 1985). On Gulkana Glacier, cryoconite holes occurred mainly at sites S2 and S3. A larger amount of Oscillatoriacean 1 was observed at the bottom of cryoconite holes relative to the bare-ice surface (not quantified), suggesting that the cryoconite hole is a suitable habitat for this alga. The alga on the ice surface in the area may be derived from cryoconite holes. The conditions for Cyl. brébissonii and Oscillatoriacean 2, observed at only S1, were uncertain. Since cyanobacteria typically do not grow well at below pH 5, the pH condition of glacier surface may affect the distribution of cyanobacteria. Also, they may be associated with the amount of mineral particles present, since a larger concentration of mineral particles",
+        "bbox": [
+          0.1129363458561806,
+          0.6249999996632961,
+          0.8809345103291298,
+          0.8517441860360107
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Volume (mL m-2)",
+        "bbox": [
+          0.19024543881661982,
+          0.2614499041290433,
+          0.21502703200552473,
+          0.3752383726261834
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_17",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+",
+        "bbox": [
+          0.6858316217880842,
+          0.44622093025656173,
+          0.7084188913535997,
+          0.4680232553539032
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+",
+        "bbox": [
+          0.5215605753681994,
+          0.4505813954861868,
+          0.5379876790465848,
+          0.4651162785690459
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1040.pdf_9_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Altitude (ma.s.l.)",
+        "bbox": [
+          0.4537987670392127,
+          0.5203373019900128,
+          0.6139630372729024,
+          0.5377906971750293
+        ],
+        "order": 23
+      }
+    ]
+  }
+]

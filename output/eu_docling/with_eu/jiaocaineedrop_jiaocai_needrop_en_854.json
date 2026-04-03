@@ -1,0 +1,429 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_26",
+    "source": "visual_seed",
+    "member_count": 21,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Grammar Focus",
+        "bbox": [
+          0.13608766168244896,
+          0.10283152181641197,
+          0.27041640067411093,
+          0.14278815595450173
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_26",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Have you read Little Women yet? | Yes, I have./No, I haven't. | Has Tina read Treasure Island yet? | Yes, she has. She thinks it's fantastic. | Have you decided which book to write about yet? | Yes, I have. I've already finished reading it. It was really good.",
+        "bbox": [
+          0.1596884724313879,
+          0.1518794685729488,
+          0.8549850048730923,
+          0.2411058423187589
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Use the words in brackets to complete the conversations.",
+        "bbox": [
+          0.16056910352555032,
+          0.2586805558989265,
+          0.7154471585001948,
+          0.2761627902709595
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A: Would you like something to drink?",
+        "bbox": [
+          0.16056911465259496,
+          0.284883721550746,
+          0.5304877897511994,
+          0.3023313492768013
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B: No, thanks. I've just drunk some tea · (just/drink some tea",
+        "bbox": [
+          0.18495935504784516,
+          0.3023255821418312,
+          0.8191056836980795,
+          0.3197674421063259
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A: I heard you lost your key. ? (find)",
+        "bbox": [
+          0.158536594774713,
+          0.3196927114997306,
+          0.8232094155718105,
+          0.3387375213709803
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B: No, not yet.",
+        "bbox": [
+          0.18282314545821457,
+          0.33969878219815913,
+          0.31717685722531863,
+          0.35797563636506796
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A: Do you know when Tom is leaving?",
+        "bbox": [
+          0.16056910568325827,
+          0.3575581397607436,
+          0.5284552931480424,
+          0.37648809526593296
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "· (already/leave)",
+        "bbox": [
+          0.6666666688845795,
+          0.37645348908950566,
+          0.8191056857902173,
+          0.3938953484104944
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B:",
+        "bbox": [
+          0.1849593496472017,
+          0.37790697700871584,
+          0.2073170733964974,
+          0.3924418600915749
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A: When ? (leave)",
+        "bbox": [
+          0.1827008556538164,
+          0.3936351361313342,
+          0.8192161355476387,
+          0.41197830597899154
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B: This morning.",
+        "bbox": [
+          0.1829268354146548,
+          0.4141865082445422,
+          0.3373983716991663,
+          0.4317956352286692
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A: Is your sister going to the movies with us tonight?",
+        "bbox": [
+          0.1585365949611627,
+          0.43023255828808576,
+          0.6524390050794879,
+          0.4506448415724093
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B: No. · (already/see the film)",
+        "bbox": [
+          0.1828996087009742,
+          0.45058139613892434,
+          0.8170731642875103,
+          0.4680232554599129
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A: What do your parents think about our plan?",
+        "bbox": [
+          0.16056911527308387,
+          0.46947674482040264,
+          0.6016260003773228,
+          0.4869186041413913
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_16",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "В: 1 · (not/tell them/yet)",
+        "bbox": [
+          0.1849593506315152,
+          0.4868551585894756,
+          0.8191056958049925,
+          0.5044642855736027
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sally (love) reading. In the morning, she reads the newspaper and in the evening she reads books. She already (read) more than 100 different books! Her favorite kind of books is science fiction. She is interested in science and technology and loves to imagine what the world (be) like in 50 years. She (finish) reading a book about robots last week and (write) a book report about it next week for her French class. Every time she is in the library, Sally looks at the many books she (not read) yet and she can't wait to read them!",
+        "bbox": [
+          0.15853657692284495,
+          0.5465116281328363,
+          0.819105690598946,
+          0.7034883716953781
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_22",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B: I've already read Tom Sawyer and Harry Potter.",
+        "bbox": [
+          0.4227642380139667,
+          0.7383432542837559,
+          0.8577235755632688,
+          0.7572674413838788
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_21",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "40 Complete the chart with information about you and a friend.",
+        "bbox": [
+          0.09756097559497753,
+          0.7427325586611477,
+          0.40040649961563196,
+          0.7994186048840461
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A: What do you think of them?",
+        "bbox": [
+          0.422764230576351,
+          0.7557043648294703,
+          0.6971544631228358,
+          0.7733134918135974
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_23",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B: Well, I think Harry Potter was exciting, but Tom Sawyer was a bit boring.",
+        "bbox": [
+          0.42276423557288056,
+          0.771802325807255,
+          0.8638211206771196,
+          0.8081395341854777
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_28",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_28",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09723743826012463,
+          0.2510592945390365,
+          0.13699966562292634,
+          0.27890830092029545
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4а",
+        "bbox": [
+          0.10162601646460956,
+          0.2601744183971288,
+          0.13211382037482136,
+          0.27325581383397574
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4b",
+        "bbox": [
+          0.10162601696185114,
+          0.5247093022296663,
+          0.13211382087206291,
+          0.5377906976665133
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_29",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_29",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09820662956009975,
+          0.516448380769459,
+          0.13643855327158158,
+          0.544084879364173
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_17",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Fill in the blanks with the correct forms of the words in brackets.",
+        "bbox": [
+          0.16046227794915438,
+          0.5216686479906463,
+          0.7907848229306255,
+          0.5407454210891833
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_27",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A: What books have you already read?",
+        "bbox": [
+          0.4227642287418504,
+          0.7223837207098076,
+          0.7601625937784748,
+          0.7383720933308898
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_27",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "You | Your friend | Comments | Books I have already read | Movies I have already seen | Songs I have already heard",
+        "bbox": [
+          0.09724274390409858,
+          0.8116869897032214,
+          0.8589878094931984,
+          0.9250576343364381
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_30",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_854_30",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09782541296540623,
+          0.7357932055907392,
+          0.1368337832465422,
+          0.7650455281131348
+        ],
+        "order": 25
+      }
+    ]
+  }
+]

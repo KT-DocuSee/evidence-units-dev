@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_0",
+    "text": "Table 1. Considered process variables of the FCCU case study.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06721785113137296,
+      0.08688425800004719,
+      0.43523558607564,
+      0.09947617944932939
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_4",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.4990925446504443,
+      0.0944394108696165,
+      0.8771929572644173,
+      0.3185756126668397
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_1",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.06721785113137296,
+      0.10199456373918583,
+      0.44195737118877726,
+      0.5830059631017659
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_5",
+    "text": "Figure 3. Scatter plot in high-dimensional feature space.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4990925446504443,
+      0.326130765536409,
+      0.8335013540290248,
+      0.3387226869856912
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_6",
+    "text": "dataset, which is generated from simulation studies, in the FCCU process and extracted from the first and second optimal discriminant vector using Fisher discriminant analysis. Then the data was projected to the optimal discriminant vector, which resulted in the generation of a scatter plot of the first and second feature vector in the original space. It can be seen in Fig. 2 that only fault 1 can be differentiated clearly from the normal data and that faults 2 and 3 cannot be differentiated from normal data. The reason for this is that FDA is a linear method in operation. Consequently, it has a poor ability to deal with data which shows complex nonlinear relationship among variables. The scatter plot of the first kernel Fisher fea- ture vector and the second vector via kernel FDA is presented in Fig. 3. It is seen from Fig. 3 that after projecting to the high-dimensional feature space through selecting the appro- priate kernel function, the kernel Fisher discriminant method can easily discriminate data that belong to different classes.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4990925446504443,
+      0.34879622414511696,
+      0.8822342960992702,
+      0.5830059631017659
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_7",
+    "text": "The RBF function is used as the selected kernel function, and the parameter c is selected as 0.8 according to experience, viz:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.49741209837216,
+      0.5842651552466941,
+      0.8839147423775545,
+      0.611967382435115
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_8",
+    "text": "The process disturbances considered are listed in Tab. 2. A 10 % loss of combustion air blower capacity was selected for",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5007729909287286,
+      0.6535207232177462,
+      0.8822342960992702,
+      0.6812229504061671
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_2",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.07057874368794162,
+      0.657298299652531,
+      0.4486791563019146,
+      0.8801753093048259
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_9",
+    "text": "Table 2. Process disturbances for FCCU.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4990925446504443,
+      0.6988516404351621,
+      0.736035469888534,
+      0.7114435618844444
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_10",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.49741209837216,
+      0.7164803304641573,
+      0.8822342960992702,
+      0.8990631914787491
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5_3",
+    "text": "Figure 2. Scatter plot in original feature space.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07057874368794162,
+      0.8889896543193234,
+      0.34449148704828647,
+      0.9015815757686056
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_5",
+    "order": 11
+  }
+]

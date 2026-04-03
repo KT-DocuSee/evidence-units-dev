@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4660",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4660_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4660_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3349581302337208,
+          0.0026666666666666666,
+          0.6924134483189601,
+          0.26755555555555555
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4660",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4660_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4660_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "艾滋病宣传活动内容：艾滋病知识宣传活动，将艾滋病相关知识对居民进行讲解 提高大家对艾滋病的认识，能更好的关爱艾滋病患者和积极地预防艾滋病。",
+        "bbox": [
+          0.11298587676540432,
+          0.3191111111111111,
+          0.8923884514435696,
+          0.416
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4660",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4660_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4660_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09798775153105861,
+          0.4391111111111111,
+          0.9003874515685539,
+          0.8355555555555556
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

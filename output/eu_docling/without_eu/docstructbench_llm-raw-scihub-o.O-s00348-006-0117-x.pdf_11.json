@@ -1,0 +1,600 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_46",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.5094811878873187,
+      0.05663215993851505,
+      0.9192146937821191,
+      0.48994491954771996
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_1",
+    "text": "2.9 Elimination of secondary structures",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08045977837878461,
+      0.058035714265212875,
+      0.3754789181729396,
+      0.07122093011304563
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_9",
+    "text": "3",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5421455938767396,
+      0.08284883738632257,
+      0.5517241376845632,
+      0.09156976704681695
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_2",
+    "text": "Based on the superposition principle, vortices and vortical shear layers from blades passing the measurement window are identified and numerically removed from the image such that the vortex of interest remains almost unaffected. Thereafter, its parameters can be identified without being biased by disturbing structures. Currently, this is performed manually in the measurement plane, and only for the in-plane velocities. The disturbing vortex is identified by a best fit to a Vatistas swirl model and its contribution is then subtracted from the entire velocity field. This can also be done iteratively until no fragments of the disturbing structure remain. In general, both (or more) structures could be identified simultaneously, but this is complicated by different orientation of their vortex axis with respect to the measurement plane and not implemented yet.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08045976596051732,
+      0.08720930253660597,
+      0.492337163045119,
+      0.3183139535525469
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_10",
+    "text": "100zv/",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5090282247733898,
+      0.14608277567122846,
+      0.5264029050777923,
+      0.18102406293900433
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_11",
+    "text": "max",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.87931034535301,
+      0.15552325604614567,
+      0.9080459755282161,
+      0.16279069758757528
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_12",
+    "text": "3",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8927203065814292,
+      0.1642441860243433,
+      0.9003831415028618,
+      0.1715116275657729
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_13",
+    "text": "2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8927203065443641,
+      0.17296511647789237,
+      0.9022988503521877,
+      0.18168604613838665
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_14",
+    "text": "-1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5325670500742636,
+      0.17732558148219227,
+      0.5498084294276521,
+      0.18459302302362177
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_15",
+    "text": "-2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5325670500619082,
+      0.20058139552585738,
+      0.5517241376775556,
+      0.20930232518635186
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_16",
+    "text": "min",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8448275870763161,
+      0.22093023264498293,
+      0.8697318007270045,
+      0.22819767418641243
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_19",
+    "text": "-2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6130268202407076,
+      0.23110465116923673,
+      0.6321839078563549,
+      0.2412790694218487
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_24",
+    "text": "3",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7720306516469512,
+      0.23110465121163015,
+      0.7835249037170336,
+      0.2412790694642421
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_23",
+    "text": "2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7413793109381387,
+      0.23110465126613586,
+      0.7528735630082211,
+      0.2412790695187478
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_18",
+    "text": "-3",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5823754792445391,
+      0.2311046513034738,
+      0.6015325668601864,
+      0.23982558096396808
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_17",
+    "text": "-4",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5517241378652287,
+      0.23255813976707596,
+      0.570881225480876,
+      0.23982558130850545
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_20",
+    "text": "-1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6436781608537344,
+      0.23255813976707596,
+      0.6628352484693817,
+      0.23982558130850545
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_21",
+    "text": "100xv/R",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6340398303826026,
+      0.2469025142739791,
+      0.6897149575018965,
+      0.257457950960843
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_22",
+    "text": "(a) original data",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6302033537736161,
+      0.2642284691333747,
+      0.7356970291253833,
+      0.27792269398295455
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_25",
+    "text": "wy/D",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8122605367285017,
+      0.29215116300205396,
+      0.844827585924755,
+      0.3037790698467832
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_27",
+    "text": "3",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5402298851123718,
+      0.3139534885491133,
+      0.5498084289201953,
+      0.3226744182096076
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_3",
+    "text": "An example is given in Fig. 10a where two vortices of opposite sense of rotation are close to each other, and both are affecting the other vortex flow field adversely. In (a) the vortex centre was manually set to the centre of the disturbing structure, using the scalar field of 22-convolution. After elimination of this structure using a best fit to Vatistas swirl model the remaining vortex is clearly unaffected by other structures (b) and its parameters can be identified. To do even more, the shear layer at the lower left of the image could be eliminated by the same procedure.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08036084143894928,
+      0.31686046547031965,
+      0.4923371666795479,
+      0.47674418607234803
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_28",
+    "text": "2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5402298853634264,
+      0.3372093023744208,
+      0.5517241374335088,
+      0.34738372062703265
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_29",
+    "text": "1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5402298851123718,
+      0.3604651163279091,
+      0.5498084289201953,
+      0.3706395345805212
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_26",
+    "text": "100zv/R",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5114942502955427,
+      0.3706395351808227,
+      0.5249042168692081,
+      0.41133720819127034
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_32",
+    "text": ", max",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8697318009858854,
+      0.3880813955991979,
+      0.9080459762171801,
+      0.39534883714062746
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_30",
+    "text": "- 1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.532567049944468,
+      0.4084302329168459,
+      0.5478927197873329,
+      0.41716269844136794
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 28
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_31",
+    "text": "-2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5325670498108537,
+      0.431686046688648,
+      0.549808429164242,
+      0.4404069763491425
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 29
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_34",
+    "text": "WN",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8946360141083596,
+      0.44186046456781874,
+      0.9042145604127129,
+      0.45930232578101854
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 30
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_33",
+    "text": "min",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8448275870103773,
+      0.45058139535528324,
+      0.8678160911505423,
+      0.4607558136078951
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 31
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_39",
+    "text": "2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7413793103757818,
+      0.4622093023320274,
+      0.7509578541836054,
+      0.47238372058463934
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 32
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_37",
+    "text": "-2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6130268204163143,
+      0.4636627909110319,
+      0.6321839080319617,
+      0.47238372057152617
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 33
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_35",
+    "text": "-4",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5517241376939954,
+      0.4636627910563806,
+      0.5689655170473839,
+      0.47238372071687507
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 34
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_36",
+    "text": "-3",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.582375478690164,
+      0.4636627910563806,
+      0.5996168580435524,
+      0.47238372071687507
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 35
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_38",
+    "text": "-1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6436781608537344,
+      0.4636627910806056,
+      0.6628352484693817,
+      0.47238372074109997
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 36
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_40",
+    "text": "100xv/R",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6340354056542945,
+      0.4779927844948055,
+      0.6897193854676354,
+      0.48857698278803735
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 37
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_41",
+    "text": "(b) counter-rotating vortex removed",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5708812280820041,
+      0.4955357141737008,
+      0.8084291175118655,
+      0.5087209300215335
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 38
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_4",
+    "text": "2.10 Identification of vortex parameters",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08045977473983947,
+      0.5014534881645708,
+      0.3773946315341069,
+      0.5146329365534423
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 39
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_42",
+    "text": "Fig. 10 Elimination of disturbing structures. BL, pos. 47 of Fig. 1, simple average",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5076294319764507,
+      0.5203373014597316,
+      0.9195402144499726,
+      0.5437613043338683
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 40
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_5",
+    "text": "The identification of the swirl and the axial velocity profiles, the core radius and the circulation is often hindered by other flow structures in close proximity of the vortex of interest. These are shear layers with vorticity and additional vortices shed by other blades just passing the measurement window, especially where BVI takes place.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08029507252940708,
+      0.5281059249730957,
+      0.492337163045119,
+      0.6308798277997147
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 41
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_43",
+    "text": "Alternatively, the Lamb Oseen [10, 18] or Newman [17] vortex can be fitted to the data. These are also written in terms of Vs,max and rc, but the radial distribution function is different and a factor a of an exponential function defines the shape. Expanding the parameter a to the inclusion of the vortex age v, the Hamel Oseen [5] model can be used as well.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5076628434032071,
+      0.5798611111924539,
+      0.9195402323313091,
+      0.6803075395175213
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 42
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_6",
+    "text": "Using a best fit of a Vatistas vortex swirl model [26], the parameters describing the vortex are identified. This model is written in terms of the maximum swirl velocity Vs.max at the core radius re the shape parameter n that describes the distribution of vorticity (and therewith the distribution of 22 and 2), and the radial distance from the vortex centre. The development of vortex circulation, and thus the fraction of total circulation at the core radius, is connected to the swirl velocity profile as well. All relations for the Vatistas vortex are given [27]. Note that all variables are made non-dimensional, i.e., the velocities are divided by s? R, circulation and kinematic viscosity by 5? Ro, radicity by and thines ly perors dust, the",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07854406514953195,
+      0.6321924601376069,
+      0.49425287664484857,
+      0.834325396599706
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 43
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_44",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5076628359097423,
+      0.6875000004156032,
+      0.6614428289671365,
+      0.7572281591137597
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 44
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_45",
+    "text": "Vatistas model is used here, since with the shape parameter n a wide range of swirl shapes can be defined, covering the Scully vortex (n=1), the Lamb Oseen vortex (n~2), or the Rankine vortex (n=∞). When the data are cleaned from spurious vectors, mean values of the flow subtracted and rotated into the vortex axis system, the distribution of swirl velocities of all vectors is fitted with the Vatistas model using a least squares error method. The best fit is performed at a radial extension of 2-3 core radii.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5057471167892681,
+      0.7658730159375223,
+      0.9214559227499891,
+      0.906994047443028
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 45
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08620689757396731,
+      0.8473837206225985,
+      0.2318007671929547,
+      0.8983134922130644
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 46
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11_8",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.21264367798808026,
+      0.893895349048234,
+      0.24521072718433357,
+      0.9069767435389755
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0117-x.pdf_11",
+    "order": 47
+  }
+]

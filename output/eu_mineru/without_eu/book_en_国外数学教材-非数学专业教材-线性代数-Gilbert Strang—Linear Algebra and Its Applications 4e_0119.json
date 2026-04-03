@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_0",
+    "text": "You must notice that the word \"dimensional\"' is used in two different ways. We speak about a four-dimensional yector, meaning a vector in R4. Now we have defined a four- dimensional subspace; an example is the set of vectors in R6 whose first and last com- ponents are zero. The members of this four-dimensional subspace are six-dimensional vectors like (0, 5, 1, 3, 4, 0).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14349052801289802,
+      0.0837964942283027,
+      0.909310761789601,
+      0.18355422545247257
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_1",
+    "text": "One final note about the language of linear algebra. We never use the terms \"basis of a matrix\" or \"rank of a space\" or \"dimension of a basis.\" These phrases have no meaning. It is the dimension of the column space that equals the rank of the matrix, as we prove in the coming section.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14349052801289802,
+      0.18526435798774404,
+      0.909310761789601,
+      0.26279036625338464
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_2",
+    "text": "Problem Set 2.3",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14429665457476823,
+      0.3083939005272909,
+      0.31035872632003225,
+      0.3272053584152772
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_3",
+    "text": "Problems 1-10 are about linear independence and linear dependence.",
+    "canon_role": "section_header",
+    "bbox": [
+      0.13945989520354696,
+      0.34544677212483965,
+      0.7900040306328093,
+      0.3648282741912498
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_4",
+    "text": "1. Show that v1, v2, v3 are independent but v1, v2, v3, v4 are dependent:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14268440145102781,
+      0.37565911358130255,
+      0.7706569931479242,
+      0.3950406156477127
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_5",
+    "text": "Solve c1v1 + · .· + c4v4 = 0 or Ac = 0. The v's go in the columns of A.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1725110842402257,
+      0.4805472424112869,
+      0.785167271261588,
+      0.49992874447769703
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_6",
+    "text": "2. Find the largest possible number of independent vectors among",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14107214832728737,
+      0.5101895396893259,
+      0.7311567916162838,
+      0.5295710417557361
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_7",
+    "text": "This number s the  of the space spanned by the v's.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17412333736396615,
+      0.6367393472994157,
+      0.6698911729141476,
+      0.655550805187402
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_8",
+    "text": "3. Prove that if a = 0, d = 0, or f = 0 (3 cases), the columns of U are dependent:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14268440145102781,
+      0.665811600399031,
+      0.8625554212011286,
+      0.6851931024654411
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_9",
+    "text": "4. If a, d, f in Problem 3 are all nonzero, show that the only solution to Ux = 0 is x = 0. Then U has independent columns.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14349052801289802,
+      0.7758301268348297,
+      0.909310761789601,
+      0.8151631751460738
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_10",
+    "text": "5. Decide the dependence or independence of",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1418782748891576,
+      0.8259940145361265,
+      0.554615074566707,
+      0.8453755166025367
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119_11",
+    "text": "(a) the vectors (1, 3, 2), (2, 1, 3), and (3.2, 1). (b) the vectors (1, −3, 2), (2, 1, −3), and (−3, 2, 1).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17412333736396615,
+      0.8550662676357418,
+      0.6279725916968965,
+      0.9018098902664956
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0119",
+    "order": 12
+  }
+]

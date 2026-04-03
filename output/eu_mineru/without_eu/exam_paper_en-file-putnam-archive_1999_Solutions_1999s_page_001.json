@@ -1,0 +1,275 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_0",
+    "text": "Solutions to the 60th William Lowell Putnam Mathematical Competition Saturday, December 4, 1999",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1984313725490196,
+      0.06363636363636363,
+      0.8086274509803921,
+      0.1
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_1",
+    "text": "Manjul Bhargava, Kiran Kedlaya, and Lenny Ng",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3341176470588235,
+      0.11333333333333333,
+      0.672156862745098,
+      0.1296969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_2",
+    "text": "A−1 Note that if r(x) and s(x) are any two functions, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09254901960784313,
+      0.16484848484848486,
+      0.47372549019607846,
+      0.1806060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_3",
+    "text": "an(an−1 + an+1). Then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.16545454545454547,
+      0.7074509803921568,
+      0.1812121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_4",
+    "text": "Therefore, if F (x) is the given function, we have and similarly 2b2n + b2n−1 = b2n+1, so that {bn} satis- fies the same recurrence as {an}. Since further b0 = 1, b1 = 2 (where we use the recurrence for {an } to cal- culate a−1 = 0), we deduce that bn = an for all n. In particular, a2 + a2+1 = b2n+2 = a2n+2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.22181818181818183,
+      0.44784313725490194,
+      0.2381818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.26666666666666666,
+      0.9192156862745098,
+      0.3412121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_7",
+    "text": "Second solution: Note that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.34606060606060607,
+      0.7341176470588235,
+      0.3612121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_6",
+    "text": "so we may set f (x) = (3x + 3)/2, g(x) = 5x/2, and h(x) = −x + 2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.3472727272727273,
+      0.49019607843137253,
+      0.3793939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_8",
+    "text": "A−2 First solution: First factor p(x) = q(x)r(x), where q has all real roots and r has all complex roots. Notice that each root of q has even multiplicity, otherwise p would have a sign change at that root. Thus q(x) has a square root s(x).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.3903030303030303,
+      0.49019607843137253,
+      0.4636363636363636
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_10",
+    "text": "and that so that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.46060606060606063,
+      0.6125490196078431,
+      0.47393939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_9",
+    "text": "Now write r(x) = Ikj=1(x − aj)(x − aj) (possible be- cause r has roots in complex conjugate pairs). Write j=1(x − aj) = (x) + iu(x) with t,x having real coeff− cients. Then for x real,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.4696969696969697,
+      0.49019607843137253,
+      0.5296969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.5345454545454545,
+      0.6031372549019608,
+      0.5472727272727272
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_14",
+    "text": "A simple computation (omitted here) now shows that a + an+1 = a2n+2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.603030303030303,
+      0.9192156862745098,
+      0.6339393939393939
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_12",
+    "text": "(Alternatively, one can factor r(x) as a product of quadratic polynomials with real coeffi cients, write each as a sum of squares, then multiply together to get a sum of many squares.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.6139393939393939,
+      0.49098039215686273,
+      0.6721212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_15",
+    "text": "Third solution (by Richard Stanley): Let A be the matrix (i 2) . A simple induction argument shows that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.6387878787878788,
+      0.9192156862745098,
+      0.686060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_13",
+    "text": "Second solution: We proceed by induction on the de- gree of p, with base case where p has degree 0. As in the first solution, we may reduce to a smaller degree in case p has any real roots, so assume it has none. Then p(x) > 0 for all real x, and since p(x) → ∞ for x → ±∞, p has a minimum value c. Now p(x) − c has real roots, so as above, we deduce that p(x) − c is a sum of squares. Now add one more square, namely (√c)2, to get p(x) as a sum of squares.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.6781818181818182,
+      0.49019607843137253,
+      0.8096969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_16",
+    "text": "The desired result now follows from comparing the top left corner entries of the equality An+2An+2 = A2n+4.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.7442424242424243,
+      0.92,
+      0.7733333333333333
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_17",
+    "text": "A–4 Denote the series by S, and let an = 3n/n. Note that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.7866666666666666,
+      0.8964705882352941,
+      0.8024242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_18",
+    "text": "A-3 First solution: Computing the coefficient of xn+1 in the identity(1-2x−x2)m=0ax=1 yields the reur- rence an+1 = 2an + an−1; the sequence {an} is then characterized by this recurrence and the initial condi- tions a0 = 1, a1 = 2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.8218181818181818,
+      0.49019607843137253,
+      0.8957575757575758
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 19
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_19",
+    "text": "Define the sequence {n} by b2n = an−1 + a2, b2n+1 = where the second equality follows by interchanging m",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.8993939393939394,
+      0.49098039215686273,
+      0.9187878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 20
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001_20",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.9012121212121212,
+      0.92,
+      0.916969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_001",
+    "order": 21
+  }
+]

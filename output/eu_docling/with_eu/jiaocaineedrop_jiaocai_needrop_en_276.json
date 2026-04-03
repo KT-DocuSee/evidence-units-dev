@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_276",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_276_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_276_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7т тАк, Ажін DIES.\"",
+        "bbox": [
+          0.10782241003872506,
+          0.10901162842353407,
+          0.913319218611918,
+          0.2354651160142398
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_276",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_276_6",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_276_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Тіт! \" Вт,",
+        "bbox": [
+          0.8149385802249435,
+          0.26016865060976335,
+          0.9133192478507676,
+          0.34598214312117226
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_276_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.17043668006256668,
+          0.51006019115448,
+          0.4989673945506979,
+          0.786112904548645
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_276_2",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "1.",
+        "bbox": [
+          0.24701950874934275,
+          0.8633432535576748,
+          0.30232557679489824,
+          0.8794642853037066
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_276_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "MIt.",
+        "bbox": [
+          0.5623678658763757,
+          0.8808139538424126,
+          0.6131078212272184,
+          0.8982558131634013
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

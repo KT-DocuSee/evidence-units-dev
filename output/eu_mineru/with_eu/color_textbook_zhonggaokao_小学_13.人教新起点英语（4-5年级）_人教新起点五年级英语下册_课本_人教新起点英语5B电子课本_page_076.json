@@ -1,0 +1,159 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_2",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B",
+        "bbox": [
+          0.09679370840895342,
+          0.04731366680917771,
+          0.13793103448275862,
+          0.07752600826564059
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "③ Do a survey and report.",
+        "bbox": [
+          0.11373260738052027,
+          0.04845375516602537,
+          0.5259124823553136,
+          0.0758158757303691
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1088929219600726,
+          0.08550662676357418,
+          0.941318814277072,
+          0.36995867179706426
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fill in the blanks according to the survey.",
+        "bbox": [
+          0.11373260738052027,
+          0.7963517172580875,
+          0.6291591046581972,
+          0.8202935727518883
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.11131276467029642,
+          0.3710987601539119,
+          0.9388989715668482,
+          0.6002565198802907
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14357733413994758,
+          0.6099472709134958,
+          0.9421254285138133,
+          0.7478979620920622
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Let's write.",
+        "bbox": [
+          0.141964105666465,
+          0.7644292432663532,
+          0.3218390804597701,
+          0.7900812312954254
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Joy when she was five.",
+        "bbox": [
+          0.11292599314377899,
+          0.8334045888556363,
+          0.6880419439403106,
+          0.8567764001710133
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_076_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Andy when he was",
+        "bbox": [
+          0.11131276467029642,
+          0.8693173720963374,
+          0.753377697116354,
+          0.8932592275901382
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−2 Put B = max0≤x≤1 |f (x)| and g(x) = Jα f (y) dy. Since g(0) = g(1) = 0, the maximum value of |g(x)| must oc- cur at a critical point y ∈ (0, 1) satisfying g′(y) = f(y) = 0. We may thus take α = y hereafter.",
+        "bbox": [
+          0.09333333333333334,
+          0.06545454545454546,
+          0.49019607843137253,
+          0.12545454545454546
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sequences/). Therein, the sequence is described as the case S(1,5) of the sequence S(ao, a1) in which an+2 is the least integer for which an+2/an+1 > an+1/an. Sloane cites D. W. Boyd, Linear recurrence relations for some generalized Pisot sequences, Advances in Number Theory (Kingston, ON, 1991), Oxford Univ. Press, New York, 1993, p. 333–340.",
+        "bbox": [
+          0.556078431372549,
+          0.06666666666666667,
+          0.9192156862745098,
+          0.1684848484848485
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since Jo f(x) dx = − −α f(1−x)dx, we may assu that α ≤ 1/2. By then substituting −f (x) for f (x) if needed, we may assume that J0 f(x) dx ≥ 0. From the inequality f′(x) ≥ −B, we deduce f (x) ≤ B(α − x) for 0 ≤ x ≤ α, s0",
+        "bbox": [
+          0.12705882352941175,
+          0.12848484848484848,
+          0.49019607843137253,
+          0.20424242424242425
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–4 The number of pairs is 2n+1. The degree condition forces P to have degree n and leading coefficient ±1; we may count pairs in which P has leading coefficient 1 as long as we multiply by 2 afterward.",
+        "bbox": [
+          0.523921568627451,
+          0.17696969696969697,
+          0.9192156862745098,
+          0.23696969696969697
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Factor both sides:",
+        "bbox": [
+          0.5576470588235294,
+          0.2412121212121212,
+          0.6745098039215687,
+          0.25575757575757574
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "as desired.",
+        "bbox": [
+          0.12705882352941175,
+          0.3242424242424242,
+          0.1976470588235294,
+          0.3381818181818182
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−3 First solution: Observing that x2/2 = 13, x3/4 = 34, x4/8 = 89, we guess that xn = 2n−1F2n+3, where Fk is the k-th Fibonacci number. Thus we claim that xn = 2 (α2n+3 − α−(2n+3), where α= 1+√, t0 make the answer x2007 225 (αx3997 − α−3997) $\\\\rc}$",
+        "bbox": [
+          0.09411764705882353,
+          0.3478787878787879,
+          0.49098039215686273,
+          0.43575757575757573
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Then each choice of P, Q corresponds to equating P(X) + Q(X)i with the product of some n factors on the right, in which we choose exactly of the two fac- tors for each j = 0, . . ., n − 1. (We must take exactly n factors because as a polynomial in X with complex co- efficients, P(X) + Q(X)i has degree exactly n. We must choose one for each j to ensure that P(X) + Q(X)i and P(X) − Q(X)i are complex conjugates, so that P, Q have real coefficients.) Thus there are 2n such pairs; multi- plying by 2 to allow P to have leading coefficient –1 yields the desired result.",
+        "bbox": [
+          0.5568627450980392,
+          0.3787878787878788,
+          0.9192156862745098,
+          0.5381818181818182
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We prove the claim by induction; the base case xo = 1 is true, and so it suffices to show that the recursion xn+1 = 3xn + |xn√5 is satisfied for our formula for xn. Indeed, since α2 = 3+√5 2 , we have",
+        "bbox": [
+          0.12549019607843137,
+          0.4387878787878788,
+          0.49098039215686273,
+          0.5012121212121212
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: If we allow P and Q to have complex coeff - cients but still require deg(P) > deg(Q), then the num- ber ofi a) of the 2n factors of X2n + 1 to use to form P(X) + Q(X)i.",
+        "bbox": [
+          0.556078431372549,
+          0.5430303030303031,
+          0.9192156862745098,
+          0.6060606060606061
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now 2nα−(2n+3) = (1−√5)3(3 − √5)n is between −1 and O; the recursion follows since xn, Xn+1 are integers.",
+        "bbox": [
+          0.12627450980392158,
+          0.6018181818181818,
+          0.4894117647058824,
+          0.6345454545454545
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B-5 For n an integer, we have | = n−i for j the unique integer in {0, . ., k − 1} congruent to n modulo k; hence",
+        "bbox": [
+          0.5231372549019608,
+          0.6145454545454545,
+          0.9192156862745098,
+          0.6460606060606061
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: (by Catalin Zara) Since xn is rational, we have 0 < xn √5 − |xn√5 < 1. We now have the inequalities",
+        "bbox": [
+          0.12627450980392158,
+          0.6387878787878788,
+          0.49019607843137253,
+          0.683030303030303
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By expanding this out, we obtain the desired polynomi- als P0(n), . ., k−1(n) .",
+        "bbox": [
+          0.556078431372549,
+          0.7078787878787879,
+          0.9176470588235294,
+          0.7381818181818182
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: Variants of this solution are possible that con- struct the Pj less explicitly, using Lagrange interpolation or Vandermonde determinants.",
+        "bbox": [
+          0.556078431372549,
+          0.7418181818181818,
+          0.9192156862745098,
+          0.7854545454545454
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since 0 < 3 − √5 < 1, this yields |xn+1√5] = 3xn+1 − 4xn, so we can rewrite the recursion as xn+1 = 6xn − 4xn–1 for n ≥ 2. It is routine to solve this recursion to obtain the same solution as above.",
+        "bbox": [
+          0.12705882352941175,
+          0.7884848484848485,
+          0.49019607843137253,
+          0.8484848484848485
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–6 (Suggested by Oleg Golberg) Assume n ≥ 2, or else the problem is trivially false. Throughout this proof, any Ci will be a positive constant whose exact value is imma- terial. As in the proof of Stirling's approximation, we estimate for any fi xed c ∈ R,",
+        "bbox": [
+          0.5231372549019608,
+          0.7945454545454546,
+          0.9192156862745098,
+          0.8678787878787879
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_004_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: With an initial 1 prepended, this becomes sequence A018903 in Sloane's On- Line Encyclopedia of Integer Sequences: (http://www.research.att.com/~njas/",
+        "bbox": [
+          0.12627450980392158,
+          0.8533333333333334,
+          0.49019607843137253,
+          0.9127272727272727
+        ],
+        "order": 18
+      }
+    ]
+  }
+]

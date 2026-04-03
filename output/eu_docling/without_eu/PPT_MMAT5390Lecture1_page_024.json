@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_024_0",
+    "text": "What is a digital image?",
+    "canon_role": "section_header",
+    "bbox": [
+      0.24273256044373043,
+      0.03869047495349848,
+      0.715116271516864,
+      0.09496124083329611
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_024_1",
+    "text": "· Mathematical definition of color image:",
+    "canon_role": "section_header",
+    "bbox": [
+      0.027616297121087183,
+      0.1491402116071393,
+      0.6351744113091453,
+      0.1899224803230533
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_024_2",
+    "text": "A 2D (color) digital image is a 2D function defined on a 2D domain (usually rectangular domain):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07500003184578016,
+      0.199999999974517,
+      0.8958333288486632,
+      0.27713178299714913
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_024_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.29166667145833314,
+      0.29431217006204924,
+      0.7083333381249999,
+      0.3555555527733083
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_024_4",
+    "text": "fR, fG, fB are the intensity/brightness/grey level corresponding to R, G and B respectively ;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0769573137581283,
+      0.3788395657204971,
+      0.9507421207514009,
+      0.46666666658103834
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_024_5",
+    "text": "Combination of R, G, B forms the full spectrum of color!",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10901163792725964,
+      0.4767441868972733,
+      0.7761627711466607,
+      0.5155423286290601
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_024_6",
+    "text": "WE WILL FOCUS ON: Grayscale image!",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2622401082165981,
+      0.5923318241330284,
+      0.7960592765496216,
+      0.6396121306716052
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 7
+  }
+]

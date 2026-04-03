@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_003",
+    "primary_id": "mineru_PPT_EnglishtoAmericanTransition_page_003_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_EnglishtoAmericanTransition_page_003_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The English Contempt for American",
+        "bbox": [
+          0.06066666666666667,
+          0.14666666666666667,
+          0.9266666666666666,
+          0.21688888888888888
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_EnglishtoAmericanTransition_page_003_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "□ For centuries, American has been frowned upon by the English - We, and our language, Were seen as unrefined and uncultured - Perhaps like the US views\"black English\"or\"Southern\" As earlier as 1735, In 1979, 1 Even Price Charles claimed",
+        "bbox": [
+          0.07066666666666667,
+          0.22755555555555557,
+          0.8973333333333333,
+          0.9973333333333333
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

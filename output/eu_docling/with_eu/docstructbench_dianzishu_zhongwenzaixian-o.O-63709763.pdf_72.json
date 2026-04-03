@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_2",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "НОВИДАТІЛИТЬХА | 407642706 | MEANER MEX | MEANER MEX",
+        "bbox": [
+          0.0986275101011002,
+          0.21240367426251208,
+          0.8520296443730143,
+          0.44884206338170873
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "THINEX | TRACEX | TRACEX | FTY BENG 13 | TRACEX | TRACEX | TRACEX | TRACEX",
+        "bbox": [
+          0.09888607325110765,
+          0.5667913912674186,
+          0.8519805835484512,
+          0.8550676425824365
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

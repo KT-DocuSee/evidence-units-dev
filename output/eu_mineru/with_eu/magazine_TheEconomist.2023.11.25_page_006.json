@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.25_page_006",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.25_page_006_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_006_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "From IONiQ 5 to robotaxi. Excellence goes autonomous.",
+        "bbox": [
+          0.0528,
+          0.08136762542484655,
+          0.8818666666666667,
+          0.1769390757368234
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_006_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2744,
+          0.18749048851012023,
+          0.9402666666666667,
+          0.49956881245878354
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_006_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IONIQ 5 robotaxi",
+        "bbox": [
+          0.7245333333333334,
+          0.5009891949474966,
+          0.8882666666666666,
+          0.5188454319484604
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.25_page_006",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.25_page_006_3",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_006_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.058666666666666666,
+          0.5048445188454319,
+          0.5130666666666667,
+          0.7534114543702125
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_006_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Hyundai introduces the IONlQ 5 robotaxi.",
+        "bbox": [
+          0.06,
+          0.7962258408157054,
+          0.34053333333333335,
+          0.810023842134632
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_006_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The lONIQ 5 is proven worldwide for its prowess in electrification and sustainability. With its global award-winning DNA, Hyundai now begins a pivotal journey with the IONIQ 5 robotaxi, a level 4 autonomous vehicle that can drive without a driver. More than 30 sensors including LiDAR, and a computing system allows the robotaxi to detect 360° and make optimal decisions. Hyundai is beginning production of the IONIQ 5 robotaxi, which is set to launch in Las Vegas during the first half of 2024.",
+        "bbox": [
+          0.058666666666666666,
+          0.8124587835438543,
+          0.6192,
+          0.9055952924466089
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

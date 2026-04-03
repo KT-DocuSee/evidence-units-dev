@@ -1,0 +1,195 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "HC1 Mi * 7 100 ml",
+        "bbox": [
+          0.10162601417682933,
+          0.1626984124448841,
+          0.268292680843496,
+          0.17881944419091592
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1&1 *7 El 100 ml",
+        "bbox": [
+          0.1016260142483678,
+          0.21220930271729138,
+          0.24999999953889518,
+          0.22674418580015043
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_12",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(4) 3: 1023k: (164)",
+        "bbox": [
+          0.14634146226606495,
+          0.28488372086605773,
+          0.3536585390550732,
+          0.3008720934871398
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_12",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "it I | 1 1 17 | ₴ HH | AT MI: 15 | IF z ( ml ) | 0.10 | 0.10 | 0.10 | F. Ill ( ml ) | 0.02 | 7K ( ml) | 0.02 | 0.02 | 0.15 | 0.15 | 0.15 | 0.5 | 4 | 4 | 3.5",
+        "bbox": [
+          0.10479104103895584,
+          0.3278855887072825,
+          0.90848017878093,
+          0.49990624619273877
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1500 1 KHAN 001 94 m TAlEn I (0 g, 0.01 g, 0.03 g, 0.05 g, 0.07 g, 01g) 12X50",
+        "bbox": [
+          0.10162603389333498,
+          0.7048611111531149,
+          0.9085365699176405,
+          0.7470930228581688
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(30 min AIE) .",
+        "bbox": [
+          0.4468749981376668,
+          0.5813492059289375,
+          0.5914634156147448,
+          0.5989583329130644
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_5",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(5) 5060044:",
+        "bbox": [
+          0.14627388251266613,
+          0.6072733417032179,
+          0.27649034327045147,
+          0.6238313095552502
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DKA 605 mm, 84% 5mm, 11 1 cm litt.",
+        "bbox": [
+          0.10162603325917803,
+          0.655505952116923,
+          0.5609756019440739,
+          0.6729651157070059
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_8",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_8",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(6) iF :",
+        "bbox": [
+          0.14634146264647846,
+          0.7529069764490103,
+          0.23780488012355636,
+          0.7688953490700925
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1411420698458831,
+          0.7854908130787037,
+          0.9019378766264932,
+          0.829896268788834
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61569751.pdf_155_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.16260162641992335,
+          0.8648255815148614,
+          0.32317073035922994,
+          0.8896329363347502
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

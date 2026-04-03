@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_8",
+    "text": "and that AD < CD. In any dissection of the triangle into four parts, some two of A,B,C, D,E must belong to the same part, forcing the least diameter to be at least 25/13.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909685990056,
+      0.06969246032634983,
+      0.9191729396638392,
+      0.12645348787137148
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_1",
+    "text": "we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12969925055059014,
+      0.07118055539487138,
+      0.184210525248282,
+      0.07994186010641008
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10902256306263233,
+      0.09447674460164969,
+      0.46804510266418486,
+      0.13963293619745876
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_9",
+    "text": "We now exhibit a dissection with least diameter 25/13. (Some variations of this dissection are possible.) Put F = (15/13,19/13), G = (15/13,0), H = (0,19/13), J = (32/15,15/13), and divide ABC into the convex polygonal regions ADFH, BEJ, CGFH, DFGEJ. To check that this dissection has least diameter 25/13, it suffices (by the following remark) to check that the distances",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909765015743,
+      0.1321924602294505,
+      0.9210526404235507,
+      0.24418604615292164
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_3",
+    "text": "By computing so = 1,51 = 1,52 = 0, we may easily verify by induction that s4j = $4j+1 = 1 and s4j+2 = 54j+3 = 0 for all j ≥ 0. (Alternate solution suggested by John Rickert: write S(x, y) = Dio (y +xy?+*253), and note note that sk is the coefficient of y* in S(-1,y) = (1+3)/(1-7*).)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984896398047,
+      0.1626984128654324,
+      0.48882497979084905,
+      0.25145348758200603
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_10",
+    "text": "AD,AF,AH,BE,BJ, DE,CF,CG,CH, DF, DG, DH, DJ, EF, EG, EJ, FG,FH, FJ, GJ",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5657894709586466,
+      0.26016865086349195,
+      0.868421049906015,
+      0.2936507937769418
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_4",
+    "text": "B-5 Define the sequence x1 = 2, xn = 2*n-1 forn > 1. It suffices to show that for every n, Xm = Xm+1 = ... (mod n) for some m < n. We do this by induction on n, with n = 2 being obvious.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586467117918165,
+      0.2616279068309951,
+      0.49080094956785864,
+      0.3183139530350993
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_11",
+    "text": "are all at most 25/13. This can be checked by a long numerical calculation, which we omit in favor of some shortcuts: note that ADFH and BEJ are contained in circular sectors centered at A and B, respectively, of radius 25/13 and angle less than 1/3, while CGF H is a rectangle with diameter CF < 25/13.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390978273191,
+      0.3052325583505595,
+      0.9191729396638392,
+      0.39098837211885956
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_5",
+    "text": "Write n = 2ªb, where b is odd. It suffices to show that Xm = ... modulo 2ª and modulo b, for some m < n. For the former, we only need Xn-1 ≥ a, but clearly Xn-1 = n by induction on n. For the latter, note that Xm = Xm+1 = ... (mod b) as long as Xm- 1 = Xm = ... (mod (b)), where ¢(n) is the Euler totient function. By hypothesis, this occurs for some m < Ф (b) + 1≤ n. (Thanks to Anoop Kulkarni for catching a lethal typo in an earlier version.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954407676258,
+      0.3241279070962568,
+      0.49060151260400175,
+      0.45213293632769325
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_12",
+    "text": "Remark. The preceding argument uses implicitly the fact that for P a simple closed polygon in the plane, if we let S denote the set of points on or within P, then the maximum distance between two points of S occurs between some pair of vertices of P. This is an immediate consequence of the compactness of S (which guarantees the existence of a maximum) and the convexity of the function taking (x, y) € S x S to the squared distance between x and y (which is obvious in terms of Cartesian coordinates).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5562921540267446,
+      0.3968023256581829,
+      0.9210526404235507,
+      0.5411082651505832
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_6",
+    "text": "B-6 The answer is 25/13. Place the triangle on the cartesian plane so that its vertices are at C = (0,0), A = (0,3), B = (4,0). Define also the points D = (20/13,24/13), and E = (27/13,0). We then compute that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466658834576,
+      0.46502976197510343,
+      0.49060150869360897,
+      0.5218253966253735
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.18233082645943083,
+      0.5334302325078677,
+      0.3928571371090347,
+      0.655523255893295
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 13
+  }
+]

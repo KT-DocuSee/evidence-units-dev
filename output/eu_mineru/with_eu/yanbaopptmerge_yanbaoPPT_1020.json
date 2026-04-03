@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1020",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_1020_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1020_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "运用各种描写手法来塑造人物形象。",
+        "bbox": [
+          0.12248468941382328,
+          0.03911111111111111,
+          0.2949631296087989,
+          0.06488888888888888
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_1020_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.03699537557805274,
+          0.09866666666666667,
+          0.9248843894513186,
+          0.9573333333333334
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

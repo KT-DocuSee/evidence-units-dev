@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_0",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.07562008252279459,
+      0.05858678686302871,
+      0.6251260155217686,
+      0.12226807693153818
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_1",
+    "text": "Fig. 2. Diagram of trigger system for rotor-laser synchronization",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6486522634177492,
+      0.09806918670550459,
+      0.8872756349341232,
+      0.12481532853427856
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_2",
+    "text": "Table 1. Example solution for rotor-laser synchronization",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07730052880107892,
+      0.14901421876031215,
+      0.4503596025801989,
+      0.16175047677401405
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_3",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.07562008252279459,
+      0.16557135417812463,
+      0.927606345612947,
+      0.2165163862329322
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_4",
+    "text": "constant rotor frequency, a very accurate and stable phase shift could be achieved.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07562008252279459,
+      0.23434714745211485,
+      0.492370759537307,
+      0.262366915082259
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_7",
+    "text": "Cameras and light sheet traverses",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5074947760418659,
+      0.24835703126718695,
+      0.7494790401148086,
+      0.2636405408836292
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_8",
+    "text": "The PIV system consisted of five digital cameras and three double-pulse Nd:YAG lasers (2×320 mJ each). The output beams from the laser systems were combined to produce an intense light sheet that was approximately 1.5 m wide and 7 mm thick. The resulting sheet was oriented at an angle of 30.6° with respect to the axis of the wind tunnel (Fig. 4). Cameras, lasers and light sheet optics were mounted on a traversing system (the common support system of the DNW-LLF). In this set-up, the distance between the cameras and the light sheet could be kept constant during all PIV measurements. Therefore, a pixel- to-length re-calibration and camera alignment (which usually has to be performed after each change in the set- up) could be avoided. Additional traverses were mounted to the tower of the common support (Fig. 4) in order to move the cameras parallel to the light sheet in an up and down direction (along the z axis). The common support itself allows for positioning the camera view along three axes (Fig. 5), two lateral axes (x and y) and one rotation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5058143297635816,
+      0.2636405408836292,
+      0.922565006778094,
+      0.5387437139795901
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_5",
+    "text": "3 Flow seeding",
+    "canon_role": "section_header",
+    "bbox": [
+      0.07730052880107892,
+      0.27765042469870127,
+      0.17140552038500106,
+      0.30694381813021565
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_6",
+    "text": "Di-ethyl-hexyl-sebacat (DEHS) atomized by Laskin nozzle particle generators was used to seed the flow. The particles were pumped through a distribution rake mounted in the settling chamber of the wind tunnel. The rake was re- motely traversed to guide the homogeneous seed stream to the region of interest. The DEHS droplets generated and distributed by this arrangement have a mean diameter below 1 μm as confirmed by previous tests. The rake and the resulting particle distribution during testing can be seen in Fig. 3. Although seed particles are visible inside the tip vortex, the seeding density is noticeably lower than in the remainder of the flow fi eld. This can be explained by the reduced air density inside the core and centrifugal forces that affect the particle distribution (for a more detailed discussion of particle behaviour, see e.g. Grant 1994).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07730052880107892,
+      0.30694381813021565,
+      0.4940512058155913,
+      0.53747008817822
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_10",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.07562008252279459,
+      0.564216230006994,
+      0.6032802139040724,
+      0.9399358414111998
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_9",
+    "text": "Fig. 3. The distribution of seed particles in the settling chamber and in the test section",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6234455692434843,
+      0.7310612099864887,
+      0.9242454530563783,
+      0.7565337260138925
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3_11",
+    "text": "Fig. 4. PIV cameras and viewing direction (fl ow from above)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6234455692434843,
+      0.9157369511851662,
+      0.8990387588821135,
+      0.9412094672125699
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-003-0689-7.pdf_3",
+    "order": 12
+  }
+]

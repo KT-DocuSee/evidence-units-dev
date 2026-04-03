@@ -1,0 +1,303 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0",
+    "primary_id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2022年12月04日",
+        "bbox": [
+          0.062071745264006446,
+          0.06270485962662106,
+          0.31197097944377267,
+          0.08664671512042184
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0",
+    "primary_id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_5",
+    "source": "visual_seed",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "数据要素化筑基，信创推动加密需求井喷 —格尔软件（603232.SH）公司动态研究报告",
+        "bbox": [
+          0.06771463119709795,
+          0.10146786375944136,
+          0.9705763804917372,
+          0.1675929884566054
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "买入(首次)",
+        "bbox": [
+          0.06529625151148731,
+          0.17443351859769132,
+          0.2434502216848045,
+          0.20122559498361123
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "分析师：宝幼琛S1050521110002 baoyc@cfsc.com.cn",
+        "bbox": [
+          0.07819427650141073,
+          0.21775687615790223,
+          0.33937928254735994,
+          0.2479692176143651
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2022年，在《密码法》及《信息安全技术信息系统密码应用 基本要求》的指导下，各地各行业积极、严谨地开展“商用 密码应用安全性评估”工作，关键信息基础设施、政务信息 系统、等保三级以上信息系统建设均需过密评。另一方面， 行业信创助推商用密码建设，通过构建国产信息系统的软硬 件底层架构以及全周期安全生态，国密产品将实现信创软硬 件体系的全面适配。随着国家政策持续利好及市场需求日益 增加，我国商用密码行业规模整体呈上升趋势，2022年我国 商用密码市场规模有望达到708亿元，同比增长31.2%， 2023年有望达986亿元，同比增长39.3%，预计至2024年我 国商用密码市场规模有望突破千亿。",
+        "bbox": [
+          0.42724707779121324,
+          0.24055864329485535,
+          0.9713825070536074,
+          0.43722388485107594
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06932688432083838,
+          0.26336041043180847,
+          0.37807335751713017,
+          0.4053014108593416
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_7",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(%) —格尔软件 一沪深300 40 20 0 M -20 -40 -60 2 /02 03 04 的 /06 0 08 09 O 心 2 22 2 2 2 2 22 2",
+        "bbox": [
+          0.07255139056831923,
+          0.43779392902949976,
+          0.3724304715840387,
+          0.569474134245404
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "数据加密作为数据要素开发与利用的核心技术，产业应用与 创新发展已延伸至国家基础设施、金融证券、电力能源、数 字经济、数据安全等重要领域。数据确权需要通过数据指 纹、数字签名与时间戳技术，构建数据资产的产权证；其次 在数据共享中需使用同态加密、多方安全计算等隐私计算技 术，实现密文状态下的数据运算处理；资产确权、隐私利用 等数据交易全流程均离不开密码技术。此外，在数据要素融 通过程中，传统的密码技术结合隐私计算等新型密码技术构 筑安全防护边界。在国家大力推动数据要素化的过程中，国 产密码有望率先受益。",
+        "bbox": [
+          0.4280532043530834,
+          0.47028644719965795,
+          0.9705763804917372,
+          0.6487102750463161
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_6",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：Wind，华鑫证券研究",
+        "bbox": [
+          0.07255139056831923,
+          0.5717543109590993,
+          0.2861749294639258,
+          0.5854353712412712
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "公司作为国内公钥基础设施PKI龙头，以密码为基，身份 为中心，在身份管理、认证与访问控制、加解密等技术在行 业内均处于领先地位，也是国家科技支撑计划商用密码基础 设施项目的牵头单位。此外，公司高度重视关键技术自主可 控。其中在身份安全方面，零信任智能策略中心发布新版 本；密码服务方面，发布了面向政务、央企私有云的多租户 密码服务平台；视频安全方面，部署多级联网应用；在车联 网方面，产品从身份认证体系迈向车联网数据安全体系；技 术研究方面，启动了后量子密码（PQC）迁移的技术储备工作 等。随着公司巩固党政、金融优势市场的同时，推进商用密 码与行业应用需求的紧密结合，加速其他应用场景落地，公 司将进一步打开增长空间。",
+        "bbox": [
+          0.4280532043530834,
+          0.6823428815733219,
+          0.9713825070536074,
+          0.8955394043038335
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "预测公司2022-2024年收入分别为7.86、11.0、15.0亿元， EPS分别为0.43、0.66、0.87元，当前股价对应PE分别为",
+        "bbox": [
+          0.426440951229343,
+          0.9291720108308394,
+          0.9657396211205159,
+          0.9650847940715406
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0",
+    "primary_id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "投资要点",
+        "bbox": [
+          0.4207980652962515,
+          0.17443351859769132,
+          0.5675130995566304,
+          0.20236568334045887
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0",
+    "primary_id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_9",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_9",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "█ 政策加码，信创助推商密建设",
+        "bbox": [
+          0.4296654574768239,
+          0.2149066552657831,
+          0.7625957275292221,
+          0.23485820151061707
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0",
+    "primary_id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_11",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_11",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "- 数据要素化筑基，驱动加密需求井喷",
+        "bbox": [
+          0.42724707779121324,
+          0.4446344591705857,
+          0.8440145102781137,
+          0.4645860054154197
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0",
+    "primary_id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_8",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_8",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "相关研究",
+        "bbox": [
+          0.07174526400644901,
+          0.6070970500213767,
+          0.17331721080209592,
+          0.6264785520877868
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0",
+    "primary_id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_13",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_13",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "1 公钥基础设施PKI龙头，产品技术领先",
+        "bbox": [
+          0.426440951229343,
+          0.6561208493658258,
+          0.8681983071342201,
+          0.6760723956106598
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0",
+    "primary_id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_15",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_34d623c64d12b5f02ffe4bff74f464b368270b1d6930192876bfe353d8fd6c30.pdf_0_15",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "」 盈利预测",
+        "bbox": [
+          0.42724707779121324,
+          0.9035200228017671,
+          0.561870213623539,
+          0.9223314806897535
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

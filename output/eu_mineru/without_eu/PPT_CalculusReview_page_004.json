@@ -1,0 +1,28 @@
+[
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_004_0",
+    "text": "Derivative of a line",
+    "canon_role": "section_header",
+    "bbox": [
+      0.24666666666666667,
+      0.08533333333333333,
+      0.7546666666666667,
+      0.16622222222222222
+    ],
+    "page": "PPT_CalculusReview_page_004",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_004_1",
+    "text": "• y=mx+ b • slope m and y axis intercept b derivative of y = ax” + b with respect to x: dy/dx = anx(n-1) Because b is a constant -- think of it as bx0 -- its derivative is Obx-1 = 0 • For a straight line, a = m and n = 1 so dy/dx = m 1 x(0), or because x0 = 1, • dy/dx = m",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05466666666666667,
+      0.2408888888888889,
+      0.9313333333333333,
+      0.8364444444444444
+    ],
+    "page": "PPT_CalculusReview_page_004",
+    "order": 2
+  }
+]

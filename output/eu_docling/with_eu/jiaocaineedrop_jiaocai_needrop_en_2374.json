@@ -1,0 +1,937 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_64",
+    "source": "visual_seed",
+    "member_count": 50,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "YINGYU.",
+        "bbox": [
+          0.10749522463105436,
+          0.08925177956487,
+          0.1483187296693612,
+          0.10423090860804601
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_48",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "—Can I help you?",
+        "bbox": [
+          0.7601744174571959,
+          0.15681502099250655,
+          0.8590116265835019,
+          0.17732962460864002
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_49",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "-I want some flowers. Where are they?",
+        "bbox": [
+          0.7354651155475226,
+          0.19144602851405873,
+          0.9433139510807617,
+          0.24439918494463522
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_16",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "What are they doing?",
+        "bbox": [
+          0.3037790754615371,
+          0.22392211426411457,
+          0.433139531776835,
+          0.24443671788024812
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_50",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "-They are over there. Go straight on.",
+        "bbox": [
+          0.7340116280555276,
+          0.2566063975716715,
+          0.943313948030775,
+          0.3075356417172297
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_17",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "How many pigs are there?",
+        "bbox": [
+          0.30377907159152784,
+          0.25660639808211694,
+          0.4593023263493636,
+          0.27712100169825044
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_18",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Happy New Year.",
+        "bbox": [
+          0.3037790728228437,
+          0.2892057027946723,
+          0.4156976736015748,
+          0.30957230119718104
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_51",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Thank you.",
+        "bbox": [
+          0.7601388965578486,
+          0.32153017909393944,
+          0.835791336946846,
+          0.3424209409084018
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_35",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "high 5. vegetable",
+        "bbox": [
+          0.5072674438875239,
+          0.3482688395461997,
+          0.619186044666255,
+          0.36863543794870834
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "-. 1. A 2. C 3. B 4. C 5. A =,21534",
+        "bbox": [
+          0.3052325580790078,
+          0.3543115436657928,
+          0.47674418342732383,
+          0.4093686356299929
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_52",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "—You're welcome.",
+        "bbox": [
+          0.7616279099724055,
+          0.35431154402220844,
+          0.8633720924985246,
+          0.37482614763834193
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "What are you going to do on sports day?",
+        "bbox": [
+          0.05083549327952243,
+          0.37865090390389616,
+          0.2572674363423896,
+          0.43403665627508325
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_36",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "There is a cat in the tree.",
+        "bbox": [
+          0.5319767408633503,
+          0.4134214184782633,
+          0.6802325583372312,
+          0.43393602209439674
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E,1. A 2. A 3. B 4. A 5. A",
+        "bbox": [
+          0.30523256011883354,
+          0.4175152745419916,
+          0.4811046513818932,
+          0.441955193686114
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_54",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "-. 1. A 2. B 3. C 4. A 5. B",
+        "bbox": [
+          0.7601744205092072,
+          0.41955193517610057,
+          0.9316860403192814,
+          0.4419551932862212
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "We have peanuts and sweets.",
+        "bbox": [
+          0.07558139861837723,
+          0.4460285137911717,
+          0.2456395279441228,
+          0.46843177190129254
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Т. 1. А 2.В З.В 4.В 5. А",
+        "bbox": [
+          0.3037790754510675,
+          0.4499304594363398,
+          0.4752906952611416,
+          0.4725312939286902
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_55",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "=,32514",
+        "bbox": [
+          0.7601315057508765,
+          0.45185202402488345,
+          0.8285312832389796,
+          0.47279156051083393
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "I'm going to swim in the sea.",
+        "bbox": [
+          0.07558140187055738,
+          0.4784422806389719,
+          0.24563953119630297,
+          0.49898166983940784
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_38",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "It's next to a supermarket.",
+        "bbox": [
+          0.533430234641431,
+          0.47844228123065025,
+          0.6889534893992668,
+          0.49694501006027947
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fi. 1. C 2. B 3. A 4. A 5. C",
+        "bbox": [
+          0.30523256361724976,
+          0.4867617108462676,
+          0.47674418342732383,
+          0.5073018083388943
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_56",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "=, 1. В 2. А З.В 4. А 5. А",
+        "bbox": [
+          0.7630813990362553,
+          0.4867617109136895,
+          0.9331395283620009,
+          0.5031293459906871
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_39",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "We have a big family dinner.",
+        "bbox": [
+          0.533430234991953,
+          0.5111265643515132,
+          0.7005813984867291,
+          0.5295549370914296
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I. 1. A 2. B 3. C 4. A 5. A",
+        "bbox": [
+          0.30377906963243684,
+          0.5173116089541047,
+          0.4781976704111679,
+          0.5397148670642253
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_57",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Py, help, want, are, straight, Thank",
+        "bbox": [
+          0.7354651160642695,
+          0.5193482688159299,
+          0.9418604616380158,
+          0.5702647657663215
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_40",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Can I have some sweets, please?",
+        "bbox": [
+          0.5334302406488056,
+          0.5437881871698631,
+          0.713662788227163,
+          0.5622392212807056
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "I'm going to do the high jump.",
+        "bbox": [
+          0.07558139590449052,
+          0.5437881875197232,
+          0.25436046813620705,
+          0.5643254518435878
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2. making",
+        "bbox": [
+          0.36773255871515903,
+          0.5518080665422784,
+          0.42296511386236035,
+          0.5682281059566432
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_27",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "fast 5. from",
+        "bbox": [
+          0.2789251648189471,
+          0.5832714449362666,
+          0.3635166973293715,
+          0.6061379234861866
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4. С 5. B",
+        "bbox": [
+          0.87640752875537,
+          0.584209764142616,
+          0.9317320075102915,
+          0.601126284549156
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_58",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fi. 1. A 2. C 3. B",
+        "bbox": [
+          0.7616279073722132,
+          0.5844923503258335,
+          0.8662790708669893,
+          0.6050069539419669
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_41",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Can I have some bread?",
+        "bbox": [
+          0.533430239460231,
+          0.6109179414578623,
+          0.6729651140281409,
+          0.6272912422091891
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "He's taking pictures.",
+        "bbox": [
+          0.07558139934167621,
+          0.6109179416823619,
+          0.2020348822571609,
+          0.6314325452984954
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_28",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1.1. running 2. taking 3. listening",
+        "bbox": [
+          0.3050196176893454,
+          0.6156677233917784,
+          0.4796511593347651,
+          0.6389147617648105
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_60",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "C 7. B 8. C 9. A 10. C",
+        "bbox": [
+          0.7354651228064565,
+          0.6171079431037991,
+          0.89534883387959,
+          0.6395112012139198
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Do you want some soup?",
+        "bbox": [
+          0.07558139507119908,
+          0.6435845214504768,
+          0.2238372125450799,
+          0.6641168290553978
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_42",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "She's singing a song.",
+        "bbox": [
+          0.5334302384258948,
+          0.6435845214536379,
+          0.6584302308570509,
+          0.6620305981823419
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_61",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Д.1. С 2.С 3. С 4.1 5.А",
+        "bbox": [
+          0.760174423326636,
+          0.6496945010838779,
+          0.9331395336210384,
+          0.6700610994863867
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_29",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "want 5. swim",
+        "bbox": [
+          0.2790697689001519,
+          0.6515994437509273,
+          0.3720930236579877,
+          0.6700610995918476
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "They're going to visit Beijing.",
+        "bbox": [
+          0.07558139946528558,
+          0.6761710795665665,
+          0.2500000002440167,
+          0.6965376779690752
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_62",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "C 7. C 8. B 9. C 10. B 4.21534 1.1.D 2.B 3.E 4. A 5. C Д.1. В 2.А З. В 4. C 5. A",
+        "bbox": [
+          0.7354651162791954,
+          0.6821974966316131,
+          0.9316860435777501,
+          0.7983706721480892
+        ],
+        "order": 54
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. 1. A 2. B 3. C 4. C 5. A",
+        "bbox": [
+          0.303779072100777,
+          0.682197496835279,
+          0.47529069191085105,
+          0.7047983313276295
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "There are three chickens.",
+        "bbox": [
+          0.07558139236771075,
+          0.7086230875511702,
+          0.22383720984159156,
+          0.7291376911673035
+        ],
+        "order": 56
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_44",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "I'm going to visit my grandpa.",
+        "bbox": [
+          0.5334302372801243,
+          0.7086230878645051,
+          0.7063953475745268,
+          0.7270875762109922
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6. B 7.A 8. C 9. A 10. C",
+        "bbox": [
+          0.2790697729276642,
+          0.7148676172382186,
+          0.4404069744851264,
+          0.7372708753483393
+        ],
+        "order": 58
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "We have sweets and peanuts.",
+        "bbox": [
+          0.07558139771600324,
+          0.7392211404224861,
+          0.24563952704174885,
+          0.7597357440386195
+        ],
+        "order": 59
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_45",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "The park is near my school.",
+        "bbox": [
+          0.5334302380439433,
+          0.7413073715566799,
+          0.6947674396014054,
+          0.7576495134203793
+        ],
+        "order": 60
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_32",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "+. 25341",
+        "bbox": [
+          0.30518557215241965,
+          0.7471817126194268,
+          0.3706865203166177,
+          0.7701298967853286
+        ],
+        "order": 61
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_64",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.43657739802690787,
+          0.7532749038840694,
+          0.575845607156115,
+          0.9638814816640379
+        ],
+        "order": 62
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E HE HE E",
+        "bbox": [
+          0.46802325594318733,
+          0.9164969457091967,
+          0.5363372103116575,
+          0.9551934814802127
+        ],
+        "order": 65
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_33",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+-. 1. B 2.C 3. A 4. B 5. С 6. В",
+        "bbox": [
+          0.5072159850738877,
+          0.12413073707629903,
+          0.7005813958283137,
+          0.17950358617483175
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_63",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14 ОТР, НЕХіТ.",
+        "bbox": [
+          0.760174418629161,
+          0.12413073725450685,
+          0.8779069737763624,
+          0.1467315717468574
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "t. 1. are",
+        "bbox": [
+          0.3023255835819226,
+          0.5518080665427454,
+          0.3575581387291239,
+          0.5723226701588788
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_63",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05198709530483655,
+          0.9063878893927445,
+          0.16615052631726962,
+          0.9481928972791798
+        ],
+        "order": 63
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1÷92",
+        "bbox": [
+          0.08575581430872967,
+          0.9083503056772463,
+          0.12645348731917733,
+          0.9348268832025908
+        ],
+        "order": 64
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_1",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Unit 2",
+        "bbox": [
+          0.1365066222806849,
+          0.13800961812899545,
+          0.17308640149690632,
+          0.15730606396228916
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Can I have some rice?",
+        "bbox": [
+          0.30377907416559374,
+          0.156815020695727,
+          0.43459302096522023,
+          0.17922606869355315
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Where is the cinema?",
+        "bbox": [
+          0.30377906680733807,
+          0.19144602887070758,
+          0.4316860477759951,
+          0.21181262727321637
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "juice 2. strong 3. long jump 4. talk to 5. how much",
+        "bbox": [
+          0.05087208999739908,
+          0.28303198865544205,
+          0.24999999980797025,
+          0.33414464532611354
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_34",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_34",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "sheep 2. beside 3. photo",
+        "bbox": [
+          0.5319767462693379,
+          0.31568228105988355,
+          0.6875000010271737,
+          0.33414464519299414
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_53",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_53",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "#***",
+        "bbox": [
+          0.7600420145532237,
+          0.3862956819763264,
+          0.8111789169536493,
+          0.40800167019577743
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_37",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Amy is reading a book.",
+        "bbox": [
+          0.5319767436306444,
+          0.44602851338530364,
+          0.6700581428519135,
+          0.46639511178781257
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "There is a girl on the bike.",
+        "bbox": [
+          0.07412790990674716,
+          0.5111265646233013,
+          0.23401162097988085,
+          0.5316411682394349
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_26",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3. ride",
+        "bbox": [
+          0.434471890758211,
+          0.5513650194971537,
+          0.4725048539205878,
+          0.5687979127647467
+        ],
+        "order": 38
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2374",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_43",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_2374_43",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "She can ride a bike.",
+        "bbox": [
+          0.5319767466125296,
+          0.6761710794472945,
+          0.6511627922440594,
+          0.6926286510526106
+        ],
+        "order": 52
+      }
+    ]
+  }
+]

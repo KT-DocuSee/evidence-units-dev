@@ -1,0 +1,234 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572",
+    "primary_id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ring, and Jacobson semisimple, by Corollary 8.35(ii)]. The factor module J9 / J9+1 is an (R/J)-module; hence, by Corollary 8.43, J9 / J9+' is a semisimple module, and so it can be decomposed into a direct sum of (possibly infinitely many) simple (R/ J)-modules. But there can be only finitely many summands, for every (R/J)-submodule of J9 / J9+1 is necessarily an R-submodule, and J9 / J9+' has the DCC on R-submodules. Hence, there are simple (R/ J)-modules S; with",
+        "bbox": [
+          0.20291119949492972,
+          0.14946818213581495,
+          0.7933342350247558,
+          0.24131944446211276
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572",
+    "primary_id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.39255697147913554,
+          0.2490523898841932,
+          0.6074625989048716,
+          0.2676482045890882
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572",
+    "primary_id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_4",
+    "source": "text_cluster",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Throwing away one simple summand at a time yields a series of J9 / J9+1 whose ith factor module is",
+        "bbox": [
+          0.20488723512152135,
+          0.2760416667515431,
+          0.7932330773972754,
+          0.3040869937433742
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3364661705407226,
+          0.3080357140879133,
+          0.6616541376672971,
+          0.32267441852786366
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now the simple (R/J)-module Si is also a simple R-module, for it is an R-module annihilated by J, so that we have constructed a composition series for J9 / J9+1 as a left R-module. Finally, refine the original series for R in this way, for every q, to obtain a composition series for R. ·",
+        "bbox": [
+          0.20480331386597178,
+          0.32837301607890573,
+          0.7933260327338112,
+          0.3866567461704277
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Of course, the converse of Theorem 8.46 is false.",
+        "bbox": [
+          0.2255639157869593,
+          0.39533730175978754,
+          0.5469924816190557,
+          0.40848214302962893
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The next result is fundamental.",
+        "bbox": [
+          0.2255639151102675,
+          0.4113372094601767,
+          0.428571428310785,
+          0.42162698398780196
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Theorem 8.47 (Maschke's Theorem). If G is a finite group and k is a field whose characteristic does not divide |G|, then kG is a left semisimple ring.",
+        "bbox": [
+          0.20488721967418538,
+          0.44040697671834966,
+          0.7932330641594938,
+          0.4694940474208045
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. The hypothesis always holds if k has characteristic 0.",
+        "bbox": [
+          0.20676692801625834,
+          0.49127907041451296,
+          0.6635338229235914,
+          0.504464285789293
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. By Proposition 8.42, it suffices to prove that every left ideal I of kG is a direct summand. Since k is a field, kG is a vector space over k and I is a subspace. By Corollary 6.49, I is a (vector space) direct summand: There is a subspace V (which may not be a left ideal in kG) with kG = 1 @ V. There is a k-linear transformation d : kG → 1 with d(b) = b for all b € I and with ker d = V [each u € kG has a unique expression of the form u = b + v, where b € I and v € V, and d(u) = b]. Were d a kG-map, not merely a k-map, then we would be done, by the criterion of Corollary 7.17: I is a summand of kG if and only if it is a retract; that is, there is a kG-map D: kG → I with D(u) = u for all u € I. We now force d to be a kG-map by an \"averaging\" process.",
+        "bbox": [
+          0.20300751849121207,
+          0.5188492062105247,
+          0.793233091369666,
+          0.6526162785690459
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Define D : kG → kG by",
+        "bbox": [
+          0.2255639090438677,
+          0.6555059524842975,
+          0.39097744847492916,
+          0.6671626985160435
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572",
+    "primary_id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_13",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4096461888462294,
+          0.682207997463463,
+          0.5890971037805832,
+          0.712209301930538
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572",
+    "primary_id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for all u € kG. Note that |G| # 0 in k, by the hypothesis on the characteristic of k, and so it is invertible. It is obvious that D is a k-map. (i) im D C1.",
+        "bbox": [
+          0.203007518162594,
+          0.7223837214915161,
+          0.7932330722343682,
+          0.7674418599643946
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_book_en_5.Advanced.Modern.Algebra.-.J.Rotman.2003_page_572_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If u € kG and x € G, then d(x-'u) € I (because imd ( 1), and xd(x-'u) € 1 because I is a left ideal. Therefore, D(u) € I, for each term in the defining sum of D(u) lies in I.",
+        "bbox": [
+          0.20458593212095316,
+          0.765873016081539,
+          0.7932330788681401,
+          0.8100693130311767
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

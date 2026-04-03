@@ -1,0 +1,179 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_0",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(a) 0 ③H。 $CH$ $H_$C$ 0 H 出 CE₃$ (b) (a) (e) a () d 5.2 5.0 4.8 4.6 4.4 4.2 4.0 3.8 3.6 3.4 3.2 (b) (a) (e) [Ace] 1 () (0)hu 5.2 5.0 4.8 4.6 4.4 4.2 4.0 3.8 3.6 3.4 3.2 (b) (e) (a) [F2] 人 (0) ( 5.2 5.0 4.8 4.6 4.4 4.2 4.0 3.8 3.6 3.43.2 No. Group [C1] [Ace] [NTf2]− a N(CH3)2 3.45(s) 3.25(s) 3.12(s) b CH2 5.17(s) 4.84(s) 4.65(s) c CH2$ 4.01(t, J=4.8)3.82(t, J=4.8) 3.65(t, J=4.8) d CH2$ 4.55(t,J=4.8) 4.51(t,J=4.8) 4.47(t, =4.8) e CH2$ 3.89(t,J=6.6)3.80(t,J=6.6) 3.79(t,J=6.6)",
+        "bbox": [
+          0.08738320647078486,
+          0.08194385278671334,
+          0.47220540419789514,
+          0.40378130358670344
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5192578999898562,
+          0.083131444856086,
+          0.9158432216649567,
+          0.33371337149371666
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5142165611550032,
+          0.4014061194479581,
+          0.922565006778094,
+          0.48453756430404415
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_4",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 2. ORTEP illustrations of the asymmetric units observed for 1j (top) and 1m (bottom); ellipsoids are drawn at the 50 % probability level.",
+        "bbox": [
+          0.5125361148767189,
+          0.34202651597932526,
+          0.922565006778094,
+          0.3752790939217597
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_2",
+        "observed_type": "image_footnote",
+        "canon_role": "support_paragraph",
+        "text": "In CDCl3, s-singlet, t-triplet, Jin Hz.",
+        "bbox": [
+          0.09242454530563783,
+          0.40615648772544877,
+          0.2839954210300508,
+          0.4168448163498027
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_6",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 1. Chemical shifts in proton signals.",
+        "bbox": [
+          0.07562008252279459,
+          0.42397036876603866,
+          0.31088256148259996,
+          0.4358462894597652
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "monium chloride (1j) and cyclododecyloxymethyl(2-hydroxy- ethyl)dimethylammonium chloride (1m)—were determined (Figure 2). They both display similar packing modes (Figure 3), exhibiting double layers, with the individual cat- ions packed in head-to-head arrangements, although in 1j the long alkyl chains interdigitate while the cyclic alkyl groups in Im do not. The head-to-head orientations gener- ate hydrophobic regions created by the aliphatic tail groups",
+        "bbox": [
+          0.07562008252279459,
+          0.4560353546391004,
+          0.48396852814588537,
+          0.48453756430404415
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11427034692333404,
+          0.502351445344634,
+          0.8755125109861329,
+          0.8538786978789406
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-chem.200700285.pdf_4_8",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 3. Packing diagrams for 1j (left) and 1m (right) viewed down a) the a axis, b) the b axis, and c) the ab diagona.",
+        "bbox": [
+          0.07225918996622595,
+          0.8621918423645492,
+          0.7293136847753967,
+          0.8752553551276484
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

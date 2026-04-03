@@ -1,0 +1,214 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_16",
+    "source": "visual_seed",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_16",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Constant | Value Meaning | kAlertStdAlertOKButton | 1 | The OK push button. The default text for this push buton is | kAlertStdAlertCancelButton | The Cancel push button (optional). The default text for this push button is \"Cancel\". | kAlertStdAlertOtherButton | 3 | A third push button (optional). The default text for this push button is \"Don't Save\". | kAlertStdAlertHelpButton | 4 | The Help push button (optional).",
+        "bbox": [
+          0.1035964786305147,
+          0.08394887750799006,
+          0.8234059771369485,
+          0.1973475508256392
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Creating Dialog Boxes",
+        "bbox": [
+          0.09398496372180447,
+          0.2266865079518433,
+          0.30451127951127815,
+          0.24709302283110032
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Dialog boxes may be created in one of two ways:",
+        "bbox": [
+          0.11842106248087336,
+          0.26162790687823345,
+          0.4586466151976979,
+          0.27480158733509125
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Using the function GetNewDialog, which takes descriptive information about the dialog from dialog (*DLOG*) and extended dialog (\"digx*) resources. The resource ID of the \"DLOG\" and ·digx\" resources must be the same, and is passed in the first parameter of this function.",
+        "bbox": [
+          0.16353381777008275,
+          0.28769841245094024,
+          0.8402255499825209,
+          0.3313953491739132
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Using NewDialog, NewColorDialog, Or NewFeaturesDialog, which take descriptive information passed in the parameters of those functions.",
+        "bbox": [
+          0.16165416343729433,
+          0.3444767444081828,
+          0.8402255584298728,
+          0.3706395347886438
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The extended dialog resource and the NewFeaturesDialog function were introduced with OS 8 and the Appearance Manager. NewFeaturesDialog should be used to create Appearance-compliant dialogs. Unlike NewDialog and NewColorDialog, it has a flags parameter containing the same flags you would set in an extended dialog resource.",
+        "bbox": [
+          0.16907839068610228,
+          0.41846859901425576,
+          0.7838345714711945,
+          0.4680232557479461
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If NULL is specified as the second parameter in the GetNewDialog Call, GetNewDialog itself creates a nonrelocatable block for the dialog structure. Passing NULL is appropriate for modal and movable modal dialog boxes because you should dispose of the dialog box, and hence the associated dialog structure, when the user dismisses the dialog. However, in order to avoid heap fragmentation effects, you should ordinarily allocate your own memory for modeless dialog box dialog structures (just as you would for a window structure) and specify the pointer to that memory block in the second parameter of the GetNewDialog call.",
+        "bbox": [
+          0.11654134132205558,
+          0.49127906997846643,
+          0.8421052760100086,
+          0.5886627905943292
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Regardless of which method is used to create the dialog, a dialog structure and a window structure will be created, and a pointer to the dialog structure will be returned to the calling function.",
+        "bbox": [
+          0.11842104746459106,
+          0.6046511628082555,
+          0.8402255703433744,
+          0.63081395362322
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The dialog structure created by the GetNewDialog call is defined by the data type DialogRecord:",
+        "bbox": [
+          0.11654136462777091,
+          0.6758432542037245,
+          0.7819548648835075,
+          0.6904761907116609
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_10",
+        "observed_type": "code",
+        "canon_role": "support_paragraph",
+        "text": "struct DialogRecord WindowRecord window; Handle items: TEHandle textH; SInt16 editField; SInt16 editOpen; SInt16 aDefItem; // Dialog's window record. // Item list resource. \" Current ditable text ite minus 1. \" Dosed i pernallyion item number. typedef struct DialogRecord DialogRecord;",
+        "bbox": [
+          0.1409774559930873,
+          0.701794435483259,
+          0.6522556371297074,
+          0.8124999998855431
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "typedef DialogRecord *DialogPeek;",
+        "bbox": [
+          0.1428571519987265,
+          0.8125000001154575,
+          0.4003759350000202,
+          0.8226744183680695
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note that the dialog structure includes a window structure field. The Dialog Manager sets the windowKind field of this window structure to kDialogWindowKind.",
+        "bbox": [
+          0.11654136413568013,
+          0.8357558142102315,
+          0.8383458642209254,
+          0.8633720925699832
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_4",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Historical Note",
+        "bbox": [
+          0.16917293499874272,
+          0.39533730137494477,
+          0.2706766915990015,
+          0.4069940474066909
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_8",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-chap08.pdf_12_8",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "The Dialog Structure",
+        "bbox": [
+          0.09210526183709682,
+          0.6423611108846407,
+          0.2669172947105223,
+          0.662790697491953
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

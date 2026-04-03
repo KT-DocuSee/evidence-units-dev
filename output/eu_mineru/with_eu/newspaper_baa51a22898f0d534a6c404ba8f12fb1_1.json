@@ -1,0 +1,845 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "general public (Public Representative) in this docket.",
+        "bbox": [
+          0.07294117647058823,
+          0.07393939393939394,
+          0.33098039215686276,
+          0.0993939393939394
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Service filed a formal request and associated supporting information to add Priority Mail & First-Class Package Service Contract 6 to the competitive product list.1",
+        "bbox": [
+          0.3615686274509804,
+          0.07393939393939394,
+          0.6258823529411764,
+          0.13757575757575757
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_33",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By the Commission.",
+        "bbox": [
+          0.6635294117647059,
+          0.07393939393939394,
+          0.7850980392156863,
+          0.08545454545454545
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_34",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Shoshana M. Grove, Secretary. [FR Doc.2015–16926 Filed7–9–15; 8:45 am] BILLING CODE 7710-FW-P",
+        "bbox": [
+          0.6494117647058824,
+          0.08666666666666667,
+          0.8894117647058823,
+          0.1406060606060606
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "III. Ordering Paragraphs",
+        "bbox": [
+          0.07294117647058823,
+          0.10666666666666667,
+          0.24392156862745099,
+          0.1193939393939394
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is ordered: 1. The Commission reopens Docket No. CP2014–63 for consideration of matters raised by the Postal Service's Notice.",
+        "bbox": [
+          0.07215686274509804,
+          0.12242424242424242,
+          0.32862745098039214,
+          0.18424242424242424
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Postal Service contemporaneously filed a redacted contract related to the proposed new product under 39 U.S.C. 3632(b)(3) and 39 CFR 3015.5. Id. Attachment B.",
+        "bbox": [
+          0.3615686274509804,
+          0.14,
+          0.6282352941176471,
+          0.20303030303030303
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_35",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_35",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "POSTAL REGULATORY COMMISSION",
+        "bbox": [
+          0.6517647058823529,
+          0.16363636363636364,
+          0.9192156862745098,
+          0.17636363636363636
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_36",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_36",
+        "observed_type": "text",
+        "canon_role": "topic_title",
+        "text": "[Docket Nos. MC2015-61and CP2015-92; Order No. 2564]",
+        "bbox": [
+          0.6525490196078432,
+          0.18303030303030304,
+          0.912156862745098,
+          0.20666666666666667
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.Pursuant to 39 U.S.C. 505, the Commission appoints Curtis E. Kidd to serve as an officer of the Commission (Public Representative) to represent the interests of the general public in this proceeding.",
+        "bbox": [
+          0.07294117647058823,
+          0.18484848484848485,
+          0.3388235294117647,
+          0.2593939393939394
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To support its Request, the Postal Service filed a copy of the contract, a copy of the Governors' Decision authorizing the product, proposed changes to the Mail Classifi cation Schedule, a Statement of Supporting Justification, a certification of compliance with 39 U.S.C. 3633(a), and an application for non-public treatment of certain materials. It also filed supporting financial workpapers.",
+        "bbox": [
+          0.3615686274509804,
+          0.20727272727272728,
+          0.6305882352941177,
+          0.34545454545454546
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "New Postal Product",
+        "bbox": [
+          0.6509803921568628,
+          0.21636363636363637,
+          0.7905882352941176,
+          0.22848484848484849
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_38",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "AGENcy: Postal Regulatory Commission. ACTION: Notice.",
+        "bbox": [
+          0.6509803921568628,
+          0.23575757575757575,
+          0.9207843137254902,
+          0.263030303030303
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3. Comments are due no later than July13, 2015.",
+        "bbox": [
+          0.07215686274509804,
+          0.26,
+          0.3207843137254902,
+          0.28424242424242424
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "suMMARy: The Commission is noticing a recent Postal Service filing concerning the addition of Priority Mail Contract 128 to the competitive product list. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+        "bbox": [
+          0.6509803921568628,
+          0.27151515151515154,
+          0.923921568627451,
+          0.3606060606060606
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4. The Secretary shall arrange for publication of this order in the Federal Register.",
+        "bbox": [
+          0.07215686274509804,
+          0.28484848484848485,
+          0.33725490196078434,
+          0.32242424242424245
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By the Commission. Shoshana M. Grove, Secretary. [FR Doc.2015–16832Filed7–9–15;8:45am] BILLING CODE7710-FW-P",
+        "bbox": [
+          0.07137254901960784,
+          0.32666666666666666,
+          0.312156862745098,
+          0.3933333333333333
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_24",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_24",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "II. Notice of Commission Action",
+        "bbox": [
+          0.3623529411764706,
+          0.3515151515151515,
+          0.5819607843137254,
+          0.36424242424242426
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DATEs: Comments are due: July 13, 2015.",
+        "bbox": [
+          0.6509803921568628,
+          0.3624242424242424,
+          0.8878431372549019,
+          0.38666666666666666
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Commission establishes Docket Nos. MC2015-63 and CP2015-94 to consider the Request pertaining to the proposed Priority Mail & First-Class Package Service Contract 6 product and the related contract, respectively.",
+        "bbox": [
+          0.3615686274509804,
+          0.37212121212121213,
+          0.6298039215686274,
+          0.4478787878787879
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ADDREssEs: Submit comments electronically via the Commission's Filing Online system at http:// www.prc.gov. Those who cannot submit comments electronically should contact the person identified in the FoR FURTHER INFORMATION CONTACT SeCtion by telephone for advice on filing alternatives.",
+        "bbox": [
+          0.6501960784313725,
+          0.39151515151515154,
+          0.9254901960784314,
+          0.5048484848484849
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_7",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "POSTAL REGULATORY COMMISSION",
+        "bbox": [
+          0.07372549019607844,
+          0.4163636363636364,
+          0.3419607843137255,
+          0.4290909090909091
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_8",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_8",
+        "observed_type": "text",
+        "canon_role": "topic_title",
+        "text": "[Docket Nos. MC2015-63and CP2015-94; Order No. 2567]",
+        "bbox": [
+          0.07215686274509804,
+          0.43575757575757573,
+          0.33647058823529413,
+          0.4593939393939394
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Commission invites comments on whether the Postal Service's filings in the captioned dockets are consistent with the policies of 39 U.S.C. 3632, 3633, or 3642, 39CFR part 3015, and 39 CFR part 3020, subpart B. Comments are due no later than July 14, 2015. The public portions of these filings can be accessed via the Commission's Web site (http://www.prc.gov).",
+        "bbox": [
+          0.3615686274509804,
+          0.4509090909090909,
+          0.6352941176470588,
+          0.5775757575757576
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "New Postal Product",
+        "bbox": [
+          0.07294117647058823,
+          0.4690909090909091,
+          0.21254901960784314,
+          0.4812121212121212
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_10",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "AGENcy: Postal Regulatory Commission. ACTION: Notice.",
+        "bbox": [
+          0.07294117647058823,
+          0.48848484848484847,
+          0.3427450980392157,
+          0.5157575757575757
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_42",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_42",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "FOR FURTHER INFORMATION CONTACT:",
+        "bbox": [
+          0.6509803921568628,
+          0.5103030303030303,
+          0.8909803921568628,
+          0.5212121212121212
+        ],
+        "order": 27
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "David A. Trissell, General Counsel, at 202–789–6820.",
+        "bbox": [
+          0.6494117647058824,
+          0.5224242424242425,
+          0.9074509803921569,
+          0.5466666666666666
+        ],
+        "order": 28
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SUMMARY: The Commission is noticing a recen Postal Service filing concerni the addition of Priority Mail & First- Class Package Service Contract 6 to the competitive product list. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+        "bbox": [
+          0.07215686274509804,
+          0.5236363636363637,
+          0.3427450980392157,
+          0.6260606060606061
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_44",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_44",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "SUPPLEMENTARY INFORMATION:",
+        "bbox": [
+          0.6517647058823529,
+          0.5503030303030303,
+          0.8486274509803922,
+          0.5612121212121212
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_45",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_45",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Table of Contents",
+        "bbox": [
+          0.6509803921568628,
+          0.5678787878787879,
+          0.7717647058823529,
+          0.58
+        ],
+        "order": 31
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Commission appoints Lyudmila Y. Bzhilyanskaya to serve as Public Representative in these dockets.",
+        "bbox": [
+          0.3615686274509804,
+          0.58,
+          0.6250980392156863,
+          0.6181818181818182
+        ],
+        "order": 32
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I. Introduction II. Notice of Commission Action III. Ordering Paragraphs",
+        "bbox": [
+          0.6509803921568628,
+          0.5866666666666667,
+          0.8454901960784313,
+          0.6212121212121212
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_28",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_28",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "III. Ordering Paragraphs",
+        "bbox": [
+          0.3623529411764706,
+          0.6242424242424243,
+          0.5325490196078432,
+          0.6375757575757576
+        ],
+        "order": 34
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DATEs: Comments are due: July 14, 2015.",
+        "bbox": [
+          0.07294117647058823,
+          0.6278787878787879,
+          0.30901960784313726,
+          0.6527272727272727
+        ],
+        "order": 35
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_47",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_47",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "I. Introduction",
+        "bbox": [
+          0.6509803921568628,
+          0.6278787878787879,
+          0.7521568627450981,
+          0.6393939393939394
+        ],
+        "order": 36
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is ordered: 1. The Commission establishes Docket Nos. MC2015-63 and CP2015-94 to consider the matters raised in each docket.",
+        "bbox": [
+          0.3607843137254902,
+          0.6448484848484849,
+          0.636078431372549,
+          0.7109090909090909
+        ],
+        "order": 37
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In accordance with 39 U.S.C. 3642 and 39 CFR 3020.30 et seq., the Postal Service filed a formal request and associated supporting information to add Priority Mail Contract 128 to the competitive product list.1",
+        "bbox": [
+          0.6501960784313725,
+          0.6448484848484849,
+          0.908235294117647,
+          0.7193939393939394
+        ],
+        "order": 38
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ADDREssEs: Submit comments electronically via the Commission's Filing Online system at http:// www.prc.gov. Those who cannot submit comments electronically should contact the person identified in the FoR FURTHER INFORMATION CONTACT Section by telephone for advice on filing alternatives.",
+        "bbox": [
+          0.07215686274509804,
+          0.656969696969697,
+          0.3458823529411765,
+          0.7703030303030303
+        ],
+        "order": 39
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.Pursuant to 39 U.S.C. 505, Lyudmila Y. Bzhilyanskaya is appointed to serve as an officer of the Commission to represent the interests of the general public in these proceedings (Public Representative).",
+        "bbox": [
+          0.3615686274509804,
+          0.713939393939394,
+          0.636078431372549,
+          0.7903030303030303
+        ],
+        "order": 40
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Postal Service contemporaneously filed a redacted contract related to the proposed new product under 39 U.S.C. 3632(b)(3) and 39 CFR 3015.5. Id. Attachment B.",
+        "bbox": [
+          0.6509803921568628,
+          0.7206060606060606,
+          0.9192156862745098,
+          0.7824242424242425
+        ],
+        "order": 41
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_14",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_14",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "FOR FURTHER INFORMATION CONTACT:",
+        "bbox": [
+          0.07450980392156863,
+          0.7763636363636364,
+          0.312156862745098,
+          0.7866666666666666
+        ],
+        "order": 42
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_50",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To support its Request, the Postal Service fi led a copy of the contract, a copy of the Governors'Decision authorizing the product, proposed changes to the Mail Classification Schedule, a Statement of Supporting Justification, a certification of",
+        "bbox": [
+          0.6509803921568628,
+          0.7830303030303031,
+          0.9019607843137255,
+          0.8703030303030304
+        ],
+        "order": 43
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "David A. Trissel, General Counsel, at 202-789–6820.",
+        "bbox": [
+          0.07294117647058823,
+          0.7884848484848485,
+          0.32784313725490194,
+          0.8121212121212121
+        ],
+        "order": 44
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3. Comments are due no later than July14, 2015.",
+        "bbox": [
+          0.3615686274509804,
+          0.7927272727272727,
+          0.6094117647058823,
+          0.8181818181818182
+        ],
+        "order": 45
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_16",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_16",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "SUPPLEMENTARY INFORMATION:",
+        "bbox": [
+          0.07372549019607844,
+          0.8157575757575758,
+          0.27058823529411763,
+          0.8266666666666667
+        ],
+        "order": 46
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4. The Secretary shall arrange for publication of this order in the Federal Register.",
+        "bbox": [
+          0.3607843137254902,
+          0.8206060606060606,
+          0.6266666666666667,
+          0.8581818181818182
+        ],
+        "order": 47
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_17",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_17",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Table of Contents",
+        "bbox": [
+          0.07294117647058823,
+          0.833939393939394,
+          0.19215686274509805,
+          0.8460606060606061
+        ],
+        "order": 48
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I. Introduction II. Notice of Commission Action II. Ordering Paragraphs",
+        "bbox": [
+          0.07294117647058823,
+          0.8527272727272728,
+          0.26666666666666666,
+          0.8872727272727273
+        ],
+        "order": 49
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "section_text_panel",
+    "page": "newspaper_baa51a22898f0d534a6c404ba8f12fb1_1",
+    "primary_id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_19",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_19",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "I. Introduction",
+        "bbox": [
+          0.07215686274509804,
+          0.8933333333333333,
+          0.17411764705882352,
+          0.9054545454545454
+        ],
+        "order": 50
+      },
+      {
+        "id": "mineru_newspaper_baa51a22898f0d534a6c404ba8f12fb1_1_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In accordance with 39 U.S.C. 3642 and 39 CFR 3020.30 et seq., the Postal",
+        "bbox": [
+          0.07215686274509804,
+          0.9103030303030303,
+          0.33019607843137255,
+          0.9357575757575758
+        ],
+        "order": 51
+      }
+    ]
+  }
+]

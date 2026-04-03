@@ -1,0 +1,113 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_118",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_0",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "意义：接应上海大都市的辐射，呼应哺东开发，进一步对外开放，加快长三角城 市带的形成，加强城际联系和协调发展，促进苏北及革命老区的经济发展.加强 苏北苏南的联系和协调发展、加快苏南产业结构升级和苏北工业化进程.缩小苏北 苏南差距。",
+        "bbox": [
+          0.11808461180846118,
+          0.15531424810793024,
+          0.9456066945606695,
+          0.2711418229680816
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.港口的建设(上海、纽约等)",
+        "bbox": [
+          0.13761041376104138,
+          0.31260282987824944,
+          0.4630404463040446,
+          0.3336623889437315
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "苟兰的鹿特丹的区位因素：",
+        "bbox": [
+          0.16922361692236168,
+          0.3415597235932873,
+          0.4621106462110646,
+          0.3645936163211583
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "地理位置：位置适中，位于欧洲西部的中部. 自然区位：位于亲茵河口，河海联运便利：港阔水深.不淤不冻；地形平 坦，有利于建港口.",
+        "bbox": [
+          0.1682938168293817,
+          0.3468246133596578,
+          0.9390980939098094,
+          0.45804540967423496
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "社会经济因素：经济腹地广阔：位于第二条欧亚大陆桥的终点，连接中欧. 中亚、乐亚等地；以鹿特丹为依托。",
+        "bbox": [
+          0.12366341236634124,
+          0.46725896676538337,
+          0.9400278940027894,
+          0.5205659756498848
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_118",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_6",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1199442119944212,
+          0.43632773938795655,
+          0.298465829846583,
+          0.45804540967423496
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_118_6",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06787540678754068,
+          0.6883843369529451,
+          0.9744304974430498,
+          0.7403751233958539
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

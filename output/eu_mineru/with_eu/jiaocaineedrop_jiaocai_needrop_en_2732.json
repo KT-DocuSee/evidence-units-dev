@@ -1,0 +1,413 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2732",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_15",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(2)若线性回归模型来拟合数据的变化关系,求得y关于x的回归程y=0.06e0.2303x， 且相关系数为R²=0.9672. ①试与（1）中的回归模型相，R²说明哪种模型的拟合效果更好； ②拟合效果好的模型预测温度为35℃时该组昆产卵数(结果四舍五取整数). 附参考公式：对于一组具有线性相关关系的数据(x1，y1),(x2y2),……,(xn，y)，其回归直线=bx+a ∑ (xi −x)(yi−y) 的截距和斜率的最乘法估计公式分别为：b= i=1 (x1-x)$ ,a=y−bx，相关系数:R2=1− (vi−2) .参考数据：08.0605≈3167. ∑(yi−y)2",
+        "bbox": [
+          0.5444106720702465,
+          0.08273667462211615,
+          0.9415737926376224,
+          0.32776451869530626
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2732",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14.已知α∈( π π ,sinα+cosα 13则t 7 tana=",
+        "bbox": [
+          0.05988967691095351,
+          0.08655529037390612,
+          0.32736688055836993,
+          0.11710421638822593
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2732",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_12",
+    "source": "visual_seed",
+    "member_count": 22,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "合",
+        "bbox": [
+          0.3971631205673759,
+          0.10119331742243437,
+          0.46155578070471687,
+          0.19665871121718376
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15.已知函数f(x)=|x+2|+ex+2+e−2−x+a有唯零点，则实数a=",
+        "bbox": [
+          0.060790273556231005,
+          0.12219570405727924,
+          0.3935607339862659,
+          0.1412887828162291
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16.如图，在平四边形ABDC中，∠ABC= 4 ,A = 2 , DB = 2,DC =1 ,则该 四边形积的最值为 .",
+        "bbox": [
+          0.05988967691095351,
+          0.14892601431980906,
+          0.39446133063154337,
+          0.2011137629276054
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "17.(12分)已知数列{an }的前n 项和为Sn,且有2a₁+22a2 +23a3 +…+2nan =n ·2n.",
+        "bbox": [
+          0.060790273556231005,
+          0.27239459029435165,
+          0.42463131824833955,
+          0.2902147971360382
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_7",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(1)求数列{an}的通项公式； (2)设bn 1 ,T₁为数列{bn}的前n项和，证明：Tn<2. anan +1",
+        "bbox": [
+          0.07204773162219971,
+          0.29276054097056486,
+          0.3318698637847574,
+          0.35067621320604614
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20.(12分)已知椭圆C: 2 $\\{r}$ 山2 b2$ =1(a>b>0)的右焦点为F，上顶点为A，直线FA的斜率为 $\\ ，且原点O到直线FA的距离为\\$",
+        "bbox": [
+          0.5367556005853878,
+          0.3532219570405728,
+          0.9379714060565124,
+          0.4276849642004773
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18.(12分)如图，在四棱锥PABCD中，底四边形ABCD是边长为1的菱形，∠ABC= 2\\a$ PD⊥平面ABCD，PD=√3，M，N分别为棱AP,CD的中点. P",
+        "bbox": [
+          0.05988967691095351,
+          0.37740652346857595,
+          0.46200607902735563,
+          0.4346857597454256
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.38230327592029717,
+          0.41686555290373906,
+          0.46200607902735563,
+          0.5377883850437549
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_17",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "（1)求椭圆C的标准方程； (2)设椭圆C的左、右顶点分别为A1，A2,过点D(4,O)的动直线交椭圆C于P，Q两点，直 线A₁P，A2Q相交于点E，证明：点E在定直线上.",
+        "bbox": [
+          0.5480130586513565,
+          0.43404932378679395,
+          0.9397725993470675,
+          0.49514717581543355
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "（1）求证：MN//平面PBC； (2)求点M到平面PBC的距离.",
+        "bbox": [
+          0.07249802994483845,
+          0.4385043754972156,
+          0.21254080828548913,
+          0.47796340493237865
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22 21.(12分）已知函数f（x）= aln x −a (a ∈R). 2",
+        "bbox": [
+          0.5394573905212203,
+          0.5212410501193318,
+          0.7560508837104581,
+          0.5517899761336515
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19.(12分)某研究所为了研究某种昆的产卵数y与温度x之间的关系，现将收集到的温度xi 和一组昆虫的产卵数yi(i=1,2，…,6)的6组观测数据作了初步处理，得到如下图的散点图 及些统计数据.",
+        "bbox": [
+          0.05988967691095351,
+          0.54733492442323,
+          0.4611054823820781,
+          0.6103420843277645
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_19",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(1)当a=1时，求曲线y=f（x)在点(1，f（1))处的切线方程； (2)若函数f（x)有极小值，求该极小值的取值范围.",
+        "bbox": [
+          0.5511651469098278,
+          0.5575178997613365,
+          0.8136890690082179,
+          0.5969769291964996
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_12",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1580547112462006,
+          0.6147971360381862,
+          0.375548801080716,
+          0.786634844868735
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22.[选修44:坐标系与参数程(10分)",
+        "bbox": [
+          0.5403579871664979,
+          0.643436754176611,
+          0.7209276145446358,
+          0.6606205250596658
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在平直坐标系xOy中，以坐标原点O为极点,x轴的正半轴为极轴建极坐标系，已知 曲线C的极坐标程为ρ=2cosθ+4sin θ.",
+        "bbox": [
+          0.5475627603287178,
+          0.6650755767700876,
+          0.9384217043791512,
+          0.7038981702466189
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)求曲线C的直坐标方程；",
+        "bbox": [
+          0.5520657435551053,
+          0.7077167859984089,
+          0.6835528537656197,
+          0.7249005568814638
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_24",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(2)若点M(0,1)，直线的参数方程为 (cx =t cs α, (t为参数），直线与曲线C的交点 y =1+tsin α, 为A，B，当|MA|十|MB|取最小值时，求直线I的普通方程.",
+        "bbox": [
+          0.550714848587189,
+          0.7331742243436754,
+          0.9393223010244287,
+          0.790453460620525
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "经计算得到以下数据：x: 1 ∑x = 26, y, =33, ∑(xi −x)(yi−y) =557, 6 ∑(x₁ −x) =84,∑(vi−y)2=3 930,(yi−i)2 =236.64.",
+        "bbox": [
+          0.07114713497692221,
+          0.790453460620525,
+          0.4606551840594394,
+          0.8693715194908512
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "23.[选修45:不等式选讲(10分)",
+        "bbox": [
+          0.5385567938759428,
+          0.8146380270485283,
+          0.6916582235731172,
+          0.8318217979315832
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_26",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "已知函数f (x )= |x − a|+ |x +1|. (1)若a=—2,求不等式f(x)≤3的解集； (2)如果关于x的不等式f(x)2的解集不是空集，求实数a的取值范围.",
+        "bbox": [
+          0.5498142519419115,
+          0.8356404136833732,
+          0.8686254643701452,
+          0.8967382657120128
+        ],
+        "order": 26
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)若线性回归模型来拟合数据的变化关系,求y关于x的回归程y=bxa(结果精确 到0.1）；",
+        "bbox": [
+          0.07159743329956096,
+          0.8744630071599045,
+          0.46020488573680063,
+          0.9158313444709626
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2732",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_4",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "三、解答题：共70分.解答应写出文字说明、证明过程或演算步骤.第17～21题为必 考题，每个试题考生都必须作答.第22、23题为选考题，考生根据要求作答.",
+        "bbox": [
+          0.06124057187886975,
+          0.20429594272076373,
+          0.46155578070471687,
+          0.24821002386634844
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2732",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "(一)必考题：60分.",
+        "bbox": [
+          0.060790273556231005,
+          0.25139220365950676,
+          0.14049307666328942,
+          0.26793953858393
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2732",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_20",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2732_20",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "()选考题：共10分.请考在第22、23题中任选题作答.如果多做，则按所做的第题计分.",
+        "bbox": [
+          0.5408082854891365,
+          0.6217979315831345,
+          0.9375211077338736,
+          0.6402545743834527
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

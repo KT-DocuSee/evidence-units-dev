@@ -1,0 +1,94 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_36",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_36_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_36_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7739612982596242,
+          0.08691688740036208,
+          0.80920091824114,
+          0.09767613602034989
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_36",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_36_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_36_2",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "RIF TI | ** | #7* | #AEB | FIE",
+        "bbox": [
+          0.054095716489741326,
+          0.1762011754901129,
+          0.9597221597966789,
+          0.39693014854739944
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_36",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_36_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_36_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "KEI MEIS | ЗАТУ. ХАЛИ | FEXTERTE | ETEN PAT.111288 | #*7%6",
+        "bbox": [
+          0.05647382111063895,
+          0.48984876295656465,
+          0.9611227336122734,
+          0.7079568996598902
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_36",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_36_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_36_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "FRERENTRE",
+        "bbox": [
+          0.05770781449194234,
+          0.7423560245133576,
+          0.9616907776815289,
+          0.865408743945891
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

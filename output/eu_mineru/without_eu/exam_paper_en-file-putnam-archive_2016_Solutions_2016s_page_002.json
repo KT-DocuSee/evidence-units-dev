@@ -1,0 +1,210 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_0",
+    "text": "much cleaner variant of this approach (suggested on AoPS, user henrikjb) is to write",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.06666666666666667,
+      0.49019607843137253,
+      0.09575757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5592156862745098,
+      0.06666666666666667,
+      0.8509803921568627,
+      0.08181818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_8",
+    "text": "We first check that every s ∈ G admits at least one rep- resentation of some length; this is equivalent to saying that the set S of s ∈ G which admit representations of some length is equal to G itself. Since S is closed un- der the group operation and G is finite, S is also closed under formation of inverses and contains the identity element; that is, S is a subgroup of G. In particular, S containsnt oy g ut aso is ine si S also contains g−1h, we deduce that S contains g−2. Since g is of odd order in G, g−2 is also a generator of the cyclic subgroup containing g; it follows that g ∈ S and hence h ∈ S. Since we assumed that g, h generate G, we now conclude that S = G, as claimed.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.1206060606060606,
+      0.92,
+      0.3084848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_1",
+    "text": "and do a change of variable on the resulting double in- tegral.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.1484848484848485,
+      0.4886274509803922,
+      0.1781818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_2",
+    "text": "A4 The minimum number of tiles is mn. To see that this many are required, label the squares (i, j) with 1 ≤ i ≤ 2m − 1 and 1 ≤ j ≤ 2n − 1, and for each square with i, j both odd, color the square red; then no tile can cover more than one red square, and there are mn red squares.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10196078431372549,
+      0.18727272727272729,
+      0.49019607843137253,
+      0.26
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_3",
+    "text": "It remains to show that we can cover any (2m – 1) × (2n – 1) rectangle with mn tiles when m,n ≥ 4. First note that we can tile any 2 × (2k – 1) rectangle with k ≥ 3 by k tiles: one of the first type, then k − 2 of the second type, and finally one of the fi rst type. Thus if we can cover a 7 × 7 square with 16 tiles, then we can do the general (2m − 1) × (2n − 1) rectangle, by decomposing this rectangle into a 7 × 7 square in the lower left corner, along with m – 4 (2 × 7) rectangles to the right of the square, and n − 4 ((2m − 1) × 2) rectangles above, and tiling each of these rectangles separately, for a total of 16 + 4(m − 4) + m(n − 4) = mn tiles.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.26484848484848483,
+      0.49019607843137253,
+      0.4387878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_9",
+    "text": "To complete the proof, we must now check that for each s ∈ G, the smallest possible length of a representation of s cannot exceed |G|. Suppose the contrary, and let",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.3145454545454546,
+      0.9192156862745098,
+      0.35818181818181816
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_10",
+    "text": "be a representation of the smallest possible length. Set interpreting so as e; since r > |G| by hypothesis, by the pigeonhole principle there must exist indices 0 ≤ i < j ≤ r − 1 such that si = s j,. Then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.396969696969697,
+      0.9145098039215687,
+      0.4121212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_4",
+    "text": "To cover the 7 × 7 square, note that the tiling must con- sist of 15 tiles of the first type and 1 of the second type, and that any 2 × 3 rectangle can be covered using 2 tiles of the first type. We may thus construct a suitable cov- ering by covering all but the center square with eight 2 × 3 rectangles, in such a way that we can attach the center square to one of these rectangles to get a shape that can be covered by two tiles. An example of such a covering, with the remaining 2 × 3 rectangles left in- tact for visual clarity, is depicted below. (Many other solutions are possible.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.44363636363636366,
+      0.49019607843137253,
+      0.6024242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.45151515151515154,
+      0.9192156862745098,
+      0.4951515151515152
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_12",
+    "text": "is another representation of s of length strictly less than r, a contradiction.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.5339393939393939,
+      0.9192156862745098,
+      0.563030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_13",
+    "text": "Remark: If one considers s1 , .. , r instead of s0, . ., r−1, then the case s = e must be handled sep- arately: otherwise, one might end up with a represen- tation of length 0 which is disallowed by the problem statement.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.5678787878787879,
+      0.9184313725490196,
+      0.64
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_5",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.12470588235294118,
+      0.6139393939393939,
+      0.45176470588235296,
+      0.8684848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_14",
+    "text": "Reinterpretation: Note that the elements gh,gh−1, −1h,g−1h−1 generate gh(g−1h)−1 = 2 and hence all of G (again using the hypothesis that g has odd order, as above). Form the Cayley digraph on the set G, i.e., the directed graph with an edge from s1 to s2 whenever s2 = s1* for * ∈ {gh, gh−1, θ−1h, g−1h−1}. Since G is fi nite, this digraph is strongly connected: there exists at least one path from any vertex to any other vertex (traveling all edges in the correct direc- tion). The shortest such path cannot repeat any vertices (except the starting and ending vertices in case they coincide), and so has length at most |G|.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.6448484848484849,
+      0.9192156862745098,
+      0.8187878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_15",
+    "text": "Second solution: For r a positive integer, let S, be the set of s ∈ G which admit a representation of length at most r (terminology as in the fi rst solution); obviously Sr ⊆ Sr+1. We will show that Sr ≠ Sr+1 unless Sr = G; this will imply by induction on r that #S, ≥ min{r, |G|} and hence that S, = G for some r ≤ |G|.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.8242424242424242,
+      0.92,
+      0.9121212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002_6",
+    "text": "A5 First solution: For s ∈ G and r a positive integer, define a representation of s of length r to be a sequence of values m1,n1, . ., mr,n ∈ {−1, 1} for which",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1011764705882353,
+      0.889090909090909,
+      0.49098039215686273,
+      0.9187878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2016_Solutions_2016s_page_002",
+    "order": 16
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_012",
+    "primary_id": "docling_PPT_StewartCalcET7e_03_02_page_012_1",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_012_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Example 1 - Solution",
+        "bbox": [
+          0.05232557953288663,
+          0.08914728725364467,
+          0.577034887491096,
+          0.16085271185003755
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_012_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Further applications of the Product Rule give",
+        "bbox": [
+          0.061046507177959626,
+          0.2304894187139436,
+          0.7194767580421398,
+          0.2751937979420007
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_012_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2616279142644545,
+          0.333333333046933,
+          0.8066860403495149,
+          0.38194444415804407
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_012_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In fact, each successive differentiation adds another term ex, so",
+        "bbox": [
+          0.058139547202485466,
+          0.44378306826145586,
+          0.9026162773069621,
+          0.5454507638774242
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_012_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3895348839920804,
+          0.6007751949363561,
+          0.6366279030234234,
+          0.647286819792326
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_1",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24144869523141502,
+      0.11191860488714186,
+      0.6680080407262291,
+      0.2979651160532102
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_2",
+    "text": "This completes the proof.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14285714761049415,
+      0.31686046547031965,
+      0.3943661863432283,
+      0.33432539651936377
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_3",
+    "text": "Theorem 7.4 For x > 1,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14235406892025698,
+      0.38357721240357723,
+      0.39899353772923946,
+      0.4071589291529804
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_4",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.28973843231856167,
+      0.4228670637120878,
+      0.7203219384661464,
+      0.44915674625177043
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_5",
+    "text": "Proof. By Theorem 7.3 we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16498994102483688,
+      0.48255813919817986,
+      0.48490946175182303,
+      0.49854651181926196
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_6",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2977867357869842,
+      0.518849206337094,
+      0.7122736332941694,
+      0.5436507936386813
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_7",
+    "text": "By Theorem 6.4 we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1428571499065011,
+      0.5755813958627615,
+      0.3863179052645248,
+      0.5930232551837502
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_8",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.33601609718207454,
+      0.6133432540637312,
+      0.6680080431205273,
+      0.651162790669005
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_9",
+    "text": "Subtracting the first equation from the second, we obtain",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14285715034320964,
+      0.668604651861034,
+      0.7002012086608144,
+      0.6874999997741403
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_10",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1770623770351244,
+      0.7048611115481582,
+      0.8329979852385175,
+      0.7311507940878409
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242_11",
+    "text": "An ordered factorization of the positive integer n into exactly l factors is an l-tuple (d1,..., de) such that n = dj... de. The divisor function d(n) counts the number of ordered factorizations of n into exactly two factors, since each factorization n = dd' is completely determined by the first factor d. For every positive integer l, we define the arithmetic function den) as the number of factorizations of n into exactly l factors. Then di (n) = 1 and da(n) = d(n) for all n.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1408450687175538,
+      0.8139534887261335,
+      0.8633292414277519,
+      0.946220929442471
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0242",
+    "order": 12
+  }
+]

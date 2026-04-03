@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "scihub_journal.pone.0166577.pdf_5",
+    "primary_id": "mineru_scihub_journal.pone.0166577.pdf_5_2",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_scihub_journal.pone.0166577.pdf_5_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1396078431372549,
+          0.09333333333333334,
+          0.7333333333333333,
+          0.9036363636363637
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_scihub_journal.pone.0166577.pdf_5_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.04941176470588235,
+          0.3563636363636364,
+          0.07450980392156863,
+          0.9163636363636364
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_scihub_journal.pone.0166577.pdf_5_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.7427450980392157,
+          0.503030303030303,
+          0.763921568627451,
+          0.8993939393939394
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_scihub_journal.pone.0166577.pdf_5_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.7709803921568628,
+          0.7393939393939394,
+          0.7905882352941176,
+          0.8975757575757576
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "scihub_journal.pone.0166577.pdf_5",
+    "primary_id": "mineru_scihub_journal.pone.0166577.pdf_5_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_journal.pone.0166577.pdf_5_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "unuu!n a's pnnpunn.u ueaw",
+        "bbox": [
+          0.09254901960784313,
+          0.09696969696969697,
+          0.1380392156862745,
+          0.9103030303030303
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

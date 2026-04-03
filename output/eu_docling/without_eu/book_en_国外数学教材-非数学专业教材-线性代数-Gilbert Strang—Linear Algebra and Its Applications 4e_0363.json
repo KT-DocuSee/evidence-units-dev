@@ -1,0 +1,210 @@
+[
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_2",
+    "text": "Thus Ay is positive definite. Its eigenvalues (not the same M!) must be positive. Its determinant is their product, so all upper left determinants are positive.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1437371566906852,
+      0.08720930311566844,
+      0.9075975301676311,
+      0.1235465118774016
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_3",
+    "text": "If condition Ill holds, so does condition IV: According to Section 4.4, the kth pivot dk is the ratio of detAk to detAk-1. If the determinants are all positive, so are the pivots.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14373718477508574,
+      0.1279069764074821,
+      0.9096509247218337,
+      0.16424418547444786
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_4",
+    "text": "If condition IV holds, so does condition I: We are given positive pivots, and must deduce that xTAx > 0. This is what we did in the 2 by 2 case, by completing the square. The pivots were the numbers outside the squares. To see how that happens for symmetric matrices of any size, we go back to elimination on a symmetric matrix: A = LDL\"",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14359615414850344,
+      0.16715116314473819,
+      0.9098070231658597,
+      0.24625837026183775
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_5",
+    "text": "Example 1. Positive pivots 2, 2, and 3:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14373717810730635,
+      0.25290697729971373,
+      0.5010266889974162,
+      0.27331349217897066
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_6",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23819302722118876,
+      0.3023255819882142,
+      0.8521560552149832,
+      0.3473837206044194
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_7",
+    "text": "I want to split xAx into x LDLIx:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1416837863255397,
+      0.3561046515885049,
+      0.44558521257931993,
+      0.37500000044771675
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_8",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2381930187521499,
+      0.3851744185741491,
+      0.7946611885414719,
+      0.44622093026345006
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_9",
+    "text": "So x\"Ax is a sum of squares with the pivots 2, 2, and ¿ as coefficients:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14373717145693699,
+      0.4607558143636296,
+      0.7577002089772077,
+      0.47966269814076373
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_10",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5687885004701635,
+      0.4898255814017949,
+      0.5790554418296312,
+      0.49999999965440667
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_11",
+    "text": "Those positive pivots in D multiply perfect squares to make x\"Ax positive. Thus condition IV implies condition I, and the proof is complete.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1437371828603014,
+      0.5406746031089961,
+      0.9096509228070493,
+      0.579941860714611
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_12",
+    "text": "It is beautiful that elimination and completing the square are actually the same. Elimination removes x1 from all later equations. Similarly, the first square accounts for all terms in x'Ax involving x1. The sum of squares has the pivots outside. The multipliers lij are inside! You can see the numbers — and - 3 inside the squares in the example.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1416837775882279,
+      0.619186046174924,
+      0.9096509238789687,
+      0.6976744179982514
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_13",
+    "text": "Every diagonal entry ai must be positive. As we know from the examples, however, it is far from sufficient to look only at the diagonal entries.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1416837894318562,
+      0.6991279077668312,
+      0.9096509364654233,
+      0.7354651165285644
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_14",
+    "text": "The pivots di are not to be confused with the eigenvalues. For a typical positive definite matrix, they are two completely different sets of positive numbers, In our 3 by 3 example, probably the determinant test is the easiest:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1437371691650177,
+      0.7368551590440281,
+      0.9075975426419636,
+      0.796626984228328
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_15",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22381930202732195,
+      0.8095238098078402,
+      0.8295687880650805,
+      0.8271329367919672
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_16",
+    "text": "The pivots are the ratios d1 = 2, d2 = 2, d3 = 3. Ordinarily the eigenvalue test is the longest computation. For this A we know the 2's are all positive:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14168378062698153,
+      0.8372093027270708,
+      0.9075975442333392,
+      0.8750000003117494
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363_17",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2607802882588598,
+      0.8851686504052745,
+      0.7926078109540079,
+      0.9069940472306712
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0363",
+    "order": 18
+  }
+]

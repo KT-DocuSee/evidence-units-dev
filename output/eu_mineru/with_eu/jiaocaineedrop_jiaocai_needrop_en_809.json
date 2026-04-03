@@ -1,0 +1,139 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_809",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_7",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "动 充的动是业产的必要条件。对于需要消耗量能源 的业，例如炼铝业等，需布局在能源的供应地。",
+        "bbox": [
+          0.3180282250049692,
+          0.11232187761944677,
+          0.9008149473265752,
+          0.15423302598491198
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "环境条件 不同业对环境条件有着不同的要求。如酿酒业需要优 质的源，电业需要清洁的环境等。有些企业在产过程中， 会造成污染、污染和固体废弃物污染等，影响类的产和 活，因此业布局也要考虑对环境的影响。",
+        "bbox": [
+          0.3164380838799443,
+          0.16876222408493993,
+          0.9000198767640628,
+          0.2598491198658843
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "其他因素 除了上述因素，政策、个喜好或特殊关系等也会对 业区位产影响。例如政府通过法规、税收、地、交通和基础设 施等政策影响业的产和分布。某些企业家的个喜好或特 殊关系，也会影响厂的选址。",
+        "bbox": [
+          0.3164380838799443,
+          0.2738195026543727,
+          0.9000198767640628,
+          0.36490639843531714
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "举例说明其他 因素是如何影响工 业区位的。",
+        "bbox": [
+          0.1280063605645001,
+          0.30846605196982396,
+          0.28065990856688533,
+          0.36155350656607993
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "案例研究 汽车厂选址",
+        "bbox": [
+          0.325183860067581,
+          0.43811120424699634,
+          0.629695885509839,
+          0.47666946074322436
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2014年底，北汽集团与河北省政府签署协议，将北京现代汽 车公司第四工厂的选址确定在沧州市。",
+        "bbox": [
+          0.32438878950506855,
+          0.4956691813355686,
+          0.9008149473265752,
+          0.5353450684548756
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.4134366925064599,
+          0.5532271584241408,
+          0.74816139932419,
+          0.8656049175747416
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_8",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图32-4 沧州市在河北省的位置意1：8200000",
+        "bbox": [
+          0.4038958457563109,
+          0.8862810841017044,
+          0.7966607036374478,
+          0.9041631740709696
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_809",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_809_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "思考",
+        "bbox": [
+          0.20512820512820512,
+          0.27270187203129365,
+          0.2695289206917114,
+          0.29226040793517744
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

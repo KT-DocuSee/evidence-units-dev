@@ -1,0 +1,232 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 4 Results for two-phase training algorithm optimization in the case of ammonium retention modelling",
+        "bbox": [
+          0.06889829740965729,
+          0.0881434501449754,
+          0.6100019990172098,
+          0.1133272930435398
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06889829740965729,
+          0.1133272930435398,
+          0.922565006778094,
+          0.23546893110157716
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 5 Results for two-phase training algorithm optimization in the case of potassium retention modelling",
+        "bbox": [
+          0.07057874368794162,
+          0.26694873472478264,
+          0.601599767625788,
+          0.29087338547841884
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06889829740965729,
+          0.29213257762334705,
+          0.9208845604998097,
+          0.4130150235364562
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 6 Results for the two-phase training algorithm optimization in the case of magnesium retention modelling",
+        "bbox": [
+          0.06721785113137296,
+          0.4444948271596617,
+          0.6284869080783373,
+          0.4684194779132979
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06889829740965729,
+          0.4696786700582261,
+          0.9208845604998097,
+          0.5905611159713352
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 7 Results for two-phase training algorithm optimization in the case of calcium retention modelling",
+        "bbox": [
+          0.07057874368794162,
+          0.6081898060003303,
+          0.5881561973995135,
+          0.6321144567539665
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06889829740965729,
+          0.6333736488988947,
+          0.9208845604998097,
+          0.7542560948120038
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_8",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 8 Results for two-phase training algorithm optimization in the case of strontium retention modelling",
+        "bbox": [
+          0.06889829740965729,
+          0.7731439769859272,
+          0.5982388750692195,
+          0.7970686277395633
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.02.018.pdf_6_9",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06889829740965729,
+          0.7970686277395633,
+          0.9208845604998097,
+          0.9179510736526725
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

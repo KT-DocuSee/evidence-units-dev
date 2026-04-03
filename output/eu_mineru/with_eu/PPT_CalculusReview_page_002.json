@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_CalculusReview_page_002",
+    "primary_id": "mineru_PPT_CalculusReview_page_002_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_CalculusReview_page_002_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Slope",
+        "bbox": [
+          0.41933333333333334,
+          0.08711111111111111,
+          0.58,
+          0.17155555555555554
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_CalculusReview_page_002_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.526,
+          0.23822222222222222,
+          0.9686666666666667,
+          0.8408888888888889
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_CalculusReview_page_002",
+    "primary_id": "mineru_PPT_CalculusReview_page_002_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_CalculusReview_page_002_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Slope = rise/run = ∆y/∆x = (y2 − y1)/(X2 − x1) Order of points 1 and 2 not critical, but keeping them together is Points may lie in any quadrant: slope will work out Leibniz notation for derivative based on ∆y/Δx; the derivative is written dy/dx",
+        "bbox": [
+          0.007333333333333333,
+          0.23733333333333334,
+          0.518,
+          0.8826666666666667
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

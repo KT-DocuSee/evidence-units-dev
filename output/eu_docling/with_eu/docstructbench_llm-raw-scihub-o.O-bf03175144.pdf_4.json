@@ -1,0 +1,149 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_10",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 2 - Enzyme and specific activity of Metarhizium anisopliae isolates in the four different media on day 2",
+        "bbox": [
+          0.08829570195775464,
+          0.09593023320521067,
+          0.7659137460915266,
+          0.10912698397096555
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_4",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 3 - Enzyme and specific activity of Metarhizium anisopliae isolates in the four different media on day 4",
+        "bbox": [
+          0.08829571154023208,
+          0.34883720956213143,
+          0.765913755674004,
+          0.3604651164068608
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_10",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "UM11 UM12 | UM13 | AR1 | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | MI | 3.266C 5.430B 2.71ª0 5.970B 3.8000 2.4460 7.5964 5.55aB | 7.870A 7.76bA | 5.44CB | 7.48bA 4.89bCB | MII | 1.09CF 1.09cF 2.70aBE 4.34aD 3.80aD 6.50aC 10.26aA | 5.37aC | MIII | 4.89b 5.9760 3.800D 5.43aC 3.269D 2.176D 14.86a 6.75aB | 10.97 A | 13.06A | 12.22 A | MIV | 10.310A 8.69aB 3.80aD 4.80aD 2.70aD 2.17bD 8.31bB | 6.47a0 12.19 A | 8.34bB 5.95CC | 7.45bC | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | MI | 0.10aB 0.05bCD | 0.11bB 0.09bB 0.04bD 0.07CCD 0.06CCD | 0.03CD | 0.13cB | 0.11dB | 0.06CCD | 0.12CB | 0.06CD | MII | 0.29aH 0.29aH 1.34aE | 1.17aF 1.06aF 0.90aD 2.58aC 1.380E | 3.71aB | 1.320E | 0.84bG | 1.93aD | 23.930A | 0.29aH | MIII | 0.14a 0.13aF 0.0gb6 0.09bG 0.04bG 0.03bG 1.06bC | 1.36bB | 1.03aC 1.770A 0.846D | 1.01bc | 0.15bF | MIV | 0.25aG 0.11aH 0.06bl 0.11bH 0.05bl 0.04b 1.66bA | 0.59bE | 1.080B | 0.45bF | 0.47c 0.95bC 0.79bD | 0.06cl",
+        "bbox": [
+          0.08761280980603449,
+          0.6194397729398247,
+          0.9134689857219828,
+          0.8057983450626603
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_8",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Media | UM1 UM2 UM3 | UM4 UM5 | UM6 UM7 UM8 UM9 UM11 UM12 | UM10 | UM13 | AR1 | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | MI | 5.836C 2.31aF | MII | 0.54cl 0.54b 1.09CF 3.26bC 1.09CF 1.63bE | 1.36bE 7.98bA | 5.436B 1.98aD 1.900D 1.63bE | MIII | 2.1701 7.60aF 2.1701 9.70E 6.5000 1.300 11.400 1.65) 13.03aB 15.2004 10.322D 15.744 15.200 4.30 H | MIV | 5.90 AB 6.50A 2.17DE 3.86BC 3.80bBC 2.706D 3.58CBC 2.59aD 3.64bCD 2.236DE 2.716D 4.51CBC 0.81dE 3.40 abCD | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | 0.34aB 0.11aC 0.09aD | 0.12bc 0.36aB 0.67a4 0.10dC 0.07cD 0.04dD | 0.13bH 0.0201 0.06al | 1.05ac 0.39aG 0.42a6 0.936D 0.59aF 0.73bE 0.32b6 5.900A 1.670B 1.53aB | 0.07cG 0.11aF 0.05aG | 0.18bE 0.10bF 0.03CG 1.582C 0.136E 1.812A 1.2900 1.71bB 1.880A 1.59a0 | MIV 0.18bDE 0.10a 0.06a 0.13bF 0.13bF 0.17bF 0.45c 0.43aB 0.23CC 0.15cE 0.07c 0.65bA 0.18bDE 0.09af",
+        "bbox": [
+          0.08782964522955422,
+          0.10812033481606055,
+          0.9131655453625983,
+          0.295015580534884
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_9",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Values followed by same lower case alphabets in the column and values followed by upper case alphabets in a row are statistically equivalent according to Tukey's test.",
+        "bbox": [
+          0.08829569951519796,
+          0.30084325410176965,
+          0.9137576879598449,
+          0.3271329364424294
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "UM& | • UM10 UM11 UM12 | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | Enzyme activity (U/ml) | MI | 5.97bC 3.26aG | 3.80bF 2.71aH 6.646B 4.570E 4.32bE 7.486A 5.546CD 8.920A 6.596B 5.43aD | MII | 1.63CH 1.09cl 1.63aH 3.80CF | 2.700G 3.26aFG 6.796C 4.84aE 3.046G 5.8600 6.576CD 10.65aB 12.540A 3.26aFG | MIII | 6.51aF 1.63aJ 13.03aB | 4.34а 13.57aB 17.922А 14.60aB 10.042C 7.33bE 5.43aG | MIV | 6.50aC 7.60bB 2.71a1 3.40CH 3.26bH 2.17a1 6.416D 3.64aGH 12.430A 6.19bD 7.00bB 5.21bE 3.80CG 4.34aF | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | Specific activity (U/mg) | MI | 0.10aC 0.07aDE 0.11bC 0.15aB | 0.12dC 0.08bDE | MII | 0.43aF 0.07b6 0.08aG 0.69be 0.85aD 2.39aB | 0.75bED 4.56 A 1.19ac 1.53aC 0.09bG | MIII | 0.13bFG 0.14aFG 0.08aH 0.14bFG 0.08bH 0.02al 1.62aB 0.25c 1.81bA 1.48aC 1.75bA 1.16aD | 0.54bE 0.10bAH | MIV | 0.19bD 0.12aEF 0.05aF 0.10bEF 0.07beF 0.05aF | 1.15aA 0.43bC 1.25bA 0.59bB 0.39CC | 0.71bB 0.31cC 0.19bD",
+        "bbox": [
+          0.08759352631519869,
+          0.3617035734087751,
+          0.916190422598117,
+          0.5466835703692817
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Values followed by same lower case alphabets in the column and values followed by upper case alphabets in a row are statistically equivalent according to Tukey's test.",
+        "bbox": [
+          0.08829569125031113,
+          0.5552325581474027,
+          0.9137576935963955,
+          0.5799418603436025
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Values followed by same lower case alphabets in the column and values followed by upper case alphabets in a row are statistically equivalent according to Tukey's test.",
+        "bbox": [
+          0.08829569637522541,
+          0.8139534884572697,
+          0.9137576956600505,
+          0.8386627904378686
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "tinase production at first but in the later phases of growth there is little enhancement in chitinase production when the dextrose is fully or partially being used up. Sandhya et al. (2004) documented the same pattern of chitinase production with the use of different carbon and nitrogen source for the fungus Trichoderma harzianum. Maximum chitinase activity was observed in Medium III constituting colloidal chitin as carbon source and Yeast extract as a nitrogen source, compared to the other three media. The exact mechanism of induction of this enzyme by extra nitrogen source is not known but it is assumed that either Yeast extract supports the mycelial growth and hence enhancement in the initial growth leads to more chitinase production or it could be due to the presence of oligomers of GIcNAc which can directly induce the chitinase gene (De Moraes et al., 2003). Nawani",
+        "bbox": [
+          0.08829568490540253,
+          0.8561046511561237,
+          0.4887063668143101,
+          0.9462209299838641
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

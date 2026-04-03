@@ -1,0 +1,250 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocai_jiaocai_en_310",
+    "primary_id": "docling_jiaocai_jiaocai_en_310_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2016 7 1 7157, FA:120 554$",
+        "bbox": [
+          0.45021038069290775,
+          0.15550595200490952,
+          0.7864476313647224,
+          0.1773313488303062
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocai_jiaocai_en_310",
+    "primary_id": "docling_jiaocai_jiaocai_en_310_15",
+    "source": "visual_seed",
+    "member_count": 13,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "*#Z:",
+        "bbox": [
+          0.32211277786079445,
+          0.18853387787235082,
+          0.37603917352851396,
+          0.20681495923851156
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#:",
+        "bbox": [
+          0.1190965102161859,
+          0.18895348891508704,
+          0.17659137594397833,
+          0.2063953482360758
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_15",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "1 | 2 | 3 | 4 | 5 | 6 | 7",
+        "bbox": [
+          0.14552631862506613,
+          0.22180454992952384,
+          0.848651041863475,
+          0.3149859235550716
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Zhejiang University Theory of Computation, Fall-Winter 2015 Final Exam",
+        "bbox": [
+          0.28952772222836737,
+          0.33134920599050016,
+          0.7043121148968894,
+          0.3808139534887723
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) ( ) Let L be any regular language. Then the number of equivalence classes respect to language L (i.e. x ~L y, if for all z € L*, xz E L iff yz E L) is finite.",
+        "bbox": [
+          0.1622176696497189,
+          0.44186046525362854,
+          0.876796721644325,
+          0.47529069735538304
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) ( ) The language {a\"\"w/wE {a, b}* *, nE N, and |w| = 2n} is context-free.",
+        "bbox": [
+          0.1601642846063008,
+          0.48401162747943,
+          0.8583162178167605,
+          0.5000000002494945
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(c) ( ) The language {\"M\" \"w\" |M accepts w in less than 2016 steps } is not recursive.",
+        "bbox": [
+          0.16016427894561908,
+          0.5071924598620758,
+          0.874743300725839,
+          0.539349388930071
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(d) ( ) The language {\"M\" | M is a TM and L(M) is Context-free but L(M) is not regular, is not recursive.",
+        "bbox": [
+          0.15811088203063114,
+          0.5493551586268136,
+          0.8747433130823054,
+          0.5828488372351387
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(e) ( ) The language {\"M\" \"M,\" | M, and Me are TMs, and M, halts on e but Ma doesn't halt on e} is recursively enumerable, but not recursive.",
+        "bbox": [
+          0.1601642917279597,
+          0.5915178572250318,
+          0.8747433135081795,
+          0.6264880952639315
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(g) ( ) Let A and B be two disjoint recursively enumerable languages. If AU B is also be recursively enumerable, then it is possible that neither A nor B is decidable.",
+        "bbox": [
+          0.1601642831661461,
+          0.674355158269708,
+          0.8747971117257376,
+          0.727133996785131
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(h) ( ) Let H10 = {\"M\" |M is a TM and 10 € L(M)} and 1 and 2 are recursive functions. If H10 Sm L and H1o Sm L, then L is recursive enumerable but not recursive.",
+        "bbox": [
+          0.16016429388401707,
+          0.7353670636440793,
+          0.8747433206689664,
+          0.7848837207188762
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(i) ( ) Suppose SAT ≤p L and L € P. Then P = NP.",
+        "bbox": [
+          0.16427106837655878,
+          0.7965116282260124,
+          0.6468172393749809,
+          0.8110465113088715
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(i) ( ) Let H = {\"M\" \"w\" | TM M halts on input string wy, then H is NP-complete.",
+        "bbox": [
+          0.1641908076086052,
+          0.817477265204753,
+          0.8974321630444836,
+          0.8379653192380628
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocai_jiaocai_en_310",
+    "primary_id": "docling_jiaocai_jiaocai_en_310_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(20%) Determine whether the following statements are true or false. If it is true write a O otherwise a x in the bracket before the statement.",
+        "bbox": [
+          0.13141685727614386,
+          0.3997093032741303,
+          0.8767966757149586,
+          0.4317956347663967
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocai_jiaocai_en_310",
+    "primary_id": "docling_jiaocai_jiaocai_en_310_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_310_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(f) ( ) The set of all primitive recursive functions is a proper subset of the set of all u-recursive functions.",
+        "bbox": [
+          0.1642710579182321,
+          0.6351686506891945,
+          0.8747433039571959,
+          0.6656976744480745
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

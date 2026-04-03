@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_PresentationSpecification_page_025",
+    "primary_id": "mineru_PPT_PresentationSpecification_page_025_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_025_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "HOW TO PARTICIPATE?",
+        "bbox": [
+          0.10733333333333334,
+          0.11644444444444445,
+          0.6913333333333334,
+          0.184
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_PresentationSpecification_page_025",
+    "primary_id": "mineru_PPT_PresentationSpecification_page_025_1",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_025_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "- Each STUDENT individually;",
+        "bbox": [
+          0.11866666666666667,
+          0.2222222222222222,
+          0.6533333333333333,
+          0.2737777777777778
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_025_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• Views other groups' video and live presentations; ● Gives comments to other groups; • Rates other groups' work;",
+        "bbox": [
+          0.13866666666666666,
+          0.2862222222222222,
+          0.8026666666666666,
+          0.5128888888888888
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_025_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "During tutorials;",
+        "bbox": [
+          0.10933333333333334,
+          0.5964444444444444,
+          0.474,
+          0.648
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_PPT_PresentationSpecification_page_025_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Each group should attend >= 66% tutorials; Each group should present and lead a discussion session; • Each student shall participate in Q&A;",
+        "bbox": [
+          0.13933333333333334,
+          0.6613333333333333,
+          0.9493333333333334,
+          0.8853333333333333
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

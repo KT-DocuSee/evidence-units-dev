@@ -1,0 +1,184 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_0",
+    "text": "The 61st William Lowell Putnam Mathematical Competition Saturday, December 2, 2000",
+    "canon_role": "section_header",
+    "bbox": [
+      0.24862745098039216,
+      0.06363636363636363,
+      0.7576470588235295,
+      0.1
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_1",
+    "text": "A–1 Let A be a positive real number. What are the possi- ble values of ix, given that xo,x1,. . are positive numbers fr hich j−0xj = A A-2 Prove that there exist infinitely many integers n such that n, n + 1, n + 2 are each the sum of the squares of two integers. [Example: 0 = 02 + 02, 1 = 02 + 12, 2 = 12 + 12.] A-3 The octagon P1P2P3P4P5P6P7P8 is inscribed in a circle, with the vertices around the circumference in the given order. Given that the polygon P1 P3PsP7 is a square of area 5, and the polygon P2P4P6P8 is a rectangle of area 4, fi nd the maximum possible area of the octagon.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.13515151515151516,
+      0.49333333333333335,
+      0.33090909090909093
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_7",
+    "text": "B–2 Prove that the expression is an integer for all pairs of integers n ≥ m ≥ 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.523921568627451,
+      0.13575757575757577,
+      0.7231372549019608,
+      0.1496969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_8",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.20424242424242425,
+      0.8658823529411764,
+      0.22
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_9",
+    "text": "B3 t ) =  =− a sin(2j) e a i  and an is not equal to 0. Let Nk denote the number of zeroes (including mlilcle  .   hat",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.22727272727272727,
+      0.9192156862745098,
+      0.2787878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_10",
+    "text": "[Editorial clarification: only zeroes in [0, 1) should be counted.]",
+    "canon_role": "topic_title",
+    "bbox": [
+      0.5552941176470588,
+      0.32181818181818184,
+      0.9192156862745098,
+      0.3515151515151515
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_2",
+    "text": "A–4 Show that the improper integral",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.3387878787878788,
+      0.33725490196078434,
+      0.35393939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_11",
+    "text": "B–4 Let f(x) be a continuous function such that f (2x2 − 1) = 2xf (x) for all x. Show that f(x) = 0 for −1 ≤ x ≤ 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.3606060606060606,
+      0.9192156862745098,
+      0.40424242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_3",
+    "text": "converges.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.40484848484848485,
+      0.1984313725490196,
+      0.41818181818181815
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_12",
+    "text": "B–5 Let So be a finite set of positive integers. We define fi nite sets S1, S2, . .. of positive integers as follows: the integer a is in Sn+1 if and only if exactly one of a − 1 or a is in Sn. Show that there exist infinitely many integers N for which SN = S0 U {N + a : a ∈ S0}.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.523921568627451,
+      0.40484848484848485,
+      0.9192156862745098,
+      0.4775757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_4",
+    "text": "A–5 Three distinct points with integer coordinates lie in the plane on a circle of radius r > 0. Show that two of these points are separated by a distance of at least r1/3.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.42787878787878786,
+      0.49019607843137253,
+      0.4721212121212121
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_5",
+    "text": "A–6 Let f (x) be a polynomial with integer coefficients. De- fine a sequence ao, a1, . .. of integers such that ao = 0 and an+1 = f (an) for all n ≥ 0. Prove that if there exists a positive integer m for which am = 0 then either a1 = 0 or a2 = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.4812121212121212,
+      0.49019607843137253,
+      0.553939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_13",
+    "text": "B–6 Let B be a set of more than 2n+1/n distinct points with coordinates of the form (±1, ±1, . ., ±1) in n- dimensional space with n ≥ 3. Show that there are three distinct points in B which are the vertices of an equilat- eral triangle.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.4860606060606061,
+      0.9192156862745098,
+      0.56
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001_6",
+    "text": "B−1 Let a j, bj, cj be integers for 1 ≤ j ≤ N. Assume for each J, at least one of a j, bj, cj is odd. Show that there exist integers r, s, t such that raj + sbj + tcj is odd for at least 4N /7 values of j, 1 ≤ j ≤ N.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.5636363636363636,
+      0.49098039215686273,
+      0.623030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Problems_2000_page_001",
+    "order": 14
+  }
+]

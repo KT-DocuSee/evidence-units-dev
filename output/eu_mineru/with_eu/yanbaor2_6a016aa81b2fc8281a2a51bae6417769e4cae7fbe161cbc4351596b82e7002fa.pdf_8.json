@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_6a016aa81b2fc8281a2a51bae6417769e4cae7fbe161cbc4351596b82e7002fa.pdf_8",
+    "primary_id": "mineru_yanbaor2_6a016aa81b2fc8281a2a51bae6417769e4cae7fbe161cbc4351596b82e7002fa.pdf_8_2",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_6a016aa81b2fc8281a2a51bae6417769e4cae7fbe161cbc4351596b82e7002fa.pdf_8_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.2较严厉的行政处罚",
+        "bbox": [
+          0.051303976058144504,
+          0.03385731559854897,
+          0.41100185264357986,
+          0.11124546553808948
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_6a016aa81b2fc8281a2a51bae6417769e4cae7fbe161cbc4351596b82e7002fa.pdf_8_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2023年度原银保监会、国家融监督管理总局及其派出机构披露的2,808张罚单中，除罚款（没）、警告及责令改正外，较严厉的政处罚情况列示 如下：",
+        "bbox": [
+          0.0347726948838535,
+          0.11769447803305119,
+          0.9724953683910503,
+          0.1708988311164853
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_6a016aa81b2fc8281a2a51bae6417769e4cae7fbe161cbc4351596b82e7002fa.pdf_8_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.02679207638591991,
+          0.17412333736396615,
+          0.9753455892831695,
+          0.9504232164449818
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

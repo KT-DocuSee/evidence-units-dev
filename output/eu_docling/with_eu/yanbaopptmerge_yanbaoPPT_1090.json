@@ -1,0 +1,159 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1090",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1090_7",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3747513122558594,
+          0.01860469512939453,
+          0.9922421875,
+          0.76662861328125
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_0",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "716",
+        "bbox": [
+          0.0639534888339933,
+          0.181349206462879,
+          0.17877907058138134,
+          0.23492063503430763
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "521971",
+        "bbox": [
+          0.06395349155415604,
+          0.2581395351938516,
+          0.2383720923328871,
+          0.31162790630116505
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ILL",
+        "bbox": [
+          0.550872093279999,
+          0.47209302322853536,
+          0.565406976362858,
+          0.4906976741801026
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "15070",
+        "bbox": [
+          0.06384004236174301,
+          0.48275712308922314,
+          0.23848554193934102,
+          0.538173109165457
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "H/75",
+        "bbox": [
+          0.06357052353524854,
+          0.7030011726511745,
+          0.3391379870013479,
+          0.7646447307295163
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1090",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1090_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.4113340454101562,
+          0.08498619384765625,
+          0.6401282348632813,
+          0.3427981689453125
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1090",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1090_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "5, AFICAT",
+        "bbox": [
+          0.06395349212556814,
+          0.33253968118135946,
+          0.32703487620914956,
+          0.38611110975278806
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1090",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1090_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1090_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.82786474609375,
+          0.76524833984375,
+          0.9995875244140625,
+          0.97148759765625
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

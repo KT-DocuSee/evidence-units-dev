@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "mineru_PPT_ch7_page_142_0",
+    "text": "SUMMARY OF CHAPTER Linear Algebra: Matrices, Vectors, Determinants. Linear Systems",
+    "canon_role": "section_header",
+    "bbox": [
+      0.39666666666666667,
+      0.032,
+      0.956,
+      0.1928888888888889
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_142_1",
+    "text": "(continued 3)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.058666666666666666,
+      0.15733333333333333,
+      0.22066666666666668,
+      0.19377777777777777
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_142_2",
+    "text": "The transpose AT of a matrix A = [ak] is AT = [ajk]; rows become columns and conversely (Sec. 7.2). Here, A need not be square. If it is and A = AT, then A is called symmetric; if A = -AT, it is called skew-symmetric.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.052,
+      0.22933333333333333,
+      0.9546666666666667,
+      0.44355555555555554
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_142_3",
+    "text": "For a product, (AB)T = BTAT (Sec. 7.2).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056666666666666664,
+      0.44622222222222224,
+      0.6133333333333333,
+      0.49777777777777776
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_142_4",
+    "text": "A main application of matrices concerns linear systems of equations",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056,
+      0.5022222222222222,
+      0.9546666666666667,
+      0.6026666666666667
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_142_5",
+    "text": "(2) Ax= b (Sec. 7.3) (m equations in n unknowns x1 . , x#i A and b given).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.048,
+      0.6204444444444445,
+      0.8846666666666667,
+      0.7475555555555555
+    ],
+    "page": "PPT_ch7_page_142",
+    "order": 6
+  }
+]

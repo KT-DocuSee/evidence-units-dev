@@ -1,0 +1,445 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocai_71434495.pdf_0",
+    "primary_id": "mineru_jiaocai_71434495.pdf_0_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "南开学2022年研究学考试数学分析试题解答",
+        "bbox": [
+          0.1293833131801693,
+          0.08265640587145504,
+          0.4179766223297058,
+          0.10431808465156049
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocai_71434495.pdf_0",
+    "primary_id": "mineru_jiaocai_71434495.pdf_0_5",
+    "source": "visual_seed",
+    "member_count": 28,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "设",
+        "bbox": [
+          0.5642885933091495,
+          0.08493658258515036,
+          0.5751713018943975,
+          0.09975773122416988
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "由幂级数相关性质可知",
+        "bbox": [
+          0.5642885933091495,
+          0.14992161892546674,
+          0.6549778315195486,
+          0.16702294427818157
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本试卷共4页，22题．全卷满分150分，考试时120分钟.",
+        "bbox": [
+          0.09149536477226924,
+          0.16132250249394328,
+          0.3268843208383716,
+          0.1784238278466581
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_4",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "1．答卷前，考务必将的姓名、准考证号填写在答题卡上. 2.回答选择题时，铅笔把答题卡上对应题的答案标号涂，写在本试卷上无效. 3.考试结束后，将本试卷和答题卡并交回. 4.本试卷由kmath.cn动成.",
+        "bbox": [
+          0.09028617492946392,
+          0.21319652273051162,
+          0.4095122934300685,
+          0.31865469573891975
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "即 f(x) = arctan x − x, 故",
+        "bbox": [
+          0.5638855300282144,
+          0.23257802479692177,
+          0.6690850463522773,
+          0.2496793501496366
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[解析]：",
+        "bbox": [
+          0.54695687222894,
+          0.3169445632036483,
+          0.5739621120515921,
+          0.33404588855636314
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08907698508665861,
+          0.3351859769132108,
+          0.16444981862152358,
+          0.38820008550662677
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.设f(x,y)=x3−3x2y−y3+x2−y.(1)证明：存在δ>0,以及定义于(−δ,δ)上的连续可微函数 y=y(x),满足y(0)=0,以及 f(x,y(x))=0.(2)证明:x=0时 (1)中的y(x)取到极小值.",
+        "bbox": [
+          0.5497783151954857,
+          0.33917628616217754,
+          0.9536477226924627,
+          0.377369246116574
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[答案]:证明(1) 注到f(0,0) =1,y(0,) = −32−32−10,0) −1 ≠0.(2) x3−32y−3+x2−y = 0两边同时对x求导,有",
+        "bbox": [
+          0.5449415558242644,
+          0.3824996437223885,
+          0.9520354695687223,
+          0.4332335756021092
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "、解答题：本题共6题，每题5分，请考在22、23题中选择题，并在答题纸上涂，不涂 、多涂或多答均按第题评分.",
+        "bbox": [
+          0.07214832728738411,
+          0.40188114578879863,
+          0.47642079806529625,
+          0.43836397320792364
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1．求定积分 (c} sin x cos x dx. J0 sin x + cos x − 5",
+        "bbox": [
+          0.07577589681580008,
+          0.44919481259797633,
+          0.22974607013301088,
+          0.486817728373949
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "代入x=0和y(0)=0,得到y(0)=0.重复上述操作,得到",
+        "bbox": [
+          0.5667069729947601,
+          0.4623058287017244,
+          0.7992744860943168,
+          0.4805472424112869
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[答案]:解令 t = sin2x, 则 dt = 2 sin x cosx dx,sinx + cosx = 2t2 − 2t + 1, 则",
+        "bbox": [
+          0.07214832728738411,
+          0.4930882143366111,
+          0.3825070536074164,
+          0.5113296280461735
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "代入 x = 0和 y(0) = y′(0) = 0,得到 y(0) = 2 > 0. [解析]:",
+        "bbox": [
+          0.5642885933091495,
+          0.5278609092204646,
+          0.7940346634421604,
+          0.546102322930027
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.设f(x)在(−∞,+∞)上可导且下凸,证明：对任意的实数x,都有f(x + f′(x)) ≥f(x). [答案]：证明由题意可知对任意实数x,y,有",
+        "bbox": [
+          0.5461507456670698,
+          0.5506626763574177,
+          0.9048770656993148,
+          0.5911358130255094
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[解析]：",
+        "bbox": [
+          0.07174526400644901,
+          0.5791648852786091,
+          0.09875050382910117,
+          0.5956961664529001
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.计算二重积分  sin(max{2,2})d dy,中区域D = (x,) ≤x,y ≤√π}.",
+        "bbox": [
+          0.07416364369205965,
+          0.602536696593986,
+          0.4127367996775494,
+          0.6361693031209918
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "故 f (x + f′(x) ≥ f(x) + f′(x) (x + f′(x) − x) = f(x) + (f′(x)2 ≥ f(x) 解析]:",
+        "bbox": [
+          0.5638855300282144,
+          0.6384494798346871,
+          0.8819024586860137,
+          0.6584010260795211
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[答案]:解不妨记D1 ={(x, y)|0≤y≤x≤√π},由对称性可知",
+        "bbox": [
+          0.07134220072551391,
+          0.6412997007268063,
+          0.32083837162434503,
+          0.6601111586147926
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6.设xn ,n 1,2限 m",
+        "bbox": [
+          0.5493752519145506,
+          0.6641014678637595,
+          0.7843611446997178,
+          0.6988741627476129
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[答案]：解注意到",
+        "bbox": [
+          0.5465538089480049,
+          0.7068547812455466,
+          0.6130592503022975,
+          0.7233860624198375
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[解析]：",
+        "bbox": [
+          0.08948004836759371,
+          0.7279464158472282,
+          0.11648528819024587,
+          0.745047741199943
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(−1)n−1 3.求级数 的和. n=1n(2n + 1)",
+        "bbox": [
+          0.07537283353486497,
+          0.7524583155194527,
+          0.196291817815397,
+          0.7889411429385778
+        ],
+        "order": 26
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "又",
+        "bbox": [
+          0.5642885933091495,
+          0.7752600826564059,
+          0.5747682386134623,
+          0.7900812312954254
+        ],
+        "order": 27
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[答案]：解考虑",
+        "bbox": [
+          0.07214832728738411,
+          0.7963517172580875,
+          0.12857718661829906,
+          0.8123129542539547
+        ],
+        "order": 28
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "故",
+        "bbox": [
+          0.5642885933091495,
+          0.8328345446772125,
+          0.5751713018943975,
+          0.847655693316232
+        ],
+        "order": 29
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "注意到",
+        "bbox": [
+          0.08907698508665861,
+          0.8647570186689468,
+          0.11769447803305119,
+          0.880718255664814
+        ],
+        "order": 30
+      },
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[解析]：",
+        "bbox": [
+          0.5465538089480049,
+          0.8898389625195953,
+          0.573559048770657,
+          0.9069402878723101
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocai_71434495.pdf_0",
+    "primary_id": "mineru_jiaocai_71434495.pdf_0_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "数学",
+        "bbox": [
+          0.2523176138653769,
+          0.11799914493373237,
+          0.2958484482063684,
+          0.14764144221177142
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "jiaocai_71434495.pdf_0",
+    "primary_id": "mineru_jiaocai_71434495.pdf_0_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_71434495.pdf_0_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "注意事项：",
+        "bbox": [
+          0.07134220072551391,
+          0.18469431380932022,
+          0.1120515920999597,
+          0.20008550662676358
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

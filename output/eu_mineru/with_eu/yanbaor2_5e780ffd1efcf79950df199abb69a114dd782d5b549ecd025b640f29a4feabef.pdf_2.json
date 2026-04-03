@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2",
+    "primary_id": "mineru_yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2_2",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "附录1:建议总结概要",
+        "bbox": [
+          0.12784313725490196,
+          0.07757575757575758,
+          0.2784313725490196,
+          0.09393939393939393
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "下表概述了咨询件中将有关次公开招股及上市发的般豁免及原则编纳成规，以及对《上市规则》 作若干主要修订的原订建议。",
+        "bbox": [
+          0.12784313725490196,
+          0.10787878787878788,
+          0.8470588235294118,
+          0.14666666666666667
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.12941176470588237,
+          0.1509090909090909,
+          0.8603921568627451,
+          0.8563636363636363
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

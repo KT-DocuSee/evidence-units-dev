@@ -1,0 +1,375 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "The 75th William Lowell Putnam Mathematical Competition Saturday, December 6, 2014",
+        "bbox": [
+          0.2539298669891173,
+          0.059854638734501926,
+          0.781136638452237,
+          0.0940572894399316
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B2 Suppose that f is a function on the interval [1, 3] such that −1 ≤ f (x) ≤ 1 for all x and ∫ f (x) dx = 0. How large can [3 f dx e?",
+        "bbox": [
+          0.5449415558242644,
+          0.12654980761008977,
+          0.9447803305118904,
+          0.17557360695453897
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A1 Prove that every nonzero coeffi cient of the Taylor series of",
+        "bbox": [
+          0.10399032648125756,
+          0.12711985178851362,
+          0.5038291011688835,
+          0.15391192817443353
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B3 Let A be an m × n matrix with rational entries. Sup- pose that there are at least m + n distinct prime numbers among the absolute values of the entries of A. Show that the rank of A is at least 2.",
+        "bbox": [
+          0.5457476823861346,
+          0.17956391620350576,
+          0.9455864570737605,
+          0.23428815733219324
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "about x = 0 is a rational number whose numerator (in lowest terms) is either 1 or a prime number.",
+        "bbox": [
+          0.12978637646110439,
+          0.19153484395040615,
+          0.5038291011688835,
+          0.21946700869317373
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A2 Let A be the n × n matrix whose entry in the i-th row and j-th column is",
+        "bbox": [
+          0.10399032648125756,
+          0.22858771554795496,
+          0.5038291011688835,
+          0.2559498361122987
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B4 Show that for each positive integer n, all the roots of the polynomial",
+        "bbox": [
+          0.5457476823861346,
+          0.2434088641869745,
+          0.9455864570737605,
+          0.2707709847513182
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for 1 ≤ i, j ≤ n. Compute det(A).",
+        "bbox": [
+          0.13059250302297462,
+          0.30611372381359553,
+          0.3571140669085046,
+          0.3215049166310389
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "are real numbers.",
+        "bbox": [
+          0.5731559854897219,
+          0.3254952258800057,
+          0.6900443369609028,
+          0.3386062419837537
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A3 Let a0 = 5/2 and ak = ak−1 − 2 for k ≥ 1. Compute",
+        "bbox": [
+          0.10318419991938735,
+          0.327775402593701,
+          0.4820636839983877,
+          0.34487672794641583
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B5 In the 75th annual Putnam Games, participants compete at mathematical games. Patniss and Keeta play a game in which they take turns choosing an element from the group of invertible n × n matrices with entries in the field Z/pZ of integers modulo p, where n is a fixed positive integer and p is a fixed prime number. The rules of the game are:",
+        "bbox": [
+          0.5465538089480049,
+          0.347726948838535,
+          0.9455864570737605,
+          0.44406441499216187
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "in closed form.",
+        "bbox": [
+          0.12978637646110439,
+          0.3990309248966795,
+          0.23297057638049173,
+          0.4127119851788514
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A4 Suppose X is a random variable that takes on only non- negative integer values, with E [X] = 1, E [X2] = 2, and E [x3] = 5. (Here E [y] denotes the expectation of the random variable Y.) Determine the smallest possible value of the probability of the event X = 0.",
+        "bbox": [
+          0.10318419991938735,
+          0.4218326920336326,
+          0.5038291011688835,
+          0.4925181701581873
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_14",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(1) A player cannot choose an element that has been chosen by either player on any previous turn. (2) A player can only choose an element that com- mutes with all previously chosen elements. (3) A player who cannot choose an element on his/her turn loses the game.",
+        "bbox": [
+          0.5828295042321644,
+          0.45261507766851933,
+          0.9455864570737605,
+          0.5449622345731794
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A5 Let",
+        "bbox": [
+          0.10479645304312778,
+          0.5016388770129685,
+          0.15638855300282145,
+          0.5147498931167166
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Prove that the polynomials Pj(x) and Pk(x) are relatively prime for all positive integers j and k with j ≠ k.",
+        "bbox": [
+          0.12978637646110439,
+          0.5523728088926891,
+          0.5030229746070133,
+          0.5808750178138806
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Patniss takes the first turn. Which player has a winning strategy? (Your answer may depend on n and p.)",
+        "bbox": [
+          0.5723498589278516,
+          0.5535128972495368,
+          0.9447803305118904,
+          0.5814450619923044
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A6 Let n be a positive integer. What is the largest k for which there exist n × n matrices M1, . .., Mk and N1, . ., Nk with real entries such that for all i and j, the matrix product MiN; has a zero entry somewhere on its diagonal if and only if i ≠ j?",
+        "bbox": [
+          0.10318419991938735,
+          0.589425680490238,
+          0.5046352277307538,
+          0.6584010260795211
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B6 Let f : [0, 1] → R be a function for which there exists a constant K > 0 such that |f (x) − f (y)| ≤ K |x − y| for all x, y ∈ [0, 1]. Suppose also that for each rational number r ∈ [0, 1], there exist integers a and b such that f (r) = a + br. Prove that there exist finitely many intervals I1 , .., n such that f is a linear function on each Ii and [0, 1] = Ui=1 Ii",
+        "bbox": [
+          0.5465538089480049,
+          0.589425680490238,
+          0.9463925836356308,
+          0.6874732791791364
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_17",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B1 A base 10 over-expansion of a positive integer N is an expression of the form",
+        "bbox": [
+          0.10399032648125756,
+          0.6663816445774547,
+          0.5038291011688835,
+          0.6943138093202224
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2014_Problems_2014_page_001_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with dk ≠ 0 and di ∈ {0, 1, 2, . . , 10} for all i. For instance, the integer N = 10 has two base 10 over- expansions: 10 = 10· 100 and the usual base 10 expan- sion 10 = 1. 101 + 0· 10. Which positive integers have a unique base 10 over-expansion?",
+        "bbox": [
+          0.12978637646110439,
+          0.7302265925609235,
+          0.5038291011688835,
+          0.7997719823286304
+        ],
+        "order": 21
+      }
+    ]
+  }
+]

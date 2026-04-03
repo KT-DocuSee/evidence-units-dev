@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_all655920_page_001",
+    "primary_id": "mineru_PPT_all655920_page_001_0",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_PPT_all655920_page_001_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Scientific English – final exam The final exam will be written, not oral.",
+        "bbox": [
+          0.06,
+          0.08622222222222223,
+          0.868,
+          0.24266666666666667
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_all655920_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "You will be given a scientific article. You will be asked to:",
+        "bbox": [
+          0.058666666666666666,
+          0.30844444444444447,
+          0.914,
+          0.36
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_all655920_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EAsY Underline the parts of speech (articles, nouns, verbs..) found in a given section of the article; → MINIMUM LEVEL TO PASS THE EXAM",
+        "bbox": [
+          0.06133333333333333,
+          0.4275555555555556,
+          0.872,
+          0.576
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_PPT_all655920_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "INTERMEDlATE Answer a list of open questions concerning the whole article;",
+        "bbox": [
+          0.05533333333333333,
+          0.6444444444444445,
+          0.7826666666666666,
+          0.7448888888888889
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_PPT_all655920_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ADVANCED Summarize the article with your own words.",
+        "bbox": [
+          0.05466666666666667,
+          0.8142222222222222,
+          0.8066666666666666,
+          0.9102222222222223
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

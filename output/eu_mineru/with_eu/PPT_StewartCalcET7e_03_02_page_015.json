@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_015",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_015_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_015_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SO",
+        "bbox": [
+          0.056666666666666664,
+          0.232,
+          0.09733333333333333,
+          0.2702222222222222
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_015",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_015_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_015_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As ∆x → 0, ∆v → 0 also, because v = g(x) is differentiable and therefore continuous.",
+        "bbox": [
+          0.054,
+          0.4782222222222222,
+          0.918,
+          0.5822222222222222
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_015",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_015_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_015_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thus, using the Limit Laws, we get",
+        "bbox": [
+          0.05733333333333333,
+          0.6586666666666666,
+          0.576,
+          0.712
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

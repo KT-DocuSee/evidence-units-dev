@@ -1,0 +1,327 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_1",
+    "text": "We cannot have a = 1, since 1 - 2\" # 2001 for any n. Thus the only possibility is a = 13. One easily checks that a = 13,n = 2 is a solution; all that remains is to check that no other n works. In fact, if n > 2, then 13\"+1 = 2001 = 1 (mod 8). But 13\"+1 = 13 (mod 8) since n is even, contradiction. Thus a = 13, n = 2 is the unique solution.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12770515919215314,
+      0.06820436505776281,
+      0.49075214074903706,
+      0.16865079365523838
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_13",
+    "text": "It follows that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909770031369,
+      0.06820436505776281,
+      0.6522556414555096,
+      0.08139534883760957
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_14",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5751879703189203,
+      0.09447674475811027,
+      0.8609022563652962,
+      0.12063953474303792
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_15",
+    "text": "as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706782319852,
+      0.13368055572057394,
+      0.6296992489609973,
+      0.14534883714329494
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_16",
+    "text": "Note: Richard Stanley points out a theorem of Ryser (see Ryser, Combinatorial Mathematics, Theorem 3.1) that can also be applied. Namely, if A and B are 0 I matrices with the same row and column sums, then there is a sequence of operations on 2 x 2 matrices of the form",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112717694317,
+      0.15252976174054403,
+      0.9210526307493652,
+      0.23691860452701596
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_2",
+    "text": "Note: once one has that n is even, one can use that 2002 = a'+1 + 1 - (a + 1)\" is divisible by a + 1 to rule out cases.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12774444850827293,
+      0.17584325381503732,
+      0.4906015045701836,
+      0.21687665533355502
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_3",
+    "text": "A-6 The answer is yes. Consider the arc of the parabola y = Ax? inside the circle x + (y - 1)? = 1, where we initially assume that A > 1/2. This intersects the circle in three points, (0,0) and (IV2A - 1/A, (2A - 1)/A). We claim that for A sufficiently large, the length L of the parabolic arc between (0,0) and (V2A - 1/A, (2A 1) /A) is greater than 2, which implies the desired result by symmetry. We express L using the usual formula for arclength:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466537593982,
+      0.2281746029887831,
+      0.490601507481203,
+      0.3576569487570811
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_17",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6540522829968972,
+      0.2469026143991548,
+      0.7820379422423993,
+      0.28071366514722307
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_18",
+    "text": "or vice versa, which transforms A into B. If we identify 0 and 1 with red and black, then the given coloring and the checkerboard coloring both satisfy the sum condition. Since the desired result is clearly true for the checkerboard coloring, and performing the matrix operations does not affect this, the desired result follows in general.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112792101969,
+      0.2906746029514453,
+      0.9210526214007057,
+      0.3927335110234247
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_4",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14473684290617067,
+      0.37063953503693753,
+      0.436242317271826,
+      0.47696321998036856
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_19",
+    "text": "B-2 By adding and subtracting the two given equations, we obtain the equivalent pair of equations",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360951597743,
+      0.4025297618832598,
+      0.9191729372650377,
+      0.4317956349505051
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_20",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6334586508245533,
+      0.44040697714183125,
+      0.800751883679011,
+      0.4796626980618975
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_5",
+    "text": "where we have artificially introduced —x into the integrand in the last step. Now, for x ≥ 0,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954002757723,
+      0.4927325582539919,
+      0.4906015005112703,
+      0.5203488373441504
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_21",
+    "text": "Multiplying the former by x and the latter by y, then adding and subtracting the two resulting equations, we obtain another pair of equations equivalent to the given ones,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112848301682,
+      0.4927325583713611,
+      0.919172938756884,
+      0.549418604643295
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_6",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11529064402860753,
+      0.5307467928799716,
+      0.4650738166360294,
+      0.5701679021661932
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_22",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6146616510551461,
+      0.5610119047823062,
+      0.8195488746967338,
+      0.5784883716953781
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_7",
+    "text": "since fö dx / (2(x + 1)) diverges, so does fö° (V1+*2 x) dx. Hence, for sufficiently large A, we have 12/2A (VT +x? -x) dx > 2, and hence L > 2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984960056392,
+      0.5755813950121333,
+      0.4906015011704422,
+      0.6249999995524834
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_23",
+    "text": "It follows that x = (31/5 + 1)/2 and y = (31/5 - 1) /2 is the unique solution satisfying the given equations.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909751554046,
+      0.5885416671291183,
+      0.919172938756884,
+      0.6192956348550278
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_24",
+    "text": "B-3 Since (k - 1/2)? = k2-k+ 1/4 and (k+1/2)?= kº+ k + 1/4, we have that (n) = k if and only if k- k+1≤ nIk? + k. Hence",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5225564099263378,
+      0.6264534889078195,
+      0.9191729256961476,
+      0.6731711034109837
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_8",
+    "text": "Note: a numerical computation shows that one must take A > 34.7 to obtain L > 2, and that the maximum value of L is about 4.0027, achieved for A ~ 94.1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984733585584,
+      0.6293604652357916,
+      0.49060150063221364,
+      0.6729651159018947
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_25",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5507518799915394,
+      0.6830357139355078,
+      0.8835482849868752,
+      0.8997093020792203
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_9",
+    "text": "B-1 Let R (resp. B) denote the set of red (resp. black) squares in such a coloring, and for s € RUB, let f(s)n + g(s) + 1 denote the number written in square s, where 0 ≤ f(s),8(s) ≤ n- 1. Then it is clear that the value of f(s) depends only on the row of s, while the value of 8(5) depends only on the column of s. Since every row contains exactly n/2 elements of R and n/ 2 elements of",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466560150368,
+      0.6830357143560558,
+      0.4907803996096377,
+      0.784327975221709
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_10",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22368421081860698,
+      0.8110119046815627,
+      0.35338345759743717,
+      0.8357558137643557
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_11",
+    "text": "Similarly, because every column contains exactly n/2 elements of R and n/2 elements of B,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955212030868,
+      0.8488372096102496,
+      0.49060151260400175,
+      0.8764880950439069
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22556391063063708,
+      0.8895348834423661,
+      0.35150375784086024,
+      0.914244185651468
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "order": 26
+  }
+]

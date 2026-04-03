@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_0",
+    "text": "2. (18%) On FA and Regular Languages",
+    "canon_role": "section_header",
+    "bbox": [
+      0.12817412333736397,
+      0.086076670941998,
+      0.5296251511487303,
+      0.10374804047313667
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_1",
+    "text": "Say whether each of the following languages is regular or not regular? Prove your answers.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14671503426037888,
+      0.10545817300840815,
+      0.8738411930673116,
+      0.139090779535414
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_2",
+    "text": "(a) L1 = {ω|w ∈ {0, 1}* and ω has an equal number of Os and 1s}. (b) L2 = {w|w ∈ {0, 1}* and w has an equal number of 01s and 10s}.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15800080612656187,
+      0.14479122131965227,
+      0.7617896009673518,
+      0.18697449052301554
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_3",
+    "text": "3. (20%) On PDA and Context-Free Languages",
+    "canon_role": "section_header",
+    "bbox": [
+      0.12898024989923418,
+      0.4993587002992732,
+      0.6013704151551794,
+      0.516460025651988
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_4",
+    "text": "Let L3 = {wcambn|ω ∈ {a, b}, where ν = wR, and m, n ∈ N, n ≤ m ≤ 2n}.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14993954050785974,
+      0.5176001140088357,
+      0.8117694478033051,
+      0.5358415277183982
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_5",
+    "text": "(a) Give a context-free grammar for the language L3. (b) Design a PDA M = (K, Σ, Γ, ∆, s, F) accepting the language L3.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1596130592503023,
+      0.5409719253242127,
+      0.758565094719871,
+      0.5820151061707283
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_6",
+    "text": "Solution: (a)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1539701733172108,
+      0.5871455037765427,
+      0.27972591696896415,
+      0.6042468291292575
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_7",
+    "text": "(b) The PDA M = (K, Σ, Γ, ∆, s, F) is defined below:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1539701733172108,
+      0.6601111586147926,
+      0.6207174526400645,
+      0.6794926606812028
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_jiaocai_jiaocai_en_37_8",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.2426440951229343,
+      0.6880433233575602,
+      0.785167271261588,
+      0.9343024084366538
+    ],
+    "page": "jiaocai_jiaocai_en_37",
+    "order": 9
+  }
+]

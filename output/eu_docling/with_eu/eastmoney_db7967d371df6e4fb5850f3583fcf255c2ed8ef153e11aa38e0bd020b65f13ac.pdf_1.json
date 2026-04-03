@@ -1,0 +1,156 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1",
+    "primary_id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_8",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14060177047711042,
+          0.03561447685016634,
+          0.31438356558674047,
+          0.06861423396207982
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_4",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "д Ладит дАнИналВо",
+        "bbox": [
+          0.40451745769445235,
+          0.42584325352860525,
+          0.80287474739795,
+          0.44196428527463694
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1",
+    "primary_id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CENTRAL CHINA SECURITIES",
+        "bbox": [
+          0.13963039267719027,
+          0.05952380962948759,
+          0.3141683723809891,
+          0.07122093023922507
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1",
+    "primary_id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Đ HA 1 54.0010% tấ tu $ 100%.",
+        "bbox": [
+          0.43121150982182166,
+          0.08283730166431016,
+          0.7577002026525106,
+          0.09747023817224672
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Атат що пад 5G лі налИтія # НЕлК $.",
+        "bbox": [
+          0.43121150758376464,
+          0.14825581388931355,
+          0.9240246393361532,
+          0.2747093016081689
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1",
+    "primary_id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_7",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ANit 4 5 23-25 417714 #11 # 2.75/3.76/4.71 12 € (/11# 3.75/5.44/7.47 12F), 2 22 45) EPS # 1.04/1.42/1.77 A, XE PE # 56.33/41.29/32.94 1*. #",
+        "bbox": [
+          0.4291581161259015,
+          0.30523255793606746,
+          0.9425051410469418,
+          0.35912698386495595
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_7",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "2021A | 2022A | 2023E | 2024E | 2025E | 1,594 | 2,324 | 2,569 | 3,141 | 3,791 | 36.64 | 45.80 | 10.56 | 22.25 | 20.69 | (755) | 107 | 265 | 275 | 376 | 471 | -27.55 | 148.72 | 3.87 | 36.42 | 25.37 | 0.40 | 1.00 | 1.04 | 1.42 | 1.77 | 7 E 7(1) | 145.53 | 58.51 | 56.33 | 41.29 | 32.94",
+        "bbox": [
+          0.40271811617905456,
+          0.45006405690532814,
+          0.9531260332432738,
+          0.5860542992130718
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1",
+    "primary_id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_db7967d371df6e4fb5850f3583fcf255c2ed8ef153e11aa38e0bd020b65f13ac.pdf_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "$ * * R: Wind, +RiE*",
+        "bbox": [
+          0.40862423101664774,
+          0.5900297622988048,
+          0.6160164273509087,
+          0.6076388892829319
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

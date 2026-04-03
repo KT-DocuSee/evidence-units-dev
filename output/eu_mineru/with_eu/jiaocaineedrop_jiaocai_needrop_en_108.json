@@ -1,0 +1,169 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_108",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "上述程序框图用的是当型循环结构，如果用直到型循环结构表示，则程序框图为（图 1.1-15):",
+        "bbox": [
+          0.10566646501310747,
+          0.07140816909454442,
+          0.9017947166767494,
+          0.11196800914024564
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_108",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.35894333534986894,
+          0.12339331619537275,
+          0.6436781609195402,
+          0.49928591830905455
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.14519056261343014,
+          0.56269637246501,
+          0.22988505747126436,
+          0.6358183376178235
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_108",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_2",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图1.1-15",
+        "bbox": [
+          0.4694494857834241,
+          0.5084261639531562,
+          0.5396249243799153,
+          0.5232790631248215
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_108",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "如何用自然语言表述图1.1-15中的算法？改进这一算法,表示输出 1，1+2，1+2+3，…，1+2+3++(n—1)+n(n∈N)的过程.",
+        "bbox": [
+          0.25327687033676144,
+          0.5946872322193659,
+          0.8913087315991127,
+          0.6363896029705798
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "例7 某工厂2005年的年生产总值为200万元，技术革新后预计以后每年的年生产总 值都比上一年增长5%.设计一个程序框图，输出预计年生产总值超过300万元的最早年份.",
+        "bbox": [
+          0.10647307924984876,
+          0.6923736075407027,
+          0.9050211736237145,
+          0.7432162239360183
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_108",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_6",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "算法分析：",
+        "bbox": [
+          0.14519056261343014,
+          0.7472150814053128,
+          0.23714458560193588,
+          0.7643530419880035
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "先写出解决本例的算法步骤： 第一步，输入2005年的年生产总值. 第二步，计算下一年的年生产总值. 第三步，判断所得的结果是否大于300.若是，则输出该年的年份；否则，返回第 二步.",
+        "bbox": [
+          0.1088929219600726,
+          0.770065695515567,
+          0.9074410163339383,
+          0.8786061125392745
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_108_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "由于“第二步”是重复操作的步骤，所以本例可以用循环结构来实现.我们按照“确 定循环体”“初始化变量”“设定循环控制条件”的顺序来构造循环结构.",
+        "bbox": [
+          0.10566646501310747,
+          0.882604970008569,
+          0.9058277878604557,
+          0.9248786061125392
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

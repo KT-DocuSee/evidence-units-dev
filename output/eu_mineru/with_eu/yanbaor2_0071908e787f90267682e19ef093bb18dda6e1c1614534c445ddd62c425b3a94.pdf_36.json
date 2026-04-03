@@ -1,0 +1,231 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "“ Intelligent automation (IA) is a term increasingly applied to this concept of combining multiple automation technologies to solve complex business issues.",
+        "bbox": [
+          0.6835953244659412,
+          0.11229870314949408,
+          0.9302700523982266,
+          0.43722388485107594
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Automation technologies can be broadly grouped into three categories:",
+        "bbox": [
+          0.054816606207174524,
+          0.1145788798631894,
+          0.2974607013301088,
+          0.15505201653128117
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_6",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Jobs changing, not necessarily replaced",
+        "bbox": [
+          0.3571140669085046,
+          0.1145788798631894,
+          0.6078194276501411,
+          0.1413709562491093
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Doomsday predictions about automation's impacts to the workforce have been in the headlines for the past few years, with total job loss a significant concern. For example, in 2014 Gartner research director Peter Sondergaard stated, \"Gartner predicts one in three jobs will be converted to software, robots and smart machines by 2025.\"Yet while there are pockets of extensive automation within the industry, generous estimates cannot put the average rate of automation above 5 percent—significantly behind the rate required to achieve replacement of a full third of the workforce in 7 years.",
+        "bbox": [
+          0.3555018137847642,
+          0.14251104460595695,
+          0.6376461104393389,
+          0.3471569046601112
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. Robotic Process Automation (RPA): The simplest form of automation, RPA technology automates repetitive rule-based processes. This technology cannot learn, adapt or make decisions; an RPA bot simply applies a consistent set of rules to a process to deliver quick and efficient outcomes. Many manual administrative processes can be streamlined in this way.",
+        "bbox": [
+          0.05723498589278517,
+          0.15619210488812882,
+          0.3353486497380089,
+          0.29243266353142366
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2. Machine learning: At the next level is machine learning, where a computer is able to use large volumes of data to understand and predict the desired course of action, with performance improving over time. Chat-bots are a good example of machine learning being used today in the financial sector. These bots use technologies such as natural language processing (NLP) to communicate in real time with human customers, use data from past interactions to understand the nature of the customer's query, and provide the desired information or response.",
+        "bbox": [
+          0.05401047964530431,
+          0.30611372381359553,
+          0.33615477629987905,
+          0.5113296280461735
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "While initial predictions were for automation to result in wholesale replacement of human workers, that is not what we are seeing play out in immediate timeframes. Instead, these technologies are being used to enhance or support the work of human employees. Automation capabilities can help remove the burden of repetitive administrative work or provide information to help individuals make better decisions, allowing employees to focus on",
+        "bbox": [
+          0.3555018137847642,
+          0.3602679207638592,
+          0.6416767432486901,
+          0.5118996722245974
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3. Cognitive augmentation: Cognitive augmentation is the closest we currently have to true artificial intelligence. Cognitive computers, such as IBM's Watson, are able to handle unstructured data and provide answers to complex queries, enabling them to complete tasks that could once only be performed by humans.",
+        "bbox": [
+          0.054816606207174524,
+          0.5244406441499216,
+          0.3385731559854897,
+          0.6475701866894684
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_10",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Today's organizational challenges",
+        "bbox": [
+          0.3603385731559855,
+          0.5369816160752459,
+          0.6344216041918581,
+          0.552942853071113
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Though these categories denote levels of complexity, it is better not to think of automation technologies as stages through which an organization must progress. Instead, each technologyis best suited to particular types of work and may be usedin concert to achieve larger goals.",
+        "bbox": [
+          0.05562273276904474,
+          0.6612512469716403,
+          0.3385731559854897,
+          0.7570186689468433
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_11",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3587263200322451,
+          0.5677640017101325,
+          0.9222087867795243,
+          0.9035200228017671
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Intelligent automation (lA) is a term increasingly applied to this concept of combining multiple automation technologies to solve complex business issues. For example, organizations are looking to use RPA with machine learning, NLPand digital character recognition to help address regulatory compliance challenges and process high-volume, low- complexity insurance claims.",
+        "bbox": [
+          0.054816606207174524,
+          0.7701296850505914,
+          0.3377670294236195,
+          0.907510332050734
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_12",
+        "observed_type": "image_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Source: Robotics Revolution, 2018,KPMGin Luxembourg",
+        "bbox": [
+          0.35792019347037485,
+          0.9223314806897535,
+          0.6892382103990327,
+          0.9343024084366538
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

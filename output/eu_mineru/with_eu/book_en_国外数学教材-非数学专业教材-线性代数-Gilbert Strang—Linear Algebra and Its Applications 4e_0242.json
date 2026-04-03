@@ -1,0 +1,198 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(e) the \"reverse-triangular' matrix that results from row exchanges,",
+        "bbox": [
+          0.1475211608222491,
+          0.0837964942283027,
+          0.7432486900443369,
+          0.10317799629471285
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_1",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8. Show how rule 6 (det = 0 if a row is zero) comes directly from rules 2 and 3.",
+        "bbox": [
+          0.1120515920999597,
+          0.21205643437366395,
+          0.8222490931076178,
+          0.23200798061849792
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9. Suppose you do two row operations at once, going from",
+        "bbox": [
+          0.1185006045949214,
+          0.24226877583012685,
+          0.6449012494961709,
+          0.261650277896537
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Find the determinant of the new matrix, by rule 3 or by direct calculation.",
+        "bbox": [
+          0.14510278113663846,
+          0.32834544677212485,
+          0.7948407900040306,
+          0.347726948838535
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10. If Q is an orthogonal matrix, so that QTQ = I, prove that detQ equals +1 or −1. what kind of box is formed from the rows (or columns) of Q?",
+        "bbox": [
+          0.10721483272873841,
+          0.3568476556933162,
+          0.886739218057235,
+          0.3978908365398318
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11. Prove again that det Q = 1 or −1 using only the Product rule. If |det Q| > 1 then det Qn blows up. How do you know this can't happen to Qn?",
+        "bbox": [
+          0.10560257960499798,
+          0.4075815875730369,
+          0.8891575977428456,
+          0.4480547242411287
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12. Use row operations to verify that the 3 by 3 \"Vandermonde determinant'\"' is",
+        "bbox": [
+          0.10399032648125756,
+          0.4571754310959099,
+          0.8077388149939541,
+          0.4771269773407439
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13. (a) A skew-symmetric matrix satisfies KT = −K, as in In the 3 by 3 case, why is det(−K) = (−1)3 det K? On the other hand det KT = det K (always). Deduce that the determinant must be zero.",
+        "bbox": [
+          0.10802095929060862,
+          0.569474134245404,
+          0.6328093510681176,
+          0.589425680490238
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_8",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.18218460298266828,
+          0.6766424397890837,
+          0.8859330914953648,
+          0.7171155764571754
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(b) Write down a 4 by 4 skew-symmetric matrix with det K not zero.",
+        "bbox": [
+          0.1475211608222491,
+          0.7228160182414137,
+          0.7521160822249093,
+          0.7421975203078238
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14. True or false, with reason if true and counterexample if false:",
+        "bbox": [
+          0.10882708585247884,
+          0.7530283596978766,
+          0.6860137041515518,
+          0.7724098617642867
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0242_11",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(a) If A and B are identical except that b11 = 2a11, then det B = 2detA. (b) The determinant is the product of the pivots. (c) If A is invertible and B is singular, then A + B is invertible. (d) If A is invertible and B is singular, then AB is singular. (e) The determinant of AB – BA is zero.",
+        "bbox": [
+          0.15074566706972994,
+          0.7821006127974918,
+          0.7714631197097944,
+          0.9018098902664956
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

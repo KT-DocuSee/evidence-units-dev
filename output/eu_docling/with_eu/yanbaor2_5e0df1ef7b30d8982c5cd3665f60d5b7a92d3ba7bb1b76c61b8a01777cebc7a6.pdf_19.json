@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19",
+    "primary_id": "docling_yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(",
+        "bbox": [
+          0.44317338769903014,
+          0.1842105264097745,
+          0.5087209220967003,
+          0.22368421062030072
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19",
+    "primary_id": "docling_yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "0329 | 31 | (2024) 35 | 32 | 0329 | MAiFE (2024) 2405 | 33 | 0329 | TRiEL (2024) 2415 | 0329 | 34 | NEE (2024) 2425 | 35 | 0329 | TRiEE (2024) 243÷ | 36 | 0329 | LiEZ (2024) 295 | 37 | 0329 | LiEX (2024) 30₴",
+        "bbox": [
+          0.056432633833451706,
+          0.23857635498046875,
+          0.9466522771661932,
+          0.46724415498621324
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19",
+    "primary_id": "docling_yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "KPMG",
+        "bbox": [
+          0.0566860466599288,
+          0.8101503765454242,
+          0.09593023297046986,
+          0.8345864653718694
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaor2_5e0df1ef7b30d8982c5cd3665f60d5b7a92d3ba7bb1b76c61b8a01777cebc7a6.pdf_19_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05680679668079723,
+          0.8117473288143382,
+          0.09309779774058949,
+          0.8318103745404412
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2234",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2234_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2234_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.对体吸入的空和呼出体的探究",
+        "bbox": [
+          0.05206880520688052,
+          0.07111111111111111,
+          0.41376104137610414,
+          0.08823045267489713
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2234",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2234_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2234_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1097164109716411,
+          0.08888888888888889,
+          0.7810320781032078,
+          0.3700411522633745
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

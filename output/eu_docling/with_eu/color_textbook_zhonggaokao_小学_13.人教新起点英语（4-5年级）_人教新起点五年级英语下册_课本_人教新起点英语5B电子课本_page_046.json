@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046",
+    "primary_id": "docling_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_3",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0806008839131267,
+          0.04863984954820937,
+          0.31231896226794087,
+          0.0785155897723553
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ight)",
+        "bbox": [
+          0.4743326494999378,
+          0.41860465130014024,
+          0.49897330501751597,
+          0.4331395343829994
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "S",
+        "bbox": [
+          0.4599589321529456,
+          0.43459302330465327,
+          0.47022587262118165,
+          0.4447674415572654
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046",
+    "primary_id": "docling_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "C Let's make.",
+        "bbox": [
+          0.0882956924215507,
+          0.05232558136125074,
+          0.31622176064386426,
+          0.07564484088370393
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08082791955559021,
+          0.057348576709214005,
+          0.9283817981274577,
+          0.8941288720139483
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.25_page_006",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.25_page_006_10",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "From IONIQ 5 to robotaxi. Excellence goes autonomous.",
+        "bbox": [
+          0.05534350825651304,
+          0.08720930173936904,
+          0.8797709838484108,
+          0.1758720931794954
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_10",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2744025390625,
+          0.2006091366182849,
+          0.940876171875,
+          0.5031924424079288
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NER 2023",
+        "bbox": [
+          0.4045801537694322,
+          0.4098837209298323,
+          0.46755724955117867,
+          0.4229651163666794
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The IONIQ 5 is proven worldwide for its prowess in electrification and sustainability. With its global award-winning DNA, Hyundai now begins a pivotal journey with the",
+        "bbox": [
+          0.059160316250337006,
+          0.8139534884090307,
+          0.6183206109634032,
+          0.8415697673177137
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IONIQ 5 robotaxi, which is set to launch in Las Vegas during the first half of 2024.",
+        "bbox": [
+          0.05725191707441617,
+          0.8923611112469597,
+          0.593511455110698,
+          0.9055232558397898
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.25_page_006",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.25_page_006_12",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_12",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.057693646240234375,
+          0.5023033781839712,
+          0.51389599609375,
+          0.7538123240374373
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IONIQ 5 robotaxi",
+        "bbox": [
+          0.721374048054255,
+          0.5043604648704181,
+          0.8874045737491805,
+          0.5203488374915003
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IONIQ 5, 2022 World Car of the Year",
+        "bbox": [
+          0.1412213749707344,
+          0.7194767446867681,
+          0.43320610217621225,
+          0.7341269840446408
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Hyundai introduces the IONIQ 5 robotaxi.",
+        "bbox": [
+          0.05916031692281133,
+          0.7978670633567152,
+          0.3416030489168832,
+          0.8095930231534694
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IONIQ 5 robotaxi, a level 4 autonomous vehicle that can drive without a driver. More than 30 sensors including LiDAR, and a computing system allows the robotaxi to detect 360° and make optimal decisions. Hyundai is beginning production of the",
+        "bbox": [
+          0.057251906722665453,
+          0.8459302332052104,
+          0.6183205983822966,
+          0.889632936298413
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.25_page_006",
+    "primary_id": "docling_magazine_TheEconomist.2023.11.25_page_006_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2023.11.25_page_006_11",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.71493994140625,
+          0.933055087577043,
+          0.9433916015625,
+          0.960177992671397
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

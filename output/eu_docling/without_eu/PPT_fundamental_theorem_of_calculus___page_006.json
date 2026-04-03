@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_006_0",
+    "text": "After an lot of algebra, it would probably come to an expression similar to this:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06104652278167288,
+      0.11434108478089547,
+      0.8851743963542839,
+      0.2519841260534539
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_006",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_006_1",
+    "text": "Area = lim 56(1 + 2h + 4h2 + 8h3 + ... ) as h→0 = 56 units?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05813954332712217,
+      0.30423280504720757,
+      0.7776162734315989,
+      0.5462126416776752
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_006",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_006_2",
+    "text": "Unfortunately, simplyfying the expression into something like the above is extremely difficult. (see pages 285 - 288 in my book)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.059593014522753326,
+      0.6143410863320055,
+      0.8459302256431559,
+      0.8101851856960546
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_006",
+    "order": 3
+  }
+]

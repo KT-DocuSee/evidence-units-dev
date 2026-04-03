@@ -1,0 +1,189 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18",
+    "primary_id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_6",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0,
+          0.0002472698815921883,
+          0.9988378965292473,
+          0.4733450417846836
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "101010",
+        "bbox": [
+          0.607802875242525,
+          0.26453488373848805,
+          0.6591375773584333,
+          0.27616279058321735
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "19",
+        "bbox": [
+          0.8542094460523051,
+          0.9418604655476599,
+          0.8809034910455732,
+          0.9505813952081543
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18",
+    "primary_id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11780805483982958,
+          0.5486137321638521,
+          0.25564711731030837,
+          0.6646146085232738
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18",
+    "primary_id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_9",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5493583264056832,
+          0.5488424770033935,
+          0.6849965253504762,
+          0.6651359254756306
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18",
+    "primary_id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_0",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "86 (21) 2323 2655 yuqing.guo@cn.pwc.com",
+        "bbox": [
+          0.29158111066240217,
+          0.616279069854251,
+          0.4825462041866758,
+          0.6482558138148066
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18",
+    "primary_id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "86 (21) 2323 3263 jun.jin@strategyand.cn.pwc.com",
+        "bbox": [
+          0.7186858327451242,
+          0.6177325581682044,
+          0.9630390144442614,
+          0.6511627906690051
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18",
+    "primary_id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11794418464116346,
+          0.709789444106723,
+          0.25430196372312386,
+          0.8259596219170853
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18",
+    "primary_id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_533f881f4aabe82c1477b97463169dc51256487aa3770f2f47a32c3a16723478.pdf_18_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "ДАл 86 (10) 8553 1691 leon.za.feng@cn.pwc.com",
+        "bbox": [
+          0.29158110856593783,
+          0.7122093027172914,
+          0.49486653222361143,
+          0.8095930231171322
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

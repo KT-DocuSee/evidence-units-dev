@@ -1,0 +1,169 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "primary_id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 4 Comparison review with existing work's methods and accuracy scores.",
+        "bbox": [
+          0.2434502216848045,
+          0.1658828559213339,
+          0.7779121322047562,
+          0.1784238278466581
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "primary_id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09351068117694478,
+          0.1784238278466581,
+          0.9318823055219669,
+          0.24739917343594128
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_8",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5215638855300282,
+          0.24853926179278893,
+          0.9294639258363563,
+          0.8744477697021519
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "4. Conclusion",
+        "bbox": [
+          0.094316807738815,
+          0.2884423542824569,
+          0.21039903264812576,
+          0.30155337038620494
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "primary_id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In this research, we used a deep learning method focused on Fusion CNN architecture to derive facial patches and depth of 3 types of human facial image samples namely Color, Depth and IR from the CASIA-SURF dataset modeled with an altered 3D convolutional neural network classifier. Our primary interest was to be able to extract facial patches and the depth levels of all 3 facial inputs stated earlier on to distinguish a real face from a spoofed face from a CASIA- SURF dataset provided which are not preprocessed.",
+        "bbox": [
+          0.094316807738815,
+          0.31637451902522445,
+          0.5006045949214026,
+          0.43893401738634746
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "primary_id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_4",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Acknowledgements",
+        "bbox": [
+          0.094316807738815,
+          0.453755166025367,
+          0.23377670294236194,
+          0.466866182129115
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This work is supported by Department of Science and Technology of Sichuan Province, China, under Grant 2019YJ0166.",
+        "bbox": [
+          0.09351068117694478,
+          0.4811172865897107,
+          0.5006045949214026,
+          0.5215904232578025
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "primary_id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_6",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "References",
+        "bbox": [
+          0.094316807738815,
+          0.5369816160752459,
+          0.17331721080209592,
+          0.5500926321789938
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_scihub_iccwamtip51612.2020.9317329.pdf_4_7",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "[1] J. Berry and D. A. Stoney. The history and development of fingerprinting [J]. Advances in fingerprint Technology, 2001, 2:13–52. [2] W. Yang, S. Wang, J. Hu, et al. Security and accuracy of fingerprint-based biometrics: A review [J]. Symmetry,2019, 11(2):141. [3] L. Introna and H. Nissenbaum. Facial recognition technology a survey of policy and implementation issues [J].2010. [4] D. Wen, H. Han, and A. K. Jain. Face spoof detection with image distortion analysis [J]. IEEE Transactions on Information Forensics and Security, 2015, 10(4):746–761. [5] K. A. Nixon, V. Aimale, and R. K. Rowe.Handbook of biometrics, 2008, 403–423. [6] A. da Silva Pinto, H. Pedrini, W. Schwartz, et al. Video- based face spoofing detection through visual rhythm analysis [C].2012 25th SIBGRAPI Conference on Graphics, Patterns and Images, 2012, 221–228. [7] A. Krizhevsky, I. Sutskever, and G. E. Hinton. Imagenet classification with deep convolutional neural networks [C]. Advances in neural information processing systems, 2012, 1097–1105. [8] Y. Atoum, Y. Liu, A. Jourabloo, et, et, et al. Face anti- spoofing using patch and depth-based CNNs [C].2017 IEEE International Joint Conference on Biometrics (IJCB), 2017, 319–328. [9] R. Min, J. Choi, G. Medioni, et al. Real-time 3D face identification from a depth camera [C]. Proceedings of the 21st International Conference on Pattern Recognition (ICPR2012), 2012, 1739–1742. [10] S. Lawrence, C. L. Giles, A. C. Tsoi, et al. Face recognition: A convolutional neural-network approach [J]. IEEE transactions on neural networks, 1997, 8(1):98–113. [11] Z. Zhang, J. Yan, S. Liu, et al. A face antispoofing database with diverse atacks [C].2012 5th IAPR international conference on Biometrics (ICB), 2012, 26–31. [12] G. Albakri and S. Alghowinem. The effectiveness of depth data in liveness face authentication using 3D sensor cameras [J]. Sensors, 2019, 19(8):1928. [13] J. Dai, Y. Li, K. He, et al. R-fcn: Object detection via region-based fully convolutional networks [C]. Advances in neural information processing systems, 2016,379–387. [14] C.-L. Zhang, J.-H. Luo, X.-S. Wei, et al. In defense of fully connected layers in visual representation transfer [C]. Pacific Rim Conference on Multimedia, 2017, 807–817. [15] J. Koneny, J. Liu, P. Richtarik, et al. Mini-batch semi- stochastic gradientdescent in the proximal setting [J]. IEEE Joural of Selected Topics in Signal Processig, 2015,10(2):242–255. [16] A. F. Agarap. Deep learning using rectified linear units (relu) [J]. arXiv preprint arXiv:1803.08375, 2018. [17] L. Bottou.Neural networks: Tricks of the trade, 2012, 421-436. [18] M. Hardt, B. Recht, and Y. Singer. Train faster, generalize better: Stability of stochastic gradient descent [J]. arXiv preprint arXiv:1509.01240, 2015. [19] D. T. van der Haar. Face Antispoofing Using Shearlets: An Empirical Study [J]. SAIEE Africa Research Journal, 2019, 10(2):94–103. [20] C. Nagpal and S. R. Dubey. A performance evaluation of convolutional neural networks for face anti spoofing",
+        "bbox": [
+          0.09270455461507457,
+          0.5632036482827419,
+          0.5006045949214026,
+          0.8522160467436226
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

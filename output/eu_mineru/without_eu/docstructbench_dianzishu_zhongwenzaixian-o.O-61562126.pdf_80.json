@@ -1,0 +1,67 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80_0",
+    "text": "风景四时皆宜的白鹭洲",
+    "canon_role": "section_header",
+    "bbox": [
+      0.3338315894369706,
+      0.3398963730569948,
+      0.8589935226706528,
+      0.38134715025906735
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80_1",
+    "text": "白鹭洲公园位于南京城东 南隅，南临长乐路，北接长 街，东贴明城墙，西坝 街，占地0.15平千米，其中 3.8万平米，是南京城 南地区最的公园。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11260587942202292,
+      0.47184801381692576,
+      0.43447932237169906,
+      0.6521588946459412
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80_4",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.4474339810662681,
+      0.47253886010362695,
+      0.8550074738415545,
+      0.909153713298791
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80_2",
+    "text": "鹭洲是明代开国元勋中 王徐达家族的别墅，称为徐 太傅园或徐中园。这个名 字，最早始见于史料的是明代 中期的《正德静宁县志》：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11360239162929746,
+      0.6618307426597582,
+      0.4334828101644245,
+      0.8117443868739206
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80_3",
+    "text": "徐太傅园，在县正 东新坊北。太傅讳达，开",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16243148978574987,
+      0.8525043177892919,
+      0.43148978574987545,
+      0.9063903281519862
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61562126.pdf_80",
+    "order": 5
+  }
+]

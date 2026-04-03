@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "参照上述方法，请同学们进行一次生涯人物访谈。要求每个同学都参与，并各自形成 报告，全班同学在班内举行一次专业发展方向的宣讲会，总结所学专业可从事的职业有哪 些，对感兴趣职业的了解是什么。",
+        "bbox": [
+          0.11443337282556618,
+          0.10607265805511502,
+          0.8859357896172866,
+          0.16441261998542828
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_5",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2）“试穿你的职业”。",
+        "bbox": [
+          0.15503876318302515,
+          0.16839034466249508,
+          0.3525286162852119,
+          0.1856271515964513
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "众所周知，在买衣服的时候都要先试试才能知道衣服是不是合适，同样的，找工作也 是这样的。自己现在想做的工作不一定将来会去做，也不一定真的适合自己。那么，同学 们怎样才能试穿自己的工作呢？可以参加实习等。假如现在要去一个公司进行实地见习， 你将会怎样安排自己的实习?",
+        "bbox": [
+          0.11627907238726887,
+          0.18827896804782915,
+          0.8840900900555839,
+          0.26783346158916543
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "下面给大家一个实习需要准备的范例表（见表3-3），供大家做参考。",
+        "bbox": [
+          0.15503876318302515,
+          0.2704852780405433,
+          0.7382798246810721,
+          0.2890479932001884
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "表3-3范例表",
+        "bbox": [
+          0.44112219524694063,
+          0.298329350780011,
+          0.5574012676342095,
+          0.3142402494882782
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63688043.pdf_110_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.18641565573197072,
+          0.32086979061672294,
+          0.8268734036428008,
+          0.5224078409214414
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

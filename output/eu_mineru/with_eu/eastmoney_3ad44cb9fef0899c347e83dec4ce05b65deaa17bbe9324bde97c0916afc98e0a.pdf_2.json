@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_3ad44cb9fef0899c347e83dec4ce05b65deaa17bbe9324bde97c0916afc98e0a.pdf_2",
+    "primary_id": "mineru_eastmoney_3ad44cb9fef0899c347e83dec4ce05b65deaa17bbe9324bde97c0916afc98e0a.pdf_2_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_3ad44cb9fef0899c347e83dec4ce05b65deaa17bbe9324bde97c0916afc98e0a.pdf_2_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.3804917372027408,
+          0.11628901239846089,
+          0.909310761789601,
+          0.3237850933447342
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_3ad44cb9fef0899c347e83dec4ce05b65deaa17bbe9324bde97c0916afc98e0a.pdf_2",
+    "primary_id": "mineru_eastmoney_3ad44cb9fef0899c347e83dec4ce05b65deaa17bbe9324bde97c0916afc98e0a.pdf_2_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_3ad44cb9fef0899c347e83dec4ce05b65deaa17bbe9324bde97c0916afc98e0a.pdf_2_1",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：Wind 资讯、国海证券研究所",
+        "bbox": [
+          0.3901652559451834,
+          0.3254952258800057,
+          0.6553808948004837,
+          0.34031637451902524
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

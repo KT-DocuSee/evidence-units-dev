@@ -1,0 +1,432 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and this completes the proof.",
+        "bbox": [
+          0.5576470588235294,
+          0.06666666666666667,
+          0.7474509803921568,
+          0.08121212121212121
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "as desired.",
+        "bbox": [
+          0.12705882352941175,
+          0.06727272727272728,
+          0.1976470588235294,
+          0.08060606060606061
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: The use of Cesaro's lemma above is the spe- cial case bn = n of the Cesaro-Stolz theorem: if an, bn are sequences such that bn is positive, strictly increas- ing, and unbounded, and",
+        "bbox": [
+          0.12627450980392158,
+          0.08606060606060606,
+          0.49098039215686273,
+          0.14484848484848484
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution: We argue that an → ∞ as in the first solution. Write n = an − Lnk/(k+1), for a value of L to be determined later. We have",
+        "bbox": [
+          0.556078431372549,
+          0.08606060606060606,
+          0.92,
+          0.1303030303030303
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "then",
+        "bbox": [
+          0.12627450980392158,
+          0.19696969696969696,
+          0.1584313725490196,
+          0.2096969696969697
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where",
+        "bbox": [
+          0.5576470588235294,
+          0.21151515151515152,
+          0.5992156862745098,
+          0.22424242424242424
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution: In this solution, rather than applying Taylor's theorem with remainder to (1 + x)m for 1 < m < 2 and x > 0, we only apply convexity to deduce that (1 + x)m ≥ 1 + mx. This gives",
+        "bbox": [
+          0.12549019607843137,
+          0.26121212121212123,
+          0.49098039215686273,
+          0.32
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We first estimate e1. For −1 < m < 0, by the convexity of (1 + x)m and (1 + x)1−m, we have",
+        "bbox": [
+          0.5552941176470588,
+          0.30787878787878786,
+          0.9184313725490196,
+          0.3375757575757576
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and so",
+        "bbox": [
+          0.12705882352941175,
+          0.3709090909090909,
+          0.17254901960784313,
+          0.3836363636363636
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hence",
+        "bbox": [
+          0.5568627450980392,
+          0.3975757575757576,
+          0.6015686274509804,
+          0.4109090909090909
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for some c ∈ R. In particular,",
+        "bbox": [
+          0.12705882352941175,
+          0.43272727272727274,
+          0.3207843137254902,
+          0.44666666666666666
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note that both bounds have sign opposite to bn; more- over, by the bound an = Ω(n(k−1)/k), both bounds have absolutely value strictly less than that of bn for n suffi- ciently large. Consequently, for n large,",
+        "bbox": [
+          0.556078431372549,
+          0.4896969696969697,
+          0.9192156862745098,
+          0.5484848484848485
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and so",
+        "bbox": [
+          0.12705882352941175,
+          0.503030303030303,
+          0.17254901960784313,
+          0.5157575757575757
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But turning this around, the fact that",
+        "bbox": [
+          0.12705882352941175,
+          0.5727272727272728,
+          0.36705882352941177,
+          0.5866666666666667
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We now work on e2. By Taylor's theorem with remain- der applied to (1 + x)m for x > 0 and 0 < m < 1,",
+        "bbox": [
+          0.556078431372549,
+          0.5872727272727273,
+          0.9184313725490196,
+          0.6175757575757576
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The \"main term' of L((n + 1)k/(k+1) − nk/(k+1))",
+        "bbox": [
+          0.5545098039215687,
+          0.6878787878787879,
+          0.9192156862745098,
+          0.7381818181818182
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where o(1) denotes a function tending to 0 as n → ∞, yields",
+        "bbox": [
+          0.12627450980392158,
+          0.6884848484848485,
+          0.4894117647058824,
+          0.7181818181818181
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_18",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We then find that",
+        "bbox": [
+          0.5576470588235294,
+          0.7957575757575758,
+          0.672156862745098,
+          0.8103030303030303
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and because bn+1 = e1 + e2, we have |bn+1| ≤ |n| + |2|. Hence",
+        "bbox": [
+          0.556078431372549,
+          0.8496969696969697,
+          0.9184313725490196,
+          0.8793939393939394
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sO",
+        "bbox": [
+          0.12705882352941175,
+          0.8757575757575757,
+          0.14431372549019608,
+          0.8848484848484849
+        ],
+        "order": 20
+      }
+    ]
+  }
+]

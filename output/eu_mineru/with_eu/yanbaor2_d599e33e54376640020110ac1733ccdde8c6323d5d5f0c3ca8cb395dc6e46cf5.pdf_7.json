@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_d599e33e54376640020110ac1733ccdde8c6323d5d5f0c3ca8cb395dc6e46cf5.pdf_7",
+    "primary_id": "mineru_yanbaor2_d599e33e54376640020110ac1733ccdde8c6323d5d5f0c3ca8cb395dc6e46cf5.pdf_7_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_d599e33e54376640020110ac1733ccdde8c6323d5d5f0c3ca8cb395dc6e46cf5.pdf_7_0",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图1 财资管理存在业务持和精细化管理提升空间",
+        "bbox": [
+          0.12414349052801289,
+          0.11343879150634174,
+          0.5933091495364772,
+          0.13396038192959955
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_d599e33e54376640020110ac1733ccdde8c6323d5d5f0c3ca8cb395dc6e46cf5.pdf_7_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11043933897621927,
+          0.1618925466723671,
+          0.8899637243047158,
+          0.7359270343451617
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_d599e33e54376640020110ac1733ccdde8c6323d5d5f0c3ca8cb395dc6e46cf5.pdf_7_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "如何发挥财资数据价值促进业财融合，驱动业务增长？",
+        "bbox": [
+          0.2926239419588875,
+          0.7940715405443922,
+          0.6964933494558646,
+          0.8123129542539547
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

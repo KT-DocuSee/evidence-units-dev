@@ -1,0 +1,94 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_090",
+    "primary_id": "mineru_PPT_ch7_page_090_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_090_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cramer's Rule for Linear Systems of Three Equations",
+        "bbox": [
+          0.058666666666666666,
+          0.11466666666666667,
+          0.914,
+          0.1688888888888889
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_090",
+    "primary_id": "mineru_PPT_ch7_page_090_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_090_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "is",
+        "bbox": [
+          0.056666666666666664,
+          0.38666666666666666,
+          0.08666666666666667,
+          0.4266666666666667
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_090",
+    "primary_id": "mineru_PPT_ch7_page_090_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_090_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with the determinant D of the system given by (4) and",
+        "bbox": [
+          0.058666666666666666,
+          0.5173333333333333,
+          0.822,
+          0.5688888888888889
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_090",
+    "primary_id": "mineru_PPT_ch7_page_090_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_090_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note that D1, D2, D3 are obtained by replacing Columns 1, 2, 3, respectively, by the column of the right sides of (5).",
+        "bbox": [
+          0.05733333333333333,
+          0.7831111111111111,
+          0.9526666666666667,
+          0.8897777777777778
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

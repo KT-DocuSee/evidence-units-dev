@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_lay_linalg5_01_05_page_005",
+    "primary_id": "docling_PPT_lay_linalg5_01_05_page_005_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_005_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "HOMOGENEOUS LINEAR SYSTEMS",
+        "bbox": [
+          0.06104651062967738,
+          0.09093915247024506,
+          0.6831395296610203,
+          0.13955026358135608
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_lay_linalg5_01_05_page_005",
+    "primary_id": "docling_PPT_lay_linalg5_01_05_page_005_1",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_005_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Solve for the basic variables x, and x2 to obtain x, = = X3, x, = 0, with x3 free.",
+        "bbox": [
+          0.05959302741468497,
+          0.27314814895934947,
+          0.9811046623624465,
+          0.40707672081342694
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_005_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "As a vector, the general solution of Ax = 0 has the form given below.",
+        "bbox": [
+          0.05806485567881944,
+          0.4183775396934272,
+          0.9710427706403769,
+          0.5366507592884764
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_lay_linalg5_01_05_page_005_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.11773255858596343,
+          0.5542635651524264,
+          0.8793604650337146,
+          0.8527131785069305
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_469",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_469_8",
+    "source": "visual_seed",
+    "member_count": 18,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Exhibit2",
+        "bbox": [
+          0.259047619047619,
+          0.09473684210526316,
+          0.32095238095238093,
+          0.1080701754385965
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Most companies can ramp up their analytics capacity, but many struggle to produce analytics.",
+        "bbox": [
+          0.2580952380952381,
+          0.11719298245614035,
+          0.8676190476190476,
+          0.15649122807017543
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Analytical maturity",
+        "bbox": [
+          0.26,
+          0.17964912280701753,
+          0.3914285714285714,
+          0.1936842105263158
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_7",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Organizational maturity (breadth of use)",
+        "bbox": [
+          0.48095238095238096,
+          0.17964912280701753,
+          0.7609523809523809,
+          0.1936842105263158
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_8",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.48095238095238096,
+          0.20350877192982456,
+          0.8438095238095238,
+          0.4856140350877193
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Leading:",
+        "bbox": [
+          0.26,
+          0.25473684210526315,
+          0.3142857142857143,
+          0.26526315789473687
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Data-driven decision making embedded in business processes",
+        "bbox": [
+          0.259047619047619,
+          0.26666666666666666,
+          0.4552380952380952,
+          0.2905263157894737
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Advanced:",
+        "bbox": [
+          0.26,
+          0.3214035087719298,
+          0.32571428571428573,
+          0.3312280701754386
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Standard business intelligence disconnected from decision support system",
+        "bbox": [
+          0.259047619047619,
+          0.33263157894736844,
+          0.4361904761904762,
+          0.36771929824561406
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_9",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Basic:",
+        "bbox": [
+          0.26,
+          0.4049122807017544,
+          0.2980952380952381,
+          0.4147368421052632
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Excel culture, reporting only",
+        "bbox": [
+          0.26,
+          0.4168421052631579,
+          0.4247619047619048,
+          0.4280701754385965
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_11",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Analytics-led",
+        "bbox": [
+          0.26,
+          0.5066666666666667,
+          0.3419047619047619,
+          0.5171929824561403
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_13",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Business-led",
+        "bbox": [
+          0.5723809523809524,
+          0.5066666666666667,
+          0.6552380952380953,
+          0.5171929824561403
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_12",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "· Build a small team of data scientists · Assign a strong sponsor · Identify and leverage quick wins to prove potential • Systematize learning from data",
+        "bbox": [
+          0.259047619047619,
+          0.5185964912280702,
+          0.56,
+          0.5649122807017544
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "·Roll out analyatics products across the business • Create new processes based on insights • Embed organizational change ·Strong representation at board level (eg, through a chief analytics officer)",
+        "bbox": [
+          0.5723809523809524,
+          0.5185964912280702,
+          0.861904761904762,
+          0.5768421052631579
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Many grocers have made great progress on analytical maturity.Leaders in analytics have tackled the majority of fundamental use cases, such as pricing, mass promotion, and assortment optimization. Now they haveincreasingly turned their focus to pursuing new use cases along the value chain and improving existing use cases-for example,by using more granular,real- time data. These efforts are often driven by a strong analytics unit,but the level of adoption across a business varies.",
+        "bbox": [
+          0.2580952380952381,
+          0.647719298245614,
+          0.5761904761904761,
+          0.8926315789473684
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The best analytics solution does not help if it is not used and understood by the respective decision makers, such as category managers.",
+        "bbox": [
+          0.599047619047619,
+          0.647719298245614,
+          0.9142857142857143,
+          0.7221052631578947
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_469_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In many cases,organizational maturityis the main barrierto going beyond partial adoption and realizing the full potential of analytics.It encompasses both the process of technically embedding and continually improving use cases, as well as the process of enacting constant change management regarding the",
+        "bbox": [
+          0.599047619047619,
+          0.743859649122807,
+          0.9171428571428571,
+          0.8933333333333333
+        ],
+        "order": 18
+      }
+    ]
+  }
+]

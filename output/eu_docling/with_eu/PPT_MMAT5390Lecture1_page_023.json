@@ -1,0 +1,152 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "primary_id": "docling_PPT_MMAT5390Lecture1_page_023_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "What is a digital image?",
+        "bbox": [
+          0.24273256011568603,
+          0.038690474960227525,
+          0.7151162711888197,
+          0.09496124084002516
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Mathematical definition:",
+        "bbox": [
+          0.02761628748348689,
+          0.14914021198904887,
+          0.4171511620513968,
+          0.18419312204195892
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A 2D (grayscale) digital image is a 2D function defined on a 2D domain (usually rectangular domain):",
+        "bbox": [
+          0.07703490333978781,
+          0.20138888928342355,
+          0.9447674206427704,
+          0.27713178301329905
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.38292852783203124,
+          0.30283085123697917,
+          0.5488431396484375,
+          0.3497165934244792
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "f(x,y) is called the brightness/intensity/grey level;",
+        "bbox": [
+          0.07691394811857079,
+          0.38260335264294665,
+          0.7254673422545456,
+          0.4260882397610086
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(x,y) is the spatial coordinates of the image.",
+        "bbox": [
+          0.0750000173184832,
+          0.4332010585620893,
+          0.6291666597648498,
+          0.4722222225832533
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Thus, a 2D digital image looks like this:",
+        "bbox": [
+          0.07703488158222589,
+          0.484457671780635,
+          0.5770348815822259,
+          0.521317829984406
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.23683502451681865,
+          0.5405315581327799,
+          0.7282305769312751,
+          0.7268518512228913
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Each element in the matrix is called pixel (picture element);",
+        "bbox": [
+          0.09738373166997775,
+          0.771164020633294,
+          0.8139534808057975,
+          0.8062169306862041
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "primary_id": "docling_PPT_MMAT5390Lecture1_page_023_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_MMAT5390Lecture1_page_023_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Usually, 0 < f(x, y) <G-1 and (N = 2n , G = 2\")",
+        "bbox": [
+          0.07690951379173366,
+          0.815782955627908,
+          0.7063953476219664,
+          0.8608207802687371
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

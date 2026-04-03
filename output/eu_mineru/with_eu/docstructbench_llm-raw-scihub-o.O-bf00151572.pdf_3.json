@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.12769265280645836,
+          0.07575757575757576,
+          0.8586868246695172,
+          0.369949494949495
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "RESULTS AND DISCUSSION",
+        "bbox": [
+          0.12769265280645836,
+          0.4154040404040404,
+          0.4015841399855285,
+          0.43308080808080807
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 1. Reactor set-up for the culture filtration experiments.",
+        "bbox": [
+          0.2831445779621468,
+          0.37752525252525254,
+          0.7013842813572133,
+          0.3926767676767677
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The pressure drop that drives the filtration process in FSTR is provided by mcans of a suction pump located down strcam of the filter (Fig. 1). During the filtration process fux is related to the pump suction head according to the pump characteristics. As the filter gradually gets clogged, the pump suction head increases and the flux decreases. The concept of using a rotating scraper unit placed immcdiately above the filter medium to reduce the filter cake thickness has been cmployed in many filtration devices. For example, Tiller and Cheng (1977) in thcir study of so-called \"delayed cake filtration\" for the filtration of clay slurry, the cake thickncss was found equivalent to the clearancc between the scraper and the filtcr (3 mm in this case) at low agitation speeds, while under high agitation speeds, liquid shear was high enough to decrease the cake thickness. A similar concept has been applicd in FSTR, where the impeller sits directly above the filter disk. Of course, the situation is more complex in this case, since the impeller also serves as a mixing and mass transfer devic. To examine the impact of agitation on the filtration flux in FSTR, increases in pump suction head during filtration were measured at 100 and 200 rpm, with (0.4 vvm) or without aeration. Agitation rates above 200 rpm were not tcsted due to possible shear damage on the Anchusa cells (Lei, 1994). The result of the filtration experiment without aeration is shown in Fig. 2. The cell concentration in the reactor was 35 g dry weightL (PCV = 80%). Pump speed was set at a constant level that gave a water flux of 1.2 cm3/cm²min. Surprisingly, a higher suction head was ataincd at 200 rpm than at 100 rpm. Immediately after the filtration was initiated, a very sharp incrcase in the suction head was observed, which was followed by a more gradual incrcasc. During the early stagcs of",
+        "bbox": [
+          0.12584203464984303,
+          0.44065656565656564,
+          0.8586868246695172,
+          0.8106060606060606
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

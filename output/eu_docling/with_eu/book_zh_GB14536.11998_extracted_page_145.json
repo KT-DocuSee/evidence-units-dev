@@ -1,0 +1,208 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "docling_book_zh_GB14536.11998_extracted_page_145_12",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "#: MR9E1NS#020400800450518808998.444*909881849 5 11821P0360 - N.",
+        "bbox": [
+          0.16016426660437158,
+          0.13372093031247725,
+          0.9055441647097966,
+          0.16715116261387925
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_12",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "AU | GEAK | 30% | 0.5 g | 100% | 0.5 я",
+        "bbox": [
+          0.1295030709081048,
+          0.16773530140059012,
+          0.9061867118681837,
+          0.28436163315580465
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1126-6 1E7721",
+        "bbox": [
+          0.1293634569684918,
+          0.6393507518624557,
+          0.3798767940376683,
+          0.6571654787033108
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "docling_book_zh_GB14536.11998_extracted_page_145_13",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_13",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3110265795816511,
+          0.376917533240239,
+          0.719446886305841,
+          0.5428082971278392
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ra",
+        "bbox": [
+          0.6652977414955724,
+          0.4796511634810196,
+          0.6940451742128466,
+          0.4927325577762478
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8 H26.5",
+        "bbox": [
+          0.4722428210652831,
+          0.5304298411897843,
+          0.5462376730843861,
+          0.545151553799058
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "H26- 5.6 4 86 AL FE DC3A",
+        "bbox": [
+          0.129363453494564,
+          0.5494186050470979,
+          0.31827514750279595,
+          0.564133016724491
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.44636156735004195,
+          0.7819318250352583,
+          0.586092955314073,
+          0.8048173990498813
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#»-НЕТВИ52ТРАВВЕНДЕ.",
+        "bbox": [
+          0.1622176733549384,
+          0.8488372096026905,
+          0.5646817185957801,
+          0.8648255814147512
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "docling_book_zh_GB14536.11998_extracted_page_145_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MINAS.",
+        "bbox": [
+          0.13141683977835442,
+          0.6235465117372421,
+          0.2648870635657347,
+          0.6395348835493028
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "docling_book_zh_GB14536.11998_extracted_page_145_7",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "126- 6-2 1 32 0 FE 10 t",
+        "bbox": [
+          0.13141683876075524,
+          0.8297703882557367,
+          0.31827515035628795,
+          0.844476743914696
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "docling_book_zh_GB14536.11998_extracted_page_145_9",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_zh_GB14536.11998_extracted_page_145_9",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "H16.6-3 MARG/MRR€0",
+        "bbox": [
+          0.1314168398432193,
+          0.8836104514056897,
+          0.3798767944996965,
+          0.8982581156970595
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

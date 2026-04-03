@@ -1,0 +1,238 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "从原有棋子出发，向“日”字形的对角线交点处下一子叫",
+        "bbox": [
+          0.19286856546639905,
+          0.22917886066912882,
+          0.8514441548638592,
+          0.25193420853698556
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "“飞”，也叫“小飞”。",
+        "bbox": [
+          0.15993978599652603,
+          0.26168650048035275,
+          0.4210179660790906,
+          0.2844418483482095
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "图2-116相对于图中原有 的白棋一子来说，无论白方在 A、B、C、D、E、F、G、H这 些字母代表的位置上任意一处 行棋，都可以称其为飞。",
+        "bbox": [
+          0.14347539626158953,
+          0.2958195222821379,
+          0.4915796363716756,
+          0.453481575366574
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5127481374594511,
+          0.26331188247091397,
+          0.8490920991874397,
+          0.42097393555535007
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_4",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图2-116",
+        "bbox": [
+          0.6303509212804261,
+          0.43397699147983965,
+          0.7244331483372062,
+          0.45185619337601285
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "图2-117相对于白方原有的一子来说，白△是飞。反过 来，相对于白方△一子，白原有的一子也叫作飞。",
+        "bbox": [
+          0.14347539626158953,
+          0.46485924930050243,
+          0.8514441548638592,
+          0.5217476189701443
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "飞的形式还有“飞”。它是指在原有棋呈“”字 形的对角线交点处行棋。",
+        "bbox": [
+          0.14347539626158953,
+          0.5331252929040727,
+          0.8514441548638592,
+          0.5883882805831534
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "图2-118白△就叫白棋原有一子的大飞。同样，假若白方 今后在A、B、C、D、E、F、G任何一处行棋，都叫大飞。",
+        "bbox": [
+          0.14582745193800903,
+          0.5997659545170818,
+          0.8514441548638592,
+          0.6566543241867236
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_8",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14817950761442852,
+          0.6680319981206521,
+          0.48217141366599764,
+          0.8598270730068733
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_10",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5198043044887096,
+          0.6680319981206521,
+          0.8490920991874397,
+          0.8598270730068733
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_9",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图2-117",
+        "bbox": [
+          0.26107818008256456,
+          0.8712047469408017,
+          0.3528083514629251,
+          0.8907093308275361
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61564860.pdf_81_11",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图2-118",
+        "bbox": [
+          0.6279988656040066,
+          0.8712047469408017,
+          0.7220810926607867,
+          0.8907093308275361
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

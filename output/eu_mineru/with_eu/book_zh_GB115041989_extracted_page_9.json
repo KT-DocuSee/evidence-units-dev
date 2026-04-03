@@ -1,0 +1,328 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "book_zh_GB115041989_extracted_page_9",
+    "primary_id": "mineru_book_zh_GB115041989_extracted_page_9_8",
+    "source": "visual_seed",
+    "member_count": 19,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "度为597μmo1/L（1mL=100μg）δ-ALA，贮于冰箱中可保存两个月以上。",
+        "bbox": [
+          0.1266025641025641,
+          0.11620620905724864,
+          0.656517094017094,
+          0.13291559859489224
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "应用液：取贮备液10mL于100mL容量瓶中，并稀释至刻度，此液浓度约等于59.7μmol/L（1mL =10μg)δ-ALA。",
+        "bbox": [
+          0.12179487179487179,
+          0.1344346340074053,
+          0.9006410256410257,
+          0.17165100161397512
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E4.1分别量取2mL尿样于两支10mL具塞比色管内，各加入2mL乙酸缓冲液，混匀，其一为样品 管，另一为尿样空白管。向样品管中加入0.4mL乙酰乙酸乙酯，向尿样空白管中补加0.4mL乙酸缓冲 液，分别混匀，同时置沸水浴中加热10min，取出冷却至室温。",
+        "bbox": [
+          0.12553418803418803,
+          0.20962688692680148,
+          0.8963675213675214,
+          0.26393240292414316
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E4.2以下步骤按标准曲线的绘制E5.3～E5.5进行。",
+        "bbox": [
+          0.12606837606837606,
+          0.266590714896041,
+          0.5336538461538461,
+          0.28292034558055634
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "E5标准曲线的绘制",
+        "bbox": [
+          0.12713675213675213,
+          0.29659166429317385,
+          0.28899572649572647,
+          0.31292129497768917
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E5.1取10mL具塞离心管6支，按表E1配制标准色列：",
+        "bbox": [
+          0.12713675213675213,
+          0.32241526630589573,
+          0.5608974358974359,
+          0.3395044146966676
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_7",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表E1",
+        "bbox": [
+          0.48504273504273504,
+          0.34102345010918067,
+          0.5373931623931624,
+          0.3550745276749264
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_8",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.12873931623931623,
+          0.35887211620620907,
+          0.8904914529914529,
+          0.4572296591664293
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E5.2各加2mL乙酸缓冲液，0.4mL乙酰乙酸乙酯，混匀，于沸水浴中朋热1Umn，出传王王m。",
+        "bbox": [
+          0.13247863247863248,
+          0.4595082122851989,
+          0.875,
+          0.47545808411658597
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E5.3各加4mL乙酸乙酯，加塞振摇50次，离心5min，取出静置分层。",
+        "bbox": [
+          0.12606837606837606,
+          0.46482483622899456,
+          0.8707264957264957,
+          0.4948257856261274
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E5.4各取2mL乙酸乙酯萃取液，于另外6支10mL具塞比色管中，各加改良显色剂2mL，加塞振 摇，静置10min。",
+        "bbox": [
+          0.12713675213675213,
+          0.49634482103864047,
+          0.8979700854700855,
+          0.5343207063514668
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E5.5用比色皿在波长553nm（或绿色滤光片）下，以乙酸乙酯作参比，测得各标准管吸光度。",
+        "bbox": [
+          0.12980769230769232,
+          0.5343207063514668,
+          0.8269230769230769,
+          0.5498908193297256
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "E5.6以吸光度（扣除空白吸光度)为纵坐标，δ-ALA量为横坐标，在坐标纸上绘制标准曲线。",
+        "bbox": [
+          0.13194444444444445,
+          0.5525491313016234,
+          0.8242521367521367,
+          0.5692585208392671
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "样品管吸光度减去尿空白管吸光度，查标准曲线得样品管中δ-ALA含量(μmoi（ug）〕。",
+        "bbox": [
+          0.1597222222222222,
+          0.6076141650052217,
+          0.7922008547008547,
+          0.6247033133959935
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a．乙酸乙酯、乙酰乙酸乙酯最好为近期产品。改良显色剂宜新鲜配制；",
+        "bbox": [
+          0.16826923076923078,
+          0.6964777366372353,
+          0.7077991452991453,
+          0.7128073673217507
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_18",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "b. 加入显色剂后，应静置10min，比色应在30min内完成； c. 尿液易腐败，可导致pH升高，影响测定结果。如不能及时测定，应将尿液保存在冰箱中； d. 其他与对二甲氨基苯甲醛显色剂反应的阳性物质，由于不被乙酸乙酯萃取，故不干扰测定； e. 测定尿样时，可同时做标准测定（取2mL标准应用液）。",
+        "bbox": [
+          0.16613247863247863,
+          0.7143264027342637,
+          0.8771367521367521,
+          0.7872401025348903
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "计算：",
+        "bbox": [
+          0.13568376068376067,
+          0.7929364853318143,
+          0.18162393162393162,
+          0.8081268394569449
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(E2)",
+        "bbox": [
+          0.7954059829059829,
+          0.8107851514288427,
+          0.9033119658119658,
+          0.8248362289945884
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "式中：U一测定管吸光度； 0——空白管吸光度； S——标准管吸光度。",
+        "bbox": [
+          0.1362179487179487,
+          0.8423051362384886,
+          0.34134615384615385,
+          0.8950916168233172
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_zh_GB115041989_extracted_page_9",
+    "primary_id": "mineru_book_zh_GB115041989_extracted_page_9_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "E4尿样分析步骤",
+        "bbox": [
+          0.125,
+          0.18456280262033609,
+          0.2702991452991453,
+          0.20089243330485143
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "book_zh_GB115041989_extracted_page_9",
+    "primary_id": "mineru_book_zh_GB115041989_extracted_page_9_14",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_14",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "E6计算",
+        "bbox": [
+          0.13034188034188035,
+          0.5848286338175259,
+          0.20673076923076922,
+          0.6003987467957846
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "book_zh_GB115041989_extracted_page_9",
+    "primary_id": "mineru_book_zh_GB115041989_extracted_page_9_16",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB115041989_extracted_page_9_16",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "E7说明",
+        "bbox": [
+          0.13247863247863248,
+          0.6816671413652331,
+          0.20833333333333334,
+          0.6964777366372353
+        ],
+        "order": 17
+      }
+    ]
+  }
+]

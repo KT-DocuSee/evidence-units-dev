@@ -1,0 +1,288 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_0",
+    "text": "To see that n divides an, factor n as 2km, with m odd. Then note that k ≤ n ≤ n(n − 1)/2, and that there exists i ≤ m − 1 such that m divides 2i − 1, namely i = φ (m) (Euler's totient function: the number of integers in {1, . .., m} relatively prime to m).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.06606060606060606,
+      0.49098039215686273,
+      0.1406060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_10",
+    "text": "P. Thus we also have that no roots of P' lie on the sides of the convex hull of P, unless they are also roots of P.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.06606060606060606,
+      0.9192156862745098,
+      0.09636363636363636
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_11",
+    "text": "From this we conclude that if r is a root of P which is a vertex of the convex hull of the roots, and which is not also a root of P', then f has a single pole at r (as r cannot be a root of P\"). On the other hand, if r is a root of P which is also a root of P', it is a multiple root, and then f has a double pole at r.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.1,
+      0.92,
+      0.18787878787878787
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_1",
+    "text": "B–1 The answer is 1/3. Let G be the point obtained by re- flecting C about the line AB. Since ∠ADC = π−θ , find that ∠BDE = π − θ − ∠ADC = π−− = ∠ADC = π − ∠BDC = π − ∠BDG, so that E, D, G are collinear. Hence",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09411764705882353,
+      0.1496969696969697,
+      0.49019607843137253,
+      0.22484848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_12",
+    "text": "If P has roots not all equal, the convex hull of its roots has at least two vertices.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.19151515151515153,
+      0.9192156862745098,
+      0.2206060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_13",
+    "text": "B–3 We first note that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.23030303030303031,
+      0.672156862745098,
+      0.24363636363636362
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_2",
+    "text": "where we have used the law of sines in ∆BDG. But by 1'Hopital's Rule,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.2781818181818182,
+      0.49019607843137253,
+      0.30787878787878786
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_14",
+    "text": "Subtracting S from this gives two sums, one of which is and the other of which sums to xy3/[(1 − y)(1 − xy2)]. Therefore",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.2909090909090909,
+      0.92,
+      0.3054545454545455
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_15",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.3612121212121212,
+      0.9192156862745098,
+      0.39090909090909093
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_3",
+    "text": "B–2 First solution: Suppose that P does not have n dis- tinct roots; then it has a root of multiplicity at least 2, which we may assume is x = 0 without loss of general- ity. Let xk be the greatest power of x dividing P(x), so that P(x) = xkR(x) with R(o) ≠ 0; a simple computation yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.36787878787878786,
+      0.49098039215686273,
+      0.45575757575757575
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_4",
+    "text": "Since R(0) ≠ 0 and k ≥ 2, we conclude that the great- est power of x dividing P/(x) is xk−2. But P(x) = Q(x)P/(x), and so x2 divides Q(x). We deduce (since Q is quadratic) that Q(x) is a constant C times x2; in fact, C = 1/(n(n − 1)) by inspection of the leading-degree terms of P(x) and P′ (x).:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.4951515151515152,
+      0.49098039215686273,
+      0.5842424242424242
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_16",
+    "text": "and the desired limit is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.5121212121212121,
+      0.7082352941176471,
+      0.526060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_17",
+    "text": "B–4 (based on work by Daniel Stronger) We make repeated use of the following fact: if f is a differentiable function on all of R, limx→−∞f (x) ≥ 0, and f (x) > 0 for all x ∈ R, then f (x) > 0 for all x ∈ R. (Proof: if f (y) < 0 for some x, then f (x) < f (y) for all x < y since f ′ > 0, but then limx→−∞f(x) ≤ f (y) < 0.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5247058823529411,
+      0.5733333333333334,
+      0.92,
+      0.6624242424242425
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_5",
+    "text": "Now if P(x) = ∑j=0ajxj, then the relation P(x) = Cx2 (x) implies that aj = Cj(j − 1)aj for al ; hence aj = 0 for j ≤ n− 1, and we conclude that P(x) = axn, which has all identical roots.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.5878787878787879,
+      0.49098039215686273,
+      0.6496969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_6",
+    "text": "Second solution (by Greg Kuperberg): Let f(x) = P′(x) /P(x) = 1/Q(x). By hypothesis, f has at most two poles (counting multiplicity).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.6551515151515152,
+      0.49098039215686273,
+      0.6993939393939393
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_18",
+    "text": "From the inequality f \"(x) ≤ f (x) we obtain since f′(x) is positive. Applying the fact to the differ- ence between the right and left sides, we get",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5584313725490196,
+      0.6648484848484848,
+      0.8494117647058823,
+      0.6812121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_7",
+    "text": "Recall that for any complex polynomial P, the roots of P′ lie within the convex hull of P. To show this, it suf- fices to show that if the roots of P lie on one side of a line, say on the positive side of the imaginary axis, then P' has no roots on the other side. That follows because if r1 , . . , n are the roots of P,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.7042424242424242,
+      0.49019607843137253,
+      0.7915151515151515
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_19",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.7163636363636363,
+      0.9176470588235294,
+      0.7460606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_20",
+    "text": "On the other hand, since f (x) and f \"(x) are both posi- tive for all x, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.7957575757575758,
+      0.9184313725490196,
+      0.8254545454545454
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 19
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_8",
+    "text": "and if z has negative real part, so does 1/(z − ri) for i = 1, . . .,n, so the sum is nonzero.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.8503030303030303,
+      0.49019607843137253,
+      0.88
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 20
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_21",
+    "text": "Applying the fact to the difference between the sides yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.86,
+      0.9192156862745098,
+      0.8896969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 21
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003_9",
+    "text": "The above argument also carries through if z lies on the imaginary axis, provided that z is not equal to a root of",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.8854545454545455,
+      0.49019607843137253,
+      0.9145454545454546
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_003",
+    "order": 22
+  }
+]

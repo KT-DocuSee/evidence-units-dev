@@ -1,0 +1,90 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "primary_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_0",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.(Singapore)4 Let f be a polyomial of egree n, such that (k) =  for every integer 0 ≤ k ≤ n. Compute f (n + 1).",
+        "bbox": [
+          0.12012012012012012,
+          0.09220241311003062,
+          0.8768768768768769,
+          0.12965964343598055
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4. (USA)5 Let f be a real polynomial of degree n, such that f(k) = (n†1)− for 0 ≤ k ≤ n. Compute all possible values of f (n + 1).",
+        "bbox": [
+          0.1223041223041223,
+          0.13326130019809113,
+          0.8768768768768769,
+          0.16927786781919682
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5. (IMO—shortlist) A polynomial f , of degree 990, is such that f (k) = Fk for 992 ≤ k ≤ 1982, where Fk stands for the k-th Fibonacci number. Prove that f (1983) = F1983 − 1.",
+        "bbox": [
+          0.12121212121212122,
+          0.17071853052404107,
+          0.8801528801528802,
+          0.2233027192508554
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6. (IMO—shortlist) Let f be a real polynomial such that",
+        "bbox": [
+          0.11793611793611794,
+          0.22474338195569962,
+          0.6431886431886432,
+          0.24131100306140824
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(a) f (1) > f (0) > 0. (b) f (2) > 2 f (1) − f (0). (c) f (3) > 3 f (2) − 3 f (1) + f (0). (d) f (n + 4) > 4 f (n + 3) − 6f (n + 2) + 4 f (n + 1) − f (n) for every n ∈ N.",
+        "bbox": [
+          0.14523614523614523,
+          0.25211597334773994,
+          0.8746928746928747,
+          0.3241491085899514
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Prove that f (n) > 0 for every n ∈ N.",
+        "bbox": [
+          0.14742014742014742,
+          0.33279308481901676,
+          0.4892164892164892,
+          0.3500810372771475
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

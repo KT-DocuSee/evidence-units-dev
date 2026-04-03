@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 2. Background variables for each of the analyses",
+        "bbox": [
+          0.09171075837742504,
+          0.099012582871149,
+          0.41975308641975306,
+          0.11121961363608518
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08994708994708994,
+          0.11257595038774476,
+          0.8747795414462081,
+          0.6673176818165111
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.49382716049382713,
+          0.7066514476146387,
+          0.8747795414462081,
+          0.7676866014393197
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "*p<.05. p<.01.",
+        "bbox": [
+          0.09347442680776014,
+          0.6673176818165111,
+          0.14462081128747795,
+          0.693088080098043
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "signifi cant, p > 0.05 in all cases. Furthermore, years of education did not differ signifi cantly for those samples completing the learning and syllogistic reasoning tasks, F < 1 and F(2,100) = 1.05, p > 0.05, respect- ively.",
+        "bbox": [
+          0.09347442680776014,
+          0.7066514476146387,
+          0.47266313932980597,
+          0.7812499689559154
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_7_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Intelligence. For the samples completing the proces- sing speed, random generation, reading, computation and spatial working memory span tasks, intelligence was measured utilising Ravens progressive matrices, sets D and E only. Those participants completing the learning and syllogistic reasoning tasks, undertook the complete Ravens test (sets A through to E) (Raven et al., 1998). In five of the seven samples no signifi cant differences between the groups were obtained.2 Among those completing the processing speed task,",
+        "bbox": [
+          0.09347442680776014,
+          0.7961696732241708,
+          0.47266313932980597,
+          0.8856878988337027
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

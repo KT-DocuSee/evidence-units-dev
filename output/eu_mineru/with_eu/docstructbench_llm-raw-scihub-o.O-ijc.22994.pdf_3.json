@@ -1,0 +1,192 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE I - ODDS RATIO OF HODGKIN LYMPHOMA AND NON-HODGKIN LYMPHOMA FOR INDICATORS OF EXPOSURE TO MEAT",
+        "bbox": [
+          0.16339869281045752,
+          0.0962962962962963,
+          0.8398692810457516,
+          0.10617283950617284
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09640522875816994,
+          0.10740740740740741,
+          0.9019607843137255,
+          0.3135802469135803
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5081699346405228,
+          0.7913580246913581,
+          0.9019607843137255,
+          0.8271604938271605
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "OR, odds ratio, adjusted for age, sex, center, and cumulative exposure to pesticides; CI, confidence interval.",
+        "bbox": [
+          0.09803921568627451,
+          0.31851851851851853,
+          0.7173202614379085,
+          0.3308641975308642
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE I - ODDS RATIO OF ALL NON-HODGKIN LYMPHOMA FOR EXPOSURE TO SPECIFIC TYPES OF MEAT—ALL NHL",
+        "bbox": [
+          0.18137254901960784,
+          0.36419753086419754,
+          0.8137254901960784,
+          0.37777777777777777
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09477124183006536,
+          0.3790123456790123,
+          0.9035947712418301,
+          0.7530864197530864
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_5",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "OR, odds ratio adusted for age, ex, center, cumulative exposure to pesticides and other types of meat; CI, confdence interal",
+        "bbox": [
+          0.10784313725490197,
+          0.7580246913580246,
+          0.8137254901960784,
+          0.7691358024691358
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sponding OR of non-Hodgkin lymphoma was 1.18 (95% CI 0.95– 1.46): also for this group of lymphoma, no trend was apparent for any indicator of exposure.",
+        "bbox": [
+          0.09640522875816994,
+          0.7913580246913581,
+          0.49019607843137253,
+          0.8271604938271605
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "When the analysis on non-Hodgkin lymphoma was repeated for specific types of meat (Table II), the OR for ever exposure to beef meat was 1.22 (95% CI 0.95–1.67), and the OR for ever ex- posure to chicken meat was 1.19 (95% CI 0.91–1.55). The remain- ing meat types, namely pork meat and mutton meat, showed either no effect or small nonsignificant increases in lymphoma risk. Ex- posure for more than 15 years to beef meat resulted in an OR of 1.63 (95% CI 0.93–2.88). An increase in risk was also observed for long-term exposure to chicken meat (OR = 1.36, 95% CI 0.90–2.06). The results on intensity of exposure did not suggest a difference among meat types.",
+        "bbox": [
+          0.09803921568627451,
+          0.828395061728395,
+          0.49019607843137253,
+          0.9234567901234568
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the analyses stratified by lymphoma type, whose results are reported in Table IV, an increased risk among workers exposed to beef meat was mainly apparent for diffuse large B-cell lymphoma (OR = 1.49, 95%CI 0.96–2.33), chronic lymphocytic leukemia/ small lymphocytic lymphoma (OR = 1.35, 95% CI 0.78–2.34), and multiple myeloma (OR = 1.40, 95%CI 0.67–2.94). Stronger increases in risk were observed for each of these 3 subtypes after 16 years or more of exposure (OR 2.00, 95% CI 0.87–4.61; OR",
+        "bbox": [
+          0.5098039215686274,
+          0.8296296296296296,
+          0.9019607843137255,
+          0.9234567901234568
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

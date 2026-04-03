@@ -1,0 +1,312 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "an 8.5 cm migration in 30 min where the solute zone stays in the center of the 2.5 cm wide plate with zone dispersion (zone length of ~2.6 mm) primarily in the direction of voltage drop. This assures that EOF is only in the direction between positive and negative source electrodes, and there are no localized gradients within the width of the 2.5 cm TLC plate. Analysis of this spot yielded well over 10,000 plates. This was not a point injection and the spot width was not measured prior to PPEC affecting the measure of zone dispersion, therefore over-estimating the actual band broadening. Also, the final zone width was estimated with a ruler and visual inspection, under-estimating the actual band broadening. There may have also been some zone refocusing mechanism as the zone migrated past each reader electrode, helping keep the compact zone shape, but the migration rate (Fig. 9) would not have been so reproducible. Factoring in both under and over-estimations, we feel confident that this zone is still measuring over ~8000 theoretical plates. This was not typical for efficiencies seen in PPEC experiments, normally producing about half that number of theoretical plates. Better understanding of the many experimental parameters will hopefully make this a more common measure of efficiency.",
+        "bbox": [
+          0.5038759777962115,
+          0.08134920640399143,
+          0.9302325678424908,
+          0.39682539686223434
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_20",
+    "source": "visual_seed",
+    "member_count": 16,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9",
+        "bbox": [
+          0.08527131791163797,
+          0.08430232558784131,
+          0.09689922459482199,
+          0.09447674384045329
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_20",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06667371266406014,
+          0.08453465286213381,
+          0.46216798795041214,
+          0.26289001077494617
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.08527131787933823,
+          0.1162790699444621,
+          0.09689922456252222,
+          0.12499999960495649
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• Plate 1",
+        "bbox": [
+          0.405038759501849,
+          0.15104166682512854,
+          0.451550386234585,
+          0.1599702382537
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• Plate 2",
+        "bbox": [
+          0.40494389789488466,
+          0.16254183112649148,
+          0.4516452496438429,
+          0.1732139831688804
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Plate 3",
+        "bbox": [
+          0.4147286839937219,
+          0.1787790700050241,
+          0.45542635612255716,
+          0.18750000013857127
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.0852713177739073,
+          0.19331395366539225,
+          0.09496124022027876,
+          0.20203488332588673
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "40",
+        "bbox": [
+          0.4457364343699855,
+          0.23546511607154746,
+          0.4670542628683865,
+          0.24854651150839455
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Time (min)",
+        "bbox": [
+          0.24612403217550433,
+          0.2499999998958544,
+          0.31976744201054225,
+          0.26598837251693647
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 9. Migration of rhodamine B marker on three separate TLC plates. Distances were measured to the center of the zone.",
+        "bbox": [
+          0.05232558200299406,
+          0.2732558138549777,
+          0.4786821713316953,
+          0.2979651161595572
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "run buffer. Before placing these spotted, solvent saturated plates into the instrument, excess solvent was removed by patting with a Kimwipe. These were quickly placed into the instrument, external pressure applied, then solvent was allowed to contact the TLC layer, and power turned on. Enabling solvent to contact the layer before applying external pressure induced capillary action through the channel of air (due to spacer thickness), diffusing the sample spot. Applying pressure first removes this channel of air by compressing the sealant.",
+        "bbox": [
+          0.050387606184038265,
+          0.32118055602347373,
+          0.47868217624042375,
+          0.4549418598180453
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The addition of high-pressure to PEC instrumentation (now referred to as PPEC) has improved the efficacy of this technique by producing homogenous flow profiles that are near theoretical predictions. Linear voltage profiles have finally been achieved, as well as reduced plate equilibration times. These improvements are attributed to the increased efficiency of the electroosmotic forces acting on the reduced solvent volume. Also, use of higher field strengths will increase the utility of this technique. This can be easily implemented with an efficient heat sink to combat Joule heating. Scaling the TLC plate width should not be problematic as earlier data on a 5.0 cm wide TLC plate showed almost identical voltage profiles using two columns of reader electrodes on the REG [31].",
+        "bbox": [
+          0.5058139489045089,
+          0.4432043648833443,
+          0.9302325642737853,
+          0.6366567458184992
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 9 illustrates migration of rhodamine B on three separate TLC plates. For these experiments the migration rate of rhodamine B was determined to be 0.29 cm/min (R? = 0.9996, n =6). There are three data points for the first plate and they were taken by performing PPEC for a specified time, lowering the press enough to mark solute migration, reapply pressure then voltage, and repeating. Repeatedly releasing and applying pressure caused extensive zone broadening from solvent perturbations. Subsequent experiments were checked for solute migration less often or only at the end of experimentation, significantly reducing zone dispersion.",
+        "bbox": [
+          0.054193545253880294,
+          0.4578373018116603,
+          0.4788162179199541,
+          0.6206395344788981
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "These results show that rhodamine B (spotted at the center of a 2.5 cm wide TLC plate) migrates only in the direction of voltage drop. This was a significant problem with earlier experiments; marker solutes would migrate at an angle (in the direction of greatest voltage drop) with the un-stable EOF. Fig. 10 shows",
+        "bbox": [
+          0.05426356731536162,
+          0.6235119047202328,
+          0.4786821749084756,
+          0.6962209301857202
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A new method for introducing TLC plates onto the apparatus has also been described. This eliminates the need to seal a plate to the REG a day before experimentation, and is essential for sample application and ease of use. This method allows sealant to be attached to the glass sides of a TLC plate, while cured on a removable sheet of Teflon. The plate is then removed from the PTFE and can be inserted into the apparatus anytime afterwards. A 0.25 mm gap between the chromatographic surface and PTFE sheet (when curing) allows compression of the sealant, trapping solvent within the chromatographic phase when external pressure is applied. A plate can now be pre-equilibrated before use (soaking in run buffer) reducing the current required to drive EOF. Sample can then be applied to a plate and placed into the apparatus for PPEC. Unfortunately the plates used do not contain a fluorescent indicator, and routine chromatographic analysis could not be detected. Use of rhodamine B did allow visualization of a marker solute's migration in PPEC. These results visually confirmed that migration is only in the direction of voltage drop, and band broadening is primarily in the same direction resulting in up to ~8000 theoretical plates.",
+        "bbox": [
+          0.5058139473541217,
+          0.6395348836042508,
+          0.9321705434247185,
+          0.9389880950863003
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_15",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 10. Picture showing the 8.5 cm migration of Rhodamine B in 30 min. Notice how the spot stays in the center of the TLC plate. The solute zone has been digitally enhanced by intensifying the pink solute color to a deeper red (for visualization purposes) without compromising the zone shape or diffusion char-",
+        "bbox": [
+          0.05426356802595585,
+          0.874999999993333,
+          0.4786821749084756,
+          0.9244186047789539
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Migration Distance (cm)",
+        "bbox": [
+          0.06589146625409074,
+          0.110465116025447,
+          0.08139535529629685,
+          0.22383720728850656
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_17",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_17",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "4. Conclusions",
+        "bbox": [
+          0.503875970056698,
+          0.41418650813686286,
+          0.616279067152604,
+          0.4288194446447994
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_21",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.11.024.pdf_7_21",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06737829855695611,
+          0.7232511075971781,
+          0.4634918563667385,
+          0.8636899033353638
+        ],
+        "order": 21
+      }
+    ]
+  }
+]

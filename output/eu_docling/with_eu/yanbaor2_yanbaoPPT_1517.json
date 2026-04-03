@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_1517",
+    "primary_id": "docling_yanbaor2_yanbaoPPT_1517_6",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_1517_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0624399611529182,
+          0.047987320639870386,
+          0.4177003389246324,
+          0.11208427429199219
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_1517_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "McKinsey Health Institute",
+        "bbox": [
+          0.06380679965130344,
+          0.04908458707861469,
+          0.4191729242280864,
+          0.11483134923501873
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_1517_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Addressing employee burnout: Are you solving the right problem?",
+        "bbox": [
+          0.2634408784796817,
+          0.1773255824300646,
+          0.9354838622730065,
+          0.3241567458166748
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_1517_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Employers have invested unprecedented resources in employee mental health and well-being. With burnout at all-time highs, leaders wonder if they can make a difference. Our research suggests they can.",
+        "bbox": [
+          0.26691730446865525,
+          0.34593023210334856,
+          0.928571437833317,
+          0.40699404788307714
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaor2_yanbaoPPT_1517_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This article is a collaborative effort by Jacqueline Brassey, Erica Coe, Martin Dewhurst, Kana Enomoto, Renata Giarola, Brad Herbig, and Barbara Jeffery, representing the views of the McKinsey Health Institute.",
+        "bbox": [
+          0.26879700660681305,
+          0.4345238096648241,
+          0.9511278224815323,
+          0.46366279072351063
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

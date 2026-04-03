@@ -1,0 +1,215 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 2 - Enzyme and specific activity of Metarhizium anisopliae isolates in the four different media on day 2",
+        "bbox": [
+          0.08402231391421622,
+          0.09500736554981258,
+          0.7679639491759361,
+          0.10688328624353916
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08570276019250053,
+          0.1080708783129118,
+          0.9158432216649567,
+          0.29571042527379165
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5125361148767189,
+          0.8550662899483132,
+          0.9141627753866723,
+          0.9476984713593805
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Values followed by same lower case alphabets in the column and values followed by upper case alphabets in a row ar statistically equivalent according to Tukey's test.",
+        "bbox": [
+          0.08906365274906919,
+          0.3004607935512823,
+          0.9074409902735351,
+          0.32658781907748075
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 3 - Enzyme and specific activity of Metarhizium anisopliae isolates in the four different media on day 4",
+        "bbox": [
+          0.08570276019250053,
+          0.3479644763261886,
+          0.7696443954542205,
+          0.35984039701991516
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08570276019250053,
+          0.3610279890892878,
+          0.9158432216649567,
+          0.5498551281195403
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_5",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "alues followed by same lower case alphabets in the column and values followed by upper case alphabets in a row are tatistically equivalent according to Tukey's test.",
+        "bbox": [
+          0.09410499158392216,
+          0.5534179043276582,
+          0.9124823291083881,
+          0.5795449298538567
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "E 4 - Enzyme and specific activity of Metarhizium anisopliae isolates in the four different media on da",
+        "bbox": [
+          0.08234186763593189,
+          0.6009215871025646,
+          0.7662835028976519,
+          0.6187354681431544
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08570276019250053,
+          0.6199230602125271,
+          0.9141627753866723,
+          0.8075626071734069
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_8",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Values followed by same lower case alphabets in the column and values followed by upper case alphabets in a row are statistically equivalent according to Tukey's test.",
+        "bbox": [
+          0.08906365274906919,
+          0.8123129754508975,
+          0.9091214365518194,
+          0.838440000977096
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-bf03175144.pdf_4_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "tinase production at first but in the later phases of growth there is litle enhancement in chitinase production when the dextrose is fully or partially being used up. Sandhya et al. (2004) docu- mented the same pattern of chitinase production with the use of different carbon and nitrogen source for the fungus Trichoderma harzianum. Maximum chitinase activity was observed in Medium III constituting colloidal chitin as carbon source and Yeast extract as a nitrogen source, compared to the other three media. The exact mechanism of induction of this enzyme by extra nitrogen source is not known but it is assumed that either Yeast extract supports the mycelial growth and hence enhancement in the initial growth leads to more chitinase production or it could be due to the presence of oligomers of GlcNAc which can directly induce the chitinase gene (De Moraes et al., 2003). Nawani",
+        "bbox": [
+          0.08570276019250053,
+          0.8550662899483132,
+          0.48732942070245405,
+          0.9465108792900079
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

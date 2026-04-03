@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "mineru_PPT_StewartCalcET7e_04_09_page_018_0",
+    "text": "Note that v(0) = C. But we are given that v(0) = −6, so C = -6 and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05533333333333333,
+      0.22044444444444444,
+      0.8566666666666667,
+      0.3244444444444444
+    ],
+    "page": "PPT_StewartCalcET7e_04_09_page_018",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_StewartCalcET7e_04_09_page_018_1",
+    "text": "Since v(t) = s'(t), s is the antiderivative of v:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.058666666666666666,
+      0.4746666666666667,
+      0.7026666666666667,
+      0.5297777777777778
+    ],
+    "page": "PPT_StewartCalcET7e_04_09_page_018",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_StewartCalcET7e_04_09_page_018_2",
+    "text": "This gives s(0) = D. We are given that s(0) = 9, so D = 9 and the required position function is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056,
+      0.7511111111111111,
+      0.8913333333333333,
+      0.8586666666666667
+    ],
+    "page": "PPT_StewartCalcET7e_04_09_page_018",
+    "order": 3
+  }
+]

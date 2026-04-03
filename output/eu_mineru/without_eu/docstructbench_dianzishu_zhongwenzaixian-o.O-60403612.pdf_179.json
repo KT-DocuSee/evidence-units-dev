@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_0",
+    "text": "续表",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.8348830159483078,
+      0.08641975308641975,
+      0.8736246872220113,
+      0.10013717421124829
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_1",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.09685417818425845,
+      0.10425240054869685,
+      0.9123663584957147,
+      0.3292181069958848
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_2",
+    "text": "附表2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13559584945796183,
+      0.3607681755829904,
+      0.18983418924114656,
+      0.37585733882030176
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_3",
+    "text": "一些物质的熔点和沸点",
+    "canon_role": "section_header",
+    "bbox": [
+      0.41647296619231133,
+      0.3607681755829904,
+      0.5946846540513469,
+      0.3772290809327846
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_4",
+    "text": "在101kPa下，一些物质的熔点和沸点",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.35836045928175625,
+      0.38545953360768176,
+      0.6508600773982168,
+      0.401920438957476
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_5",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.09685417818425845,
+      0.3936899862825789,
+      0.9123663584957147,
+      0.9204389574759945
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "order": 6
+  }
+]

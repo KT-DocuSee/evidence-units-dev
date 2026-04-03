@@ -1,0 +1,107 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表2-2 分钟跳绳评分表(单位：次)",
+        "bbox": [
+          0.13956734124214934,
+          0.10980392156862745,
+          0.6578274017213306,
+          0.12745098039215685
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10048848569434753,
+          0.12941176470588237,
+          0.8969527797162131,
+          0.6509803921568628
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "注：一分钟跳绳为高优指标，学生成绩超过单项评分100分后，以超过的次数所对应的分数进行 加分。",
+        "bbox": [
+          0.11165387299371947,
+          0.6535947712418301,
+          0.8978832286578274,
+          0.6882352941176471
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表2-3 男引体向上评分表(单位：次)",
+        "bbox": [
+          0.141428239125378,
+          0.6973856209150326,
+          0.6541056059548732,
+          0.7150326797385621
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520553.pdf_328_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10141893463596185,
+          0.7202614379084967,
+          0.8978832286578274,
+          0.9183006535947712
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

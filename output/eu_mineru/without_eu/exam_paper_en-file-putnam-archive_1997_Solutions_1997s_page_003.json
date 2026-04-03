@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_5",
+    "text": "and that AD < CD. In any dissection of the triangle into four parts, some two of A, B, C, D, E must belong to the same part, forcing the least diameter to be at least 25/13.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.06666666666666667,
+      0.92,
+      0.12484848484848485
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_0",
+    "text": "we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.06787878787878789,
+      0.18352941176470589,
+      0.08060606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_6",
+    "text": "We now exhibit a dissection with least diameter 25/13. (Some variations of this dissection are possible.) Put F = (15/13, 19/13), G = (15/13, 0), H = (0, 19/13), J = (32/15, 15/13), and divide ABC into the convex polygonal regions ADFH, BEJ, CGFH, DFGEJ. To check that this dissection has least diameter 25/13, it suffi ces (by the following remark) to check that the dis- tances",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.1296969696969697,
+      0.9192156862745098,
+      0.24484848484848484
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_1",
+    "text": "By computing so = 1,s1 = 1, s2 = 0, we may easily verify by induction that s4j = s4j+1 = 1 and s4j+2 = s4j+3 = 0 for all j ≥ 0. (Alternate solution suggested by John Rickert: write S(x, y) = ∑i=0(y + xy2 +x2y3)i, and note note that sk is the coefficient of yk in S(−1,y) = (1 + y)/(1 − y4).)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.1606060606060606,
+      0.49019607843137253,
+      0.2503030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_2",
+    "text": "B−5 Define the sequence x1 = 2, xn = 2xn−1 for n > 1. It suf- fices to show that for every n, xm = xm+1 = · (mod n) for some m < n. We do this by induction on n, with n = 2 being obvious.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09411764705882353,
+      0.2587878787878788,
+      0.4894117647058824,
+      0.31696969696969696
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_7",
+    "text": "are all at most 25/13. This can be checked by a long numerical calculation, which we omit in favor of some shortcuts: note that ADF H and BEJ are contained in circular sectors centered at A and B, respectively, of ra- dius 25/13 and angle less than π/3, while CGF H is a rectangle with diameter CF < 25/13.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.30303030303030304,
+      0.9192156862745098,
+      0.3903030303030303
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_3",
+    "text": "Write n = 2ab, where b is odd. It suffices to show that xm = ... modulo 2a and modulo b, for some m < n. For the former, we only need xn−1 ≥ a, but clearly Xn−1 ≥ n by induction on n. For the latter, note that xm = xm+1 = · · (mod b) as long as xm−1 = xm = ·.. (mod φ (b)), where φ (n) is the Euler totient function. By hypothesis, this occurs for some m < φ (b) + 1 ≤ n. (Thanks to Anoop Kulkarni for catching a lethal typo in an earlier version.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.32181818181818184,
+      0.49019607843137253,
+      0.45212121212121215
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_8",
+    "text": "Remark. The preceding argument uses implicitly the fact that for P a simple closed polygon in the plane, if we let S denote the set of points on or within P, then the maximum distance between two points of S occurs be- tween some pair of vertices of P. This is an immediate consequence of the compactness of S (which guarantees the existence of a maximum) and the convexity of the function taking (x, y) ∈ S × S to the squared distance be- tween x and y (which is obvious in terms of Cartesian coordinates).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.39515151515151514,
+      0.9192156862745098,
+      0.5393939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003_4",
+    "text": "B–6 The answer is 25/13. Place the triangle on the cartesian plane so that its vertices are at C = (0, 0), A = (0, 3), B = (4, 0). Define also the points D = (20/13, 24/13), and E = (27/13, 0). We then compute that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09411764705882353,
+      0.4618181818181818,
+      0.49019607843137253,
+      0.5212121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_003",
+    "order": 9
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_013",
+    "primary_id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_013_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_013_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Perceptual Linearization ' •",
+        "bbox": [
+          0.17733333333333334,
+          0.08622222222222223,
+          0.8213333333333334,
+          0.1751111111111111
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_013_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Compensates the contrast sensitivity of human visual system",
+        "bbox": [
+          0.08333333333333333,
+          0.2551111111111111,
+          0.83,
+          0.392
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_013_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Grayscale Standard Display Function — Input: Just Noticeable Differences (JNDs) — Output: absolute luminance — Barten's model — Described in DICOM Part 14",
+        "bbox": [
+          0.08266666666666667,
+          0.4711111111111111,
+          0.82,
+          0.9084444444444445
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

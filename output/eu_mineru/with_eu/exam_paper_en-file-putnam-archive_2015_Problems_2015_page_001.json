@@ -1,0 +1,342 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "The 76th William Lowell Putnam Mathematical Competition Saturday, December 5, 2015",
+        "bbox": [
+          0.2547359935509875,
+          0.059854638734501926,
+          0.7803305118903668,
+          0.0940572894399316
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A1 Let A and B be points on the same branch of the hyper- bola xy = 1. Suppose that P is a point lying between A and B on this hyperbola, such that the area of the tri- angle APB is as large as possible. Show that the re- gion bounded by the hyperbola and the chord AP has the same area as the region bounded by the hyperbola and the chord PB.",
+        "bbox": [
+          0.10318419991938735,
+          0.12654980761008977,
+          0.5038291011688835,
+          0.2228872737637167
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "four numbers off the list. Repeat with the three smallest remaining numbers 4, 5, 7 and their sum 16. Continue in this way, crossing off the three smallest remaining numbers and their sum, and consider the sequence of sums produced: 6, 16, 27, 36, . ... Prove or disprove that there is some number in the sequence whose base 10 representation ends with 2015.",
+        "bbox": [
+          0.5731559854897219,
+          0.12711985178851362,
+          0.9455864570737605,
+          0.2228872737637167
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B3 Let S be the set of all 2 × 2 real matrices",
+        "bbox": [
+          0.5481660620717452,
+          0.2268775830126835,
+          0.845626763401854,
+          0.24112868747327917
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A2 Let a0 = 1, a1 = 2, and an = 4an−1 − an−2 for n ≥ 2. Find an odd prime factor of a2015.",
+        "bbox": [
+          0.10399032648125756,
+          0.23200798061849792,
+          0.5030229746070133,
+          0.26051018953968935
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A3 Compute",
+        "bbox": [
+          0.10479645304312778,
+          0.26906085221604675,
+          0.1950826279725917,
+          0.2827419124982186
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "whose entries a, b, c, d (in that order) form an arithmetic progression. Find all matrices M in S for which there is some integer k > 1 such that Mk is also in S.",
+        "bbox": [
+          0.5723498589278516,
+          0.2907225309961522,
+          0.9447803305118904,
+          0.3323357560210916
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B4 Let T be the set of all triples (a, , c) of positive integers for which there exist triangles with side lengths a, b, c. Express",
+        "bbox": [
+          0.5457476823861346,
+          0.34088641869744907,
+          0.9447803305118904,
+          0.38135955536554084
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Here i is the imaginary unit (that is, i2 = −1).",
+        "bbox": [
+          0.13220475614671504,
+          0.34259655123272054,
+          0.43933897621926643,
+          0.3568476556933162
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A4 For each real number x, let",
+        "bbox": [
+          0.10560257960499798,
+          0.3659683625480975,
+          0.3135832325675131,
+          0.37964942283026937
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where Sx is the set of positive integers n for which |nx is even. What is the largest real number L such that f (x) ≥ L for all x ∈ [0, 1)? (As usual, [z denotes the greatest integer less than or equal to z.)",
+        "bbox": [
+          0.12978637646110439,
+          0.4332335756021092,
+          0.5030229746070133,
+          0.48852786090922046
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "as a rational number in lowest terms.",
+        "bbox": [
+          0.5731559854897219,
+          0.43779392902949976,
+          0.8206368399838775,
+          0.4514749893116717
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B5 Let Pn be the number of permutations π of {1, 2, . . , n} such that",
+        "bbox": [
+          0.5457476823861346,
+          0.4600256519880291,
+          0.9439742039500202,
+          0.48795781673079663
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A5 Let q be an odd positive integer, and let Nq denote the number of integers a such that 0 < a < q/4 and gcd(a, q) = 1. Show that Nq is odd if and only if q is of the form pk with k a positive integer and p a prime congruent to 5 or 7 modulo 8.",
+        "bbox": [
+          0.10399032648125756,
+          0.49707852358557786,
+          0.5038291011688835,
+          0.5671939575317088
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for al , in { 1, 2, . ., n}. Show that for n ≥ 2, the quan- tity",
+        "bbox": [
+          0.5715437323659814,
+          0.5244406441499216,
+          0.9439742039500202,
+          0.5523728088926891
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A6 Let n be a positive integer. Suppose that A, B, and M are n × n matrices with real entries such that AM = MB, and such that A and B have the same characteristic polyno- mial1. Prove that det(A − MX) = det(B − XM) for every n × n matrix X with real entries.",
+        "bbox": [
+          0.10399032648125756,
+          0.5763146643864899,
+          0.5038291011688835,
+          0.6447199657973492
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_18",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5747682386134623,
+          0.589425680490238,
+          0.8440145102781137,
+          0.6036767849508337
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B6 For each positive integer k, let A(k) be the number of odd divisors of k in the interval [1, √2k). Evaluate",
+        "bbox": [
+          0.5457476823861346,
+          0.6122274476271911,
+          0.9463925836356308,
+          0.642439789083654
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_16",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B1 Let f be a three times differentiable function (defined on R and real-valued) such that f has at least five dis- tinct real zeros. Prove that f + 6f ′ + 12f \" + 8 f \" has at least two distinct real zeros.",
+        "bbox": [
+          0.10318419991938735,
+          0.6532706284737068,
+          0.5038291011688835,
+          0.708564913780818
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2015_Problems_2015_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B2 Given a list of the positive integers 1, 2, 3, 4, . ., take the first three numbers 1, 2, 3 and their sum 6 and cross all does not depend on n, and find its value.",
+        "bbox": [
+          0.10479645304312778,
+          0.7176856206355993,
+          0.5038291011688835,
+          0.7456177853783669
+        ],
+        "order": 20
+      }
+    ]
+  }
+]

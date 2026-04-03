@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_The Right Moves_page_024",
+    "primary_id": "docling_PPT_The Right Moves_page_024_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_The Right Moves_page_024_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5049029541015625,
+          0.0,
+          1.0,
+          0.1636572977701823
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_The Right Moves_page_024",
+    "primary_id": "docling_PPT_The Right Moves_page_024_0",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_The Right Moves_page_024_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Subject Support con't.",
+        "bbox": [
+          0.008333350651816607,
+          0.09444444455084583,
+          0.5416666597648498,
+          0.16666666727765764
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_The Right Moves_page_024_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ESL subject section courses are credit-granting courses.",
+        "bbox": [
+          0.05813955182743887,
+          0.23048941853685664,
+          0.8372093009632585,
+          0.3239335185294035
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_The Right Moves_page_024_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "These courses focus on the subject content while placing emphasis on subject-related vocabulary, language structures and cultural background in order to support students who are acquiring English at the same time that they are learning the subject.",
+        "bbox": [
+          0.058139544881491305,
+          0.405038760472082,
+          0.9345930050017017,
+          0.6531084651024828
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_The Right Moves_page_024_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Often these subject specific courses are aligned with specific ESL levels.",
+        "bbox": [
+          0.056686041475265375,
+          0.7286821704984833,
+          0.9244186193289979,
+          0.8294573635288445
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3",
+    "primary_id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_9",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.134156334356933,
+          0.05493828821202637,
+          0.21205537696847604,
+          0.06907461361275519
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3",
+    "primary_id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_8",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_8",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "HE 75- | TE THE 7* | 5%-15% | HE 7} | 1% | Ф*: | TAXM",
+        "bbox": [
+          0.1362688832588611,
+          0.12208626931831845,
+          0.9124732980416793,
+          0.42436509868333155
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "if: (0769) 22119430",
+        "bbox": [
+          0.7392197181532171,
+          0.851686508138864,
+          0.9055441463745036,
+          0.863372092884574
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16Н: (0769) 22119430",
+        "bbox": [
+          0.7453798816172701,
+          0.869186046614973,
+          0.9055441462266726,
+          0.8794642857516236
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "/x tit: www. dgzq. com. cn",
+        "bbox": [
+          0.7351129422086796,
+          0.8851686506805051,
+          0.9117043097831067,
+          0.8968253967122511
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3",
+    "primary_id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1N41 \"ПЖ\" ВИИ 300 HT.",
+        "bbox": [
+          0.12507693971761588,
+          0.43025163170268715,
+          0.4684269582764123,
+          0.44923667419902014
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ВІТАНИТАТТ НАНЦ ЦТВ ЕНЦКАР МИШАДИНИ АНСТИТИХИ ТАЛАЛАИЙ ТЕКАНИХ ВТО ВБИТА. ЕПіДТ. ИТІТ ИТТтТТХНТ7",
+        "bbox": [
+          0.09445583528982221,
+          0.4766865079043048,
+          0.9117043314049582,
+          0.5233134919590358
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3",
+    "primary_id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЛИВШИТИ САТИСтАКСЛІЛОНИХ МАЛЯТ, ККААКж Т Л СЛЕНДЯНИИ ТИСНЯ. ЛИКАМИИЛИВВИХ ВАХТАЕИНА АНАНКЕЛК, НИН СК ШКО ОК АСТИХ СНИТ ВИ ЛИНІ К АТ ТІТИТАНТА ТАТАНАТХ ННХЛ",
+        "bbox": [
+          0.09445585687614623,
+          0.6525297619983277,
+          0.9117042966017394,
+          0.7500000001055674
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3",
+    "primary_id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_d64a9204564ad81332a4dc3767365740a00228323d2862604d15cb15b318f3af.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BEX HY: 523000",
+        "bbox": [
+          0.7823408638184256,
+          0.8357558140730009,
+          0.9055441467565227,
+          0.8489583332438226
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

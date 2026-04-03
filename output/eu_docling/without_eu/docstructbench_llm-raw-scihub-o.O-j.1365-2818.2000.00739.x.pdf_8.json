@@ -1,0 +1,288 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_1",
+    "text": "perpendicular to it. This reasoning is backed by the observation of depolarized laser light featuring a dark cross in the middle, when observing the light transmitted through two opposing identical lenses. We also observed a nonnegligible temperature dependence of this effect, with the smallest depolarization occurring at around 28 °C. At the practically more relevant temperature of 22 $ 1 °C the 'technical' depolarization for the open NA = 1.4 lens is of the order of 1.5%. However, one cannot directly attribute the depolarization exclusively to this effect, or to birefringence, or to the curvature of the wavefront, because the depolarized field adds up coherently to yield the final depolarization in the focus. If the refractive indices of all the lens components and coatings are known, the effect of refraction can be predicted theoretically, in which case one could determine the pure contribution by the curvature. However, we note that for all practical purposes the resulting depolarization in the focus is decisive and this is given by our measurement.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07251908947198081,
+      0.10168650775565381,
+      0.48091601455817923,
+      0.39098837197351083
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_5",
+    "text": "Acknowledgement",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5152671784346032,
+      0.172965115942366,
+      0.6545801513575936,
+      0.18895348856344804
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_6",
+    "text": "This work was supported by the Deutsche Forschungsgemeinschaft (through grant He-1977).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5133587750645263,
+      0.1976686509432233,
+      0.9198473190111056,
+      0.22819767391921533
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_7",
+    "text": "References",
+    "canon_role": "section_header",
+    "bbox": [
+      0.515141536456245,
+      0.2539490901916961,
+      0.5955454873327323,
+      0.2693067236234486
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_8",
+    "text": "Axelrod, D. (1979) Carbocyanine dye orientation in red cell membranes studied by microscopic fluorescence polarization. Biophys. J. 26, 557-573.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.515267191067048,
+      0.2790178572358204,
+      0.9198473185294626,
+      0.3212209299498599
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_9",
+    "text": "Bahlmann, K. & Hell, S.W. (2000) Depolarization in high aperture focusing. Appl. Phys. Lett. 77, 612-614.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5133587848059503,
+      0.32118055557322395,
+      0.9198473152894697,
+      0.35174418629600634
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_10",
+    "text": "Betzig, E. & Chichester, R.J. (1993) Single molecules observed by near-field scanning optical microscopy. Science, 262, 14221425.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755733003028,
+      0.35317460315693494,
+      0.9217557064165987,
+      0.3924418603991088
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_2",
+    "text": "Performing these experiments with single molecules at room temperature is conceivable but challenging due to the limited molecular photostability and the concomitant low signal-to-noise ratio. This might not be the case when measuring the longitudinal (z-polarized), field which is almost 30 times stronger. In this case, the contributions from the curvature of the field should dominate (Fig. 2). Provided that a compromise in spatial resolution is acceptable, one could exploit the obstruction effects reported herein for the generation of a (differential) polarization contrast. For example a differential image between the 'black cross' and 'transparent cross' images would reveal the molecules that are perpendicularly orientated with respect to the main direction of polarization.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07435799656670902,
+      0.39384920630600206,
+      0.4791023300850841,
+      0.6046626983165208
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_11",
+    "text": "Brakenhoff, G.J., Blom, P. & Barends, P. (1979) Confocal scanning light microscopy with high aperture immersion lenses. J. Microsc. 117, 219-232.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5152671831199379,
+      0.3968023256837399,
+      0.9198473105823524,
+      0.4360465115328298
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_12",
+    "text": "Eigen, M. & Rigler, R. (1994) Sorting single molecules: applications to diagnostics and evolutionary biotechnology. Proc. Natl. Acad. Sci. USA, 91, 5740-5747.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755722936234,
+      0.4404069768475314,
+      0.9198473365231705,
+      0.4796626985523809
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_13",
+    "text": "Göbel, H.D., Gaub, H.E. & Möhwald, H. (1987) Shape and microstructure of crystalline domains in polydiacetylene monolayers. Chem. Phys. Lett. 138, 441-446.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755722936234,
+      0.48255813951368176,
+      0.9198473365231705,
+      0.5218253967703905
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_14",
+    "text": "Gu, M., Tannous, T. & Sheppard, C.J.R. (1994) Improved axial resolution in confocal fluorescence microscopy using annular pupils. Opt. Commun. 110, 533-539.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755722936234,
+      0.5260416664694451,
+      0.9217557177397535,
+      0.5654761904431868
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_15",
+    "text": "Hegedus, Z. (1990) Pupil filters in confocal imaging. Confocal Microscopy (ed. by T. Wilson), pp. 171-183. Academic Press, London.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755901810065,
+      0.5696924602486197,
+      0.9217557176434209,
+      0.6081513474571512
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_16",
+    "text": "Hegedus, Z.S. & Sarafis, V. (1986) Superresolving filters in confocally scanned imaging systems. J. Opt. Soc. Am. A, 3, 1892-1896.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755733003028,
+      0.613343253957753,
+      0.9217557176761402,
+      0.6511627905458798
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_3",
+    "text": "Conclusions",
+    "canon_role": "section_header",
+    "bbox": [
+      0.0763358801580154,
+      0.6308139534948181,
+      0.1622137375900762,
+      0.6409883717474302
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_4",
+    "text": "Depolarization of the light field in the focus of a lens, which so far has been mostly in the realm of theory, has been experimentally demonstrated. We measured the integrated intensity of the transverse field E, arising with x-polarized illumination in a 1.4 oil immersion lens. The relative strength of 1.5% of the integral of the intensity of By with respect to that for E, is increased through annular apertures up to 5.5%. Cross-like obstructions blanking out the directions parallel and orthogonal to the field orientation further increase the depolarization. We conclude that vectorial depolarization can be effectively controlled by changing the field amplitude across the pupil of the lens. We demonstrated that depolarization effects are not strong enough as to be significant in routine biological fluorescence microscopy, where low signals and fast data acquisition are preferred over high measurement accuracy. However, depolarization by focusing is practically relevant in high aperture (annular) microscopy, as well as in single molecule spectroscopy and microspectroscopy utilizing polarization for retrieving quantitative molecular information.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07442747163045567,
+      0.654017857338046,
+      0.4790076428733611,
+      0.9258720928845741
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_17",
+    "text": "Hell, S.W., Hänninen, P.E., Kuusisto, A., Schrader, M. & Soini, E. (1995) Annular aperture 2-photon excitation microscopy. Opt. Commun. 117, 20-24.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755753118095,
+      0.6569767442893918,
+      0.9179389365202515,
+      0.6962209301302137
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_18",
+    "text": "Hell, S.W., Reiner, G., Cremer, C. & Stelzer, E.H.K. (1993) Aberrations in confocal fluorescence microscopy induced by mismatches in refractive index. J. Microsc. 169, 391-405.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755642401884,
+      0.6991279071008912,
+      0.9198473359960937,
+      0.739831348982101
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_19",
+    "text": "Hell, S.W. & Stelzer, E.H.K. (1992) Fundamental improvement of resolution with a 4Pi-confocal fluorescence microscope using two-photon excitation. Opt. Commun. 93, 277-282.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755891695562,
+      0.7427325582428801,
+      0.9217557166319705,
+      0.7819940477878999
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_20",
+    "text": "Inoue, S. (1952) Studies on depolarization of light at microscope lens surfaces. Experimental Cell Research, Vol. 3 (ed. by T. Caspersson). Academic Press, New York.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5152671914214645,
+      0.7863372095621314,
+      0.9198473343739563,
+      0.8256448410867544
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_21",
+    "text": "Richards, B. & Wolf, E. (1959) Electromagnetic diffraction in optical systems II. Structure of the image field in an aplanatic system. Proc. R. Soc. London A, 253, 358-379.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5171755722936234,
+      0.8298611109394257,
+      0.9198473365231705,
+      0.8692956347595505
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8_22",
+    "text": "Schrader, M., Hofmann, U.G. & Hell, S.W. (1998) Ultrathin fluorescent layers for monitoring the axial resolution in confocal and two-photon fluorescence microscopy. J. Microsc. 191, 135140.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5152671894494545,
+      0.8720238093630147,
+      0.9198473359960937,
+      0.9244186044569747
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2000.00739.x.pdf_8",
+    "order": 23
+  }
+]

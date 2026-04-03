@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126",
+    "primary_id": "mineru_book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2-second pause in the dialing. You can type several of them to create longer pauses.",
+        "bbox": [
+          0.15,
+          0.051111111111111114,
+          0.8855555555555555,
+          0.0874074074074074
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To change the label for a number (\"mobile,\"\"home,\" \"work,\" and so on), tap the label that's there now. The Label screen shows you your choices. There's even a label called \"iPhone,\" so you and your buddy can gloat together.",
+        "bbox": [
+          0.15,
+          0.1,
+          0.8777777777777778,
+          0.17407407407407408
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126",
+    "primary_id": "mineru_book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126_2",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "TIP:",
+        "bbox": [
+          0.12111111111111111,
+          0.19555555555555557,
+          0.16666666666666666,
+          0.21407407407407408
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If you scroll down the Label screen, you'll see that you can also create custom labels. You might prefer someone's cellphone number to be identified as \"cell\"instead of\"mobile,\" for example. Or you might want to create a label that says \"Skype,\" \"Google Voice,\" \"Line 2,\" \"Yacht Phone,\"or\"Bat Phone.\" The secret: Tap Add Custom Label. (Once you've created a custom label, it's there in the list of options for your use later.)",
+        "bbox": [
+          0.15888888888888889,
+          0.19555555555555557,
+          0.8711111111111111,
+          0.3118518518518518
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "20VZW -FE 2:22PM 享83% VV W-F 222PM 第83% Cancel New Contact Done Cancel New Contact Done First name Casey Last name Robin Campany Company add phone home ) (242) 635-9988 work > Phone ad email add phone Ringtone Default 》 add emal Q w E R TY u 10 P 1 $2ca$ $\\$ A sD F G H J K L 4 5 $6$",
+        "bbox": [
+          0.13111111111111112,
+          0.34444444444444444,
+          0.8888888888888888,
+          0.7
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3396-iPhone The Missing Manual 10th Edition-2017-英文版_page_126_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• Expand-O-Fields mean you'll never run out of room. Almost every field (empty box) on a Contacts card is infinitely expanding. That is, the instant you start filling in a field, another empty box (labeled add phone or whatever) appears right below it, so you can imme- diately add another phone number, email address, URL, or street address. (The only nonexpanding fields are First name, Last name, Company, Ringtone, Text Tone, Notes, and whatever oddball fields you add yourself.)",
+        "bbox": [
+          0.1322222222222222,
+          0.7222222222222222,
+          0.8777777777777778,
+          0.8711111111111111
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_23",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_23",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6867184990694907,
+          0.1156305685773167,
+          0.725934952317299,
+          0.14715975418514857
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_19",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Intelligent automation",
+        "bbox": [
+          0.6858316219652578,
+          0.14970930265139462,
+          0.8665297759813541,
+          0.1933139529328445
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Source: Robotics Revolution, 2018, KPMG in Luxembourg",
+        "bbox": [
+          0.3572895401493456,
+          0.922867063586851,
+          0.6878850087212907,
+          0.9345930233836052
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Automation technologies can be broadly grouped into three categories:",
+        "bbox": [
+          0.057429180399204915,
+          0.11627906976077493,
+          0.29774127395043015,
+          0.15578388990884307
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_8",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_8",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Jobs changing, not necessarily replaced",
+        "bbox": [
+          0.35728952981477824,
+          0.11627907041451284,
+          0.6057494841016837,
+          0.14098837183321747
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_22",
+    "source": "visual_seed",
+    "member_count": 16,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Doomsday predictions about automation's impacts to the workforce have been in the headlines for the past few years, with total job loss a significant concern. For example, in 2014 Gartner research director Peter Sondergaard stated, \"Gartner predicts one in three jobs will be converted to software, robots and smart machines by 2025.\" Yet while there are pockets of extensive automation within the industry, generous estimates cannot put the average rate of automation above 5 percent - significantly behind the rate required to achieve replacement of a full third of the workforce in 7 years.",
+        "bbox": [
+          0.35523614668412595,
+          0.14384920632053688,
+          0.6406570821827203,
+          0.3328488370706206
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The simplest form of automation, RPA technology automates repetitive rule-based processes. This technology cannot learn, adapt or make decisions; an RPA bot simply applies a consistent set of rules to a process to deliver quick and efficient outcomes. Many manual administrative processes can be streamlined in this way.",
+        "bbox": [
+          0.07597535925084005,
+          0.17151162797298414,
+          0.33675564095757465,
+          0.292162698435101
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(IA) is a term increasingly applied to this concept of combining multiple automation technologies to solve complex business issues.g",
+        "bbox": [
+          0.6831464103163738,
+          0.19585507454060866,
+          0.9436799041699604,
+          0.43849788258201566
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Machine learning: At the next level is machine learning, where a computer is able to use large volumes of data to understand and predict the desired course of action, with performance improving over time. Chat-bots are a good example of machine learning being used today in the financial sector. These bots use technologies such as natural language processing (NLP) to communicate in real time with human customers, use data from past interactions to understand the nature of the customer's query, and provide the desired information or response.",
+        "bbox": [
+          0.05749487317181421,
+          0.3080357141030276,
+          0.3388090289175294,
+          0.5101744183448453
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "While initial predictions were for automation to result in wholesale replacement of human workers, that is not what we are seeing play out in immediate timeframes. Instead, these technologies are being used to enhance or support the work of human employees. Automation capabilities can help remove the burden of repetitive administrative work or provide information to help individuals make better decisions, allowing employees to focus on",
+        "bbox": [
+          0.3572895306063377,
+          0.3618551588357265,
+          0.6406570791125589,
+          0.5116567461350912
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Cognitive augmentation: Cognitive augmentation is the closest we currently have to true artificial intelligence. Cognitive computers, such as IBM's Watson, are able to handle unstructured data and provide answers to complex queries, enabling them to complete tasks that could once only be pertormed by humans.",
+        "bbox": [
+          0.05735770328836044,
+          0.5255172343227529,
+          0.33880902853423034,
+          0.6468253966361536
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_11",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Today's organizational challenges",
+        "bbox": [
+          0.3593429151704455,
+          0.5391865081257512,
+          0.6324435233648047,
+          0.5523313493955925
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_22",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3623461648371372,
+          0.5673543694387292,
+          0.9204784979122581,
+          0.897317939357097
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "How will our operating model evolve to remain relevant and competitive?",
+        "bbox": [
+          0.45790554424656144,
+          0.5987464459624088,
+          0.5831622150552866,
+          0.6686793265289281
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "How do we innovate to create new product and service offerings?",
+        "bbox": [
+          0.622176594004963,
+          0.6015977620853651,
+          0.7577002047934583,
+          0.6584821428022473
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Though these categories denote levels of complexity, it is better not to think of automation technologies as stages through which an organization must progress. Instead, each technology is best suited to particular types of work and may be used in concert to achieve larger goals.",
+        "bbox": [
+          0.055441481790500596,
+          0.6626984126622756,
+          0.33880903337026325,
+          0.7572674417944577
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What will our future workforce look like?",
+        "bbox": [
+          0.7618069808516265,
+          0.6773255814017948,
+          0.8870636516603517,
+          0.7166686464748557
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "How can we successfully integrate digital and human labor?",
+        "bbox": [
+          0.37980502498881247,
+          0.6904069768657,
+          0.49699169035659163,
+          0.7572674416781786
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Intelligent automation (IA) is a term increasingly applied to this concept of combining multiple automation technologies to solve complex business issues. For example, organizations are looking to use RPA with machine learning, NLP and digital character recognition to help address regulatory compliance challenges and process high-volume, lowcomplexity insurance claims.",
+        "bbox": [
+          0.05544148535763301,
+          0.7732558140750021,
+          0.3388090340735486,
+          0.9069940477624638
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "How can we exploit digital labor technologies for an optimal benefit?",
+        "bbox": [
+          0.7659137618369485,
+          0.7848837210045079,
+          0.9096509234813264,
+          0.8531976742990922
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What does digital labor mean for my business?",
+        "bbox": [
+          0.38769895938662957,
+          0.8167677194154164,
+          0.4832349118329666,
+          0.8693323850999808
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "1. Robotic Process Automation (RPA):",
+        "bbox": [
+          0.05749486719543675,
+          0.15843023278866503,
+          0.3347022511310522,
+          0.1686507935512823
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36",
+    "primary_id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_24",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_0071908e787f90267682e19ef093bb18dda6e1c1614534c445ddd62c425b3a94.pdf_36_24",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.9099808938558042,
+          0.41447442859194633,
+          0.9407840899429414,
+          0.4374343200135608
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

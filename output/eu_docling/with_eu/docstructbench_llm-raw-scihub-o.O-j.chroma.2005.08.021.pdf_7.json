@@ -1,0 +1,533 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_28",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_28",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3.4.1. Evaluation of C.I. Pigment Red 122 and of C.I. Pigment Blue 15.4",
+        "bbox": [
+          0.5213178435906594,
+          0.0828373016352404,
+          0.8856589078822088,
+          0.11046511648659224
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BET Adsorption / Desorption Isotherm - 196C",
+        "bbox": [
+          0.1511627983364546,
+          0.08283730170164805,
+          0.42054263186841806,
+          0.09598214297148933
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_38",
+    "source": "visual_seed",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_38",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09301172569168746,
+          0.0836236630367995,
+          0.47725659489848005,
+          0.3134235786721583
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "250 -",
+        "bbox": [
+          0.11434108564523146,
+          0.10317460335273462,
+          0.14147286874753334,
+          0.11191860426823164
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "200 -",
+        "bbox": [
+          0.11240310086669689,
+          0.1336805557787135,
+          0.14728682091624887,
+          0.1453488372014344
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "150 -",
+        "bbox": [
+          0.11240310102173566,
+          0.16567460337495807,
+          0.14728682107128763,
+          0.17733134940670414
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "100",
+        "bbox": [
+          0.11240310063089455,
+          0.1976744188533452,
+          0.1375968988652295,
+          0.20784883710595717
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50",
+        "bbox": [
+          0.11821705449161302,
+          0.22965116289404283,
+          0.13759689938435596,
+          0.23982558114665473
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.8",
+        "bbox": [
+          0.3817829460414972,
+          0.2863372091275067,
+          0.4031007745398982,
+          0.2994186045643539
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.0",
+        "bbox": [
+          0.43410852692449914,
+          0.2863372093491638,
+          0.4593023251588342,
+          0.29941860478601084
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.0",
+        "bbox": [
+          0.15891472889517932,
+          0.28779069781310035,
+          0.1802325573935804,
+          0.2994186046578298
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.2",
+        "bbox": [
+          0.21705426386772453,
+          0.28779069781310035,
+          0.2383720923661256,
+          0.2994186046578298
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.6",
+        "bbox": [
+          0.3275193804988614,
+          0.28779069785670497,
+          0.34883720899726256,
+          0.29941860470143444
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.4",
+        "bbox": [
+          0.27131782991262116,
+          0.28779069788577477,
+          0.2926356584110222,
+          0.29941860473050425
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_36",
+    "source": "visual_seed",
+    "member_count": 15,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Determination of the dispersive component of the surface free energy of C.I. Pigment Red 122 and of C.I. Pigment Blue 15.4. The Fowkes approach was used to determine the dispersive component of the surface free energy over a range of temperatures. For each temperature of study, the calculated values of K/ In Vg were plotted against a ya, 0.5 . These details are shown in Fig. Sa-e for C.I. Pigment Red 122 and Fig. 8a-e for C.I. Pigment Blue 15.4. Data obtained from studies of polar probes are included in these graphs. These data are discussed later in this paper.",
+        "bbox": [
+          0.5193798525470421,
+          0.1133432541926127,
+          0.9476744247389015,
+          0.2646329364989366
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Although the Fowkes data analytical approach has a relatively simple background, the results can be relatively easily rationalised within the objectives of the study undertaken. The data so derived are interpreted on the basis of the Fowkes model and used within the limitations of the model, bearing in mind the potential complexity of the systems being investigated. Thus, a good correlation coefficient was obtained from each of the linear fits, denoted as R? in each of the plots. The slope of the linear fit, obtained for each n-alkane plot, gives the dispersive component of the surface free energy, Ys, at that temperature. To determine the relationship between these two parameters, the values are shown in Table 6 for C.I. Pigment Red 122.",
+        "bbox": [
+          0.5213178233231137,
+          0.26587301571949906,
+          0.9477199558998292,
+          0.4447674416494405
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 4. The BET adsorption/desorption isotherms of C.I. Pigment Blue 15:4 and C.I. Pigment Red 122.",
+        "bbox": [
+          0.06976743926303611,
+          0.3270348837374873,
+          0.4941860420354136,
+          0.351744185944167
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ent levels of interaction, with associated energies, take place for the adsorption and the desorption processes.",
+        "bbox": [
+          0.07170542199074935,
+          0.3764534885107749,
+          0.49612402476312684,
+          0.4040697672308359
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The isotherms in Fig. 4 indicate that both pigments are quite strongly coherent as there is little low-pressure hysteresis. This suggests that the pigment crystals are sufficiently well packed to prevent significant amounts of nitrogen entering into any void spaces. C.I. Pigment Blue 15:4 gives more high pressure hysteresis than that provided by C.I. Pigment Red 122. This implies that the phthalocyanine pigment (C.I. Pigment Blue 15:4) has better ordered character within the sample than does the quinacridone (C.I. Pigment Red 122).",
+        "bbox": [
+          0.06976744096441222,
+          0.4055059524711846,
+          0.4961240353735917,
+          0.5406976742449179
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Table 6 shows that the dispersive component of the surface free energy decreases as the temperature increases. This follows a logical trend as the weaker the dispersive interaction, the easier it would be to remove the molecules from the surface.",
+        "bbox": [
+          0.521317844501512,
+          0.4476686510290108,
+          0.947674422970491,
+          0.5044642859343103
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "However, there was significant variation in the values of the dispersive component of the surface energy as the temperature increased. Further experimental work is necessary to understand the reason for such variation, although owing to the high quality of experimental consistency, it is felt that the variation is indicative of the changing nature of the pigment (steric, chemical) as a function of temperature.",
+        "bbox": [
+          0.5213178197544086,
+          0.5071924603374616,
+          0.9476744247389015,
+          0.6104651156319987
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The computer software associated with the ASAP 2000 System carries out the calculations that are needed to determine the BET surface area of the pigment sample. The results obtained are summarised in Table 5.",
+        "bbox": [
+          0.06976743749462526,
+          0.5421511627840306,
+          0.4941860534049479,
+          0.5989583334433457
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As these results show, the C.I. Pigment Blue 15:4 sample has a slightly larger surface area than that possessed by the C.I. Pigment Red 122 sample.",
+        "bbox": [
+          0.07170542897598439,
+          0.6016865080167395,
+          0.49418605445424785,
+          0.6438953487712019
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Determination of the specific component of the surface free energy of C.I. Pigment Red 122 and of C.I. Pigment Blue 15.4. The behaviour of a range of polar probes was used to determine the specific component of the surface free energy. The acidic probes that were studied were trichloromethane (TCM) and dichloromethane (DCM). A single basic probe, tetrahydrofuran (THF), was studied in the same way. The amphoteric probes included acetone, diethyl ether and ethyl acetate.",
+        "bbox": [
+          0.5193798442091802,
+          0.613343253853797,
+          0.9476744236007774,
+          0.7326388887550417
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In preliminary experiments, the influence of pigment loading, on the support material as a \"concentration\" series, was evaluated to ensure that, in the investigations described here, complete coverage of the support material was a reality, within experimental error. In this way, it was possible to ensure that the observations made in experiments were not influenced by the amount of coverage and that no \"naked\" zones of support material were present to cause complications in the behaviour observed [35].",
+        "bbox": [
+          0.06976744492626583,
+          0.6932043650105244,
+          0.4961240353735917,
+          0.8271329364074245
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As for the n-alkanes, values of RT In Vg were calculated for each of the polar probes that were studied. Plots of these values of RT In Vs against a(29,0.5 are included in Fig. Sa-e, at the relevant temperature. The specific component of the surface free energy,",
+        "bbox": [
+          0.5203458828333472,
+          0.7325581390709996,
+          0.9476744183278193,
+          0.7936507935777191
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_35",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 6 Values of s with increasing temperature for C.I. Pigment Red 122",
+        "bbox": [
+          0.5232558132361946,
+          0.8154069768475313,
+          0.8837209229395162,
+          0.8401162784226964
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_27",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 5 The results of the BET analyses",
+        "bbox": [
+          0.07170542614226585,
+          0.8531746029558169,
+          0.24418604007606168,
+          0.8764880952313175
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_36",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "C.I. Pigment Blue 15:4 | C.I. Pigment Red 122 | BET surface area (m/g) | 65.18 $ 0.25 | 56.97 $ 0.15 | Correlation coefficient | 1.00 | 1.00",
+        "bbox": [
+          0.07013535312068729,
+          0.8794861669877606,
+          0.493654189943474,
+          0.9341207661633046
+        ],
+        "order": 39
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_37",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C.I. PR 122 - Adsorption",
+        "bbox": [
+          0.19767442205100488,
+          0.11627906965076253,
+          0.3294573627773451,
+          0.12946428549859537
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Volume Adsorbed [cm/g]",
+        "bbox": [
+          0.08813918445838352,
+          0.12473200528532105,
+          0.1107064298206003,
+          0.24153509127852768
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C.I. PR 122 - Desorption",
+        "bbox": [
+          0.19767442068859964,
+          0.12645348854577976,
+          0.33139534880752447,
+          0.14098837162863886
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C.I. PB 15:4 - Adsorption",
+        "bbox": [
+          0.1976744193437285,
+          0.13953488359213853,
+          0.33333333485523786,
+          0.1526162790289855
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C.I. PB 15:4 - Desorption",
+        "bbox": [
+          0.1976744193437285,
+          0.14970930222101456,
+          0.33333333485523786,
+          0.16279069765786144
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Relative Pressure [P/Po]",
+        "bbox": [
+          0.24418604784948375,
+          0.3008432538639082,
+          0.39341085491214406,
+          0.3154761903718447
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_37",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Temperature (°C) | 1s (mJ/m?) | 80 | 49.72 | 90 | 46.72 | 100 | 42.62 | 110 | 34.09 | 120 | 32.46",
+        "bbox": [
+          0.5218893190765842,
+          0.8445142951750907,
+          0.946157835067869,
+          0.9355071440460675
+        ],
+        "order": 37
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_25",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.08.021.pdf_7_25",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3.4. Inverse gas chromatography studies",
+        "bbox": [
+          0.07170542974245364,
+          0.6626984125195599,
+          0.3488372128447555,
+          0.6758720929764177
+        ],
+        "order": 33
+      }
+    ]
+  }
+]

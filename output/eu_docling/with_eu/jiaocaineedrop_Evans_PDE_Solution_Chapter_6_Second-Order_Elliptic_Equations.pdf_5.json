@@ -1,0 +1,270 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "primary_id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_0",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_0",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Proof. We omit (a) since is standard. For (b), if u attains an interior maximum, then the conclusion follows from strong maximum principle.",
+        "bbox": [
+          0.07392200669729163,
+          0.07118055518395733,
+          0.9178644429262539,
+          0.11191860457437539
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If not, then for some x° € OU, u(x°) > 4(x) Vx E U. Then Hopf's lemma implies du (r°) > 0, which is a contradiction.",
+        "bbox": [
+          0.10472278517949342,
+          0.12053571450533843,
+          0.917864467551513,
+          0.16279069735538304
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark 2. A generalization of this problem to mixed boundary conditions is recorded in Gilbarg-Trudinger, Elliptic PDEs of second order, Problem 3.1.",
+        "bbox": [
+          0.10882956035881697,
+          0.17877907014461697,
+          0.9158110799827414,
+          0.22098214283474016
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Proof. Define",
+        "bbox": [
+          0.07186858715157825,
+          0.24127907002418505,
+          0.22587268814909645,
+          0.25581395310704413
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "primary_id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_6",
+    "source": "text_cluster",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.27586266956998184,
+          0.25676055034035644,
+          0.7498504749376511,
+          0.30085115730380235
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By Exercise 5.17, Ф(u) € H'(U). Then, for all v € CO°(U), u ≥ 0,",
+        "bbox": [
+          0.10677618863319857,
+          0.30377907004054,
+          0.6735112837281978,
+          0.3226744179536462
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.18805608783984848,
+          0.3331252118877592,
+          0.7029516365392608,
+          0.5013791492424647
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2731006079409949,
+          0.38070436485850867,
+          0.8377823365661923,
+          0.5000000001128141
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(We don't know whether the product of two H' functions is weakly differentiable. This is why we do not take v € Ho.) Now we complete the proof with the standard density argument. O",
+        "bbox": [
+          0.10882956977517111,
+          0.5101686508574358,
+          0.9178644787617897,
+          0.5508720931581037
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Proof. Given u E C (U)nC(U) with Lu ≤ 0 in U and u ≤ 0 on dU. Since U is compact and vE C(U), 0 > c> 0. So w:= € C*(U) NC(U). Brutal computation gives us",
+        "bbox": [
+          0.07186856878465862,
+          0.5726686508339406,
+          0.9158110906169253,
+          0.6178075393018309
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_12",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2464065706501832,
+          0.6336044187018919,
+          0.8152264091800889,
+          0.7252906977038885
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Therefore,",
+        "bbox": [
+          0.10671355625398594,
+          0.7454722864972004,
+          0.199241269467849,
+          0.7632486433002467
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "primary_id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_13",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5934291641009511,
+          0.781976744670901,
+          0.85626283294217,
+          0.7994186039918896
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "primary_id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If {x € U: u > 0} is not empty, Weak maximum principle to the operator M with bounded coefficeints (since v € C'(U)) will lead a contradiction that",
+        "bbox": [
+          0.10677617960427557,
+          0.819692460080099,
+          0.9158110732860887,
+          0.861918604863282
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "primary_id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_15",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3798767982941206,
+          0.8764534885543795,
+          0.6447638550059676,
+          0.9098837209514344
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5",
+    "primary_id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_Evans_PDE_Solution_Chapter_6_Second-Order_Elliptic_Equations.pdf_5_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hence u ≤ 0 in U.",
+        "bbox": [
+          0.10677618510802982,
+          0.9215116274830635,
+          0.2669404497174322,
+          0.9375000001041457
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

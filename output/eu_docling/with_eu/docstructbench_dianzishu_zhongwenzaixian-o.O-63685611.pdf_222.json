@@ -1,0 +1,94 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": ", fertito",
+        "bbox": [
+          0.5202047645929984,
+          0.30408040339469433,
+          0.6867624505946451,
+          0.32818703838241947
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TENNE, E tiTo",
+        "bbox": [
+          0.5204918033947827,
+          0.5275297616698023,
+          0.8422131051355471,
+          0.6380813950795574
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "МінАЙКИ\",",
+        "bbox": [
+          0.20491803755097834,
+          0.5406976746502495,
+          0.4795081958799348,
+          0.5624999997475909
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63685611.pdf_222_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ATEANZINA, TE",
+        "bbox": [
+          0.5204918149245978,
+          0.7557043651901779,
+          0.8442622899114676,
+          0.7790697672226364
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

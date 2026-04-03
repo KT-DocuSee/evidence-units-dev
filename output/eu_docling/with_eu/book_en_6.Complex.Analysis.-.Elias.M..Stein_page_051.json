@@ -1,0 +1,116 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051",
+    "primary_id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_0",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2 Cauchy's Theorem and Its Applications",
+        "bbox": [
+          0.26881722813530445,
+          0.09166666711455326,
+          0.7258064430116483,
+          0.15406976725533994
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The solution of a large number of problems can be reduced, in the last analysis, to the evaluation of definite integrals; thus mathematicians have been much occupied with this task... However, among many results obtained, a number were initially discovered by the aid of a type of induction based on the passage from real to imaginary. Often passage of this kind led directly to remarkable results. Nevertheless this part of the theory, as has been observed by Laplace, is subject to various difficulties...",
+        "bbox": [
+          0.40037593629699253,
+          0.20783730135314252,
+          0.7576520159849334,
+          0.34598214300055896
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "After having reflected on this subject and brought together various results mentioned above, I hope to establish the passage from the real to the imaginary based on a direct and rigorous analysis; my researches have thus led me to the method which is the object of this memoir...",
+        "bbox": [
+          0.4022556388044953,
+          0.34593023242329163,
+          0.7593984882017948,
+          0.4258720928714609
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. L. Cauchy, 1827",
+        "bbox": [
+          0.625939848702379,
+          0.42877906977794283,
+          0.7556390954235611,
+          0.4419642856257755
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the previous chapter, we discussed several preliminary ideas in complex analysis: open sets in C, holomorphic functions, and integration along curves. The first remarkable result of the theory exhibits a deep connection between these notions. Loosely stated, Cauchy's theorem says that if f is holomorphic in an open set S and y C S is a closed curve whose interior is also contained in ^ then",
+        "bbox": [
+          0.24624060462875938,
+          0.4970238097371671,
+          0.787593985921382,
+          0.5915697673223479
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.24436090216165413,
+          0.6071674558328272,
+          0.5753686589565907,
+          0.6399255668783013
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Many results that follow, and in particular the calculus of residues, are related in one way or another to this fact.",
+        "bbox": [
+          0.24624060887780724,
+          0.6510416665674347,
+          0.7875939904448621,
+          0.6831395345356155
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_6.Complex.Analysis.-.Elias.M..Stein_page_051_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A precise and general formulation of Cauchy's theorem requires defining unambiguously the \"interior\" of a curve, and this is not always an easy task. At this early stage of our study, we shall make use of the device of limiting ourselves to regions whose boundaries are curves that are \"toy contours.\" As the name suggests, these are closed curves whose visualization is so simple that the notion of their interior will be unam-",
+        "bbox": [
+          0.2462406068984961,
+          0.6845238095013068,
+          0.7875939917058269,
+          0.7790697675767082
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

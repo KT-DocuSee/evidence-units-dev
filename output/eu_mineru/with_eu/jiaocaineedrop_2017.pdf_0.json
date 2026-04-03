@@ -1,0 +1,266 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_2017.pdf_0",
+    "primary_id": "mineru_jiaocaineedrop_2017.pdf_0_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "浙江大学2016-2017学年春夏学期 《电磁场与电磁波》课程期中考试试卷",
+        "bbox": [
+          0.2184602982668279,
+          0.07125552230297848,
+          0.7819427650141072,
+          0.13225024939432806
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_2017.pdf_0",
+    "primary_id": "mineru_jiaocaineedrop_2017.pdf_0_4",
+    "source": "visual_seed",
+    "member_count": 16,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "课程号：_11120010 —，开课学院：信电学院 考试形式：纸开卷，允许带张A4写稿场 考试日期：_2016_年__4_月_26_日，考试时间：120分钟（14:00-16:00）",
+        "bbox": [
+          0.15155179363160015,
+          0.14821148639019524,
+          0.7827488915759774,
+          0.22231722958529285
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "诚信考试，沉着应考，杜绝违纪。",
+        "bbox": [
+          0.3651753325272068,
+          0.241698731651703,
+          0.6255542120112858,
+          0.2588000570044178
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "考生姓名： 学号： 所属专业：",
+        "bbox": [
+          0.11688835147118097,
+          0.278181559070828,
+          0.7456670697299476,
+          0.2969930169588143
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1185006045949214,
+          0.30440359127832406,
+          0.8835147118097542,
+          0.41727233860624197
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "、选择题（每题2分，共20分）：",
+        "bbox": [
+          0.11769447803305119,
+          0.4343736639589568,
+          0.39177750906892383,
+          0.4514749893116717
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1．传输线特征阻抗为Zo，负载阻抗为RL，且Zo≠RL，若特性阻抗为Zo1的1/4波长阻抗变换 器进匹配，则Zo1应满条件（ c ）.",
+        "bbox": [
+          0.11688835147118097,
+          0.45945560780960526,
+          0.8827085852478839,
+          0.4987886561208494
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. Z01 = ZRL B. Z0 = √Z0RL C. Z01 = √ZRL D. Z01 = RL",
+        "bbox": [
+          0.14026602176541716,
+          0.5101895396893259,
+          0.6723095525997581,
+          0.5341313951831267
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.圆极化波垂直投射于理想导体平板上（平板和z轴垂直，位于z=b），射电场 E= Em(x0 + jyo)e−jk,则反射波电场为( C )",
+        "bbox": [
+          0.11688835147118097,
+          0.546102322930027,
+          0.8835147118097542,
+          0.5951261222744763
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. E= Em(X0 + jy0)e− k B. E = −Em(X0 + jy0)eik(z−b) C. E= −Em(X0 + jyo)ek(z−2b) D. E= −Em(X0 + jo)eikz",
+        "bbox": [
+          0.14026602176541716,
+          0.6053869174861052,
+          0.6650544135429263,
+          0.6561208493658258
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3．容性负载经过四分之阻抗变换器后，在导纳圆图上标注在（ B ）",
+        "bbox": [
+          0.11688835147118097,
+          0.665811600399031,
+          0.7376058041112454,
+          0.6829129257517458
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A)上半圆 B)下半圆 C）纯电纳圆 D)纯电导线",
+        "bbox": [
+          0.1483272873841193,
+          0.6903235000712555,
+          0.6376461104393389,
+          0.7068547812455466
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.右图所为传输线上电压的驻波分布，判别负载Z是什么性质的阻抗? ( B )",
+        "bbox": [
+          0.11608222490931076,
+          0.7142653555650563,
+          0.6763401854091092,
+          0.7541684480547243
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A．纯电阻 B．电阻、电容都有 C.纯电抗 D.电阻、电感都有",
+        "bbox": [
+          0.15074566706972994,
+          0.7627191107310817,
+          0.46110439338976217,
+          0.8031922473991734
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.已知天线的向性为1.25，天线效率为80%，则天线增益为（ C ）",
+        "bbox": [
+          0.11527609834744054,
+          0.8123129542539547,
+          0.6852075775896815,
+          0.8294142796066695
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A.0dB B.1dB C. 2dB D.3dB",
+        "bbox": [
+          0.14107214832728737,
+          0.840815163175146,
+          0.5054413542926239,
+          0.8573464443494371
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6.均匀平波的电场为E=xEθsin(at -kz+π/6)+ Ecos(at- kz)，则表明此波是( C )",
+        "bbox": [
+          0.1128577186618299,
+          0.8715975488100328,
+          0.8633615477629988,
+          0.8909790508764429
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_2017.pdf_0",
+    "primary_id": "mineru_jiaocaineedrop_2017.pdf_0_14",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_2017.pdf_0_14",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.694074969770254,
+          0.7131252672082087,
+          0.886739218057235,
+          0.8140230867892262
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

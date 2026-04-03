@@ -1,0 +1,143 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Who are you?\"' said Lucie. \"Have you seen my pocket-handkins?\"",
+        "bbox": [
+          0.11121961363608518,
+          0.07816670188611798,
+          0.8490668065388942,
+          0.13917485945577104
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The little person made a bob-curtsey—\"Oh, yes, if you please'm; my name is Mrs. Tiggy-winkle; oh, yes if you please'm, I'm an excellent clear-starcher!\" And she took something out of a clothes-basket, and spread it on the ironing-blanket.",
+        "bbox": [
+          0.44216578104102155,
+          0.1677724333165459,
+          0.8490668065388942,
+          0.4709067162407595
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08138020509957453,
+          0.1868374825570625,
+          0.43131508702774496,
+          0.4594676866964496
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"What's that thing?\" said Lucie—\"that's not my pocket-handkin?\"",
+        "bbox": [
+          0.11121961363608518,
+          0.4995042901015344,
+          0.8490668065388942,
+          0.5605124476711875
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Oh no, if you please'm; that's a little scarlet waist- coat belonging to Cock Robin!\"",
+        "bbox": [
+          0.11121961363608518,
+          0.5891100215319623,
+          0.5018445981140429,
+          0.7187523563674751
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "And she ironed it and folded it, and put it on one side.",
+        "bbox": [
+          0.11121961363608518,
+          0.7492564351523017,
+          0.5018445981140429,
+          0.8426751764308329
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_5",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5154079656306386,
+          0.5891100215319623,
+          0.846354133035575,
+          0.8407686715067813
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

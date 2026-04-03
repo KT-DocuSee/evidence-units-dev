@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "scihub_s00381-021-05138-3.pdf_3",
+    "primary_id": "mineru_scihub_s00381-021-05138-3.pdf_3_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_s00381-021-05138-3.pdf_3_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.11366384522370013,
+          0.03884084357457138,
+          0.8778718258766627,
+          0.9036565012896374
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_scihub_s00381-021-05138-3.pdf_3_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.08464328899637243,
+          0.42118039751175845,
+          0.10963321241434905,
+          0.9127598240024275
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

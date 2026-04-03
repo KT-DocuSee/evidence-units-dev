@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_010",
+    "primary_id": "docling_PPT_StewartCalcET7e_03_02_page_010_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_010_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Example 1",
+        "bbox": [
+          0.0521199640673274,
+          0.08974301452148166,
+          0.30398468497196535,
+          0.16219496931768254
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_010_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) If f(x) = xex, find f(x).",
+        "bbox": [
+          0.05416667041666659,
+          0.22777777766666668,
+          0.4291666704166666,
+          0.28339946977918057
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_010_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) Find the nth derivative, fin (x).",
+        "bbox": [
+          0.05813954540907476,
+          0.2945736438742679,
+          0.5465116215344468,
+          0.3430232560426758
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_010",
+    "primary_id": "docling_PPT_StewartCalcET7e_03_02_page_010_3",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_010_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Solution:",
+        "bbox": [
+          0.05953285256646914,
+          0.42214629833500483,
+          0.19192063446654198,
+          0.46545060040929587
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_010_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) By the Product Rule, we have",
+        "bbox": [
+          0.05813954248011728,
+          0.48643410891364275,
+          0.5494185995741464,
+          0.5348837210820507
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_010_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.23546511829148722,
+          0.5562015500210812,
+          0.4476744192211953,
+          0.6472868219506376
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_010_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3066860471373655,
+          0.7151162792471212,
+          0.6061046515543568,
+          0.8003875965681665
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_StewartCalcET7e_03_02_page_010_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3052325623557912,
+          0.8895348842486942,
+          0.6511627829445964,
+          0.9282945724696517
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

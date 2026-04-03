@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_1",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（续表）",
+        "bbox": [
+          0.7847533751613216,
+          0.10266023998879768,
+          0.8428832548029009,
+          0.11902636520440311
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.11625975928315875,
+          0.12497768346462328,
+          0.8823285302739727,
+          0.28863893562067755
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "表2-20三年期分析师预测准确性评价一最佳表现(2017.05.01—2020.04.30)",
+        "bbox": [
+          0.18476997457502017,
+          0.3035172312712279,
+          0.8117422478520548,
+          0.3213711860518884
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "行业：可选消费一汽车与汽车零部件",
+        "bbox": [
+          0.35293141210958906,
+          0.32881033387716363,
+          0.6456568774475424,
+          0.34517645909276906
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.11625975928315875,
+          0.3511277773529892,
+          0.8823285302739727,
+          0.8912099094679683
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

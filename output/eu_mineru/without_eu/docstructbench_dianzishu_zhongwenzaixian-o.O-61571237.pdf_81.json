@@ -1,0 +1,106 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_0",
+    "text": "续表",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12701100652665304,
+      0.10239906540535543,
+      0.17170006437862353,
+      0.1186528853109674
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_1",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.12701100652665304,
+      0.1267797952637734,
+      0.8585003218931178,
+      0.23242962465025122
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_2",
+    "text": "另外，处方药物按类别区分，频次前4位的是：补虚药302频次 (24.65%),消食药163频次(13.31%),利水祛湿药118频次(9.63%)， 理气药106频次(8.65%）。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12701100652665304,
+      0.25518497251810796,
+      0.8608523775695373,
+      0.34295560000841263
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_3",
+    "text": "2.2处方中药物组合关联规则见表2。对药物组合出现关 联规则进行分析，支持度个数23（在所有药物中同时出现次数）、置信 度为0.95（若X→Y，置信度为Y在含X的事物中出现的频繁度）。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12465895085023353,
+      0.354333273942341,
+      0.8608523775695373,
+      0.44372928342320683
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_4",
+    "text": "表2处方中药物组合关联规则（置信度>0.95）",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23520556764195005,
+      0.46485924930050243,
+      0.7503057607778206,
+      0.485989215177798
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_5",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.12465895085023353,
+      0.5006176530928488,
+      0.8585003218931178,
+      0.7818087374599358
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_6",
+    "text": "2.3基于熵聚类的方剂组方规律分析",
+    "canon_role": "section_header",
+    "bbox": [
+      0.17405212005504303,
+      0.8029387033372315,
+      0.5974221418105531,
+      0.8256940512050882
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_7",
+    "text": "2.3.1基于改进的互信息法的药物间关联度分析见表3。依 据方剂数量，结合经验判断和不同参数提取数据的预读，设置相关度 为8，惩罚度为5，进行聚类分析，得到方剂中两两药物间的关联度。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12465895085023353,
+      0.8370717251390166,
+      0.8608523775695373,
+      0.9264677346198824
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "order": 8
+  }
+]

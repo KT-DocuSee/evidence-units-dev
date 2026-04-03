@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_007",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_007_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_007_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If we divide by Δx, we get",
+        "bbox": [
+          0.05733333333333333,
+          0.2222222222222222,
+          0.43933333333333335,
+          0.27466666666666667
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_007",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_007_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_007_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If we now let ∆x → 0, we get the derivative of uv:",
+        "bbox": [
+          0.05266666666666667,
+          0.4311111111111111,
+          0.7793333333333333,
+          0.48355555555555557
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_StewartCalcET7e_03_02_page_007",
+    "primary_id": "mineru_PPT_StewartCalcET7e_03_02_page_007_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_StewartCalcET7e_03_02_page_007_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7",
+        "bbox": [
+          0.9373333333333334,
+          0.9413333333333334,
+          0.9553333333333334,
+          0.9733333333333334
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

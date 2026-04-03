@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_yanbaoPPT_569",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_569_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_569_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表1：县域数字乡村指标体系及数据可得性",
+        "bbox": [
+          0.33373639661426846,
+          0.09120706854781245,
+          0.7142281338170092,
+          0.10944848225737494
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaor2_yanbaoPPT_569",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_569_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_569_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.14107214832728737,
+          0.11913923329058002,
+          0.8657799274486094,
+          0.8339746330340602
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_yanbaoPPT_569",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_569_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_569_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "注：打勾表示相应指标已经纳了2018年县域数字乡村指数的计算。由于本指数的构建 开始于2019年底，部分2018年的时点数据已经不可获得，计算中2019年的时点数据进 填补。如果两年数据均不可得，则该指标不被纳2018年县域数字乡村指数的计算。未来年 份在测算该指数时将根据数据可得性逐步加。",
+        "bbox": [
+          0.14993954050785974,
+          0.840815163175146,
+          0.860137041515518,
+          0.9143508621918198
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

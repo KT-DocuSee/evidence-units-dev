@@ -1,0 +1,314 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_0",
+    "text": "Solutions to the 70th William Lowell Putnam Mathematical Competition Saturday, December 5, 2009",
+    "canon_role": "section_header",
+    "bbox": [
+      0.19924813927314225,
+      0.06686046501213344,
+      0.8063909684336245,
+      0.10319767372036122
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_1",
+    "text": "Kiran Kedlaya and Lenny Ng",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.4003759429718004,
+      0.11627907003802782,
+      0.607142857466796,
+      0.13081395312088695
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_2",
+    "text": "A-1 Yes, it does follow. Let P be any point in the plane. Let ABCD be any square with center P. Let E,F,G, H be the midpoints of the segments AB, BC, CD, DA, respectively. The function f must satisfy the equations",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466560150368,
+      0.16715116302252403,
+      0.4906015095808188,
+      0.22395833310452995
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_15",
+    "text": "A-3 The limit is 0; we will show this by checking that dn = 0 for all n ≥ 3. Starting from the given matrix, add the third column to the first column; this does not change the determinant. However, thanks to the identity cosx + cosy =2 cos *7} cos *Z', the resulting matrix has the form",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5225564033571184,
+      0.16715116302252403,
+      0.9210526271691972,
+      0.2519451485315607
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1766917257813324,
+      0.23834325385279623,
+      0.4003759420864661,
+      0.3430232558143538
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_16",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5827067692380932,
+      0.2643863415334954,
+      0.81203007180954,
+      0.3038194442212865
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_17",
+    "text": "with the first column being a multiple of the second. Hence dn = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706840012449,
+      0.34300595242879106,
+      0.9191729340438677,
+      0.37080932157812224
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_4",
+    "text": "If we add the last four equations, then subtract the first equation and twice the second equation, we obtain 0 = 4f(P), whence f(P) = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985598307048,
+      0.3561046510279427,
+      0.49060151260400175,
+      0.3998015874632723
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_18",
+    "text": "Remark. Another way to draw the same conclusion is to observe that the given matrix is the sum of the two rank 1 matrices Ajk = cos(j - 1)ncosk and B jk = - sin(j - 1)nsink, and so has rank at most 2. One can also use the matrices Ajk = e'(i-1)n+k), B jk = eilj-1)n+k",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556346361536796,
+      0.37645348882536567,
+      0.9210526404235507,
+      0.4652710074447214
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_5",
+    "text": "Remark. Problem 1 of the 1996 Romanian IMO team selection exam asks the same question with squares replaced by regular polygons of any (fixed) number of vertices.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955019313804,
+      0.4040178570295114,
+      0.49060151260400175,
+      0.4593023254296004
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_6",
+    "text": "A-2 Multiplying the first differential equation by gh, the second by fh, and the third by fg, and summing gives",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466658834576,
+      0.4723837208317219,
+      0.49060150869360897,
+      0.49999999982598164
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_19",
+    "text": "A-4 The answer is no; indeed, S = Q\\{n+2/5|n EZ} satisfies the given conditions. Clearly S satisfies (a) and (b); we need only check that it satisfies (c). It suffices to show that if x = p/q is a fraction with (p,q) = 1 and p > 0, then we cannot have 1/xx - 1)) = n + 2/5 for an integer n. Suppose otherwise; then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360958020048,
+      0.4781746032518327,
+      0.9191729379072678,
+      0.563988095280099
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.21240601661402697,
+      0.5116279077668313,
+      0.3627819508671761,
+      0.5290697670878199
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_8",
+    "text": "Write k(x) = f(x)g(x)h(x); then k' = 6k + 6 and k(0) = 1. One solution for this differential equation with this initial condition is k(x) = tan(6x + n/4); by standard uniqueness, this must necessarily hold for x in some open interval around 0. Now the first given equation becomes",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954002757723,
+      0.5391865081546998,
+      0.49060151260400175,
+      0.6238722937217629
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_20",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6353383502982376,
+      0.5770348840108962,
+      0.7988721792882286,
+      0.5915697670937551
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_21",
+    "text": "Since p and q are relatively prime, and p divides 5q, we must have p|5, so p = 1 or p = 5. On the other hand, p - q and q are also relatively prime, so p- q divides 5 as well, and p - q must be 1 or $5. This leads to eight possibilities for (p,q): (1,0), (5,0), (5, 10), (1, -4), (1,2), (1,6), (5,4), (5,6). The first three are impossible, while the final five lead to 5n + 2 = 16, -20, -36, 16, -36 respectively, none of which holds for integral n.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909772366713,
+      0.6046511633519812,
+      0.9210526389119592,
+      0.7326388890979123
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_9",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15413533971553076,
+      0.6395348832970172,
+      0.42293232229356265,
+      0.6729651160327085
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_10",
+    "text": "integrating both sides gives",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955207581042,
+      0.6860119048652499,
+      0.3082706770971218,
+      0.699156746135091
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10714285794172931,
+      0.7122093023833208,
+      0.4699248112599472,
+      0.7398255810921489
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_22",
+    "text": "Remark. More generally, no rational number of the form m/n, where m,n are relatively prime and neither of Em is a quadratic residue mod n, need be in S. If x = p/q is in lowest terms and 1/xx - 1)) = m/n +k for some integer k, then p(p -q) is relatively prime to 47; 97/(p(p -9)) = (m + kn) /n then implies that m + kn = q and so ‡m must be a quadratic residue mod n.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112783948926,
+      0.7398255812786696,
+      0.9210526389119592,
+      0.8546511626084112
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1315789658238941,
+      0.7616279076238153,
+      0.48872180224530287,
+      0.7951388889003904
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_13",
+    "text": "Remark. The answer can be put in alternate forms using trigonometric identities. One particularly simple one is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954002757723,
+      0.8270348837384881,
+      0.4906015069761984,
+      0.8666615374478384
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_23",
+    "text": "A-S No, there is no such group. By the structure theorem for finitely generated abelian groups, G can be written as a product of cyclic groups. If any of these factors has odd order, then G has an element of odd order, so the",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360907268171,
+      0.866279070414513,
+      0.9193473978543578,
+      0.9216269840079718
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001_14",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14849625183926124,
+      0.8793604659063662,
+      0.4285714230197611,
+      0.8968253969554103
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_001",
+    "order": 24
+  }
+]

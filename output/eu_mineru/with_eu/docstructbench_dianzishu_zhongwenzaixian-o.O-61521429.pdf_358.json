@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "有机液体的相对密度坐标值列于下表中。",
+        "bbox": [
+          0.14871117186089658,
+          0.10376756167520264,
+          0.48652420423626663,
+          0.12106215528773641
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61521429.pdf_358_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10832048320731974,
+          0.1250532153521673,
+          0.8830873291986575,
+          0.907300987980618
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

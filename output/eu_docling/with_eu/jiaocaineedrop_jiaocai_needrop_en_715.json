@@ -1,0 +1,397 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_715",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_22",
+    "source": "visual_seed",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_22",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7273301063091501,
+          0.10956680379449366,
+          0.8473522638095015,
+          0.15930182309074198
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B.",
+        "bbox": [
+          0.7270875763995602,
+          0.20930232575508215,
+          0.747454174802069,
+          0.2238372088379412
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C.",
+        "bbox": [
+          0.7291242365843235,
+          0.29215116272852415,
+          0.7474541752792204,
+          0.30523255816537115
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(* )3. have a picnic",
+        "bbox": [
+          0.13034624360693062,
+          0.2921511631470709,
+          0.32586557553767215,
+          0.3053075398078874
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "D.",
+        "bbox": [
+          0.7250509167508571,
+          0.37063953549731277,
+          0.7515274942762014,
+          0.3880813948183016
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Peter: That's cool!",
+        "bbox": [
+          0.1323828961173934,
+          0.5130813951413149,
+          0.29735233906590597,
+          0.526162790578162
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Amy: Peter, how is the weather in Beijing now?",
+        "bbox": [
+          0.13034624187351102,
+          0.5436046509423659,
+          0.5397148497354504,
+          0.5595930235634481
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Peter: It's cloudy. It's going to rain. So I can't fly a kite in the park.",
+        "bbox": [
+          0.13034622791989,
+          0.5696924604365412,
+          0.753564154157503,
+          0.5886627900466694
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Amy: Oh, I see.",
+        "bbox": [
+          0.13034623383859464,
+          0.6016865083363859,
+          0.270875765601324,
+          0.6178075400824178
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Peter: Do you know the weather in Guangzhou?",
+        "bbox": [
+          0.1323828832690615,
+          0.6307043651377047,
+          0.5437881893039189,
+          0.6438953489175515
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Amy: It's very hot there. The children there usually go swimming in the sea. It's going to rain this afternoon.",
+        "bbox": [
+          0.13034625880959183,
+          0.6584302332563828,
+          0.9063136193472311,
+          0.7021329365534423
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Peter: Oh,I like swimming too. But I can't swim now. It's a little cold.",
+        "bbox": [
+          0.1323828980319061,
+          0.7150297620807816,
+          0.7556008242695191,
+          0.7326388890649086
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_715",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_0",
+        "observed_type": "checkbox_unselected",
+        "canon_role": "plain_text",
+        "text": "( )1. half past nine",
+        "bbox": [
+          0.12830957776363708,
+          0.12936046536264023,
+          0.3299388981019434,
+          0.14389534844549928
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "( )2. play football",
+        "bbox": [
+          0.12830957038888713,
+          0.20930232515748212,
+          0.32382892354186654,
+          0.2252906977785642
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_715",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_23",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_23",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7532978200840986,
+          0.19397416548295454,
+          0.8446475004685158,
+          0.2350283862435244
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_715",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_24",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_24",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7547794096116005,
+          0.265109301888369,
+          0.8434220389805097,
+          0.32770395533923796
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_715",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_25",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_25",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7549381284699447,
+          0.35480829738678143,
+          0.8423170006793478,
+          0.3995840144029913
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_715",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_3",
+        "observed_type": "checkbox_unselected",
+        "canon_role": "plain_text",
+        "text": "( )4. cloudy and windy",
+        "bbox": [
+          0.13034623509119786,
+          0.37202380928833895,
+          0.3604887992944098,
+          0.3866567457962755
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Peter: Hi, Amy! What's the weather like in Shanghai today?",
+        "bbox": [
+          0.13034623949197316,
+          0.4548611107606729,
+          0.659877789998862,
+          0.4724702377447999
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Amy: Hello, Peter! It's sunny and warm here. I'm going to the zoo this afternoon.",
+        "bbox": [
+          0.13238291512877456,
+          0.48401162845481566,
+          0.857433797566405,
+          0.5014880953678876
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_715",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_13",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_13",
+        "observed_type": "checkbox_unselected",
+        "canon_role": "plain_text",
+        "text": "( )1. It's fine in Shanghai.",
+        "bbox": [
+          0.1303462441533215,
+          0.7455357140021257,
+          0.3991853308636505,
+          0.7616567457481576
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_14",
+        "observed_type": "checkbox_unselected",
+        "canon_role": "plain_text",
+        "text": "( )2. Peter is in Guangzhou.",
+        "bbox": [
+          0.13034624190880748,
+          0.7747093026446169,
+          0.4073319727551435,
+          0.789244185727476
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_15",
+        "observed_type": "checkbox_unselected",
+        "canon_role": "plain_text",
+        "text": "( )3. It's cloudy in Beijing.",
+        "bbox": [
+          0.1303462331430204,
+          0.802325581676715,
+          0.4032586525324719,
+          0.8197674409977037
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_16",
+        "observed_type": "checkbox_unselected",
+        "canon_role": "plain_text",
+        "text": "( )4. It's cool in Guangzhou.",
+        "bbox": [
+          0.13034623255401429,
+          0.8304401132167236,
+          0.4158503053114193,
+          0.8509157638072872
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_715_17",
+        "observed_type": "checkbox_unselected",
+        "canon_role": "plain_text",
+        "text": "( )5. Amy is going to swim.",
+        "bbox": [
+          0.1303462360622328,
+          0.8618551588206119,
+          0.4032586554516843,
+          0.8779761905666437
+        ],
+        "order": 25
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_chem-97961.pdf_128",
+    "primary_id": "mineru_jiaocaineedrop_chem-97961.pdf_128_0",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_chem-97961.pdf_128_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.25098039215686274,
+          0.0903030303030303,
+          0.7474509803921568,
+          0.30666666666666664
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_chem-97961.pdf_128_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Aswitaasaicalifteaheiahtstentlhisif oroperties, of constituent elements and compounds, is a central feature of chemical reactions.",
+        "bbox": [
+          0.08941176470588236,
+          0.3515151515151515,
+          0.9137254901960784,
+          0.3836363636363636
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_chem-97961.pdf_128_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Contributions & Attributions",
+        "bbox": [
+          0.08627450980392157,
+          0.39575757575757575,
+          0.31058823529411766,
+          0.4121212121212121
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_chem-97961.pdf_128_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• Wikipedia",
+        "bbox": [
+          0.08784313725490196,
+          0.4163636363636364,
+          0.17490196078431372,
+          0.4309090909090909
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-97961.pdf_128",
+    "primary_id": "mineru_jiaocaineedrop_chem-97961.pdf_128_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_chem-97961.pdf_128_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Vide 5.12:A science eperiment in the itchen shows what happens to sugar molecules when they are heate. The experien did not disappoint!",
+        "bbox": [
+          0.0996078431372549,
+          0.31333333333333335,
+          0.9027450980392157,
+          0.34484848484848485
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

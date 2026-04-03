@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_linear-algebra primer_page_007",
+    "primary_id": "mineru_PPT_linear-algebra primer_page_007_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_007_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Projection: Using Inner Products (I)",
+        "bbox": [
+          0.10266666666666667,
+          0.056,
+          0.8846666666666667,
+          0.12977777777777777
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_007_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.25466666666666665,
+          0.2248888888888889,
+          0.6913333333333334,
+          0.6346666666666667
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_linear-algebra primer_page_007",
+    "primary_id": "mineru_PPT_linear-algebra primer_page_007_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_007_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Projection of x along the direction a (llall = 1).",
+        "bbox": [
+          0.2806666666666667,
+          0.7191111111111111,
+          0.6766666666666666,
+          0.7546666666666667
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_linear-algebra primer_page_007",
+    "primary_id": "mineru_PPT_linear-algebra primer_page_007_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_007_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rensselaer Polytechnic Institute",
+        "bbox": [
+          0.04733333333333333,
+          0.9262222222222222,
+          0.264,
+          0.952
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

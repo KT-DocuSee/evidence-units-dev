@@ -1,0 +1,314 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_1",
+    "text": "A-5 It suffices to prove that for any relatively prime positive integers r,s, there exists an integer n with an = r and an+1 = s. We prove this by induction on r + s, the case r+s = 2 following from the fact that ao = a1 = 1. Given r and s not both 1 with ged(r,s) = 1, we must have r ‡ s. If r > s, then by the induction hypothesis we have An =r-s and An+1 = s for some n; then azn+2 = r and a2n+3 = 5. Ifr <s, then we have an = r and an+1 =5-r for some n; then azn+ 1 = r and azn +2 = s.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586465714285729,
+      0.06820436522215996,
+      0.49070175606435446,
+      0.19767441795758012
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_16",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.584583467039154,
+      0.09273184782940017,
+      0.8515037558884876,
+      0.19622092966876245
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_2",
+    "text": "Note: a related problem is as follows. Starting with the sequence",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955085870517,
+      0.20486111101009877,
+      0.490601504971186,
+      0.2311046508595909
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_17",
+    "text": "Put c = 8 + 10g2 and L = 1 + 5 + 6(1-0). Then we can prove that 22'- T < L for all i ≥ 2 by induction on i. The case i = 2 is clear. For the induction, note that by (2),",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909763183039,
+      0.20930232623240033,
+      0.9191729396638392,
+      0.2776162785690458
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2706766926638451,
+      0.244186046760322,
+      0.3082706762271324,
+      0.27180232546188293
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_4",
+    "text": "repeat the following operation: insert between each pair § and & the pair b+a. Prove that each positive rational number eventually appears.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954970176249,
+      0.28343023244146026,
+      0.4906015101854555,
+      0.32564484116427367
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_18",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5996240603800105,
+      0.28918650819467073,
+      0.8308270636491311,
+      0.3953488370581185
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_5",
+    "text": "Observe that by induction, if ½ and - are consecutive terms in the sequence, then bc - ad = 1. The same holds for consecutive terms of the n-th Farey sequence, the sequence of rational numbers in (0, 1] with denominator (in lowest terms) at most n.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954153916858,
+      0.3328373018116603,
+      0.49060151109241035,
+      0.4011627905458797
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_19",
+    "text": "as desired. We conclude that =1 F(n) converges to a limit less than or equal to L.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909685990056,
+      0.40843023317865285,
+      0.9191729290826987,
+      0.4404761906632112
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_6",
+    "text": "A-6 The sum converges for b = 2 and diverges for b ≥ 3. We first consider b ≥ 3. Suppose the sum converges; then the fact that f(n) = nf (d) whenever ba-1 <n≤b* - 1 yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466560150368,
+      0.4141865080288519,
+      0.49060150770676686,
+      0.4709302325476385
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_20",
+    "text": "Note: the above argument proves that the sum for b = 2 is at most L < 2.417. One can also obtain a lower bound by the same technique, namely 1 + 2 + 611-21 with c' = log2. This bound exceeds 2.043. (By contrast, summing the first 100000 terms of the series only yields a lower bound of 1.906. Repeating the same arguments with d 4 as the cutoff yields the upper bound 2.185 and the lower bound 2.079.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909739639806,
+      0.4461805557787135,
+      0.9191729344476737,
+      0.563988095280099
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2894736863511885,
+      0.4840116288555256,
+      0.490601502856205,
+      0.5116279070813111
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_8",
+    "text": "However, by comparing the integral of 1/x with a Riemann sum, we see that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955287405403,
+      0.5363372098030471,
+      0.4906014984705596,
+      0.5639880953524417
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_21",
+    "text": "B-1 The probability is 1/99. In fact, we show by induction on n that after n shots, the probability of having made any number of shots from 1 to n - 1 is equal to 1/(n 1). This is evident for n = 2. Given the result for n, we see that the probability of making i shots after n + 1 attempts is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.524436088283208,
+      0.5741279070535318,
+      0.9210526347957473,
+      0.6613898145217934
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_9",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.163756507647164,
+      0.5752899883113735,
+      0.42105263271742255,
+      0.638144840827791
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_10",
+    "text": "where log denotes the natural logarithm. Thus (1) yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195430507601,
+      0.6497093027172912,
+      0.4906015035344532,
+      0.6642441858001504
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_22",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706781901609,
+      0.672867063612187,
+      0.8740601492218004,
+      0.7049418602187552
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.19722346272287355,
+      0.68108482552021,
+      0.38548330732532865,
+      0.7099035463831891
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_12",
+    "text": "a contradiction since logb > 1 for b ≥ 3. Therefore the sum diverges.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954153916858,
+      0.7223837210689144,
+      0.49060150202286157,
+      0.7485465115255622
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_23",
+    "text": "as claimed.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582283915281192,
+      0.7469276464247103,
+      0.6335009332843146,
+      0.7588863070121422
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_13",
+    "text": "For b = 2, we have a slightly different identity because f(2) # 2f(2). Instead, for any positive integer i, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985024537854,
+      0.7557043651195362,
+      0.49068763125763487,
+      0.7965116278046324
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_24",
+    "text": "B-2 (Note: the problem statement assumes that all polyhedra are connected and that no two edges share more than one face, so we will do likewise. In particular, these are true for all convex polyhedra.) We show that in fact the first player can win on the third move. Suppose the polyhedron has a face A with at least four edges. If the first player plays there first, after the second player's first move there will be three consecutive faces B,C, D adjacent to A which are all unoccupied. The first player wins by playing in C; after the second player's second",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5225563893471341,
+      0.7718023254647162,
+      0.9210526240326139,
+      0.9156976745227504
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_14",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.142447696752679,
+      0.8074717161747769,
+      0.42293232881704673,
+      0.827192016970317
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002_15",
+    "text": "Again comparing an integral to a Riemann sum, we see that for d ≥ 3,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12969925452756081,
+      0.8603670636834186,
+      0.4906015045701836,
+      0.8735465115992375
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_002",
+    "order": 25
+  }
+]

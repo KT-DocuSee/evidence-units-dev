@@ -1,0 +1,67 @@
+[
+  {
+    "chunk_id": "mineru_PPT_MMAT5390Lecture1_page_024_0",
+    "text": "What is a digital image?",
+    "canon_role": "section_header",
+    "bbox": [
+      0.23933333333333334,
+      0.032,
+      0.714,
+      0.0951111111111111
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_MMAT5390Lecture1_page_024_1",
+    "text": "Mathematical definition of color image: ■ A 2D (color) digital image is a 2D function defined on a 2D domain (usually rectangular domain):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06133333333333333,
+      0.14133333333333334,
+      0.8953333333333333,
+      0.2782222222222222
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_MMAT5390Lecture1_page_024_2",
+    "text": "f := (fR, fG, fB) : Ω → R3",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.288,
+      0.2942222222222222,
+      0.706,
+      0.35733333333333334
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_PPT_MMAT5390Lecture1_page_024_3",
+    "text": "fR, fG, fB are the intensity/brightness/grey level corresponding to R, G and B respectively ; Combination of R, G, B forms the full spectrum of color!",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08333333333333333,
+      0.3804444444444444,
+      0.9513333333333334,
+      0.512
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_PPT_MMAT5390Lecture1_page_024_4",
+    "text": "WE WILL FOCUS ON: Grayscale image!",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.25866666666666666,
+      0.5911111111111111,
+      0.79,
+      0.6364444444444445
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_024",
+    "order": 5
+  }
+]

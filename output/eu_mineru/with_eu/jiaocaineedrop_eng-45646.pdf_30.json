@@ -1,0 +1,162 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_eng-45646.pdf_30",
+    "primary_id": "mineru_jiaocaineedrop_eng-45646.pdf_30_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.20313725490196077,
+          0.08424242424242424,
+          0.796078431372549,
+          0.40484848484848485
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_eng-45646.pdf_30",
+    "primary_id": "mineru_jiaocaineedrop_eng-45646.pdf_30_1",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure1.4.1.1:DoD Risk Model.(\"DoD Risk Model\"byUnknown, U.S.Naval Academy- Cyber Science Dept is in the Public Domain, CCo)",
+        "bbox": [
+          0.1192156862745098,
+          0.4254545454545455,
+          0.8737254901960785,
+          0.45212121212121215
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "n th a function with inputs,a process,and outputs.Ingeneral risk isviewedasafunction oflikelihood of occurrence of an event and impact of an event, risk( likelihood，impact ).",
+        "bbox": [
+          0.08313725490196078,
+          0.45696969696969697,
+          0.9160784313725491,
+          0.5048484848484849
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Intuitiveeieifativeencurrineisseverasicehiss case with impact, if the impact of a negative event occurring increases, the risk severity increases.",
+        "bbox": [
+          0.08705882352941176,
+          0.5121212121212121,
+          0.9043137254901961,
+          0.5436363636363636
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_eng-45646.pdf_30",
+    "primary_id": "mineru_jiaocaineedrop_eng-45646.pdf_30_4",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Likelihood of Occurrence",
+        "bbox": [
+          0.08549019607843138,
+          0.5533333333333333,
+          0.2643137254901961,
+          0.5684848484848485
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Likelifcureneintoain coentshaturili.Taiscista event that has the potential toadverselipactur system.Threatcaneadversarial(purposel causeyperson)ornon adersarialcusienauentuueVuerbipeentksina system that can be exploited often by an adversarial threat actor.",
+        "bbox": [
+          0.08392156862745098,
+          0.5745454545454546,
+          0.9152941176470588,
+          0.6381818181818182
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Not al answer questions such as (OwASP):",
+        "bbox": [
+          0.08078431372549019,
+          0.6442424242424243,
+          0.9098039215686274,
+          0.6757575757575758
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_7",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "• (Discoverable) How easy is it for an adversary to discover the vulnerability? (Exploitable) How easy is it for an adversary to exploit the vulnerability? (Awareness) How well known is the vulnerability? • (Detectable) How likely is an exploit to be detected?",
+        "bbox": [
+          0.08705882352941176,
+          0.6824242424242424,
+          0.5882352941176471,
+          0.7460606060606061
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Just a ant as(OWASP):",
+        "bbox": [
+          0.08,
+          0.7533333333333333,
+          0.9145098039215687,
+          0.7842424242424243
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_eng-45646.pdf_30_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(Capability) How technically skilled is an adversary? • (Capability) How much does the adversary know about the target system? •(Opportunity) Does the adversary have the resources (technology) to exploit a vulnerability? • (Opportunity) Is the adversary in a position to exploit a vulnerability? •(Intent) How motivated is an adversary to find and exploit a vulnerability? • (Intent) Does the actor performing the exploit intend harm?",
+        "bbox": [
+          0.08705882352941176,
+          0.7921212121212121,
+          0.6925490196078431,
+          0.8878787878787879
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

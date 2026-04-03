@@ -1,0 +1,149 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "columns b1, b2, b3, the columns of AB should be Ab1, Ab2, Ab3!",
+        "bbox": [
+          0.14107214832728737,
+          0.0837964942283027,
+          0.7029423619508263,
+          0.10317799629471285
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_1",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Our first requirement had to do with rows, and this one is concerned with columns. A third approach is to describe each individual entry in AB and hope for the best. In fact, there is only one possible rule, and I am not sure who discovered it. It makes everything work. It does not allow us to multiply every pair of matrices. If they are square, they must have the same size. If they are rectangular, they must not have the same shape; the number of columns in A has to equal the number of rows in B. Then A can be multiplied into each column of B.",
+        "bbox": [
+          0.1418782748891576,
+          0.1881145788798632,
+          0.9117291414752116,
+          0.3272053584152772
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If A is m by n, and B is n by p, then multiplication is possible. The product AB will be m by p. We now fi nd the entry in row i and column j of AB.",
+        "bbox": [
+          0.13945989520354696,
+          0.3289154909505487,
+          0.909310761789601,
+          0.367678495083369
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1C The i, j entry of AB is the inner product of the ith row of A and the jth column of B. In Figure 1.7, the 3, 2 entry of AB comes from row 3 and column 2:",
+        "bbox": [
+          0.1837968561064087,
+          0.3802194670086932,
+          0.8690044336960903,
+          0.43779392902949976
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "如 b12 Row times a11 a12 a13 $a14 b22 * * column AB= $a21 022 $a23 a24 I * * a31 $a32 a33 a34 b31 632 * (AB)32$ 641 b42",
+        "bbox": [
+          0.20878677952438532,
+          0.48225737494655835,
+          0.8512696493349455,
+          0.5791648852786091
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note. We write AB when the matrices have nothing special to do with elimination. Our earlier example was EA, because of the elementary matrix E. Later we have PA, or LU , or even LDU. The rule for matrix multiplication stays the same.",
+        "bbox": [
+          0.14268440145102781,
+          0.6401596123699587,
+          0.9117291414752116,
+          0.6994442069260368
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035",
+    "primary_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_6",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Example 1.",
+        "bbox": [
+          0.14349052801289802,
+          0.7102750463160895,
+          0.2587666263603386,
+          0.7290865042040758
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The entry 17 is (2)(1) + (3)(5), the inner product of the first row of A and first column of B. The entry 8 is (4)(2) + (0)(−1), from the second row and second column.",
+        "bbox": [
+          0.13945989520354696,
+          0.781530568619068,
+          0.9085046352277307,
+          0.8208636169303121
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0035_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The third column is zero in B, so it is zero in AB. B consists of three columns side by side, and A multiplies each column separately. Every column of AB is a combination of the columns of A. Just as in a matrix-vector multiplication, the columns of A are multiplied by the entries in B.",
+        "bbox": [
+          0.1418782748891576,
+          0.8225737494655836,
+          0.9109230149133414,
+          0.900669801909648
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

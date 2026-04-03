@@ -1,0 +1,436 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2360",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_2",
+    "source": "visual_seed",
+    "member_count": 22,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "四、解决问题。（34分)",
+        "bbox": [
+          0.06096951524237881,
+          0.10117810117810118,
+          0.17391304347826086,
+          0.12058212058212059
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.杭州某书店5月份每周的销售情况如下表。(8分)",
+        "bbox": [
+          0.06096951524237881,
+          0.1275121275121275,
+          0.30684657671164417,
+          0.1469161469161469
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07196401799100449,
+          0.15523215523215522,
+          0.44377811094452774,
+          0.2286902286902287
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)现在一台冰箱多少钱？(3分)",
+        "bbox": [
+          0.5297351324337831,
+          0.19542619542619544,
+          0.6906546726636682,
+          0.21621621621621623
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)该书店每一周销售的书各接近几千本?（4分）",
+        "bbox": [
+          0.07396301849075462,
+          0.23562023562023562,
+          0.303848075962019,
+          0.2564102564102564
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "第一周约（2000）本 第二周约（3000）本 第三周约（2000）本 第四周约（4000）本",
+        "bbox": [
+          0.09295352323838081,
+          0.26195426195426197,
+          0.3658170914542729,
+          0.3076923076923077
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2)把该书店5月份这四周销售的图书本数按从少到多的顺序排列。(2分)",
+        "bbox": [
+          0.07396301849075462,
+          0.316008316008316,
+          0.42478760619690153,
+          0.3354123354123354
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2)现在购买一台冰箱和一台洗衣机一共要花多少钱？ (3分)",
+        "bbox": [
+          0.527736131934033,
+          0.32986832986832987,
+          0.8205897051474262,
+          0.3492723492723493
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2000+3800=5800（元）",
+        "bbox": [
+          0.5307346326836582,
+          0.3562023562023562,
+          0.6406796601699151,
+          0.37422037422037424
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(3)卖出图书的数量最多的一周比最少的一周大约多多少本书？(2分)",
+        "bbox": [
+          0.07296351824087956,
+          0.39501039501039503,
+          0.4077961019490255,
+          0.4158004158004158
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4000-2000=2000（本）",
+        "bbox": [
+          0.07396301849075462,
+          0.41995841995842,
+          0.1839080459770115,
+          0.4365904365904366
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.下面是三种电子产品的价格情况。（10分）",
+        "bbox": [
+          0.5147426286856571,
+          0.46292446292446293,
+          0.7256371814092953,
+          0.48232848232848236
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.体育广场共有2400个座位。有三所学校各派出七百多名学生代表来参加演讲比 赛，这些座位够吗?（4分）",
+        "bbox": [
+          0.057971014492753624,
+          0.5294525294525294,
+          0.44677661169415295,
+          0.5751905751905751
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)一台笔记本电脑比一台平板电脑贵多少钱?（3分)",
+        "bbox": [
+          0.5297351324337831,
+          0.5682605682605683,
+          0.7806096951524237,
+          0.5876645876645876
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_11",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "把七百多估成800 800+800+800=2400（名） 2400=2400够。",
+        "bbox": [
+          0.07396301849075462,
+          0.5807345807345807,
+          0.19790104947526238,
+          0.6472626472626473
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5600-4300=1300（元）",
+        "bbox": [
+          0.5327336331834083,
+          0.5918225918225918,
+          0.6426786606696652,
+          0.6084546084546084
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2）一台手机比一台平板电脑便宜多少钱?（3分)",
+        "bbox": [
+          0.5287356321839081,
+          0.674982674982675,
+          0.7606196901549226,
+          0.6943866943866944
+        ],
+        "order": 22
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.水果店里的苹果、香蕉、梨各有多少千克?将水果的名称填人下表中。（6分）",
+        "bbox": [
+          0.05997001499250375,
+          0.6888426888426888,
+          0.4367816091954023,
+          0.7096327096327096
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4300-3500=800（元）",
+        "bbox": [
+          0.5307346326836582,
+          0.6985446985446986,
+          0.6366816591704147,
+          0.7151767151767152
+        ],
+        "order": 24
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_13",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "我比香蕉多得多。 我比革果少得多。 我比革果少一些。",
+        "bbox": [
+          0.07596201899050475,
+          0.7165627165627165,
+          0.2158920539730135,
+          0.8898128898128899
+        ],
+        "order": 25
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（3）你还能提出其他数学问题并解答吗？（4分）",
+        "bbox": [
+          0.5297351324337831,
+          0.7817047817047817,
+          0.7496251874062968,
+          0.8011088011088011
+        ],
+        "order": 27
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（答案不唯一）一台笔记本电脑比一台手机贵多少钱？ 5600-3500=2100（元）",
+        "bbox": [
+          0.5287356321839081,
+          0.8066528066528067,
+          0.7736131934032984,
+          0.8482328482328483
+        ],
+        "order": 28
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2360",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4. 原价2300元 原价4300元 现价2000元 降价500元",
+        "bbox": [
+          0.5157421289355323,
+          0.10117810117810118,
+          0.8365817091454273,
+          0.18711018711018712
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2360",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4300-500=3800（元）",
+        "bbox": [
+          0.5297351324337831,
+          0.22176022176022175,
+          0.6346826586706646,
+          0.23977823977823978
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2360",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1982<2034<2988<4088",
+        "bbox": [
+          0.07496251874062969,
+          0.340956340956341,
+          0.19490254872563717,
+          0.3575883575883576
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2360",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_9",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0,
+          0.4643104643104643,
+          0.008995502248875561,
+          0.5391545391545391
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2360",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_21",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_21",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5717141429285357,
+          0.49064449064449067,
+          0.8455772113943029,
+          0.5599445599445599
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2360",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_14",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2360_14",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.26486756621689156,
+          0.7525987525987526,
+          0.4287856071964018,
+          0.8371448371448371
+        ],
+        "order": 26
+      }
+    ]
+  }
+]

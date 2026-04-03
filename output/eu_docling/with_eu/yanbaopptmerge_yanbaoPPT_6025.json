@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_6025",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_6025_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_6025_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11 C 405, Т тРАт ฿4Ж4#Æ#MJ,#ì&##Л&X#·đE?",
+        "bbox": [
+          0.0782799885336173,
+          0.09819121503049291,
+          0.8916666795272972,
+          0.5429432485103033
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_6025",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_6025_5",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_6025_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0005592107772827148,
+          0.5572254638671875,
+          0.49563233611911794,
+          0.9988687337239583
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_6025_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#6",
+        "bbox": [
+          0.28488372057474926,
+          0.6227390177609069,
+          0.31250000004056083,
+          0.6666666662614874
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_6025_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "30°",
+        "bbox": [
+          0.41133720967395,
+          0.7183462536297234,
+          0.44476744161602094,
+          0.7545219629723434
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_6025_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "¡ 60°",
+        "bbox": [
+          0.2732558146991702,
+          0.7777777780418681,
+          0.31686046489385294,
+          0.8139534873844884
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

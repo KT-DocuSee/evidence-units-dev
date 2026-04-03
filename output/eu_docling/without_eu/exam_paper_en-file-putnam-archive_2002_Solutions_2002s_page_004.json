@@ -1,0 +1,223 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_0",
+    "text": "for i = 1,...,n will have the properties that N = 1 (mod b) and b? < N < 262 for m sufficiently large.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195461679279,
+      0.06820436488334425,
+      0.488721796637853,
+      0.09598214252466267
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_13",
+    "text": "which is precisely the desired determinant.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706897543613,
+      0.06969246022945051,
+      0.8383458609348612,
+      0.08139534877120189
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_14",
+    "text": "Note: a simpler conceptual proof is as follows. (Everything in this paragraph will be modulo p.) Note that for any integers a,b,c, the column vector lax + by + cz, (ax + by + cz)\", (ax + by + cz) '| is a linear combination of the columns of the given matrix. Thus ax + by + cz divides the determinant. In particular, all of the factors of (3) divide the determinant; since both (3) and the determinant have degree p? + p + 1, they agree up to a scalar multiple. Moreover, they have the same coefficient of 2? Px (since this term only appears in the expansion of (3) when you choose the first term in each factor). Thus the determinant is congruent to (3), as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563388463925522,
+      0.0885416666646653,
+      0.9210526389119592,
+      0.2821930209239716
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_1",
+    "text": "Note (due to Russ Mann): one can also give a \"nonconstructive\" argument. Let N be a large positive integer. For b E (N?, N3), the number of 3-digit base-b palindromes in the range (b2, N° - 1] is at least",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955060871733,
+      0.10317460333762028,
+      0.49060151109241035,
+      0.1599702379000493
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.199248121141129,
+      0.17286706348995165,
+      0.3890977419227808,
+      0.1962209298277351
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_3",
+    "text": "since there is a palindrome in each interval kb, (k + 1)b - 1] for k = b,...,b - 1. Thus the average number of bases for which a number in [1, N6 - 1] is at least",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781955212030868,
+      0.21800595237428536,
+      0.49060151260400175,
+      0.2601744181402668
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_4",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16510592837665278,
+      0.2707792823363138,
+      0.22505939514218756,
+      0.2900225245849701
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_15",
+    "text": "Either argument can be used to generalize to a corresponding n x n determinant, called a Moore determinant; we leave the precise formulation to the reader. Note the similarity with the classical Vandermonde determinant: if A is the n X n matrix with Aij = x for i, j=0,...,n - 1, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5543382765494439,
+      0.28769841251955985,
+      0.9211144316595928,
+      0.3764880953537739
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_5",
+    "text": "for some constant c > 0. Take N so that the right side exceeds 2002; then at least one number in (1,N6 - 1] is a base-b palindrome for at least 2002 values of b.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984319800317,
+      0.3270348843680013,
+      0.4887218062243188,
+      0.3682280299446298
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_6",
+    "text": "B-6 We prove that the determinant is congruent modulo p to",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0958646682330825,
+      0.37936046547265256,
+      0.49060151033834565,
+      0.3924418599633941
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_16",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.629699246664791,
+      0.38662790737438935,
+      0.8045112795382164,
+      0.4127906973288253
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20300751976542666,
+      0.4069767443267295,
+      0.49060150331829766,
+      0.44186046502943577
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_8",
+    "text": "We first check that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12969925298620735,
+      0.4563492064789987,
+      0.25375939776567225,
+      0.4665697672416161
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_9",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17105263641070206,
+      0.4883432540620989,
+      0.49248120323308264,
+      0.5072674411622218
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_10",
+    "text": "Since both sides are homogeneous as polynomials in x and y, it suffices to check (4) for x = 1, as a congruence between polynomials. Now note that the right side has 0,1,...,P - 1 as roots modulo p, as does the left side. Moreover, both sides have the same leading coefficient. Since they both have degree only p, they must then coincide.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985717039372,
+      0.5290178569800611,
+      0.49060151109241035,
+      0.6266909044538275
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_11",
+    "text": "We thus have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12969925062374277,
+      0.6351686507941512,
+      0.21804511248715938,
+      0.645348836978777
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10150376190193826,
+      0.6642441860035074,
+      0.3966165350319671,
+      0.8270348832651454
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2002_Solutions_2002s_page_004",
+    "order": 17
+  }
+]

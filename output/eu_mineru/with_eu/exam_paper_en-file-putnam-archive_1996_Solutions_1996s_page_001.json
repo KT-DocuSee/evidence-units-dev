@@ -1,0 +1,280 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Solutions to the 57th William Lowell Putnam Mathematical Competition Saturday, December 7, 1996",
+        "bbox": [
+          0.1992156862745098,
+          0.06363636363636363,
+          0.807843137254902,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Manjul Bhargava and Kiran Kedlaya",
+        "bbox": [
+          0.3772549019607843,
+          0.11454545454545455,
+          0.6274509803921569,
+          0.1290909090909091
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5576470588235294,
+          0.16484848484848486,
+          0.9192156862745098,
+          0.34
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–1 If x and y are the sides of two squares with combined area 1, then x2 + y2 = 1. Suppose without loss of gen- erality that x ≥ y. Then the shorter side of a rectangle containing both squares without overlap must be at least x, and the longer side must be at least x + y. Hence the desired value of A is the maximum of x(x + y).",
+        "bbox": [
+          0.09333333333333334,
+          0.16545454545454547,
+          0.4894117647058824,
+          0.25272727272727274
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To find this maximum, we let x = cos Θ, y = sin 0 with θ ∈ [0, π/4]. Then we are to maximize",
+        "bbox": [
+          0.12705882352941175,
+          0.25696969696969696,
+          0.4894117647058824,
+          0.28606060606060607
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "However, Robin Chapman has pointed out that the so- lution is not unique in the problem as stated, because a given selection of courses may be made by more than one student. One alternate solution is to identify the 6 courses with pairs of antipodal vertices of an icosahe- dron, and have each student pick a different face and choose the three vertices touching that face. In this ex- ample, each of 10 selections is made by a pair of stu- dents.",
+        "bbox": [
+          0.5568627450980392,
+          0.34484848484848485,
+          0.9192156862745098,
+          0.47515151515151516
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with equality for 0 = π/8. Hence this value is the de- sired value of A.",
+        "bbox": [
+          0.12784313725490196,
+          0.40424242424242424,
+          0.4886274509803922,
+          0.43333333333333335
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–2 Let O1 and O2 be the centers of C1 and C2, respectively. (We are assuming C1 has radius 1 and C2 has radius 3.) Then the desired locus is an annulus centered at the midpoint of O1 O2, with inner radius 1 and outer radius 2.",
+        "bbox": [
+          0.09333333333333334,
+          0.44363636363636366,
+          0.4894117647058824,
+          0.5151515151515151
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–4 In fact, we will show that such a function g exists with the property that (a, b, c) ∈ S if and only if g(d) < g(e) < g(f) for some cyclic permutation (d, e, f ) of (a, b, c). We proceed by induction on the number of elements in A. If A = {a, b, c} and (a, b, c) ∈ S, then choose g with g(a) < g(b) < g(c), otherwise choose g with g(a) > g(b) > g(c).",
+        "bbox": [
+          0.523921568627451,
+          0.48545454545454547,
+          0.9192156862745098,
+          0.5884848484848485
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For a fixed point Q on C2, the locus of the midpoints of the segments PQ for P lying on C1 is the image of C1 under a homothety centered at Q of radius 1/2, which is a circle of radius 1/2. As Q varies, the center of this smaller circle traces out a circle C3 of radius 3/2 (again by homothety). By considering the two positions of Q on the line of centers of the circles, one sees that C3 is centered at the midpoint of O1 O2, and the locus is now clearly the specified annulus.",
+        "bbox": [
+          0.12705882352941175,
+          0.5206060606060606,
+          0.4894117647058824,
+          0.6509090909090909
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now let z be an element of A and B = A − {z}. Let a1, . . ., an be the elements of B labeled such that g(a1) < g(a2) < · · < g(an). We claim that there exists a unique i ∈ {1, . . ,n} such that (ai, Z, ai+1) ∈ S, where hereafter an+k = ak.",
+        "bbox": [
+          0.556078431372549,
+          0.5921212121212122,
+          0.9192156862745098,
+          0.6654545454545454
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–3 The claim is false. There are (g) = 20 ways to choose 3 of the 6 courses; have each student choose a different set of 3 courses. Then each pair of courses is chosen by 4 students (corresponding to the four ways to complete this pair to a set of 3 courses) and is not chosen by 4 students (corresponding to the 3-element subsets of the remaining 4 courses).",
+        "bbox": [
+          0.09333333333333334,
+          0.6618181818181819,
+          0.4894117647058824,
+          0.7642424242424243
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We show existence fi rst. Suppose no such i exists; then for all i,k ∈ {1, . .,n}, we have (ai+k, , ai)  S. This holds by property 1 for k = 1 and by induction on k in general, noting that",
+        "bbox": [
+          0.5552941176470588,
+          0.6696969696969697,
+          0.9192156862745098,
+          0.7284848484848485
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: Assuming that no two students choose the same courses, the above counterexample is unique (up to per- muting students). This may be seen as follows: Given a group of students, suppose that for any pair of courses (among the six) there are at most 4 students taking both, and at most 4 taking neither. Then there are at most 120 = (4 + 4) (c) pairs (s, p), where s is a student, and p is a set of two courses of which s is taking either both or none. On the other hand, if a student s is taking k courses, then he/she occurs in f (k) = (k) + (−k) such pairs (s, p). As f (k) is minimized for k = 3, it follows that every student occurs in at least 6 = (2) + (3) such pairs (s, p). Hence there can be at most 120/6 =20 stu- dents, with equality only if each student takes 3 courses, and for each set of two courses, there are exactly 4 stu- dents who take both and exactly 4 who take neither. Since there are only 4 ways to complete a given pair of courses to a set of 3, and only 4 ways to choose 3 courses not containing the given pair, the only way for there to be 20 students (under our hypotheses) is if all sets of 3 courses are in fact taken. This is the desired conclusion.",
+        "bbox": [
+          0.12705882352941175,
+          0.769090909090909,
+          0.49019607843137253,
+          0.9187878787878788
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Applying this when k = n, we get (ai−1, Z, ai) ∈ S, con- tradicting the fact that (ai, Z, ai−1) ∈ S. Hence existence follows.",
+        "bbox": [
+          0.556078431372549,
+          0.8036363636363636,
+          0.9192156862745098,
+          0.8466666666666667
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now we show uniqueness. Suppose (ai, Z, ai+1) ∈ S; then for any j ≠ i − 1,i,i + 1,  we have (ai, ai+1, aj), (aj, aj+1, ai) ∈ S by the assumption on G.",
+        "bbox": [
+          0.556078431372549,
+          0.8521212121212122,
+          0.9192156862745098,
+          0.896969696969697
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

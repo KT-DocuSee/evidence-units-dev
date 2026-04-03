@@ -1,0 +1,366 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_1",
+    "text": "converges absolutely, and I® cos (x? -x) can be treated similarly.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954609743915,
+      0.06540697628030205,
+      0.49060150658113216,
+      0.097383720719208
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_14",
+    "text": "Therefore, if 0 ≤ ao < a1 < ... Sa, < 1 are the roots of fk in (0,1), then fk+1 has a root in each of the intervals (ao,a1), (a1,a2),..., (ar-1,a,), so long as we adopt the convention that the empty interval (t, t) actually contains the point t itself. There is also a root in the \"wraparound\" interval (a,, ao). Thus Nk+1 ≥ Nk.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112919260327,
+      0.0671420902616478,
+      0.9192891869539037,
+      0.15703216172804085
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_2",
+    "text": "A-5 Let a,b,c be the distances between the points. Then the area of the triangle with the three points as vertices is abc/4r. On the other hand, the area of a triangle whose vertices have integer coordinates is at least 1/2 (for example, by Pick's Theorem). Thus abc/4r ≥ 1/2, and SO",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466536654124,
+      0.10755813932736136,
+      0.49060150747180437,
+      0.19040697678081994
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_15",
+    "text": "Next, note that if we set z = eZit; then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.558270689315765,
+      0.1584302328771751,
+      0.8120300710225805,
+      0.17296511596003422
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_16",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6165413543159451,
+      0.188953488378539,
+      0.817792347672673,
+      0.2223837205473014
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15037594717416516,
+      0.20337301569899752,
+      0.42105262491230105,
+      0.22098214268312455
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_17",
+    "text": "is equal to 2 N times a polynomial of degree 2N. Hence as a function of z, it has at most 2N roots; therefore fk (t) has at most 2N roots in (0, 1]. That is, Ny ≤ 2N for all",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909701105971,
+      0.23536706359057422,
+      0.9191729377203645,
+      0.2819940479063012
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_4",
+    "text": "A-6 Recall that if f(x) is a polynomial with integer coefficients, then m - n divides f(m) - f(n) for any integers m and n. In particular, if we put bn = an+1 - An, then bn divides bn+1 for all n. On the other hand, we are given that ao = am = 0, which implies that a1 = Am+1 and so b0 = 0m. If bo = 0, then ao = a1 = ... = Am and we are done. Otherwise, bo|= b1|= b2|=.., sobn= £bo for all n.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09398496011467784,
+      0.23982558164170997,
+      0.49060151266101126,
+      0.35181547730972007
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_18",
+    "text": "To establish that Ny → 2N, we make precise the observation that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563709947357336,
+      0.3008432540826003,
+      0.9191729396638392,
+      0.3285555046326096
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_19",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6296992484674165,
+      0.33866279052285564,
+      0.8045793730431645,
+      0.37354651139571493
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_5",
+    "text": "Now bo + ... + bm-1 = Am - ao = 0, so half of the integers bo,...,bm-1 are positive and half are negative. In particular, there exists an integer 0 < k < m such that bk-1 = - bk, which is to say, ak-1 = ak+1. From this it follows that an = an+ for all n ≥ k - 1; in particular, for m = n, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954670834145,
+      0.36036706368341853,
+      0.49060151260400175,
+      0.4447674417363183
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_20",
+    "text": "is dominated by the term with j = N. At the points + = (2i + 1)/(2N) for i = 0,1,...,N - 1, we have NAk aN sin(27Nt) = NAkaN. If k is chosen large enough so that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112889655065,
+      0.38808139580210993,
+      0.9191729315012451,
+      0.44476744172178334
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_21",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5676691827662704,
+      0.45634920593236056,
+      0.8515037552412483,
+      0.4724702376783922
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_6",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17669174150874747,
+      0.46075581401949567,
+      0.4041353337418788,
+      0.47247023795222204
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_22",
+    "text": "then fk((2i + 1)/2N) has the same sign as an sin(2mNat), which is to say, the sequence fk (1/2N), fk(3/2N),... alternates in sign. Thus between these points (again including the \"wraparound\" interval) we find 2N sign changes of fk. Therefore limk->00 Nk = 2N.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112857418222,
+      0.48685515868937673,
+      0.9210526365153425,
+      0.5726744181039296
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_7",
+    "text": "B-1 Consider the seven triples (a,b,c) with a,b, c € {0,1} not all zero. Notice that if rj, sj,j are not all even, then four of the sums arj + bsj+ ct; with a,b, c € 10,1, are even and four are odd. Of course the sum with a = b = c = 0 is even, so at least four of the seven triples with a,b,c not all zero yield an odd sum. In other words, at least 4N of the tuples (a,b,c, j) yield odd sums. By the pigeonhole principle, there is a triple (a,b,c) for which at least 4N /7 of the sums are odd.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586467323431941,
+      0.4912790703287255,
+      0.49060151109241035,
+      0.6192956347886203
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_23",
+    "text": "B-4 For t real and not a multiple of it, write g(t) = I cost) Then g(t + T) = g(t); furthermore, the given equation implies that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360912180531,
+      0.582837301347718,
+      0.919172938756884,
+      0.6285586055841227
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_8",
+    "text": "B-2 Since gcd(m,n) is an integer linear combination of m and n, it follows that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466658834576,
+      0.6321924605379852,
+      0.49060150869360897,
+      0.6584821427888027
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_24",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5507364971250592,
+      0.6351343225020788,
+      0.8834586446325209,
+      0.6717845944393822
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_9",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23862764246323528,
+      0.6718580211292614,
+      0.33871872845818013,
+      0.7022209583629261
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_25",
+    "text": "In particular, for any integer n and k, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909738615249,
+      0.6845238094710256,
+      0.8552631515144152,
+      0.6976744181998281
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_26",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5676691754251173,
+      0.7078373016993151,
+      0.8627819517835295,
+      0.7252906968843316
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_10",
+    "text": "is an integer linear combination of the integers",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195561146494,
+      0.715029761865091,
+      0.4323308259154256,
+      0.7281976743899351
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_27",
+    "text": "Since f is continuous, g is continuous where it is defined; but the set {1 + n/2k/n,k E Z} is dense in the reals, and so g must be constant on its domain. Since 8(-t) = -g(t) for all t, we must have g(t) = 0 when t is not a multiple of r. Hence f(x) = 0 for x € (-1,1). Finally, setting x = 0 and x = 1 in the given equation yields f (-1) = f(1) = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112717694317,
+      0.7383432537377286,
+      0.9191729352935383,
+      0.8401162788960809
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15413534101640525,
+      0.7398255808499112,
+      0.4229323279011333,
+      0.7718253959279201
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_12",
+    "text": "and hence is itself an integer.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195564943406,
+      0.783430232769164,
+      0.3195488658114238,
+      0.7966269840079718
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_13",
+    "text": "B-3 Put fk(1) = did. Recall Rolle's theorem: if f (t) is differentiable, then between any two zeroes of f(t) there exists a zero of f'(t). This also applies when the zeroes are not all distinct: if f has a zero of multiplicity m at t= x, then f' has a zero of multiplicity at least m - 1 there.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09359001440374522,
+      0.8058999126671762,
+      0.490886337188365,
+      0.8982558137593001
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 28
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002_28",
+    "text": "B-5 We claim that all integers N of the form 2k, with k a positive integer and N> max Soj, satisfy the desired conditions.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5243034169868298,
+      0.8467177224030245,
+      0.9193193832822607,
+      0.8895933750769662
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2000_Solutions_2000s_page_002",
+    "order": 29
+  }
+]

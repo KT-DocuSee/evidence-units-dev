@@ -1,0 +1,210 @@
+[
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_2",
+    "text": "Let 9, h be the inverse Fourier transforms of Xu, Xuk (as given by the Plancherel theorem), and let f = |U|-'gh. Then f € L' and f = g*h by Proposition (4.36); thus f(8) = |U|-' Su XuK(n-'§) dn has the desired properties.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07938655558427139,
+      0.08430232522652292,
+      0.9152542458066453,
+      0.15970987303412576
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_3",
+    "text": "(4.51) Theorem. If N C G is closed, then v (4N)) = N.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07990313910358095,
+      0.16715116312356765,
+      0.762711855932739,
+      0.18898809486688678
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_4",
+    "text": "Proof: If § # N, take K = {§} and W = G \\ N in Lemma (4.50) to obtain f € 4(N) such that f(5) # 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07990315769861418,
+      0.19287587322330152,
+      0.9130563456641547,
+      0.2369186044636417
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_5",
+    "text": "When G is compact, the other half of the correspondence is easily analyzed. First, a simple lemma that will also be useful elsewhere.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07990314218753528,
+      0.24702380971599647,
+      0.9128329277697652,
+      0.28645833341167415
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_6",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07990316354613516,
+      0.29067460311326154,
+      0.9152542216233563,
+      0.31398809517675363
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_7",
+    "text": "Proof: For any x € G,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11138015100359464,
+      0.32266865063438316,
+      0.38740919869374185,
+      0.34156976695255614
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_8",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11138016072119174,
+      0.3516865077019275,
+      0.9200968385524159,
+      0.3851744180180316
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_9",
+    "text": "(4.53) Theorem. If G is compact, then «vI)) = I for every closed ideal I C L' (G).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07943430370501268,
+      0.39970930297658636,
+      0.9152542356371544,
+      0.4364891698541531
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_10",
+    "text": "Proof: Since G is compact, we have G C L°' C L' C L'. Suppose fE cU(1)). Then f * ≤ = f(§≤ by Lemma (4.52), and either f (§) = 0 or § & u(I). In the first case, f * § = 0; in the second case, there exists 9 € I such that g(§) = 1, so that § = g * § € I by Lemma (4.52) again. In either case we have f*§ € I, and hence f*g € I for any g in the linear span of G. The latter is dense in L? by Corollary (4.26), so f * g € I for all g € L' since I is closed. Finally, we can take g to be an approximate identity to conclude that f € I.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07975008983669632,
+      0.443915437297004,
+      0.9154393129449089,
+      0.6002906979021108
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_11",
+    "text": "When G is noncompact, the question of whether ‹(vI)) = I is much more delicate. We now exhibit a simple example to show that the answer can be negative.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08227049451071079,
+      0.6118551585230682,
+      0.9152542382400597,
+      0.6688059585302518
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_12",
+    "text": "(4.54) Theorem. Let G = R~ with n ≥ 3, and let S be the unit sphere in R\". There is a closed ideal I in L'(R\") such that v(I) = S but I # 4(S).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07990315301344783,
+      0.6787790703203365,
+      0.9152542439906649,
+      0.7360408133739583
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_13",
+    "text": "Proof: First we observe that if f and xif (= the function whose value at x is tif(x)) are in L'(R\") then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08232446398409436,
+      0.7455357146340384,
+      0.9152542333344488,
+      0.7819940478356281
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_14",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22499003699470646,
+      0.7919953609050043,
+      0.7346540933853164,
+      0.8301688843831239
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_15",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08200398009537206,
+      0.8372093021540397,
+      0.7820823238614548,
+      0.8822674412634469
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_16",
+    "text": "Hence af/af exists and is continuous.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08407534580300625,
+      0.8906564066901552,
+      0.5453870770626913,
+      0.9206743644910658
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119_17",
+    "text": "Let I be the set of all f € L' such that xif € L' and f|S = (af/a§1)|S = 0, and let I be the closure of I in L'. Since (Lyf) (5) =",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08470157369345475,
+      0.9156746034634682,
+      0.9128666753043794,
+      0.954428363196237
+    ],
+    "page": "book_en_A.Course.in.Abstract.Harmonic.Analysis.-.Gerald.B.Folland.0849384907_page_119",
+    "order": 18
+  }
+]

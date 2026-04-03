@@ -1,0 +1,168 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_2",
+    "source": "text_cluster",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) Construct a matrix that has column 1 + 2(column 3) = 0. Check that A is singular (fewer than 3 pivots) and explain why that must be the case.",
+        "bbox": [
+          0.18275155084789635,
+          0.08720930307206383,
+          0.907597533382083,
+          0.1235465118774016
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1.27 True or false, with reason if true and counterexample if false:",
+        "bbox": [
+          0.1314168404607566,
+          0.13808139510297632,
+          0.7186858142620364,
+          0.15406976772405845
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "If L|U1 = LUz (upper triangular U's with nonzero diagonal, lower triangular L's with unit diagonal), then L1 = Lz and U1 = U2. The LU factorization is unique.",
+        "bbox": [
+          0.18275153766001173,
+          0.16715116258117413,
+          0.9075975361457262,
+          0.222383720429511
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "If A + A = I then A-' = A +1.",
+        "bbox": [
+          0.18275154988955386,
+          0.22817460338879259,
+          0.4948665276258464,
+          0.24709302302995428
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "If all diagonal entries of A are zero, then A is singular.",
+        "bbox": [
+          0.1827515588119281,
+          0.255704364989354,
+          0.6899383842578871,
+          0.27331349197348104
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1.28 By experiment or the Gauss-Jordan method compute",
+        "bbox": [
+          0.13347023659838433,
+          0.2848837212842731,
+          0.6447638377855995,
+          0.3023313490103283
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.30909419578534353,
+          0.3124579911654035,
+          0.426635943661012,
+          0.38081395248692884
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1.29 Write down the 2 by 2 matrices that",
+        "bbox": [
+          0.13141684215250227,
+          0.3982558137076276,
+          0.49897329239575267,
+          0.41424418632870963
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) reverse the direction of every vector.",
+        "bbox": [
+          0.18275154390607018,
+          0.4273255811858252,
+          0.5379876669255521,
+          0.4433139538069073
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) project every vector onto the x2 axis.",
+        "bbox": [
+          0.1827515520292776,
+          0.452034883442366,
+          0.5400410629193876,
+          0.4680232560634481
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(c) turn every vector counterclockwise through 90°.",
+        "bbox": [
+          0.1848049449515948,
+          0.47668650820301406,
+          0.6386036857612241,
+          0.4942956351871411
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0085_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(d) reflect every vector through the 45° line x1 = x2.",
+        "bbox": [
+          0.1827515584186024,
+          0.5014534880935289,
+          0.6406570749694878,
+          0.517441860714611
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

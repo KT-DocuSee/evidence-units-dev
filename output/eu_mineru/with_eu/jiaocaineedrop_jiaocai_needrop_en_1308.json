@@ -1,0 +1,153 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1308",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【例题2】实验得到甲、的溶解度曲线如图，将t℃甲、的饱和溶液分别降温到 t1℃。下列说法定正确的是 ( ）",
+        "bbox": [
+          0.1400709219858156,
+          0.10182975338106603,
+          0.8324468085106383,
+          0.14447096260938744
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1308",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.38563829787234044,
+          0.16292760540970566,
+          0.5868794326241135,
+          0.273667462211615
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1308",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A．甲溶液仍饱和 B.两溶液仍饱和 C.溶质质量分数：甲=乙 D.溶液质量：甲=乙",
+        "bbox": [
+          0.14095744680851063,
+          0.28957836117740654,
+          0.36524822695035464,
+          0.3799522673031026
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "【例题3】某固体溶解度随温度变化的曲线。该固体从溶液中析出时不带结晶。M、 N两点分别表该固体形成的两份溶液在不同温度时的浓度。当条件改变时，溶液新 的状态在图中对应的点的位置可能也随之变化，其中判断正确的是 （ ）",
+        "bbox": [
+          0.1400709219858156,
+          0.4003182179793158,
+          0.8333333333333334,
+          0.4677804295942721
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1308",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.34308510638297873,
+          0.48560063643595863,
+          0.6205673758865248,
+          0.6281622911694511
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1308",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A.升温10℃后，M点沿曲线向上移，N点向右平移。 B.加稀释（假设温度都不变）时，M、N点均不动。 C.都降温10℃后，M点沿曲线向左下移，N点向左平移。 D.蒸发溶剂（假设温度不变）时，先是M点不动，N点左平移曲线；继续蒸发溶剂， M、N点都不动。",
+        "bbox": [
+          0.14095744680851063,
+          0.6472553699284009,
+          0.8297872340425532,
+          0.7624502784407319
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1308",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_6",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1308_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "（微信公众号：实视界）免费分享",
+        "bbox": [
+          0.03102836879432624,
+          0.948926014319809,
+          0.750886524822695,
+          0.9877486077963404
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

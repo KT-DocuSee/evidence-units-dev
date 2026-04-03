@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_021",
+    "primary_id": "docling_PPT_ch7_page_021_1",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_021_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Parallel processing of products on the computer is",
+        "bbox": [
+          0.058333348971741396,
+          0.1388888890462563,
+          0.8250000035282582,
+          0.188888888037077
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_ch7_page_021_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "facilitated by a variant of (3) for computing C = AB, which is used by standard algorithms (such as in Lapack). In this method, A is used as given, B is taken in terms of its column vectors, and the product is computed columnwise; thus,",
+        "bbox": [
+          0.058139536840247245,
+          0.19378306823723113,
+          0.9186046467477926,
+          0.45348837166616096
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_ch7_page_021_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.058139532997863,
+          0.4767441869422167,
+          0.7325581489142816,
+          0.5310846554548577
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_ch7_page_021_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Columns of B are then assigned to different processors (individually or several to each processor), which simultaneously compute the columns of the product matrix Ab,, Abz, etc.",
+        "bbox": [
+          0.058139536521833256,
+          0.5465116267932533,
+          0.8677325438741917,
+          0.7577519385965623
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

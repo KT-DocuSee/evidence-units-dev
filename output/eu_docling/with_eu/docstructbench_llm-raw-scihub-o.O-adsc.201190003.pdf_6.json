@@ -1,0 +1,240 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_1",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "337 Synthesis of Azomethines from a-Oxocarboxylates, Amines and Aryl Bromides via One-Pot Three-Component Decarboxylative Coupling",
+        "bbox": [
+          0.030800821768261467,
+          0.08139534892401833,
+          0.48665296942049513,
+          0.123546510980836
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adv. Synth. Catal. 2011, 353, 337-342",
+        "bbox": [
+          0.08418891208040033,
+          0.1395348839696242,
+          0.33880902943910696,
+          0.149801587242247
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_3",
+        "observed_type": "checkbox_unselected",
+        "canon_role": "plain_text",
+        "text": "a Felix Rudolphi, Bingrui Song, Lukas J. Gooßen*",
+        "bbox": [
+          0.061601647777378456,
+          0.16715116292937934,
+          0.4106776071849762,
+          0.17881944435210054
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "343 Enantioselective Organocatalytic Synthesis of Oxazolidine Derivatives through a One-Pot Cascade Reaction",
+        "bbox": [
+          0.030800821570256192,
+          0.21802325583843252,
+          0.47638603060001367,
+          0.24429563493396908
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adv. Synth. Catal. 2011, 353, 343 - 348",
+        "bbox": [
+          0.0841889173031971,
+          0.2601686506514353,
+          0.3408624225325318,
+          0.27182539668318134
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Zhichao Jin, Huicai Huang, Wenjun Li, Xiaoyan Luo, Xinmiao Liang, Jinxing Ye*",
+        "bbox": [
+          0.05954825998622024,
+          0.2876984129199381,
+          0.4476385889357512,
+          0.3154761902981695
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_8",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_8",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "FULL PAPERS",
+        "bbox": [
+          0.08624230390854934,
+          0.36773255802285537,
+          0.2422997927766956,
+          0.38081395345970265
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "349 Bicyclic Cyclopentenones via the Combination of an Iridium- Catalyzed Allylic Substitution with a Diastereoselective Intramolecular Pauson-Khand Reaction",
+        "bbox": [
+          0.030800821922265565,
+          0.38953488371426315,
+          0.49486653604747943,
+          0.42881944458796073
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adv. Synth. Catal. 2011, 353, 349-370",
+        "bbox": [
+          0.08418891794488084,
+          0.4476686507578138,
+          0.34086242317421545,
+          0.4578488369424396
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "a Andreas Farwick, Jens U. Engelhart, Olena Tverskoy, Carolin Welter, Quendolin A. Umlauf (née Stang), Frank Rominger, William J. Kerr,* Günter Helmchen*",
+        "bbox": [
+          0.06365502601474711,
+          0.47519841277855474,
+          0.45174536723661496,
+          0.5146329366650871
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "371 One-Pot Synthesis of Spirooxindole Derivatives Catalyzed by Lipase in the Presence of Water",
+        "bbox": [
+          0.030800821537255312,
+          0.588662790817187,
+          0.49075976001805593,
+          0.6148313490786689
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adv. Synth. Catal. 2011, 353, 371 - 375",
+        "bbox": [
+          0.08418891208040033,
+          0.6321924602875901,
+          0.33880902943910696,
+          0.6438953488293415
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "a She-Jie Chai, Yi-Feng Lai, Jiang-Cheng Xu, Hui Zheng, Qing Zhu, Peng-Fei Zhang*",
+        "bbox": [
+          0.05954825882027208,
+          0.6598837214319547,
+          0.4640656907348276,
+          0.6875000001045669
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "376 Highly Enantio- and Diastereoselective Synthesis of v- Amino Alcohols from aß-Unsaturated Imines through a One-Pot ß-Boration/Reduction/Oxidation Sequence",
+        "bbox": [
+          0.030800821885597927,
+          0.6991279068600647,
+          0.46817248115581406,
+          0.7398313492129058
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adv. Synth. Catal. 2011, 353, 376-384",
+        "bbox": [
+          0.08418891794488084,
+          0.7571924601204387,
+          0.34086242317421545,
+          0.7688953486621903
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-adsc.201190003.pdf_6_16",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "a Cristina Solé, Andrew Whiting, * Henrik Gulyás,* Elena Fernández*",
+        "bbox": [
+          0.06160165708061217,
+          0.7848837208508911,
+          0.41889116797072223,
+          0.8081395345381276
+        ],
+        "order": 17
+      }
+    ]
+  }
+]

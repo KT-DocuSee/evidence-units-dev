@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014",
+    "primary_id": "mineru_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Verb Endings in Romance Languages",
+        "bbox": [
+          0.08133333333333333,
+          0.20444444444444446,
+          0.576,
+          0.24977777777777777
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Verb Inflections in Four Italic Languages (taken from Rebecca Posner 1996 The Romance Languages. Cambridge University Press, p. 40)",
+        "bbox": [
+          0.08133333333333333,
+          0.34844444444444445,
+          0.886,
+          0.4097777777777778
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1.1 Regular present indicative person endings in Latin, Spanish, Portuguese and Italian",
+        "bbox": [
+          0.09666666666666666,
+          0.4915555555555556,
+          0.7486666666666667,
+          0.5475555555555556
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014",
+    "primary_id": "mineru_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_014_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09733333333333333,
+          0.5635555555555556,
+          0.748,
+          0.7795555555555556
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

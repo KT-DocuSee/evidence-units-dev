@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195",
+    "primary_id": "mineru_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_0",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The structure of the search results can be examined with your browser tools, as shown here:",
+        "bbox": [
+          0.10372340425531915,
+          0.10732937151089501,
+          0.8900709219858156,
+          0.12605798667386997
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "品 Gtest Google earcl x 个 C https/www.gogle.ro/7gws_rd=crsl&ei=TuxYwuxqBscsswHoBYiqAQ#q=testa* ☆0 Google test ↓a Sign in All Images Videos News Maps More Settings Tools ，6) Online tests and testing software | Test.com htps:/www.test.com/ Ontine tests and testing for certifcation, practice tests, est maling toots, medical testing and more. Test - Wikipedia htps:llen.wikipeda.orgwikiTest Testert respondents' knowledge or other abiltes; Medical test, to detect . Test (assessment)· Medical test Test (Unix) - Test (wrester) Speedtest.net by Ookla - The Global Broadband Speed Test □ Elements Console Soures Network Timeline Profiles Application Security Audits AdiBlodk div id-center_cot style-visibility: visibte; padding-top:dpx:\"> Styles 30 div data-jibph data-jiis=ucid=twstyter_/div cdiv ctassmedidresrolemain :hey cs - element.style style/style = cdiv data-async-contextqueryitestid-ires a.ta div e1d-U0xL6rLsn7UaPzvTAH id-rso> di clssd\" Tdiy classsrg Tdiv class= = =m==2 :Limk， t \",event data-hrefhttps//ww.test.com/-0nline tests and testing softwre  Test.com/amm s cursori te.. c/h3s =fd1v= -d1y class=\"$\">_</d1v> mblink:visit ed,:visited dI Clas-div x1-1 C0106 d cassd/di 1 C1s-9 h diy cassNd>/di =/div= </diw x1-2-3$ =fdiv < CO",
+        "bbox": [
+          0.10106382978723404,
+          0.1375832883126238,
+          0.8945035460992907,
+          0.5056726094003241
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Here, we see that the search results are structured as links whose parent element is a <h3> tag with class \"r\".",
+        "bbox": [
+          0.10549645390070922,
+          0.5078336034575905,
+          0.8785460992907801,
+          0.5438501710786962
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To scrape the search results, we will use a CsS selector, which was introduced in chapter 2, Scraping the Data:",
+        "bbox": [
+          0.10283687943262411,
+          0.5596974608319827,
+          0.8927304964539007,
+          0.5978750225103547
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3282-Python Web Scraping 2nd Edition-2017-英文版_page_195_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": ">>> from lxml.html import fromstring >>> import requests >>> html = requests.get ('https://www.google.com/search?q=test') >>> tree = fromstring (html.content) >>> results = tree.cssselect('h3.r a') >>> results [<Element a at 0x7f3d9affeaf8>, <Element a at 0x7f3d9affe890>, <Element a at 0x7f3d9affe8e8>, <Element a at 0x7f3d9affeaa0>, <Element a at 0x7f3d9b1a9e68>, <Element a at 0x7f3d9b1a9c58>, <Element a at 0x7f3d9b1a9ec0>, <Element a at 0x7f3d9b1a9f18>, <Element a at 0x7f3d9b1a9f70>, <Element a at 0x7f3d9b1a9fc8>]",
+        "bbox": [
+          0.1356382978723404,
+          0.6101206555015307,
+          0.7668439716312057,
+          0.8716009364307582
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

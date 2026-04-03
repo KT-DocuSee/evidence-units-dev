@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07893322552615196,
+          0.06237905945317623,
+          0.9152895300372942,
+          0.5894184597310326
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_2",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Appendix 2",
+        "bbox": [
+          0.5071879597637851,
+          0.6148793003241657,
+          0.586121185289937,
+          0.6301558046800456
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50 days for Collembola have been corrected for differences in extraction efficiency, and are not the same as in Fig. 1.",
+        "bbox": [
+          0.07893322552615196,
+          0.6161523423538224,
+          0.49039365646034844,
+          0.6454323090359255
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mean number (no. g1 dry weight) of \"fungivores' (collembolans and oribatids) in fertilised soil (N) obtained after 50 and 100 days. See \"Appendix 1\" for details.",
+        "bbox": [
+          0.5071879597637851,
+          0.6441592670062689,
+          0.9203278210283251,
+          0.6887157380442519
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07725379519580831,
+          0.7269069989339516,
+          0.9203278210283251,
+          0.911498093234167
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

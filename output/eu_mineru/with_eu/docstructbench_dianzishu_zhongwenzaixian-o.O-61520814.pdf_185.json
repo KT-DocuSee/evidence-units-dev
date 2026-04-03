@@ -1,0 +1,192 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "54.3%；长度在1000m及以上的侵蚀沟道数量14.70万条，占总数的22.0%， 面积8.56万km2，占总面积的45.7%。西北黄土高原区侵蚀沟道数量、长度 与面积见表6-3-2。",
+        "bbox": [
+          0.13611290564123754,
+          0.1227390180878553,
+          0.8739881309595252,
+          0.18992248062015504
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "-3-2 西北黄土高原区侵蚀沟道数量、长度与面积",
+        "bbox": [
+          0.21670607345512818,
+          0.20025839793281655,
+          0.6859374060604471,
+          0.21834625322997417
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.13611290564123754,
+          0.2222222222222222,
+          0.8739881309595252,
+          0.3695090439276486
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.13611290564123754,
+          0.8436692506459949,
+          0.8757790902442784,
+          0.91343669250646
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_3",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "①侵蚀沟道级别用侵蚀沟道的长度表示。",
+        "bbox": [
+          0.15402249848876878,
+          0.37209302325581395,
+          0.45490365832729385,
+          0.3875968992248062
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在西北黄土高原区中，甘肃省侵蚀沟道数量最多，占区域侵蚀沟道总数量 的40.3%；其次为陕西省，占21.1%；侵蚀沟道数量最少的为宁夏回族自治 区，占2.51%。侵蚀沟道面积与数量基本一致，甘肃省和陕西省面积较大， 占区域侵蚀沟道总面积的比例分别达到28.9%和23.9%；宁夏回族自治区、 河南省及内蒙古自治区侵蚀沟道面积较小，分别占5.3%、6.2%、7.5%。西 北黄土高原区各省（自治区）侵蚀沟道数量与面积见附表A32，各省（自治 区）侵蚀沟道面积占全区沟道面积比例见图6-3-1。",
+        "bbox": [
+          0.13611290564123754,
+          0.3979328165374677,
+          0.8757790902442784,
+          0.5581395348837209
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_7",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "按西北黄土高原区侵蚀类型统计，高 原沟壑区侵蚀沟道共11.03万条，沟道面 积3.05万km2；丘陵沟壑区侵蚀沟道共 55.64万条，沟道面积15.67万km2。高 原沟壑区侵蚀沟道数量占侵蚀沟道总数的 16.5%，丘陵沟壑区占83.5%。",
+        "bbox": [
+          0.4763951697443314,
+          0.562015503875969,
+          0.8739881309595252,
+          0.6976744186046512
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "高原沟壑区侵蚀沟道主要分布于甘肃 省东部、陕西省延安南部和渭河以北、山 西省南部等地区，平均沟道纵比为 20.42%，沟道沟壑密度1.25km/km2。丘 陵沟壑区依据地形地貌差异分为5个副 区。其中，第一、第二副区主要分布于陕 西省北部、山西省西北部和内蒙古自治区南部，平均沟道纵比分别为 19.93%、14.06%，沟壑密度分别为3.4~7.6km/km²、3.0~5.0km/km²；第 三、第四副区主要分布于青海省东部、甘肃省中部、河南省西部，平均沟道纵",
+        "bbox": [
+          0.4763951697443314,
+          0.7015503875968992,
+          0.8739881309595252,
+          0.838501291989664
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_5",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.15581345777352193,
+          0.5697674418604651,
+          0.45848557689680014,
+          0.7674418604651163
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61520814.pdf_185_6",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图6-3-1西北黄土高原区 各省（自治区）侵蚀沟道面积 占全区沟道面积比例",
+        "bbox": [
+          0.18805072489907818,
+          0.772609819121447,
+          0.4316211876255032,
+          0.8333333333333334
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

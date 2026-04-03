@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Words in Modern and Older Indo-European Languages Equivalent to Modern English foot",
+        "bbox": [
+          0.16250002767911362,
+          0.17777777775229484,
+          0.7333333246819967,
+          0.2539682534154158
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Old English fót Modern English foot Modern German Fuß Modern Dutch voet Modern Norwegian fot Modern Danish fod Modern Swedish fot | Modern French pied Modern Italian piede Modern Portuguese pé Modern Spanish pie Sanskrit pat Latin pēs Greek peza",
+        "bbox": [
+          0.1627564392089844,
+          0.364246826171875,
+          0.7823107299804688,
+          0.660609130859375
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012_5",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7272669677734375,
+          0.9058207194010417,
+          0.9764080810546875,
+          0.9769781901041666
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CAMBRIDGE",
+        "bbox": [
+          0.7848837256554193,
+          0.9089147284817677,
+          0.9781976724550457,
+          0.943798449646693
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_012_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "UNIVERSITY PRESS",
+        "bbox": [
+          0.78633720689654,
+          0.9496124031390013,
+          0.9752906973808686,
+          0.967054263721464
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

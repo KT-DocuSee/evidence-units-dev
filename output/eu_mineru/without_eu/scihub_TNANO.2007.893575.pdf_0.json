@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_0",
+    "text": "A New Capacitorless 1T DRAM Cell: Surrounding Gate MOSFET With Vertical Channel (SGVC Cell)",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08161616161616161,
+      0.07818181818181819,
+      0.9171717171717172,
+      0.14424242424242426
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_1",
+    "text": "Hoon Jeong, Ki-Whan Song, I1 Han Park, Tae-Hun Kim, Yeun Seung Lee, Seong-Goo Kim, Jun Seo, Kyoungyong Cho, Kangyoon Lee, Hyungcheol Shin, Member, IEEE, Jong Duk Le, Member, IEEE, and Byung-Gook Park, Member, IEEE",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09777777777777778,
+      0.1503030303030303,
+      0.8961616161616162,
+      0.19454545454545455
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_2",
+    "text": "Abstract—We propose a surrounding gate MOSFET with vertical channel (SGVC cell) as a 1T DRAM cell. To confirm the memory operation of the SGVC cell, we simulated its memory effect and fabricated the highly scalable SGVC cell. According to simulation and measurement results, the SGVC cell can operate as a 1T DRAM having a suficiently large sensing margin. Also, due to its vertical channel structure and common source architecture, it can readily be made into a 4F2 cell array.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06626262626262626,
+      0.2315151515151515,
+      0.4905050505050505,
+      0.3296969696969697
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_7",
+    "text": "TABLE I SGVC CELL SIMULATION PARAMETERS",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.610909090909091,
+      0.2315151515151515,
+      0.8290909090909091,
+      0.25575757575757574
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_8",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.5098989898989899,
+      0.26666666666666666,
+      0.9357575757575758,
+      0.5084848484848485
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_3",
+    "text": "Index Terms—Memory effect, 1T DRAM cell, sensing margin, surrounding gate, vertical channel.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06464646464646465,
+      0.33515151515151514,
+      0.4896969696969697,
+      0.3612121212121212
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_4",
+    "text": "I. INTRODUCTION",
+    "canon_role": "section_header",
+    "bbox": [
+      0.21494949494949495,
+      0.3878787878787879,
+      0.3393939393939394,
+      0.4012121212121212
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_5",
+    "text": "O OVERCOME the scalability issues and process complexity of 1-transistor/1-capacitor DRAM cell, ca- pacitorless 1-transistor (1T) DRAM cells have been recently proposed and investigated [1]. The mainstream 1T DRAM cell is a floating body transistor cell (FBC) which consists of aMOSFET with its body foating electrically. The FBC is realized by a MOSFET formed on partially depleted silicon- on-insulator (PD-SOI). When excess holes exist in the floating body, the cell state can be defined as \"1\" (decreased Vth). On the other hand, when excess holes are swept out of the floating body through forward bias on the body—drain junction, the cell state can be defined as \"O\" (increased Vth). By measuring the drain current difference between \"1\" and \"0\" states of the cell, we can sense whether the holes are accumulated in the floating body. Because the floating body is used as the storage node, the FBC has no complicated storage capacitor. Therefore, the FBC has a simple process and can have a cell area below 4. [2], [3]",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06545454545454546,
+      0.40545454545454546,
+      0.4896969696969697,
+      0.6563636363636364
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_9",
+    "text": "4F2 structure possible and ultimately leads to superior scala- bility. The memory operation has been investigated by simu- lation. Also, we have successfully fabricated a highly scalable SGVC cell and the memory effect is measured for the fi rst time.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5082828282828283,
+      0.5339393939393939,
+      0.9325252525252525,
+      0.5945454545454546
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_10",
+    "text": "II. SIMULATION RESULTS",
+    "canon_role": "section_header",
+    "bbox": [
+      0.6343434343434343,
+      0.616969696969697,
+      0.8080808080808081,
+      0.6315151515151515
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_11",
+    "text": "Fig. 1 schematically shows the operation principle of an SGVC cell [4]. It can be noted that it has a floating body where holes are accumulated for memory effects. To verify memory cell operation, 2-D device simulation was performed. We used ATLAS as a simulator. Excess holes are generated by impact ionization in this simulation. Simulated parameters are listed in Table I. The difference in the body potential of each state and the ID– VG characteristics were extracted first, in order to show the accumulation of holes in the body of the SGVC cell. Fig. 2 shows a comparison of the hole potential between \"1\" state and reference state (Vgate = 0, Vsource = 0, Vdrain = 0). In the case of state \"1,\" through impact ionization in the high field region near the drain, excess holes are injected into the body and then the body potential increases. Fig. 3 shows IdV characteristics of the SGVC cell. The drain current of \"1\" state is larger than that of \"O\" state. This is due to the increase of the body potential when holes are accumulated into the body through writing operation, hence lowering the threshold voltage, which in turn increases the drain current. Subsequently, the drain current as a function of time was extracted to show",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.509090909090909,
+      0.6393939393939394,
+      0.9333333333333333,
+      0.94
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_scihub_TNANO.2007.893575.pdf_0_6",
+    "text": "In this work, we propose a surrounding gate MOSFET with vertical channel (SGVC cell) as a 1T DRAM cell. Unlike other 1T DRAM cells which are integrated on SOI substrates, the SGVC cell can be more cost effective since it can be fabricated on bulk Si substrates. Also, there is no need for the source con- tact and line due to the common source structure, which makes",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06626262626262626,
+      0.6581818181818182,
+      0.4896969696969697,
+      0.7472727272727273
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 12
+  }
+]

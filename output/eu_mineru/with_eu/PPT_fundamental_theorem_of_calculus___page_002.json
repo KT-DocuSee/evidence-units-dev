@@ -1,0 +1,94 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_002",
+    "primary_id": "mineru_PPT_fundamental_theorem_of_calculus___page_002_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_fundamental_theorem_of_calculus___page_002_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.49866666666666665,
+          0.033777777777777775,
+          0.826,
+          0.3031111111111111
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_002",
+    "primary_id": "mineru_PPT_fundamental_theorem_of_calculus___page_002_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_fundamental_theorem_of_calculus___page_002_0",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "To estimate area A under y = 3x² from x = 2 to x = 4 we could split it into small rectangles:",
+        "bbox": [
+          0.04666666666666667,
+          0.15555555555555556,
+          0.7586666666666667,
+          0.4311111111111111
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_002",
+    "primary_id": "mineru_PPT_fundamental_theorem_of_calculus___page_002_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_fundamental_theorem_of_calculus___page_002_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5026666666666667,
+          0.5484444444444444,
+          0.8326666666666667,
+          0.8266666666666667
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_002",
+    "primary_id": "mineru_PPT_fundamental_theorem_of_calculus___page_002_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_fundamental_theorem_of_calculus___page_002_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "With 4 rectangles, the area ≈ 48.96 units2",
+        "bbox": [
+          0.04933333333333333,
+          0.5617777777777778,
+          0.4126666666666667,
+          0.6764444444444444
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

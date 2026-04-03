@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7",
+    "primary_id": "mineru_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_2",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.2本周重点公司新闻及公告",
+        "bbox": [
+          0.08711433756805807,
+          0.12369958671797064,
+          0.37588223432143575,
+          0.14479122131965227
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表5：本周公司动态：中国奥园以现金代价2.56亿港元出售待售股份",
+        "bbox": [
+          0.0863077233313168,
+          0.1573321932449765,
+          0.6057672917927002,
+          0.17443351859769132
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.0863077233313168,
+          0.1761436511329628,
+          0.9227666868320226,
+          0.31295425395468146
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_11eeaa31ab6171a9d1ea55aeb0b167e51bffeaa8a83a97cb5e2c3fb7963bf1bf.pdf_7_3",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：Wind，公司公告，中达证券研究",
+        "bbox": [
+          0.08711433756805807,
+          0.3175146073820721,
+          0.3742690058479532,
+          0.3329058001995155
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

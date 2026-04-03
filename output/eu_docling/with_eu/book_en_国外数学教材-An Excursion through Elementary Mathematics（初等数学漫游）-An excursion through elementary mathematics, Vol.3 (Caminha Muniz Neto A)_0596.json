@@ -1,0 +1,103 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596_2",
+    "source": "text_cluster",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Start by multiplying equality ax? + bxy + cy? = n by 4a and completing squares.",
+        "bbox": [
+          0.13215858610245895,
+          0.0915178569618842,
+          0.876651975949146,
+          0.12969773480967656
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "First show that if such x and y did exist, then they would be relatively prime with 122. Then, use the result of the previous problem to conclude that 17 should be a quadratic residue modulo 61. Finally, apply the quadratic reciprocity law and Proposition 12.23 to reach a contradiction.",
+        "bbox": [
+          0.1299559449258525,
+          0.13219245994301837,
+          0.8788546354604833,
+          0.20348837173898268
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "For item (a), if every prime divisor of 262 + 3 was congruent to #1 modulo 8, we would have 262 + 3 = 1 (mod 8); show that this is impossible. For (b), if (262 + 3) | (a2 - 2) and p is as in (a), then a? = 2 (mod p), so that 2 would be a quadratic residue modulo p; use the result of Example 12.27 to reach a contradiction.",
+        "bbox": [
+          0.13215860036976174,
+          0.20058139544651604,
+          0.881057259982661,
+          0.2906976744480747
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Let Ln = 2x?. If n is odd, use item (b) of Problem 11, page 252, together with the fact that Ln is even, to show that n = 3 or 9 (mod 12). Then, apply several times item (e) of this same problem to get Ln = L3 or L9 = 4 (mod 8), and show that this gives x? = 2 (mod 4), which is impossible. Now, assuming that n is even, consider the following three separate cases: n = 0 (mod 4), n = 6 (mod 8) orn = 2 (mod 8). If n = 0 (mod 4), write n = 2-3' k, with k € 7 such that 2 | k, 3 1 k. Argue as in the proof of Example 12.25 to obtain Ln = - L0 = - 2 (mod Lk) and, hence, x? = - 1 (mod Lk). Show that this furnishes a contradiction, exactly as the one obtained in the proof of Example 12.25. If n = 6 (mod 8) but n = 6 (note that L6 = 18 = 2 · 32), write n = 6+2.31. k, with k € Z such that 4 | k and 3 4 k. Use item (d) of Problem 13, page 253, to obtain Ln = - L6 = -18 (mod Lk), and hence x? = - 9 (mod Lk). Also as in the proof of Example 12.25, conclude that one can take a prime divisor p of Lk such that p = 3 (mod 4), so that x? = -9 (mod p). Then, show that 3 † Lk, sO that gcd(p, 9) = 1 and, thus, (p) = (p)(7) = (7) = - 1. Finally, in the case n = 2 (mod 8), just note that L -n = Ln and —n = 6 (mod 8).",
+        "bbox": [
+          0.1321585902507423,
+          0.29067460278822804,
+          0.8788546354604833,
+          0.579941860714611
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Let En = x2 . If n = 1 (mod 4) but n # 1, write n = 1 + 2·3. k, with k € Z such that 2 | k, 3 1 k. Use item (c) of Problem 13, page 253, to get Fn = - F1 = - 1 (mod Lk); then, arrive at a contradiction, exactly as in the proof of Example 12.25. If n = 3 (mod 4), use the fact that F-n = En and —n = 1 (mod4). If n is even, write n = 2m and apply item (a) of Problem 13, page 253 to get En = Fm Lm. Then, distinguish two distinct subcases: if gcd(n, 3) = 1, use Problem 12, page 252 to conclude that Lm is also a perfect square; then, apply the result of Example 12.25. If gcd(n, 3) = 3, use Problem 12, page 252, again to conclude that Lm is twice a perfect square; then, apply the result of the previous problem.",
+        "bbox": [
+          0.13192506915303498,
+          0.5790482707271696,
+          0.8788546368551274,
+          0.7601744188541457
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Apply Gauss' lemma, as was done in Example 12.27, or the quadratic reciprocity law.",
+        "bbox": [
+          0.13215860303157895,
+          0.7616279074906686,
+          0.878854627761372,
+          0.7971733153559729
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0596_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "For item (a), if every prime divisor of 2\" - 1 was congruent to $1 modulo 12, we would have 2\" - 1 = 1 (mod 12); show that this is impossible. For (b), if (2\" - 1) | (3m - 1) and p is as in (a), then 3m = 1 (mod p) or, which is the same, 3m+1 = 3 (mod p); since m + 1 is even, it would follow that 3 would be",
+        "bbox": [
+          0.13215860178708563,
+          0.7978670635239561,
+          0.8789603366076084,
+          0.8721609127313382
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

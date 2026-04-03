@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_028",
+    "primary_id": "docling_PPT_ch7_page_028_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_028_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "7.2 Matrix Multiplication",
+        "bbox": [
+          0.6816860522880455,
+          0.02513227540682298,
+          0.9665697633611793,
+          0.05820105847560596
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_028",
+    "primary_id": "docling_PPT_ch7_page_028_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_028_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "EXAMPLE 9",
+        "bbox": [
+          0.06104651204950238,
+          0.07170542753034806,
+          0.25000000253383087,
+          0.11046511575130565
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_028",
+    "primary_id": "docling_PPT_ch7_page_028_1",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_028_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Upper and Lower Triangular Matrices",
+        "bbox": [
+          0.05833335741522499,
+          0.12222222244903408,
+          0.6499999877514416,
+          0.17228836051976124
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_ch7_page_028_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1104651160498184,
+          0.28488372134361334,
+          0.8953488371132875,
+          0.5251937986057185
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_ch7_page_028_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Upper triangular",
+        "bbox": [
+          0.16133721092050066,
+          0.5542328042042681,
+          0.37936046567833637,
+          0.5949612395187897
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_ch7_page_028_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Lower triangular",
+        "bbox": [
+          0.5610465119598287,
+          0.5542328046306247,
+          0.7805232572019928,
+          0.5949612399451463
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

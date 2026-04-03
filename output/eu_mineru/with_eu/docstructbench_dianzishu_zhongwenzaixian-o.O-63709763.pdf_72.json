@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "三、外国语学院党委",
+        "bbox": [
+          0.1450886947312682,
+          0.1434878587196468,
+          0.3876092136616362,
+          0.16629874908020603
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10166799046862589,
+          0.21265636497424578,
+          0.853587503309505,
+          0.4503311258278146
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "四、理工学院党委",
+        "bbox": [
+          0.14614773629864972,
+          0.4974245768947756,
+          0.36113317447709825,
+          0.5194996320824136
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63709763.pdf_72_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10166799046862589,
+          0.565121412803532,
+          0.853587503309505,
+          0.8557763061074319
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

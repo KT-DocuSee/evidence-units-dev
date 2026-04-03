@@ -1,0 +1,577 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Nvidia's fourth-quarter earnings exceeded expectations. Revenue at the maker of chips for artificial intelligence hit $22.1bn, up by 265% from a year earlier, and it made a net profit of $12.3bn, a rise of 769%. It predicted even stronger sales this quarter, even though it is struggling to keep up with demand. Nvidia's market valuation has soared past $1.7trn, spurring much of the recent rally in the s& P 500.",
+        "bbox": [
+          0.059160309792134595,
+          0.08283730136283235,
+          0.2614503847916142,
+          0.2674418603627718
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Australia. Nickel prices have collapsed amid a global glut of the metal, caused by Indonesia pumping up production at its cheaper mines. Traders are also paring their bets on the price amid slowing growth in the demand for electric vehicles, which contain nickel in their batteries.",
+        "bbox": [
+          0.507633586152391,
+          0.0828373013729435,
+          0.7137404573026829,
+          0.2136627905034863
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "this year. The defence company's order backlog of £70bn is its biggest ever and includes new nuclear-powered submarines for the Australian and British navies. BAE is also restarting production of parts for the M777 howitzer, used to great effect by Ukraine against Russia.",
+        "bbox": [
+          0.7326392238992799,
+          0.08283730161080505,
+          0.933206110117632,
+          0.21366279043786865
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Walmart's revenues surged to $648.1bn for the 12 months ending January 31st (as it raked in $1.2m a minute). However, the average amount that shoppers spent per trip dipped slightly in its fourth quarter. Last November Walmart said it would be \"managing a period of deflation\", but it noted this week that although prices for general merchandise goods were lower than a year ago, they were a bit higher for food and consumables.",
+        "bbox": [
+          0.2841917168478924,
+          0.13662790694585228,
+          0.4885496184588532,
+          0.332945709570424
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_35",
+    "source": "visual_seed",
+    "member_count": 14,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_35",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5124817496983988,
+          0.22735137328286673,
+          0.7133130380840097,
+          0.38085578949015353
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-2",
+        "bbox": [
+          0.694656488499283,
+          0.30232558173952034,
+          0.7041984731419384,
+          0.31104651140001455
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-4",
+        "bbox": [
+          0.6946564888495077,
+          0.3197674418669112,
+          0.7061068696746648,
+          0.3299418601195229
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2023",
+        "bbox": [
+          0.6316793888370815,
+          0.3546511626806552,
+          0.6545801529741606,
+          0.3619186046951375
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2022",
+        "bbox": [
+          0.5477099237531545,
+          0.35465116296771776,
+          0.5725190834510441,
+          0.36337209262821224
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SAME",
+        "bbox": [
+          0.8473282441681298,
+          0.6526162788622452,
+          0.8893129763471374,
+          0.6656976742990922
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NEW",
+        "bbox": [
+          0.6583969473850905,
+          0.6569767440693672,
+          0.6908396942997513,
+          0.6700581395062143
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LINE",
+        "bbox": [
+          0.8492366417197782,
+          0.6627906976677514,
+          0.8874045802903999,
+          0.6744186045124809
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LINE",
+        "bbox": [
+          0.6583969469845307,
+          0.6686046512823033,
+          0.6927480919467669,
+          0.6816860467191503
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OF",
+        "bbox": [
+          0.85877862719011,
+          0.6729651164682025,
+          0.8816793888404241,
+          0.6816860461286968
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OF",
+        "bbox": [
+          0.6641221383065222,
+          0.6787790695599195,
+          0.6870228999568365,
+          0.6918604649967665
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TRAVEL",
+        "bbox": [
+          0.8396106651314662,
+          0.6800022299688226,
+          0.9008473488041562,
+          0.6935442813219745
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SNEAKERS",
+        "bbox": [
+          0.6430900526393313,
+          0.6874035869293847,
+          0.7099633817322997,
+          0.7035847853068427
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WARD!",
+        "bbox": [
+          0.5019083979675049,
+          0.7805232557753938,
+          0.5515267173632838,
+          0.8052325580569704
+        ],
+        "order": 36
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rivian forecast that its output of electric trucks would be flat this year and that it would cut 10% of its staff. Rivian's 1Po in 2021 pushed its market value above that of General Motors, but its share price has fallen by almost 90% since then.",
+        "bbox": [
+          0.7328244279847776,
+          0.22817460303581089,
+          0.9370228971484207,
+          0.3328488371142252
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_13",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Israel's GDP",
+        "bbox": [
+          0.5190839713071733,
+          0.23834325404959675,
+          0.593511450400842,
+          0.24709302289710763
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "% change on previous quarter",
+        "bbox": [
+          0.5190839717323906,
+          0.2499999998725405,
+          0.6545801485602304,
+          0.26017441859820517
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Japan's Nikkei 225 stockmarket index hit a new high, surpassing the previous record set 34 years ago. The Nikkei is up by 18% since the start of this year, as foreign investors flock to Japanese stocks made cheaper by the weak yen.",
+        "bbox": [
+          0.05916030520526896,
+          0.281976744348953,
+          0.26526716975497294,
+          0.38665674609775347
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_9",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_9",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Network effects",
+        "bbox": [
+          0.2862595455062717,
+          0.3603670633334911,
+          0.396946562636222,
+          0.3706395345381277
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_24",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_24",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Let's go for a spin",
+        "bbox": [
+          0.7328244280688819,
+          0.3603670634643946,
+          0.8511450373891333,
+          0.37499999997233113
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Source: Central Bureau of Statistics",
+        "bbox": [
+          0.5190839722418837,
+          0.3677325583528923,
+          0.6622137412600245,
+          0.37648809513241716
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Two of America's biggest credit-card issuers are merging. Capital One, which issues credit cards on MasterCard and Visa networks, agreed to buy Discover, which has its own network, for $35bn.",
+        "bbox": [
+          0.28435114406337375,
+          0.37499999999333294,
+          0.48854962188096357,
+          0.4665697672308358
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "London's BT Tower is to become a luxury hotel. BT (formerly British Telecom) is selling the building to MCR Hotels, which includes the High Line and Lexington in New York among its assets, for £275m ($347M). The 177-metrehigh communications tower opened in 1965 as the Post Office Tower and has featured in several films and Tv programmes, including \"Doctor Who\". The question on everyone's lips is whether MCR will reopen the tower's famous revolving restaurant. It was closed in 1971 following a bombing in the toilets.",
+        "bbox": [
+          0.7309160343551192,
+          0.37500000023052543,
+          0.9370228949458128,
+          0.6235465115618997
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The war in Gaza had a big impact on Israel's economy in the fourth quarter of 2023, as GDP contracted by 5.2% compared with the third quarter. The deployment of 300,000 reservists has taken a big chunk out of the labour force, and the building industry has been hurt by restrictions on Palestinian workers. Imports and exports plummeted. The economy grew by 2% over the whole year.",
+        "bbox": [
+          0.5075351876734483,
+          0.3880813955601934,
+          0.7118320544639423,
+          0.573032171277543
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HSBC reported a record pre-tax annual profit of $30.3bn, another bank to benefit from charging higher interest rates. Markets, however, focused on a $3bn write-down that HSBC booked in the fourth quarter related to its stake in a Chinese bank, the largest charge taken yet by a foreign lender because of its exposure to China's struggling property market. HSBC's share price swooned.",
+        "bbox": [
+          0.06106870069661727,
+          0.40104166648397993,
+          0.26526717488378954,
+          0.5712209301665506
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BHP reported a sharp reduction in net profit for the six months ending December 31st. The Australian miner booked another $3.2bn charge in relation to the Samarco dam failure in Brazil in 2015 (taking its total provisions for the disaster to $6.5bn so far) and a $2.5bn impairment on its nickel business in Western",
+        "bbox": [
+          0.28435114225958674,
+          0.48110465114158885,
+          0.4847328200129321,
+          0.6220930229102206
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sales at BAE Systems grew by 9% in 2023 to £ 25-3bn ($31.gbn) and it expects growth of 10-12%",
+        "bbox": [
+          0.5095419887367423,
+          0.5857558139468213,
+          0.7118320567892679,
+          0.6235465115037601
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In China the central bank lowered its five-year loan prime rate from 4.2% to 3.95%. The bigger-than-expected cut to the rate, which is used to determine mortgages, is the latest in a number of official attempts to try to revive a moribund housing market.",
+        "bbox": [
+          0.059160304954871866,
+          0.5857558140750021,
+          0.2633587813644514,
+          0.7034883714459522
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_36",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_36",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2870454079070931,
+          0.6397812235976094,
+          0.9340473299723075,
+          0.9646106918599799
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2024.02.24_page_008",
+    "primary_id": "docling_magazine_TheEconomist.2024.02.24_page_008_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Meanwhile, foreign direct investment to China last year plunged to its lowest level in decades, according to a measure from the State Administration of Foreign Exchange. The country's direct-investment liabilities in its balance of payments, which reflects the foreign capital going into China, came to $33bn in 2023, a big drop from the $180bn recorded in 2022 and the lowest amount since 1993.",
+        "bbox": [
+          0.06074181280211784,
+          0.7180059524842975,
+          0.26526717129308447,
+          0.9028305943088911
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_magazine_TheEconomist.2024.02.24_page_008_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mortgage rates have moved back above 7% in America, according to the Mortgage Bankers Association, as expectations fade that the Federal Reserve will cut interest rates soon.",
+        "bbox": [
+          0.06084374864258181,
+          0.917151163002054,
+          0.24618320147535902,
+          0.9680232556752716
+        ],
+        "order": 37
+      }
+    ]
+  }
+]

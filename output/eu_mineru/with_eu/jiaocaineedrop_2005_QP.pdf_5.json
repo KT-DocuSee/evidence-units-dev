@@ -1,0 +1,159 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_2005_QP.pdf_5",
+    "primary_id": "mineru_jiaocaineedrop_2005_QP.pdf_5_0",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Each spring requires a 0.4 N force to extend or compressit by 1.0 cm.",
+        "bbox": [
+          0.1500302480338778,
+          0.08044501497646556,
+          0.7178866706997379,
+          0.09984310369419484
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(c) What steady force is needed to move the pointer 2.0 cm from O? [2]",
+        "bbox": [
+          0.15164347650736035,
+          0.12894023677078875,
+          0.8187134502923976,
+          0.1911282270717444
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(d) What steady acceleration is required to move the pointer in (c)? [1]",
+        "bbox": [
+          0.15406331921758418,
+          0.21223791185280275,
+          0.822746521476104,
+          0.29838824704036515
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The car starts from rest at time t = 0 and travels along a straight road. The accelerometer readings are recorded in Table 14.",
+        "bbox": [
+          0.18632788868723532,
+          0.32063899586364286,
+          0.8259729784230692,
+          0.356582513193553
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_2005_QP.pdf_5",
+    "primary_id": "mineru_jiaocaineedrop_2005_QP.pdf_5_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.32667876588021777,
+          0.36913421765796606,
+          0.6912684008872757,
+          0.4427328483811154
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_2005_QP.pdf_5",
+    "primary_id": "mineru_jiaocaineedrop_2005_QP.pdf_5_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 14",
+        "bbox": [
+          0.48800161322847346,
+          0.4564256168877478,
+          0.5662431941923775,
+          0.47354157752103837
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_2005_QP.pdf_5",
+    "primary_id": "mineru_jiaocaineedrop_2005_QP.pdf_5_6",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(e) How fast is the car travelling after 7.00 s? [1]",
+        "bbox": [
+          0.16212946158499697,
+          0.4895164741121095,
+          0.8332325065537407,
+          0.5739552132363429
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(f) How far does the car travel in the first7.00 s? [3]",
+        "bbox": [
+          0.16374269005847952,
+          0.5802310654685494,
+          0.8340391207904819,
+          0.714876622450435
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_2005_QP.pdf_5_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(g) Aeroplanes are fitted with three accelerometers as part of their navigation equipment. Why are three accelerometers needed? [2]",
+        "bbox": [
+          0.16777576124218593,
+          0.7211524746826415,
+          0.8380721919741884,
+          0.8061617458279846
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

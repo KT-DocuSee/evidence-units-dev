@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6",
+    "primary_id": "docling_yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20234-743495 1Т7",
+        "bbox": [
+          0.0479651313477878,
+          0.14715608403112662,
+          0.6395348804836075,
+          0.17635658872768503
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6",
+    "primary_id": "docling_yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_75f9d788216f5e26469269defcd466aa8d250542b2142c72782103913bc6e61b.pdf_6_1",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "#****### | FIk® | 1 | 1 | 1",
+        "bbox": [
+          0.045850543586575254,
+          0.1882044136019687,
+          0.950775603210034,
+          0.8776380914874924
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

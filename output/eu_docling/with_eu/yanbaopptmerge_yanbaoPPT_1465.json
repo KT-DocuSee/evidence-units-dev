@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1465",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1465_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1465_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(=) 57",
+        "bbox": [
+          0.0507388883778736,
+          0.13677473389411124,
+          0.2501332052782178,
+          0.1965585962754964
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1465_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1",
+        "bbox": [
+          0.056686052270392404,
+          0.30038759838330026,
+          0.5101744173226307,
+          0.35077519281825026
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1465_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "5744",
+        "bbox": [
+          0.06665589937850223,
+          0.4461617457968861,
+          0.27055340585016635,
+          0.4995746853024885
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1465",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1465_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1465_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fe: O JAHXS 7# = 56x3 +16x4 = 232",
+        "bbox": [
+          0.0874999887018695,
+          0.6888227500867603,
+          0.7166666674786862,
+          0.7444444447222223
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_1465",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_1465_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_1465_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CO2 Ca ( OH ) 2 H0 P20s",
+        "bbox": [
+          0.1162790706903232,
+          0.852713178333839,
+          0.6148255802059946,
+          0.8972868209232668
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_0",
+    "text": "1 Divisibility and Primes",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14259111465815377,
+      0.07689350249903883,
+      0.5714285714285714,
+      0.16301422529796233
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_1",
+    "text": "1.1 Division Algorithm",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1447193402500665,
+      0.4667435601691657,
+      0.4788507581803671,
+      0.4928873510188389
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_2",
+    "text": "Divisibility is a fundamental concept in number theory. Let a and d be integers. We say that d is a divisor of a, and that a is a multiple of d, if there exists an integer q such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14365522745411013,
+      0.5105728565936178,
+      0.8640595903165735,
+      0.5674740484429066
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_3",
+    "text": "If d divides a, we write",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14365522745411013,
+      0.6043829296424452,
+      0.37031125299281725,
+      0.6220684352172241
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_4",
+    "text": "For example, 1001 is divisible by 7 and 13. Divisibility is transitive: If a divides b and b divides c, then a divides c (Exercise 14).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14259111465815377,
+      0.6466743560169166,
+      0.8661878159084863,
+      0.6851211072664359
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_5",
+    "text": "The minimum principle states that every nonempty set of integers bounded below contains a smallest element. For example, a nonempty set of nonneg- ative integers must contain a smallest element. We can see the necessity of the condition that the nonempty set be bounded below by considering the example of the set Z of all integers, positive, negative, and zero.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14152700186219738,
+      0.6866589773164168,
+      0.8747007182761373,
+      0.7812379853902345
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_6",
+    "text": "The minimum principle is all we need to prove the following important result.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14046288906624102,
+      0.7820069204152249,
+      0.8640595903165735,
+      0.8181468665897732
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_7",
+    "text": "Theorem 1.1 (Division algorithm) Let a and d be integers with d ≥ 1. There exist unique integers q and r such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1447193402500665,
+      0.8289119569396386,
+      0.8576749135408354,
+      0.8673587081891581
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017_8",
+    "text": "and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1447193402500665,
+      0.9050365244136871,
+      0.18302740090449587,
+      0.9204152249134948
+    ],
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0017",
+    "order": 9
+  }
+]

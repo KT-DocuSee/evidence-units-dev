@@ -1,0 +1,113 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_2",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Polycarboxylic acids and esters",
+        "bbox": [
+          0.08829569051367364,
+          0.0857558134896043,
+          0.34702258361363636,
+          0.10174418611068652
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Michael Addition of Nitroalkanes to Dimethyl Citraconate, with DBU as Base: An Unexpected, One-Pot Synthesis of Polyfunctionalized Carbonyl Derivatives. — The direct formation of keto diesters (III) from nitroalkanes and dimethyl citraconate proceeds via an isomerization of the double bond of II) followed by Michael addition of the anion derived from (I) and a Nef-type conversion. The expected adducts (IV)",
+        "bbox": [
+          0.2073921937338827,
+          0.10168650747285549,
+          0.9117043048901438,
+          0.18313953434799432
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1-62032 Camerino, Macerata, Italy; Eng.) - Mais are not observed. - (BALLINI*, R.; BARBONI, L.; BOSICA, G.; FIORINI, D.; GIL, M. V.; Synlett 2002, 10, 1706-1708; Dip. Sci. Chim., Univ. Camerino,",
+        "bbox": [
+          0.20944559364907536,
+          0.21354166712500322,
+          0.6221765770461433,
+          0.23115079410913017
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "НзС- E (Il) , DBU (cat.) E RUNO2 MeCN, 50°C R. -E Нза- [—> a,f] [72 h] E I [-> b-d] [100 h] III IV [-> e] [60 h] E: —CO-0-Me a R: —iBu 90% b R: - (CH2)8-CH=CH2 54% cR: - (CH2)5-OH 54% d R: - (CH2)2-CO-0-Me 56% e R: - CH2-Ph 49% + R: Me. 78%",
+        "bbox": [
+          0.24024640694516844,
+          0.23546511645609006,
+          0.73305954842785,
+          0.4433139532770158
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_8",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Р 0253",
+        "bbox": [
+          0.0882743598523121,
+          0.10170192823666653,
+          0.1458118827768771,
+          0.11632132786750088
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "05 - 072",
+        "bbox": [
+          0.09445585209145847,
+          0.12053571439632697,
+          0.18480492909950655,
+          0.13963293661854917
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-chin.200305072.pdf_1_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.24234056184783487,
+          0.23364062306355818,
+          0.7557733254354508,
+          0.45790302120671905
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

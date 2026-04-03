@@ -1,0 +1,169 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1959",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_9",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_9",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.4446385803222656,
+          0.03533201220902899,
+          0.500198974609375,
+          0.05749070030652009
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "H SÁ",
+        "bbox": [
+          0.08955223757583078,
+          0.12936046514028277,
+          0.3198294259636148,
+          0.15116279023762422
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ІНСАВ ВИНИТИ",
+        "bbox": [
+          0.1364605474379724,
+          0.8241279074367946,
+          0.9424307178925179,
+          0.8459821425031024
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1959",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_7",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SEIRA7",
+        "bbox": [
+          0.08718047398707729,
+          0.1560821057542314,
+          0.2091947895055432,
+          0.1738597549373534
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_7",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "péng tóu cè zuò méi lù rén jiè wèn pà dé yú jĩng | zhì zĩ tái | xiăo ér chuí diào táng hú lìng néng xué chui lún cáo ying yáo zhão shõu bú yìng 14 1 HH Là ® Ti Di 01. | shên | O#* **R**#. OHF FH/NET. 0:4H. OHt : 14.",
+        "bbox": [
+          0.08891973114013672,
+          0.2504541323610105,
+          0.9416425170898437,
+          0.5467907202922562
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "EMIA",
+        "bbox": [
+          0.13620132569387255,
+          0.6336299606982948,
+          0.21111587370079726,
+          0.6511858673573757
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1959",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "N44465**.",
+        "bbox": [
+          0.0894571783260783,
+          0.7758145086010312,
+          0.24742981238147604,
+          0.7968599095838425
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1959",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Mi#S",
+        "bbox": [
+          0.1065168365549094,
+          0.7991724190424419,
+          0.20478380432834692,
+          0.8171066505734942
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1959",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1959_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0851175537109375,
+          0.9312855264980395,
+          0.15471795654296874,
+          0.9542359938363024
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_lecture1_page_005",
+    "primary_id": "docling_PPT_lecture1_page_005_0",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_PPT_lecture1_page_005_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "System of linear equations",
+        "bbox": [
+          0.07703488088195061,
+          0.118863047845298,
+          0.5799418618506076,
+          0.19400352827701786
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_lecture1_page_005_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A collection of one or more equations involving the same variables.",
+        "bbox": [
+          0.07558142195552038,
+          0.2790697690930051,
+          0.9186046313002935,
+          0.33074935338761513
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_lecture1_page_005_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Example:",
+        "bbox": [
+          0.07699358415926269,
+          0.35368493459668804,
+          0.19044827421450433,
+          0.40083702828554524
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_lecture1_page_005_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.08333332578125012,
+          0.42118863157394365,
+          0.74563953443946,
+          0.6888888887747181
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_lecture1_page_005_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hence it is a system of equations involving the variables x1, X2, X3, X4.",
+        "bbox": [
+          0.07848839334201736,
+          0.7156084661420951,
+          0.9360465075300752,
+          0.7676366848369803
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

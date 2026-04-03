@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_145",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_145_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_145_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ЕЛЕН",
+        "bbox": [
+          0.03924418825408719,
+          0.062015503903232,
+          0.1831395342749825,
+          0.12661498679444244
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_145",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_145_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_145_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "DE XL A 15 105 1 17",
+        "bbox": [
+          0.37936046147950975,
+          0.19620811262717933,
+          0.6220930241955549,
+          0.25322997524253243
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_145",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_145_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_145_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "≥7. \"BEN\" 1 \"",
+        "bbox": [
+          0.11482558088589026,
+          0.6591710741897546,
+          0.8833332994255334,
+          0.9018087864684872
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_145_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8778439133096644,
+          0.8047730305989583,
+          0.9993891449603955,
+          0.996994873046875
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

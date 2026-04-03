@@ -1,0 +1,336 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(ii) Muscle activity: Electromyographic (EMG) activity of the upper trapezius and anterior deltoid was recorded bilaterally via a FlexComp/DSP system (Thought Technology Ltd., Montreal).",
+        "bbox": [
+          0.08316833212075586,
+          0.12499999977330845,
+          0.489108905750531,
+          0.204941860117011
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Reference contractions were recorded (15 s) while the participant was seated, using the following positions: trapezius arms held at 90° abduction in the coronal plane, elbows straight, forearm pronated, holding 1 kg weight; anterior deltoidarms held at 90° shoulder flexion, forearms pronated, elbows straight holding 1 kg weight.",
+        "bbox": [
+          0.5168316960957207,
+          0.20486111131963416,
+          0.9207920753253543,
+          0.31831395395225615
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_3",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2.4.1. Electrogoniometry",
+        "bbox": [
+          0.07895877893378908,
+          0.22035607893117842,
+          0.27750857701843246,
+          0.2377125919696926
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Bilateral twin axis electrogoniometers (XM65 sensors) were used to measure wrist flexion extension and ulnar/radial deviation. The goniometers were taped to the forearm using doublesided medical tape and adhesive tape. The goniometers were positioned while the participants were sitting, elbows at 90° with their wrist in neutral and forearms in pronation resting on the desk surface. Reference lines were drawn over anatomical landmarks to enable accurate positioning of the goniometers (Bucholz and Wellman, 1997; Biometrics, 1999). Left and right electrogoniometers were calibrated in a neutral position. Reference position (0° flexion and deviation) was defined as the wrist angles when the forearms were supported on the tabletop, elbows at 90°, forearms in pronation.",
+        "bbox": [
+          0.08098321966690568,
+          0.23834325392304834,
+          0.4813520117401401,
+          0.5087209296712745
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_13",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_13",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2.4.5. Data collection",
+        "bbox": [
+          0.5188118825514629,
+          0.3343023258381386,
+          0.6910891100086499,
+          0.3489583331280251
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The 30s samples were taken at 0, 5, 10 and 15 min during keyboard use and continually during mouse use. Root-mean-square (RMS) values of raw EMG signals were calculated for each of the recorded epochs. A 20 Hz highpass filter eliminated low frequency artifact, such as movement and a 50Hz notch filter eliminated mains noise. Electromyographic signals were sampled at a rate of 992 Hz. RMS values of raw EMG signals were calculated with an averaging constant of 65 ms, for each recorded sample. Mean RMS values were calculated for each task for each participant. These mean values were represented as a proportion of the reference contraction (%RC). Paired t-tests were applied to mean EMG values (%RC) for each task. 95% confidence intervals of the effect size statistic (d) were calculated.",
+        "bbox": [
+          0.5188118816439917,
+          0.35019841282809455,
+          0.9209816029768016,
+          0.6220930229125535
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_5",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2.4.2. Keyboard",
+        "bbox": [
+          0.07914986951237737,
+          0.5273570498920841,
+          0.20995904216783506,
+          0.5438638807433211
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Four 30s samples of kinematic data were collected at 0, 5, 10 and 15 min into the keyboard task. Data was filtered at 80 Hz, a sampling rate of 31 samples/s was used, with an averaging constant of 500 ms.",
+        "bbox": [
+          0.08114441370049022,
+          0.5436046510582238,
+          0.4811881140731618,
+          0.6222286831048939
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_7",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2.4.3. Mouse",
+        "bbox": [
+          0.08118812494557069,
+          0.6408730158355674,
+          0.1881188093118549,
+          0.6526162789553104
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_15",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_15",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3. Results",
+        "bbox": [
+          0.5167767233790468,
+          0.6568016454946111,
+          0.6020351556809479,
+          0.671686726679846
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Data was collected continuously throughout a 2 min task for each of the two test conditions.",
+        "bbox": [
+          0.08301497186062928,
+          0.6569767440875358,
+          0.4792079250864568,
+          0.6861266279969537
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Maximum and mean angles, standard deviations and 95% confidence intervals of the effect size statistic (d) were calculated for each participant for each trial for each angle. Paired t-tests were used to assess the probability of obtaining effects of the observed magnitude given a null hypothesis of zero effect.",
+        "bbox": [
+          0.08118811977804073,
+          0.6875000000767876,
+          0.4792079178064008,
+          0.7994186043805769
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_16",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_16",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3.1. Electrogoniometry",
+        "bbox": [
+          0.5188118819265028,
+          0.6889534886329891,
+          0.702970299974487,
+          0.7034883717158481
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_17",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_17",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3.1.1. Keyboard",
+        "bbox": [
+          0.5188118853798088,
+          0.7209302321669299,
+          0.6514851476399931,
+          0.736918604788012
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.1.1.1. Wrist extension. There were no significant differences for right wrist flexion/extension between use of a wrist rest and no wrist rest. Left wrist extension was significantly higher without a wrist rest than with a wrist rest (Table 1). There were no significant differences between the right and left hands for wrist extension.",
+        "bbox": [
+          0.5188118819195988,
+          0.7368551587539937,
+          0.9209727570524977,
+          0.8474702376493226
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_10",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_10",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2.4.4. Electromyography",
+        "bbox": [
+          0.0792079267403639,
+          0.8182043648823435,
+          0.27722772177448746,
+          0.8328488367812549
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Silver-silver chloride surface electrodes (Thought Technology Ltd., Montreal) were positioned over the horizontal fibers of middle trapezius, a quarter of the distance from the acromion to the seventh cervical vertebra. Electrodes were positioned 6mm apart over the belly of anterior deltoid (Basmajian and De Luca, 1985). All electrodes remained in situ throughout and between the test periods.",
+        "bbox": [
+          0.07920792952089756,
+          0.8328373015081811,
+          0.47920791405009466,
+          0.895348837307813
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.ergon.2003.12.002.pdf_5_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.1.1.2. Ulnar deviation. No differences with respect to use of a wrist rest were found for the left",
+        "bbox": [
+          0.5188118941152399,
+          0.866279069999268,
+          0.9207920743204038,
+          0.896825396903206
+        ],
+        "order": 20
+      }
+    ]
+  }
+]

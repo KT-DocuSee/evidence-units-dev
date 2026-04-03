@@ -1,0 +1,120 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_33",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_6",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "EItH | #IZ",
+        "bbox": [
+          0.07259932322482185,
+          0.1413997303355824,
+          0.9770150284388075,
+          0.3665092679351686
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "(2) FAILER*THEE:",
+        "bbox": [
+          0.12676415902288402,
+          0.3735373438258734,
+          0.4142792747274305,
+          0.39843465051033716
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "( ЕНЕ: ДОВО РИНУТ",
+        "bbox": [
+          0.12295082634124338,
+          0.5639534886777101,
+          0.5122950704312976,
+          0.5858134921490846
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_33",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2) =517",
+        "bbox": [
+          0.12493883739855613,
+          0.5942991313114645,
+          0.2418644393444372,
+          0.6150031944696511
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_33",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_7",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Sama | #THI | FESI | #EI",
+        "bbox": [
+          0.10490688818767979,
+          0.6148355958961216,
+          0.9645349989376307,
+          0.6811027677634017
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_33",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_33_8",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "PIERRETT | PIERRETT | PIERRETT | PIERRETT | ##* | € ta | 19 ж | FERRI | 219 kg",
+        "bbox": [
+          0.0581487126263947,
+          0.7095984658704916,
+          0.9623138981051691,
+          0.8983425698261487
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For consistency, the time derivative of the constraints of (10) must vanish and hence they must have vanishing Poisson bracket with H. Using the fundamental Poisson brackets",
+        "bbox": [
+          0.07873727456320836,
+          0.12006907502637414,
+          0.9173808036317997,
+          0.15379634329220956
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "etc., we find that the primary constraints of (10) imply the secondary constraints",
+        "bbox": [
+          0.07873727456320836,
+          0.18752361155804498,
+          0.6701823834914944,
+          0.20506179105627942
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If 2 = 0 (the Cremmer-Scherk model Lagrangian [1]), the constraints of (14) would become reducible as then ∂i ∑i = 0 and only the transverse portions of ∑i are constraints. Furthermore, with 2 ≠ 0, the requirement i = 0 leads to a tertiary constraint",
+        "bbox": [
+          0.07873727456320836,
+          0.24013815005274827,
+          0.9210430024486931,
+          0.28735632562491786
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with ∑i and Tk constituting second class constraints as",
+        "bbox": [
+          0.08056837397165506,
+          0.3224326846213867,
+          0.4870724426468238,
+          0.3386217733889877
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "All other constraints are first class and no further constraints need to be imposed for consistency. There are consequently ive first class constraints (φU, φ and Σ) and six second class constraints (∑i and Tk). The con- straints φU and ∑ correspond to the usual gauge transformations δ Wo = ∂0Ω, δ Wi = ∂iΩ2 associated with a gauge field W, while ΦA is associated with the fact that in (12) Ak acts merely as a Lagrange multiplier (i.e., i is not dynamical) and hence its value is completely arbitrary. Suitable gauge conditions associated with the first class constraints are",
+        "bbox": [
+          0.07873727456320836,
+          0.37234904165482313,
+          0.9192119030402464,
+          0.4708326649910626
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "From (10), (14), (15) and (17) it is evident that the only dynamical degrees of freedom are",
+        "bbox": [
+          0.07690617515476166,
+          0.5059090239875315,
+          0.7434263598293627,
+          0.5220981127551324
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We can verify this directly by explicitly eliminating the non-physical degrees of freedom in (4). First, one decomposes Vk, Ak and Bk into transverse (T) and longitudinal (L) parts where",
+        "bbox": [
+          0.07873727456320836,
+          0.5558253810209679,
+          0.9192119030402464,
+          0.5895526492868033
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "etc. (4) now becomes",
+        "bbox": [
+          0.08056837397165506,
+          0.6232799175526388,
+          0.2453673207318586,
+          0.6381199155896063
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The equations of motion for AL and U, respectively, imply that",
+        "bbox": [
+          0.08056837397165506,
+          0.6974799077374767,
+          0.5493298225340117,
+          0.7150180872357111
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "reducing (20) to",
+        "bbox": [
+          0.08056837397165506,
+          0.7487453555015465,
+          0.20325203433758438,
+          0.7649344442691476
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since",
+        "bbox": [
+          0.08056837397165506,
+          0.8000108032656164,
+          0.12451475977437601,
+          0.8161998920332174
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.06.101.pdf_3_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "we can eliminate ∇ × AT from (22) to obtain",
+        "bbox": [
+          0.07873727456320836,
+          0.8512762510296863,
+          0.41932176453429565,
+          0.8688144305279206
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

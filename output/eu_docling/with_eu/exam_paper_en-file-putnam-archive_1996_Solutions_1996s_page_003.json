@@ -1,0 +1,481 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "tiating and taking square roots,",
+        "bbox": [
+          0.12781955842886436,
+          0.06969246022945051,
+          0.3327067624827897,
+          0.08139534877120189
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2687360699074061,
+          0.10438726402496627,
+          0.40419626362468686,
+          0.203488372197169
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-4 Suppose such a matrix A exists. If the eigenvalues of A (over the complex numbers) are distinct, then there exists a complex matrix C such that B = CAC-' is diagonal. Consequently, sinB is diagonal. But then sin A = C-'(sin B)C must be diagonalizable, a contradiction. Hence the eigenvalues of A are the same, and A has a conjugate B = CAC-' over the complex numbers of the form",
+        "bbox": [
+          0.5244360893483709,
+          0.1366279071877687,
+          0.919318754338996,
+          0.24874935314075505
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "using the fact that 1 < e < 3.",
+        "bbox": [
+          0.1278195590632628,
+          0.23685515874993876,
+          0.319548868380346,
+          0.2500000000197802
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-3 View x1,...,Xn as an arrangement of the numbers 1,2, ...,n on a circle. We prove that the optimal arrangement is",
+        "bbox": [
+          0.09586466658834576,
+          0.26162790687823345,
+          0.49060150869360897,
+          0.3064887543942745
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6823308268848673,
+          0.2616279072504426,
+          0.7537593976138794,
+          0.2921511620082784
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A direct computation shows that",
+        "bbox": [
+          0.560150382792281,
+          0.3052325581328678,
+          0.7725563894351625,
+          0.3169642858616358
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1804511311810575,
+          0.3182043648836758,
+          0.3984962299718248,
+          0.3299418605444577
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6278195510103384,
+          0.3328373020388523,
+          0.7988721825892856,
+          0.36046511547648047
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To show this, note that if a, b is a pair of adjacent numbers and c,d is another pair (read in the same order around the circle) with a < d and b > c, then the segment from b to c can be reversed, increasing the sum by",
+        "bbox": [
+          0.12593984943875414,
+          0.3444767440875357,
+          0.49060151260400175,
+          0.41715116299822014
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since sinA and sin B are conjugate, their eigenvalues must be the same, and so we must have sin x = 1. This implies cos.x = 0, so that sin B is the identity matrix, as must be sinA, a contradiction. Thus A cannot exist.",
+        "bbox": [
+          0.556390979180146,
+          0.37351190488341857,
+          0.9191729396638392,
+          0.430307539498352
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.15789473947368418,
+          0.4302325581764725,
+          0.42105263421052636,
+          0.44196428590524045
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Alternate solution (due to Craig Helfgott and Alex Popa): Define both sinA and cos A by the usual power series. Since A commutes with itself, the power series identity",
+        "bbox": [
+          0.5545112793992744,
+          0.43750000017401836,
+          0.9210526389119592,
+          0.4941860465992374
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now relabel the numbers so they appear in order as follows:",
+        "bbox": [
+          0.1278195507543041,
+          0.4563492062105247,
+          0.4906015069761984,
+          0.48255813942042686
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1691729447355645,
+          0.5014534884754382,
+          0.40977443170553796,
+          0.5116567459150667
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_19",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6540843846691596,
+          0.5041382228871353,
+          0.780126144703684,
+          0.5220245682357961
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where without loss of generality we assume an-1 > an-2. By considering the pairs An-2, An and An-1, An-3 and using the trivial fact an > An-1, We deduce an-2 > An-3. We then compare the pairs an-4, an-2 and an-1, An-3, and using that an-1 > an-2, we deduce An-3 > An-4. Continuing in this fashion, we prove that an> an-1>... > a1 and so ak = k fork = 1,2,...,n, i.e. that the optimal arrangement is as claimed. In particular, the maximum value of the sum is",
+        "bbox": [
+          0.12781954002757723,
+          0.5247093021180591,
+          0.49060151109241035,
+          0.6526162789553104
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_20",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "holds. But if sinA is the given matrix, then by the above identity, cos A must equal 0-2.1996) which isa nilpotent matrix. Thus cosA is also nilpotent. However, the square of any 2 x 2 nilpotent matrix must be zero (e.g., by the Cayley-Hamilton theorem). This is a contradiction.",
+        "bbox": [
+          0.5563909799912199,
+          0.5348837208135532,
+          0.9210526404235507,
+          0.6337209301665507
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_21",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B-S Consider a 1 X n checkerboard, in which we write an n-letter string, one letter per square. If the string is balanced, we can cover each pair of adjacent squares containing the same letter with a 1 x 2 domino, and these will not overlap (because no three in a row can be the same). Moreover, any domino is separated from the next by an even number of squares, since they must cover opposite letters, and the sequence must alternate in between.",
+        "bbox": [
+          0.5244361108270267,
+          0.6468023258893192,
+          0.9210526389119592,
+          0.7765085422062363
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_11",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1052631701193365,
+          0.671511627808466,
+          0.4736841984661899,
+          0.7732558140812795
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Conversely, any arrangement of dominoes where adjacent dominoes are separated by an even number of squares corresponds to a unique balanced string, once we choose whether the string starts with X or O. In other words, the number of balanced strings is twice the number of acceptable domino arrangements.",
+        "bbox": [
+          0.5563909860318328,
+          0.7819767440511987,
+          0.9210526177812711,
+          0.8663194443375654
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Alternate solution: We prove by induction that the value given above is an upper bound; it is clearly a lower bound because of the arrangement given above. Assume this is the case for n - 1. The optimal arrangement for n is obtained from some arrangement for n - 1 by inserting n between some pair x, y of adjacent terms. This operation increases the sum by nx + ny - xy = n? - (n -x)(n- y), which is an increasing function of both x and y. In particular, this difference is maximal when x and y equal n - 1 and n - 2. Fortunately, this yields precisely the difference between the claimed upper bound for n and the assumed upper bound for n - 1, completing the induction.",
+        "bbox": [
+          0.12769179354475232,
+          0.789186508163089,
+          0.49072369260153587,
+          0.9186507934617715
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_003_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We count these arrangements by numbering the squares 0,1, ...,n - 1 and distinguishing whether the dominoes start on even or odd numbers. Once this is decided, one",
+        "bbox": [
+          0.5582706830989893,
+          0.8735119048652501,
+          0.9191729346077774,
+          0.91569767420758
+        ],
+        "order": 24
+      }
+    ]
+  }
+]

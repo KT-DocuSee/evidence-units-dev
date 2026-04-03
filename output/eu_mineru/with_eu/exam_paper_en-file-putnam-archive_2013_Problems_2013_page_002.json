@@ -1,0 +1,143 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B4 For any continuous real-valued function f defined on the interval [0, 1], let",
+        "bbox": [
+          0.1011764705882353,
+          0.06666666666666667,
+          0.49019607843137253,
+          0.09636363636363636
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5552941176470588,
+          0.06666666666666667,
+          0.92,
+          0.1103030303030303
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "– places a stone in an empty space, or – removes a stone from a nonempty space s, places a stone in the nearest empty space to the left of s (if such a space exists), and places a stone in the nearest empty space to the right of s (if such a space exists).",
+        "bbox": [
+          0.5764705882352941,
+          0.1206060606060606,
+          0.92,
+          0.21272727272727274
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Show that if f and g are continuous real-valued func- tions defined on the interval [0, 1], then",
+        "bbox": [
+          0.12549019607843137,
+          0.17575757575757575,
+          0.4886274509803922,
+          0.20545454545454545
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Furthermore, a move is permitted only if the resulting position has not occurred previously in the game. A player loses if he or she is unable to move. Assuming that both players play optimally throughout the game, what moves may Alice make on her first turn?",
+        "bbox": [
+          0.5576470588235294,
+          0.2224242424242424,
+          0.9192156862745098,
+          0.29454545454545455
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B5 Let X = {1, 2, . .,n}, and let k ∈ X. Show that there are exactly k · nn−1 functions f : X → X such that for every x ∈ X there is a j ≥ 0 such that f(i) (x) ≤ k. [Here f(i) denotes the jh iterate of f, so that f(0(x) = x and f(j+1)(x) = f(f ()()d)",
+        "bbox": [
+          0.10196078431372549,
+          0.24909090909090909,
+          0.49019607843137253,
+          0.32727272727272727
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2013_Problems_2013_page_002_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B6 Let n ≥ 1 be an odd integer. Alice and Bob play the fol- lowing game, taking alternating turns, with Alice play- ing first. The playing area consists of n spaces, arranged in a line. Initially all spaces are empty. At each turn, a player either",
+        "bbox": [
+          0.1011764705882353,
+          0.33575757575757575,
+          0.4894117647058824,
+          0.3654545454545455
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

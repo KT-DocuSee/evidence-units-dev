@@ -1,0 +1,211 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_9",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "TABLE 5: WEAPONS",
+        "bbox": [
+          0.08646616838354407,
+          0.06540697640748208,
+          0.3063909776153817,
+          0.0813953490285643
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight Type Special | Slingshot, Halfling | 15 gP | 1d4 | 1d6 | 19-20/x2 | 75 ft. | 1lb. | B | Bullets, Slingshot (10) | 1 sp | - | 5 Ibs. | - | Sling-staff, Halfling | 25 gP | 2d3/1d6 | 2d4/1d8 | 19-20/x2 | 50 ft. | 2 lbs. | B/B | - | Bullets, Sling-staff (10) | 1Sp | - | - | - | - | 5 lbs.",
+        "bbox": [
+          0.08834028356215533,
+          0.08607878945090554,
+          0.911333438648897,
+          0.17440736250443892
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_10",
+    "source": "visual_seed",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "TABLE 6: MUNDANE GEAR",
+        "bbox": [
+          0.08646616702172095,
+          0.20783730183658897,
+          0.3759398512322473,
+          0.225290697967711
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_10",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Item | Cost | Weight | Halfling Blueberry Ale | 7 cp/5 sp/2 gp | - | (sold by pint bottle, 1-gallon keg, and 5-gallon keg) | Halfling Cloak | 25 gp (50 gp) | 2 lbs. (3 Ibs.) | Halfling Pouch Belt | 10 gp (15 gP) | 1 lb. (1 ½/ Ibs.) | Halfling Tobacco | 7 Sp | 11b. | Halfling Tri-flute | 9 gp | -",
+        "bbox": [
+          0.08825412525850183,
+          0.22823573719371448,
+          0.9133367560891544,
+          0.35632307572798294
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "flutes, each of varying lengths, connected with leather bands. There are four fingerholes on the longest pipe, three on the shortest and none on the middle pipe. A single mouthpiece connects to all three pipes.",
+        "bbox": [
+          0.5093985124852433,
+          0.3807043650811976,
+          0.9135338380425984,
+          0.4404761903183395
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "allows a traveler to walk or ride in the rain or snow without getting soaked to the bone. Wearers of these cloaks benefit from condition similar to that provided by endure elements, though it only protects from cold brought on specifically due to exposure to rain and/or snow.",
+        "bbox": [
+          0.08646617071412091,
+          0.38070436529858914,
+          0.4868421064686797,
+          0.46951674566533425
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Occasionally, halflings may make these cloaks for the \"big folk\". For anyone larger than a halfling, use the cost and weight in parenthesis.",
+        "bbox": [
+          0.08646616535194321,
+          0.4709302333482266,
+          0.48684209960509234,
+          0.5159883715317396
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Halfling Pouch Belt: The halfling pouch belt is a sturdy but supple leather belt with six leather pouches sewn to it. Each pouch closes via a brass button, and each can hold about as much as a standard halflingsized belt pouch. The organization the pouches afford means items may be retrieved quickly. One item per round may be accessed as a swift action. Accessing any other items from the pouches - or placing them in the pouches - takes a normal move action.",
+        "bbox": [
+          0.08632425741782948,
+          0.5158730158671492,
+          0.48709417791385806,
+          0.6526663970736405
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Occasionally, halflings may make these belts for the \"big folk\". For anyone larger than a halfling, use the cost and weight in parenthesis.",
+        "bbox": [
+          0.08646616487530522,
+          0.6540178573687483,
+          0.4868420991284542,
+          0.6845930235319558
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Halfling Tobacco: Also known as pipeweed, halfling leaf or sometimes just leaf, halfling tobacco has been perfected over many decades to be very mild, very sweet and slow burning.",
+        "bbox": [
+          0.25751880135713473,
+          0.6989491322214687,
+          0.4868421054454109,
+          0.8040366231162072
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Halfling Tri-Flute: The halfling tri-flute may be a variant or descendant of the aulos or panpipe, or it may be unique creation altogether. It consists of three short wooden",
+        "bbox": [
+          0.29135339149873063,
+          0.8050415690418565,
+          0.48709404992761796,
+          0.922965116322074
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_12",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_12",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5105384736902574,
+          0.5945349675958806,
+          0.9112633559283089,
+          0.9238959295099431
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Player%27s%20Options%20-%20Halflings.pdf_11_11",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08505696016199449,
+          0.6949417391690341,
+          0.30111541748046877,
+          0.9278118341619318
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

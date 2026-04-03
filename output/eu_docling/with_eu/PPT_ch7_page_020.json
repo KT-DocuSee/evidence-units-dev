@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_020",
+    "primary_id": "docling_PPT_ch7_page_020_1",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_020_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Our examples show that in matrix products the order of factors must always be observed very carefully.",
+        "bbox": [
+          0.05523257336958394,
+          0.1143410850425956,
+          0.8880813954829296,
+          0.21705426343777845
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_ch7_page_020_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Otherwise matrix multiplication satisfies rules similar to those for numbers, namely.",
+        "bbox": [
+          0.05959303493297532,
+          0.22286821848286764,
+          0.8924418519157963,
+          0.32374338555441834
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_ch7_page_020_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.054166671354166515,
+          0.34986772438394853,
+          0.8668310320310593,
+          0.5999999991713364
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_ch7_page_020_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "provided A, B, and C are such that the expressions on the left are defined; here, k is any scalar. (2b) is called the associative law. (2c) and (2d) are called the distributive laws.",
+        "bbox": [
+          0.05725029613159115,
+          0.649140210826659,
+          0.9084302246707031,
+          0.8497659738571376
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

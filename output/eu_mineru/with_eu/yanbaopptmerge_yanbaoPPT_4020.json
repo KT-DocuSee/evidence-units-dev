@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4020",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4020_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4020_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8206666666666667,
+          0.0,
+          0.998,
+          0.9964444444444445
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4020",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4020_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4020_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "同学们，通过学匀丽 才的古诗，你都学会了哪些字？",
+        "bbox": [
+          0.15466666666666667,
+          0.1928888888888889,
+          0.7786666666666666,
+          0.352
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4020",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4020_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4020_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "山村 一去二三里， 烟村四五家。 亭台六七座， 八九十枝花",
+        "bbox": [
+          0.37,
+          0.4186666666666667,
+          0.6226666666666667,
+          0.8897777777777778
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "mineru_PPT_StewartCalcET7e_03_02_page_015_0",
+    "text": "SO",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056666666666666664,
+      0.232,
+      0.09733333333333333,
+      0.2702222222222222
+    ],
+    "page": "PPT_StewartCalcET7e_03_02_page_015",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_StewartCalcET7e_03_02_page_015_1",
+    "text": "As ∆x → 0, ∆v → 0 also, because v = g(x) is differentiable and therefore continuous.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.054,
+      0.4782222222222222,
+      0.918,
+      0.5822222222222222
+    ],
+    "page": "PPT_StewartCalcET7e_03_02_page_015",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_StewartCalcET7e_03_02_page_015_2",
+    "text": "Thus, using the Limit Laws, we get",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05733333333333333,
+      0.6586666666666666,
+      0.576,
+      0.712
+    ],
+    "page": "PPT_StewartCalcET7e_03_02_page_015",
+    "order": 3
+  }
+]

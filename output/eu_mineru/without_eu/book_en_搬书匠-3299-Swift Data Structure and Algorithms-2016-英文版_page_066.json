@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_0",
+    "text": "Implementing subscripting",
+    "canon_role": "section_header",
+    "bbox": [
+      0.10283687943262411,
+      0.10877003421573923,
+      0.5780141843971631,
+      0.1411849450747344
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_1",
+    "text": "Subscripts can be defined for classes, structures, and enumerations. They are used to provide a shortcut to elements in collections, lists, and sequence types by allowing terser syntax. They can be used to set and get elements by specifying an index instead of using separate methods to set or retrieve values.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10283687943262411,
+      0.1476679272465334,
+      0.8652482269503546,
+      0.2225823878984333
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_2",
+    "text": "Subscript syntax",
+    "canon_role": "section_header",
+    "bbox": [
+      0.10283687943262411,
+      0.2614802809292274,
+      0.374113475177305,
+      0.2917341977309562
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_3",
+    "text": "You can define a subscript that accepts one or more input parameters, the parameters can be of different types, and their return value can be of any type. Use the s ub s cript keyword to define a subscript, which can be defined as read-only, or provide a getter and setter to access elements:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10195035460992907,
+      0.29749684855033315,
+      0.874113475177305,
+      0.37313164055465514
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_4",
+    "text": "class MovieList { private var tracks = [\"The Godfather\", \"The Dark Knight\", \"Pulp Fiction\"] subscript(index: Int) -> String { get { return self.tracks [index] } set { self.tracks[index] = newValue } } var movieList = MovieList () var aMovie = movieList [0] // The Godfather movieList[1] = \"Forest Gump\" aMovie = movieList[1] // Forest Gump",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1320921985815603,
+      0.3875382676030974,
+      0.8439716312056738,
+      0.7311363227084459
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_5",
+    "text": "Subscript options",
+    "canon_role": "section_header",
+    "bbox": [
+      0.10283687943262411,
+      0.7664325589771295,
+      0.3882978723404255,
+      0.7966864757788583
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066_6",
+    "text": "Classes and structures can return as many subscript implementations as needed. The support for multiple subscripts is known as subscript overloading, the correct subscript to be used will be inferred based on the subscript value types.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10283687943262411,
+      0.8024491265982352,
+      0.8847517730496454,
+      0.8593553034395822
+    ],
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_066",
+    "order": 7
+  }
+]

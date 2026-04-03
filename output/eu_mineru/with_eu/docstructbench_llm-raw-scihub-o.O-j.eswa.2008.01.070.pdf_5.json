@@ -1,0 +1,153 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.21664651261433202,
+          0.08062484376945073,
+          0.7910116855918634,
+          0.6739733033852522
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5206234024065343,
+          0.867976833705493,
+          0.94551927598348,
+          0.8969513869351393
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "as input 1 of the training matrix has six different values, six processing units are built. However, the actual value is rep- resented by a string, which is not a suitable input type for the FANN. Thus, such values are converted to a stream of O's and 1's. Table 1 illustrates the codifi cation for the raw material family.",
+        "bbox": [
+          0.07053607387443368,
+          0.7168052516377729,
+          0.49375251712103574,
+          0.8075082008784049
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 Codification of the raw material family set",
+        "bbox": [
+          0.5206234024065343,
+          0.7193247780055682,
+          0.7674996609670521,
+          0.7432602784996238
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5206234024065343,
+          0.7445200416835216,
+          0.94551927598348,
+          0.845301096395335
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The prior codification is necessary because FANNs only handle values within the closed interval [0, 1]. Therefore, the actual input and output values that the net receives and obtains are 0's and 1's. This codification—decodifica- tion is done by the encoder class attached to the machine agent (see Fig. 5). Therefore, the FANN has six processing units in the input layer, which are in charge of dealing exclusively with the raw material family. The totality of dis- crete values contained in the input and output sets were codified in a similar way. Tables 2–6 show the resultant codification.",
+        "bbox": [
+          0.07053607387443368,
+          0.8087679640623026,
+          0.49375251712103574,
+          0.9423028615554554
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consequently, the number of processing units in the input layer of the FANN equals the number of codified input values. For this case, 25 processing units in the input",
+        "bbox": [
+          0.5223028327368779,
+          0.8994709133029347,
+          0.94551927598348,
+          0.9423028615554554
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

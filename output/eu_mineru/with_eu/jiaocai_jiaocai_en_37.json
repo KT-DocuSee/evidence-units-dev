@@ -1,0 +1,149 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocai_jiaocai_en_37",
+    "primary_id": "mineru_jiaocai_jiaocai_en_37_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2. (18%) On FA and Regular Languages",
+        "bbox": [
+          0.12817412333736397,
+          0.086076670941998,
+          0.5296251511487303,
+          0.10374804047313667
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Say whether each of the following languages is regular or not regular? Prove your answers.",
+        "bbox": [
+          0.14671503426037888,
+          0.10545817300840815,
+          0.8738411930673116,
+          0.139090779535414
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(a) L1 = {ω|w ∈ {0, 1}* and ω has an equal number of Os and 1s}. (b) L2 = {w|w ∈ {0, 1}* and w has an equal number of 01s and 10s}.",
+        "bbox": [
+          0.15800080612656187,
+          0.14479122131965227,
+          0.7617896009673518,
+          0.18697449052301554
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "jiaocai_jiaocai_en_37",
+    "primary_id": "mineru_jiaocai_jiaocai_en_37_3",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3. (20%) On PDA and Context-Free Languages",
+        "bbox": [
+          0.12898024989923418,
+          0.4993587002992732,
+          0.6013704151551794,
+          0.516460025651988
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let L3 = {wcambn|ω ∈ {a, b}, where ν = wR, and m, n ∈ N, n ≤ m ≤ 2n}.",
+        "bbox": [
+          0.14993954050785974,
+          0.5176001140088357,
+          0.8117694478033051,
+          0.5358415277183982
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(a) Give a context-free grammar for the language L3. (b) Design a PDA M = (K, Σ, Γ, ∆, s, F) accepting the language L3.",
+        "bbox": [
+          0.1596130592503023,
+          0.5409719253242127,
+          0.758565094719871,
+          0.5820151061707283
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Solution: (a)",
+        "bbox": [
+          0.1539701733172108,
+          0.5871455037765427,
+          0.27972591696896415,
+          0.6042468291292575
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(b) The PDA M = (K, Σ, Γ, ∆, s, F) is defined below:",
+        "bbox": [
+          0.1539701733172108,
+          0.6601111586147926,
+          0.6207174526400645,
+          0.6794926606812028
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocai_jiaocai_en_37",
+    "primary_id": "mineru_jiaocai_jiaocai_en_37_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocai_jiaocai_en_37_8",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2426440951229343,
+          0.6880433233575602,
+          0.785167271261588,
+          0.9343024084366538
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

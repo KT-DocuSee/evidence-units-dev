@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63684502.pdf_263",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63684502.pdf_263_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63684502.pdf_263_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ДИ, ОДА ЕННА, О ПАВ, ПИКА -TAK ROD.",
+        "bbox": [
+          0.1826568258827166,
+          0.16133720955746572,
+          0.8929889227216359,
+          0.20494185992212216
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63684502.pdf_263_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "AET | (HAME ) | MV 722111K TI*E | 1 71X7 M | MAKES. MINABYS",
+        "bbox": [
+          0.10532618092966604,
+          0.2695881446632179,
+          0.8938997708834134,
+          0.47823318069045606
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63684502.pdf_263",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63684502.pdf_263_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63684502.pdf_263_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "E*NT-M | 1840+101048 | HE SIT",
+        "bbox": [
+          0.10508862170544299,
+          0.5203273133973818,
+          0.8944481650551597,
+          0.7657962943412162
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63684502.pdf_263_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "513",
+        "bbox": [
+          0.12730628527785598,
+          0.8008720931926084,
+          0.49630995615598694,
+          0.8226744182899498
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

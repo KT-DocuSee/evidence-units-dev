@@ -1,0 +1,185 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_1",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Grammar Focus",
+        "bbox": [
+          0.09732360097323602,
+          0.08985919949375099,
+          0.31497456314974565,
+          0.14934345831355797
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1627958416279584,
+          0.15250751463376047,
+          0.8537934085379341,
+          0.23856984654326846
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4a",
+        "bbox": [
+          0.09555408095554081,
+          0.24996044929599748,
+          0.13979208139792082,
+          0.279702578705901
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Use the words in brackets to complete the conversations.",
+        "bbox": [
+          0.15925680159256803,
+          0.25565575067236196,
+          0.7148860871488609,
+          0.27464008859357697
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sally (love) reading. In the morning, she reads the newspaper and in the evening she reads books. She already (read) more than 1oo different books! Her favorite kind of books is science fi ction. She is interested in science and technology and loves to imagine what the world (be) like in 50 years. She (finish) reading a book about robots last week and (write) a book report about it next week for her French class. Every time she is in the library, Sally looks at the many books she (not read) yet and she can't wait to read them!",
+        "bbox": [
+          0.15837204158372042,
+          0.54421768707483,
+          0.8210572882105729,
+          0.702420503084955
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A: What books have you already read? B: I've already read Tom Sawyer and Harry Potter. A: What do you think of them? B: Well, I think Harry Potter was exciting, but Tom Sawyer was a bit boring.",
+        "bbox": [
+          0.42114576421145766,
+          0.7188735959500079,
+          0.8688343286883433,
+          0.8080999841797184
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4c",
+        "bbox": [
+          0.09378456093784561,
+          0.7353266888150609,
+          0.14067684140676842,
+          0.7669672520170859
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Complete the chart with information about you and a friend.",
+        "bbox": [
+          0.15748728157487282,
+          0.7410219901914255,
+          0.40256580402565806,
+          0.7992406264831514
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "1. A: Would you like something to drink? B: No, thanks. I've just drunk some tea .(just/drink some tea) 2. A: I heard you lost your key. ?(fnd) B:No, not yet. 3. A: Do you know when Tom is leaving? B: . (already/leave) A: When ? (leave) B: This morning. 4. A: Is your sister going to the movies with us tonight? B:No. .(already/see the film) 5.A:What do your parents think about our plan? B:I .(not/tell them/yet)",
+        "bbox": [
+          0.15483300154833002,
+          0.28160101249802244,
+          0.8245963282459633,
+          0.5043505774402784
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Fill in the blanks with the correct forms of the words in brackets.",
+        "bbox": [
+          0.15748728157487282,
+          0.521436481569372,
+          0.7883211678832117,
+          0.5397880082265464
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_854",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_854_10",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09732360097323602,
+          0.8112640404999208,
+          0.8599867285998672,
+          0.9245372567631703
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_Catalysis.ppt_page_003",
+    "primary_id": "docling_PPT_Catalysis.ppt_page_003_0",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Activation energy",
+        "bbox": [
+          0.19331395485881306,
+          0.14715608398430596,
+          0.7093023199110513,
+          0.2288359781642001
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Molecules must be activated before they can undergo a reaction",
+        "bbox": [
+          0.03750000103496237,
+          0.2777777778217392,
+          0.4215116327446831,
+          0.4166666662169486
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Transition state",
+        "bbox": [
+          0.6031509236605174,
+          0.3775515757244854,
+          0.6846397751774831,
+          0.3976422225691778
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Reactants must absorb enough energy from surroundings to destabilize chemical bonds (energy of activation)",
+        "bbox": [
+          0.09011628412567739,
+          0.43022486723799797,
+          0.41279068724060175,
+          0.6661125366036666
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(reactants)",
+        "bbox": [
+          0.5609489252518262,
+          0.5730144960993183,
+          0.6221906087576564,
+          0.5917141862470008
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_Catalysis.ppt_page_003",
+    "primary_id": "docling_PPT_Catalysis.ppt_page_003_12",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_12",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5041176147460937,
+          0.3576793212890625,
+          0.9545604248046875,
+          0.7084374186197917
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AG:",
+        "bbox": [
+          0.581395348587277,
+          0.45155038771196065,
+          0.6090116280530885,
+          0.4806201545084159
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "GA",
+        "bbox": [
+          0.5203488376360171,
+          0.5290697668766429,
+          0.537790696957006,
+          0.5503875970380857
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Initial state",
+        "bbox": [
+          0.5610465125565071,
+          0.5484496130707296,
+          0.6206395353722719,
+          0.5678294571812084
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Final state",
+        "bbox": [
+          0.8080416651595475,
+          0.6429025158043372,
+          0.8634699619601912,
+          0.6632990347639073
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(products)",
+        "bbox": [
+          0.8052325576187014,
+          0.6666666663953768,
+          0.8677325576187014,
+          0.6879844965568195
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Transition state",
+        "bbox": [
+          0.04069767497258039,
+          0.6841085272580186,
+          0.3081395305091473,
+          0.7170542636334541
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_Catalysis.ppt_page_003",
+    "primary_id": "docling_PPT_Catalysis.ppt_page_003_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_003_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Intermediate stage in reaction where the reactant molecule is strained or distorted but the reaction has not yet occurred",
+        "bbox": [
+          0.09156976957528627,
+          0.7364341089902963,
+          0.420833325305796,
+          0.967400672612482
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

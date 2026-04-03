@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_0",
+    "text": "Generally, this is what we could do:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.043604662112763495,
+      0.02314814766690991,
+      0.681686046196345,
+      0.08139534806260508
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_6",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.527537109375,
+      0.09863929239908854,
+      0.7517584838867187,
+      0.5209781494140625
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_1",
+    "text": "Area of 1 rectangle = f(x) x h",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.033333335549122704,
+      0.161044974327341,
+      0.5708333234389726,
+      0.2222222230045897
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.03343023458214686,
+      0.2364341096920013,
+      0.7427325615716992,
+      0.5310846562801658
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_3",
+    "text": "Actual area under the curve = lim Ef(x)xh h→0",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.03343025107198547,
+      0.6044973557326939,
+      0.8255813842913866,
+      0.7073643412193291
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_4",
+    "text": "which is written as Jf(x) dx",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.03633722799440412,
+      0.7480158717874715,
+      0.5537790532555958,
+      0.8294573625259516
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_5",
+    "text": "(but evaluating this limit is incredibly complicated)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.029166684388408096,
+      0.8444444456804356,
+      0.9625000056115914,
+      0.9111111093195648
+    ],
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "order": 7
+  }
+]

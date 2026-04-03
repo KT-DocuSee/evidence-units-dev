@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15",
+    "primary_id": "docling_yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.83472727452988,
+          0.0005095377763112386,
+          0.9999002932842063,
+          0.17248561604817708
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "KPMG",
+        "bbox": [
+          0.27180232650149583,
+          0.9287211739509293,
+          0.3154069766961786,
+          0.9475890983761146
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15",
+    "primary_id": "docling_yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3477566326935279,
+          0.4251735432942708,
+          0.6694157366715217,
+          0.6580128580729167
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15",
+    "primary_id": "docling_yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_7f386f737cb55cffa10c8321a94bd38d7169cd69b3b253b9e2e502c12a68feea.pdf_15_2",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.27113962635556066,
+          0.9195492350260417,
+          0.31516062019605157,
+          0.94766845703125
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_142",
+    "primary_id": "docling_PPT_ch7_page_142_1",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_PPT_ch7_page_142_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(continued 3)",
+        "bbox": [
+          0.059593025514873596,
+          0.1607142856252085,
+          0.22093022707233578,
+          0.19186046505653848
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_ch7_page_142_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The transpose AT of a matrix A = [aik] is AT = [ajkl; rows become columns and conversely (Sec. 7.2). Here, A need not be square. If it is and A = AT, then A is called symmetric; if A = -AT, it is called skew-symmetric.",
+        "bbox": [
+          0.05813955509608636,
+          0.23643410796084693,
+          0.946220936584324,
+          0.45598471232867926
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_ch7_page_142_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For a product, (AB) = B'A\" (Sec. 7.2).",
+        "bbox": [
+          0.060844035681951375,
+          0.44923630325230873,
+          0.6149408025625318,
+          0.5010130681371363
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_ch7_page_142_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A main application of matrices concerns linear systems of equations",
+        "bbox": [
+          0.06072197314529754,
+          0.5076058205063089,
+          0.9433139372418003,
+          0.601120474310564
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_ch7_page_142_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.05668604561772028,
+          0.6286875830874449,
+          0.8911906172326076,
+          0.673637997674395
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_ch7_page_142_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(m equations in n unknowns X1, ... , X,; A and b given).",
+        "bbox": [
+          0.056686055946712374,
+          0.699612403298871,
+          0.8677325351870087,
+          0.7480620154672789
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

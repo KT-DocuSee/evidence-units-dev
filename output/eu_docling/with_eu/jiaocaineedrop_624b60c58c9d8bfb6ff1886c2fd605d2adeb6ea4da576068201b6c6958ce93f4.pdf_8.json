@@ -1,0 +1,247 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8",
+    "primary_id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_14",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_14",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.06755566814387823,
+          0.15690782335069445,
+          0.657006093868731,
+          0.6877081190714321
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Christy Klinge",
+        "bbox": [
+          0.840038721387357,
+          0.46668337461494674,
+          0.934670582513969,
+          0.4890858560148638
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rick Rediske",
+        "bbox": [
+          0.8401162817065346,
+          0.49230769212333236,
+          0.9258720916115718,
+          0.509615384662382
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kurt Thompson",
+        "bbox": [
+          0.8398982858661347,
+          0.5163594625673951,
+          0.9405632269575208,
+          0.5374832158381095
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8",
+    "primary_id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WATER RESOURCES",
+        "bbox": [
+          0.6860465147782718,
+          0.16153846194304292,
+          0.9694767353670769,
+          0.1807692305954187
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8",
+    "primary_id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_3",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Review",
+        "bbox": [
+          0.6845930262405794,
+          0.18846154069897317,
+          0.9709302277980416,
+          0.2961538431471807
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Jeff Cooper, Editor Stephanie Tuttle, Publishing Coordinator Dr. Ronald Ward, Director",
+        "bbox": [
+          0.6845930247661467,
+          0.34615384628806944,
+          0.9462209204709797,
+          0.4173076917445553
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Contributing Authors: Jeff Cooper",
+        "bbox": [
+          0.6860465135723794,
+          0.442181340843224,
+          0.9156976770671555,
+          0.46550591377357875
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Janet Vail",
+        "bbox": [
+          0.8386627909407649,
+          0.5403846155584274,
+          0.906976745309235,
+          0.5596153842108033
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Water Resources Review is a publication of the Water Resources Institute, Grand Valley State University. For further information write:",
+        "bbox": [
+          0.6845930334553461,
+          0.5883705647370254,
+          0.9636627825911657,
+          0.6826923076434956
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Christy Klinge (seated), Kurt Thompson (center), and Diane Guillard of the Water Resources Institute (WRI) work on digitizing geographical areas to be treated for Gypsy Moth infestation this spring. On January 31, the WRI Information Service Center (ISC) held a Gypsy Moth, GIS workshop where over 20 participants including Ron Priest, Michigan's Gypsy Moth Program Manager, five MDA Regional Supervisors, and Gypsy Moth coordinators from 10 Michigan counties gathered to learn GIS fundamentals as they apply to the Gypsy Moth Suppression Program in Michigan.",
+        "bbox": [
+          0.06686048128705813,
+          0.7038461546203542,
+          0.6555232494542208,
+          0.8557818658664265
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8",
+    "primary_id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_11",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "WATER RESOURCES REVIEW Water Resources Institute Grand Valley State University One Campus Drive Allendale, MI 49401",
+        "bbox": [
+          0.7470930227676004,
+          0.7115384617177681,
+          0.9593023288469902,
+          0.8308147171327318
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "phone: (616) 895-3749",
+        "bbox": [
+          0.7470930210837122,
+          0.8576923076919157,
+          0.8938953480732645,
+          0.8807692310773152
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "fax: (616) 895-3864",
+        "bbox": [
+          0.7470930287343084,
+          0.8826923082421492,
+          0.8764534850496065,
+          0.9038461530078509
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8",
+    "primary_id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4.pdf_8_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The ISC is currently working to digitize approximately 70,000 acres in 11 counties. Aerial applicators will use this G/S information to greatly increase the efficiency of their spray applications as they target Gypsy Moth infestations in Michigan.",
+        "bbox": [
+          0.06827757828015933,
+          0.8826923084705144,
+          0.6424418491410377,
+          0.9480946124643476
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

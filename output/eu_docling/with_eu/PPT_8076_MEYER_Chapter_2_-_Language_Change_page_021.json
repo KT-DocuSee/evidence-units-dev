@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Syntax (cont.)",
+        "bbox": [
+          0.08575580899901535,
+          0.20337301518780213,
+          0.3619186074415531,
+          0.2596899232622368
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In Jack Hawkins' sample of 149 languages, 6 of the 16 possible combinations did not occur:",
+        "bbox": [
+          0.059524854351658114,
+          0.2977252329310941,
+          0.9157499437730062,
+          0.37015503893408064
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021_3",
+        "observed_type": "code",
+        "canon_role": "support_paragraph",
+        "text": "V Pr NG ReIN VO Pr GN ReIN VO Po NG NRel VO PO NG ReIN OV NG ReIN OV Pr NG RelN",
+        "bbox": [
+          0.05813953432943598,
+          0.397156084664974,
+          0.3124999991097908,
+          0.6802325578356504
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021",
+    "primary_id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021_6",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7272847900390625,
+          0.9057493489583334,
+          0.97644580078125,
+          0.9767548828125
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CAMBRIDGE",
+        "bbox": [
+          0.7848837230183762,
+          0.9069767436590048,
+          0.9781976698180025,
+          0.9437984496134203
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_8076_MEYER_Chapter_2_-_Language_Change_page_021_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "UNIVERSITY PRESS",
+        "bbox": [
+          0.78633720689654,
+          0.9496124031390013,
+          0.9752906973808686,
+          0.967054263721464
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

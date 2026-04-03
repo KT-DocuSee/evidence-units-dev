@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_1",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "续表",
+        "bbox": [
+          0.8348830159483078,
+          0.08641975308641975,
+          0.8736246872220113,
+          0.10013717421124829
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09685417818425845,
+          0.10425240054869685,
+          0.9123663584957147,
+          0.3292181069958848
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_2",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "附表2",
+        "bbox": [
+          0.13559584945796183,
+          0.3607681755829904,
+          0.18983418924114656,
+          0.37585733882030176
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_3",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "一些物质的熔点和沸点",
+        "bbox": [
+          0.41647296619231133,
+          0.3607681755829904,
+          0.5946846540513469,
+          0.3772290809327846
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "在101kPa下，一些物质的熔点和沸点",
+        "bbox": [
+          0.35836045928175625,
+          0.38545953360768176,
+          0.6508600773982168,
+          0.401920438957476
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-60403612.pdf_179_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09685417818425845,
+          0.3936899862825789,
+          0.9123663584957147,
+          0.9204389574759945
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

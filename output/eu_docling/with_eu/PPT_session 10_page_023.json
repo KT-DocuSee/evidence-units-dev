@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_session 10_page_023",
+    "primary_id": "docling_PPT_session 10_page_023_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_session 10_page_023_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "HELP + NOUN + V",
+        "bbox": [
+          0.2834302350677457,
+          0.09689153381975196,
+          0.7194767445834171,
+          0.16472868130539428
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "PPT_session 10_page_023",
+    "primary_id": "docling_PPT_session 10_page_023_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_session 10_page_023_2",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "SECTION | 19205 | 19305 | 19405 | 1950$ | 19605 | 19705 | 19805 | 19905 | 20005 | FREQ | 26 | 63 | 135 | 195 | 200 | 183 | 219 | 283 | 260 | PER. MIL | 3.41 | 4.98 | 8.74 | 11,62 | 12.44 | 13.46 | 19,26 | 29.07 | 40.45 | SEE ALL YEARS AT ONCE",
+        "bbox": [
+          0.08458453369140626,
+          0.30295137532552086,
+          0.8984156494140625,
+          0.6770550130208334
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_session 10_page_023_1",
+        "observed_type": "text",
+        "canon_role": "topic_title",
+        "text": "[help].[vv*] [n*] [v*i]",
+        "bbox": [
+          0.05959301623764602,
+          0.7655038753383758,
+          0.44186046865928846,
+          0.8257275127729164
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

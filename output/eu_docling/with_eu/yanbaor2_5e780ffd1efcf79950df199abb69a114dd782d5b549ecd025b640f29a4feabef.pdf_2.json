@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2",
+    "primary_id": "docling_yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2_4",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "1:",
+        "bbox": [
+          0.1627888313085929,
+          0.07986111108244162,
+          0.2763157913950481,
+          0.0944940475903782
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TER <‡",
+        "bbox": [
+          0.7078385787616907,
+          0.11036706357140505,
+          0.8439849772643786,
+          0.127976190555532
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaor2_5e780ffd1efcf79950df199abb69a114dd782d5b549ecd025b640f29a4feabef.pdf_2_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "181J | A FAME | *LiX | 17 ПЕТРА «ЕТЕЛУ» * 4.04(2)12 | ПЕР, MESFEE 7 4.04(2) TX(4) **17 | 7 4.10 ₴7л | *ZEiX, 1F413iJ | FIRE | 1724 | # (а) K₴ FERRAR TITERALMSO",
+        "bbox": [
+          0.1289598981071921,
+          0.1557116560502486,
+          0.8609552360983456,
+          0.858226318359375
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

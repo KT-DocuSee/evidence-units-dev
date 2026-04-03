@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14_0",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.1304379759050627,
+      0.07136317192152675,
+      0.8616255028094987,
+      0.6395755974099095
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14_1",
+    "text": "Fi.4.e .fe ()t )) method and (d) Yee's method. The constant contour values are ω ∈ [2, 4, 6,. .,24].",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.062463256067213126,
+      0.6476544470614031,
+      0.925925913466924,
+      0.6718909960158839
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14_2",
+    "text": "Substituting into (4) the vectors  and v in polar coordinates 4), and et a = ∆, this yields the propagation angle  a the propagation speed |vg| in terms of a and 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06797471983784958,
+      0.7257499936925078,
+      0.925925913466924,
+      0.7540259674727354
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14_3",
+    "text": "For example, φ for the boxscheme is given by",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08634626573997109,
+      0.755372442414651,
+      0.41335978279773394,
+      0.7688371918338069
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14_4",
+    "text": "Taking the Taylor expansion of this expression with respect to a = 0 yields,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06613756524763743,
+      0.8186567646846842,
+      0.5934009326385247,
+      0.8334679890457557
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14_5",
+    "text": "Similarly, the Taylor expansion of |vg| at a = 0 yields,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06430041065742528,
+      0.8725157623613081,
+      0.43540563788027975,
+      0.8873269867223798
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.jcp.2010.12.006.pdf_14",
+    "order": 6
+  }
+]

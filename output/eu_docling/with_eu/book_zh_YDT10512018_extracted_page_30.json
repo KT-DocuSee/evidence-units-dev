@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "book_zh_YDT10512018_extracted_page_30",
+    "primary_id": "docling_book_zh_YDT10512018_extracted_page_30_0",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_book_zh_YDT10512018_extracted_page_30_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "YD/T 1051-2018",
+        "bbox": [
+          0.10472279225117144,
+          0.08430232565828648,
+          0.25256673731761714,
+          0.1002906974703472
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_book_zh_YDT10512018_extracted_page_30_1",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "(C.1)",
+        "bbox": [
+          0.8315311775221661,
+          0.1684702654817248,
+          0.8830478780873803,
+          0.1861808976005601
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_book_zh_YDT10512018_extracted_page_30_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7H46400019238 (C.2):",
+        "bbox": [
+          0.1396303880939265,
+          0.20494186101796533,
+          0.41478439079724394,
+          0.22383720883668584
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_zh_YDT10512018_extracted_page_30_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2484599750736728,
+          0.27325581447305947,
+          0.8829568780974748,
+          0.29360465105019645
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "book_zh_YDT10512018_extracted_page_30",
+    "primary_id": "docling_book_zh_YDT10512018_extracted_page_30_5",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_zh_YDT10512018_extracted_page_30_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "153419 MEN - TEETH EX 365X24 (C.2)",
+        "bbox": [
+          0.2915811181823586,
+          0.2267441858194126,
+          0.8829568787310919,
+          0.2442596991296493
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_zh_YDT10512018_extracted_page_30_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "8ф0 (1) | #IX+$t (2+3) | ** (4) | (%) | 99.9615 | 99.951 | 99.855 | 3.85 × 10* | 4.90X10* | 145X109 | 337 | 4.29 | 12.70 | 7-199519424 | 0.74 | 1.12 | 3.03",
+        "bbox": [
+          0.09756594746052719,
+          0.4064734452127561,
+          0.9016475388983719,
+          0.552858112543609
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

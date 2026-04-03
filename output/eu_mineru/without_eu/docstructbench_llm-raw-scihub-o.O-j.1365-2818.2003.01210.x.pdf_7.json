@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7_0",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.09242454530563783,
+      0.0997085405211067,
+      0.917523667943241,
+      0.777215290215806
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7_1",
+    "text": "Fig. 5.umary statistis (cntius uves) witenveles doted) forotenngive in the aeore a i.3 foruntaed.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07730052880107892,
+      0.7861634925702644,
+      0.8419035854204464,
+      0.7989466387909191
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7_2",
+    "text": "intervals are so narrow that they are nearly indistinguishable from the mean curve. Therefore the plot is omitted.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08402231391421622,
+      0.8206779873660321,
+      0.48900986698073834,
+      0.8500792236735379
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5226187925464248,
+      0.8206779873660321,
+      0.9309672381695157,
+      0.9267781009974662
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7_3",
+    "text": "Mean G-curves",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08402231391421622,
+      0.8743672014927819,
+      0.17812730549813838,
+      0.888428662335502
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7_4",
+    "text": "Estimating mean G(r) as ratio of means as in Baddeley et al. (1993) and using the variance estimator for ratio estimators leads to the mean curves and confidence bands shown in Fig. 11. Figure 12 shows that the assumption of a linearrelation between numerator and denominator in the reduced sample estimator G,s is realistic. The EM algorithm yielded overall mean and variances from the ratio estimators. Figure 1 3 also shows the overall sample mean with confidence bands esti- mated from the sample variance.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08402231391421622,
+      0.8986551793120258,
+      0.48900986698073834,
+      0.9267781009974662
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1365-2818.2003.01210.x.pdf_7",
+    "order": 6
+  }
+]

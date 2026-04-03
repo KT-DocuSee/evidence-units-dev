@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_013",
+    "primary_id": "mineru_PPT_fundamental_theorem_of_calculus___page_013_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_fundamental_theorem_of_calculus___page_013_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "eg if y = f(x) = 3x2 and a = 2 and b = 4",
+        "bbox": [
+          0.038,
+          0.036444444444444446,
+          0.672,
+          0.10044444444444445
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_013",
+    "primary_id": "mineru_PPT_fundamental_theorem_of_calculus___page_013_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_fundamental_theorem_of_calculus___page_013_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.44533333333333336,
+          0.32,
+          0.8353333333333334,
+          0.72
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

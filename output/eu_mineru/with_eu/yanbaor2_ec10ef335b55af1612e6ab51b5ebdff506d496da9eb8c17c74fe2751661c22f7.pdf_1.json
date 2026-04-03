@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_ec10ef335b55af1612e6ab51b5ebdff506d496da9eb8c17c74fe2751661c22f7.pdf_1",
+    "primary_id": "mineru_yanbaor2_ec10ef335b55af1612e6ab51b5ebdff506d496da9eb8c17c74fe2751661c22f7.pdf_1_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_ec10ef335b55af1612e6ab51b5ebdff506d496da9eb8c17c74fe2751661c22f7.pdf_1_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "元宇宙在政府 支持下蓬勃发展",
+        "bbox": [
+          0.1128747795414462,
+          0.03911707180776753,
+          0.43738977072310403,
+          0.11679240011176306
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_ec10ef335b55af1612e6ab51b5ebdff506d496da9eb8c17c74fe2751661c22f7.pdf_1",
+    "primary_id": "mineru_yanbaor2_ec10ef335b55af1612e6ab51b5ebdff506d496da9eb8c17c74fe2751661c22f7.pdf_1_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_ec10ef335b55af1612e6ab51b5ebdff506d496da9eb8c17c74fe2751661c22f7.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "数字经济已经成为国家战略。2021年，信 部提出要培育批进军元宇宙等新兴领域的 创新型中企业；2022年，“元宇宙”成为 全国两会热词，并进入武汉、合肥、成都等 地方政府作报告，截目前，已有超过30 个省市颁布了元宇宙相关的持性政策。",
+        "bbox": [
+          0.5040172447579855,
+          0.29114277731209837,
+          0.8622378992749363,
+          0.4191114836546521
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_ec10ef335b55af1612e6ab51b5ebdff506d496da9eb8c17c74fe2751661c22f7.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "作为推动元宇宙发展的重要方式，元宇宙产 业园正在各地推开。国内在建和建成的元宇 宙产业园、基地、聚集区已超过20家，分布 在北京、上海、广州、杭州、成都等地。",
+        "bbox": [
+          0.5040172447579855,
+          0.4386700195585359,
+          0.8614540466392319,
+          0.5230511316010059
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

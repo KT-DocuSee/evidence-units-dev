@@ -1,0 +1,117 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "8 | 40 | 18 | 20 | 9 | %g Đn dờ' | 40 | 19 | 20 | 10 | 37",
+        "bbox": [
+          0.12885615827671862,
+          0.12644898675212113,
+          0.8577840548264183,
+          0.2322652692889665
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "54, MH 41ÁE: KE4 302 HK (24.65%), ME#1634(13.31%),AK/ENZ118 4n/ (9.63%), F 106 177 (8.65%).",
+        "bbox": [
+          0.12815125800848884,
+          0.25719246032371146,
+          0.8571428613839287,
+          0.3444940473305986
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "M4A XEM (TAN >0. 95)",
+        "bbox": [
+          0.300789655703016,
+          0.4665178569505016,
+          0.7478991656551203,
+          0.48837209296291495
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "1 | 0.97222 | 2 | 0.95238 | 3 | 0.96666 | 4 | 0.96771 | 5 | 0.96969 | 6 | 0.96153 | 7 | 0.96428 | 8 | 0.96551 | 9 | 0.95833",
+        "bbox": [
+          0.1293188316351675,
+          0.5015809498313158,
+          0.8575249267371401,
+          0.7799107979584187
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61571237.pdf_81_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "2.3.1 HTHG A T.1 ВНИКЛ",
+        "bbox": [
+          0.1785714347268907,
+          0.8385416667597427,
+          0.8571428632983192,
+          0.8938953486557444
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

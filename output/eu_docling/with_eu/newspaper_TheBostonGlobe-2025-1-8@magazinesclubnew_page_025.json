@@ -1,0 +1,2036 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_127",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_97",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C7",
+        "bbox": [
+          0.9631578946233185,
+          0.002906976858282368,
+          0.9842105261661555,
+          0.010174418399711902
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_127",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.013593896787766128,
+          0.02259844582732072,
+          0.4789696918892283,
+          0.2953689132402263
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ighton 60",
+        "bbox": [
+          0.5894736850101467,
+          0.23834325387463307,
+          0.6184210520951164,
+          0.245639534603079
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_69",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1. Quincy/Quincy 72",
+        "bbox": [
+          0.684210528356263,
+          0.45634920631175796,
+          0.7394736840121583,
+          0.46230158726413906
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_56",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "St. Mary's 57",
+        "bbox": [
+          0.5026315785934573,
+          0.8313492063437055,
+          0.5447368382486483,
+          0.8343253968198961
+        ],
+        "order": 112
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_107",
+    "source": "visual_seed",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_60",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Scoreboard",
+        "bbox": [
+          0.6736842171414184,
+          0.023255813946821382,
+          0.8157894706217395,
+          0.03488372079155072
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_107",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "WED | THU | FRI 1/10 | SAT | SUN 1/12 | MON | TUE 1/14 | 7:00 NESN | 1:00 ABC | 7:00 NESN | SAC 7:31 NBCSB | 6:00 NBCSB | MIN ToSu NESN | OTI NES\\",
+        "bbox": [
+          0.629119490621084,
+          0.051978984114103524,
+          0.9860648120953425,
+          0.15829507132819698
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_44",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Schools",
+        "bbox": [
+          0.502517001182652,
+          0.05499581545560886,
+          0.5606408916271811,
+          0.06419023116872238
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_45",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "BASKETBALL",
+        "bbox": [
+          0.5342105270869694,
+          0.07122093025102698,
+          0.5868421042288202,
+          0.07703488367339165
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_63",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PRO BASKE I BALL",
+        "bbox": [
+          0.6263157885941734,
+          0.18601190476728807,
+          0.6973684221953003,
+          0.1889880952434786
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_83",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "COLLEGE BASKETBAL",
+        "bbox": [
+          0.894736840801859,
+          0.1932043650436111,
+          0.960526310513931,
+          0.19622093009779304
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FILE/BARRY CHIN/GLOBE STAFI",
+        "bbox": [
+          0.35263158213794155,
+          0.2978670634587176,
+          0.4763157860199531,
+          0.3008720930036615
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_48",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16 TRI-VALLEY",
+        "bbox": [
+          0.5330640322127022,
+          0.35835636632694223,
+          0.5827038747057731,
+          0.3682567678359396
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By Mike Puzzanghera GLOBE CORRESPONDENT",
+        "bbox": [
+          0.06842105775461274,
+          0.3953373016686444,
+          0.1894736831225801,
+          0.4069940476148342
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_52",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Burncoat 2",
+        "bbox": [
+          0.5842105270825152,
+          0.587209302305746,
+          0.6131578941674849,
+          0.5901162790169283
+        ],
+        "order": 74
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_53",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "TRI-VALLEY Brockton 27",
+        "bbox": [
+          0.5394736836239888,
+          0.6802325579234443,
+          0.6157894742532043,
+          0.6889880951760218
+        ],
+        "order": 88
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_59",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "burtee or",
+        "bbox": [
+          0.50526315834348,
+          0.9505813954137887,
+          0.5342105254284497,
+          0.9534883721249711
+        ],
+        "order": 126
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_128",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_128",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6349929388901943,
+          0.07289603579049833,
+          0.6781251631683375,
+          0.09486512861071726
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_129",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_129",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6354150349832915,
+          0.09862055486383003,
+          0.6787122122526368,
+          0.12356172383298307
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_120",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BOSTON CITY",
+        "bbox": [
+          0.5394736838080401,
+          0.10317460312192993,
+          0.5815789468937141,
+          0.11191860451047973
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_120",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7523116874216792,
+          0.7589404836660812,
+          0.8623425221582602,
+          0.7895592716310168
+        ],
+        "order": 96
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_75",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "FOOTBALL",
+        "bbox": [
+          0.6605263167878601,
+          0.7790697675287038,
+          0.7052631583875784,
+          0.7863372090701335
+        ],
+        "order": 99
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_99",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_99",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5058667685652934,
+          0.12661951206511257,
+          0.6159527236058897,
+          0.14989050782149643
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "visual_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_130",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_130",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6362424004346805,
+          0.13051588004879663,
+          0.6791658202309159,
+          0.15137750528090455
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_108",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_61",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On the radio, unless noted: Patriots, Bruins, and Celtics, WBZ-FM 98.5",
+        "bbox": [
+          0.6263157895759472,
+          0.16133720953451786,
+          0.8368420981433511,
+          0.16865079358595267
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_62",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ON THE AIR",
+        "bbox": [
+          0.6263157904283702,
+          0.17584325392308262,
+          0.7052631595716299,
+          0.18313953465152877
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_108",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "/ p.m | klanoma citv at cleveland | ESPN | 9:30 p.m | San Antonio at Milwaukee | RESPN | MEN'S COLLEGE BASKETBALL | MEN'S COLLEGE BASKETBALL | Uconn at villanov | / p.m | Alabama at south Carolina | Stu | / p.m | Drake at bradiey | CBSSN | /p.m | Florida St. at Miam | ACC | Mississiooi at Arkansas | ESPN2 | Notre Dame at N.C. State | ESPNU | All ruice al sall bleyu ou | Ie poll | ESPNU | WOMEN'S COLLEGE BASKEI BALL | WOMEN'S COLLEGE BASKEI BALL | 8:30 p.m. USC at Marviand | FS. | pRO HOCkEy | pRO HOCkEy | Colorado at Chicaa | 7:30 p.m. PWHL: Boston at Minnesota | NESN | 10 p.m.",
+        "bbox": [
+          0.6297847075370718,
+          0.1903732067865471,
+          0.8591315732364766,
+          0.3404534830579226
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_64",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "MEN'S SOCCER",
+        "bbox": [
+          0.6263157925562446,
+          0.34151785722092176,
+          0.6921052622683167,
+          0.3474702381733026
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_65",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Spain Cup: Athletic Club vs. FC Barcelona ESPN2 (For latest updates, go to bostonglobe.com/tvlistings)",
+        "bbox": [
+          0.636842112904008,
+          0.3473837210170759,
+          0.8578947381222617,
+          0.36191860441897067
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_68",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SOUTHEAST",
+        "bbox": [
+          0.6631578942127647,
+          0.43023255827429974,
+          0.6999999968398671,
+          0.43313953474895595
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_49",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Barnstable SOPE & ISLANDS",
+        "bbox": [
+          0.507894737218287,
+          0.4883432539214158,
+          0.5842105278475026,
+          0.49854651136104433
+        ],
+        "order": 53
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_124",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_82",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Latest line",
+        "bbox": [
+          0.8736842140834238,
+          0.18168604661663992,
+          0.9473684193376287,
+          0.18898809527709995
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_124",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.8752625990431808,
+          0.1991884573326304,
+          0.9859863893131265,
+          0.3569952755246718
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_118",
+    "source": "visual_seed",
+    "member_count": 46,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Caroline Doherty became Hingham's all-time top goal-scorer, boy or girl, on Dec. 24. HIGH SCHOOL GIRLS' HOCKEY NOTEBOOK",
+        "bbox": [
+          0.013157897430823549,
+          0.3052325583535584,
+          0.4447368286218082,
+          0.3226744183724589
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"She's a rare athlete that has a natural ability to keep focus and discipline,\" Hulbig said. \"She wants it. and that's what's been able to make her successful.",
+        "bbox": [
+          0.2500000006206704,
+          0.3677325582263783,
+          0.47368421076965755,
+          0.39534883699527873
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Someday, she's going to look back at this and say, 'T'm glad I finished it out at Hingham, because it's a pretty special thing that she's doing.\"",
+        "bbox": [
+          0.2500000009662753,
+          0.3953373016686444,
+          0.47894736831878953,
+          0.4171626983313556
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Caroline Doherty is evidence that there's no ser Dath to a cream.",
+        "bbox": [
+          0.010526324895667544,
+          0.4098837210170759,
+          0.23157894761176287,
+          0.42162698416548844
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Doher committed to Holv cross in seotember and will join up with the Crusaders in fall Luzo to play for coach nacle Lachapelle at an upand-coming program in Hockey East. She'll join Spitfires teammate Violet Carroll (Williston Northamnton. in Worcester. She's still undecid ed where she will skate next season.)",
+        "bbox": [
+          0.2500000002860191,
+          0.41860465117740475,
+          0.47631576638592205,
+          0.4665697672285029
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hingham's star senior forward - committed lo play at rory cross arter a post--raa vear — nas done it all while playing for the town she grew up in. She's the school's all-time leading scorer, a two-time Patriot Leaque MvP. and one of the state's most talented players.",
+        "bbox": [
+          0.01052632369084562,
+          0.4228670635161777,
+          0.23947368307144853,
+          0.466569767107379
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"I fell in love with the school itself, which I think is bigger than the hockey part,\" Doherty said. \"When the hockey part fell into place, it was just a perfect fit.\"",
+        "bbox": [
+          0.2500000002750656,
+          0.46651785707018273,
+          0.46315789521657136,
+          0.49280753979590325
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "She takes immense pride in the career she's built at Hingham.",
+        "bbox": [
+          0.01052631752572485,
+          0.46651785712402244,
+          0.22631579133456065,
+          0.4796626984225332
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Personally, I don't think it matters where you go to school, as long as you put the work in, Doherty said. \"I get to play with my sister (Brenna] and all the peodle I grew up Diavue wici. I colk the 'public pride' part of it is honestly my favorite Yalt",
+        "bbox": [
+          0.010526317101353896,
+          0.47965116287754106,
+          0.24210526288282921,
+          0.5203488371746318
+        ],
+        "order": 52
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "That's all in the future — at the moment, the 5-100t-0-inch sniper is locused on enjoying ume with her friends in her hometown.",
+        "bbox": [
+          0.24999999681901658,
+          0.4927325583528923,
+          0.47105263096702604,
+          0.5146329365861115
+        ],
+        "order": 54
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"I really just want to take in these last few months,\" Doherty said. \"Playing with my sister, all the seniors I won't get to play with again, and all these giris. I lust want to have run ana enov",
+        "bbox": [
+          0.2500000006206704,
+          0.5145348838077736,
+          0.47631578757539145,
+          0.5406976742838397
+        ],
+        "order": 59
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"I play in front of the little girls who all look up to all of us. That's probably the best part of it,",
+        "bbox": [
+          0.013157895703117418,
+          0.5218023258135878,
+          0.23684209684074245,
+          0.5364583333202203
+        ],
+        "order": 60
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Doherty leads a Harborwomen team, ranked No. 1 in the Globe's Top 20, that has eyes on its hirst title since 2011. They're off to a 6-0-0 start, with Doherty scoring 14 goals.",
+        "bbox": [
+          0.010526315990409622,
+          0.542151162877541,
+          0.23684210516089477,
+          0.5712209300003659
+        ],
+        "order": 65
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "· After years of preaching a defense-first mentant. King rnino coach ken Assad is unaliv seeing his vision come to fruition.",
+        "bbox": [
+          0.2500000012514772,
+          0.5639534885861166,
+          0.4736842127780199,
+          0.5843253968589008
+        ],
+        "order": 69
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"She could probably go out here in some of these games and score 17 goals,\" third-year Hingham coach Courtney Turner said. \"But she's looking for her teammates after the first one or two. I think that says more about her character than her scoun?. \"",
+        "bbox": [
+          0.010526317101353896,
+          0.5711805554883818,
+          0.23947367526706748,
+          0.6104651162674128
+        ],
+        "order": 71
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since dropping their season opener to Smithfield (R.I.), the Warriors have won five in a row, and they have given up one goal or less in four of The ve victores",
+        "bbox": [
+          0.25000000816189366,
+          0.5843023256682388,
+          0.4789473672819748,
+          0.610465116257556
+        ],
+        "order": 72
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_80",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "AHL",
+        "bbox": [
+          0.7500000010298835,
+          0.5915697675468724,
+          0.7789473681148531,
+          0.598837209088302
+        ],
+        "order": 75
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_118",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7522031294871293,
+          0.609939807134529,
+          0.8622750112586153,
+          0.674239880365471
+        ],
+        "order": 77
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Doherty burst onto the scene as a freshman, then exploded for 48 goals and 28 assists as a sophomore. After another 36 points a year ago and 17 to start the new season, she's at 190 for",
+        "bbox": [
+          0.010526336787789643,
+          0.6118551586866541,
+          0.2315789467564998,
+          0.6409883718608309
+        ],
+        "order": 78
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"For the last three years, I've been focusing on learn aerense, and it really nash t cucked unu this year,\" Assad said. \"These girls get what team defense is all about.",
+        "bbox": [
+          0.24999999994568647,
+          0.6118551587764965,
+          0.4789473676196713,
+          0.6396329365033435
+        ],
+        "order": 79
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "her career. Of those. 12o are goals — the 122nd of which set the Hingham record on Christmas Eve, assisted by her sister.",
+        "bbox": [
+          0.013157891499773164,
+          0.6423611110861422,
+          0.1421052661318058,
+          0.6453488371898342
+        ],
+        "order": 82
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kine Phlin's new identitv 19 led by sophomore Calleigh Braay, umor arace Leenan-Allen and freshman Laney O'Shea on the blue line, and junior netminder Kiki Lvnch. who has allowed lust six goals through st Lannies",
+        "bbox": [
+          0.3289473745370415,
+          0.6423611110891086,
+          0.47894736560508194,
+          0.694767441831851
+        ],
+        "order": 83
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_88",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But a man a g",
+        "bbox": [
+          0.9157894753930776,
+          0.6671511625121336,
+          0.9868421021332382,
+          0.6831395351332157
+        ],
+        "order": 85
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It's easy to see the talent Doherr possesses. she can take nanuune and stuve a cornel like clockwork.",
+        "bbox": [
+          0.010526313182665342,
+          0.6686046512980836,
+          0.16315789261208122,
+          0.7034883720061799
+        ],
+        "order": 86
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "After winning three consecutive games by one-goal margins. the warmors secured Theil In a s-u win over No. Lu canton on Saturday.",
+        "bbox": [
+          0.33157894543132466,
+          0.6961805555048836,
+          0.4763157911476228,
+          0.7398313494417093
+        ],
+        "order": 91
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But it's her work ethic and arive to be better that have got noon, she takes the Ice more than 30 minutes before Hingham's practice begins, getting extra work in with fellow captain Addy Garrity.",
+        "bbox": [
+          0.010526313437914823,
+          0.703373015904853,
+          0.1552631456024466,
+          0.7587209300488156
+        ],
+        "order": 92
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_89",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mine sones active/trac. squacut. QB",
+        "bbox": [
+          0.878947369094548,
+          0.7078373016676437,
+          0.9868421018922942,
+          0.7165697671921657
+        ],
+        "order": 94
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"It's tribute to all the backcheckers, defenders, goaltending, you name it, they're all just comin, togeuer ana plavine as one,\" Assad said. \"It's a different brand of hockey that they're putting out this year.\"",
+        "bbox": [
+          0.33157894543132466,
+          0.7383432539230826,
+          0.47894736156999435,
+          0.7877906975694067
+        ],
+        "order": 95
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "one puts in a lot or work De hind the scenes that allows her to be a goal scorer,\" Turner said. \"She also just goes to the gym all the time. Her shot is a testament lo now Inuch work sne puts in at the gym.\"",
+        "bbox": [
+          0.010526315149395456,
+          0.7616279069902798,
+          0.16052631297350295,
+          0.8095930230666812
+        ],
+        "order": 97
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_90",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NY Islanders: D Grant Hutton called up",
+        "bbox": [
+          0.8763157896976183,
+          0.7718023258135875,
+          0.9842105224953644,
+          0.7790697673550171
+        ],
+        "order": 98
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_91",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NY Rangers: RW Matt Rempe called up",
+        "bbox": [
+          0.8736842109230523,
+          0.7805059524866302,
+          0.9842105222348428,
+          0.7877906975875751
+        ],
+        "order": 100
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "· Canton got off to a 3-0-1 slart under Irst-year coach Marissa Massaro, prior to dropping games this week to King Phillip and Notre Dame (Hingham).",
+        "bbox": [
+          0.3315789496694162,
+          0.7863372095156829,
+          0.4684210508554794,
+          0.829941860232924
+        ],
+        "order": 101
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_92",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Maxence Guenette called up",
+        "bbox": [
+          0.9052631588494228,
+          0.7876984127412512,
+          0.9842105279926824,
+          0.7951388889317275
+        ],
+        "order": 102
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_93",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Tate; CM. Bel Meyers called F",
+        "bbox": [
+          0.8763157925748112,
+          0.7965116280103219,
+          0.9842105253725574,
+          0.8067956350789861
+        ],
+        "order": 103
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "With her talent, Doherty could have easily taken the prep school route. But in sticking wit the Harborwomen. sne displayed that talent and hard wulk — Hol the school On your sweater — make a college career possible.",
+        "bbox": [
+          0.010526313778247465,
+          0.8080357143230521,
+          0.20526315233806058,
+          0.8576388888405497
+        ],
+        "order": 106
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "One kev weapon Ior the Bulldogs is sophomore forward Lauren natetto — who, whet she is not playing top-line minutes for the girls' hockey team, is one of the state's best cross-counurv runners.",
+        "bbox": [
+          0.3289473660694937,
+          0.8313492063437055,
+          0.47894736560508194,
+          0.8489583333745879
+        ],
+        "order": 111
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_57",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ain on cant",
+        "bbox": [
+          0.5026315796475093,
+          0.841517857007709,
+          0.5473684212472276,
+          0.8531976742944577
+        ],
+        "order": 114
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_95",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "les, vallease, ashial 5, 30 med i. Y 8 base, 26-4 trais, 49 its 12a 4 base, martinis, ou is e, 14-22 trails, 8-10 lift.",
+        "bbox": [
+          0.8736842113835783,
+          0.8444767445084156,
+          0.9842105226953689,
+          0.85319767416891
+        ],
+        "order": 115
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"My first year here, we had the prep school aiscussion. lurner sala. ohe wantea to stav here. I'm very happy she did, and I know she'll have these friends for life.\"",
+        "bbox": [
+          0.010526312927415862,
+          0.8561046514972722,
+          0.2289473616793252,
+          0.8837209301622166
+        ],
+        "order": 116
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Raffetto finished 13th in the MIAA Division 2 Meet of Champions race in November, and she also owns Canton's 5K school record time by 45 seconds.",
+        "bbox": [
+          0.2500000001158528,
+          0.8705357143230521,
+          0.47894736814598715,
+          0.8997093020933894
+        ],
+        "order": 117
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Doherty made a switch at the club level this year, moving to the Massachusetts Spitfires ranked as one of the too programs not lust in the state, but in the country. The move was all DoMerly s uous — she reacheu out lo coach Joe Hulbig to set up an opportunity, and even though the Spitfires had a full roster, she impressed enou?h to make the team. At their Dist tournament of the year over Labor Day weekend, Hulbig said every college coach he talked to wanted to know about her.",
+        "bbox": [
+          0.010526313709483912,
+          0.8851686507018162,
+          0.23947367526706748,
+          0.9623015873499264
+        ],
+        "order": 118
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Katetto scored a goal in Canton's 3-1 victory over No. 12 Nauset on Thursday, and her crosscountry skill-set has proven to be an asset.",
+        "bbox": [
+          0.25000000816189366,
+          0.9010416666235244,
+          0.47105263078547444,
+          0.9186507936936321
+        ],
+        "order": 122
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Her endurance is incredible. She can play as many minutes as I possibly need,\" Massaro said. · think at one point against Nauset . she piaved three minutes straight and got off the ice and wasn't tired. She's skilled and she's aggressive in the best way possible, and she can go and go and never worry about running out of steam.\"",
+        "bbox": [
+          0.2498098829743778,
+          0.9200581397489074,
+          0.4789473671091724,
+          0.970144500148609
+        ],
+        "order": 123
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Of the 19 players on the roster, she's the only one at an Mina program. Despite this. she unished the fall season as the team's top scorer with nine coals.",
+        "bbox": [
+          0.010526337484271685,
+          0.9622093025396051,
+          0.2394736770188172,
+          0.988372092999104
+        ],
+        "order": 128
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_96",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "new, 37-40 base, 23-27 trails, 7-8 lifts",
+        "bbox": [
+          0.8763157930335876,
+          0.9723837211193651,
+          0.9815789473172896,
+          0.9811507937629176
+        ],
+        "order": 130
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "correspondent Many wasserman contriourea to uns story.",
+        "bbox": [
+          0.25000000037110226,
+          0.9781746032339435,
+          0.47368418778679466,
+          0.9883720928884908
+        ],
+        "order": 131
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "section_text_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Doherty's special path",
+        "bbox": [
+          0.013157900759947473,
+          0.32986111163633675,
+          0.46842105229926284,
+          0.3619186050883787
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_6",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_6",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Hingham captain shows MIAA way to college play",
+        "bbox": [
+          0.015789477818925066,
+          0.36627907002724763,
+          0.23947368231223354,
+          0.39098837204618503
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_102",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_84",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "t pens stac",
+        "bbox": [
+          0.9500000006737341,
+          0.3662790700343045,
+          0.9842105247867923,
+          0.3764880954059468
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_70",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "....O'Bryant 6%",
+        "bbox": [
+          0.6999999994759225,
+          0.4766865079255067,
+          0.736842102103025,
+          0.47966269840169723
+        ],
+        "order": 51
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_51",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "COLONIAL",
+        "bbox": [
+          0.5421052646868921,
+          0.5232558140585003,
+          0.5763157887999502,
+          0.5305232555999299
+        ],
+        "order": 61
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_22",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Ice chips",
+        "bbox": [
+          0.24990539502466677,
+          0.553509641100536,
+          0.31588407646550043,
+          0.5613159400887421
+        ],
+        "order": 66
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_102",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.505944069565189,
+          0.5636337188903443,
+          0.6158813884483344,
+          0.5832363780551877
+        ],
+        "order": 68
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_87",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sia: we Maka: Pok signed.",
+        "bbox": [
+          0.8868421062178439,
+          0.6001984128062027,
+          0.9657894753611033,
+          0.6104651160788255
+        ],
+        "order": 76
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_114",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_78",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "NBA G League",
+        "bbox": [
+          0.7498803053131956,
+          0.3833711983844796,
+          0.8448565383770376,
+          0.39424508045489975
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_79",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "EASTERN COI",
+        "bbox": [
+          0.7710526354355622,
+          0.3953373015983029,
+          0.8131578950907532,
+          0.39831349207449324
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_114",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7519226329169277,
+          0.39858121797270846,
+          0.8623331399788534,
+          0.4619013550423192
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_67",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SWIMMING",
+        "bbox": [
+          0.6578947373966231,
+          0.4011627907153782,
+          0.7078947360244299,
+          0.40697674413774293
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_86",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a Short signed to a mi.",
+        "bbox": [
+          0.9236842130878327,
+          0.5290178570547368,
+          0.9842105257718164,
+          0.5392441857493679
+        ],
+        "order": 63
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_100",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_66",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Schools",
+        "bbox": [
+          0.6263157915334514,
+          0.38372093044591565,
+          0.6842105257033908,
+          0.39244186010640997
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_100",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5056643378465695,
+          0.39153847503310685,
+          0.6157720146720969,
+          0.4473142900647023
+        ],
+        "order": 35
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_125",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_125",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.8754884852104219,
+          0.3899770321136573,
+          0.9855607239126462,
+          0.4263057699954658
+        ],
+        "order": 34
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_126",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_126",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.8758187991136696,
+          0.4297166540566703,
+          0.985048987214129,
+          0.4494620472096672
+        ],
+        "order": 44
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_101",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_101",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5060509958163638,
+          0.45654780433124137,
+          0.6158987760743003,
+          0.4773079666988139
+        ],
+        "order": 47
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_115",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_115",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.752142706212145,
+          0.4689360574224148,
+          0.8613220061873433,
+          0.5213609552229675
+        ],
+        "order": 50
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_71",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "WRES ILING",
+        "bbox": [
+          0.6578947371799609,
+          0.4970238094992327,
+          0.7052631572937234,
+          0.4999999999754232
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_72",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "NONTAMI",
+        "bbox": [
+          0.6631578942080494,
+          0.505813953491432,
+          0.7000000002656348,
+          0.5072674418470232
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_85",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Transactions",
+        "bbox": [
+          0.8736842112099356,
+          0.5058139536290552,
+          0.9605263158953278,
+          0.5145348832895494
+        ],
+        "order": 58
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0020",
+    "kind": "section_text_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_50",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_50",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SCAPE AN Manchester 3",
+        "bbox": [
+          0.5421052667614987,
+          0.504360465402311,
+          0.6131578935016593,
+          0.5131448413688524
+        ],
+        "order": 56
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0021",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_116",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_116",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7523669097059054,
+          0.5254894170493148,
+          0.8621182676743944,
+          0.5618700249740903
+        ],
+        "order": 62
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_73",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Colleges",
+        "bbox": [
+          0.626315792295723,
+          0.5377906979120008,
+          0.6894736834937507,
+          0.546511627572495
+        ],
+        "order": 64
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_74",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "BASKETBALL",
+        "bbox": [
+          0.6552631584439822,
+          0.5552325584201768,
+          0.7105263140998774,
+          0.5624999999616063
+        ],
+        "order": 67
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0022",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_117",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_117",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7527763092627402,
+          0.5657413013516237,
+          0.8618280319940477,
+          0.5794216667326405
+        ],
+        "order": 70
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0023",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_109",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_109",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.6295569347359283,
+          0.5866225219332969,
+          0.7393891120215904,
+          0.6286818452937875
+        ],
+        "order": 73
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0024",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_103",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_103",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5058988413416353,
+          0.625679624075167,
+          0.6158940849845969,
+          0.6493707671795831
+        ],
+        "order": 80
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0025",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_110",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_110",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Kent State 68.",
+        "bbox": [
+          0.6294548015546679,
+          0.6329906855459754,
+          0.7391452263471178,
+          0.6901438821575598
+        ],
+        "order": 81
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0026",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_98",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_30",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Globe Top 20",
+        "bbox": [
+          0.1763157894651849,
+          0.6525297618528891,
+          0.2710526296927099,
+          0.6614583332814605
+        ],
+        "order": 84
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_98",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Rec. Last | Hingnam | b-U-U | 2. Notre Dame (H) | 4-1-1 | 3. Maiden Catholic | b-1-0 | 4. Duxbury | 4-2-1 | b. Peabody | 5-0-1 | 6. Methuen | 5-0-1 | 7. North Andover | 5-0-2 | •. Dishop reenlan | 5-1-1 | 9. Archbishop Williams 3-3-0 | 1v. wininrop | 4-0-1 | 11. Westwood | 7-0-1 12 | 12. Nauset | 4-3-1 | 13. Billerica | 6-1-0 16 | 14. St. Mary's | 2-4-1 | 1o. Falmoutr | 3-3-0 18 | 16. Sandwich | 3-3-1 13 | JI. bisnop slang | 6-1-0 | 18. Natick | 6-0-1 | Iy. Minion | 5-3-0 17 | 20. Canton | 3-2-1 15",
+        "bbox": [
+          0.17502042663625209,
+          0.6686324616392215,
+          0.31875462480256633,
+          0.8363224909855769
+        ],
+        "order": 87
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0027",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_119",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_119",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7527160389580723,
+          0.6825000089964303,
+          0.8624512330631265,
+          0.754252556335646
+        ],
+        "order": 89
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0028",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_111",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_111",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.6296023159297984,
+          0.6946779143036044,
+          0.7391272778299917,
+          0.7130946752828478
+        ],
+        "order": 90
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0029",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_104",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_104",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5061544037502611,
+          0.7072773585941099,
+          0.6159555790517962,
+          0.7944564221916743
+        ],
+        "order": 93
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0030",
+    "kind": "section_text_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_54",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_54",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "INDOOR TRACK",
+        "bbox": [
+          0.5289473705588807,
+          0.7978670634138884,
+          0.5921052617569086,
+          0.8053075396043645
+        ],
+        "order": 104
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0031",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_121",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_81",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ECHL",
+        "bbox": [
+          0.750000001778554,
+          0.8008720932366133,
+          0.7868421044056564,
+          0.8095930228971077
+        ],
+        "order": 105
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_121",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7529471771061769,
+          0.8195962154717008,
+          0.8624292053375626,
+          0.880854764329514
+        ],
+        "order": 108
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_94",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Ski conditions",
+        "bbox": [
+          0.8736842128989523,
+          0.8211805553948712,
+          0.9710526316405215,
+          0.8299418601064099
+        ],
+        "order": 109
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0032",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_113",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_55",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PATRIOT Hingham 66…",
+        "bbox": [
+          0.5019757107141036,
+          0.8168604652031223,
+          0.5763157891152965,
+          0.8289595029613063
+        ],
+        "order": 107
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_77",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "PWHL",
+        "bbox": [
+          0.6263157903843515,
+          0.9273255818267295,
+          0.6710526319840696,
+          0.936046511487224
+        ],
+        "order": 124
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_113",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.6296128708816312,
+          0.938458232273434,
+          0.7389085812676222,
+          0.9655165705248158
+        ],
+        "order": 125
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0033",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_112",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_76",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Premier League",
+        "bbox": [
+          0.6289473689107806,
+          0.8241279073354506,
+          0.7342105231944827,
+          0.8328488369959449
+        ],
+        "order": 110
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_112",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.6295690703810307,
+          0.8365504942638761,
+          0.7393531639972326,
+          0.9141002850069092
+        ],
+        "order": 113
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0034",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_122",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_122",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7528184780799655,
+          0.8883611607913979,
+          0.8630453697720865,
+          0.952789433152925
+        ],
+        "order": 119
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0035",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_105",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_58",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "SWIMMING",
+        "bbox": [
+          0.5342105261685528,
+          0.8895348839531223,
+          0.5842105247963595,
+          0.896802325494552
+        ],
+        "order": 120
+      },
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_105",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.505587801698256,
+          0.9008875090863945,
+          0.6158499785433637,
+          0.9690810686319669
+        ],
+        "order": 121
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0036",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_123",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_123",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.7522608502865236,
+          0.9573748011788922,
+          0.8622811300712719,
+          0.9874633620379434
+        ],
+        "order": 127
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0037",
+    "kind": "table_panel",
+    "page": "newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025",
+    "primary_id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_106",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_TheBostonGlobe-2025-1-8@magazinesclubnew_page_025_106",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5058431601464599,
+          0.9682918567912252,
+          0.6156231235641186,
+          0.9842411781005297
+        ],
+        "order": 129
+      }
+    ]
+  }
+]

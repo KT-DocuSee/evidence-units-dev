@@ -1,0 +1,54 @@
+[
+  {
+    "chunk_id": "docling_PPT_ch7_page_035_1",
+    "text": "Matrix Form of the Linear System (1). (continued)",
+    "canon_role": "section_header",
+    "bbox": [
+      0.061046511923101725,
+      0.11627907158364299,
+      0.770348838912654,
+      0.16279069643961278
+    ],
+    "page": "PPT_ch7_page_035",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_035_2",
+    "text": "We assume that the coefficients a; are not all zero, so that A is not a zero matrix. Note that x has n components, whereas b has m components. The matrix",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05668604569817723,
+      0.16860465061301694,
+      0.9404069886041481,
+      0.32175925995906846
+    ],
+    "page": "PPT_ch7_page_035",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_035_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.268895348544138,
+      0.34302325590628274,
+      0.5915697637267854,
+      0.5889550269642055
+    ],
+    "page": "PPT_ch7_page_035",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_PPT_ch7_page_035_4",
+    "text": "is called the augmented matrix of the system (1). The dashed vertical line could be omitted, as we shall do later. It is merely a reminder that the last column of Ã did not come from matrix A but came from vector b. Thus, we augmented the matrix A.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05789524246978604,
+      0.5944444446712562,
+      0.9127906825830133,
+      0.8565891457613184
+    ],
+    "page": "PPT_ch7_page_035",
+    "order": 5
+  }
+]

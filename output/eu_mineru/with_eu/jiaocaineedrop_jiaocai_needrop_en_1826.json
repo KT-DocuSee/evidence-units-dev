@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1826",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1826_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1826_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "三角形（上）",
+        "bbox": [
+          0.4143490528012898,
+          0.14821148639019524,
+          0.585247883917775,
+          0.17272338606241983
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1826",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1826_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1826_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "新课标剖析",
+        "bbox": [
+          0.1483272873841193,
+          0.19723528573464444,
+          0.2539298669891173,
+          0.21433661108735927
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1826_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.14349052801289802,
+          0.2149066552657831,
+          0.8609431680773881,
+          0.6834829699301695
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1826",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1826_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1826_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.14349052801289802,
+          0.7387772552372809,
+          0.8593309149536478,
+          0.9052301553370387
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

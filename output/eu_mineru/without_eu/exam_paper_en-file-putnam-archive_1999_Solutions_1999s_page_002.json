@@ -1,0 +1,262 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_11",
+    "text": "and Q(x)(R(x) − kx) has more roots in [0, 1] than does P (and has the same value at O). Repeating this argument shows that J0 |P(x)|dx is greater than the correspond- ing integral for some polynomial with all of its roots in [0, 1].",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.06545454545454546,
+      0.9192156862745098,
+      0.14181818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_0",
+    "text": "and n. Thus",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.06727272727272728,
+      0.20784313725490197,
+      0.08060606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_7",
+    "text": "Under this assumption, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5584313725490196,
+      0.14606060606060606,
+      0.7686274509803922,
+      0.1606060606060606
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_1",
+    "text": "But",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.20666666666666667,
+      0.15372549019607842,
+      0.2193939393939394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_12",
+    "text": "for some ri ∈ (0, 1]. Since",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.22,
+      0.7294117647058823,
+      0.23515151515151514
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_2",
+    "text": "since, e.g., it's f ′(1), where and we conclude that S = 9/32.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.26606060606060605,
+      0.30980392156862746,
+      0.2812121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_13",
+    "text": "we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.27515151515151515,
+      0.6133333333333333,
+      0.2878787878787879
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.3296969696969697,
+      0.33647058823529413,
+      0.34424242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_14",
+    "text": "Thus it suffices to prove that if Q(x) is a monic polyno- mial of degree 1999 with all of its roots in [0, 1], then J0 |Q(x)|dx ≥ D for some constant D > 0. But the in- ri ∈ [0, 1]. The product of all of these intervals is com- pact, so the integral achieves a minimum value for some ri. This minimum is the desired D.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.3321212121212121,
+      0.9192156862745098,
+      0.4387878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_4",
+    "text": "A-5 First solution: (by Reid Barton) Let r1, . ., r1999 be the roots of P. Draw a disc of radius ε around each ri, where ε < 1/3998; this disc covers a subinterval of [−1/2, 1/2] of length at most 2ε, and so of the 2000 (or fewer) uncovered intervals in [−1/2, 1/2], one, which we call I, has length at least δ = (1 − 3998ε) /2000 > 0. We will exhibit an explicit lower bound for the integral of |P(x)|/P(O) over this interval, which will yield such a bound for the entire integral.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09333333333333334,
+      0.3509090909090909,
+      0.49098039215686273,
+      0.4824242424242424
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_15",
+    "text": "Third solution (by Abe Kunin): It suffices to prove the stronger inequality",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5576470588235294,
+      0.44363636363636366,
+      0.9192156862745098,
+      0.4727272727272727
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_5",
+    "text": "Note that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.4866666666666667,
+      0.19058823529411764,
+      0.5
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_16",
+    "text": "holds for some C. But this follows immediately from the following standard fact: any two norms on a finite- dimensional vector space (here the polynomials of de- gree at most 1999) are equivalent. (The proof of this statement is also a compactness argument: C can be taken to be the maximum of the Ll-norm divided by the sup norm over the set of polynomials with Ll-norm 1.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.5296969696969697,
+      0.9192156862745098,
+      0.6460606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_6",
+    "text": "Also note that by construction, |x − ri| ≥ ε for each x ∈ 1. If |i| ≤ 1, then e have −i ≥ . i| > 1, (n",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.5484848484848485,
+      0.4894117647058824,
+      0.5842424242424242
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_8",
+    "text": "We conclude that J |P(x) /P(0)|dx ≥ δε, independent of P.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.6290909090909091,
+      0.49019607843137253,
+      0.6587878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 15
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_17",
+    "text": "Note: combining the first two approaches gives a con- structive solution with a constant that is better than that given by the first solution, but is still far from optimal. I don't know offhand whether it is even known what the optimal constant and/or the polynomials achieving that constant are.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.6509090909090909,
+      0.92,
+      0.7375757575757576
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 16
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_9",
+    "text": "Second solution: It will be a bit more convenient to assume P(0) = 1 (which we may achieve by rescal- ing unless P(O) = 0, in which case there is nothing to prove) and to prove that there exists D > 0 such that J−1|P(x)|dx ≥ D, or even such that J0 |P(x)|dx ≥ D.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.6624242424242425,
+      0.49019607843137253,
+      0.7381818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 17
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_10",
+    "text": "We first reduce to the case where P has all of its roots in [0, 1]. If this is not the case, we can factor P(x) as Q(x)R(x), where Q has all roots in the interval and R has none. Then R is either always positive or always neg- ative on [0, 1]; assume the former. Let k be the largest positive real number such that R(x) − kx ≥ 0 on [0, 1]; then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.7412121212121212,
+      0.49019607843137253,
+      0.8418181818181818
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 18
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_18",
+    "text": "A–6 Rearranging the given equation yields the much more tractable equation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5231372549019608,
+      0.7478787878787879,
+      0.9184313725490196,
+      0.776969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 19
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002_19",
+    "text": "Let bn = an/an−1; with the initial conditions b2 = 2, b3 = 12, one easily obtains bn = 2n−1(2n−2 − 1), and SO",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5552941176470588,
+      0.8266666666666667,
+      0.9192156862745098,
+      0.8696969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_1999_Solutions_1999s_page_002",
+    "order": 20
+  }
+]

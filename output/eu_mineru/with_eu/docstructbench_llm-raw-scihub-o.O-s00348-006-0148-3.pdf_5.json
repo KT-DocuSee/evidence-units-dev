@@ -1,0 +1,159 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_0",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_0",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2 Test images superimposed: in red the first, in green the second frame (left). rame (lefi). The white square indicates the ndicates the Interrogation Window. On the right the same image with a rectangular artificially saturated area on the fi rst frame",
+        "bbox": [
+          0.07725379519580831,
+          0.05601384930489294,
+          0.2787854348370474,
+          0.15149200152914227
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Lorentzian SSD Fast Correlation 15 15 15 10 10 10 5 5 J 0 -5 10 .15 -15 15 -10 0 10 -10 0 10 -10 0 10 conservation by spurious pixels (outliers) between (e.g. the white square artificially added in the fi rst frame).",
+        "bbox": [
+          0.18977562732883346,
+          0.05855993336420626,
+          0.9220072513586688,
+          0.4430186263205169
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_2",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 3Maps ofdissimilarit with Lorentzian, u of squared 0.7, 0.6 and .5 are drawn in red, ree, nd be, epectively. The difencs dast colioDissiiaritabttf thesttissiilaie theacgunsi minimum value and normalized by the maximum value. Contours ordinate represent guessed displacement in the x and y direction, are drawn from 0 to 1 with a step of 0.05. For reference, the levels respectively",
+        "bbox": [
+          0.07725379519580831,
+          0.4532029625577702,
+          0.9287249726800434,
+          0.5015785596847232
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_3",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 4 Dissimilarity maps on the modifi ed image. Same contour lines and axes as in Fig.3",
+        "bbox": [
+          0.07725379519580831,
+          0.5257663582481997,
+          0.26031170120326713,
+          0.5741419553751527
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2989385988011713,
+          0.5270394002778563,
+          0.9220072513586688,
+          0.6861696539849386
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.07893322552615196,
+          0.7205417887856683,
+          0.49039365646034844,
+          0.7485487134381148
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Lorentzian estimator was computed for six different values of σe, ranging from 2 to 128; results are plotted in Fig. 5. If one assumes the level of the second peak as an indication of the signal to noise ratio, one should con- clude that the values of 26 is not optimal, since the values from 3 up to 13 behaves slightly better, but the results are more or less similar to those obtained with 26. Further increases of the value deteriorate the S/N ratio, but also for σe = 128, the Lorentzian estimator works noticeably better than SSD or cross-correlation. These results indicate that the Lorentzian estimator performs well for a wide range of values of the parameter, even though the optimal seems to be at about 1/3 of the",
+        "bbox": [
+          0.5088673900941286,
+          0.7205417887856683,
+          0.9186483906979814,
+          0.907678967145197
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The SSD and cross-correlation are functions defined univocally. Conversely, the Lorentzian depends on a parameter, σe, which tunes how robust the estimator has to be. As a matter of fact, it should equal the amplitude of the expected differences between pixels fulfilling the BCC. The above maps have been computed with a value equal to 26, that is about one half of the standard deviation of the image gray levels (σ = 43 ± 0.1 for both images).",
+        "bbox": [
+          0.07893322552615196,
+          0.7498217554677714,
+          0.49039365646034844,
+          0.8783990004630939
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00348-006-0148-3.pdf_5_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In order to test the sensitivity of the solution on the parameter σe, the dissimilarity map given by the",
+        "bbox": [
+          0.07893322552615196,
+          0.8796720424927505,
+          0.48871422613000476,
+          0.907678967145197
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

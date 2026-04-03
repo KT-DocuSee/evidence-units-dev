@@ -1,0 +1,430 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Atmospheric Administration (NOAA), Commerce.",
+        "bbox": [
+          0.3623529411764706,
+          0.07393939393939394,
+          0.6235294117647059,
+          0.0993939393939394
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "",
+        "bbox": [
+          0.07294117647058823,
+          0.07454545454545454,
+          0.12941176470588237,
+          0.08666666666666667
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Action: Temporary rule; reallocation.",
+        "bbox": [
+          0.36392156862745095,
+          0.10242424242424242,
+          0.6141176470588235,
+          0.11575757575757575
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_22",
+    "source": "visual_seed",
+    "member_count": 16,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6509803921568628,
+          0.07454545454545454,
+          0.9247058823529412,
+          0.24424242424242423
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The primary authors of this document are the staff members of the Unified Listing Team, Ecological Services Program.",
+        "bbox": [
+          0.07294117647058823,
+          0.09090909090909091,
+          0.34509803921568627,
+          0.1412121212121212
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "suMMARY: NMFS is exchanging unused flathead sole Community Development Quota (CDQ) for yellowfin sole CDQ acceptable biological catch (ABC) reserves in the Bering Sea and Aleutian Islands management area. This action is necessary to allow the 2016 total allowable catch of yellowfin sole in the Bering Sea and Aleutian Islands management area to be harvested.",
+        "bbox": [
+          0.3615686274509804,
+          0.12363636363636364,
+          0.6305882352941177,
+          0.2503030303030303
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The authority for this action is section 4 of the Endangered Species Act of 1973, as amended (16 U.S.C. 1531 et seq.).",
+        "bbox": [
+          0.07294117647058823,
+          0.16424242424242425,
+          0.34509803921568627,
+          0.21515151515151515
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Dated: September 26, 2016. Stephen Guertin, Acting Director, U.S. Fish and Wildlife Service. [FR Doc.2016–24142 Filed 10–5–16; 8:45 am] BILLING CODE 4333-15-P",
+        "bbox": [
+          0.07137254901960784,
+          0.21878787878787878,
+          0.3168627450980392,
+          0.2957575757575758
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Aleutian Pribilof Island Community Development Association has requested that NMFS exchange 80 mt of fl athead sole CDQ reserves for 80 mt of yellowfin sole CDQ ABC reserves under S 679.31(d). Therefore, in accordance with S 679.31(d), NMFS exchanges 80 mt of fl athead sole CDQ reserves for 80 mt of yellowfin sole CDQ ABC reserves in the BSAI. This action also decreases and increases the TACs and CDQ ABC reserves by the corresponding amounts. Tables 11 and 13 of the final 2016 and 2017 harvest specifications for groundfish in the BSAI (81FR 14773, March 18, 2016), and following revision (81 FR 64782, September 21, 2016), are revised as follows:",
+        "bbox": [
+          0.6509803921568628,
+          0.24848484848484848,
+          0.9254901960784314,
+          0.49696969696969695
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DATEs: Effective October 6, 2016 through December 31, 2016.",
+        "bbox": [
+          0.3623529411764706,
+          0.25333333333333335,
+          0.5850980392156863,
+          0.2787878787878788
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FOR FURTHER INFORMATION CONTACT: Steve Whitney, 907–586–7228.",
+        "bbox": [
+          0.3623529411764706,
+          0.2824242424242424,
+          0.6015686274509804,
+          0.30666666666666664
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SUPPLEMENTARY INFORMATION: NMFS manages the groundfish fi shery in the Bering Sea and Aleutian Islands management area (BSAI) according to the Fishery Management Plan for Groundfish of the Bering Sea and Aleutian Islands Management Area (FMP) prepared by the North Pacific Fishery Management Council under authority of the Magnuson-Stevens Fishery Conservation and Management Act. Regulations governing fishing by U.S. vessels in accordance with the FMP appear at subpart H of 50 CFR part 600 and 50 CFR part 679.",
+        "bbox": [
+          0.3615686274509804,
+          0.3096969696969697,
+          0.636078431372549,
+          0.49818181818181817
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "[Docket No. 150916863-6211–02] RIN 0648-XE935",
+        "bbox": [
+          0.07215686274509804,
+          0.4012121212121212,
+          0.2784313725490196,
+          0.4315151515151515
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_9",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Fisheries of the Exclusive Economic Zone Off Alaska; Exchange of Flatfish in the Bering Sea and Aleutian Islands Management Area",
+        "bbox": [
+          0.07215686274509804,
+          0.4412121212121212,
+          0.3396078431372549,
+          0.4921212121212121
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AGENcy: National Marine Fisheries Service (NMFS), National Oceanic and",
+        "bbox": [
+          0.07294117647058823,
+          0.4987878787878788,
+          0.33647058823529413,
+          0.5236363636363637
+        ],
+        "order": 19
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The 2016 fl athead sole and yellowfin sole CDQ reserves specified in the BSAI are 1,617 metric tons (mt), and 16,933 mt as established by the final 2016 and 2017 harvest specifications for groundfish in the BSAI (81 FR 14773, March 18, 2016) and following revision (81 FR 64782, September 21, 2016). The 2016 fl athead sole and yellowfin sole CDQ ABC reserves are 5,472 mt and 5,719 mt as established by the final 2016 and 2017 harvest specifications for gundfish in the BSAI (81 FR14773 March 18, 2016) and following revision (81 FR 64782, September 21, 2016).",
+        "bbox": [
+          0.3623529411764706,
+          0.4987878787878788,
+          0.6329411764705882,
+          0.5248484848484849
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_20",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE11—FINAL2016 CoMMUNITY DEVELOPMENTQUOTA(CDQ)RESERVES, INCIDENTAL CATCHAMOUNTS (ICAS),AND AMENDMENT 80ALLOCATIONS OFTHE ALEUTIAN ISLANDS PACIFIC OCEAN PERCH, AND BSAI FLATHEAD SOLE, ROCK SOLE, AND YELLOWFIN SOLE TACS",
+        "bbox": [
+          0.07607843137254902,
+          0.5327272727272727,
+          0.9341176470588235,
+          0.5751515151515152
+        ],
+        "order": 21
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_22",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06980392156862746,
+          0.5957575757575757,
+          0.9301960784313725,
+          0.7503030303030302
+        ],
+        "order": 23
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_24",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 13—FINAL2016AND 2017ABC SURPLUS, COMMUNITY DEVELOPMENT QUOTA(CDQ)ABC RESERVES,AND AMENDMENT 8OABCRESERVES INTHEBSAIFOR FLATHEAD SOLE, ROCKSOLE,ANDYELLOWFIN SOLE [Amounts are in metric tons]",
+        "bbox": [
+          0.08784313725490196,
+          0.7763636363636364,
+          0.9145098039215687,
+          0.8212121212121212
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Authority",
+        "bbox": [
+          0.07294117647058823,
+          0.14727272727272728,
+          0.1403921568627451,
+          0.16
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "DEPARTMENT OF COMMERCE",
+        "bbox": [
+          0.07372549019607844,
+          0.32242424242424245,
+          0.29254901960784313,
+          0.33515151515151514
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_6",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "National Oceanic and Atmospheric Administration",
+        "bbox": [
+          0.07450980392156863,
+          0.34484848484848485,
+          0.3176470588235294,
+          0.3703030303030303
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50 CFR Part 679",
+        "bbox": [
+          0.07294117647058823,
+          0.38242424242424244,
+          0.18588235294117647,
+          0.39454545454545453
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_21",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_21",
+        "observed_type": "table_caption",
+        "canon_role": "topic_title",
+        "text": "[Amounts are in metric tons]",
+        "bbox": [
+          0.41568627450980394,
+          0.5775757575757576,
+          0.5850980392156863,
+          0.5896969696969697
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_23",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Note: Sector apportionments may not total precisely due to rounding.",
+        "bbox": [
+          0.08392156862745098,
+          0.7533333333333333,
+          0.49411764705882355,
+          0.7660606060606061
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "table_panel",
+    "page": "newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18",
+    "primary_id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_25",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_2a6b4fa088699701a6fa9ccecfb5c25d_18_25",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06980392156862746,
+          0.826060606060606,
+          0.9309803921568628,
+          0.9363636363636364
+        ],
+        "order": 26
+      }
+    ]
+  }
+]

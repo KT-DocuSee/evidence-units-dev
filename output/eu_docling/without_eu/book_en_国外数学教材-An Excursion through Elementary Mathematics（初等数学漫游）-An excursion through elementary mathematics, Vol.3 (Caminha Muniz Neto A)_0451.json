@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_2",
+    "text": "(Singapore) * Let f be a polynomial of degree n, such that f(k) = k*1 for every integer 0 ≤ k ≤ n. Compute f (n + 1).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12099019349110936,
+      0.09141598722354027,
+      0.8768183625465604,
+      0.1308139526982851
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_3",
+    "text": "(USA)\" Let f be a real polynomial of degree n, such that f(k) = (\"ty) ' for 0 ≤ k ≤ n. Compute all possible values of f (n + 1).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12114538579676828,
+      0.12790697632914136,
+      0.8788546308331876,
+      0.17162698393662978
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_4",
+    "text": "(IMO- shortlist) A polynomial f, of degree 990, is such that f (k) = Fk for 992 ≤ k ≤ 1982, where Ek stands for the k-th Fibonacci number. Prove that f (1983) = F1983 — 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12114538379603397,
+      0.1728670633533817,
+      0.8788546288324531,
+      0.22529069792391307
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_5",
+    "text": "(IMO-shortlist) Let f be a real polynomial such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12114537366363827,
+      0.2266865081546998,
+      0.6431718142768901,
+      0.2428075399007317
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_6",
+    "text": "(a) f(1) > f(0) > 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14757709876559338,
+      0.2543604648340811,
+      0.3568281928092964,
+      0.2703488374551632
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_7",
+    "text": "(b) f (2) > 2f(1) - f (0).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1475770943629239,
+      0.2718023251574822,
+      0.398678411804477,
+      0.2877906977785643
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_8",
+    "text": "(c) f (3) > 3f(2) - 3f(1) + f(0).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14757709222058044,
+      0.289186508026519,
+      0.48237885645783374,
+      0.306795635010646
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_9",
+    "text": "(d) f(n +4) > 4f(n+3) - 6f(n +2) +4f(n + 1) - f(n) for every n € N.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1453744746224997,
+      0.30803571466722346,
+      0.8744493285052535,
+      0.32415674641325526
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_10",
+    "text": "Prove that f(n) > 0 for every n € N.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14757709999040478,
+      0.3357558142434543,
+      0.4911894267056303,
+      0.3502906973263133
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_11",
+    "text": "4 For other approaches to this problem, see Problem 11, page 386, and Problem 4, page 444.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12114537339452516,
+      0.8648255817493893,
+      0.8325991023213344,
+      0.8822674410703779
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451_12",
+    "text": "§For another approach to this problem, see Problem 3, page 444.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12114537029706689,
+      0.883680555597117,
+      0.6233480051801731,
+      0.8998015873431487
+    ],
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0451",
+    "order": 13
+  }
+]

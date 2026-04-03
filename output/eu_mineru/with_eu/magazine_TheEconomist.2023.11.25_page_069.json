@@ -1,0 +1,165 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.25_page_069",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.25_page_069_0",
+    "source": "visual_seed",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0592,
+          0.08542586110688379,
+          0.9384,
+          0.46243595596814285
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Artificial intelligence OpenAI v CloseAI",
+        "bbox": [
+          0.06,
+          0.4774514279916806,
+          0.3088,
+          0.5206716380053772
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6597333333333333,
+          0.4788718104803936,
+          0.9392,
+          0.6361284431593365
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "SAN FRANCISCO A chaotic week exposes fi ssures in the AI world. It may end up making the industry more dynamic",
+        "bbox": [
+          0.06133333333333333,
+          0.564906406939583,
+          0.5605333333333333,
+          0.603053822350733
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3624,
+          0.6105615583625019,
+          0.5946666666666667,
+          0.6233450007609191
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "s November 17th the board of OpenAI booted out Sam Altman, the ChatGPT-maker's boss. By November 2oth Mr Altman had been offered refuge at Microsoft, the start- up's biggest backer. The same day nearly all of Openar's 77o employees signed a letter threatening to quit unless the board mem- bers who dismissed Mr Altman reinstate him and resign. On November 2ist Mr Alt- man was back in his old job. Heads have, then, spun back more or less to where they started. Or have they?",
+        "bbox": [
+          0.06186666666666667,
+          0.6109673819307057,
+          0.3410666666666667,
+          0.8077918125095115
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To understand all these implications, start with what happened. OpenA's board fi red Mr Altman for not being \"consistently candid in his communications\".One factor that may have influenced the decision was disagreement over whether OpenAI had struck the right balance between the speed and safety of its products. Insiders say that OpenAI had made a breakthrough that en- abled models to get better at solving pro- blems without additional data. This spooked Ilya Sutskever, a co-founder and board member. Helen Toner, a board mem- beraffi liated with Georgetown University, had published an academic article that laid out what she saw as fl aws in OpenaI's ap- proach to AI safety. On November 21st the New York Times reported that Mr Altman, worried about the negative press, had moved to oust Ms Toner. There were also concerns over Mr Altman's side-projects, including a planned AI-semiconductor venture that sent him to the Persian Gulf to court billions in Saudi money.",
+        "bbox": [
+          0.3605333333333333,
+          0.6243595596814285,
+          0.6397333333333334,
+          0.782022015928575
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the end it was Ms Toner and three other board members that ousted him in- stead. The sixth director, Greg Brockman, was also stripped ofhis board seatand then quit in solidarity with Mr Altman. The two of them found succour at Microsoft, which said it would create a new in-house AI lab which they would run. Microsoft also pledged to hire the rest of Openar's team. Whether or not this was evera serious plan may never be known. But it lent Mr Altman huge bargaining power when negotiating his return to OpenAI. On November 2oth, as those negotiations were under way, Satya Nadella, the tech giant's chief execu- tive, declared that \"Irrespective of where Sam is, he's working with Microsoft.\"",
+        "bbox": [
+          0.66,
+          0.6375488256480495,
+          0.9397333333333333,
+          0.8609546999441993
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In fact, the OpenAI saga marks the start of a new, more grown-up phase for the AI industry. For OpenAI, Mr Altman's trium- phant return may supercharge its ambi- tions. For Microsoft, which stood by Mr Altman in his hour of need, the episode may result in greater sway over AI's hottest startup. For AI companies everywhere it may herald a broader shift away from aca- demic idealism and towards greater com- mercial pragmatism. And for the technol- ogy's users,it may, with luck, usher in more competition and more choice.",
+        "bbox": [
+          0.06186666666666667,
+          0.8096180185664282,
+          0.3416,
+          0.9670775630294729
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The deal struck by Mr Altman and those who ousted him will transform OpenAI, starting with the board. Ms Toner and Mr Sutskever are out. So is Tasha McCauley, a tech entrepreneur. All three backed Mr Alt- man's dismissal. Mr Brockman and, for the time being, Mr Altman will not be return- ing. Of the pre-chaos six only Adam D'An-",
+        "bbox": [
+          0.6592,
+          0.8621721706488105,
+          0.9528,
+          0.9676862983817786
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "magazine_TheEconomist.2023.11.25_page_069",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.25_page_069_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.25_page_069_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.3589333333333333,
+          0.8043423121797798,
+          0.6413333333333333,
+          0.9658600923248618
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Solutions to the 57th William Lowell Putnam Mathematical Competition Saturday, December 7, 1996",
+        "bbox": [
+          0.19924813847427014,
+          0.06686046498548608,
+          0.8063909676347525,
+          0.1031976738465409
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Manjul Bhargava and Kiran Kedlaya",
+        "bbox": [
+          0.3778195562180328,
+          0.1162790696689312,
+          0.6296992470714406,
+          0.1294642855167641
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-1 If x and y are the sides of two squares with combined area 1, then x2 + y? = 1. Suppose without loss of generality that x ≥ y. Then the shorter side of a rectangle containing both squares without overlap must be at least x, and the longer side must be at least x + y. Hence the desired value of A is the maximum of xx+ y).",
+        "bbox": [
+          0.09586466359649118,
+          0.16715116335198135,
+          0.4906015057017543,
+          0.25297619057742393
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To find this maximum, we let x = cos 0, y = sin 0 with · € [0, /4). Then we are to maximize",
+        "bbox": [
+          0.12781955349641144,
+          0.26016865079214996,
+          0.49060150312281514,
+          0.2877906972930907
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.13909774311560155,
+          0.29941860491096867,
+          0.43796991995145135,
+          0.3864396223413965
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "However, Robin Chapman has pointed out that the solution is not unique in the problem as stated, because a given selection of courses may be made by more than one student. One alternate solution is to identify the 6 courses with pairs of antipodal vertices of an icosahedron, and have each student pick a different face and choose the three vertices touching that face. In this example, each of 10 selections is made by a pair of students.",
+        "bbox": [
+          0.5582706734749294,
+          0.3430059522138221,
+          0.919172935547627,
+          0.47529069741461283
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "with equality for 0 = /8. Hence this value is the desired value of A.",
+        "bbox": [
+          0.12781955351878882,
+          0.40389316886762716,
+          0.4907036813427615,
+          0.43313953481771356
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-2 Let 01 and O2 be the centers of Cy and C2, respectively. (We are assuming Cy has radius 1 and C2 has radius 3.) Then the desired locus is an annulus centered at the midpoint of 0,02, with inner radius 1 and outer radius 2.",
+        "bbox": [
+          0.09586466658834576,
+          0.44618055555605596,
+          0.49060151109241035,
+          0.5174418604909526
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A 4 In fact, we will show that such a function g exists with the property that (a,b,c) E S if and only if g(d) < 8(e) < 8(f) for some cyclic permutation (d,e, f) of (a,b,c). We proceed by induction on the number of elements in A. If A = {a,b,c} and (a,b,c) ES, then choose g with g(a) < g(b) < g(c), otherwise choose g with g(a) > g(b) > g(c).",
+        "bbox": [
+          0.5244360935150376,
+          0.4883432541805003,
+          0.919172938756884,
+          0.5886627908143538
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For a fixed point @ on Cz, the locus of the midpoints of the segments PQ for P lying on C, is the image of C under a homothety centered at @ of radius 1/2, which is a circle of radius 1/2. As @ varies, the center of this smaller circle traces out a circle C3 of radius 3/2 (again by homothety). By considering the two positions of e on the line of centers of the circles, one sees that Cz is centered at the midpoint of 0, 02, and the locus is now clearly the specified annulus.",
+        "bbox": [
+          0.12771457555447194,
+          0.5232558139458207,
+          0.4907062415525464,
+          0.651162790631667
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now let z be an element of A and B = A - {z}. Let a1,..., An be the elements of B labeled such that g (a1) < 8(a2) < ... < g(an). We claim that there exists a unique i E{1,...,n} such that (ai, z, aj+1) € S, where hereafter An+k = Ak·",
+        "bbox": [
+          0.556390994714253,
+          0.5944767440511985,
+          0.9210526264636915,
+          0.6656976741880792
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-3 The claim is false. There are (3) = 20 ways to choose 3 of the 6 courses; have each student choose a different set of 3 courses. Then each pair of courses is chosen by 4 students (corresponding to the four ways to complete this pair to a set of 3 courses) and is not chosen by 4 students (corresponding to the 3-element subsets of the remaining 4 courses).",
+        "bbox": [
+          0.09377573407212673,
+          0.6597702237740759,
+          0.490862351342365,
+          0.7646329364989365
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_13",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We show existence first. Suppose no such i exists; then for all i,k € {1,...,n}, we have (ai+k,z, ai) & S. This holds by property 1 for k = 1 and by induction on k in general, noting that",
+        "bbox": [
+          0.5563909776685544,
+          0.671511627808466,
+          0.9191729381522473,
+          0.7281976742990921
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5507518833427115,
+          0.7412790698442294,
+          0.887218038095877,
+          0.7921626982801835
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: Assuming that no two students choose the same courses, the above counterexample is unique (up to permuting students). This may be seen as follows: Given a group of students, suppose that for any pair of courses (among the six) there are at most 4 students taking both, and at most 4 taking neither. Then there are at most 120 = (4 + 4) 2) pairs (s, p), where s is a student, and p is a set of two courses of which s is taking either both or none. On the other hand, if a student s is taking k courses, then he/she occurs in f(k) = (2) + (*=*) such pairs (s, p). As f(k) is minimized for k = 3, it follows that every student occurs in at least 6 = (2) + (2) such pairs (s, p). Hence there can be at most 120/6 = 20 students, with equality only if each student takes 3 courses, and for each set of two courses, there are exactly 4 students who take both and exactly 4 who take neither. Since there are only 4 ways to complete a given pair of courses to a set of 3, and only 4 ways to choose 3 courses not containing the given pair, the only way for there to be 20 students (under our hypotheses) is if all sets of 3 courses are in fact taken. This is the desired conclusion.",
+        "bbox": [
+          0.12566204327858652,
+          0.7718023255747283,
+          0.49101766590926277,
+          0.9272390253640235
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Applying this when k = n, we get (aj-1,z, ai) € S, contradicting the fact that (aj,z, aj-1) € S. Hence existence follows.",
+        "bbox": [
+          0.5574069408908253,
+          0.8052325580519254,
+          0.9191729275263402,
+          0.8478197675688812
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_1996_Solutions_1996s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now we show uniqueness. Suppose (ai, z, ai+1) € S; then for any j# i - 1,i,i+ 1, we have (ai, ai+1, aj), (aj, aj+1, ai) E S by the assumption on G.",
+        "bbox": [
+          0.5563909880099926,
+          0.8546511634377687,
+          0.921052619759431,
+          0.8968253967481673
+        ],
+        "order": 17
+      }
+    ]
+  }
+]

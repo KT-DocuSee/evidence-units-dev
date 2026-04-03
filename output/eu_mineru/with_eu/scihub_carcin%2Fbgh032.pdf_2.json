@@ -1,0 +1,238 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_carcin%2Fbgh032.pdf_2",
+    "primary_id": "mineru_scihub_carcin%2Fbgh032.pdf_2_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The gene expression alterations listed in Table I from the five dife  us hae g ino a based on the function of the genes involved. As IL-8 (29) and IkB (30) have previously been suggested to be transcriptional",
+        "bbox": [
+          0.5317647058823529,
+          0.07011181625868843,
+          0.9396078431372549,
+          0.12511332728921123
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "scihub_carcin%2Fbgh032.pdf_2",
+    "primary_id": "mineru_scihub_carcin%2Fbgh032.pdf_2_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "gene expression between samples was calculated through the inclusion of a cDNA dilution series of a reference sample, amplified with each primer set separately. In order to account for RNA loading differences between samples, the measured gene expression was normalized against β-actin expression. The t-test was used to assign statistical significance.",
+        "bbox": [
+          0.09098039215686274,
+          0.07132064067694167,
+          0.5003921568627451,
+          0.12813538833484436
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "scihub_carcin%2Fbgh032.pdf_2",
+    "primary_id": "mineru_scihub_carcin%2Fbgh032.pdf_2_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "NF-kB reporter system",
+        "bbox": [
+          0.09176470588235294,
+          0.14203686914475672,
+          0.2164705882352941,
+          0.1535207011181626
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_7",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table I. Other DCA induced gene expression alterations",
+        "bbox": [
+          0.5309803921568628,
+          0.1486854034451496,
+          0.8384313725490196,
+          0.1613780598368087
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The ability of DCA to activate NF-kB was investigated using a luciferase reporter system in which the luciferase gene was under the control ofaNF-kB dependent promoter (Stratagene, Cambridge, UK). In short, the OE33 cells were seeded in triplicate into 6 well tissue culture flasks and the NF-kB luciferase plasmid was transfected into them using the genejammer transfec- tion reagent(Sratagene). Initial experiments validated the transfection using a supplied positive control for NF-kB activity. The cells were then either exposed to DCA for varying periods of time (O–4 h) or remained untreated. After exposure, the cells were processed following the manufacturer's recom- mendations to release the luciferase enzyme and the subsequent luciferase expression was quantified with the Bright-Gloluciferase assay system (Promega, Southampton, UK). Resulting luminescence was measured using a luminometer(Anthos Labtech Instruments, Salzburg,Austria).Fold increases were calculated based on the background luminescence of the untreated cells (untreated cells were set up for each time point analysed). The t-test was used to evaluate diferences between the triplicate readings from treated and untreated cells.",
+        "bbox": [
+          0.09176470588235294,
+          0.15533393774554247,
+          0.5011764705882353,
+          0.34693260803868237
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "scihub_carcin%2Fbgh032.pdf_2",
+    "primary_id": "mineru_scihub_carcin%2Fbgh032.pdf_2_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_8",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5286274509803922,
+          0.1637957086733152,
+          0.9435294117647058,
+          0.5234209731036567
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "scihub_carcin%2Fbgh032.pdf_2",
+    "primary_id": "mineru_scihub_carcin%2Fbgh032.pdf_2_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Results",
+        "bbox": [
+          0.09176470588235294,
+          0.37352674524025387,
+          0.14352941176470588,
+          0.3868238138410396
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "scihub_carcin%2Fbgh032.pdf_2",
+    "primary_id": "mineru_scihub_carcin%2Fbgh032.pdf_2_4",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "DCA specifically switches on IkB and IL-8",
+        "bbox": [
+          0.09254901960784313,
+          0.395889996977939,
+          0.3819607843137255,
+          0.41039588999697796
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RNA extracted from untreated OE33 cells and OE33 cells treated for 24 h with 300 M DCA at pH 7, was analysed using five different pathway specific membrane arrays. By far the most prominent of the DCA induced gene expression changes were the switching on of IkB and IL-8. As IkB and IL-8 are transcriptional targets of NF-kB, this suggests activa- tion of NF-kB by DCA (as is demonstrated below). As shown in Figure 2, using a cancer pathway array and a signal trans- duction array, both IkB and IL-8 are substantially up-regulated 24 h after DCA treatment. Figure 2 also shows a number of other changes in gene expression 24 h after DCA treatment (mostly up-regulation), these (and other changes noted from other arrays) are documented in Table I.",
+        "bbox": [
+          0.09176470588235294,
+          0.41281353883348443,
+          0.5011764705882353,
+          0.5917195527349652
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_9",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "This table contains a list of genes whose expression was consistently altered after exposure to DCA. By consistent, we mean that the expression change was evident on both duplicate array experiments (although no real-time PCR data available). In the right hand column is the time point at which the expression change was evident. The arrows in the central column reflect the relative strength of the expression changes.",
+        "bbox": [
+          0.5309803921568628,
+          0.5264430341492898,
+          0.9419607843137255,
+          0.5935327893623451
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "visual_panel",
+    "page": "scihub_carcin%2Fbgh032.pdf_2",
+    "primary_id": "mineru_scihub_carcin%2Fbgh032.pdf_2_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_10",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2627450980392157,
+          0.6213357509821699,
+          0.7678431372549019,
+          0.8812330009066183
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "scihub_carcin%2Fbgh032.pdf_2",
+    "primary_id": "mineru_scihub_carcin%2Fbgh032.pdf_2_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_carcin%2Fbgh032.pdf_2_11",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "ig2aDAassaatesis indcDAaf sigal to riiDNAEelDNAelsaDA. A",
+        "bbox": [
+          0.08862745098039215,
+          0.8927168328800241,
+          0.9301960784313725,
+          0.9398609851919009
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

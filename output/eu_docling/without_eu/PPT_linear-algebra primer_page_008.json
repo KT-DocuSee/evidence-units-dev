@@ -1,0 +1,184 @@
+[
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_0",
+    "text": "Bases & Orthonormal Bases",
+    "canon_role": "section_header",
+    "bbox": [
+      0.18750000557576252,
+      0.06382275197118815,
+      0.8037790626697915,
+      0.16472868000266544
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_1",
+    "text": "Basis (or axes): frame of reference",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09011627343368604,
+      0.20734126996483732,
+      0.5523255813918955,
+      0.24612403054458734
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_15",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.6232918701171875,
+      0.23660569254557293,
+      0.9075582275390625,
+      0.5278368733723958
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_3",
+    "text": "(4, ½2)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6816860467796599,
+      0.2440476193092051,
+      0.7223837197901076,
+      0.265542328303914
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_14",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.18271539306640625,
+      0.2791701253255208,
+      0.49556967163085935,
+      0.49634525553385417
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_2",
+    "text": "VS",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.46656976714220694,
+      0.38372093075172764,
+      0.4985465123843712,
+      0.40891472796920264
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_4",
+    "text": "Basis: a space is totally defined by a set of vectors - any point is a linear combination of the basis",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07703488262154938,
+      0.5717054259956605,
+      0.8866279093622476,
+      0.6472868214567324
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_5",
+    "text": "Ortho-Normal: orthogonal + normal",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07500001040205696,
+      0.7000000017499199,
+      0.4958333255701652,
+      0.744444444176006
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_10",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5534203311023506,
+      0.7304894173915116,
+      0.8997093006029108,
+      0.9064691400554028
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_6",
+    "text": "[Sneak peek:",
+    "canon_role": "section_header",
+    "bbox": [
+      0.07548716221706041,
+      0.7938105487718723,
+      0.2311988811850431,
+      0.8302204591656428
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_7",
+    "text": "Orthogonal: dot product is zero",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17500001471431675,
+      0.833333333099517,
+      0.5416666571606834,
+      0.8723544971206811
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_8",
+    "text": "Normal: magnitude is one ]",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17587209490318456,
+      0.8817829463656616,
+      0.4898255853875132,
+      0.91865079325324
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_11",
+    "text": "Shivkumar Kalyanaraman",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6845930297218591,
+      0.9146825399083431,
+      0.9491279042897689,
+      0.9477513229771262
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_PPT_linear-algebra primer_page_008_9",
+    "text": "Rensselaer Polytechnic Institute",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.047965120808898955,
+      0.9302248675757413,
+      0.26308139459807767,
+      0.9515503876824655
+    ],
+    "page": "PPT_linear-algebra primer_page_008",
+    "order": 14
+  }
+]

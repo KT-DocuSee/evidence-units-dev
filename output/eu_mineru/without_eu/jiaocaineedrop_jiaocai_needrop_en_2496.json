@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_0",
+    "text": "专题41 有关圆幂定理型压轴题",
+    "canon_role": "section_header",
+    "bbox": [
+      0.29826682789197906,
+      0.09234715690466011,
+      0.7029423619508263,
+      0.11571896822003705
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_1",
+    "text": "【方法点拨】",
+    "canon_role": "section_header",
+    "bbox": [
+      0.15558242644095122,
+      0.12198945418269916,
+      0.25312374042724706,
+      0.13852073535699017
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_2",
+    "text": "1.相交弦定理：如下左图，圆O的两条弦AB、PC相交于圆内一点P，则 PA·PB = PC·PD.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1531640467553406,
+      0.14650135385492374,
+      0.747279322853688,
+      0.18697449052301554
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_3",
+    "text": "2.切割线定理：如下右图，PT为圆O的切线，PAB、PCD为割线，则PT2=PA·PB()； 3.割线定理：如下右图，PAB、PCD为圆O的割线，则PA·PB=PC·PD.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16364369205965337,
+      0.20863616930312098,
+      0.8512696493349455,
+      0.25138948268490807
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_4",
+    "text": "说明：上述三个定理可以统为PA·PB=PO2−R²(其中R是半径)，统称为圆幂定理.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14671503426037888,
+      0.27191107310816587,
+      0.8278919790407094,
+      0.2907225309961522
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_5",
+    "text": "D D A B",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.25796049979846836,
+      0.32435513752315803,
+      0.7440548166062072,
+      0.4395040615647713
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_6",
+    "text": "【典型题示例】",
+    "canon_role": "section_header",
+    "bbox": [
+      0.154776299879081,
+      0.45546529856063844,
+      0.27166465135026197,
+      0.4731366680917771
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_7",
+    "text": "例1 如图，在平直坐标系xOy中，已知点A(-1,0)，点P是圆O：x²+y²=4上 的任意点，过点B(1,O)作直线BT垂直于AP,垂为T,则2PA+3PT的最值是",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14671503426037888,
+      0.4902379934444919,
+      0.8569125352680371,
+      0.5472424112868748
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_8",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.354695687222894,
+      0.5689040900669802,
+      0.588472390165256,
+      0.7079948696023942
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_9",
+    "text": "【答案】6√ a",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15558242644095122,
+      0.7342169018098903,
+      0.26440951229343007,
+      0.7535984038763004
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_10",
+    "text": "【分析】从题中已知寻求PA、PT间的关系是突破，也是难点，思路是从中线长定理 ，是直接使圆幂定理.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15074566706972994,
+      0.7712697734074391,
+      0.8512696493349455,
+      0.8128829984323785
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2496_11",
+    "text": "【解法】由中线长公式可得PO= 1 √2(PA²2 + PB{)− AB2,则PA{ + PB{=10 2 PA2 + PB2 − AB2 3 cos P= 则cosP = 2PA·PB PA·PB",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.15155179363160015,
+      0.8220037052871597,
+      0.7900040306328093,
+      0.9058001995154624
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2496",
+    "order": 12
+  }
+]

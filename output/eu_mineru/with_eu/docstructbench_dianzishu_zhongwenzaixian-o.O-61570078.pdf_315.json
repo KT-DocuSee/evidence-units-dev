@@ -1,0 +1,139 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_1",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "续表",
+        "bbox": [
+          0.8430740258325168,
+          0.09500736554981258,
+          0.881700923430421,
+          0.1080708783129118
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.11588069279371246,
+          0.11044606245165713,
+          0.881700923430421,
+          0.34321410804869795
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：2015年河北省1%人口抽样调查数据。",
+        "bbox": [
+          0.11756012312405613,
+          0.3444017001180706,
+          0.49711137778172304,
+          0.3610279890892878
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "（三）家庭户规模与构成的地区差异",
+        "bbox": [
+          0.15282816006127298,
+          0.3693411335748964,
+          0.42657530390728937,
+          0.38477983047674097
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1．家庭户规模的地区差异明显",
+        "bbox": [
+          0.1511487297309293,
+          0.3942805670317222,
+          0.3896278366397289,
+          0.4097192639335667
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2015 年河北省1%人口抽样调查数据显示，河北省11个设区市中，家庭户平均规模超过全省 平均水平3.24人的有石家庄、邯郸、邢台、保定、沧州和廊坊6个市，其中家庭规模最大的是邯 郸市，为3.62人；其次是保定市，为3.41人；最小的是张家口市，为2.60人，与家庭户平均规 模最大的邯郸市相差1.02人（见表4一3）。",
+        "bbox": [
+          0.11588069279371246,
+          0.419220000488548,
+          0.8850597840911083,
+          0.5118521818996152
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表4一32015年河北省平均家庭户规模",
+        "bbox": [
+          0.34428321772045006,
+          0.5189777343158513,
+          0.654977828834027,
+          0.5356040232870685
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_8",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：2015年河北省1%人口抽样调查数据。",
+        "bbox": [
+          0.11756012312405613,
+          0.8895064599601202,
+          0.49711137778172304,
+          0.9049451568619649
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.11756012312405613,
+          0.5462923519114223,
+          0.8783420627697336,
+          0.887131275821375
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

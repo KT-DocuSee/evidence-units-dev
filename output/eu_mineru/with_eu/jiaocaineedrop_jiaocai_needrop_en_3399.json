@@ -1,0 +1,227 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3399",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_0",
+    "source": "text_cluster",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13.What isAnn doing now?",
+        "bbox": [
+          0.05392840539284054,
+          0.07506172839506173,
+          0.28544862854486286,
+          0.08954732510288066
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A. Watching TV. B. Reading the newspaper. C. Reading books.",
+        "bbox": [
+          0.08368200836820083,
+          0.09283950617283951,
+          0.6294746629474663,
+          0.12641975308641976
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14.What will the wcather be likein London tomomow?",
+        "bbox": [
+          0.05392840539284054,
+          0.13037037037037036,
+          0.4900046490004649,
+          0.14419753086419754
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A. Rainy and windy. B. Fine and cloudy. C.Cloudy and windy.",
+        "bbox": [
+          0.08554160855416086,
+          0.14814814814814814,
+          0.5811250581125058,
+          0.1817283950617284
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15. In which city will the temmperature be the highest?",
+        "bbox": [
+          0.049279404927940494,
+          0.18567901234567902,
+          0.4732682473268247,
+          0.20016460905349795
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "16. Who is the speaker?",
+        "bbox": [
+          0.05485820548582055,
+          0.24098765432098765,
+          0.24732682473268247,
+          0.2554732510288066
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3399",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_13",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A. Beijing. B.London. C. New York. 听下面一段短文，回答第16～18小题。",
+        "bbox": [
+          0.08647140864714087,
+          0.20411522633744855,
+          0.5355648535564853,
+          0.23703703703703705
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. A guide. B. A teacher. C. A visitor.",
+        "bbox": [
+          0.08647140864714087,
+          0.2594238683127572,
+          0.5234774523477452,
+          0.27325102880658436
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "17. Where is the Big Ben?",
+        "bbox": [
+          0.05392840539284054,
+          0.277201646090535,
+          0.26778242677824265,
+          0.29300411522633746
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "A. On Westminster Church. B. On the House of Parliament. C. On the Tower of London.",
+        "bbox": [
+          0.08647140864714087,
+          0.2962962962962963,
+          0.6685262668526267,
+          0.328559670781893
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18. How many bridges are mentioned in the speech.?",
+        "bbox": [
+          0.05206880520688052,
+          0.3331687242798354,
+          0.4807066480706648,
+          0.3476543209876543
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. Four. B. Three. C. Two.",
+        "bbox": [
+          0.08554160855416086,
+          0.3509465020576132,
+          0.4872152487215249,
+          0.36609053497942384
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_12",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "六、听下面一段对话，记录关键信息（共8分，每小题2分）",
+        "bbox": [
+          0.056717805671780565,
+          0.40427983539094653,
+          0.5271966527196653,
+          0.4213991769547325
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_13",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.1701534170153417,
+          0.42403292181069957,
+          0.6415620641562064,
+          0.4786831275720165
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_3399",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_3399_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Name: 61. When to collect tickets: 62. on",
+        "bbox": [
+          0.17108321710832172,
+          0.48987654320987656,
+          0.6369130636913064,
+          0.5267489711934157
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "PPT_Catalysis.ppt_page_016",
+    "primary_id": "docling_PPT_Catalysis.ppt_page_016_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_016_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "General Composition of Catalyst System",
+        "bbox": [
+          0.070833324694925,
+          0.09986772402062268,
+          0.9291666701384084,
+          0.16666666581956452
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_Catalysis.ppt_page_016_1",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Group I - I|I Metals | Transition Metals | Additives | AlEt | TiCl | H2 | EtzAICI EtAICl | MgCh Support | 02, H20 R-CECH | i-BugAl | VCl3, VoCL3, V(AcAc)3 | R-OH Phenols | EtzMg EtzZn | Titanocene dichloride Ti(OiBu)4 | R3N, R20, RgP Aryl esters | Et Pb | (Mo, Cr, Zr, W, Mn, Ni) | HMPA, DMF",
+        "bbox": [
+          0.0477586669921875,
+          0.16272303263346355,
+          0.9620977783203125,
+          0.9808790690104167
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_SE20.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_SE20.pdf_2_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_SE20.pdf_2_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "20.2 Defect Amplification and Removal",
+        "bbox": [
+          0.15733333333333333,
+          0.06488888888888888,
+          0.8806666666666667,
+          0.12266666666666666
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_SE20.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_SE20.pdf_2_1",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_SE20.pdf_2_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Defect Amplification Model",
+        "bbox": [
+          0.09333333333333334,
+          0.15466666666666667,
+          0.52,
+          0.20266666666666666
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE20.pdf_2_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Defects Detection Errors from Errors passed through Previous step Percent Errors passed Amplied errors 1:x Efficiency To next step Newly generated errors",
+        "bbox": [
+          0.078,
+          0.20444444444444446,
+          0.914,
+          0.44266666666666665
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE20.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Development step",
+        "bbox": [
+          0.43266666666666664,
+          0.4471111111111111,
+          0.6166666666666667,
+          0.48088888888888887
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE20.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Assume that an error uncovered during design will cost 1.5 monetary unit to correct. Relative to this cost, the same error uncovered just before testing commences will cost 6.5 units; during testing, 15 units; and after release, between 67 and 100 units.",
+        "bbox": [
+          0.08333333333333333,
+          0.48977777777777776,
+          0.9153333333333333,
+          0.7075555555555556
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaopptmerge_SE20.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A number of studies indicate that design activities introduce between 50% - 65% of all errors during the software process. However, formal review technique have been shown to be up to 75% effective in uncovering design flaws.",
+        "bbox": [
+          0.09133333333333334,
+          0.7208888888888889,
+          0.91,
+          0.8977777777777778
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

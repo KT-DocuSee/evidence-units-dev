@@ -1,0 +1,314 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_13",
+    "text": "Second solution: If a,b,c,d are in arithmetic progression, then we may write",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706737995068,
+      0.06820436523360326,
+      0.9210526342831996,
+      0.09747023794144205
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_1",
+    "text": "(a)n implies (b)n;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1484962396798226,
+      0.06969246030212492,
+      0.27819548640100455,
+      0.08139534884387631
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_2",
+    "text": "(a)n and (b)1, ..., (b)n together imply (a)n+1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14849624242792472,
+      0.08854166651931657,
+      0.45864660437658694,
+      0.10174418569013824
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_14",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5714285831547414,
+      0.11046511663544327,
+      0.8552631556297196,
+      0.12354651112618471
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_3",
+    "text": "To produce a value of n for which sn = 2015 (mod 10000), we take n = 3m + 1 for some nonnegative integer m for which 53m+1 = 30m + 15. We must also have 30m = 2000 (mod 10000), or equivalently m = 400 (mod 1000). By taking m = 1400, we ensure that m = 2 (mod 3), so Sm = 10m + 7; this ensures that Sn does indeed equal 30m + 15 = 42015, as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1277153300739812,
+      0.11185515889495615,
+      0.49069406821482675,
+      0.21230158725736126
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_15",
+    "text": "for some r,s. If s = 0, then clearly all powers of M are in xS. Also, if r = 0, then one easily checks that M3 is in S.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5581451251003658,
+      0.13808139535670502,
+      0.9193042869239177,
+      0.17881944425035634
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_16",
+    "text": "We now assume rs # 0, and show that in that case M cannot be in S. First, note that the characteristic polynomial of M is 12 - 2rx - 85, and since M is nonsingular (as s # 0), this is also the minimal polynomial of M by the Cayley-Hamilton theorem. By repeatedly using the relation M2 = 2rM + 8571, we see that for each positive integer, we have Mk = IM + ukI for unique real constants Ik, Uk (uniqueness follows from the independence of M and I). Since M is in S, we see that M' lies in S only if uk = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112848301682,
+      0.18601190485313757,
+      0.9194659882032625,
+      0.3330592315411673
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_4",
+    "text": "Remark: With a bit more work, we can give a complete description of sn, and in particular find the first term in the sequence whose decimal expansion ends in 2015. Define the function on nonnegative integers",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1277533850772454,
+      0.21947674483311763,
+      0.49070513141921024,
+      0.27616279068717353
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20112781939841073,
+      0.2906746030469226,
+      0.3759398522718362,
+      0.30381944431676383
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_6",
+    "text": "which takes values in {-1,0, 1}; we then have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781956109678008,
+      0.3168604653626403,
+      0.43421052175096414,
+      0.33139534844549956
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_17",
+    "text": "On the other hand, we claim that if k > 1, then rik > 0 and uk > 0 if k is even, and tk > 0 and ruk > 0 if k is odd (in particular, uk can never be zero). The claim is true for k = 2 by the relation M7 = 2rM + 8s 1. Assuming the claim for k, and multiplying both sides of the relation Mk = 1M + uk| by M, yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5542860882332856,
+      0.33575581395308807,
+      0.9192554842322449,
+      0.4238647566591476
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14097744347070904,
+      0.3473837211789266,
+      0.4342834802246947,
+      0.39860740280973417
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_8",
+    "text": "Consequently, if we write n in base 3, then f(n) = 0 unless the expansion ends with 2 followed by a string of 1s of length k ≥ 0, in which case f(n) = (-1)k+1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984058773555,
+      0.41269841250865863,
+      0.4907367382176742,
+      0.4563953491739132
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_18",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5361007869944853,
+      0.4327682772549716,
+      0.8998387235753676,
+      0.45548206676136366
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_9",
+    "text": "In this notation, we have Sn = 2015 (mod 10000) if and only if n = 3m + 1 for some nonnegative integer m for which m = 400 (mod 1000) and f(m) = -1. Since 400 = 112211(3), the first such term in the sequence is in fact 51201 = 12015.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195422440558,
+      0.46075581381864056,
+      0.49060151260400175,
+      0.5319940477710635
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_19",
+    "text": "implying the claim for k + 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909868358192,
+      0.46220930226340795,
+      0.7481202961529025,
+      0.47529069770025495
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_20",
+    "text": "Remark: (from artofproblemsolving.com, user hoeij) Once one has uk = 0, one can also finish using the relation M. Mk = Mk. M.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390981215848,
+      0.4825581396382289,
+      0.9191729259235671,
+      0.5248015868633708
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_21",
+    "text": "B4 First solution: The answer is 17/21. For fixed b,c, there is a triangle of side lengths a,b,c if and only if b-c| < a < b+c. It follows that the desired sum is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5338345941046284,
+      0.5348837209043963,
+      0.9210526389119592,
+      0.5771329366442853
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_10",
+    "text": "B3 First solution: Any element of S can be written as M = aA + BB, where A = (1 1), B = (-3 3'), and a, BE R. Note that A? = (44) and B3 = (-34 24) are both in S, and so any matrix of the form aA or BB, a, BE R, satisfies the given condition.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10338347185805821,
+      0.5436046510279429,
+      0.49072704481999313,
+      0.6163194443749034
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_22",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5537928323184743,
+      0.5904808460582386,
+      0.8814890423943015,
+      0.6377709406072443
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_11",
+    "text": "We claim that these are also the only matrices in S satisfying the given condition. Indeed, suppose M = aA + BB where a B # 0. Let C = (- I/V2) with inverse C-' = (1/22 1//2) If we define D = C-'MC, then D = 2a (iT) where y = -Buz -. Now suppose that Mk is in S with k ≥ 2. Since (1-1) A (-1) = (1-1) B (4) = 0, we have (1 -1) Mk (-1) = 0, and so the upper left entry of CMC = Dk is 0. On the other hand, from the expression for D, an easy induction on k shows that Dk = (2a)* (Y PAK), where Pk is defined inductively by po = 0, p1 = 1, Pk+2 = 7 Pk + Pk+1. In particular, it follows from the inductive definition that pk > 0 when k≥ 1, whence the upper left entry of Dk is nonzero when k ≥ 2, a contradiction.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1255700899002855,
+      0.6235119049510376,
+      0.4911093664542609,
+      0.8648313493955924
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_23",
+    "text": "We write this as S = S, +S where Si sums over positive integers b, c with b ≤ c and Sz sums over b > c. Then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390993030356,
+      0.6423611109243115,
+      0.9191729293446196,
+      0.6701388886803659
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_24",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6052631584741511,
+      0.700581395232158,
+      0.7349624054789342,
+      0.8794642855570456
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005_12",
+    "text": "Remark: A variant of this solution can be obtained by diagonalizing the matrix M.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1278195553956645,
+      0.8720238093922952,
+      0.4906015054724391,
+      0.8998015873714286
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2015_Solutions_2015s_page_005",
+    "order": 25
+  }
+]

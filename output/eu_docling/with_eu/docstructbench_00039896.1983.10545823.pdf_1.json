@@ -1,0 +1,286 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_00039896.1983.10545823.pdf_1",
+    "primary_id": "docling_docstructbench_00039896.1983.10545823.pdf_1_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This article was downloaded by: [130.132.123.28]",
+        "bbox": [
+          0.035647284902814276,
+          0.027529761975103408,
+          0.452157603558724,
+          0.03924418590782981
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "On: 27 December 2014, At: 18:34",
+        "bbox": [
+          0.035647288829650695,
+          0.04360465137414685,
+          0.3189493369208183,
+          0.055307539915898256
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_00039896.1983.10545823.pdf_1",
+    "primary_id": "docling_docstructbench_00039896.1983.10545823.pdf_1_17",
+    "source": "visual_seed",
+    "member_count": 13,
+    "elements": [
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Publisher: Routledge",
+        "bbox": [
+          0.03564727918423823,
+          0.05803571448060288,
+          0.20450281800150277,
+          0.06976744173631819
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House,",
+        "bbox": [
+          0.03377110009231222,
+          0.07266865068313824,
+          0.9455909784255121,
+          0.08581349195297948
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "37-41 Mortimer Street, London WIT 3JH, UK",
+        "bbox": [
+          0.03564729004934958,
+          0.08854166646944507,
+          0.4033771075491494,
+          0.10029069752120191
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_17",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.033339181044234556,
+          0.13173392594969927,
+          0.23486328125,
+          0.33842270860226115
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_5",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Archives of Environmental Health: An International Journal",
+        "bbox": [
+          0.27954974239804475,
+          0.13516865055362515,
+          0.908067533540041,
+          0.177169927487151
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Dose-Response Relationship between Tobacco Consumption and Melanin Pigmentation in the Attached Gingiva",
+        "bbox": [
+          0.27954972467939465,
+          0.22519841315379716,
+          0.9606003428219277,
+          0.29221919038638233
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_9",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "^ Department of Public Health and Hygiene, Medical College of Oita, Oita, Japan",
+        "bbox": [
+          0.27954972450827037,
+          0.3139534890299442,
+          0.8874296173303796,
+          0.32994185975881546
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_10",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "* Tokyo Rosai Hospital, Tokyo, Japan",
+        "bbox": [
+          0.27954971850624144,
+          0.3313492066812444,
+          0.5572232577601752,
+          0.34895833366537143
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_11",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "· Ryukyu University, Okinawa, Japan Published online: 10 Dec 2012.",
+        "bbox": [
+          0.2814258969829599,
+          0.351686508336386,
+          0.5590994372629892,
+          0.3822674417944577
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To cite this article: Shunichi Araki, Katsuyuki Murata, Koichi Ushio & Ryoji Sakai (1983) Dose-Response Relationship between Tobacco Consumption and Melanin Pigmentation in the Attached Gingiva, Archives of Environmental Health: An International Journal, 38:6, 375-378, DOI: 10.1080/00039896.1983.10545823",
+        "bbox": [
+          0.03564727320037796,
+          0.4156746033376202,
+          0.9568479885756402,
+          0.45784883707062046
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To link to this article: http://dx.doi.org/10.1080/00039896.1983.10545823",
+        "bbox": [
+          0.03564728739997156,
+          0.4709302325514725,
+          0.594746718166007,
+          0.4826388890252378
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Taylor & Francis makes every effort to ensure the accuracy of all the information (the \"Content\") contained in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon and should be independently verified with primary sources of information. Taylor and Francis shall not be liable for any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of the Content.",
+        "bbox": [
+          0.033771115910880174,
+          0.5580357145014048,
+          0.9643527394866898,
+          0.691975370367959
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This article may be used for research, teaching, and private study purposes. Any substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any form to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http:// www.tandfonline.com/page/terms-and-conditions",
+        "bbox": [
+          0.0337711021746771,
+          0.7048611111924539,
+          0.9099437287331448,
+          0.7616279067462187
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_00039896.1983.10545823.pdf_1",
+    "primary_id": "docling_docstructbench_00039896.1983.10545823.pdf_1_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Publication details, including instructions for authors and subscription information: http://www.tandfonline.com/loi/vzeh20",
+        "bbox": [
+          0.28142590600973366,
+          0.18168604650496076,
+          0.8911819820600242,
+          0.20784883696060827
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_00039896.1983.10545823.pdf_1",
+    "primary_id": "docling_docstructbench_00039896.1983.10545823.pdf_1_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Shunichi Araki a , Katsuyuki Murata a , Koichi Ushio\" & Ryoji Sakai \"",
+        "bbox": [
+          0.2814258956567806,
+          0.2936046519286529,
+          0.774859281253438,
+          0.31425789903237783
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_00039896.1983.10545823.pdf_1",
+    "primary_id": "docling_docstructbench_00039896.1983.10545823.pdf_1_14",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_00039896.1983.10545823.pdf_1_14",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "PLEASE SCROLL DOWN FOR ARTICLE",
+        "bbox": [
+          0.035647280787466845,
+          0.526041666497093,
+          0.3414634033276053,
+          0.5364583331637597
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

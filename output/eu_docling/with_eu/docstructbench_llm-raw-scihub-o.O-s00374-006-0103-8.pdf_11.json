@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_4",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | F* | G | B | F | P | G | B | Anurida forsslundi | 0 | 0.05 | 0.06 | Isotomiella minor | 0.39 | 0 | 0.59 | 0.65 | Pseudachorutes subcrassus | 0.15 | 0 | 0.04 | 0.16 | Pseudanurophorus binoculatus | 0 | 0.05 | 0 | 0 | 0.08 | 0.09 | Isotoma viridis | 0 | 0 | Lepidocyrtus lignorum | 0 | 0 | 0 | 0 | Orchesella flavescens | 0 | 0 | 0 | 0 | 0 | Oribatida total | 8.21 | 28.4 | 39.6 | 49.4 | Oppia/Suctobelba spp. | 4.94 | 10.84 | 6.86 | 6.26 | Carabodes spp. | 0.88 | 4.59 | 9.54 | 0.74 | Conchogneta trägärdhi | 1.02 | 7.69 | 0.22 | 1.55 | Tectocepheus velatus | 0.69 | 2.49 | 6.7 | 0.41 | Phthiracarus sp. | 0.34 | 0.55 | 0.6 | 0.44 | Paleacarus hystricinus | 0 | 0 | 0.03 | Ceratozetes thienemanni | 0.17 | 0.23 | 0.15 | 0.32 | Eremaeus sylvestris | 0.1 | 0 | 0.03 | Liacarus sp. | 0 | 0.33 | 0 | 0.16 | Scheloribates sp. | 0.17 | 0 | 0 | 0 | 0.06 | Nanhermannia sellnicki/nana | 0 | 0.14 | 0.33 | 0.03 | Rhysotritia ardua | 0 | 0.05 | 0.19 | Camisia biurus | 0 | 0.14 | 0.11 | Nothrus sylvestris | 0 | 0.33 | 0 | 0.08 | 000 | Heminothrus paolianus | 0 | 0 | 0 | 0.08 | Atropacarus carinatus | 0 | 0.45 | 0 | 0.08 | Hemileius initialis | 0 | 0.28 | 0.04 | Trichoribates trimaculatus | 0 | 0.05 | 0 | 0 | 0.04 | Eupelops acromios | 0 | 0 | 0 | 0 | 0 | 0.04 | Chamobates cf. schützii | 0 | 0 | 0 | 0.19 | Adoristes poppei | 0 | 0.1 | 0 | Melanozetes sp. | 0 | 0.05 | 0 | 0 | Pergalumna nervosa | 0 | 0 | 0 | 0 | 0 | 0 | 0.04 | Oribatida, juveniles | 0 | 0 | 0 | 16.9 | 14.5 | 39.0",
+        "bbox": [
+          0.07977640873864023,
+          0.06542030285521454,
+          0.9198883683966899,
+          0.5875260923894363
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50 days for Collembola have been corrected for differences in extraction efficiency, and are not the same as in Fig. 1.",
+        "bbox": [
+          0.07662836178066215,
+          0.6162790693035578,
+          0.49042145117570657,
+          0.6483134916636141
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mean number (no. g dry weight) of \"fungivores\" (collembolans and oribatids) in fertilised soil (N) obtained after 50 and 100 days. See \"Appendix 1\" for details.",
+        "bbox": [
+          0.5057088711381741,
+          0.6453373011357512,
+          0.9195784792732977,
+          0.6889880951720878
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_2",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Appendix 2",
+        "bbox": [
+          0.5054895976814201,
+          0.61550072163469,
+          0.5864644261918043,
+          0.6330457897094764
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00374-006-0103-8.pdf_11_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | 50 days 100 days | F* | P | G | B | F | B | Collembola total | 20.7 | 10.4 | 5.98 | 18.2 | 45.3 | 17.2 | 10.8 | 9.4 | 16.4 | 68.8 | Isotoma notabilis | 3.56 | 3.06 | 2.51 | 3.85 | 29.5 | 4.02 | 5.94 | 6.85 | 5.95 | 47.3 | Mesaphorura yosii | 0 | 1.79 | 1.04 | 1.72 | 3.29 | 7.56 | 1.43 | 0.96 | 1.95 | 2.53 | Micraphorura absoloni | 0 | 0.19 | 0.36 | 0.18 | 1.24 | 2.25 | 0.92 | 0.06 | 2.46 | 7.13 | Willemia anophthalma | 3.61 | 1.0 | 8.1 | 4.37 | 1.63 | 1.54 | 0.88 | 0.06 | 3.29 | Anurida pygmaea | 0.09 | 0.04 | 0.55 | 0.97 | 0.59 | 0.48 | 0.15 | 0.09 | 2.1 | Friesea mirabilis | 0.24 | 0.04 | 0.22 | 0.3 | 0.4 | 0.15 | 0.82 | 0.14 | Pseudanurophorus binoculatus | 0 | 0.42 | 0.23 | 0.13 | 1.18 | 0.26 | 0 | 0.72 | Isotomiella minor | 0 | 0 | 0.21 | 1.28 | 0.31 | 0.15 | 0 | 0.32 | 4.82 | 4.52",
+        "bbox": [
+          0.08004295782714253,
+          0.7285866741736365,
+          0.9197136764803129,
+          0.9099748228581863
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060",
+    "primary_id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_4",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "SUDOKU",
+        "bbox": [
+          0.03050695379093764,
+          0.1133450911228689,
+          0.129804097502617,
+          0.13074661963550852
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_4",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.03170330491999402,
+          0.1448559670781893,
+          0.9887842081650965,
+          0.617989417989418
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "ARROW WORD",
+        "bbox": [
+          0.03170330491999402,
+          0.6278659611992945,
+          0.11903693734110962,
+          0.6669018224573781
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060",
+    "primary_id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "DOUBLE JIGWORD",
+        "bbox": [
+          0.3690743233138926,
+          0.1133450911228689,
+          0.5814266487213997,
+          0.13074661963550852
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "rrange these crossword fragments to create two completed symmetrical crossword",
+        "bbox": [
+          0.3768506056527591,
+          0.1326278659611993,
+          0.7842081650964559,
+          0.14344503233392122
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fill the grid so that every column, row and 3x3 square",
+        "bbox": [
+          0.03230148048452221,
+          0.13356848912404468,
+          0.29729325557050995,
+          0.1523809523809524
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060",
+    "primary_id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.1812471960520413,
+          0.630217519106408,
+          0.9696425901001944,
+          0.974485596707819
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060",
+    "primary_id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_newspaper_Daily Star 2025-1-8@magazinesclubnew_page_060_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The arrows show the direction in which the answer to each clue should be placed.",
+        "bbox": [
+          0.03110512935546583,
+          0.6739564961787184,
+          0.16509645580978016,
+          0.7101704879482658
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_8",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Bt 7",
+        "bbox": [
+          0.47741935659716406,
+          0.14533730159163563,
+          0.541935482918965,
+          0.15997023809957223
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.576650076033632,
+          0.1701309699942041,
+          0.8975379791536695,
+          0.3223232173393432
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ІНІ ОНТ: СИК, БИК,",
+        "bbox": [
+          0.15913978701146797,
+          0.33430232551722056,
+          0.5483871043326181,
+          0.35029069813830266
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_7",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "I 2-169 #|",
+        "bbox": [
+          0.6731182831647721,
+          0.6700581396722334,
+          0.7999999988244751,
+          0.6845930227550925
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1 СИ, W. 5 (12-169)",
+        "bbox": [
+          0.12258064510436939,
+          0.7107558137439647,
+          0.4451612823149857,
+          0.7267441863650469
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ТВАТИ",
+        "bbox": [
+          0.2500000008003976,
+          0.734011627802831,
+          0.40430107420803424,
+          0.750000000423913
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CH. M. FR 11 15%",
+        "bbox": [
+          0.20998531554712802,
+          0.29360465078974957,
+          0.5569892471554779,
+          0.3299418608890294
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_5",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "12-168 40",
+        "bbox": [
+          0.6645161296186046,
+          0.33283730159163566,
+          0.8086021523527214,
+          0.3474702380995722
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "F7, K1.7 ~ 5 cm, $0.9 ~ 3 ст, 140.2 ~ 0.5 ст. Ужо, олио, минл6",
+        "bbox": [
+          0.12473118836204423,
+          0.3953373019425639,
+          0.8967742008494249,
+          0.4114583336885955
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570552.pdf_129_9",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5761989586582634,
+          0.5081399044034527,
+          0.8977059089120633,
+          0.6603622202636419
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_lecture1_page_009",
+    "primary_id": "docling_PPT_lecture1_page_009_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_lecture1_page_009_0",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.12936046518847805,
+          0.05423280465951666,
+          0.8488372082581159,
+          0.2480620130269035
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_lecture1_page_009",
+    "primary_id": "docling_PPT_lecture1_page_009_1",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_lecture1_page_009_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Changing the coefficient of x2 from 2 to 1.",
+        "bbox": [
+          0.07703489255435074,
+          0.3280423285336398,
+          0.6090116226588275,
+          0.38242894008190054
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_lecture1_page_009_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "The purpose of this step is to simplify the calculation in the next",
+        "bbox": [
+          0.06666667052681678,
+          0.3924162261199294,
+          0.8916666463065168,
+          0.45943562647266306
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_lecture1_page_009_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "steps.",
+        "bbox": [
+          0.0943450601643917,
+          0.46181966417158493,
+          0.16873633438953586,
+          0.5071725831429477
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_lecture1_page_009_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "To do it, we multiply the 2nd equation by ½.",
+        "bbox": [
+          0.07394654387082165,
+          0.5234842151070956,
+          0.6396611226507385,
+          0.5907003616670381
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_lecture1_page_009",
+    "primary_id": "docling_PPT_lecture1_page_009_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_lecture1_page_009_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.07703488348757158,
+          0.6666666661779788,
+          0.872093022768342,
+          0.8527131778079987
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

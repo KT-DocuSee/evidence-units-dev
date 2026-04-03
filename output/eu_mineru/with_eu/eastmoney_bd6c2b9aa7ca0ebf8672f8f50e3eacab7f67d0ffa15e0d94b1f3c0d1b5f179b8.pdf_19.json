@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19",
+    "primary_id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07416364369205965,
+          0.13168020521590423,
+          0.9222087867795243,
+          0.21889696451474988
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19",
+    "primary_id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_1",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_1",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：各地官网，中国银河证券研究院整理",
+        "bbox": [
+          0.07255139056831923,
+          0.22174718540686902,
+          0.3571140669085046,
+          0.23428815733219324
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "618 活动内容推陈出新，平台商家扶持力度加大。从消费者端来看，此次618 较往年 发生多处变动。自2010 年京东以集团生日为契机，借鉴淘宝天猫双十一，推出618 年中 大促以来，活动规则总体上经历了三个阶段的演进：第阶段为2009 年-2014 年，期间 各个平台逐渐加大促活动之中，活动规模逐渐升级，消费者规模扩。第二阶段由 2016 年-2018 年，以预售、多轮秒杀的模式为特征，将大促时间延长。第三阶段自2019 年开始，玩法逐渐复杂化，主要体现在优惠折扣力度的复杂化。而今年各大平台的促销方 式反常态，开始朝着舒缓用户消费精的方式迈进。比如，在满减规则上，天猫取消 “定金立减”改为参与预售价格直降。在预售时间方面，天猫将过去凌晨“秒杀”改为20： 00，让消费者不必熬夜就可以争取最大的优惠。除了活动方式的简化，此次618平台也推 出了各项措施补贴消费者。比如淘宝提高了满减力度，将补贴金额从“满300-30”提升 到“满300-50”，还有“5折神券”、“万券齐发”、“分期免息”等活动等待消费者的 参与。京东方面也有“京享红包”和“红包加码日”等促销活动。从商户端来看，为了加 快商家受疫情影响的恢复速度，平台借此次 618也出台了许多商户扶持措施。例如，京东 在“618启动发布会上”提出“两横四纵”的概念，其中包括智能供应链和智能物流面 充分融合的软供应链能力，这种能力能帮助品牌商节省产品需求调研时间，提供智能决策 信息，减少品牌商的运营成本。抖推出“抖电商罗盘618大促积分挑战赛”，帮助商 家学会如何用数据工具做好一场大促，提升大促业绩。",
+        "bbox": [
+          0.06932688432083838,
+          0.24682912925751746,
+          0.727932285368803,
+          0.5609234715690466
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表8：平台主打活动和商家扶持措施",
+        "bbox": [
+          0.0709391374445788,
+          0.572894399315947,
+          0.3127771060056429,
+          0.5871455037765427
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19",
+    "primary_id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.06932688432083838,
+          0.589425680490238,
+          0.9254332930270053,
+          0.8123129542539547
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19",
+    "primary_id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_5",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：平台官网，亿邦动力，中国银河证券研究院整理",
+        "bbox": [
+          0.07255139056831923,
+          0.8157332193244976,
+          0.4248286981056026,
+          0.8282741912498218
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_eastmoney_bd6c2b9aa7ca0ebf8672f8f50e3eacab7f67d0ffa15e0d94b1f3c0d1b5f179b8.pdf_19_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "618 直播释放消费动能，部分国产品牌表现亮眼。由于疫情的冲击导致物流与交通运 输停滞，再加上经济下行压力导致的消费疲软，今年上半年电商GMV整体承压。随着上 海复工复产以及平台和各地颁布的消费刺激措施，618 有望承接报复性消费需求，提振国",
+        "bbox": [
+          0.07174526400644901,
+          0.8419552515319937,
+          0.7271261588069327,
+          0.8949693601254097
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

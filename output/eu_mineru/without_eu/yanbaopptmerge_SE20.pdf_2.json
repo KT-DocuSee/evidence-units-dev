@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "mineru_yanbaopptmerge_SE20.pdf_2_0",
+    "text": "20.2 Defect Amplification and Removal",
+    "canon_role": "section_header",
+    "bbox": [
+      0.15733333333333333,
+      0.06488888888888888,
+      0.8806666666666667,
+      0.12266666666666666
+    ],
+    "page": "yanbaopptmerge_SE20.pdf_2",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_SE20.pdf_2_1",
+    "text": "Defect Amplification Model",
+    "canon_role": "section_header",
+    "bbox": [
+      0.09333333333333334,
+      0.15466666666666667,
+      0.52,
+      0.20266666666666666
+    ],
+    "page": "yanbaopptmerge_SE20.pdf_2",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_SE20.pdf_2_2",
+    "text": "Defects Detection Errors from Errors passed through Previous step Percent Errors passed Amplied errors 1:x Efficiency To next step Newly generated errors",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.078,
+      0.20444444444444446,
+      0.914,
+      0.44266666666666665
+    ],
+    "page": "yanbaopptmerge_SE20.pdf_2",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_SE20.pdf_2_3",
+    "text": "Development step",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.43266666666666664,
+      0.4471111111111111,
+      0.6166666666666667,
+      0.48088888888888887
+    ],
+    "page": "yanbaopptmerge_SE20.pdf_2",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_SE20.pdf_2_4",
+    "text": "Assume that an error uncovered during design will cost 1.5 monetary unit to correct. Relative to this cost, the same error uncovered just before testing commences will cost 6.5 units; during testing, 15 units; and after release, between 67 and 100 units.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08333333333333333,
+      0.48977777777777776,
+      0.9153333333333333,
+      0.7075555555555556
+    ],
+    "page": "yanbaopptmerge_SE20.pdf_2",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_yanbaopptmerge_SE20.pdf_2_5",
+    "text": "A number of studies indicate that design activities introduce between 50% - 65% of all errors during the software process. However, formal review technique have been shown to be up to 75% effective in uncovering design flaws.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09133333333333334,
+      0.7208888888888889,
+      0.91,
+      0.8977777777777778
+    ],
+    "page": "yanbaopptmerge_SE20.pdf_2",
+    "order": 6
+  }
+]

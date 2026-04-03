@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_BaharMartonosi_page_010",
+    "primary_id": "docling_PPT_BaharMartonosi_page_010_0",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_BaharMartonosi_page_010_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "THE BIGGER PICTURE: COMMUNICATION AND YOUR CAREER",
+        "bbox": [
+          0.058333356468796387,
+          0.08134920742473181,
+          0.7541666534716797,
+          0.20006613631886314
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_010_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Expressing yourself technically helps you make and use professional connections wisely",
+        "bbox": [
+          0.04505813545392315,
+          0.25000000046454535,
+          0.5552325629633895,
+          0.4011627898412255
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_010_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "You are joining a long-term community...",
+        "bbox": [
+          0.045058140571093475,
+          0.48643410775845375,
+          0.4651162850345267,
+          0.5806653298138228
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_010_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Communicate your ideas to forge mentoring and technical relationships in the service of professional goals",
+        "bbox": [
+          0.04651162684384294,
+          0.6686046503860379,
+          0.552325588781157,
+          0.8720930232908378
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_BaharMartonosi_page_010",
+    "primary_id": "docling_PPT_BaharMartonosi_page_010_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_BaharMartonosi_page_010_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.595577880859375,
+          0.23263330078125,
+          0.9510396118164063,
+          0.6458465983072916
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

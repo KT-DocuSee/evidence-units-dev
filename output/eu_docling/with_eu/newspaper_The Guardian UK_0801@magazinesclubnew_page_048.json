@@ -1,0 +1,341 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_048",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_22",
+    "source": "visual_seed",
+    "member_count": 17,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Opinion",
+        "bbox": [
+          0.2225692047597706,
+          0.03180456373464021,
+          0.37049649078306207,
+          0.06412566866230864
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_22",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.04529392705227658,
+          0.14601880849762713,
+          0.49535877600715916,
+          0.5775404242405379
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "A Brief 10 Year History of Cartooning",
+        "bbox": [
+          0.051094898577407996,
+          0.14825581404916585,
+          0.3868613099992343,
+          0.17162698448669114
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OMantin Rusa",
+        "bbox": [
+          0.3265912078498673,
+          0.55793726637981,
+          0.45260587454087203,
+          0.57869064055523
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Facebook page yesterday, Meta's chief executive officer, Mark Zuckerberg, announced that the platform is getting rid of its factcheckers. In their place? Mob rule.",
+        "bbox": [
+          0.31751824863202976,
+          0.5944767443994039,
+          0.5875912339204078,
+          0.6308139533046295
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "An extinctionlevel reversal for truth-seeking",
+        "bbox": [
+          0.04014598436311521,
+          0.5959302325428041,
+          0.306569347023746,
+          0.7031688104753053
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Outrage and lies can spread easily on social media, and have only been kept partly in check by platforms' ability to intervene when things get out of hand. Social networks have always struggled to moderate speech. Those platforms haven't helped themselves with chronic underinvestment in favour of growing their business at all costs. They have long said effective moderation is an unsolvable issue of scale, but it's a problem they created with an untrammelled pursuit of scale at all costs.",
+        "bbox": [
+          0.6934306536916138,
+          0.623511904853048,
+          0.9507299225909057,
+          0.7209821427999142
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Zuckerberg has said that the platform, which has more than 3 billion people worldwide logging on to its apps every day, will be adopting an Elon Musk-style community notes format for policing what is and isn't acceptable speech on its platforms. Starting in the US, the company will be dramatically shifting the Overton window towards whoever can shout the loudest.",
+        "bbox": [
+          0.3175182478317086,
+          0.6321924602849569,
+          0.5821167854447307,
+          0.7006448410411484
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The Meta CEO all but admitted that the move was politically motivated. \"It's time to get back to our roots around free expression,\" he said, confessing that \"restrictions on topics like immigration and gender [...] are out of touch with mainstream discourse\". He admitted to past \"censorship mistakes\" - here, probably meaning the past four years of tamping down political speech while a Democratic president was in office - and said he would \"work with President Trump to push back against foreign governments going after American companies to censor more\".",
+        "bbox": [
+          0.3174402067355218,
+          0.7005813955985319,
+          0.5840286305149708,
+          0.8081395347319261
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Certainly, policing online discourse is difficult, and certainly, content moderation at the level firms like Meta have been trying to operate has not worked. But forswearing it entirely in favour of community notes is not the answer. Suggesting that it is a rational, evidence-based decision hides the reality: this is an expedient move for a man who this week saw the departure of a self-described \"radical\" centrist, Nick Clegg, as his global policy chief in favour of a Republican-leaning one. And who also appointed Dana White, the Ultimate Fighting Championship CEO and close Trump ally, to Meta's board.",
+        "bbox": [
+          0.6934306598107438,
+          0.7209302328441715,
+          0.9580291853839039,
+          0.8373015874730515
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "S ocial media has always acted as something of a funhouse mirror to society as a whole. The algorithms and amplifications of an always online existence have helped accentuate the worst parts of our lives, while tucking in and hiding the best. It's part of why we're so polarised today.",
+        "bbox": [
+          0.040145985284517516,
+          0.7978670634485588,
+          0.29927007163265484,
+          0.8764880951324169
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The most dog-whistle comment was a throwaway remark that Meta would be moving what remained of its trust and safety and content moderation teams out of liberal California, and its US content moderation would now be based in staunchly Republican Texas.",
+        "bbox": [
+          0.31751824643078624,
+          0.8080357141211962,
+          0.5802919665236008,
+          0.8561507938234799
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In many ways, you can't blame Zuckerberg for bending the knee to Donald Trump. The problem is his decision has huge ramifications. This is an extinction-level event for the idea of objective truth on social media - an organism that was already on life support, but was clinging on in part because Meta was willing to fund independent factchecking organisations in order to try to maintain some element of truthfulness, free from political bias. Night is day. Up is down. Meta is X. Mark Zuckerberg is Elon Musk. Buckle up for a turbulent, vitriolic and fact-free four years online.",
+        "bbox": [
+          0.6934306555395614,
+          0.8372093023320274,
+          0.9489051125807024,
+          0.9549418602164222
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To be completely clear: all businesspeople make shrewd moves to accommodate the changing political weather. But few people's decisions matter more than Zuckerberg's. He has found himself, in the past 21 years, a central part of western society. Where Meta goes, the world - both online and offline - follows. And Meta has just decided to take a drastic, dramatic handbrake turn to the right.",
+        "bbox": [
+          0.31751824972327514,
+          0.8575581397482411,
+          0.5766423254574969,
+          0.9345930229334452
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Which is what makes a declaration by one titan of big tech this week so worrying. Less than two weeks before Donald Trump returns to the White House, Meta, the parent company of Facebook, WhatsApp, Instagram and Threads, has made major changes to content moderation, and in doing so appears to align itself with the views of the incoming president.",
+        "bbox": [
+          0.041970799737842505,
+          0.8764534885854504,
+          0.29927007638017805,
+          0.9447674415017588
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Don't believe me - believe the watchdogs. \"Meta's announcement today is a retreat from any sane and safe approach to content moderation,\" said the Real Facebook Oversight Board, an independent, self-appointed arbiter of Meta's moves.",
+        "bbox": [
+          0.3175182475364964,
+          0.9345238095941512,
+          0.574817521490868,
+          0.9549418604586702
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a bizarre video message posted to his personal",
+        "bbox": [
+          0.05474453020104964,
+          0.9446924602486197,
+          0.29379562176062907,
+          0.9549418601982537
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_048",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_24",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_24",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.503234144374816,
+          0.1459032751118687,
+          0.9579231972127135,
+          0.5791464198353644
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "25",
+        "bbox": [
+          0.4525547440432131,
+          0.5654069771271172,
+          0.4835766417840376,
+          0.5741279067876115
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_048",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8.7.25",
+        "bbox": [
+          0.05656934383378647,
+          0.5610465118015936,
+          0.09671532718811134,
+          0.5755813948844528
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "newspaper_The Guardian UK_0801@magazinesclubnew_page_048",
+    "primary_id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_23",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_8",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Chris Stokel-Walker",
+        "bbox": [
+          0.04197080312715655,
+          0.7107558137621333,
+          0.18978101955822643,
+          0.7456395352204248
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_23",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.19074176478301677,
+          0.71161579554942,
+          0.302835093791409,
+          0.7931861707581439
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_The Guardian UK_0801@magazinesclubnew_page_048_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "* Chris Stokel-Walker is the author of TikTok Boom: The Inside Story of the World's Favourite App",
+        "bbox": [
+          0.6002816151642114,
+          0.8735465114530881,
+          0.6788321131558225,
+          0.9553147870924585
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

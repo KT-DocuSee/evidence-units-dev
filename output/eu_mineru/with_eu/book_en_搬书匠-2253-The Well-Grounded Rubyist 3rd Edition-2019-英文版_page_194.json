@@ -1,0 +1,214 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194",
+    "primary_id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": ">> end Entire if statement evaluates => nil to nil because it fails",
+        "bbox": [
+          0.18879855465221318,
+          0.07495495495495495,
+          0.5212285456187895,
+          0.10666666666666667
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Conditional statements interact with other aspects of Ruby syntax in a couple of ways that you need to be aware of—in particular, with assignment syntax. It's worth looking in some detail at how conditionals behave in assignments, because it involves some interesting points about how Ruby parses code.",
+        "bbox": [
+          0.18879855465221318,
+          0.11891891891891893,
+          0.8952122854561879,
+          0.19603603603603603
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194",
+    "primary_id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_2",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "6.1.2 Assignment syntax in condition bodies and tests",
+        "bbox": [
+          0.12375790424570912,
+          0.21045045045045044,
+          0.6151761517615176,
+          0.22846846846846847
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Assignment syntax and conditional expressions cross paths at two points: in the bodies of conditional expressions, where the asignments may or may not happen at all, and in the conditional tests themselves:",
+        "bbox": [
+          0.1897018970189702,
+          0.2371171171171171,
+          0.8952122854561879,
+          0.2926126126126126
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "if x = 1 ] Assignment in conditional y=2 Assignment in conditional end",
+        "bbox": [
+          0.18879855465221318,
+          0.30414414414414415,
+          0.5474254742547425,
+          0.3488288288288288
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What happens (or doesn't) when you use these idioms? We'l look at both, starting with variable assignment in the body of the conditional——specifically, local-variable assignment, which displays some perhaps unexpected behavior in this context.",
+        "bbox": [
+          0.1897018970189702,
+          0.3581981981981982,
+          0.8961156278229448,
+          0.4158558558558559
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194",
+    "primary_id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_6",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "LOCAL-VARIABLE ASSIGNmENT IN A CONDITIONAL BODY",
+        "bbox": [
+          0.1897018970189702,
+          0.4245045045045045,
+          0.5709123757904245,
+          0.4410810810810811
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ruby doesn't draw as clear a line as compiled languages do between \"compile time\" and \"runtime,\" but the interpreter does parse your code before running it, and cer- tain decisions are made during that process. An important one is the recognition and allocation of local variables.",
+        "bbox": [
+          0.1897018970189702,
+          0.443963963963964,
+          0.8952122854561879,
+          0.518918918918919
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "When the Ruby parser sees the sequence identifier, equa-sign, and value, as in this expression,",
+        "bbox": [
+          0.1860885275519422,
+          0.5218018018018018,
+          0.8952122854561879,
+          0.5585585585585585
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "it allocates space for a local variable called x. The creation of the variable——not the assignment of a value to it, but the internal creation of a variable—always takes place as a result of this kind of expression, even if the code isn't executed!",
+        "bbox": [
+          0.1878952122854562,
+          0.5996396396396396,
+          0.8952122854561879,
+          0.6565765765765765
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consider this example:",
+        "bbox": [
+          0.21770551038843722,
+          0.6580180180180181,
+          0.4083107497741644,
+          0.676036036036036
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_11",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "if false x = 1 Output: nil end Px √ NameError: undefined local PY △ variable or method 'y'",
+        "bbox": [
+          0.18879855465221318,
+          0.6868468468468468,
+          0.5627822944896116,
+          0.7625225225225225
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The assignment to x isn't executed, because it's wrapped in a failing conditional test. But the Ruby parser sees the sequence x = 1, from which it deduces that the program involves a local variable x. The parser doesn't care whether x is ever assigned a value. Its job is just to scour the code for local variables for which space needs to be allocated.",
+        "bbox": [
+          0.1897018970189702,
+          0.7733333333333333,
+          0.8952122854561879,
+          0.8497297297297297
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_book_en_搬书匠-2253-The Well-Grounded Rubyist 3rd Edition-2019-英文版_page_194_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The result is that x inhabits a strange kind of variable limbo. It has been brought into being and initialized to ni1. In that respect, it differs from a variable that has no existence at all; as you can see in the example, examining x gives you the value nil,",
+        "bbox": [
+          0.1897018970189702,
+          0.8518918918918919,
+          0.8943089430894309,
+          0.9095495495495496
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

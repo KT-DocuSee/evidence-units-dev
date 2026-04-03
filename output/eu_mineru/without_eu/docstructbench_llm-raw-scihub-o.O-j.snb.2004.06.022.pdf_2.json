@@ -1,0 +1,106 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_0",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.1529206113238735,
+      0.08574166355813835,
+      0.3898635365619632,
+      0.1626569793970566
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_3",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.6200846766869157,
+      0.08574166355813835,
+      0.80829465985476,
+      0.1626569793970566
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_1",
+    "text": "Fig. 1. Real structure consisting of three thin layers: silver (for electric contact), metal-free phthalocyanine and palladium fabricated on an alun- dum substrate.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06721785113137296,
+      0.1714833271162767,
+      0.4738858504761794,
+      0.20804962481018865
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_4",
+    "text": "Fig. 2. A scheme of resistance measurements in the two-point method. Changes in resistance were monitored by an automatic data acquisition unit Agilent 34970A for various hydrogen concentrations in nitrogen or in air.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5108556685984346,
+      0.1714833271162767,
+      0.9158432216649567,
+      0.2206586929805031
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_2",
+    "text": "The main goal of this paper is to investigate the electric resistance of a layered phthalocyanine and palladium (Pc + Pd) structure under the inffuence of various hydrogen concentrations in nitrogen and air. We show that during the interaction of hydrogen with bilayer structures metal-free phthalocyanine and palladium there occurs a strong change in the resistance of these structures. This would correspond to an acousto-electric effect in the SAW sensor system",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06889829740965729,
+      0.2395722952359748,
+      0.47220540419789514,
+      0.2988349156364528
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5125361148767189,
+      0.2395722952359748,
+      0.9158432216649567,
+      0.29757400881942137
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_6",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.19829266083755026,
+      0.3152267042578616,
+      0.7864488582370638,
+      0.8952438400923269
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2_7",
+    "text": "g.. right axis) interaction in nitrogen, (a) at lower hydrogen concentrations 0.5–2.5% and (b) at higher concentrations 2.5–4%.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06385695857480432,
+      0.904070187811547,
+      0.9108018828301038,
+      0.9305492309692075
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.snb.2004.06.022.pdf_2",
+    "order": 8
+  }
+]

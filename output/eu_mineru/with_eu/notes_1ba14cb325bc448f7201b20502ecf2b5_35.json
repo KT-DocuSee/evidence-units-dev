@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_35",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_2",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2.水旱灾害频察",
+        "bbox": [
+          0.1301720130172013,
+          0.1600790513833992,
+          0.29660622966062294,
+          0.18115942028985507
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)地形与气候",
+        "bbox": [
+          0.16457461645746166,
+          0.19301712779973648,
+          0.3086936308693631,
+          0.21146245059288538
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.12552301255230125,
+          0.2147562582345191,
+          0.9781496978149697,
+          0.39986824769433466
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2)热带季风气候对印度农业生产的影响：",
+        "bbox": [
+          0.1589958158995816,
+          0.41106719367588934,
+          0.5439330543933054,
+          0.4321475625823452
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.自给自余的粮食生产",
+        "bbox": [
+          0.099488609948861,
+          0.7542819499341239,
+          0.3217108321710832,
+          0.7753623188405797
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1) 在20世纪60年代，印度实行了“绿色革命：改进了粮食生产技术.粮食供应状况逐步得 到政善。现在，印度农业生产技术有很大改进.粮食不反能够自给，而且还有一定的余粮 可供出口。",
+        "bbox": [
+          0.09298000929800093,
+          0.7852437417654808,
+          0.9363086936308693,
+          0.8682476943346509
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2)主要粮食作物：水稻和小麦.",
+        "bbox": [
+          0.13389121338912133,
+          0.8787878787878788,
+          0.4295676429567643,
+          0.9011857707509882
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_35",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_35_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.12180381218038122,
+          0.43478260869565216,
+          0.9642026964202697,
+          0.7140974967061924
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

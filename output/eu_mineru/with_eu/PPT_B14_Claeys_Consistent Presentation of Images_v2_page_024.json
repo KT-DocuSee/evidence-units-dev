@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_024",
+    "primary_id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_024_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_024_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "What about color ?",
+        "bbox": [
+          0.262,
+          0.08888888888888889,
+          0.7393333333333333,
+          0.168
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_B14_Claeys_Consistent Presentation of Images_v2_page_024_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Consistency is harder to achieve — Gamut of devices much more variable — Greater influence of psychovisual effects Extensive standards efforts e.g. ICC DICOM recently defined color presentation in a manner very similar to grayscale. — Many display and print devices already have ICC profiles, but few medical imaging devices support color presentation state.",
+        "bbox": [
+          0.08266666666666667,
+          0.24622222222222223,
+          0.912,
+          0.8586666666666667
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

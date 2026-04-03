@@ -1,0 +1,132 @@
+[
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_0",
+    "text": "What is a digital image?",
+    "canon_role": "section_header",
+    "bbox": [
+      0.24273256011568603,
+      0.038690474960227525,
+      0.7151162711888197,
+      0.09496124084002516
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_1",
+    "text": "Mathematical definition:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.02761628748348689,
+      0.14914021198904887,
+      0.4171511620513968,
+      0.18419312204195892
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_2",
+    "text": "A 2D (grayscale) digital image is a 2D function defined on a 2D domain (usually rectangular domain):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07703490333978781,
+      0.20138888928342355,
+      0.9447674206427704,
+      0.27713178301329905
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.38292852783203124,
+      0.30283085123697917,
+      0.5488431396484375,
+      0.3497165934244792
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_4",
+    "text": "f(x,y) is called the brightness/intensity/grey level;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07691394811857079,
+      0.38260335264294665,
+      0.7254673422545456,
+      0.4260882397610086
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_5",
+    "text": "(x,y) is the spatial coordinates of the image.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0750000173184832,
+      0.4332010585620893,
+      0.6291666597648498,
+      0.4722222225832533
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_6",
+    "text": "Thus, a 2D digital image looks like this:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07703488158222589,
+      0.484457671780635,
+      0.5770348815822259,
+      0.521317829984406
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23683502451681865,
+      0.5405315581327799,
+      0.7282305769312751,
+      0.7268518512228913
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_8",
+    "text": "Each element in the matrix is called pixel (picture element);",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09738373166997775,
+      0.771164020633294,
+      0.8139534808057975,
+      0.8062169306862041
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_PPT_MMAT5390Lecture1_page_023_9",
+    "text": "Usually, 0 < f(x, y) <G-1 and (N = 2n , G = 2\")",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07690951379173366,
+      0.815782955627908,
+      0.7063953476219664,
+      0.8608207802687371
+    ],
+    "page": "PPT_MMAT5390Lecture1_page_023",
+    "order": 10
+  }
+]

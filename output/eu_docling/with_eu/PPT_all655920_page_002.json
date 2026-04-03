@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_all655920_page_002",
+    "primary_id": "docling_PPT_all655920_page_002_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_all655920_page_002_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Course layout",
+        "bbox": [
+          0.3284883782842412,
+          0.09883721059422214,
+          0.6715116179043894,
+          0.16666666561163493
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_all655920_page_002_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Two introductory classes (October 30th and November 3rd with basic structures and vocabulary. The material provided is quite easy, in order to make sure all students can understand, even if they have zero or low proficiency in English.",
+        "bbox": [
+          0.054166673611110945,
+          0.2166005292810446,
+          0.9551534209309599,
+          0.6333333337823674
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_all655920_page_002_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Classes focusing on a number of scientific articles, one for each of the classes you are attending now. First semester: Anatomy, Human sciences, General nursing, Biology, Chemistry.",
+        "bbox": [
+          0.05668605116919469,
+          0.6589147284383214,
+          0.8720930233347247,
+          0.9934977676435489
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

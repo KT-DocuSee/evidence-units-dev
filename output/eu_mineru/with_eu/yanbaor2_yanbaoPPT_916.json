@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_yanbaoPPT_916",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_916_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_916_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "2021五假期全国5A级热门爬景区预测",
+        "bbox": [
+          0.06899137607799025,
+          0.032,
+          0.5359330083739533,
+          0.08977777777777778
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_916_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "依据德交通数据预测：五期间泰安市泰景名胜区、焦作市云台景名胜区、黄市黄等5A级爬景区将吸引较多的游客; 提醒驾前往景区的游客注意安全，尤其驶在盘路上时，要保持安全距，另外，顶温差较，提醒前往登的游客带好保暖装备，避免着凉。",
+        "bbox": [
+          0.0824896887889014,
+          0.1511111111111111,
+          0.9058867641544807,
+          0.2248888888888889
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_916_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "2021年全国5A级热爬景区TOP10预测",
+        "bbox": [
+          0.5994250718660168,
+          0.26755555555555555,
+          0.8388951381077365,
+          0.29688888888888887
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaor2_yanbaoPPT_916",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_916_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_916_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5199350081239845,
+          0.33155555555555555,
+          0.9383827021622297,
+          0.9004444444444445
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaor2_yanbaoPPT_916",
+    "primary_id": "mineru_yanbaor2_yanbaoPPT_916_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_yanbaoPPT_916_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.03849518810148731,
+          0.3342222222222222,
+          0.5134358205224347,
+          0.8986666666666666
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

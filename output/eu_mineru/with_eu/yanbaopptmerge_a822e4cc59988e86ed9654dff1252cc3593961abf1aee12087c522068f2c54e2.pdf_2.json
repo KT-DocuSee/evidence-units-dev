@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "考虑到公司短期的成长性以及长期的行业空间，给予6个月目标价 106.2元/股，相当于2023年60倍的动态市盈率。",
+        "bbox": [
+          0.04433696090286175,
+          0.0980475986888984,
+          0.6416767432486901,
+          0.1333903377511757
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "目风险提示：1）技术研发突破不及预期；2）政策支持不及预期； 3）下游需求不及预期；4）核心技术人员流失。",
+        "bbox": [
+          0.04191858121725111,
+          0.15904232578024796,
+          0.6110439338976219,
+          0.19552515319937294
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.04353083434099154,
+          0.22573749465583584,
+          0.6440951229343007,
+          0.4776970215191677
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_a822e4cc59988e86ed9654dff1252cc3593961abf1aee12087c522068f2c54e2.pdf_2_3",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：Wind资讯，安信证券研究中心预测",
+        "bbox": [
+          0.054816606207174524,
+          0.4788371098760154,
+          0.3297057638049174,
+          0.49194812597976345
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

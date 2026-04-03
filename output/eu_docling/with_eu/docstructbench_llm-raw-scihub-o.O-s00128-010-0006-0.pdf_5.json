@@ -1,0 +1,331 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 8 Comparison of ionic species in different parts of India (Meg/L)",
+        "bbox": [
+          0.08301158148047458,
+          0.07412790687259856,
+          0.5096525104500275,
+          0.09011627949368058
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_25",
+    "source": "visual_seed",
+    "member_count": 21,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_25",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Site | Cl | NO3 | SOA | Na | Ca | K | Mg | NHA | References | Cl dominance sites | Comba | 109.8 | 12.1 | 23.3 | 86.8 | 43.4 | 4.8 | 15.1 | 13.2 | Present study | Alibagh | 236 | 9 | 36 | 220 | 46 | 5 | 64 | 8 | Naik et al. (2002) | Goa | 113.4 | 5.5 | 27.4 | 97.2 | 41.5 | 2.5 | 24.5 | 5.5 | Parashar et al. (2001) | Bombay | 138 | - | 10 | 115 | 36 | 3.6 | 24 | - | Segeuira (1976) | Na dominance sites | Colaba | 171 | 34 | 52 | 179 | 133 | 6 | 59 | 12 | Naik et al. (2002) | Silent Valley | 43.0 | 21.0 | 20.0 | 46.0 | 43.0 | 4.0 | 14.0 | 3.0 | Rao et al. (1995) | Chembur | 164.5 | 29.5 | 70.4 | 168.2 | 89.5 | 6.9 | 36.5 | 41.1 | Khemani et al. (1994) | Bhubaneswar | 18 | 19.1 | 15 | 20.2 | 1.8 | 5.2 | 18.7 | Das et al. (2005)",
+        "bbox": [
+          0.08264693383582414,
+          0.09074278923941027,
+          0.9150045226534159,
+          0.28204415155965523
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Jeanton CH, Travi Y, Dominique M, Pilot L, Huneau F, Bertrand G (2009) Rainwater chemistry at a Mediterranean inland station (Avignon, France): local contribution versus long-range supply. Atmos Res 91:118-126",
+        "bbox": [
+          0.511583005052867,
+          0.3154069765528311,
+          0.916988414654647,
+          0.3648313490351894
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cl suggesting influence of long range transport of sea winds or sea salt on the observed concentrations and low K concentration could either be due to terrestrial potassium or anthropogenic aerosols (biomass burning, waste burning) and Ca is brought together in the region by marine wind from the west coast (Budhavant et al. 2009). The PCA3 explained 22.5% of variance with high loading of HCO3 and negative loading of H indicating only for acidity due to lower presence of ions H* in the samples of precipitation.",
+        "bbox": [
+          0.08301159032571376,
+          0.3168604647795752,
+          0.4884169971086057,
+          0.47278502046214854
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Khare P, Goel A, Patel D, Behari J (2004) Chemical characterization Atmos Res 69:135-145",
+        "bbox": [
+          0.5135135270763249,
+          0.36773255814740263,
+          0.9150579095259914,
+          0.40261627885641
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Khemani LT, Momin GA, Rao PSP, Pillai AG, Safai PD, Mohan K, Rao MG (1994) Atmospheric pollutants and their influence on acidification of rain water at an industrial location on the west coast of India. Atmos Environ 28:3145-3154",
+        "bbox": [
+          0.5135135280801859,
+          0.4055059525206349,
+          0.916988409879583,
+          0.45348837200784664
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kumar R, Rani Abha, Singh SP, Kumari MK, Srivastava SS (2002) A long term study on chemical composition of rainwater at Dayalbagh, a Suburban site of semiarid region. J Atmos Chem",
+        "bbox": [
+          0.5135135180415761,
+          0.4563492064295484,
+          0.9150579058255287,
+          0.4928075398432239
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The dominance of ionic species in precipitation was geographically differs from locations and regions are presented in Table 8. In Alibagh [Cl > Na > Mg > Ca > SO4 > NO3 > NH4 > K], Goa [Cl > Na > Ca > Mg > SO4 > NO3 > K], and Bombay [Cl > Na > Ca > Mg > SO4 > NO3 > K] showed dominance of Cl (Naik et al. 2002; Parashar et al. 2001; Segeuira 1976) whereas at Colaba [Na > Cl > Ca > Mg > SO4 > NO3 > NH4 > K], Silent Valley [Na > Ca > Cl > NO3 > SO4 > Mg > K>NH4], Chembur [Na > Cl > Ca > NO, > NH4 > Mg > SO4 > K], there is a dominance of Na as these sites are nearer to sea coast (Naik et al. 2002; Rao et al. 1995; Khemani et al. 1994).",
+        "bbox": [
+          0.08301158936046277,
+          0.4751984125558971,
+          0.4884169882457147,
+          0.678779069847784
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Lin CC, Liu JX, Cai YY, Li BL, Wang ZL, Chen BB (2009) Study on the relationship between meteorological conditions and acid rain in mid-eastern Fujian. Bull Environ Contam Toxicol 83:180-187 Mouli CP, Venkatamohan S, Reddy JS (2005) Rainwater chemistry at",
+        "bbox": [
+          0.5135135185563766,
+          0.5057043651629302,
+          0.9169884072573731,
+          0.5567956351536619
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "a regional representative urban site: influence of terrestrial sources on ionic composition. Atmos Environ 39:999-1008",
+        "bbox": [
+          0.540540547649375,
+          0.5566860466745346,
+          0.9150578954651687,
+          0.5799418601982537
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_16",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Naik MS, Momin GA, Rao PSP, Safai PD, Ali K (2002) Chemical composition of rainwater around an industrial region in Mumbai. Curr Sci 82:1131-1137",
+        "bbox": [
+          0.5135135270763249,
+          0.581349206306002,
+          0.9150579132727182,
+          0.6178075395696943
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_17",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Parashar DC, Kulshrestha UC, Jain M (2001) Rainwater chemistry and aerosol studies in India. Environ Monit Assess 66:47-61",
+        "bbox": [
+          0.5135135224817305,
+          0.6191860471586992,
+          0.915057904931397,
+          0.6424418602285347
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_18",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Ramsey MH, Thompson M, Hale M (1992) Objective evaluation of precision requirements for geochemical analysis using robust analysis of variance. J Geochem Explor 44:23-36",
+        "bbox": [
+          0.5115830080863317,
+          0.645337301508181,
+          0.9169884069715837,
+          0.681795634933969
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Rao PSP, Momin GA, Safai PD, Pillai AG, Khemani LT (1995) Rainwater and throughfall chemistry in silent valley forest in south India. Atmos Environ 29:2025-2029",
+        "bbox": [
+          0.5135135180415761,
+          0.6816860465221288,
+          0.9150579132727182,
+          0.7180232557287768
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Acknowledgments We thank to the Director, National Environmental Engineering Research Institute (NEERI), Nehru Marg, Nagpur for continuous encouragement and keen interest in publishing this work.",
+        "bbox": [
+          0.08494209467312876,
+          0.6946924602667881,
+          0.4884169855620274,
+          0.7427325579392905
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Rastogi N, Sarin MM (2005) Chemical characteristics if individual rain events from a semi-arid region in India: three-year study. Atmos Environ 39:3313-3323",
+        "bbox": [
+          0.5135135149087687,
+          0.720930232643316,
+          0.9169884256800344,
+          0.755813953239678
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_21",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Salve PR, Maurya A, Sinha R, Gawane AG, Wate SR (2006) Characterization and source identification of major inorganic ions in rainwater of Nagpur, India. Bull Environ Contam Toxicol",
+        "bbox": [
+          0.5135135366937204,
+          0.7586805556236746,
+          0.9169884072573731,
+          0.7951388886733091
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Budhavant KB, Rao PSP, Safai PD, Ali K (2009) Chemistry of monsoon and post-monsoon rains at a high altitude location, Sinhagad, India. Aerosol Air Qual Res 9:65-79",
+        "bbox": [
+          0.08687259725650517,
+          0.7965116281667826,
+          0.4884169797061717,
+          0.8328488371917447
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_22",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Salve PR, Maurya A, Wate SR, Devotta S (2008) Chemical composition of rainwater in an urban environment. Bull Environ",
+        "bbox": [
+          0.5135135207925413,
+          0.8095238097021621,
+          0.916988409879583,
+          0.8313953486369648
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Charlson RJ, Rodhe H (1982) Factors controlling the acidity of natural rainwater. Nature 295:683-685",
+        "bbox": [
+          0.08687259289678843,
+          0.8328373016108049,
+          0.48841697534645495,
+          0.8576388889041138
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_23",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Satapathy DR, Salve PR, Katpatal YB (2009) Spatial distribution of metals in ground/surface waters in the Chandrapur district (Central India) and their plausible sources. Environ Geol",
+        "bbox": [
+          0.5135135062215102,
+          0.8473837211415888,
+          0.9169884169927759,
+          0.8822674417389513
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Das R, Das SN, Misra VN (2005) Chemical composition of rainwater and dustfall at Bhubaneswar in the east coast of India. Atmos",
+        "bbox": [
+          0.08494209467312876,
+          0.8590116280214336,
+          0.48841697468009765,
+          0.8822674416491088
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_6",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-s00128-010-0006-0.pdf_5_6",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "References",
+        "bbox": [
+          0.0868441375371019,
+          0.7673148653304532,
+          0.16605161694115428,
+          0.7777432741121405
+        ],
+        "order": 20
+      }
+    ]
+  }
+]

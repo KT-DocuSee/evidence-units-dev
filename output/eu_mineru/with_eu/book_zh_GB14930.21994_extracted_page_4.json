@@ -1,0 +1,253 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_GB14930.21994_extracted_page_4",
+    "primary_id": "mineru_book_zh_GB14930.21994_extracted_page_4_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.3.5.2将以上稀释的不同浓度消毒药中加菌液2.5mL（或加入一片可溶性菌片）.对照管亦加同量 细菌。",
+        "bbox": [
+          0.09621993127147767,
+          0.10894308943089431,
+          0.9026345933562429,
+          0.14471544715447154
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.3.5.3加菌后5.10，15.30min.每管依次取出0.5mL，加人含有中和剂的4.5mL营养内汤中。特 上述营养内汤管放30℃培养24h，现察结果若发生混浊，即表示有菌生长，若肉汤不变混，应继续培养 至72h.",
+        "bbox": [
+          0.09621993127147767,
+          0.14796747967479676,
+          0.9026345933562429,
+          0.2032520325203252
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.3.5.4结果判定：以量低浓度无菌生长的管为量低杀菌有效法度，以无菌生长的最短消毒时间为该 消毒液最低有效时间。",
+        "bbox": [
+          0.09621993127147767,
+          0.20650406504065041,
+          0.9026345933562429,
+          0.24065040650406505
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "book_zh_GB14930.21994_extracted_page_4",
+    "primary_id": "mineru_book_zh_GB14930.21994_extracted_page_4_3",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "7.3.6定量录菌检验",
+        "bbox": [
+          0.10080183276059565,
+          0.24390243902439024,
+          0.27720504009163804,
+          0.2601626016260163
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "定量杀菌检验.消毒剂与菌液作用方法同7.3.5定性杀菌检验，作用不同时间(5、10、15min）将上 述原液分别取出0.5mL.加4.5mL中和剂，10min后进行活菌计数（按GB4789.2执行），计算杀菌 率，同时以生理盐水代营消毒作对照，实验需重复3次。",
+        "bbox": [
+          0.09851088201603665,
+          0.26504065040650404,
+          0.9026345933562429,
+          0.31869918699186994
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "杀菌率（P）的计算",
+        "bbox": [
+          0.13516609392898052,
+          0.3203252032520325,
+          0.293241695303551,
+          0.33983739837398375
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "式中：No一一为消毒前对照组菌数： N一一为消毒后或实验组活菌数.",
+        "bbox": [
+          0.09851088201603665,
+          0.375609756097561,
+          0.4261168384879725,
+          0.4113821138211382
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.4乙型肝费表面抗原融坏试验",
+        "bbox": [
+          0.09621993127147767,
+          0.4146341463414634,
+          0.3665521191294387,
+          0.43089430894308944
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.4.1试验方法",
+        "bbox": [
+          0.09851088201603665,
+          0.43414634146341463,
+          0.23825887743413515,
+          0.44878048780487806
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_9",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "采用国相放射免疫法（SPRLA）或酶联免疫试验法（ELISA）两种方法敏感度应测到： SPRIA法为1～10ng/mL ELISA法为15～20 ng/mL.",
+        "bbox": [
+          0.12600229095074456,
+          0.45203252032520325,
+          0.7812142038946163,
+          0.5089430894308943
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.4.2清毒方法",
+        "bbox": [
+          0.09851088201603665,
+          0.510569105691057,
+          0.23825887743413515,
+          0.526829268292683
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "取含≥1mg/mL的纯化HBAg200pL（或含10％小牛血清的HBAg）加入800L不同浓度的清 毒液，简称“混合液”，分别作用不同时间，然后加入20K硫代硫酸钠0.1mL中和残留消毒剂，静止 10min后.再用SPRIA法或ELISA法测定。",
+        "bbox": [
+          0.09851088201603665,
+          0.5317073170731708,
+          0.9026345933562429,
+          0.5853658536585366
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "book_zh_GB14930.21994_extracted_page_4",
+    "primary_id": "mineru_book_zh_GB14930.21994_extracted_page_4_12",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_12",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "7.4.3SPRIA法测定方法",
+        "bbox": [
+          0.09851088201603665,
+          0.5886178861788618,
+          0.3161512027491409,
+          0.6048780487804878
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "用20孔型料盘，每孔加入用抗-HBs包被的聚苯乙爆珠一粒，加入消毒剂后的\"混合液0.2mL，置 43C释育1.5h，每个样品两孔，然后用去离子水洗涤4～5次，加人1标记的抗-HBs0.2mL，置43℃ 解育1h.用去高子水洗4～5次，然后用r计数器测定cpm值，每次试验需做药盒的阳性，阴性对照，中 和剂对照，药物对照及HBsAg对照，药盒的P/N值5.药盒质量合格，试验成立。若实验样品与阴性 对照比值≥2.1时则消毒药物无效，若比值<2.1时则为合格。",
+        "bbox": [
+          0.09621993127147767,
+          0.608130081300813,
+          0.9026345933562429,
+          0.7024390243902439
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.4.4ELISA法测定方法",
+        "bbox": [
+          0.09621993127147767,
+          0.7040650406504065,
+          0.3161512027491409,
+          0.7203252032520325
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_15",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "7.4.4.1用聚苯乙板作固相载体，将抗-HBs用pH9.6碳酸盐缓冲藏稀释，使蛋白含量为10～20 FE/mL，取0.1mL释后的抗体，加人聚毕乙烯孔内，置4C冰箱中过夜，用洗涤液洗蓬3次。 7.4.4.2封闭空位：每孔加5%小牛血清碑酸盐暖冲液0.1mL37℃温育2h.用洗涤液洗3次。 7.4.4.3加入消毒剂后的“混合液”0.1mL，每个样品做2孔，同时作药盒的阳性和阴性对照，中和剂， 消事药物及HBAg对照.37C温育2h，用洗语液洗3次. 7.4.4.4加人用辣根过氧化物酶标记的抗-HB0.1mL.37℃温育1.5b.用洗涤剂洗涤4次。 7.4.4.5加人底物-邻苯二胺（OPD）溶液0.1mL，15～30min后加入1mol/L硫酸0.5mL，用分光光 度计测定吸光度值。 7.4.4.6若药盒P/N值≥5，则药盒合格，若试验样品P/N值≥2.1时则消毒药不合格，P/N值 <2.1时则为合格.",
+        "bbox": [
+          0.08934707903780069,
+          0.7252032520325203,
+          0.9026345933562429,
+          0.9235772357723577
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_book_zh_GB14930.21994_extracted_page_4_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7.4.5计算",
+        "bbox": [
+          0.09621993127147767,
+          0.9170731707317074,
+          0.2016036655211913,
+          0.9333333333333333
+        ],
+        "order": 17
+      }
+    ]
+  }
+]

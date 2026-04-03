@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "mineru_PPT_ch7_page_035_0",
+    "text": "7.3 Linear Systems of Equations. Gauss Elimination",
+    "canon_role": "section_header",
+    "bbox": [
+      0.3253333333333333,
+      0.019555555555555555,
+      0.9493333333333334,
+      0.059555555555555556
+    ],
+    "page": "PPT_ch7_page_035",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_035_1",
+    "text": "Matrix Form of the Linear System (1). (continued) We assume that the coefficients ajk are not all zero, so that A is not a zero matrix. Note that x has n components, whereas b has m components. The matrix",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05533333333333333,
+      0.10755555555555556,
+      0.9453333333333334,
+      0.3191111111111111
+    ],
+    "page": "PPT_ch7_page_035",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_035_2",
+    "text": "is called the augmented matrix of the system (1). The dashed vertical line could be omitted, as we shall do later. It is merely a reminder that the last column of Å did not come from matrix A but came from vector b. Thus, we augmented the matrix A.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056,
+      0.5893333333333334,
+      0.914,
+      0.8524444444444444
+    ],
+    "page": "PPT_ch7_page_035",
+    "order": 3
+  }
+]

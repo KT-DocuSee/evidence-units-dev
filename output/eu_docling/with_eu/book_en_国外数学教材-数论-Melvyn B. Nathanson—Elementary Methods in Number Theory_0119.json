@@ -1,0 +1,480 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Let p be an odd prime. Prove that the Legendre symbol is a homomorphism from the multiplicative group (Z/pZ) * into {1}. What is the kernel of this homomorphism?",
+        "bbox": [
+          0.1709499709968064,
+          0.08549109599655427,
+          0.8632381517754824,
+          0.14098837137561063
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "For every odd prime p, define the Mersenne number",
+        "bbox": [
+          0.16901409499405498,
+          0.158430233304622,
+          0.7062374134566494,
+          0.17587209262561063
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.46680080608443714,
+          0.19320436475479452,
+          0.5975855104145568,
+          0.21366279054912346
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_4",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A prime number of the form Mp is called a Mersenne prime (see Exercise 5 in Section 1.5).",
+        "bbox": [
+          0.19913678069436763,
+          0.22811332440952753,
+          0.8612349708030028,
+          0.2646329364784666
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let q be a prime divisor of Mp.",
+        "bbox": [
+          0.19919517352564245,
+          0.27470930276946426,
+          0.5070422587178182,
+          0.29365079319257603
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) Prove that 2 has order p modulo q, and so p divides q - 1.",
+        "bbox": [
+          0.20724347312302405,
+          0.30668604673748756,
+          0.8169014047944807,
+          0.3256448414296935
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hint: Fermat's theorem.",
+        "bbox": [
+          0.24949698621659275,
+          0.3298611112449583,
+          0.48490945819990616,
+          0.34598214299099017
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) Prove that p divides (q - 1) /2, and so",
+        "bbox": [
+          0.2052314003226957,
+          0.356104651861034,
+          0.6177062322225757,
+          0.37499999977414034
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4708249509113527,
+          0.3923611111385422,
+          0.6358148857658537,
+          0.4084821428845741
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and",
+        "bbox": [
+          0.24748491025438815,
+          0.4273255815932604,
+          0.2857142850843108,
+          0.44186046467611956
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_10",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.44212552627990687,
+          0.4431468562047983,
+          0.6686480203950622,
+          0.4654994513827061
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_11",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hint: Both p and q are odd.",
+        "bbox": [
+          0.2494969841970734,
+          0.47668650822031744,
+          0.5211267627848178,
+          0.4942956352044444
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(c) Prove that (⅖) = 1, and so q = #1 (mod 8).",
+        "bbox": [
+          0.20724345312758133,
+          0.5014534891746822,
+          0.7002012025565234,
+          0.529069766748283
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "For every positive integer n, define the Fermat number",
+        "bbox": [
+          0.15895373241115524,
+          0.543604651861034,
+          0.7323943574781808,
+          0.5624999997741403
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4645009727847857,
+          0.5732241437357616,
+          0.5998853484885541,
+          0.5982874843618272
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_15",
+    "source": "text_cluster",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A prime number of the form En is called a Fermat prime (see Exercise 7 in Section 1.5).",
+        "bbox": [
+          0.19881411288904585,
+          0.6148255817968382,
+          0.8631790845314141,
+          0.6514374286922199
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let n ≥ 2, and let q be a prime divisor of En.",
+        "bbox": [
+          0.19919517585213153,
+          0.6598837213777493,
+          0.643863183141832,
+          0.6788194443418998
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_17",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) Prove that 2 has order 2n+1 modulo q.",
+        "bbox": [
+          0.20724346214498757,
+          0.6918604656883428,
+          0.625754532757762,
+          0.7093253967373869
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hint: Exercise 8 in Section 2.5.",
+        "bbox": [
+          0.24949698328962677,
+          0.7165178571967519,
+          0.5513078507143973,
+          0.7326388889427837
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_19",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) Prove that",
+        "bbox": [
+          0.20523138958100026,
+          0.7427325579300113,
+          0.3521126711332856,
+          0.7587209305510932
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_21",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.44668008136448195,
+          0.7601686507706475,
+          0.6519114645107692,
+          0.7790697670888206
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_22",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(c) Prove that there exists an integer a such that",
+        "bbox": [
+          0.2072434652593418,
+          0.795058140281366,
+          0.6901408447607789,
+          0.8124999996023547
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_23",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4446680092594302,
+          0.8284883722633765,
+          0.6639839039611718,
+          0.8502906979263356
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_24",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hint: Observe that ⅖) = 1, and so 2 = a? (mod q).",
+        "bbox": [
+          0.24949699839526282,
+          0.869186046423618,
+          0.7746478813230467,
+          0.895348837297312
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_25",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(d) Prove that",
+        "bbox": [
+          0.20523138994820345,
+          0.9055059522996095,
+          0.3521126715004887,
+          0.9216269840456414
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_26",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_26",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.4507042334505683,
+          0.9215116278764747,
+          0.6519114644367556,
+          0.943313952973816
+        ],
+        "order": 27
+      }
+    ]
+  }
+]

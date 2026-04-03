@@ -1,0 +1,943 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_55",
+    "source": "visual_seed",
+    "member_count": 30,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_55",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05676722293784595,
+          0.029365200466579863,
+          0.23858580861962822,
+          0.053604936011043595
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "1.",
+        "bbox": [
+          0.08401639542899736,
+          0.09738372082608687,
+          0.12909835948903545,
+          0.11337209344716895
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.2663934429429689,
+          0.0973837211039192,
+          0.3032786884504737,
+          0.1119186041867783
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_16",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "On business bus.",
+        "bbox": [
+          0.5655737713073286,
+          0.1613372090928019,
+          0.7315573720840649,
+          0.1773313491728452
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "On a tour bus.",
+        "bbox": [
+          0.08811475925599696,
+          0.16269841272041521,
+          0.2274590147194128,
+          0.1744186045851554
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_18",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Half an hour.",
+        "bbox": [
+          0.5716806287282922,
+          0.2469216654461217,
+          0.7049587141323757,
+          0.2632527534213967
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "An hour.",
+        "bbox": [
+          0.3483210061027369,
+          0.24697264979296915,
+          0.4447117810406418,
+          0.2632017684126156
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "An hour and a half.",
+        "bbox": [
+          0.0963114769037565,
+          0.24702380933678875,
+          0.28073770711263696,
+          0.2616567458447252
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Time",
+        "bbox": [
+          0.12090163990475603,
+          0.3633720930165887,
+          0.16188524602420573,
+          0.3749999998613182
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "# 500",
+        "bbox": [
+          0.5184426241203312,
+          0.3908730158671494,
+          0.5717213094042591,
+          0.4069940476131811
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fee",
+        "bbox": [
+          0.12704918154415207,
+          0.39389534883054234,
+          0.15778688479806105,
+          0.4055232556752717
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "22842936",
+        "bbox": [
+          0.5020491812489355,
+          0.4941860465153428,
+          0.575819672263945,
+          0.5058139533600724
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2010summercamp@163.com",
+        "bbox": [
+          0.43647541647053123,
+          0.5276162793295731,
+          0.6434426180240042,
+          0.5392441861743027
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_32",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "What was the boy doing in the park?",
+        "bbox": [
+          0.05327869517613233,
+          0.6686046515168312,
+          0.38524589672960524,
+          0.68604651083782
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_33",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Riding a bike.",
+        "bbox": [
+          0.09426229861844453,
+          0.691860465406245,
+          0.23770491736516197,
+          0.706395348489104
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_35",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "The boy hurt his head yesterday because",
+        "bbox": [
+          0.055327876956569086,
+          0.7135416664648109,
+          0.41598358943687375,
+          0.7267441861086852
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_37",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "the dogs ran after him",
+        "bbox": [
+          0.3422131128087076,
+          0.7340116278028311,
+          0.5471311487486695,
+          0.7500000004239131
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_36",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "he fell off the bike",
+        "bbox": [
+          0.0942622960477139,
+          0.7340116283713611,
+          0.27049179968999115,
+          0.7485465114542202
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_54",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "nghua",
+        "bbox": [
+          0.7633668168250322,
+          0.7546033819764005,
+          0.925385814487574,
+          0.8646304454369776
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_38",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "The boy's mother",
+        "bbox": [
+          0.05327869300468102,
+          0.755704364918681,
+          0.22950819664695823,
+          0.7703488368175925
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_50",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "was all right",
+        "bbox": [
+          0.6003281298344093,
+          0.7744213605101182,
+          0.7316390816443327,
+          0.7938925933633567
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_39",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "hurt her arm",
+        "bbox": [
+          0.09631147394125689,
+          0.7775297617685236,
+          0.2213114739412569,
+          0.7892441861743027
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_40",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "stayed in hospital",
+        "bbox": [
+          0.3401639338767434,
+          0.7775297618640906,
+          0.5102458979367814,
+          0.7921626983720272
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_51",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Carrying.",
+        "bbox": [
+          0.6001919162640202,
+          0.8408084417570285,
+          0.7071851346939704,
+          0.858319465172488
+        ],
+        "order": 52
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_44",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Collecting.",
+        "bbox": [
+          0.34213727342620937,
+          0.8412877446953744,
+          0.45909223717440395,
+          0.8578401626927044
+        ],
+        "order": 53
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A. Searching.",
+        "bbox": [
+          0.0942622966513496,
+          0.841517857294652,
+          0.20901639378580883,
+          0.8561507938025885
+        ],
+        "order": 54
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_45",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "What color cans are for waste?",
+        "bbox": [
+          0.055327866199761135,
+          0.861855158846838,
+          0.33811475109532085,
+          0.8750000001166793
+        ],
+        "order": 55
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_47",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Blue.",
+        "bbox": [
+          0.34206068269438666,
+          0.8833465237849429,
+          0.4120376763299757,
+          0.8986302200201152
+        ],
+        "order": 56
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_52",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "White.",
+        "bbox": [
+          0.600409835457266,
+          0.8836805559279962,
+          0.6844262293378162,
+          0.9011627903000292
+        ],
+        "order": 57
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_46",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Pink.",
+        "bbox": [
+          0.09411009114231811,
+          0.8847436288578078,
+          0.16613581228893104,
+          0.8986866037582504
+        ],
+        "order": 58
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "www.Jinghua.com",
+        "bbox": [
+          0.05737705076082862,
+          0.056686046087714784,
+          0.23360655440310588,
+          0.07267441870879686
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "How many suggestions does the doctor give?",
+        "bbox": [
+          0.0532786966353236,
+          0.0755813961389242,
+          0.45491802057779124,
+          0.09302325545991298
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_56",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_56",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8871716189417713,
+          0.08212898913724923,
+          0.946687706344796,
+          0.12306981969762731
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "C. 3.",
+        "bbox": [
+          0.5184426246093251,
+          0.09447674433459735,
+          0.5635245886693633,
+          0.11483134924488785
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_5",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-tE, RA 14-16 1.75",
+        "bbox": [
+          0.07492996782765811,
+          0.11773255803538912,
+          0.34836065052554194,
+          0.1337209306564713
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Where can you probably hear the passage?",
+        "bbox": [
+          0.053278684768306744,
+          0.1395348832570461,
+          0.434426224350546,
+          0.1555232558781283
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "On a shopping bus.",
+        "bbox": [
+          0.3155737719857237,
+          0.16133720899469153,
+          0.500000002194604,
+          0.17733134907473475
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Which country are they in?",
+        "bbox": [
+          0.05327869452073456,
+          0.18168604690927315,
+          0.30737704711860964,
+          0.19915674636338387
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "France.",
+        "bbox": [
+          0.31333919721596554,
+          0.20435727307837342,
+          0.4018247386798655,
+          0.220061331543877
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "England",
+        "bbox": [
+          0.09418680720099575,
+          0.204687328990095,
+          0.1906492599799589,
+          0.2197312754757659
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_17",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Japan.",
+        "bbox": [
+          0.5266125285976639,
+          0.20486582610617443,
+          0.6086333709922389,
+          0.21955277861385958
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "How long will be the trip?",
+        "bbox": [
+          0.05532787397206899,
+          0.2266865080460199,
+          0.30122950000334087,
+          0.24131944455395637
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_25",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_25",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Welcome to the 2010 Summer Camp",
+        "bbox": [
+          0.368852455032889,
+          0.32986111119145317,
+          0.6454918003462097,
+          0.3444940476993895
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Between 9:00am and 11:30am from 17 10 to August 5 .",
+        "bbox": [
+          0.3463114905891473,
+          0.36334325401025774,
+          0.7356557353671366,
+          0.37648809528009874
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Practicing spoken English, singing English 18 and seeing English 19.",
+        "bbox": [
+          0.2827868991478905,
+          0.4302325580519252,
+          0.7971311439258799,
+          0.4433139534887724
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Main activities",
+        "bbox": [
+          0.09016393669750795,
+          0.4302325582719497,
+          0.19467213096642647,
+          0.44047619028956986
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "No. 20 , Shaoshan Road",
+        "bbox": [
+          0.4487704966049549,
+          0.46220930217983236,
+          0.6311475398294711,
+          0.4752906976166793
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_57",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_57",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8468691773993201,
+          0.4512598259066358,
+          0.9060458684732392,
+          0.4925667920524691
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_22",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Address",
+        "bbox": [
+          0.11475409924097532,
+          0.46220930245799624,
+          0.172131147808205,
+          0.4723837207106082
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Telephone number",
+        "bbox": [
+          0.07581967911486084,
+          0.4955357144418433,
+          0.2110655712949751,
+          0.5072674416975586
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Email address",
+        "bbox": [
+          0.09221311567347941,
+          0.5275297621335654,
+          0.19467213364346042,
+          0.5377906974741742
+        ],
+        "order": 34
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_48",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_48",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Walking the dogs.",
+        "bbox": [
+          0.6004098364717728,
+          0.6918604650121334,
+          0.7745901638151124,
+          0.7078488376332155
+        ],
+        "order": 37
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_34",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_34",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Playing with a cat.",
+        "bbox": [
+          0.34221311849989966,
+          0.6918604653868651,
+          0.5184426221421768,
+          0.7063953484697242
+        ],
+        "order": 38
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_49",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_49",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "he had a car accident",
+        "bbox": [
+          0.6004098393012683,
+          0.7325581398889242,
+          0.8012295012725021,
+          0.7500000001560185
+        ],
+        "order": 41
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_58",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_58",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7417658722051517,
+          0.7667554012345679,
+          0.9212140837473849,
+          0.8741168137538581
+        ],
+        "order": 46
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_41",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "14 16",
+        "bbox": [
+          0.3013830525751605,
+          0.7965116284499707,
+          0.45286885365218305,
+          0.8139880953630425
+        ],
+        "order": 50
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0020",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_397",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_42",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_397_42",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Which part is the most difficult one in the program?",
+        "bbox": [
+          0.05327868794357463,
+          0.8182043655430176,
+          0.5102459108679006,
+          0.8358134925271445
+        ],
+        "order": 51
+      }
+    ]
+  }
+]

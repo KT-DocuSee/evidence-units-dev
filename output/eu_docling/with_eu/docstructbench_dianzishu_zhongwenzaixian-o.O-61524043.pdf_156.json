@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156_4",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.13710350157722595,
+          0.13817520182819254,
+          0.8591710650731647,
+          0.5077174355183853
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "АХ74Т-Т.",
+        "bbox": [
+          0.5994173292599626,
+          0.7353670632683239,
+          0.8592750515541803,
+          0.7558139531986252
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ПЕКАШ 7N СТІ, ПЛИТІ, ОДНАЛ!",
+        "bbox": [
+          0.13859275737589383,
+          0.7891865078145781,
+          0.8571428578469231,
+          0.8373015870480588
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Т, ВАНК, #AME1007-1.",
+        "bbox": [
+          0.17910448211519175,
+          0.8444767445671556,
+          0.6481876193773458,
+          0.864831349477446
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61524043.pdf_156_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.46342594207279264,
+          0.5180288486903194,
+          0.8564774770585317,
+          0.7186658499628579
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

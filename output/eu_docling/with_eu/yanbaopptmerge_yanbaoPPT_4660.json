@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4660",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_4660_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_4660_1",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3357895921579139,
+          0.00044198334217071533,
+          0.6905772520622422,
+          0.26508467610677083
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_4660_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ХИЛИТА: ХИМЯ ТИ, ХИМЕ*ЯДЕРИТАН",
+        "bbox": [
+          0.15116280860364542,
+          0.3253968260521374,
+          0.8837209227917034,
+          0.3747795421015201
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4660",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_4660_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_4660_2",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10879677943089146,
+          0.44575439453125,
+          0.502308488294432,
+          0.7977548828125
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4660",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_4660_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_4660_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.6235673330140373,
+          0.45274471028645835,
+          0.8883311583122422,
+          0.8010210774739583
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

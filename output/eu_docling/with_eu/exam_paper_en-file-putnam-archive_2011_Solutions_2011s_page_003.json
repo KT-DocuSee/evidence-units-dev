@@ -1,0 +1,707 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(fg) · (f/g) with the square root function. By the chain rule, f is differentiable at 0.",
+        "bbox": [
+          0.556390978273191,
+          0.06820436480866854,
+          0.919172938756884,
+          0.09895833291811992
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Bl Since the rational numbers are dense in the reals, we can find positive integers a, b such that",
+        "bbox": [
+          0.10338346628507948,
+          0.06820436504686189,
+          0.49060150580138645,
+          0.095982142661954
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If f(0) = 0, then (f /g) (0) = 0, so we have",
+        "bbox": [
+          0.5563909872775487,
+          0.10317460295144522,
+          0.8402255597525267,
+          0.11780753945938169
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.23872180399702478,
+          0.1090116278276353,
+          0.33270676606109223,
+          0.13814484085301634
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_19",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6389975663851546,
+          0.12790697715043084,
+          0.7952359840129982,
+          0.16165125068572056
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By multiplying a and b by a suitably large positive integer, we can also ensure that 3a? > b. We then have",
+        "bbox": [
+          0.12773058949328203,
+          0.1482558141998496,
+          0.49060151109241035,
+          0.17597578627871216
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since g is continuous at 0, we may multiply limits to deduce that lim, ›o f(x) /x exists.",
+        "bbox": [
+          0.5563909781143443,
+          0.17151162811800139,
+          0.9191729253972513,
+          0.20064484115416256
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.19172932425219094,
+          0.18750000025980584,
+          0.42105262874655797,
+          0.22093023222526953
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution. Choose a neighborhood N of 0 on which g(x) # 0. Define the following functions on N\\ x8 (0)g(x) h3 (x) = 8(0)8(2); h4(x) = 3(*)+80 . Then by assumption, h1, h2, h3, h4 all have limits as x → 0. On the other hand,",
+        "bbox": [
+          0.5563909701105971,
+          0.20634920644671648,
+          0.9210526389119592,
+          0.30377906942418154
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and",
+        "bbox": [
+          0.12593985020512066,
+          0.23110465111251902,
+          0.15413533787758607,
+          0.24273255795724852
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1486582821011801,
+          0.2543604652196243,
+          0.4210526320932007,
+          0.290645416228657
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We may then take m = kº(a2 +b),n = h-a.",
+        "bbox": [
+          0.1278195539388976,
+          0.2965116274430927,
+          0.4191729290028318,
+          0.312500000064175
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_22",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_22",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5808270669642858,
+          0.3139534883079182,
+          0.8571428504548994,
+          0.3459302327656618
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B2 Only the primes 2 and 5 appear seven or more times. The fact that these primes appear is demonstrated by the examples",
+        "bbox": [
+          0.10150376146398042,
+          0.32412790691457055,
+          0.49060151142135755,
+          0.36494964639942157
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and it follows that lim, >0 {(*)-fO) exists, as desired.",
+        "bbox": [
+          0.5563909804724391,
+          0.354651163545448,
+          0.90601504621929,
+          0.37063953427431917
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.17293233430199695,
+          0.37936046558066355,
+          0.4022556369761987,
+          0.39389534866352255
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_24",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B4 Number the games 1,..., 2011, and let A = (ajk) be the 2011 × 2011 matrix whose jk entry is 1 if player k wins game j and i = V-1 if player k loses game j. Then anjajk is 1 if players h and k tie in game j; i if player h wins and player k loses in game j; and -i if h loses and k wins. It follows that T + iW = Aº A.",
+        "bbox": [
+          0.5338345983618177,
+          0.382192460191112,
+          0.9191729341065243,
+          0.4694940478275706
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and their reversals.",
+        "bbox": [
+          0.12781955306985604,
+          0.40697674438629083,
+          0.25375939849656,
+          0.4171626985029306
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It remains to show that if either l = 3 or l is a prime greater than 5, then l occurs at most six times as an element of a triple in S. Note that (p, q,r) ES if and only if q - 4pr = a for some integer a; in particular, since 4pr ≥ 16, this forces q ≥ 5. In particular, q is odd, as then is a, and so q = a- = 1 (mod 8); consequently, one of p,r must equal 2. If r = 2, then 8p = q - a? (q+a) (q-a); since both factors are of the same sign and their sum is the positive number 2q, both factors are positive. Since they are also both even, we have q + a € {2,4,2p, 4p} and so q € {2p + 1, p + 2}. Similarly, if p = 2, then q € {2r + 1,r + 2}. Consequently, l occurs at most twice as many times as there are prime numbers in the list",
+        "bbox": [
+          0.12765651920217957,
+          0.4258432538295723,
+          0.49060151260400175,
+          0.6255601257857121
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0017",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_25",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now the determinant of A is unchanged if we subtract the first row of A from each of the other rows, producing a matrix whose rows, besides the first one, are (1 - i) times a row of integers. Thus we can write detA = (1 - i)2010(a + bi) for some integers a,b. But then det (T + iW) = det(A\" A) = 22010(a7 + 62) is a nonnegative integer multiple of 22010, as desired.",
+        "bbox": [
+          0.5563909743790808,
+          0.4781746031569348,
+          0.9210526389119592,
+          0.5799418601460807
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_26",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B5 Define the function",
+        "bbox": [
+          0.5338345890582645,
+          0.5915178569204996,
+          0.6860902239586526,
+          0.6031976742072486
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_27",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6033834579443933,
+          0.6148255814032166,
+          0.8327067627305925,
+          0.6468253969554103
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0018",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_12",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.20485864339526672,
+          0.636627907098258,
+          0.3722090304788173,
+          0.6629428675598323
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0019",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_28",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For y ≥ 0, in the range - 1 ≤ * ≤ 0, we have",
+        "bbox": [
+          0.5582706803101503,
+          0.6584302325514724,
+          0.8477443645206766,
+          0.6701388890252378
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0020",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For l = 3,l - 2 = 1 is not prime. For l ≥ 7, the numbers l- 2, l, l + 2 cannot all be prime, since one of them is always a nontrivial multiple of 3.",
+        "bbox": [
+          0.12781954785901858,
+          0.6758432541926127,
+          0.4906015045701836,
+          0.7180232556029288
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0021",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_29",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_29",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5187970033665169,
+          0.6816860470110173,
+          0.9172932271785956,
+          0.719494047883077
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0022",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. The above argument shows that the cases listed for 5 are the only ones that can occur. By contrast, there are infinitely many cases where 2 occurs if either the twin prime conjecture holds or there are infinitely many Sophie Germain primes (both of which are expected to be true).",
+        "bbox": [
+          0.12593985625873957,
+          0.723837209421838,
+          0.49060150977662087,
+          0.8095930233836051
+        ],
+        "order": 28
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0023",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_30",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We thus have the lower bound",
+        "bbox": [
+          0.5582706770989976,
+          0.7325581397946895,
+          0.7556390981516291,
+          0.7442956349824186
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_31",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6578947370018369,
+          0.7630813953770312,
+          0.7781954902806548,
+          0.7864583332735174
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "the same bound is valid for y ≤ 0 because f(y) = f(-y). The original hypothesis can be written as",
+        "bbox": [
+          0.5545112883737305,
+          0.7978670636460806,
+          0.9210526305642394,
+          0.8313953487964273
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0024",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "B3 Yes, it follows that f is differentiable.",
+        "bbox": [
+          0.10338345550312891,
+          0.8211805557690236,
+          0.375939843682335,
+          0.8328488371917446
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "First solution. Note first that at 0, f/g and g are both continuous, as then is their product f. If f(0) # 0, then in some neighborhood of 0, f is either always positive or always negative. We can thus choose & € {#1} so that ef is the composition of the differentiable function",
+        "bbox": [
+          0.12593985625873957,
+          0.8400297617446969,
+          0.4906015091489357,
+          0.9127906977385932
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0025",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_33",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_33",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6503759397259987,
+          0.8498498969923484,
+          0.7858180060455331,
+          0.8779069769708476
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and thus implies that",
+        "bbox": [
+          0.5545112778323895,
+          0.890873015736667,
+          0.6954887186431745,
+          0.9055232555675924
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2011_Solutions_2011s_page_003_35",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6319439338235294,
+          0.9185817649147727,
+          0.804070614085478,
+          0.9563497647372159
+        ],
+        "order": 36
+      }
+    ]
+  }
+]

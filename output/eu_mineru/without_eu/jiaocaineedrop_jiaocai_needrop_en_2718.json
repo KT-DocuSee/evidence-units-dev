@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_0",
+    "text": "λ = Tv=8.5 m.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10296684118673648,
+      0.06687754179846363,
+      0.24345549738219896,
+      0.08314505196565748
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_1",
+    "text": "取t=0时刻的波源的平衡位置为坐标原点， 则其波的图像如图3-2-5所.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10209424083769633,
+      0.08977255610784757,
+      0.5139616055846422,
+      0.13255008284380176
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_2",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.2198952879581152,
+      0.14580509112818196,
+      0.7600349040139616,
+      0.2403976502485314
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_3",
+    "text": "图3-2-5",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.44153577661431065,
+      0.24642265401415875,
+      0.537521815008726,
+      0.26329266455791533
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_4",
+    "text": "例题2：两分别乘坐静在湖上的甲、两条船，两船在湖上相距20m．有 列波沿甲船到船的向传播，使每条船每分钟上下浮动30次．当甲船位于波峰 时，船刚好在波，此时两船间还有两个波峰.这列波的传播速度是多少?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05846422338568935,
+      0.27474017171260734,
+      0.9223385689354275,
+      0.3422202138876337
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_5",
+    "text": "分析：甲、乙两船位于波的同一个传播方向上，一个周期的时间波传播的距离为一个波 长.靠近波源的甲船先振动，远离波源的乙船后振动，波峰到相邻波谷之间的距离为半个波 长，连续三个波峰之间的长度为两个波长.利用波长和周期的关系求出波的传播速度.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.059336823734729496,
+      0.3464377165235728,
+      0.9205933682373473,
+      0.4139177586985992
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_6",
+    "text": "解：船每分钟上下浮动30次，即每分钟完成30次全振动，故波的周期 T = 0 s =2 s.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09511343804537521,
+      0.4175327609579756,
+      0.824607329842932,
+      0.47657779786112364
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_7",
+    "text": "甲船在波峰，船在波，两船间还有两个波峰，则波波长",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09947643979057591,
+      0.4838078023798765,
+      0.6928446771378709,
+      0.5036903148064468
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_8",
+    "text": "因此波速",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10209424083769633,
+      0.5506853441783401,
+      0.193717277486911,
+      0.5687603554752222
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_9",
+    "text": "次声波",
+    "canon_role": "section_header",
+    "bbox": [
+      0.45287958115183247,
+      0.6525079078174424,
+      0.5776614310645725,
+      0.6729929206205754
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_10",
+    "text": "次声波是指频率小于20 Hz的声波．次声波不容易衰减，不易被水和空气 吸收．由于其波长往往很长，因而能绕开某些大型障碍物，某些次声波甚至能 绕地球二至三周．某些频率的次声波由于和人体器官的振动频率相近，容易和 人体器官产生共振，对人体有很强的伤害性，严重时可致人死亡.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13699825479930192,
+      0.7001054375658985,
+      0.8970331588132635,
+      0.7916854948034342
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_2718_11",
+    "text": "次声波来源广．在自然界中，海上风暴、火山爆发、大陨石落地、海啸、 电闪雷鸣、波浪击岸、水中漩涡、空中湍流、龙卷风、磁暴、极光、地震等都 可能伴有次声波的发生．在人类活动中，诸如核爆炸、导弹飞行、火炮发射、 轮船航行、汽车争驰，甚至像鼓风机、搅拌机、扩音喇叭等在发声的同时也都 能产生次声波.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13699825479930192,
+      0.7959029974393734,
+      0.8979057591623036,
+      0.9109805693628559
+    ],
+    "page": "jiaocaineedrop_jiaocai_needrop_en_2718",
+    "order": 12
+  }
+]

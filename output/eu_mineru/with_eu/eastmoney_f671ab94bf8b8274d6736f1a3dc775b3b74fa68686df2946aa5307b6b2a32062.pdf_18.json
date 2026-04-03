@@ -1,0 +1,198 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18",
+    "primary_id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.27005239822652155,
+          0.08265640587145504,
+          0.9375251914550584,
+          0.1989454182699159
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18",
+    "primary_id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_9",
+    "source": "visual_seed",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_1",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：公司官网，东吴证券研究所",
+        "bbox": [
+          0.2789197904070939,
+          0.2006555508051874,
+          0.5667069729947601,
+          0.21604674362263077
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "低利率环境和权益市场大幅波动环境下增额终身寿险安全性、收益性和流动性的综 合优势受到青睐。2021 年初重疾新老定义切换提前消耗部分消费需求，2022 年初以来 队伍规模持续下降进一步拖累价值型业务增速，由于增额终身寿价值率水平介于长期重 疾险与短储类产品之间，成为保险公司实现业绩目标的重要抓手。我们认为，在高度竞 争的环境下，产品与服务的打磨将成为差异化竞争力，而“盛世金越”产品有望凭借安 全确定、持续增长、灵活掌控、应急有备四大特点，满足不同年龄阶层客户的多样需求， 从而脱颖而出。截至2022 年一季度，平安“保险+”产品新业务价值贡献已经超过1/3。",
+        "bbox": [
+          0.25957275292220877,
+          0.22972780390480263,
+          0.9318823055219669,
+          0.3802194670086932
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "全链条的健康管理需求是健康险发展到一定阶段的必然产物。随着公众对健康重视 度的不断提升与健康风险的日益复杂化，传统保障型保险产品的事后型补偿已无法完全 满足消费者需要，用户更希望能够在事前将健康风险控制在萌芽状态。在这一需求驱动 下，涵盖事前、事中、事后全链条的“保险+健康管理”模式成为险企争相布局的热点。 此外，随着国内互联网医疗与健康产业信息化的快速发展，健康管理项目与保险深度结 合的可行度大大提升。在此背景下，平安人寿推出“平安臻享·RUN健康服务计划” 这一医疗保障力作，通过为每位客户匹配一名专职医生，建立专属账户，并以此为基础 提供覆盖健康、慢病、医疗三方面的专业健康管理服务，打造一站式的健康服务体验。",
+        "bbox": [
+          0.25957275292220877,
+          0.4566053869174861,
+          0.9326884320838371,
+          0.6304688613367536
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.2.2.全国广泛布局，线上线下强势护航",
+        "bbox": [
+          0.25312374042724706,
+          0.6447199657973492,
+          0.5755743651753326,
+          0.6612512469716403
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "“平安臻享RUN”是基于重疾险的一项全新服务保障计划，为持有平安有效重疾 类保险的被保险人提供家庭医生、线上线下结合、健康医疗管理三方面的保障。",
+        "bbox": [
+          0.26118500604594924,
+          0.6760723956106598,
+          0.9310761789600968,
+          0.715405443921904
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_8",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表8：“平安臻享RUN”健康管理计划的保障内容",
+        "bbox": [
+          0.08706166868198308,
+          0.7211058857061422,
+          0.4619105199516324,
+          0.7364970785235856
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_9",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08061265618702136,
+          0.7399173435941285,
+          0.9359129383313181,
+          0.8493658258515034
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_10",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "数据来源：公司官网，东吴证券研究所",
+        "bbox": [
+          0.08786779524385328,
+          0.851075958386775,
+          0.37646110439338976,
+          0.8664671512042184
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "助力打造有温度的保险产品。“平安臻享RUN”健康管理计划有资源、团队和服务",
+        "bbox": [
+          0.2950423216444982,
+          0.8801482114863902,
+          0.9302700523982266,
+          0.8966794926606813
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18",
+    "primary_id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.2.保险+健康管理：升级平安RUN",
+        "bbox": [
+          0.25312374042724706,
+          0.39390052729086505,
+          0.5844417573559049,
+          0.4115718968220037
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18",
+    "primary_id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_4",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_f671ab94bf8b8274d6736f1a3dc775b3b74fa68686df2946aa5307b6b2a32062.pdf_18_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "3.2.1.公众健康需求提升催动保险产品变革",
+        "bbox": [
+          0.25070536074163646,
+          0.4258230012825994,
+          0.5908907698508666,
+          0.4429243266353142
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_071",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.18_page_071_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "plaining that the company \"failed to take advantage of a product that is more rele- vant today than ever before\".",
+        "bbox": [
+          0.05146666666666667,
+          0.06761078117862038,
+          0.3410666666666667,
+          0.1069996446880869
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Yet the rise and fall of the two empires share similarities. For one, both relied on risky bets that went sour in a world of high- er interest rates and slumping property markets. As he built his empire, Mr Benko accumulated a mountain of debt in order to purchase new assets while maintaining juicy dividends. That model worked only as long as interest rates were low and the value of prime property continued to rise. In WeWork's case, the risk stemmed from a model of taking out lengthy leases on properties, sometimes for as long as 20 years, splashing out on snazzy refurbish- ments, then renting the space for periods as brief as a month at a time. When the of- fi ce market turned, the company was stuck paying for leases that cost far in excess of what it could charge tenants, given the cheaper alternatives on off er.",
+        "bbox": [
+          0.06133333333333333,
+          0.10821785696157556,
+          0.3416,
+          0.25298208212781076
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_071",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.18_page_071_12",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.35973333333333335,
+          0.06781381655753516,
+          0.6402666666666667,
+          0.18679254860159383
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6589333333333334,
+          0.0682198873153647,
+          0.9392,
+          0.25298208212781076
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6586666666666666,
+          0.3593726206791533,
+          0.9186666666666666,
+          0.4119587838180803
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_12",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.35973333333333335,
+          0.6273793208466575,
+          0.6397333333333334,
+          0.8456423531800417
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_13",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Listen to Boss Class",
+        "bbox": [
+          0.39413333333333334,
+          0.8598548297040759,
+          0.5562666666666667,
+          0.876097660017258
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_071",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.18_page_071_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Nonetheless, both empires could just come out the other side stronger. Leonhard Dobusch of Innsbruck University reckons Mr Geiwitz will break up the sprawling Sig- na portfolio, selling off assets to bring in cash and pay down debts. The privately held business, comprised of hundreds of holding companies, could do with simpli- fi cation. WeWork, for its part, has already gained backing from most of its creditors to convert its debt pile of$3bn into equity, giving its balance-sheet something close toa fresh start. It will also use its ankrut cy to break more than 6o leases in America and renegotiate others. David Tolley, We- Work's new boss, has said he thinks it will remain in bankruptcy for less than seven months. Mr Neumann and Mr Benko are gone, but what they built may endure.",
+        "bbox": [
+          0.3605333333333333,
+          0.18740165473833817,
+          0.6397333333333334,
+          0.2535911882645551
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_071",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.18_page_071_5",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Bartleby The collaboration conundrum",
+        "bbox": [
+          0.06693333333333333,
+          0.2696309831988224,
+          0.6104,
+          0.29602558245774324
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If teams matter so much, why do firms still focus on individuals?",
+        "bbox": [
+          0.06906666666666667,
+          0.33724176437744274,
+          0.5077333333333334,
+          0.35186031165930665
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ts tions, the processes used to manage employees have carried on much as before. Bosses may wax lyrical about collaboration, but the way they reward, review and recruit has not caught up.",
+        "bbox": [
+          0.0696,
+          0.3593726206791533,
+          0.3384,
+          0.4649510177148368
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But a greater emphasis on, and un- derstanding of, teams does not generally translate into matching management practices. Recruitment processes focus on the achievements of the individual rather than the collectives they have been in. Performance management is still largely a one-player sport. Reviews are usually based on individual targets, as are bonus- es. Metrics are often confi ned to concrete outputs rather than softer team-based measures, such as how trusted people are. It doesn't help that many bosses have little idea what their teams really do. Soroco, a software fi rm, and academics at Harvard Business School and the Wharton School of the University of Pennsylvania asked managers to describe the processes that they thought took up most of their teams'",
+        "bbox": [
+          0.3592,
+          0.3595756560580681,
+          0.6381333333333333,
+          0.6109334551545607
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "There are good reasons for much of this. People move jobs and get promoted one by one, not as battalions. Rewarding people on the basis of team performance can lead to unfairness: free-riders might get too much recognition or hard work- ers might be penalised for someone else not pulling their weight. It's diffi cult to quantify team contributions. When teams are made up of people from diff er- ent departments—or form for limited periods—managers find it harder to know what their direct reports are up to.",
+        "bbox": [
+          0.6581333333333333,
+          0.4129739607126542,
+          0.9258666666666666,
+          0.5839297497588954
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "People in organisations have always worked in concert with others. But the emphasis on teams is growing, for a variety of reasons. Technology has made the sharing of ideas and information easier, while hybrid working has made it more vital. (There's a reason it's not called Microsoft Silos.) The software industry has spread the gospel of teams—agile, scrums, okRs and all the rest of it—into all kinds of places.",
+        "bbox": [
+          0.06933333333333333,
+          0.46556012385158113,
+          0.33653333333333335,
+          0.6101213136389015
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But these problems are not insur- mountable. When hiring people, it is possible to assess traits that make for good group members: scoring well on a test that asks participants to determine what people are feeling from a snapshot of their eyes is correlated with beinga good team player, for example. Peer reviews can give a good sense of how people are seen within teams.",
+        "bbox": [
+          0.6581333333333333,
+          0.5849449266534694,
+          0.9234666666666667,
+          0.7163088168113294
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Teams, it turns out, are better at solving complex problems, according to a recent paper by Abdullah Almaatouq of the MIT Sloan School of Management. Research also suggests that people havea greater attachment to their work group than to their organisation; you're less likely to go for lunch with a logo.",
+        "bbox": [
+          0.0696,
+          0.6113395259123903,
+          0.34,
+          0.7163088168113294
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_071",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.18_page_071_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Knowledge is also accu mulating as to what makes teams tick, the subject of this week's episode of Boss Class, our new management podcast. Project Aristotle, a famous bit of research by Google into the characteristics of its best-performing teams, identifi ed \"psychological safety\"—comfort to speak one's mind—as the most important ingredient, alongside things like dependability, role clarity and meaning- ful work. Diff erent teams excel at differ- ent things. Analysis by Lingfei Wu of the University of Chicago and his co-authors found a correlation between team size and types of scientifi c research: larger teams develop existing ideas and smaller ones disrupt the fi eld with new ones.",
+        "bbox": [
+          0.0696,
+          0.7171209583269885,
+          0.34,
+          0.954875387036191
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_071",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.18_page_071_18",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The worry that team-based bonuses may encourage free-riding also seems to be overblown.A recent study by Anders Frederiksen of Aarhus University and his co-authors looked at the impact of introducing group-based incentives at a manufacturing fi rm, and found it sparked a big leap in performance. That jump was not just because the scheme incentivised existing workers to be more effi cient, but also because it attracted more productive new hires.",
+        "bbox": [
+          0.6584,
+          0.7171209583269885,
+          0.9288,
+          0.8748794477437694
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Employees are individuals; managers should never forget that. But if teams are where a lot of the magic happens, bosses should have better ways to get the most out of them. Working out what they do all day might be a good place to start.",
+        "bbox": [
+          0.6589333333333334,
+          0.876097660017258,
+          0.9258666666666666,
+          0.9554844931729354
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "magazine_TheEconomist.2023.11.18_page_071",
+    "primary_id": "mineru_magazine_TheEconomist.2023.11.18_page_071_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_magazine_TheEconomist.2023.11.18_page_071_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In a new subscriber-only podcast series, our Bartleby columnist searches for the secrets of being a good manager. Learn more at economist.com/bossclass time. On average they did not know or could not recall 6o% of what their team members did, making them more like high-functioning goldfi sh than bosses.",
+        "bbox": [
+          0.3592,
+          0.8884828181310593,
+          0.6314666666666666,
+          0.9422871935434749
+        ],
+        "order": 20
+      }
+    ]
+  }
+]

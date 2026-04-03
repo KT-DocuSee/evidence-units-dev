@@ -1,0 +1,398 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Solutions to the 58th William Lowell Putnam Mathematical Competition Saturday, December 6, 1997",
+        "bbox": [
+          0.1992156862745098,
+          0.06363636363636363,
+          0.8086274509803921,
+          0.1
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Manjul Bhargava, Kiran Kedlaya, and Lenny Ng",
+        "bbox": [
+          0.3349019607843137,
+          0.11393939393939394,
+          0.6713725490196079,
+          0.1290909090909091
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A-3 Note that the series on the left is simply xexp(−x2/2). By integration by parts,",
+        "bbox": [
+          0.5223529411764706,
+          0.16424242424242425,
+          0.9184313725490196,
+          0.19454545454545455
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–1 The centroid G of the triangle is collinear with H and O (Euler line), and the centroid lies two-thirds of the way from A to M. Therefore H is also two-thirds of the way from A to F, so AF = 15. Since the triangles BF H and AFC are similar (they're right triangles and",
+        "bbox": [
+          0.09333333333333334,
+          0.16484848484848486,
+          0.49019607843137253,
+          0.2381818181818182
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and so by induction,",
+        "bbox": [
+          0.5568627450980392,
+          0.24484848484848484,
+          0.691764705882353,
+          0.2593939393939394
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "we have",
+        "bbox": [
+          0.12784313725490196,
+          0.2781818181818182,
+          0.18352941176470589,
+          0.2909090909090909
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thus the desired integral is simply",
+        "bbox": [
+          0.5576470588235294,
+          0.3096969696969697,
+          0.7850980392156863,
+          0.3242424242424242
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "or",
+        "bbox": [
+          0.12705882352941175,
+          0.3339393939393939,
+          0.14352941176470588,
+          0.34484848484848485
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now but",
+        "bbox": [
+          0.12627450980392158,
+          0.38545454545454544,
+          0.16156862745098038,
+          0.3993939393939394
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A−4 In order to have y(x) = aφ (x) for all x, we must in par- ticular have this for x = e, and so we take a = φ(e)−1. We fi rst note that",
+        "bbox": [
+          0.5223529411764706,
+          0.38727272727272727,
+          0.9192156862745098,
+          0.4309090909090909
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.12627450980392158,
+          0.4406060606060606,
+          0.15137254901960784,
+          0.4533333333333333
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and so φ(g) commutes with φ(e) for all g. Next, we note that",
+        "bbox": [
+          0.5568627450980392,
+          0.4703030303030303,
+          0.9192156862745098,
+          0.4987878787878788
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SO",
+        "bbox": [
+          0.12705882352941175,
+          0.49636363636363634,
+          0.1450980392156863,
+          0.5066666666666667
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and using the commutativity of φ (e), we deduce or (xy) = ψ(x) ψ(y), as desired.",
+        "bbox": [
+          0.556078431372549,
+          0.5381818181818182,
+          0.8752941176470588,
+          0.5533333333333333
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–2 We show more precisely that the game terminates with one player holding all of the pennies if and only if n = 2m + 1 or n = 2m + 2 for some m. First suppose we are in the following situation for some k ≥ 2. (Note: for us, a \"move\" consists of two turns, starting with a one-penny pass.)",
+        "bbox": [
+          0.09411764705882353,
+          0.5527272727272727,
+          0.49019607843137253,
+          0.64
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_18",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5576470588235294,
+          0.5933333333333334,
+          0.7780392156862745,
+          0.6103030303030303
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A-5 We may discard any solutions for which a1 ≠ a2, since those come in pairs; so assume a1 = a2. Similarly, we may assume that a3 = a4, a5 = a6, a7 = a8, a9 = a10. Thus we get the equation",
+        "bbox": [
+          0.5231372549019608,
+          0.6181818181818182,
+          0.9192156862745098,
+          0.676969696969697
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "– Except for the player to move, each player has k pennies; – The player to move has at least k pennies.",
+        "bbox": [
+          0.14666666666666667,
+          0.649090909090909,
+          0.49019607843137253,
+          0.6987878787878787
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We claim then that the game terminates if and only if the number of players is a power of 2. First suppose the number of players is even; then after m complete rounds, every other player, starting with the player who moved first, will have m more pennies than initially, and the others will all have 0. Thus we are reduced to the situation with half as many players; by this process, we eventually reduce to the case where the number of play- ers is odd. However, if there is more than one player, after two complete rounds everyone has as many pen- nies as they did before (here we need m ≥ 2), so the game fails to terminate. This verifies the claim.",
+        "bbox": [
+          0.12705882352941175,
+          0.7078787878787879,
+          0.49019607843137253,
+          0.8818181818181818
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_20",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Again, we may assume a1 = a3 and a5 = a7, so we get 4/a1 + 4/a5 + 2/a9 = 1; and a1 = a5, so 8/a1 +2/a9 = 1. This implies that (a1 − 8)(a9 − 2) = 16, which by counting has 5 solutions. Thus N1o is odd.",
+        "bbox": [
+          0.556078431372549,
+          0.7169696969696969,
+          0.92,
+          0.7745454545454545
+        ],
+        "order": 20
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–6 Clearly xn+1 is a polynomial in c of degree n, so it suf- fi ces to identify n values of c for which xn+1 = 0. We claim these are c = n − 1 − 2r for r = 0, 1, . . .,n − 1; in this case, xk is the coefficient of −1 in the polyno- mial f (t) = (1 − t)(1 + t)n−1−r. This can be verified by noticing that f satisfi es the differential equation",
+        "bbox": [
+          0.5231372549019608,
+          0.7836363636363637,
+          0.92,
+          0.8715151515151515
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_1997_Solutions_1997s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Returning to the original game, note that after one com- plete round, [\"2」 players remain, each with 2 pennies except for the player to move, who has either 3 or 4 pen- nies. Thus by the above argument, the game terminates if and only if [n is a power of 2, that is, if and only if n = 2m + 1 or n = 2m + 2 for some m.",
+        "bbox": [
+          0.12705882352941175,
+          0.8866666666666667,
+          0.4894117647058824,
+          0.9733333333333334
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_0",
+    "text": "The 67th William Lowell Putnam Mathematical Competition Saturday, December 2, 2006",
+    "canon_role": "section_header",
+    "bbox": [
+      0.24812031060900624,
+      0.06686046479168764,
+      0.7593984949047782,
+      0.1031976738465409
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_14",
+    "text": "B-1 Show that the curve x3 + 3xy + y3 = 1 contains only one set of three distinct points, A, B, and C, which are vertices of an equilateral triangle, and find its area.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360951597743,
+      0.13516865095533573,
+      0.9191729372650377,
+      0.18030753986239326
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_1",
+    "text": "A-1 Find the volume of the region of points (x, y, z) such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466177944857,
+      0.13808139599590835,
+      0.4906015038847117,
+      0.1511627904866498
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_2",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17669173156015033,
+      0.16279069824648237,
+      0.4003759420864661,
+      0.18023255756747114
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_15",
+    "text": "B-2 Prove that, for every set X = {x1,x2,..., Xn} of n real numbers, there exists a non-empty subset S of X and an integer m such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360874060151,
+      0.19040697682097352,
+      0.9191729340438677,
+      0.23412698419065855
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_3",
+    "text": "A-2 Alice and Bob play a game in which they take turns removing stones from a heap that initially has n stones. The number of stones removed at each turn must be one less than a prime number. The winner is the player who takes the last stone. Alice plays first. Prove that there are infinitely many n such that Bob has a winning strategy. (For example, if n = 17, then Alice might take 6 leaving 11; then Bob might take 1 leaving 10; then Alice can take the remaining stones to win.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09398496011467784,
+      0.1976686509189984,
+      0.49069844454297357,
+      0.32713293664428544
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_16",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6578536689052448,
+      0.2571558920849336,
+      0.7838345864923255,
+      0.2834302323690068
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_17",
+    "text": "B-3 Let S be a finite set of points in the plane. A linear partition of Sis an unordered pair {A, B} of subsets of S such that AUB = S, AnB = D, and A and B lie on opposite sides of some straight line disjoint from S (A or B may be empty). Let Ls be the number of linear partitions of S. For each positive integer n, find the maximum of Ls over all sets S of n points.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5225563893471341,
+      0.2834302328190355,
+      0.9210526169085537,
+      0.38372093002153346
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_4",
+    "text": "A-3 Let 1,2,3,..., 2005,2006,2007,2009,2012, 2016,... be a sequence defined by x = k for k = 1,2, ..., 2006 and xk+1 = xk + xk-2005 fork ≥ 2006. Show that the sequence has 2005 consecutive terms each divisible by 2006.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0939849729132042,
+      0.33854166680968256,
+      0.4906015022656562,
+      0.40843023249213234
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_18",
+    "text": "B-4 Let Z denote the set of points in R\" whose coordinates are 0 or 1. (Thus Z has 2\" elements, which are the vertices of a unit hypercube in R\".) Given a vector subspace V of R\", let Z(V) denote the number of members of Z that lie in V. Let k be given, 0 ≤ k In. Find the maximum, over all vector subspaces V C R\" of dimension k, of the number of points in V NZ. [Editorial note: the proposers probably intended to write Z(V) instead of \"the number of points in VNZ\", but this changes nothing.]",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360918233083,
+      0.39384920646455346,
+      0.9193269498365194,
+      0.5393313196406463
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_5",
+    "text": "A-4 Let S = {1,2, ...,n} for some integer n > 1. Say a permutation i of S has a local maximum at k € S if",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466840975817,
+      0.4200581397459082,
+      0.48872180007395105,
+      0.4462209300212019
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_6",
+    "text": "П(k) > (k + 1) for k = 1;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13909774044768583,
+      0.4607558139639894,
+      0.34022556279479543,
+      0.47395833313481095
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_7",
+    "text": "(її) (k - 1) < (k) and n(k) > n(k + 1) for 1 < k< n;",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1390977401215621,
+      0.4796511634377687,
+      0.488721805868413,
+      0.5087209304400805
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_8",
+    "text": "(i) (k - 1) <П(k) for k = n.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1334586506002465,
+      0.5130813954148445,
+      0.3402255650952421,
+      0.5248015872795848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_9",
+    "text": "(For example, if n = 5 and i takes values at 1,2,3,4,5 of 2,1,4,5,3, then it has a local maximum of 2 at k = 1, and a local maximum of 5 at k = 4.) What is the average number of local maxima of a permutation of S, averaging over all permutations of S?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954002757723,
+      0.5376984126830774,
+      0.49060151109241035,
+      0.609126984280501
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_19",
+    "text": "B-5 For each continuous function f: [0, 1] → R, let I(f) = So f(x) dx and J (x) = fö x (f(x)) dx. Find the maximum value of I (f) - J(f) over all such functions f.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5225564099263378,
+      0.5493551585914769,
+      0.9210526380050044,
+      0.5959821427537977
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_20",
+    "text": "B-6 Let k be an integer greater than 1. Suppose ao > 0, and define",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5244360857142859,
+      0.6046511630017223,
+      0.9191729278195491,
+      0.6322674417363182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_10",
+    "text": "A-5 Let n be a positive odd integer and let 0 be a real number such that 0 / is irrational. Set ak = tan(0 + km/n), k = 1,2, ...,n. Prove that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466658834576,
+      0.6205357145024053,
+      0.49060150869360897,
+      0.6614583331640912
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_21",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6578947385128426,
+      0.652529761762857,
+      0.7744360904971825,
+      0.674418604421248
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.23120301035118634,
+      0.6744186048090138,
+      0.34586466168828717,
+      0.7021329363505857
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_22",
+    "text": "for n > 0. Evaluate",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706788843924,
+      0.6860119047686825,
+      0.6842105243110963,
+      0.6976744187324423
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_23",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6840317670036765,
+      0.708427567915483,
+      0.7509743365119486,
+      0.7383774636008523
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_12",
+    "text": "is an integer, and determine its value.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954622994596,
+      0.7135416667016716,
+      0.37406014493546785,
+      0.7267441853994405
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001_13",
+    "text": "A-6 Four points are chosen uniformly and independently at random in the interior of a given circle. Find the probability that they are the vertices of a convex quadrilateral.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586466658834576,
+      0.738343254174444,
+      0.49060151260400175,
+      0.7805232554091304
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Problems_2006_page_001",
+    "order": 24
+  }
+]

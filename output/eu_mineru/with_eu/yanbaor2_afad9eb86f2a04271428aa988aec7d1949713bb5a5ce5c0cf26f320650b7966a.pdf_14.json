@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaor2_afad9eb86f2a04271428aa988aec7d1949713bb5a5ce5c0cf26f320650b7966a.pdf_14",
+    "primary_id": "mineru_yanbaor2_afad9eb86f2a04271428aa988aec7d1949713bb5a5ce5c0cf26f320650b7966a.pdf_14_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_afad9eb86f2a04271428aa988aec7d1949713bb5a5ce5c0cf26f320650b7966a.pdf_14_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "5.3案例分析",
+        "bbox": [
+          0.05814450619923044,
+          0.07013301088270858,
+          0.2662106313239276,
+          0.16283756549778317
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_afad9eb86f2a04271428aa988aec7d1949713bb5a5ce5c0cf26f320650b7966a.pdf_14_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "质量的研究报告不仅是投资者了解市场信息的重要途径，更是证券公司及证券研究机构展业的坚实基础。因此，强化内控合规、提升研报质量既 是融监管的标所在，更应成为证券公司不断提升服务质量的根本要求。本期普华永道将从研究报告合规管控的度进案例分析。",
+        "bbox": [
+          0.04731366680917771,
+          0.20556227327690446,
+          0.9713552800342027,
+          0.27327690447400244
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "yanbaor2_afad9eb86f2a04271428aa988aec7d1949713bb5a5ce5c0cf26f320650b7966a.pdf_14",
+    "primary_id": "mineru_yanbaor2_afad9eb86f2a04271428aa988aec7d1949713bb5a5ce5c0cf26f320650b7966a.pdf_14_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_afad9eb86f2a04271428aa988aec7d1949713bb5a5ce5c0cf26f320650b7966a.pdf_14_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.032492518170158184,
+          0.31761386537686415,
+          0.970215191677355,
+          0.924627166465135
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We cannot have a = 1, since 1 − 2n ≠ 2001 for any n. Thus the only possibility is a = 13. One easily checks that a = 13,n = 2 is a solution; all that remains is to check that no other n works. In fact, if n > 2, then 13n+1 = 2001 = 1 (mod 8). But 13n+1 = 13 (mod 8) since n is even, contradiction. Thus a = 13, n = 2 is the unique solution.",
+        "bbox": [
+          0.12705882352941175,
+          0.06606060606060606,
+          0.49019607843137253,
+          0.1684848484848485
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It follows that as desired.",
+        "bbox": [
+          0.5568627450980392,
+          0.06666666666666667,
+          0.6509803921568628,
+          0.08060606060606061
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5568627450980392,
+          0.13090909090909092,
+          0.6274509803921569,
+          0.14484848484848484
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: Richard Stanley points out a theorem of Ryser (see Ryser, Combinatorial Mathematics, Theorem 3.1) that can also be applied. Namely, if A and B are 0 – 1 matrices with the same row and column sums, then there is a sequence of operations on 2 × 2 matrices of the form",
+        "bbox": [
+          0.5568627450980392,
+          0.1496969696969697,
+          0.92,
+          0.23696969696969697
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: once one has that n is even, one can use that 2002 = an+1 + 1 − (a + 1)n is divisible by a + 1 to rule out cases.",
+        "bbox": [
+          0.12705882352941175,
+          0.17333333333333334,
+          0.49019607843137253,
+          0.21636363636363637
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–6 The answer is yes. Consider the arc of the parabola y = Ax2 inside the circle x2 + (y − 1)2 = 1, where we initially assume that A > 1/2. This intersects the circle in three points, (0, 0) and (±√2A − 1/A, (2A − 1)/A). We claim that for A sufficiently large, the length L of the parabolic arc between (O, 0) and (√2A − 1/A, (2A − 1) /A) is greater than 2, which implies the desired result by symmetry. We express L using the usual formula for arclength:",
+        "bbox": [
+          0.09333333333333334,
+          0.22606060606060607,
+          0.49098039215686273,
+          0.356969696969697
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "or vice versa, which transforms A into B. If we iden- tify 0 and 1 with red and black, then the given color- ing and the checkerboard coloring both satisfy the sum condition. Since the desired result is clearly true for the checkerboard coloring, and performing the matrix op- erations does not affect this, the desired result follows in general.",
+        "bbox": [
+          0.5568627450980392,
+          0.28909090909090907,
+          0.9192156862745098,
+          0.39090909090909093
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B-2 By adding and subtracting the two given equations, we obtain the equivalent pair of equations",
+        "bbox": [
+          0.523921568627451,
+          0.40060606060606063,
+          0.9192156862745098,
+          0.4296969696969697
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "where we have artificially introduced —x into the inte- grand in the last step. Now, for x ≥ 0,",
+        "bbox": [
+          0.12627450980392158,
+          0.4896969696969697,
+          0.4894117647058824,
+          0.5193939393939394
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Multiplying the former by x and the latter by y, then adding and subtracting the two resulting equations, we obtain another pair of equations equivalent to the given ones,",
+        "bbox": [
+          0.556078431372549,
+          0.4896969696969697,
+          0.92,
+          0.5472727272727272
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "since J0 dx/(2(x + 1)) diverges, so does J0(√1 +x2 − x) dx. Hence, for sufficiently large A, we have 2√2−(√1+x2−xdx>2,andenc>.",
+        "bbox": [
+          0.12470588235294118,
+          0.5733333333333334,
+          0.49019607843137253,
+          0.6242424242424243
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It follows that x = (31/5 + 1)/2 and y = (31/5 − 1)/2 is the unique solution satisfying the given equations.",
+        "bbox": [
+          0.556078431372549,
+          0.5866666666666667,
+          0.9192156862745098,
+          0.6187878787878788
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−3 Since (k − 1/2)2 = k2 − k + 1/4 and (k+ 1/2)2 = k2 + k+ 1/4, we have that (inci = k if and only if k2 − k + 1 ≤ n ≤ k2 + k. Hence",
+        "bbox": [
+          0.523921568627451,
+          0.6254545454545455,
+          0.9184313725490196,
+          0.6715151515151515
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_11",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Note: a numerical computation shows that one must take A > 34.7 to obtain L > 2, and that the maximum value of L is about 4.0027, achieved for A ≈ 94.1.",
+        "bbox": [
+          0.12627450980392158,
+          0.6278787878787879,
+          0.49019607843137253,
+          0.6709090909090909
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B−1 Let R (resp. B) denote the set of red (resp. black) squares in such a coloring, and for s ∈ RUB, let f (s)n + g(s) + 1 denote the number written in square s, where 0 ≤ f (s), g(s) ≤ n − 1. Then it is clear that the value of f (s) depends only on the row of s, while the value of g(s) depends only on the column of s. Since every row contains exactly n/2 elements of R and n/2 elements of B,",
+        "bbox": [
+          0.09411764705882353,
+          0.6806060606060607,
+          0.49098039215686273,
+          0.7963636363636364
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2001_Solutions_2001s_page_002_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Similarly, because every column contains exactly n/2 elements of R and n/2 elements of B,",
+        "bbox": [
+          0.12705882352941175,
+          0.8466666666666667,
+          0.49019607843137253,
+          0.8757575757575757
+        ],
+        "order": 16
+      }
+    ]
+  }
+]

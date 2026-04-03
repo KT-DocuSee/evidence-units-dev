@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_0",
+    "text": "表3.10正面 100%重叠刚性壁障碰撞试验对摄像机要求",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.26689661571778117,
+      0.0973384461980938,
+      0.7308861168886931,
+      0.11331938512613905
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_1",
+    "text": "",
+    "canon_role": "table",
+    "bbox": [
+      0.11086474806738603,
+      0.11913063564542824,
+      0.8869179845390882,
+      0.45473035313437854
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_2",
+    "text": "7)灯光照明系统",
+    "canon_role": "section_header",
+    "bbox": [
+      0.15397881676025837,
+      0.4954091067694028,
+      0.31822288797120063,
+      0.5142956709570926
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_3",
+    "text": "整车碰撞试验过程中，由于摄像帧数一般要求为1000，常规灯光根本无法满足 碰撞拍摄要求。因此，在碰撞区需要设置专用的灯光照明系统。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11086474806738603,
+      0.5302766098851379,
+      0.8889710354292251,
+      0.5724081761499845
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_4",
+    "text": "照明系统平均照度应不小于100000lx，具有B0OST（推进)功能，即光源的控制 可以提供50%，100%，200%的光源输出，可通过控制软件点击启动，也可由外部信号 触发启动。照明区域要能覆盖整个碰撞区域，并且灯架能在三轴向进行移动。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11086474806738603,
+      0.5767666140394514,
+      0.8889710354292251,
+      0.643595995011277
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_5",
+    "text": "灯光系统能与整车牵引控制系统配合工作，完成完整的碰撞试验（见图3.72)。 灯光系统在接收牵引系统给予的外部触发信号后，能实现灯光的推进(Boost)功能； 同时，灯光系统也能将自己系统的相关工作状态信息反馈给牵引控制系统，便于试 验人员对灯光系统的工作状态进行监控。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10881169717724926,
+      0.6479544329007438,
+      0.8889710354292251,
+      0.7380288159497261
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_6",
+    "text": "目前，主流的灯光照明系统制造商有Atlas（美国）、Visol（韩国）、Messring（德 国）。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1047055953969757,
+      0.7409344412093708,
+      0.8930771372094986,
+      0.7845188201040396
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_7",
+    "text": "8)假人及标定系统",
+    "canon_role": "section_header",
+    "bbox": [
+      0.1519257658701216,
+      0.7990469464022626,
+      0.33875339687256845,
+      0.8193863232197747
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170_8",
+    "text": "假人是在碰撞试验中用来模拟真实交通事故乘员的装置。假人的质量、部件中 心与标准人体（欧美)相似，由钢、铝、硬塑料等材料模拟人体骨骼，柔软塑料和橡胶 模拟人体肌肉和皮肤。假人的头、颈、胸、腰、骨盆、大腿、小腿和脚上装有各种传感 器用来测量加速度、力、力矩、转角及位移等数据。利用这些数据，再按照车辆法规",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11086474806738603,
+      0.83536726214782,
+      0.8910240863193618,
+      0.9254416451968023
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63708140.pdf_170",
+    "order": 9
+  }
+]

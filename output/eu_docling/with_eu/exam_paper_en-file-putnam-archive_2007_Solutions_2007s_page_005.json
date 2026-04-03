@@ -1,0 +1,146 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For a lower bound on f(n), we note that if 0 ≤ ai < (n - 1)!/ i! for i = 2,...,n - 1 and an = 0, then 0 ≤ a22!+... + ann! {n!, so there is a unique choice of as to complete this to a solution of a, 1! +... † ann! = n!. Hence",
+        "bbox": [
+          0.5563909742268092,
+          0.0682043651558733,
+          0.9172932338934915,
+          0.13953488365592348
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "by comparing the sum to an integral. This gives",
+        "bbox": [
+          0.12781955876063522,
+          0.06969246033746149,
+          0.44172932200377546,
+          0.08284883699827766
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.17203694063074448,
+          0.09429430181329901,
+          0.4024712416704963,
+          0.1362757734818892
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6240601545604555,
+          0.14970930186169737,
+          0.8082706764306069,
+          0.22461124881529754
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_3",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We now interpret f(n) as counting the number of ntuples (a1,...,an) of nonnegative integers such that",
+        "bbox": [
+          0.1278195568069852,
+          0.14970930220890213,
+          0.4906015045701836,
+          0.17733134911633813
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_4",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.21428571959021733,
+          0.19186046518228636,
+          0.3646616538433665,
+          0.2034883720270159
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For an upper bound on f(n), we use the inequalities 0 ≤ a; In!/i! to deduce that there are at most n!/i! + 1 ≤ 2(n!/ i!) choices for aj. Hence",
+        "bbox": [
+          0.12593984992732632,
+          0.21800595237428536,
+          0.4906015045701836,
+          0.2601744185759817
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.20864661939598186,
+          0.27325581407763533,
+          0.37030075175877597,
+          0.34302325536643674
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

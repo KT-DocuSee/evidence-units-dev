@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5345",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5345_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5345_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "情境导入",
+        "bbox": [
+          0.09198850143732033,
+          0.13333333333333333,
+          0.22947131608548932,
+          0.20355555555555555
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5345_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "小朋友们正在游泳呢！我们根据这个图能列 出几个加减法算式呢？",
+        "bbox": [
+          0.13248343957005373,
+          0.256,
+          0.8488938882639671,
+          0.3973333333333333
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5345",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5345_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5345_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2764654418197725,
+          0.4497777777777778,
+          0.77440319960005,
+          0.9075555555555556
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

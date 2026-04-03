@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_750",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_750_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_750_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "课后作业",
+        "bbox": [
+          0.094,
+          0.08177777777777778,
+          0.3006666666666667,
+          0.18488888888888888
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_750",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_750_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_750_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "推荐阅读：毕淑敏《向日葵冰花》。",
+        "bbox": [
+          0.09733333333333333,
+          0.3164444444444444,
+          0.7906666666666666,
+          0.4100740740740741
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

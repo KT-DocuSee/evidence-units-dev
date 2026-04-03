@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_all655920_page_003",
+    "primary_id": "docling_PPT_all655920_page_003_0",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_PPT_all655920_page_003_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Info and appointments",
+        "bbox": [
+          0.2151162722855421,
+          0.0949074086518937,
+          0.7834302342228562,
+          0.16666666791115298
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_all655920_page_003_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Write me (anna.belladelli@univr.it) for any questions/problems/doubts concerning the course.",
+        "bbox": [
+          0.0566860559129435,
+          0.24224806288772985,
+          0.8343023373550117,
+          0.39250267989287013
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_all655920_page_003_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Upon request, I will receive students BEFORE or AFTER class. Write me an email in advance and we will arrange an appointment.",
+        "bbox": [
+          0.05668603915729937,
+          0.4824735456905154,
+          0.9026162900214796,
+          0.6395502638402155
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_all655920_page_003_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "I will also circulate the course material in digital form.",
+        "bbox": [
+          0.05668606034003579,
+          0.7228682170101112,
+          0.8982558094758556,
+          0.8217054244434889
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

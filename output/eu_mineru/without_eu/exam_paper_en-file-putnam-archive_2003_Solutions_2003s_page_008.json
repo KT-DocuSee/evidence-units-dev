@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_1",
+    "text": "It follows that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5568627450980392,
+      0.06666666666666667,
+      0.6509803921568628,
+      0.08060606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_0",
+    "text": "where",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.06727272727272728,
+      0.17019607843137255,
+      0.08060606060606061
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_2",
+    "text": "Consider the partial sum Pk = ∑j=1 Cj. If exactly pk of a1, . . . , ak are positive, then this sum is equal to",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.14909090909090908,
+      0.49098039215686273,
+      0.18
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_3",
+    "text": "which expands and simplifies to",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.23454545454545456,
+      0.3396078431372549,
+      0.24848484848484848
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_4",
+    "text": "For k ≤ 2p, even, this partial sum would be minimized with k = 2, and would then equal − ; for k < 2p odd, i other hand, if k > 2p, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.30303030303030304,
+      0.49098039215686273,
+      0.38181818181818183
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_7",
+    "text": "as desired. The next-to-last and last inequalities each follow from the monotonicity of the ri's, the former by pairing the ith term with the (2p + 1 − i) h.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.37757575757575756,
+      0.92,
+      0.4212121212121212
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_8",
+    "text": "Note: Compare the closely related Problem 6 from the 2000 USA Mathematical Olympiad: prove that for any nonnegative real numbers a1, . .., an, 1 , .., n, one has",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.4254545454545455,
+      0.9192156862745098,
+      0.4709090909090909
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_5",
+    "text": "since pk is at most p. Define Qk to be − [ if k ≤ 2p and −2p(k − p) + (k) if k ≥ 2p, s0 that k ≥ Qk. Note that Q1 = 0.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.43696969696969695,
+      0.49098039215686273,
+      0.48484848484848486
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008_6",
+    "text": "Partial summation gives",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.4896969696969697,
+      0.28784313725490196,
+      0.5042424242424243
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2003_Solutions_2003s_page_008",
+    "order": 9
+  }
+]

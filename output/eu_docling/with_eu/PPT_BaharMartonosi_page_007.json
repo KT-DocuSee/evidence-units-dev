@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_BaharMartonosi_page_007",
+    "primary_id": "docling_PPT_BaharMartonosi_page_007_0",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_PPT_BaharMartonosi_page_007_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "A \"TYPICAL\" PROJECT TALK OUTLINE",
+        "bbox": [
+          0.05833334261015015,
+          0.1388888877731882,
+          0.7583333183898502,
+          0.20006613645043686
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_007_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Results (2-6 slides)",
+        "bbox": [
+          0.05813953066236825,
+          0.25193798530517675,
+          0.3953488386205775,
+          0.2926587306744168
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_007_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Present key results and key insights. This is main body of the talk, but don't try to show ALL",
+        "bbox": [
+          0.09156977341519479,
+          0.30423280390121227,
+          0.8328488305092238,
+          0.4090608474742839
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_007_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "results.",
+        "bbox": [
+          0.08744839928920457,
+          0.41084298311227485,
+          0.21671827168213145,
+          0.45582368316614086
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_007_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Summary (1 slide)",
+        "bbox": [
+          0.05813953668639619,
+          0.4748062034081168,
+          0.3895348827072915,
+          0.5213178282640869
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_BaharMartonosi_page_007",
+    "primary_id": "docling_PPT_BaharMartonosi_page_007_7",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_BaharMartonosi_page_007_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3 Things to Remember!",
+        "bbox": [
+          0.5872093023953052,
+          0.4844576709225351,
+          0.9462209373430669,
+          0.5271317834947762
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_007_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Future Work (0-1 slides)",
+        "bbox": [
+          0.05813954158889582,
+          0.5406746042339786,
+          0.4912790701359102,
+          0.5833333343927088
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_BaharMartonosi_page_007_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Backup Slides (0-3 slides) Optionally have a few slides ready to answer expected questions.",
+        "bbox": [
+          0.09011627350549711,
+          0.5929232796855458,
+          0.7805232544741542,
+          0.7423941788934775
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

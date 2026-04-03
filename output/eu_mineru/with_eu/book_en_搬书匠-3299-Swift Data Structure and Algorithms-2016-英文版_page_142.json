@@ -1,0 +1,143 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now let's review these concepts with the following tree example:",
+        "bbox": [
+          0.10106382978723404,
+          0.1066090401584729,
+          0.6640070921985816,
+          0.12677831802629208
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3129432624113475,
+          0.1426256077795786,
+          0.6870567375886525,
+          0.3443183864577706
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_2",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Tree data structure elements",
+        "bbox": [
+          0.4352836879432624,
+          0.36376733297316766,
+          0.5638297872340425,
+          0.37529263461192147
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "• Root node: [2]. • Nodes: [2, 8, 1, 7, 11, 5]. • Leaves: [7, 11, 5]. • Height: There are two edges between the root [2] and the furthest connected leaf (which could be [7], [11], or [5] with same distance from the root). So the height of the tree is 2. • Parent example: [8] is the parent of [7, 11]. • Children example: [7, 11] are the children of [8]. [5] is the child of [1]. • Subtrees: Starting in the root node [2], It has two subtrees: one is [8, 7, 11] and another one is [1, 5]. Height of node [8]: 1. • Depth of node [5]: 2. • Level of root node: Depth + 1 = 0 + 1 = 1.",
+        "bbox": [
+          0.16932624113475178,
+          0.3896992616603638,
+          0.900709219858156,
+          0.6670268323428777
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142",
+    "primary_id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_4",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Overview of different types of tree",
+        "bbox": [
+          0.10460992907801418,
+          0.7095263821357825,
+          0.7021276595744681,
+          0.7426616243471997
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "There are different types of tree data structures, each one with their own benefits and implementations. We are going to have a quick look over the most common ones so we can gain a good overview of the diferent types and choose which one to use in each case wisely.",
+        "bbox": [
+          0.10195035460992907,
+          0.7498649378714208,
+          0.8918439716312057,
+          0.8247793985233207
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_搬书匠-3299-Swift Data Structure and Algorithms-2016-英文版_page_142_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "After the following introduction to the different types o trees, we will go deeper into the details, properties, uses, and implementations.",
+        "bbox": [
+          0.10372340425531915,
+          0.8377453628669188,
+          0.8705673758865248,
+          0.876643255897713
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

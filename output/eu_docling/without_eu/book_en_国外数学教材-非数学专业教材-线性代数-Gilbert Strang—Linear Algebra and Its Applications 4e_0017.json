@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_2",
+    "text": "Our true goal is to look beyond two or three dimensions into n dimensions. With n equations in n unknowns, there are n planes in the row picture. There are n vectors in the column picture, plus a vector b on the right side. The equations ask for a linear combination of the n columns that equals b. For certain equations that will be impossible. Paradoxically, the way to understand the good case is to study the bad one. Therefore we look at the geometry exactly when it breaks down, in the singular case.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14157353562470068,
+      0.08720930200098995,
+      0.9097970239388221,
+      0.20348837233888406
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_3",
+    "text": "Row picture: Intersection of planes Column picture: Combination of columns",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16016427964656965,
+      0.2325581393253601,
+      0.8891170398559065,
+      0.2485465119464423
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_4",
+    "text": "The Singular Case",
+    "canon_role": "section_header",
+    "bbox": [
+      0.14373716578971438,
+      0.2906746034079618,
+      0.3347022591589509,
+      0.30813953445700604
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_5",
+    "text": "Suppose we are again in three dimensions, and the three planes in the row picture do not intersect. What can go wrong? One possibility is that two planes may be parallel. The equations 2u + v + w = 5 and 4u + 2v + 2w = 11 are inconsistent—and parallel planes give no solution (Figure 1.5a shows an end view). In two dimensions, parallel lines are the only possibility for breakdown. But three planes in three dimensions can be in trouble without being parallel.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14168377753689318,
+      0.3298611109724294,
+      0.9096509206187242,
+      0.44622092963626947
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_7",
+    "text": "XA",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1764705871729217,
+      0.45416666432662917,
+      0.5235294117094311,
+      0.5916666703817043
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_19",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.17930045814006765,
+      0.4564520031430366,
+      0.8614406747137621,
+      0.6157256310288852
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_8",
+    "text": "two parallel planes",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.19301848466139668,
+      0.5843023258422912,
+      0.34291580991765874,
+      0.5989583331321777
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_14",
+    "text": "all planes parallel",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7227926087595958,
+      0.5843023259731053,
+      0.8624229946627174,
+      0.5989583332629917
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_9",
+    "text": "no intersection",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.38398357478247874,
+      0.5857558138489215,
+      0.5010266941086917,
+      0.5989583334927959
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_10",
+    "text": "line of intersection",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5441478458379796,
+      0.5857558140402973,
+      0.6899383953529855,
+      0.5989583332111191
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_15",
+    "text": "(d)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7802874746928521,
+      0.601744185827895,
+      0.8090349075567483,
+      0.6162790698568595
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_12",
+    "text": "(b)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.42915811098868056,
+      0.6017441858365911,
+      0.45790554385257676,
+      0.6162790698655555
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_13",
+    "text": "(c)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6036960985577848,
+      0.6017441864486038,
+      0.6324435314216812,
+      0.6162790695314628
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_11",
+    "text": "(a)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2546201232867293,
+      0.6031976745381171,
+      0.27926078040936936,
+      0.6162790699749642
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_6",
+    "text": "Figure 1.5: Singular cases: no solution for (a), (b), or (d), an infinity of solutions for (c).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22792608536611383,
+      0.6351686506104639,
+      0.8254620199213603,
+      0.648313491880305
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_16",
+    "text": "The most common difficulty is shown in Figure 1.5b. From the end view the planes form a triangle. Every pair of planes intersects in a line, and those lines are parallel. The third plane is not parallel to the other planes, but it is parallel to their line of intersection. This corresponds to a singular system with b = (2,5,6):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14168377945167746,
+      0.6816860461870365,
+      0.9096509228070493,
+      0.7587209297150003
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_17",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2464065743217116,
+      0.795058139470709,
+      0.9075975355469335,
+      0.8313953485666233
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017_18",
+    "text": "The first two left sides add up to the third. On the right side that fails: 2 + 5 # 6. Equation 1 plus equation 2 minus equation 3 is the impossible statement 0 = 1. Thus the equations are inconsistent, as Gaussian elimination will systematically discover.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14373717075639336,
+      0.8473837214296218,
+      0.9075975442333392,
+      0.905523255459913
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0017",
+    "order": 20
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_0",
+    "text": "(4: 1)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7849898578853955,
+      0.1046511627265229,
+      0.8438133872971603,
+      0.12063953534760512
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_3",
+    "text": "16 | 12 | EME SHE BY TI BATT | 17 | В 18 | 18 | 2 | 19 | 4 | MI ALI | MI ALI | 20 | 1",
+    "canon_role": "table",
+    "bbox": [
+      0.11896899213348981,
+      0.12450379104491664,
+      0.8817660527022608,
+      0.2888317956091825
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_1",
+    "text": "# 2-20 7-(217.05.01-2020.04.301",
+    "canon_role": "section_header",
+    "bbox": [
+      0.18658210980770498,
+      0.3066158816100259,
+      0.81541580154656,
+      0.3226744189231864
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34_4",
+    "text": "3 53 | 1 | 24 | 2 | 21 | 3 | 23 | # M | 4 | 17 | 5 | 28 | 6 | 24 | 18 | 8 | 16 | 9 | 13 | 10 | 15 | 11 | 18 | 12 | 20 | 13 | 18 | # HJ | 14 | 15 | 26 | 16 | 11 | 17 | 10 | 18 | 16 | SK 5 | 19 | 10 | 20 | 6",
+    "canon_role": "table",
+    "bbox": [
+      0.11891680661872898,
+      0.35430156297075854,
+      0.8817273697332773,
+      0.8867377111090653
+    ],
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63711094.pdf_34",
+    "order": 4
+  }
+]

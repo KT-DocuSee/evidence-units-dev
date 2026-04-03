@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_0aa9545ccbc482a37e3b55c96897f0f24cee08bb80c7addfb0c219814af44a3b.pdf_27",
+    "primary_id": "mineru_yanbaor2_0aa9545ccbc482a37e3b55c96897f0f24cee08bb80c7addfb0c219814af44a3b.pdf_27_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_0aa9545ccbc482a37e3b55c96897f0f24cee08bb80c7addfb0c219814af44a3b.pdf_27_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08625554212011285,
+          0.06897534558928317,
+          0.8972188633615478,
+          0.9445632036482827
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_0aa9545ccbc482a37e3b55c96897f0f24cee08bb80c7addfb0c219814af44a3b.pdf_27_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Y",
+        "bbox": [
+          0.05401047964530431,
+          0.8522160467436226,
+          0.07496977025392987,
+          0.9622345731794214
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_enbook-zlib-o.O-17761417.pdf_894",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "ETIOLOGY",
+        "bbox": [
+          0.08660130718954248,
+          0.08045977011494253,
+          0.16830065359477125,
+          0.0970625798212005
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_enbook-zlib-o.O-17761417.pdf_894",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_2",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Mechanisms of Peripheral Nerve Injury",
+        "bbox": [
+          0.5228758169934641,
+          0.08684546615581099,
+          0.7761437908496732,
+          0.10217113665389528
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Injury to a peripheral nerve can occur by means of sev- eral mechanisms: stretching, compression (i.e., sustained compression or blunt trauma), friction, inflammation, or laceration. The clinical results of stretching or compres- sion of the nerve vary depending on whether the insult has a rapid onset or is the result of a gradual change. A sud- den insult does not allow for any adaptive change in the connective tissue of the nerve and is more likely to cause acute disruption of the nerve's blood supply or connective tissue. Conversely, the nerve can adapt amazingly well to a slow increase in tensile or compressive forces, such as that brought on by a growing osteophyte.12 A classification of peripheral nerve injuries is presented in Table 25-1 .13–16",
+        "bbox": [
+          0.08660130718954248,
+          0.10600255427841634,
+          0.4852941176470588,
+          0.30395913154533843
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• Stretching • Compression • Friction ● Inflammation • Laceration",
+        "bbox": [
+          0.5228758169934641,
+          0.11621966794380588,
+          0.6127450980392157,
+          0.18518518518518517
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Compression of the nerve can be caused by external sources or by swelling (e.g., inflammation) with a con- comitant increase in pressure in a rigid compartment (e.g., carpal tunnel syndrome [CTs]compressing the median nerve at the wrist or anterior compartment [exer- tional] syndrome of the leg compressing the deep fibular [peroneal] nerve).17 A nerve can be directly compressed,",
+        "bbox": [
+          0.5130718954248366,
+          0.1966794380587484,
+          0.9117647058823529,
+          0.3052362707535121
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_5",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 25-1",
+        "bbox": [
+          0.08660130718954248,
+          0.3282247765006386,
+          0.18627450980392157,
+          0.34227330779054915
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_enbook-zlib-o.O-17761417.pdf_894",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08496732026143791,
+          0.3499361430395913,
+          0.9101307189542484,
+          0.9476372924648787
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-17761417.pdf_894",
+    "primary_id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_enbook-zlib-o.O-17761417.pdf_894_7",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Modified from Dumitru D: Electrodiagnostic medicine, Philadelphia, 1995, Hanley & Belfus.",
+        "bbox": [
+          0.08496732026143791,
+          0.9501915708812261,
+          0.6045751633986928,
+          0.9629629629629629
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

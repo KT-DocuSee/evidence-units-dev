@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_11.2013EvaluatingTraineeteacherproficiency_page_029",
+    "primary_id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_029_4",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_029_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7101991577148438,
+          0.06285800170898438,
+          0.9616144409179688,
+          0.16004039510091145
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_029_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "UNIVERSITY OF LEEDS",
+        "bbox": [
+          0.7107558217066081,
+          0.13359788373727816,
+          0.9636627875375776,
+          0.16085271243759114
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_11.2013EvaluatingTraineeteacherproficiency_page_029",
+    "primary_id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_029_0",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_029_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Turkey",
+        "bbox": [
+          0.03745687217576101,
+          0.11491302529488819,
+          0.16021754648586997,
+          0.1719086795271757
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_029_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Yilmaz 2011 looked at the relationships between Turkish primary and secondary school teachers' perceptions of selfefficacy, English proficiency, and instructional strategies",
+        "bbox": [
+          0.033333368022383174,
+          0.2519379840585184,
+          0.9316860457092586,
+          0.41111111083333335
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_029_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Results indicated that teachers' perceived efficacy was correlated with their self-reported English proficiency",
+        "bbox": [
+          0.040697673369960975,
+          0.42061605337443536,
+          0.8955932895255206,
+          0.533068784230609
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

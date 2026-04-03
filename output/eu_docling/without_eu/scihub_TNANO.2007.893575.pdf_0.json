@@ -1,0 +1,249 @@
+[
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_2",
+    "text": "A New Capacitorless 1T DRAM Cell: Surrounding Gate MOSFET With Vertical Channel (SGVC Cell)",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08139534183484891,
+      0.0813492069736558,
+      0.9186046497930581,
+      0.1453488375754761
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_3",
+    "text": "Hoon Jeong, Ki-Whan Song, Il Han Park, Tae-Hun Kim, Yeun Seung Lee, Seong-Goo Kim, Jun Seo, Kyoungyong Cho, Kangyoon Lee, Hyungcheol Shin, Member, IEEE, Jong Duk Lee, Member, IEEE, and Byung-Gook Park, Member, IEEE",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.10070981974801047,
+      0.15401785721086578,
+      0.8896071373013339,
+      0.19622092994985987
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_4",
+    "text": "Abstract—We propose a surrounding gate MOSFET with vertical channel (SGVC cell) as a 1T DRAM cell. To confirm the memory operation of the SGVC cell, we simulated its memory effect and fabricated the highly scalable SGVC cell. According to simulation and measurement results, the SGVC cell can operate as a 1T DRAM having a sufficiently large sensing margin. Also, due to its vertical channel structure and common source architecture, it can readily be made into a 4F cell array.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06578384330027605,
+      0.2325581396735656,
+      0.4923906018619908,
+      0.32994185996439457
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_16",
+    "text": "TABLE I SGVC CELL SIMULATION PARAMETERS",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6124031058595252,
+      0.2339564485785877,
+      0.831395349227684,
+      0.2544642856416112
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_21",
+    "text": "Program (1/0) | Read | (Impact lonization) | Gate Voltage 1V | 1V | Drain Voltage 1V (-1 V) | 0.1 V | Source Voltage ov | ov | L(gate length)=0.1 um /tox (gate oxide)=50 A | L(gate length)=0.1 um /tox (gate oxide)=50 A | Ns (source/drain region doping)=1020 em\" (graded doping) Nbody (body doping) =10'$ em3 | Ns (source/drain region doping)=1020 em\" (graded doping) Nbody (body doping) =10'$ em3",
+    "canon_role": "table",
+    "bbox": [
+      0.5099750310724431,
+      0.2677431141246449,
+      0.9358474638967803,
+      0.5081242786754261
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_5",
+    "text": "Index Terms-Memory effect, 1T DRAM cell, sensing margin, surrounding gate, vertical channel.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06589148017183685,
+      0.3372093023625189,
+      0.49224806189955994,
+      0.361918604512481
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_6",
+    "text": "I. INTRODUCTION",
+    "canon_role": "section_header",
+    "bbox": [
+      0.21665092613671125,
+      0.38601050173464896,
+      0.3412169387261002,
+      0.40178734409416145
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_7",
+    "text": "pacitorless 1-transistor (1T) DRAM cells have been recently proposed and investigated [1]. The mainstream 1T DRAM cell is a floating body transistor cell (FBC) which consists of a MOSFET with its body floating electrically. The FBC is realized by a MOSFET formed on partially depleted siliconon-insulator (PD-SOI). When excess holes exist in the floating body, the cell state can be defined as \"1\" (decreased Vth). On the other hand, when excess holes are swept out of the floating body through forward bias on the body-drain junction, the cell state can be defined as \"0\" (increased Vth). By measuring the drain current difference between \"1\" and \"0\" states of the cell, we can sense whether the holes are accumulated in the floating body. Because the floating body is used as the storage node, the FBC has no complicated storage capacitor. Therefore, the FBC has a simple process and can have a cell area below 4F?. [2), 13]",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.062015508824546664,
+      0.4345212179221401,
+      0.4923445907861497,
+      0.6599702381564109
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_17",
+    "text": "4F? structure possible and ultimately leads to superior scalability. The memory operation has been investigated by simulation. Also, we have successfully fabricated a highly scalable SGVC cell and the memory effect is measured for the first time.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5038759843574921,
+      0.5334302321342265,
+      0.934108521844058,
+      0.5959821428456413
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_18",
+    "text": "II. SIMULATION RESULTS",
+    "canon_role": "section_header",
+    "bbox": [
+      0.631782947527751,
+      0.6191860465402975,
+      0.8081395305730242,
+      0.6322674419771445
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_19",
+    "text": "Fig. 1 schematically shows the operation principle of an SGVC cell [4]. It can be noted that it has a floating body where holes are accumulated for memory effects. To verify memory cell operation, 2-D device simulation was performed. We used ATLAS as a simulator. Excess holes are generated by impact ionization in this simulation. Simulated parameters are listed in Table I. The difference in the body potential of each state and the ID - Vg characteristics were extracted first, in order to show the accumulation of holes in the body of the SGVC cell. Fig. 2 shows a comparison of the hole potential between \"1\" state and reference state (Vgate = 0, Vsource = 0, Vdrain = 0). In the case of state \"1,\" through impact ionization in the high field region near the drain, excess holes are injected into the body state is larger than that of \"0\" state. This is due to the increase of the body potential when holes are accumulated into the body through writing operation, hence lowering the threshold voltage, which in turn increases the drain current. Subsequently, the drain current as a function of time was extracted to show",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5076621781554164,
+      0.6423611109555929,
+      0.9360465038145656,
+      0.9389880952714992
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_8",
+    "text": "In this work, we propose a surrounding gate MOSFET with vertical channel (SGVC cell) as a IT DRAM cell. Unlike other 1T DRAM cells which are integrated on SOI substrates, the SGVC cell can be more cost effective since it can be fabricated on bulk Si substrates. Also, there is no need for the source contact and line due to the common source structure, which makes",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06589146299140315,
+      0.6584302326954891,
+      0.4922480559786483,
+      0.7485465111261849
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_9",
+    "text": "Manuscript received June 18, 2006; revised December 9, 2006. This work was presented at the 2006 IEEE Silicon Nanoelectronics Workshop. The review of this paper was arranged by Associate Editor T. Hiramoto.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06589148117548689,
+      0.7703373014970695,
+      0.49224806607903454,
+      0.8038194446182416
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_11",
+    "text": "H. Jeong, I. H. Park, T.-H. Kim, Y. S. Lee, H. Shin, J. D. Lee and B.-G. Park are with the School of Electrical Engineering, Seoul National University, Seoul 151-742, Korea (e-mail: gbhbt@naver.com).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06589147917913957,
+      0.8037790697462399,
+      0.49031007740343596,
+      0.8386627908254655
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_10",
+    "text": "K.-W. Song is with the ATD Team, Semiconductor R&D Division, Samsung Electronics Co. Ltd., Youngin 449-711, Korea.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06589148299910355,
+      0.8385416666230622,
+      0.4903100759758992,
+      0.8604651160788255
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_12",
+    "text": "S.-G. Kim and K. Lee are with the Technology Development Team, Semiconductor R&D Division, Samsung Electronics Co. Ltd., Youngin 449-711, Korea.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0658914944928157,
+      0.8603670636723068,
+      0.49031007004206745,
+      0.8837209301181012
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_14",
+    "text": "Seo and K. Cho is with the Process Development Team, Semiconductor R&D Division, Samsung Electronics Co. Ltd., Youngin 449-711, Korea",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.0658914689620273,
+      0.8836805557579118,
+      0.49224806607903454,
+      0.9055232556924396
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_13",
+    "text": "Color versions of one or more of the figures in this paper are available online at http://ieeexplore.ieee.org.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.06589147661352862,
+      0.9055059525085224,
+      0.49224806607903454,
+      0.9273313489817694
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_scihub_TNANO.2007.893575.pdf_0_15",
+    "text": "Digital Object Identifier 10.1109/TNANO.2007.893575",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.07945736290894388,
+      0.9302325583700602,
+      0.3817829396104361,
+      0.9404761903876802
+    ],
+    "page": "scihub_TNANO.2007.893575.pdf_0",
+    "order": 21
+  }
+]

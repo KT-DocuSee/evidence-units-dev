@@ -1,0 +1,171 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_0",
+    "text": "HYDROLOGICAL PROCESSES",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11498973030605647,
+      0.11918604687033427,
+      0.30184804736334814,
+      0.12797619029583673
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_1",
+    "text": "Hydrol. Process. 16, 3131-3150 (2002)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11498973886589983,
+      0.1293604652377929,
+      0.3367556465550446,
+      0.1396329364424294
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_2",
+    "text": "Published online 7 August 2002 in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/hyp.1092",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11704312397536056,
+      0.13808139547298406,
+      0.722792592862422,
+      0.1498015873377244
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_3",
+    "text": "Daily streamflow modelling and assessment based on the curve-number technique",
+    "canon_role": "section_header",
+    "bbox": [
+      0.12525669683896443,
+      0.1802325580389914,
+      0.8706365282534381,
+      0.22674418573181027
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_4",
+    "text": "Jin-Yong Choi,'* Bernard A. Engel' and Ha Woo Chung?",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.2546201433143022,
+      0.24553571435372287,
+      0.7371663158746092,
+      0.26314484133784993
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_5",
+    "text": "2 Division of ties of Aeries Bilgi Cal mene e Pud University, We aren, K. 93907146, Soul Korea",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13963039250845444,
+      0.2630813953809507,
+      0.8542094426729283,
+      0.2906976748467623
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_6",
+    "text": "Abstract:",
+    "canon_role": "section_header",
+    "bbox": [
+      0.45773923237159275,
+      0.33670090768891864,
+      0.5443141535612858,
+      0.3522525807303683
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_7",
+    "text": "A cell-based long-term hydrological model (CELTHYM) that can be integrated with a geographical information system (GIS) was developed to predict continuous stream flow from small agricultural watersheds. The CELTHYM uses a cell-by-cell soil moisture balance approach. For surface runoff estimation, the curve number technique considering soil moisture on a daily basis was used, and release rate was used to estimate baseflow. Evapotranspiration was computed using the FAO modified Penman equation that considered land-use-based crop coefficients, soil moisture and the influence of topography on radiation. A rice paddy field water budget model was also adapted for the specific application of the model to East Asia. Model sensitivity analysis was conducted to obtain operational information about the model calibration parameters. The CELTHYM was calibrated and verified with measured runoff data from the WS#1 and WS#3 watersheds of the Seoul National University, Department of Agricultural Engineering, in Hwaseong County, Kyounggi Province, South Korea. The WS#1 watershed is comprised of about 35.4% rice paddy fields and 42.3% forest, whereas the WS#3 watershed is about 85·0% forest and 11-5% rice paddy fields. The CELTHYM was calibrated for the parameter release rate, K, and soil moisture storage coefficient, STC, and results were compared with the measured runoff data for 1986. The validation results for WS#1 considering all daily stream flow were poor with R7, E? and RMSE having values of 0.40, -6·63 and 9.69 (mm), respectively, but validation results for days without rainfall were statistically significant (R? = 0·66). Results for WS#3 showed good agreement with observed data for all days, and R7, E- and RMSE were 0.92, 0.91 and 2·23 (mm), respectively, suggesting potential for CELTHYM application to other watersheds. The direct runoff and water balance components for watershed WS#1 with significant areas of paddy fields did not perform well, suggesting that additional study of these components is needed. Copyright © 2002 John Wiley & Sons, Ltd.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13347022722140817,
+      0.3590116279245345,
+      0.8603696126143208,
+      0.5828488369787769
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_8",
+    "text": "watershed modelling; GIS; soil moisture balance; grid-based modelling, paddy field water balance; model calibration; sensitivity analysis; model assessment",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.21765914751374305,
+      0.5930059522666061,
+      0.8747432946491596,
+      0.614831349242186
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_9",
+    "text": "INTRODUCTION",
+    "canon_role": "section_header",
+    "bbox": [
+      0.42915811621593647,
+      0.6468023255747283,
+      0.5646817229011065,
+      0.6584302324194578
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_10",
+    "text": "Water resources development and watershed management require an understanding of hydrological variations owing to changes in watershed characteristics over long-term periods (Bhaduri et al., 2000), and spatial variability of watershed characteristics that affect hydrological phenomenon also must be evaluated in heterogeneous land-use watersheds. However, hydrological model operations that reflect long-term watershed changes often have limitations owing to difficulties obtaining measured hydrological data and data quantifying land use and soil characteristics. Therefore, simulation of stream flow on a daily basis using a long-term",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11498973905262101,
+      0.667151163147071,
+      0.8809035102971386,
+      0.752976190576002
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_11",
+    "text": "Continuous models, also called long-term hydrological models or continuous stream flow models, typically are focused on estimating water yield from a watershed. Owing to complications and difficulties related to data preparation and operation, however, these hydrological models largely have been used for daily, 10-day and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11498974110130979,
+      0.7658730158456786,
+      0.8788500755311344,
+      0.8081395350185689
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1_12",
+    "text": "* Correspondence to: Jin-Yong Choi, Department of Agricultural and Biological Engineering, Purdue University, West Lafayette, IN 479071146, USA. E-mail: jychoi@ecn.purdue.edu",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11498972734830921,
+      0.8298611110958863,
+      0.8809034985928267,
+      0.8502906973157123
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-hyp.1092.pdf_1",
+    "order": 13
+  }
+]

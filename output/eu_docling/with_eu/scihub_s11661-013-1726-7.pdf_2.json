@@ -1,0 +1,604 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "scihub_s11661-013-1726-7.pdf_2",
+    "primary_id": "docling_scihub_s11661-013-1726-7.pdf_2_45",
+    "source": "visual_seed",
+    "member_count": 42,
+    "elements": [
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_45",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.12920874393347537,
+          0.043367073752663354,
+          0.8012945371685606,
+          0.42526697332208807
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(b)",
+        "bbox": [
+          0.7674418605801778,
+          0.049418605053254766,
+          0.7965116273766331,
+          0.0639534881361138
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(a)",
+        "bbox": [
+          0.43023255858069315,
+          0.05087209326961701,
+          0.4631782949561285,
+          0.06540697635247604
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "STed B-Fe",
+        "bbox": [
+          0.625951011152154,
+          0.10023048598750785,
+          0.7035063547397166,
+          0.11343230456722711
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a-Fe",
+        "bbox": [
+          0.319767441704359,
+          0.1511627907719498,
+          0.35465116286928444,
+          0.16133720902456172
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Al,Cu",
+        "bbox": [
+          0.23635359315849475,
+          0.1829767596890045,
+          0.2830262527347493,
+          0.19638370528845453
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a-Fe",
+        "bbox": [
+          0.6317829454239551,
+          0.1904069765911695,
+          0.6686046513783704,
+          0.20348837202801653
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2 50",
+        "bbox": [
+          0.7092396396061901,
+          0.20921259701248357,
+          0.7461867158889941,
+          0.22392693690833745
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BES",
+        "bbox": [
+          0.748018666049842,
+          0.2106738868033325,
+          0.7771751314288606,
+          0.21955867152452532
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "BEC",
+        "bbox": [
+          0.4127906981182453,
+          0.21075581400232782,
+          0.4418604649147005,
+          0.22093023225493974
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20 m",
+        "bbox": [
+          0.2790697687771181,
+          0.21075581411133942,
+          0.31782945699807574,
+          0.22098214280597062
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2gku",
+        "bbox": [
+          0.4903100788546376,
+          0.2122093021543962,
+          0.5290697670755953,
+          0.22529069759124334
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20kU",
+        "bbox": [
+          0.1569767445047466,
+          0.21220930253893885,
+          0.191860465669672,
+          0.22093023219943328
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10 50",
+        "bbox": [
+          0.3662790722969056,
+          0.21220930256316375,
+          0.4089147275738954,
+          0.22098214266567726
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "XI, 200",
+        "bbox": [
+          0.5523255828858841,
+          0.21220930258538714,
+          0.6027131773208341,
+          0.22395833316409133
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "X750",
+        "bbox": [
+          0.2306201544853668,
+          0.21220930268428767,
+          0.2655038756502922,
+          0.22093023234478198
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(d)",
+        "bbox": [
+          0.7693798450416949,
+          0.24127906978399902,
+          0.7984496118381502,
+          0.25436046522084593
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(c)",
+        "bbox": [
+          0.42829457433889473,
+          0.24127907001380303,
+          0.4554263563458599,
+          0.25581395309666216
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "101",
+        "bbox": [
+          0.2868217052922987,
+          0.2485465117520539,
+          0.317829456878244,
+          0.2601744185967833
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2-1-1",
+        "bbox": [
+          0.7383720919638801,
+          0.2572674419012471,
+          0.7810077522867658,
+          0.27034883733809406
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1-20",
+        "bbox": [
+          0.554263565464049,
+          0.2645348835461114,
+          0.5891472866289744,
+          0.2776162789829583
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "102",
+        "bbox": [
+          0.3313953494506096,
+          0.26598837219636856,
+          0.36046511624706473,
+          0.27616279044898046
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+",
+        "bbox": [
+          0.6356589149329711,
+          0.2659883722753096,
+          0.6511627907259439,
+          0.2776162791200392
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+",
+        "bbox": [
+          0.30620155071607846,
+          0.2718023258095879,
+          0.3255813948265573,
+          0.28633720889244696
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "103",
+        "bbox": [
+          0.3701550386256319,
+          0.27616279082182144,
+          0.4011627902115772,
+          0.28779069766655074
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1-30",
+        "bbox": [
+          0.5426356589575468,
+          0.2848837209477903,
+          0.5794573649119623,
+          0.2965116277925197
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "211",
+        "bbox": [
+          0.19573643393195286,
+          0.2965116277247059,
+          0.2286821703073882,
+          0.312500000345788
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "001",
+        "bbox": [
+          0.4302325582926639,
+          0.2965116280264893,
+          0.4593023250891191,
+          0.3095930234633363
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1-1-1",
+        "bbox": [
+          0.7500000011379065,
+          0.3052325585312449,
+          0.7965116259938766,
+          0.3197674416141039
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1-2-1",
+        "bbox": [
+          0.6899224803424331,
+          0.31540697662750683,
+          0.7325581406653189,
+          0.3284883720643537
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "112",
+        "bbox": [
+          0.31395348852255367,
+          0.328488371885501,
+          0.346899224897989,
+          0.3415697673223479
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0-10",
+        "bbox": [
+          0.5058139530609481,
+          0.3357558141271751,
+          0.5406976742258734,
+          0.3502906972100343
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "111",
+        "bbox": [
+          0.24418604661576537,
+          0.3430232556641268,
+          0.2790697677806907,
+          0.3590116282852089
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "013",
+        "bbox": [
+          0.40697674454484045,
+          0.35465116276949565,
+          0.43992248092027586,
+          0.3662790696142253
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0-3-1",
+        "bbox": [
+          0.647286822748652,
+          0.3662790697607747,
+          0.6879844957590997,
+          0.37790697660550426
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0-2-1",
+        "bbox": [
+          0.6976744204208523,
+          0.3706395345379327,
+          0.7441860452768223,
+          0.38662790715901485
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "012",
+        "bbox": [
+          0.39341085301706263,
+          0.38081395338380514,
+          0.426356589392498,
+          0.39389534882065225
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_0",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2-Microstructures of alloy B in (a) as-cast and (b) SHTed (8 h) conditions; and EBSD results of (c) a-Fe in (b) and (d) STed -Fe in (b).",
+        "bbox": [
+          0.04651164179586509,
+          0.44186046518228644,
+          0.8798449751291985,
+          0.45348837202701586
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_38",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table II. Chemical Compositions of Iron-Rich Intermetallics in the As-Cast and SHTed Conditions",
+        "bbox": [
+          0.1472868452620134,
+          0.47383720929565853,
+          0.792635651491862,
+          0.48546511614038795
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SHT for 8 hours. As shown in Figure 2(c), however, the EBSD results with a mean angular deviation (MAD) of 0.452, lower than 0.7 which is considered to be critical for an accurate solution, indicate that this phase is still the a-Fe (body-centered cubic with a, b, and c as 1.265 nm''1). Moreover, the platelet-like intermetallic phase formed during the SHT has a similar chemical composition to the B-Fe obtained in the as-cast condition (Table II) and thus is termed as solid-state-transformed B-Fe (STed -Fe) to distinguish it from the -Fe directly precipitated from liquid metal during solidification. The formation of the STed -Fe is further confirmed a low MAD value of 0.258 as measured by EBSD (Figure 2(d)), The STed -Fe is most likely to have the same crystal structure as the solidified B-Fe (tetragonal with a and b of 0.634 mm and c of 1.488 nmIl) due to their similar diffraction patterns. However, the STed p-Fe has lower Cu content than the B-Fe (Table II), and the replacement of the Cu by Al",
+        "bbox": [
+          0.4864341087849712,
+          0.6293604653626401,
+          0.8953488366810338,
+          0.8924418604182782
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "contents of Mn and Si, which is consistent with the literature. 16,30 After being SHTed for 8 hours, almost the entire amount of AlCu is dissolved into the Al matrix as shown in Figure 2(b). It is also interesting to note that the Chinese script a-Fe phase becomes unstable and is transformed into a small amount of short intermetallic platelets, leading to the fragmentation of the x-Fe.",
+        "bbox": [
+          0.04457364510914881,
+          0.6307043651387052,
+          0.45155038319834484,
+          0.7399318711276386
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The chemical compositions of the iron-rich intermetallics in Alloy B in the as-cast and SHTed (for 8 hours) conditions measured by SEM-EDS are shown in Table Il. It can be found that higher Al contents are detected in the a-Fe and STed B-Fe after SHT than the corresponding iron-rich phases solidified directly from the liquid. This can be attributed to the partial contribution of the surrounding Al matrix due to the small sizes of the fragmented a-Fe and STed B-Fe particles after SHT. Compared with the as-cast condition, it can be found that the iron content in a-Fe is reduced after",
+        "bbox": [
+          0.04457364510914881,
+          0.7412790697849997,
+          0.4515503768546758,
+          0.8909883714459522
+        ],
+        "order": 44
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "scihub_s11661-013-1726-7.pdf_2",
+    "primary_id": "docling_scihub_s11661-013-1726-7.pdf_2_14",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10Mm",
+        "bbox": [
+          0.6162790703966692,
+          0.20784883761554718,
+          0.6531007738281367,
+          0.2223837206984063
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "scihub_s11661-013-1726-7.pdf_2",
+    "primary_id": "docling_scihub_s11661-013-1726-7.pdf_2_44",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_scihub_s11661-013-1726-7.pdf_2_44",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Elements (Wt Pct) | Elements (Wt Pct) | Elements (Wt Pct) | Elements (Wt Pct) | Elements (Wt Pct) | Conditions | Iron-Rich Intermetallics | Al | Si | Mn | Fe | Cu | As-cast | a-Fe | 70.92 ÷ 0.76 | 7.8 ÷ 0.35 | 3.15 ÷ 0.25 | 13.21 ÷ 0.42 | 4.91 ÷ 0.24 | B-Fe | 70.28 $ 0.67 | 0 | 1.57 ÷ 0.21 | 7.51 ÷ 0.31 | 20.64 $ 0.58 | SHTed (8 h) | a-Fe | 74.43 ÷ 0.82 | 6.68 $ 0.46 | 3.54 ÷ 0.31 | 9.92 $ 0.23 | 5.43 ÷ 0.31 | SHTed (8 h) | STed B-Fe | 75.10 $ 0.85 | 1.42 ÷ 0.12 | 7.27 ÷ 0.25 | 16.21 ÷ 0.56",
+        "bbox": [
+          0.0439518691554214,
+          0.4890408047762784,
+          0.8922929983428031,
+          0.5985831520774147
+        ],
+        "order": 41
+      }
+    ]
+  }
+]

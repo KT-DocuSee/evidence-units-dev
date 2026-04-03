@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5435",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5435_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5435_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "你我的相遇是如此的契合 让我们演绎一段完美爱情",
+        "bbox": [
+          0.15066666666666667,
+          0.09244444444444444,
+          0.5453333333333333,
+          0.22992592592592592
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5435_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0,
+          0.23822222222222222,
+          1.0,
+          0.9789629629629629
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_5435",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_5435_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_5435_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "用心体会爱情的永恒",
+        "bbox": [
+          0.6506666666666666,
+          0.13985185185185184,
+          0.912,
+          0.20622222222222222
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

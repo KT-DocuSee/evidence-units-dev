@@ -1,0 +1,113 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_SE17.pdf_10",
+    "primary_id": "docling_yanbaopptmerge_SE17.pdf_10_0",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_SE17.pdf_10_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "· Interface Design Principles - I",
+        "bbox": [
+          0.03343024214893317,
+          0.16071428546394873,
+          0.5436046452638574,
+          0.20348837237074516
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_yanbaopptmerge_SE17.pdf_10_1",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Anticipation-A WebApp should be designed so that it anticipates the use's next move.",
+        "bbox": [
+          0.08750001615924144,
+          0.23875661329598566,
+          0.8958333373824248,
+          0.31414353723156047
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaopptmerge_SE17.pdf_10_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Communication-The interface should communicate the status of any activity initiated by the user",
+        "bbox": [
+          0.08750003769252186,
+          0.3277116395983144,
+          0.9041666559185882,
+          0.4050925922960245
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_yanbaopptmerge_SE17.pdf_10_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Consistency-The use of navigation controls, menus, icons, and aesthetics (e.g., color, shape, layout)",
+        "bbox": [
+          0.0886628099972674,
+          0.4166666671298313,
+          0.8401162702062207,
+          0.49444444465511267
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_yanbaopptmerge_SE17.pdf_10_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Controlled autonomy-The interface should facilitate user movement throughout the WebApp, but it should do so in a manner that enforces navigation conventions that have been established for the application.",
+        "bbox": [
+          0.08749999926292831,
+          0.49999999960414665,
+          0.8999999854671996,
+          0.6223544973984587
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_yanbaopptmerge_SE17.pdf_10_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Efficiency-The design of the WebApp and its interface should optimize the user's work efficiency, not the efficiency of the Web engineer who designs and builds it or the client-server environment that executes it.",
+        "bbox": [
+          0.090116289295096,
+          0.6335978834703135,
+          0.8749999875000004,
+          0.7868217052890967
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_SE17.pdf_10",
+    "primary_id": "docling_yanbaopptmerge_SE17.pdf_10_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_SE17.pdf_10_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0,
+          0.8424261881510416,
+          0.18157369995117187,
+          0.9999099934895833
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

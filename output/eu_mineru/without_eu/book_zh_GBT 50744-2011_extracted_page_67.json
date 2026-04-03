@@ -1,0 +1,145 @@
+[
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_0",
+    "text": "A+B_a+b 2 2 传动侧机列中心线偏移一 2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.28859060402684567,
+      0.06809184481393507,
+      0.7449664429530202,
+      0.12984956452889945
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_1",
+    "text": "C+D_c+d 2 2 操作侧机列中心线偏移一 2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.28859060402684567,
+      0.1393507521773555,
+      0.7449664429530202,
+      0.20110847189231987
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_2",
+    "text": "式中： E、F、e、f——机架内侧面测量点到基准线读数值 (mm);",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1319910514541387,
+      0.21060965954077593,
+      0.8993288590604027,
+      0.26286619160728425
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_3",
+    "text": "A、B、C、D、a、b、c、d—机架窗口面测量点到基准线读数值 (mm)。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.16778523489932887,
+      0.2676167854315123,
+      0.8970917225950783,
+      0.32145684877276326
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_4",
+    "text": "5.3.7本条说明了连轧机相邻两个机架平行度测量部位和方法， 如条文中图5.3.8所示，连轧机相邻两机架平行度测量，宜以中间 轧机为基准向两侧轧机延伸测量，均在同侧机架窗口的出口方向 村板上测量，中间轧机左右相邻轧机机架相对中间轧机机架平行 度偏差方向不宜相同，相邻机架平行度按下式计算：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1342281879194631,
+      0.32779097387173395,
+      0.8993288590604027,
+      0.4671417260490895
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_5",
+    "text": "相邻机架平行度=B₁-B{a",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3579418344519016,
+      0.4734758511480602,
+      0.6778523489932886,
+      0.5162311955661124
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_6",
+    "text": "式中：B—相邻的同侧机架两个窗口面测量点读数值（mm）； L——相邻的传动侧机架和操作侧机架测量点的距离（mm）。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1342281879194631,
+      0.5241488519398259,
+      0.8612975391498882,
+      0.5764053840063341
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_7",
+    "text": "5.3.10单机架、连轧机机架安装调整验收合格后，可进行底座的 地脚螺栓和机架的固定螺栓紧固，紧固过程一般是先达到地脚螺 栓紧固力设计值的70%一80%，二次灌浆达到强度后，进行终紧。 也有一次性达到螺栓紧固力设计值，然后二次灌浆。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1342281879194631,
+      0.5827395091053048,
+      0.8993288590604027,
+      0.6935866983372921
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_8",
+    "text": "5.4 轧机主传动装置",
+    "canon_role": "section_header",
+    "bbox": [
+      0.3870246085011186,
+      0.7125890736342043,
+      0.6487695749440716,
+      0.7379255740300871
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_9",
+    "text": "轧机主传动装置由主传动电机、减速机、齿轮分配箱和中间轴 组成。主减速机和齿轮机座分为整体和分体安装两种形式，不论 是哪一种安装形式，主减速机和齿轮机座都应在轧机机架安装验 收后进行安装。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1342281879194631,
+      0.7553444180522565,
+      0.8993288590604027,
+      0.8677751385589866
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_zh_GBT 50744-2011_extracted_page_67_10",
+    "text": "5.4.1整体安装的减速机或齿轮机座，以轧机机列中心线为基",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13646532438478748,
+      0.8725257323832145,
+      0.8993288590604027,
+      0.8978622327790974
+    ],
+    "page": "book_zh_GBT 50744-2011_extracted_page_67",
+    "order": 11
+  }
+]

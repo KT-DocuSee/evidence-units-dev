@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046",
+    "primary_id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "© Let's make.",
+        "bbox": [
+          0.07824158096390402,
+          0.04845375516602537,
+          0.31377293809235735,
+          0.07923614080091207
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_color_textbook_zhonggaokao_小学_13.人教新起点英语（4-5年级）_人教新起点五年级英语下册_课本_人教新起点英语5B电子课本_page_046_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0,
+          0.08208636169303121,
+          0.9251865295422464,
+          0.9622345731794214
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

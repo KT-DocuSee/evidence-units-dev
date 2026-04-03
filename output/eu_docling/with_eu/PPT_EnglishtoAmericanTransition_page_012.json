@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_012",
+    "primary_id": "docling_PPT_EnglishtoAmericanTransition_page_012_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_012_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Changes to English (in America)",
+        "bbox": [
+          0.07500001674556663,
+          0.15000000076612363,
+          0.816666659191933,
+          0.2222222209699876
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_012",
+    "primary_id": "docling_PPT_EnglishtoAmericanTransition_page_012_1",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_012_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "· Change 7 (pronunciation)",
+        "bbox": [
+          0.07558140916791577,
+          0.27711640314078173,
+          0.6177325423873168,
+          0.3294573647787327
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_012_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "We actually kept some old Shakespearian habits that the English lost:",
+        "bbox": [
+          0.1627907041900534,
+          0.3507751939319459,
+          0.8604651071185961,
+          0.5077519368568797
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_012",
+    "primary_id": "docling_PPT_EnglishtoAmericanTransition_page_012_5",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_012_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.17230043029785155,
+          0.5319288330078125,
+          0.24804464721679687,
+          0.5759189860026042
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_012_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• 1)",
+        "bbox": [
+          0.1729651154468794,
+          0.5367063482787523,
+          0.25290697855229,
+          0.5794573653497042
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_012_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "• 2)",
+        "bbox": [
+          0.17296511722861932,
+          0.6569767431266709,
+          0.24999999936537293,
+          0.6997354501429043
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "PPT_EnglishtoAmericanTransition_page_012",
+    "primary_id": "docling_PPT_EnglishtoAmericanTransition_page_012_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_EnglishtoAmericanTransition_page_012_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.172135986328125,
+          0.6549914957682291,
+          0.24743186950683593,
+          0.6988776041666667
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

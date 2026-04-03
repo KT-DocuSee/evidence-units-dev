@@ -1,0 +1,110 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_1",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Spatial and temporal source identification in surface water",
+        "bbox": [
+          0.519298245614035,
+          0.07747395833333333,
+          0.8324561403508772,
+          0.10872395833333333
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Pb in aquatic environment may also come from auto- motive exhaust deposition and agricultural chemicals (Hanh et al. 2010). This is probably the most effi cient mechanism of anthropogenic Pb contributions into the reservoir lake. Mean Cd concentration ranged between 0.03 and 0.06 mg/1, which is relatively lower when compared with Lochnagar Lake, Scotland (Yang et al. 2002). Altindag and Yigit (2005) and Lokeshwari and Chandrapa (2007) reported higher concentration as compared with those reported in the present study. Mean concentration of Co, Li, Cr, Cu, Ni, and Mn were within the range reported in other studies (Duman et al. 2007; Lokeshwari and Chandrapa 2007; Lokeshwari and Chandrappa2006a,b; Shomar et al. 2005; Szymanowska et al. 1999).",
+        "bbox": [
+          0.08421052631578947,
+          0.07877604166666667,
+          0.47982456140350876,
+          0.3287760416666667
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cluster analysis identified two spatial groups of sites. Group 1 comprised L2, L4, L7, L9, and L10, and group 2 comprised L1, L3, L5, L6, and L8 (Figs. 3 and 4). These groups exhibited distinct heterogeneity in metal and nutrient concentrations. Group 1 showed relatively greater concentration of metals, whereas group 2 showed high contents of nutrients such as Cl, SO2−, NO3–N, and NH4−N (Fig. 4). Varimax rotated factor (VF) loading scores along with eigenvalues, and total percentage variances are reported in Table 4. Spatial FA/PCA highlighted four and five VFs for group 1 and group 2 with eignvalues >1 and explained",
+        "bbox": [
+          0.519298245614035,
+          0.12825520833333334,
+          0.9149122807017543,
+          0.3294270833333333
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table4 Loadingofenironmental ariableson signifcantVarimaxrotatedprincipal omponents for sptial grups.Marked loadings are >0.70",
+        "bbox": [
+          0.07719298245614035,
+          0.3509114583333333,
+          0.9140350877192982,
+          0.3776041666666667
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07982456140350877,
+          0.37890625,
+          0.9175438596491228,
+          0.888671875
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s10653-010-9369-8.pdf_11_5",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Significance of highted values are P = 0.05",
+        "bbox": [
+          0.08596491228070176,
+          0.890625,
+          0.3631578947368421,
+          0.9036458333333334
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

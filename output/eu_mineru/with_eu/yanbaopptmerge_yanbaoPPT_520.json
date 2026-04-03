@@ -1,0 +1,61 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_520",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_520_0",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_520_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.02666666666666667,
+          0.0,
+          0.9166666666666666,
+          0.384
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_520_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "春天 春风 春雨",
+        "bbox": [
+          0.16133333333333333,
+          0.4,
+          0.8326666666666667,
+          0.5502222222222222
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_520",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_520_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_520_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0013333333333333333,
+          0.744,
+          0.9973333333333333,
+          0.9982222222222222
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1",
+    "primary_id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_2",
+    "source": "visual_seed",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "附录：三张报表预测摘要",
+        "bbox": [
+          0.05397784491440081,
+          0.08888888888888889,
+          0.2529707955689829,
+          0.10427350427350428
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "损益表（人民币百万元）",
+        "bbox": [
+          0.05397784491440081,
+          0.11282051282051282,
+          0.17401812688821752,
+          0.1225071225071225
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "资产负债表（人民币百万元）",
+        "bbox": [
+          0.5164149043303122,
+          0.11282051282051282,
+          0.6590130916414905,
+          0.1225071225071225
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.051560926485397784,
+          0.1259259259259259,
+          0.494662638469285,
+          0.5014245014245015
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_8",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "比率分析",
+        "bbox": [
+          0.5164149043303122,
+          0.4239316239316239,
+          0.565558912386707,
+          0.4336182336182336
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_3",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "现金流量表（人民币百万元）",
+        "bbox": [
+          0.051560926485397784,
+          0.5122507122507123,
+          0.19496475327291038,
+          0.5219373219373219
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_5",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "来源：公司年报、国金证券研究所",
+        "bbox": [
+          0.053172205438066465,
+          0.698005698005698,
+          0.24249748237663646,
+          0.7099715099715099
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1",
+    "primary_id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5148036253776435,
+          0.12478632478632479,
+          0.9562940584088621,
+          0.41196581196581195
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1",
+    "primary_id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_9",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5139979859013092,
+          0.43304843304843305,
+          0.9570996978851963,
+          0.6962962962962963
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1",
+    "primary_id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_c1c12db90c6ecfae16a8eafa49caecfbc0e5f5654140320fe127f7c09bde96c9.pdf_1_4",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.051560926485397784,
+          0.5230769230769231,
+          0.494662638469285,
+          0.6962962962962963
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

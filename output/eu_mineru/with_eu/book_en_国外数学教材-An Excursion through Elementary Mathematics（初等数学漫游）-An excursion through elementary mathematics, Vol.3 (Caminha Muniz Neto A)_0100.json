@@ -1,0 +1,152 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100",
+    "primary_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_0",
+    "source": "text_cluster",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(d) Expand each summand of the right hand side above as a power series to conclude that an = 2n+1 − (n + 1) for n ≥ 0.",
+        "bbox": [
+          0.14086814086814087,
+          0.1462272645416892,
+          0.8768768768768769,
+          0.18224383216279488
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3. Given k, m ∈ N, use generating functions to compute the number of integer solutions of the equation a1 + a2 + · . · + ak = m, such that aj ≥ 1 for 1 ≤ i ≤ k.",
+        "bbox": [
+          0.1223041223041223,
+          0.19088780839186026,
+          0.877968877968878,
+          0.22690437601296595
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4. Use generating functions to compute the number of nonnegative integer solutions of the equation a1 + a2 + a3 + a4 = 20, satisfying a1 ≥ 2 and a3 ≤ 7.",
+        "bbox": [
+          0.1223041223041223,
+          0.2276247073653881,
+          0.8768768768768769,
+          0.2636412749864938
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5. A particle moves on the cartesian plane in such a way that from point (a, b) it can go to either (a + 1, b) or (a, b + 1). Given n ∈ N, let an be the number of distinct ways the particle has to go from Ao (O, O) to An (n, n), without ever touching a point (x, y) situated above the bisector of odd quadrants (i.e., one such point for which y > x). In this respect, do the following items:",
+        "bbox": [
+          0.12012012012012012,
+          0.2636412749864938,
+          0.8801528801528802,
+          0.35296236268683595
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(a) Let Ak (k, k), with 0 ≤ k < n. Prove that there are exactly akan−1−k distinct trajectories for the particle in which Ak is the last point (before An) on the line y = x. (b) Conclude that an = ∑k=0 akan−1−k and, hence, hat an = Cn for n ≥ 1, where Cn is the n-th Catalan number.",
+        "bbox": [
+          0.14523614523614523,
+          0.3616063389159013,
+          0.8801528801528802,
+          0.4523680893210877
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For the coming problem, the reader may find it convenient to read again the paragraph that precedes Example 1.15.",
+        "bbox": [
+          0.14305214305214306,
+          0.46173239690257517,
+          0.8757848757848757,
+          0.4963083018188367
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6. For n ∈ N, we let an denote the number of partitions of n in natural summands, none of which exceeds 3. The purpose of this problem is to compute an as a function of n, and to this end do the following items:",
+        "bbox": [
+          0.12012012012012012,
+          0.498469295876103,
+          0.8801528801528802,
+          0.5510534846029174
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(a) Show that, for |x| < 1, one has (b) Find a, b, c, d ∈ R for which (c) Conclude that",
+        "bbox": [
+          0.1506961506961507,
+          0.5604177921844048,
+          0.4706524706524707,
+          0.5777057446425355
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100",
+    "primary_id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.14523614523614523,
+          0.6547811993517018,
+          0.4542724542724543,
+          0.6727894831622546
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.14742014742014742,
+          0.7405006302899334,
+          0.31668031668031665,
+          0.7577885827480642
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

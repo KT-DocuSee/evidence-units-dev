@@ -1,0 +1,483 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_19",
+    "text": "and this completes the proof.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112859066254,
+      0.06820436528272197,
+      0.7499999965181866,
+      0.08284883670858066
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_1",
+    "text": "as desired.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12779203954062177,
+      0.06965093579060873,
+      0.19927563201350618,
+      0.08005836657565168
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_20",
+    "text": "Third solution: We argue that an → o as in the first solution. Write bn = an - Lnk/(k+1), for a value of L to be determined later. We have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909743258227,
+      0.08720930222143579,
+      0.9191729381522473,
+      0.13081395298765053
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_2",
+    "text": "Remark: The use of Cesaro's lemma above is the special case bn = n of the Cesaro-Stolz theorem: if an, bn are sequences such that bn is positive, strictly increasing, and unbounded, and",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984847995796,
+      0.08854166686518904,
+      0.4906015054724391,
+      0.14682539690320595
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_21",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5695488732559503,
+      0.14534883747019833,
+      0.8590225539238723,
+      0.19945214101240924
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_3",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.22368421562185697,
+      0.15807753501178756,
+      0.3552631565686112,
+      0.18604651122308394
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_4",
+    "text": "then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985020208903,
+      0.1991279069804592,
+      0.15789473672057477,
+      0.21075581382518874
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_22",
+    "text": "where",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390978986369,
+      0.2136627909090306,
+      0.5996240595944579,
+      0.22529069775376012
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_5",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24812030052631576,
+      0.21947674433784134,
+      0.3327067664838649,
+      0.24709302338360514
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_23",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.607142854239979,
+      0.25868055589892647,
+      0.8214285713239308,
+      0.2965116282618491
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_6",
+    "text": "Second solution: In this solution, rather than applying Taylor's theorem with remainder to (1 + x)m for 1 < m < 2 and x > 0, we only apply convexity to deduce that (1 +x) ≥ 1 + mx. This gives",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984319800317,
+      0.2630813950412032,
+      0.4906015005112703,
+      0.3212209298263133
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_24",
+    "text": "We first estimate e1. For -1 < m < 0, by the convexity of (1 +x)™ and (1 +x) -m, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909832152132,
+      0.30952380947102576,
+      0.9172932187042854,
+      0.34011627871572686
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1973901726217831,
+      0.33225802334872157,
+      0.3780658677045037,
+      0.3606528819691051
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_25",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6239312606287003,
+      0.35109490615900063,
+      0.812030074104958,
+      0.3837209302947316
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_8",
+    "text": "and so",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12592263893242134,
+      0.372051396930244,
+      0.17294954125485995,
+      0.3837625563260372
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_9",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.287593985035399,
+      0.39534883745799626,
+      0.35902255543562334,
+      0.4142441857009184
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_26",
+    "text": "Hence",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563498313669664,
+      0.39962417282112567,
+      0.6015449052892374,
+      0.41287582750661533
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_10",
+    "text": "for some c E R. In particular,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985597241486,
+      0.4345238094821374,
+      0.32142856658397617,
+      0.4491567459900741
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_27",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.7499999998355263,
+      0.4534883722317049,
+      0.843984962003915,
+      0.4811507933996982
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.20864661742888266,
+      0.45930232572007734,
+      0.3646616549852737,
+      0.4941860464373525
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_28",
+    "text": "Note that both bounds have sign opposite to bn; moreover, by the bound an = 52(n(k-1)(k), both bounds have absolutely value strictly less than that of b, for n sufficiently large. Consequently, for n large,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112792101969,
+      0.4927325586039193,
+      0.9210526214007057,
+      0.5508720930874306
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_12",
+    "text": "and so",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12572943357995336,
+      0.503895015579203,
+      0.173142746616812,
+      0.5179073097354138
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_13",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17105263207519195,
+      0.5260416663242963,
+      0.3984962438959858,
+      0.5624999996576298
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_29",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6804511299329533,
+      0.5624999999913317,
+      0.7556390970595279,
+      0.5771329364992682
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_14",
+    "text": "But turning this around, the fact that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985131797433,
+      0.5741279074774658,
+      0.36842104872901815,
+      0.5886627905603249
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_30",
+    "text": "We now work on ez. By Taylor's theorem with remainder applied to (1 +x) for x > 0 and 0 < m < 1,",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909789937223,
+      0.5900297618832596,
+      0.9191729340438677,
+      0.6192956350570943
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_15",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1539477791948577,
+      0.6038941532884141,
+      0.4249627781313646,
+      0.6773313490258516
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 28
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_31",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6109022532218085,
+      0.6307043650640297,
+      0.7330827071478655,
+      0.6453488369629412
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 29
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_32",
+    "text": "The \"main term\" of L((n + 1)k/(K+1) - nk/(k+1)) is LatIn 1(K+1). To make this coincide with [-1/KnI/(k+1), we take",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909711914242,
+      0.6904069764195947,
+      0.9191729381522473,
+      0.7413194444208409
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 30
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_16",
+    "text": "where o (1) denotes a function tending to 0 as n → ∞, yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1259398503679481,
+      0.6904069766856463,
+      0.4906015045701836,
+      0.7194767443935688
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 31
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_17",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.127819549478578,
+      0.7354651162966276,
+      0.43441157085349325,
+      0.8851744182604799
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 32
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_33",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6447368452391612,
+      0.7500000003475613,
+      0.7819548847554681,
+      0.7864583336808947
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 33
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_34",
+    "text": "We then find that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5582706792374647,
+      0.7978670633349128,
+      0.6729323305745655,
+      0.8095930231316669
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 34
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_35",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6669138806679855,
+      0.8212453995775842,
+      0.769176345786276,
+      0.841545297831131
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 35
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_36",
+    "text": "and because bn+1 = el tez, we have |bn+1| ≤ |bn| + lez|. Hence",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.554511277406015,
+      0.8516865077011481,
+      0.9191729290826987,
+      0.8808139532274759
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 36
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_37",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6256407839867042,
+      0.8929875688610783,
+      0.8142088404580918,
+      0.932593825951571
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 37
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007_18",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.17564833697150736,
+      0.8979449462890625,
+      0.4009673713235294,
+      0.9397442072088068
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2006_Solutions_2006s_page_007",
+    "order": 38
+  }
+]

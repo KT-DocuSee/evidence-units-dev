@@ -1,0 +1,41 @@
+[
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_002_0",
+    "text": "Slope",
+    "canon_role": "section_header",
+    "bbox": [
+      0.41933333333333334,
+      0.08711111111111111,
+      0.58,
+      0.17155555555555554
+    ],
+    "page": "PPT_CalculusReview_page_002",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_002_1",
+    "text": "Slope = rise/run = ∆y/∆x = (y2 − y1)/(X2 − x1) Order of points 1 and 2 not critical, but keeping them together is Points may lie in any quadrant: slope will work out Leibniz notation for derivative based on ∆y/Δx; the derivative is written dy/dx",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.007333333333333333,
+      0.23733333333333334,
+      0.518,
+      0.8826666666666667
+    ],
+    "page": "PPT_CalculusReview_page_002",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_CalculusReview_page_002_2",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.526,
+      0.23822222222222222,
+      0.9686666666666667,
+      0.8408888888888889
+    ],
+    "page": "PPT_CalculusReview_page_002",
+    "order": 3
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_11",
+    "text": "pose is to verify the efficiency of the PCA plus kernel FDA method. The results that indicate the time consumed are shown in Tab. 3. From Tab. 3, it is seen that the proposed method is competitive with kernel FDA. The computation time is different with the different numbers of PCs reserved in PCA. The time consumed becomes longer with the increase of PCs. Although the entire time consumed owith PCA plus KFDA is longer than PCA, it is much less than that for the kernel FDA method alone. The results show that if one chooses the appropriate number of PCs, then the proposed method is more preferable for real-time process monitoring and fault diagnosis.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5464012093430114,
+      0.0885416664985149,
+      0.9321705377493383,
+      0.25308726790443914
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_22",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.1195556216000501,
+      0.09441441443435517,
+      0.49994889736464004,
+      0.32032641690099445
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_3",
+    "text": "0.9 -",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1356589151512434,
+      0.11482558160870636,
+      0.16085271338557833,
+      0.12354651126920074
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_4",
+    "text": "0.8",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13565891500517893,
+      0.13517441881800857,
+      0.15503875989792187,
+      0.14389534847850305
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_5",
+    "text": "0.7 -",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13565891467482222,
+      0.15401785734543452,
+      0.16085271290915718,
+      0.16424418604006563
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_6",
+    "text": "0.3 -",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13372092970207908,
+      0.23685515867959725,
+      0.16085271280438096,
+      0.2456395346461386
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_12",
+    "text": "In order to evaluate the ability of the proposed approach to identify disturbance, the detection results were classified as 4 levels (A, B, C, and D) and listed as follows:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5465116326950286,
+      0.25436046513383687,
+      0.9302325560754168,
+      0.2936507935486492
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_7",
+    "text": "0.2 -",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13565891525621754,
+      0.2571924603525758,
+      0.16085271349055247,
+      0.26598837171009215
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_8",
+    "text": "0.1 -",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.13565891487265813,
+      0.27752976184925543,
+      0.16085271310699306,
+      0.2864583332778268
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_13",
+    "text": "A: The method can detect the occurrence of the disturbance and the result is excellent.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5445736466902614,
+      0.29651162820412047,
+      0.9302325420048296,
+      0.31976744180556954
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_9",
+    "text": "Case 1",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.3081395346778685,
+      0.31395348873079926,
+      0.34496123959538744,
+      0.32267441839129374
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_14",
+    "text": "B: The method can detect the occurrence of the disturbance and the result is clear.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5426356689928166,
+      0.324127907115426,
+      0.9302325416014988,
+      0.3502906974425924
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_10",
+    "text": "Figure 12. Degree of similarity of case 1 in the historical dataset.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11627907971070306,
+      0.3313492061150472,
+      0.49999999773115733,
+      0.3459821426229837
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_15",
+    "text": "C: The method can detect the occurrence of the disturbance and the result is not very clear.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5426356528894515,
+      0.3488372092381508,
+      0.9321705431861301,
+      0.3779761903728453
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_16",
+    "text": "Table 3. Comparison of the time consumed for fault detection and diagnosis between PCA, KFDA and PCA + KFDA.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1143411074364358,
+      0.3953373016061706,
+      0.7965116193852692,
+      0.4099702381141071
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_20",
+    "text": "Fault Number | Time consumed (s) | Time consumed (s) | Time consumed (s) | Time consumed (s) | Time consumed (s) | Time consumed (s) | Time consumed (s) | Fault Number | PCs = 8 (60% variance) | PCs = 8 (60% variance) | PCs = 15 (95 % variance) | PCs = 15 (95 % variance) | PCs = 19 (99 % variance) | PCs = 19 (99 % variance) | Fault Number | PCA | PCA + KFDA | PCA | PCA + KEDA | PCA | PCA + KEDA | KEDA | 1 | 5.2 | 14.1 | 5.4 | 23.7 | 5.5 | 36.2 | 56.3 | 2 | 4.7 | 13.9 | 4.8 | 21.2 | 4.8 | 32.1 | 51.7 | 3 | 5.0 | 13.4 | 5.1 | 22.1 | 5.0 | 34.4 | 53.6 | 4 | 6.0 | 16.8 | 6.3 | 27.1 | 6.1 | 45.2 | 64.3 | 5 | 5.5 | 14.7 | 5.7 | 24.6 | 5.5 | 36.8 | 59.5 | 6 | 5.1 | 14.1 | 5.2 | 23.9 | 5.1 | 35.1 | 57.4 | 7 | 5.1 | 14.9 | 5.3 | 24.2 | 5.2 | 35.8 | 58.9 | 8 | 5.8 | 16.2 | 6.1 | 26.5 | 6.0 | 43.9 | 61.5",
+    "canon_role": "table",
+    "bbox": [
+      0.11758685011035806,
+      0.41436490900172823,
+      0.929368477767695,
+      0.6331083794020569
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_17",
+    "text": "Table 4. Comparison of fault detection ability among PCA, KFDA and PCA + KFDA.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11434108133435807,
+      0.6598837207207089,
+      0.6046511544699058,
+      0.675872093341791
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8_21",
+    "text": "Fault Number | Detection Results | Detection Results | Detection Results | Detection Results | Detection Results | Detection Results | Detection Results | Fault Number | PCs = 8 (60 % variance) | PCs = 8 (60 % variance) | PCs = 15 (95% variance) | PCs = 15 (95% variance) | PCs = 19 (99 % variance) | PCs = 19 (99 % variance) | Fault Number | PCA | PCA + KFDA | PCA PCA + KFDA | PCA | PCA + KFDA | KFDA | 1 | B | B | 2 | D | A | D | A | A | 3 | D | A | B | 4 | A | A | 5 | C | A | A | A | A | 6 | B | B | 7 | B | B | 8 | D | A | A",
+    "canon_role": "table",
+    "bbox": [
+      0.11786526531720262,
+      0.6791485313491614,
+      0.929341227952019,
+      0.8975229133612874
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-ceat.200600410.pdf_8",
+    "order": 21
+  }
+]

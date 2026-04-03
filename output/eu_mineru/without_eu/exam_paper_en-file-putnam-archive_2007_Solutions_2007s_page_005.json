@@ -1,0 +1,54 @@
+[
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_0",
+    "text": "by comparing the sum to an integral. This gives",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12705882352941175,
+      0.06606060606060606,
+      0.4415686274509804,
+      0.08181818181818182
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_2",
+    "text": "For a lower bound on f (n), we note that if 0 ≤ ai < (n − 1)!/i! for i = 2, . .,n − 1 and an = 0, then 0 ≤ a22! + . .· + ann! ≤ n!, so there is a unique choice of a1 to complete this to a solution of a1 1! + .  + ann! = n!. Hence",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556078431372549,
+      0.06606060606060606,
+      0.9192156862745098,
+      0.1387878787878788
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_1",
+    "text": "We now interpret f (n) as counting the number of n- tuples (a1 , . . , an) of nonnegative integers such that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12627450980392158,
+      0.14666666666666667,
+      0.4894117647058824,
+      0.17696969696969697
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005_3",
+    "text": "For an upper bound on f (n), we use the inequalities 0 ≤ ai ≤ n!/i! to deduce that there are at most n!/i! + 1 ≤ 2(n!/i!) choices for ai. Hence",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12549019607843137,
+      0.21575757575757576,
+      0.49019607843137253,
+      0.26
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2007_Solutions_2007s_page_005",
+    "order": 4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_4",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 Method validation data for the 53 PCB congeners",
+        "bbox": [
+          0.0677717056885011,
+          0.1059792700897304,
+          0.339147283351899,
+          0.13081395347181501
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "PCB congener number | Quantitation ion (m/z) | Correlation coefficient (R) | RSD (%) | MDL (ng/g) (n = 7) | Monochlorobiphenyl (m/z= 188) | 0.9962 | 0.9982 | 10/4 | Dichlorobiphenyl (m/z= 222) | 0.9995 | 16 | 0.9996 | 25 | 15 | 0.9993 | 6 | Trichlorobiphenyl (m/z= 256) | 22 | 18 | 28* | 33 | a a | 22 | 11 | 37 | 17 | 31 | 54 | Tetrachlorobiphenyl (m/z = 290) | 16 | 52* | 49 | 44 | 74 | 70 | 104 | Pentachlorobiphenyl (m/z= 324) | 95 | 101* | 99 | 119 | 87 | 0.9993 | 110 | 0.9998 | 123 | 0.9994 | 118* | 0.9999 | 114 126 | 155 | Hexachlorobiphenyl (m/z= 360) | 151 | 149 | 153* | 168 | 138* | 158 | 126/167 | 156 | 157 | 188 | Heptachlorobiphenyl (m/z= 394) | 178 | 9 | 187 | 9 | 183 | 11 | 177 | 11 | 171 | 13 | 180* | 2 | 4 | 191 | 15 | 170 | 11 | 189 | 11 | 19 | 202 | Octachlorobiphenyl (m/z=428) | 0.9993 | 27 | 12 | 201 | 0.9928 | 22 | 12 | 199 | 0.9912 | 1 | 26 | 194 | 0.9938 | 11 | 24 | 205 | 0.9999 | 13 | 31",
+        "bbox": [
+          0.06953671565577974,
+          0.1319880827059015,
+          0.917556901159823,
+          0.8634046483666704
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.chroma.2005.03.134.pdf_6_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Data written with (*) indicate that they are part of the seven PCB indicators. Data written in bold, italics indicate that high level (n = 5) calibration curve was used (20-500 ng/g) otherwise, low level calibration (n = 4) was used (2-20 ng/g) for the determination of MDLs and RSDs. MDL = 1.943S.D.",
+        "bbox": [
+          0.06782947191900847,
+          0.869186046757989,
+          0.9147286945351109,
+          0.8953488368902667
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_ch7_page_034",
+    "primary_id": "mineru_PPT_ch7_page_034_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_034_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "7.3 Linear Systems of Equations. Gauss Elimination",
+        "bbox": [
+          0.326,
+          0.018666666666666668,
+          0.9513333333333334,
+          0.059555555555555556
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_ch7_page_034_1",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Matrix Form of the Linear System (1). From the definition of matrix multiplication we see that the m equations of (1) may be written as a single vector equation (2) Ax = b where the coefficient matrix A = [ajk] is the m × n matrix",
+        "bbox": [
+          0.05333333333333334,
+          0.12,
+          0.946,
+          0.45866666666666667
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_034",
+    "primary_id": "mineru_PPT_ch7_page_034_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_034_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "are column vectors.",
+        "bbox": [
+          0.05733333333333333,
+          0.8231111111111111,
+          0.35,
+          0.8684444444444445
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_ch7_page_034",
+    "primary_id": "mineru_PPT_ch7_page_034_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_ch7_page_034_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Advanced Engineering Mathematics, 10/e by Edwin Kreyszig Copyright 2011 by John Wiley & Sons. All rights reserved.",
+        "bbox": [
+          0.454,
+          0.9057777777777778,
+          0.9106666666666666,
+          0.9635555555555556
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

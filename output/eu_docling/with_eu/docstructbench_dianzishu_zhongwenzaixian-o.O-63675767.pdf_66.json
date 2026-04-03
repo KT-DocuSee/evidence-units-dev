@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_0",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "$3. 5 (4)",
+        "bbox": [
+          0.7318569511760943,
+          0.09273971713221689,
+          0.8207203696799236,
+          0.10929516645148112
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_6",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "HìBY | 2000 | 2004 | 2008 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 29 | 30 | 26 | 24 | 27 | 28 | 10 | 9 | 21 | 16 | 28 | 27 | 28 | 20 | 21 | 29 | 30 | ВЕРЧ | 15 | 15 | 15 | 13 | 16 | 18 | 14 | 14 | 19 | Hiti | 13 | 19 | 14 | 21 | 20 | 21 | 20 | 24 | 22 | 16 | 18 | 10 | 14 | 17 | 16 | 17 | 21 | 20 | 6 | 7 | 19 | 15 | 18 | 19 | 13 | 17 | 12 | 10 | 8 | 8 | 12 | 12 | 12 | 9 | 11 | 15",
+        "bbox": [
+          0.13705486332604644,
+          0.11196720478289739,
+          0.861801100797974,
+          0.3282868630017819
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "342",
+        "bbox": [
+          0.17731958985725302,
+          0.351744185867269,
+          0.5484535998334688,
+          0.3677325584883511
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "36",
+        "bbox": [
+          0.27010308620479995,
+          0.6700581401543965,
+          0.7257731963037913,
+          0.6889534880675028
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_4",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "216217 0.37, 7р",
+        "bbox": [
+          0.5606941504807008,
+          0.8590116283881976,
+          0.8577319646633613,
+          0.8764880953012694
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.6 А С ТЕ, В ТІНИКИВ, СШТИЛИВНИХ, ДИСИХ КУПИСКУ ЗСТА 2. 12 471 1 ТВх, ПНіЛТАВ, QUANTH 2015-2017 FHT ТРАНТТТ",
+        "bbox": [
+          0.13814432274742355,
+          0.3749999995595509,
+          0.861855656360829,
+          0.6614583333026625
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-63675767.pdf_66_7",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "2000 | 2004 | 2008 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 17 | 10 | 18 | 20 | 20 | 19 | 18 | 16 | 4 | 7 | 18 | 3 | 3 | 2 | 1 | 1 | 2 | 1 | 9 | 9 | 12 | 11 | 9 | 13 | 13 | 13 | 13",
+        "bbox": [
+          0.13698635042989654,
+          0.6941292256421463,
+          0.8620128573263093,
+          0.8028660979945536
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1",
+    "primary_id": "docling_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8147660501058042,
+          0.045521664792729934,
+          0.9023438976061819,
+          0.06580913489881159
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1",
+    "primary_id": "docling_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_5",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "170%; 7=11572 #145665 F, En 77 175137 tt",
+        "bbox": [
+          0.41889118098508304,
+          0.09002976190636294,
+          0.9425051324030327,
+          0.18030753923542328
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Đ 2 6) 2022-2024 4 8 8. 66, 9.55, 10.5912 7, EPS 0.85, 1.07. 1.274, Л1РЕд 1A 17.2, 13.7, 11.51, 17 \"HEE\" AER iF I2.",
+        "bbox": [
+          0.41683777451395204,
+          0.25570436477133063,
+          0.940451745726588,
+          0.30813953440955694
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Fr i) tă tí | 2021A | 2022E | 2023E | 2024E | *HE^ (EF*) | 758 | 866 | 955 | 1, 059 | ** K* (%) | 19.8% | 14.2% | 10. 3% | 10.9% | 127 | 189 | 236 | 282 | *% K * (%) | 189. 7% | 49.3% | 24.8% | 19. 4% | 0.57 | 0. 85 | 1.07 | 1.27 | ROE (%) | 10. 1% | 15. 2% | 19.3% | 23. 6%",
+        "bbox": [
+          0.41476296513660066,
+          0.40737136116696504,
+          0.9525299994804263,
+          0.5286021336575459
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "F # *iR: Wind, 1 GiE$bH",
+        "bbox": [
+          0.4229979463081948,
+          0.5319767446867681,
+          0.6139630396774314,
+          0.5466269840446408
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

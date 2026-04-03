@@ -1,0 +1,314 @@
+[
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_1",
+    "text": "(by elementary algebra, or Cramer's rule), so the center of the circle is rational. This proves the desired result.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1259398451832708,
+      0.06820436495401737,
+      0.49060148996172226,
+      0.0974702382449211
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_2",
+    "text": "Remark: The above solution is deliberately more verbose than is really necessary. A shorter way to say this is that any two distinct rational points determine a rational line (a line of the form ax + by + c = 0 with a, b, c rational), while any two nonparallel rational lines intersect at a rational point. A similar statement holds with the rational numbers replaced by any field.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593986363655887,
+      0.10168650793337458,
+      0.49093595021914854,
+      0.20348837163975067
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_13",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6146616535632873,
+      0.11036706346339398,
+      0.8216458354808143,
+      0.12736323802653757
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_14",
+    "text": "Conversely, if this holds, then the Cauchy-Schwarz inequality and the above analysis imply that C lies in H.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909743981545,
+      0.13808139502424577,
+      0.9191729381522473,
+      0.16865079388491525
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_15",
+    "text": "If r is the radius of C, then",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.556390981369666,
+      0.171511627802831,
+      0.7330827050964993,
+      0.1875000004239131
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_3",
+    "text": "Remark: A more explicit argument is to show that the equation of the circle through the rational points (x1, 41), (x2, 12), (X3, Y3) is",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593985041009173,
+      0.20930232544654742,
+      0.4924812103405307,
+      0.2529761905905369
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_4",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1935689204579045,
+      0.2645348839437565,
+      0.38157894616463534,
+      0.327132936920148
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_16",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6729323306448147,
+      0.2776162788493427,
+      0.7086466160093207,
+      0.2936046514704248
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_17",
+    "text": "so r ≤ V2. Since this is achieved by the circle through (1,1,0,0) and (0,0, 1, 1), it is the desired maximum.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909722205596,
+      0.30668604608771477,
+      0.9191729327042526,
+      0.3386627909180993
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_5",
+    "text": "which has the form ax + y) + dxtey+f=0 for a,d, e, f rational. The center of this circle is (-d/ (2a), -e/ (2a)), which is again a rational point.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12593984990819995,
+      0.33854166632836186,
+      0.49060150275753095,
+      0.3851744190685351
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_18",
+    "text": "Remark: One may similarly ask for the radius of the largest k-dimensional ball inside an n-dimensional unit hypercube; the given problem is the case (n, k) = (4,2). Daniel Kane gives the following argument to show that the maximum radius in this case is ½V*. (Thanks for Noam Elkies for passing this along.)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909685990056,
+      0.34300595236601733,
+      0.9210526404235507,
+      0.4288194442985952
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_6",
+    "text": "B-2 We claim that Fn(x) = (Inx - an)x\"/n!, where an = Ek-| 1/k. Indeed, temporarily write Gn (x) = (Inx an)x\"/n! for x > 0 and n ≥ 1; then lim, →0 Gn (x) = 0 and G', (x) = (Inx - an + 1/n)s*-'/(n- 1)! = Gn- 1(x), and the claim follows by the Fundamental Theorem of Calculus and induction on n.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09586467379822916,
+      0.3938492062105247,
+      0.49060151109241035,
+      0.4781976743525973
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_19",
+    "text": "We again scale up by a factor of 2, so that we are trying to show that the maximum radius r of a k-dimensional ball contained in the hypercube (-1, 1]\" is VE Again, there is no loss of generality in centering the ball at the origin. Let T: Rk → R\" be a similitude carrying the unit ball to this embedded k-ball. Then there exists a vector vi € IRk such that for el,...,en the standard basis of R\", x ·V; = T(x) · ej for all x € Rk. The condition of the problem is equivalent to requiring Vi ≤ 1 for all i, while the radius r of the embedded ball is determined by the fact that for all x € Rk",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909685990056,
+      0.43452380946496943,
+      0.9211646695310339,
+      0.5917199163853888
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_7",
+    "text": "Given the claim, we have Fn(1) = -an/n! and so we need to evaluate - lim, ∞ Inn. But since the function 1/x is strictly decreasing for x positive, Ek=2 1/k= an 1 is bounded below by f2 dx/x = Inn - In2 and above by f dx/x = Inn. It follows that lim, >∞ Inn = 1, and the desired limit is - 1.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.127730442437705,
+      0.4853670635925756,
+      0.490601507152874,
+      0.5697674417944578
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_8",
+    "text": "B-3 The largest possible radius is 2. It will be convenient to solve the problem for a hypercube of side length 2 instead, in which case we are trying to show that the largest radius is V2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09559884286982286,
+      0.5771320659074023,
+      0.4908278054069297,
+      0.6413003257021146
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_20",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6090225583646617,
+      0.6118551584077896,
+      0.8270676684028043,
+      0.6294642853919165
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_9",
+    "text": "Choose coordinates so that the interior of the hypercube is the set H = |-1, 1]* in Rt. Let C be a circle centered at the point P. Then C is contained both in H and its reflection across P; these intersect in a rectangular paralellepiped each of whose pairs of opposite faces are at most 2 unit apart. Consequently, if we translate C so that its center moves to the point 0 = (0,0, 0, 0) at the center of H, then it remains entirely inside H.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1259398594542282,
+      0.6468023255918962,
+      0.49060151109241035,
+      0.7601744186113183
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_21",
+    "text": "Let M be the matrix with columns v1,..., Uk; then MM' = 11k, for Ik the k x k identity matrix. We then have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.55451127792395,
+      0.6510416664264724,
+      0.9191729381522473,
+      0.6933139535868827
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_22",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.6052631562969925,
+      0.7048611111177782,
+      0.8289473668233083,
+      0.7790697674713305
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_10",
+    "text": "This means that the answer we seek equals the largest possible radius of a circle C contained in H and centered at O. Let v1 = (V11,.., V14) and V2 = (V21,.., V24) be two points on C lying on radii perpendicular to each other. Then the points of the circle can be expressed as vi cos @ + v2 sin 0 for 0 ≤ 0 < 2n. Then C lies in H if and only if for each i, we have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12781954616792793,
+      0.7673611110471049,
+      0.4908317335661657,
+      0.8678075395710265
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_23",
+    "text": "yielding the upper bound r ≤ V%",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5563909831083877,
+      0.7936046508805927,
+      0.7857142857825895,
+      0.8095930235016748
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_24",
+    "text": "To show that this bound is optimal, it is enough to show that one can find an orthogonal projection of R\" onto k so that the projections of the e; all have the same norm (one can then rescale to get the desired configuration of V1,..., Yn). We construct such a configuration by a \"smoothing\" argument. Startw with any projection. Let",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5545112927249048,
+      0.8139534886039194,
+      0.9193256190606346,
+      0.899801587426935
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_11",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.14661654726378026,
+      0.8821924603374616,
+      0.4323308301798285,
+      0.8953488369982778
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004_12",
+    "text": "In geometric terms, the vector (Vi, V2i) in R2 has dot product at most 1 with every unit vector. Since this holds for the unit vector in the same direction as (Vli, Yzi), we must have",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.127819547546374,
+      0.9069767443597332,
+      0.4906015093583878,
+      0.9360465114168823
+    ],
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_004",
+    "order": 25
+  }
+]

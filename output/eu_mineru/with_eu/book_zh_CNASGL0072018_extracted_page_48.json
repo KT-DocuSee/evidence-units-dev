@@ -1,0 +1,182 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "book_zh_CNASGL0072018_extracted_page_48",
+    "primary_id": "mineru_book_zh_CNASGL0072018_extracted_page_48_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "6.1.3稳压源波动不确定度分量",
+        "bbox": [
+          0.10738255033557047,
+          0.1726049089469517,
+          0.40492170022371365,
+          0.1916072842438638
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "稳压源稳压精度0.2%，故",
+        "bbox": [
+          0.14093959731543623,
+          0.20269200316706254,
+          0.38031319910514544,
+          0.220110847189232
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_CNASGL0072018_extracted_page_48",
+    "primary_id": "mineru_book_zh_CNASGL0072018_extracted_page_48_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "均匀分布，估计其可靠性10%。",
+        "bbox": [
+          0.18791946308724833,
+          0.3673792557403009,
+          0.465324384787472,
+          0.38638163103721296
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "book_zh_CNASGL0072018_extracted_page_48",
+    "primary_id": "mineru_book_zh_CNASGL0072018_extracted_page_48_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "6.2功率",
+        "bbox": [
+          0.10514541387024609,
+          0.45447347585114806,
+          0.19686800894854586,
+          0.4734758511480602
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "book_zh_CNASGL0072018_extracted_page_48",
+    "primary_id": "mineru_book_zh_CNASGL0072018_extracted_page_48_4",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_4",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "6.2.1示值不确定度分量2",
+        "bbox": [
+          0.10514541387024609,
+          0.4845605700712589,
+          0.34675615212527966,
+          0.503562945368171
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "瓦特表0.5级合格，极限误差为土0.5%，均匀分布，估计其可靠性10%。",
+        "bbox": [
+          0.13870246085011187,
+          0.5146476642913698,
+          0.785234899328859,
+          0.5336500395882818
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "book_zh_CNASGL0072018_extracted_page_48",
+    "primary_id": "mineru_book_zh_CNASGL0072018_extracted_page_48_6",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_6",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "6.2.2读数不确定度分量u",
+        "bbox": [
+          0.10514541387024609,
+          0.5985748218527316,
+          0.34675615212527966,
+          0.6175771971496437
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "测量中采用600w量程，分120格，估读误差为1/10格，实际测时读数为38格，均 匀分布，估计其可靠性10%。",
+        "bbox": [
+          0.10738255033557047,
+          0.6286619160728424,
+          0.8926174496644296,
+          0.6745843230403801
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6.2.3稳压源波动引起的不确定度u",
+        "bbox": [
+          0.10738255033557047,
+          0.7553444180522565,
+          0.4272930648769575,
+          0.7743467933491687
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0072018_extracted_page_48_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "故",
+        "bbox": [
+          0.10738255033557047,
+          0.8408551068883611,
+          0.1297539149888143,
+          0.8582739509105305
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

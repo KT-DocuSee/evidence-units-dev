@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_CalculusReview_page_033",
+    "primary_id": "mineru_PPT_CalculusReview_page_033_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_CalculusReview_page_033_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Integral Calculus",
+        "bbox": [
+          0.27,
+          0.08266666666666667,
+          0.732,
+          0.17422222222222222
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_CalculusReview_page_033_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "x(n+1) axn∂x = a +C n+1 + ax∂x = a + C 2 ax2∂x = a  +C 3",
+        "bbox": [
+          0.21733333333333332,
+          0.23644444444444446,
+          0.7533333333333333,
+          0.9546666666666667
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

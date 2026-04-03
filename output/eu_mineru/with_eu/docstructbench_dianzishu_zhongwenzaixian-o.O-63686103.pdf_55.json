@@ -1,0 +1,260 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.12597028165890442,
+          0.10628480509148767,
+          0.49678420935905965,
+          0.28957836117740654
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_2",
+    "source": "visual_seed",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5686404967842094,
+          0.11137629276054097,
+          0.8285650920381459,
+          0.2889419252187749
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_1",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图3-11拖长字幕和照的时间到5秒",
+        "bbox": [
+          0.16855178531825238,
+          0.2997613365155131,
+          0.4550898203592814,
+          0.3156722354813047
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_3",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图3-12快捷式为照添加转场”交叉叠化",
+        "bbox": [
+          0.5180749611887336,
+          0.2997613365155131,
+          0.8738079396762032,
+          0.3156722354813047
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "⑦选中视频2轨，同样的法给字幕件的开头和结尾都添加转场”交叉叠化”，如 图3-13所示。",
+        "bbox": [
+          0.10290530051009093,
+          0.32330946698488466,
+          0.8986471501441561,
+          0.36213206046141605
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "触类旁通",
+        "bbox": [
+          0.5340430250609891,
+          0.3786793953858393,
+          0.6280771789753826,
+          0.3971360381861575
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "观察转场“交叉叠化”前的红标记， 这是其他转场特效都没有的。因为在制作过 程中，交叉叠化”是常常的个转场， 所以软件附加了快捷键Ctrl+D给它，以便 制作。在实际使时，如果想把其他转场设 为默认转场，可以快捷键实现，也可以右 击相应的转场，选择”设为默认转场”命令 即可。",
+        "bbox": [
+          0.5100909292526059,
+          0.41304693715194907,
+          0.8995342648037259,
+          0.573428798727128
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_6",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图3-13 快捷式为字幕添加转场”交叉叠化”",
+        "bbox": [
+          0.11266356176535818,
+          0.5651551312649165,
+          0.47283211355067645,
+          0.581066030230708
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "③拖动照“2.jpg”到视频1轨，与轨",
+        "bbox": [
+          0.5526724329119539,
+          0.5785202863961814,
+          0.8968729208250167,
+          0.596340493237868
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "道上的照“1.jpg”缝衔接，拖时间到15秒；选择“字幕新建字幕基于模板”命 令，在打开的”模板”窗中选择字幕设计器预设下的“常规孩孩（标题丫命 令，如图3-14和图3-15所示。",
+        "bbox": [
+          0.10113107119095142,
+          0.5988862370723946,
+          0.8995342648037259,
+          0.6587112171837709
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_12",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图3-14拖动照素材并放长",
+        "bbox": [
+          0.22000443557329785,
+          0.8630071599045346,
+          0.4417831004657352,
+          0.8789180588703261
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_14",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图3-15选择字幕模板",
+        "bbox": [
+          0.6254158349966733,
+          0.8630071599045346,
+          0.796628964293635,
+          0.8789180588703261
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "⑨更改模板字，并删除条纹底图，然后在具栏中选择矩形具；在字幕上绘制矩形 条，修改填充颜为，透明度为60%，如图3-16和图3-17所。",
+        "bbox": [
+          0.10201818585052118,
+          0.8878281622911695,
+          0.8986471501441561,
+          0.9266507557677008
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_5",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.12419605233976491,
+          0.371678599840891,
+          0.47283211355067645,
+          0.5536992840095465
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_13",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_13",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5633178088267908,
+          0.6669848846459825,
+          0.8560656464848082,
+          0.8502784407319014
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63686103.pdf_55_11",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14637391882900866,
+          0.6688941925218775,
+          0.5145265025504546,
+          0.8521877486077963
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

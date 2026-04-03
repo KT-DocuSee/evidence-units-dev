@@ -1,0 +1,418 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Solutions to the 73rd William Lowell Putnam Mathematical Competition Saturday, December 1, 2012",
+        "bbox": [
+          0.1973684289417211,
+          0.0682043649186808,
+          0.8082706789843439,
+          0.1031976738465409
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kiran Kedlaya and Lenny Ng",
+        "bbox": [
+          0.4022556383483791,
+          0.11627906967983222,
+          0.6071428619899669,
+          0.1294642855276651
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Al Without loss of generality, assume d, ≤ d2 ≤ ... ≤ d12. it2 < di+d? i+1 for some i ≤ 10, then di, di+1, di+2 are the side lengths of an acute triangle, since in this cased < di + diz and di <d+ di2 as well. Thus we may assume dizz ≥ di + dit for all i. But then by induction, df > Fidf for all i, where F; is the i-th Fibonacci number (with F1 = F2 = 1): i = 1 is clear, i = 2 follows from d2 ≥ di, and the induction step follows from the assumed inequality. Setting i = 12 now gives di2 = 144d}, contradicting di > 1 and d12 < 12.",
+        "bbox": [
+          0.10338346789848794,
+          0.16715116324397028,
+          0.4908275685471341,
+          0.31831395287997133
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. We may assume #S ≥ 3, as otherwise S is trivially an arithmetic progression. Let a1, a2 be the smallest and secondsmallest elements of S, respectively, and put d = a2 - a1. Let m be the smallest positive integer such that a, + md & S. Suppose that there exists an integer n contained in S but not in {a1, a1 + d,..., a1 + (m - 1)d}, and choose the least such n. By the hypothesis applied with (a,b,c) = (a1, az,n), we see that n - d also has the property, a contradiction.",
+        "bbox": [
+          0.5169172954630405,
+          0.16715116335198135,
+          0.9210526254376891,
+          0.2805232557188763
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We now return to the original problem. By dividing B, q,r by ged(q,r) if necessary, we may reduce to the case where gcd (q,r) = 1. We may assume #S ≥ 3, as otherwise S is trivially an arithmetic progression. Let a1, a2, a3 be any three distinct elements of S, labeled so that a1 < a2 < a3, and write ra; = bi + mig with bi, m; E Z and b; € B. Note that by, b2, b3 must also be distinct, so the differences b2 - b1, b3 - b1,b3 - b2 are all nonzero; consequently, two of them have the same sign. If bi - bj and bk - by have the same sign, then we must have",
+        "bbox": [
+          0.5581228602136111,
+          0.2978670637124882,
+          0.9191729340438677,
+          0.45547866720603886
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. A materially equivalent problem appeared on the 2012 USA Mathematical Olympiad and USA Junior Mathematical Olympiad.",
+        "bbox": [
+          0.1259398621327996,
+          0.32118055535553225,
+          0.49060149977068485,
+          0.3619186045851554
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A2 Write d for a * C = b*c ES. For some e ES, d*e=a, and thus for f = c*e, a *f= a *c*e=d *e= a and b*f=b*c*e=d *e= a. Let g E S satisfy g *a = b; then b = g *a = g*(a*f) = (g*a) *f=b*f=a, as desired.",
+        "bbox": [
+          0.10338346564284887,
+          0.37500000017401836,
+          0.49060151197743535,
+          0.44346959619657994
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. With slightly more work, one can show that § forms an abelian group with the operation *.",
+        "bbox": [
+          0.12781955244297033,
+          0.45203488360425104,
+          0.4906015045701836,
+          0.47966269844370085
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5902255655883336,
+          0.46947674456322147,
+          0.8421052564417415,
+          0.48412698392109416
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A3 We will prove that f(x) = V1 - 17 for all x € 1-1, 1]. Define g: (-1,1) → R by 8(x) = f(x)/ V1 - 82. Plugging f(x) = 8(x) V1 - x2 into equation (i) and simplifying yields",
+        "bbox": [
+          0.10150375984273986,
+          0.4898255810949822,
+          0.49060150980011713,
+          0.550872092982474
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_15",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "because both sides are of the same sign, of absolute value less than q, and congruent to each other modulo q. In other words, the points (a1, b1), (a2, b2), (a3, b3) in R? are collinear. It follows that as = a1 + a3 - a2 also belongs to S (by taking b4 = b1 + b3 - b2), so S satisfies the conditions of the lemma. It is therefore an arithmetic progression.",
+        "bbox": [
+          0.5561635860289639,
+          0.4970238096103185,
+          0.9193833699441397,
+          0.5974702380186299
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_8",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.22347624626518503,
+          0.573596888483392,
+          0.49060150291214843,
+          0.5944767437579993
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_16",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Reinterpretations. One can also interpret this argument geometrically using cross products (suggested by Noam Elkies), or directly in terms of congruences (suggested by Karl Mahlburg).",
+        "bbox": [
+          0.5563909820087638,
+          0.6031746031438218,
+          0.9191729340438677,
+          0.6614583331612476
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for all x € (-1,1). Now fix x € (-1,1) and define a sequence {anin=, by a1 = x and an+1 = 2-an. Then An E (-1,1) and thus lan+1| ≤ lan for all n. It follows that {lan|} is a decreasing sequence with lan| <x|\" for all n, and so limn-∞ An = 0. Since g(An) = g(x) for all n by (1) and g is continuous at 0, we conclude that 8(x) = 8(0) = f(0) = 1. This holds for all x € (-1,1) and thus for x = 1 as well by continuity. The result follows.",
+        "bbox": [
+          0.1257461451920814,
+          0.6090116277902974,
+          0.49076274456076324,
+          0.7456395346239151
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_17",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. The problem phrasing is somewhat confusing: to say that \"S is the intersection of [the interval] A with an arithmetic progression\" is the same thing as saying that \"S is the empty set or an arithmetic progression\" unless it is implied that arithmetic progressions are necessarily infinite. Under that interpretation, however, the problem becomes false; for instance, for",
+        "bbox": [
+          0.5545112848301682,
+          0.6656746030469227,
+          0.9210526404235507,
+          0.7659883722278713
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. As pointed out by Noam Elkies, condition (iji) is unnecessary. However, one can use it to derive a slightly different solution by running the recursion in the opposite direction.",
+        "bbox": [
+          0.12766619132703375,
+          0.7543604657633503,
+          0.4907245729034738,
+          0.8095930231898066
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_18",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.607142865464896,
+          0.7790178573168756,
+          0.8289473655501416,
+          0.7966269843010025
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "we have",
+        "bbox": [
+          0.5600307490730002,
+          0.8077568357690341,
+          0.6129015815235829,
+          0.8186966524028945
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A4 We begin with an easy lemma.",
+        "bbox": [
+          0.10338346895235653,
+          0.8226686508466557,
+          0.33082706118548794,
+          0.835813492116497
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_20",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.584586467712394,
+          0.8343023259295007,
+          0.8496240533026439,
+          0.8489583332193872
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Lemma. Let S be a finite set of integers with the following property: for all a, b, c ES with a ≤ b ≤ c, we also have a + c - b ES. Then S is an arithmetic progression.",
+        "bbox": [
+          0.08458647331701022,
+          0.8473837210543793,
+          0.48872179770928137,
+          0.8881448410576848
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_21",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2012_Solutions_2012s_page_001_21",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A5 The pairs (p,n) with the specified property are those pairs with n = 1, together with the single pair (2,2). We first check that these do work. For n = 1, it is clear that taking v = (1) and M = (0) has the desired effect.",
+        "bbox": [
+          0.5338345987142613,
+          0.8662790696507627,
+          0.9191729396638392,
+          0.9244186047153375
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

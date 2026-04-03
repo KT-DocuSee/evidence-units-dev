@@ -1,0 +1,591 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_0",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Solutions to the 71st William Lowell Putnam Mathematical Competition Saturday, December 4, 2010",
+        "bbox": [
+          0.20112783008895613,
+          0.0668604658627613,
+          0.8045112775426226,
+          0.10319767402095946
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kiran Kedlaya and Lenny Ng",
+        "bbox": [
+          0.4003759429718004,
+          0.11627907003802782,
+          0.607142857466796,
+          0.13081395312088695
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-1 The largest such k is |\"7 J = [4]. For n even, this value is achieved by the partition",
+        "bbox": [
+          0.09398496011467784,
+          0.1671511624418814,
+          0.49060151266101126,
+          0.19476744184996422
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since 10\" > n ≥ 2\" ≥m + 1, 10\" is divisible by 2\" and hence by 2m+1, and similarly 1010\" is divisible by 210\" and hence by 2m+1. It follows that",
+        "bbox": [
+          0.5543462424331795,
+          0.1671511630266767,
+          0.9194250522178594,
+          0.2108134918453002
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_3",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.21804511183144965,
+          0.20930232603466803,
+          0.35902255264223476,
+          0.2224702380864591
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5582706834138389,
+          0.2209302332563829,
+          0.8796992492459353,
+          0.23983134957455585
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for n odd, it is achieved by the partition",
+        "bbox": [
+          0.12781955351378035,
+          0.23685515881150154,
+          0.38721804695614437,
+          0.24854651148922524
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since N> 1010\" > 10\" + 1 ≥ 102 + 1, it follows that N is composite.",
+        "bbox": [
+          0.5544670984331411,
+          0.2485119045497481,
+          0.919172938756884,
+          0.2806921582107729
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_5",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.18796993100186754,
+          0.2630813956388029,
+          0.3872180429079069,
+          0.27761627872166217
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "One way to see that this is optimal is to note that the common sum can never be less than n, since n itself belongs to one of the boxes. This implies that k ≤ (1 + ...+ n) /n = (n + 1)/2. Another argument is that if k > (n + 1)/2, then there would have to be two boxes with one number each (by the pigeonhole principle), but such boxes could not have the same sum.",
+        "bbox": [
+          0.12593984229104832,
+          0.2875628212400565,
+          0.4907111471405099,
+          0.3881171341001161
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_20",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_20",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-5 We start with three lemmas.",
+        "bbox": [
+          0.5225563945758104,
+          0.29067460310506227,
+          0.7424812038076481,
+          0.3038194443749034
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Lemma 1. If x, y € G are nonzero orthogonal vectors, then *** is parallel to y.",
+        "bbox": [
+          0.5131578971644676,
+          0.31540697699054715,
+          0.9191729401572599,
+          0.34449404757321006
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. Put z = xx y # 0, so that x, y, and Z = X*y are nonzero and mutually orthogonal. Then w = xx z # 0, so w = x*z is nonzero and orthogonal to x and z. However, if (x**) xy #0, then w = x*(x*y) = (x**) *y = (x**) x y is also orthogonal to y, a contradiction.",
+        "bbox": [
+          0.5169172954630405,
+          0.3573878061595335,
+          0.9210526271215861,
+          0.43030753985633696
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. A much subtler question would be to find the smallest k (as a function of n) for which no such arrangement exists.",
+        "bbox": [
+          0.12781954970176249,
+          0.39680232570554236,
+          0.4906015101854555,
+          0.4374999998058117
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Lemma 2. If x € G is nonzero, and there exists y € G nonzero and orthogonal to x, then x** = 0.",
+        "bbox": [
+          0.5169172944574015,
+          0.4418604649995998,
+          0.9191729391516208,
+          0.4694940475348716
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-2 The only such functions are those of the form f(x) = cx + d for some real numbers c,d (for which the property is obviously satisfied). To see this, suppose that f has the desired property. Then for any XE R,",
+        "bbox": [
+          0.0957894317810726,
+          0.4485120769413133,
+          0.4906754143483664,
+          0.5058139535868827
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. Lemma 1 implies that x ** is parallel to both y and xx y, so it must be zero.",
+        "bbox": [
+          0.5169172953107689,
+          0.485367063354714,
+          0.9191729337384166,
+          0.5131448410936005
+        ],
+        "order": 17
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.12030074769048435,
+          0.5188492059032908,
+          0.454887215150376,
+          0.5726744183582899
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_25",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Lemma 3. If x, y € G commute, then * xy = 0.",
+        "bbox": [
+          0.516917304061387,
+          0.5247093026446169,
+          0.8308270673045273,
+          0.539244185727476
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. If xx y # 0, then y x x is nonzero and distinct from xx y. Consequently, x*y=*xyandy**=yxx#x*y.",
+        "bbox": [
+          0.5169172856729406,
+          0.5537790703287255,
+          0.9191729328734255,
+          0.5828488366480188
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_10",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consequently, f' (x + 1) = f(x).",
+        "bbox": [
+          0.12781955383207205,
+          0.5857558142434542,
+          0.34398496176943166,
+          0.6002906973263133
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_27",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We proceed now to the proof. Assume by way of contradiction that there exist a, b € G with a x b # 0. Put c = ax b = a*b, so that a,b, e are nonzero and linSay independents Vete be the id in element bad. exa=exb= exc=0. Since a, b, e span R3, ex* =0 for all * E R', so e = 0.",
+        "bbox": [
+          0.5562463351214004,
+          0.5988372092038149,
+          0.9229323288960062,
+          0.7006448414276921
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_11",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Define the function g : R → R by g(x) = f(x+ 1) f(x), and put c = g(0), d = f(0). For all x E R, 8' (x) = f(x + 1) - f(x) = 0, so g(x) = c identically, and f(x) = f(x+1) - f(x) = g(x) =c, so f(x) = cx+d identically as desired.",
+        "bbox": [
+          0.12593986446362662,
+          0.6046511626558496,
+          0.4906015054724391,
+          0.6758720930490922
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-3 If a = b = 0, then the desired result holds trivially, so we assume that at least one of a,b is nonzero. Pick any point (ao, bo) € R', and let L be the line given by the parametric equation L(t) = (ao, bo) + (a,b)t fort € R. By the chain rule and the given equation, we have a(hoL) = hoL. If we write f = hoL: R → R, then f'(t) = f(t) for all t. It follows that f(t) =Ce' for some constant C. Since |f(t)| ≤ M for all t, we must have C = 0. It follows that hao, bo) = 0; since (ao, bo) was an arbitrary point, h is identically 0 over all of R?.",
+        "bbox": [
+          0.09586466560150368,
+          0.6874999998833208,
+          0.49060150770676686,
+          0.8327261329988873
+        ],
+        "order": 24
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_28",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Since b,c, and b x c = b *c are nonzero and mutually orthogonal, Lemma 2 implies",
+        "bbox": [
+          0.5563909794172932,
+          0.7048611111924539,
+          0.919172935547627,
+          0.7326388886621973
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_29",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.588345866248743,
+          0.745535714210707,
+          0.8477443596911068,
+          0.758720929585487
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hence b *C = c*b, contradicting Lemma 3 because b x c # 0. The desired result follows.",
+        "bbox": [
+          0.5563909852581291,
+          0.773255813836809,
+          0.9172932282782199,
+          0.8023313489792574
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_31",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-6 First solution. Note that the hypotheses on f imply that f(x) > 0 for all x € (0, to), so the integrand is a continuous function of f and the integral makes sense. Rewrite the integral as",
+        "bbox": [
+          0.5225563893471341,
+          0.8125000002318263,
+          0.9210526185062982,
+          0.8692956348269588
+        ],
+        "order": 28
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_13",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A-4 Put",
+        "bbox": [
+          0.09586466128336368,
+          0.8430059523635052,
+          0.15413533727553363,
+          0.8531976744121588
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.1898496258083561,
+          0.8648255810171167,
+          0.38909773882676474,
+          0.8822674416383288
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_32",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_32",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6372180474248975,
+          0.8808139538399359,
+          0.8007518807434189,
+          0.9113372085977716
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0016",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_15",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Write n = 2'k with m a nonnegative integer and k a positive odd integer. For any nonnegative integer j,",
+        "bbox": [
+          0.12969925510086897,
+          0.8968023254828846,
+          0.4906015054724391,
+          0.9258720930490919
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_001_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.17669173207236835,
+          0.9360119047340671,
+          0.40037594259868414,
+          0.9549418602392566
+        ],
+        "order": 33
+      }
+    ]
+  }
+]

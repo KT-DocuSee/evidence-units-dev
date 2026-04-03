@@ -1,0 +1,130 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 Mean concentrations (N = 5)",
+        "bbox": [
+          0.08464328899637243,
+          0.07464724624487938,
+          0.3135832325675131,
+          0.08739189804278562
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.08464328899637243,
+          0.0879987862236383,
+          0.9173720274083031,
+          0.6050675163101199
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "MaxiMax)iniumMin)tandareiation(SfVA iSttiondunit of−).asspositio(%),h enti compound recoveries (CR, %) are also reported",
+        "bbox": [
+          0.08383716243450222,
+          0.6074950690335306,
+          0.9125352680370818,
+          0.6457290244272493
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1996). These values are rather high in comparison to reported ambient ratios for various cities around the world, which range from 0.25 to 0.50 (Martins et al. 2006a, b) and also the ratios determined in several tunnels in Taiwan (Hsieh et al.1999; Hwa et al. 2002; Hsu et al. 2001) and Europe(Kristensson et al. 2004; Stemmler et al. 2005; Colberg et al. 2005). The benzene/toluene ratio determined in this work may be considered a characteristic value for the fuels used in Brazil and for the on-road tunnel emis- sions in Brazil. It worth noting that emission ratios depend on the fuel formulation, driving conditions, vehicle main- tenance and traffic congestion. Emission factors of indi- vidual VACs were not calculated since data for CO, used as reference, and currently obtained by the tunnel control system are subject to a great uncertainty.",
+        "bbox": [
+          0.5135026199113261,
+          0.6693976634805037,
+          0.9149536477226925,
+          0.9036565012896374
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_3",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As previously noted (Bowmand and Seinfeld 1995) exhaust compositions difer from fuel composition in several aspects, mainly the generation of light olefins and carbonyls, depletion of paraffins and ethers and enrich- ment of benzene. Emissions are composed of unburned fuel, products of partial combustion and evaporative looses. Since 2002, the volume percentage of benzene and total aromatics in gasohol should be in the range 1.0–1.9% and 45–57%, respectively, according to the Brazilian legislation (ANP 2005). Results obtained in this work show that benzene account for 15% (in mass) of total VACs.",
+        "bbox": [
+          0.08464328899637243,
+          0.6700045516613564,
+          0.4860943168077388,
+          0.8557123350022758
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-s00128-007-9171-1.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The benzene/tolune mass ratio is 0.62–0.66, quite sim- ilar to the value determined in Sao Paulo and to data for Mc Henry and Tuscarola Mountain Tunnels (Pierson et al.",
+        "bbox": [
+          0.08383716243450222,
+          0.8587467759065393,
+          0.4852881902458686,
+          0.9036565012896374
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

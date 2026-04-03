@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_0",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "福 oj 家",
+        "bbox": [
+          0.1286200292526593,
+          0.08965314199177335,
+          0.8712969723567244,
+          0.43944736812361035
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "伴随奋进的脚步和激越的鼓点， 临沧走过满载收获的“十二五”，开 启了新的征程。“十三五”时期是临 沧闯出一条跨越式发展路子，与全国 全省同步全面建成小康社会的决胜阶 段。2015年1月习近平总书记考察云 南时提出的“三个定位”和省委、省 政府主要领导到临沧调研时对临沧经 济社会发展做出的重要指示，为临沧 经济社会跨越式发展指明了方向。 站在新的历史起点上，中共临沧市委 三届八次全体会议，认真学习贯彻 党的十八届五中全会、省委九届十二 次全会精神，审议通过了《中共临沧 市委关于制定国民经济和社会发展 第十三个五年规划的建议》，明确了 “十三五”时期临沧经济社会发展的 指导思想和目标要求。中国共产党临 沧市第四次代表大会批准孙青友同志 代表三届市委所做的报告。大会充分 肯定了三届市委的工作，认为市第三 次党代会以来的五年，是抢抓机遇、 重点突破、不断夯实发展基础的五 年，是直面矛盾、迎难而上、不断赢 得发展主动权的五年，是找准定位、 发挥优势、不断开创发展新局面的五 年。",
+        "bbox": [
+          0.12447099605096064,
+          0.4952968664135675,
+          0.4875114011995958,
+          0.9053497617529899
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5144801170106372,
+          0.4952968664135675,
+          0.8754460055584231,
+          0.8201057906788447
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63678132.pdf_161_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "中国共产党成立95年来，党的 光辉照边疆，临沧人民心向党。临沧 各族人民的命运始终与党的命运休戚",
+        "bbox": [
+          0.5144801170106372,
+          0.8289241325141011,
+          0.8754460055584231,
+          0.9053497617529899
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

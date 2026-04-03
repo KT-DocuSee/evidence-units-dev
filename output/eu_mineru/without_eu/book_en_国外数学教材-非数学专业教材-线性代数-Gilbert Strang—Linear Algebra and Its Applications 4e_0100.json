@@ -1,0 +1,119 @@
+[
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_0",
+    "text": "There must be infinitely many solutions, since any multiple cx will also satisfy A(cx) = 0. The nullspace contains the line through x. And if there are additional free variables, the nullspace becomes more than just a line in n-dimensional space. The nullspace has the same \"dimension'\" as the number of free variables and special solutions.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11769447803305119,
+      0.08322645004987887,
+      0.8875453446191052,
+      0.16303263502921475
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_1",
+    "text": "This central idea—the dimension of a subspace—is made precise in the next section. We count the free variables for the nullspace. We count the pivot variables for the column space!",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11930673115679162,
+      0.16474276756448625,
+      0.8859330914953648,
+      0.2228872737637167
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_2",
+    "text": "Solving Ax = b, Ux = c, and Rx = d",
+    "canon_role": "section_header",
+    "bbox": [
+      0.12011285771866183,
+      0.24739917343594128,
+      0.46110439338976217,
+      0.2667806755023514
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_3",
+    "text": "The case b ≠ 0 is quite different from b = 0. The row operations on A must act also on the right-hand side (on b). We begin with letters (b1, b2, b3) to find the solvability condition—for b to lie in the column space. Then we choose b = (1, 5, 5) and find all solutions x.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1185006045949214,
+      0.2827419124982186,
+      0.8859330914953648,
+      0.3619780532991307
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_4",
+    "text": "For the original example Ax = b = (b1, b2, b3), apply to both sides the operations that led from A to U. The result is an upper triangular system Ux = c:",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12011285771866183,
+      0.364258230012826,
+      0.8835147118097542,
+      0.4030212341456463
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_5",
+    "text": "The vector c on the right-hand side, which appeared after the forward elimination steps, is just L−1b as in the previous chapter. Start now with Ux = c.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12333736396614269,
+      0.5050591420835114,
+      0.8827085852478839,
+      0.543252102037908
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_6",
+    "text": "It is not clear that these equations have a solution. The third equation is very much in doubt, because its left-hand side is zero. The equations are inconsistent unless b3 — 2b2 + 5b1 = 0. Even though there are more unknowns than equations, there may be no solution. We know another way of answering the same question: Ax = b can be solved if and only if b lies in the column space of A. This subspace comes from the four columns of A (not of U !):",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11688835147118097,
+      0.5455322787516033,
+      0.8875453446191052,
+      0.6635314236853356
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_7",
+    "text": "Even though there are four vectors, their combinations only fill out a plane in three- dimensional space. Column 2 is three times column 1. The fourth column equals the third minus the first. These dependent columns, the second and fourth, are exactly the ones without pivots.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11688835147118097,
+      0.745047741199943,
+      0.886739218057235,
+      0.8231437936440074
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100_8",
+    "text": "The column space C(A) can be described in two different ways. On the one hand, it is the plane generated by columns 1 and 3. The other columns lie in that plane, and contribute nothing new. Equivalently, it is the plane of all vectors b that satisfy b3 — 2b2 + 5b1 = 0; this is the constraint if the system is to be solvable. Every column",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11769447803305119,
+      0.8248539261792789,
+      0.8859330914953648,
+      0.9046601111586148
+    ],
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0100",
+    "order": 9
+  }
+]

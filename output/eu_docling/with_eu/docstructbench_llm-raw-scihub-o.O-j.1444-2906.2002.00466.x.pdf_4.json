@@ -1,0 +1,416 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Fish proximate composition",
+        "bbox": [
+          0.10076045595633303,
+          0.08854166701283944,
+          0.325095053853553,
+          0.10466269875887112
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_29",
+    "source": "visual_seed",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "not show any significant differences (P>0.05) among the treatments. Fish fed the control diet and diet 1 showed significantly higher (P<0.05) whole body crude protein. The whole body total P contents were identical to those at the beginning of the experiment and ranged from 0.49% to 0.53% among the treatments.",
+        "bbox": [
+          0.5228136809249148,
+          0.08854166711216108,
+          0.9125475280104464,
+          0.1933139531402668
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Table 3 shows the proximate composition of whole body of the fish after the 12-week feeding experiment. Fish from all groups showed lower moisture content and higher crude protein and crude lipid compared with at the beginning of the experiment. Conversely, crude lipid and crude ash contents did",
+        "bbox": [
+          0.10076045340867631,
+          0.11918604675798902,
+          0.4885931499329798,
+          0.20784883683809383
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Table 4 shows the absorption rates of P and N in carp fed the different diets. The P absorption rate (% of dietary P) was inversely proportional to the total dietary P content. The highest P absorption rate as a percentage of total P was observed for the diet lowest in FM (diet 5), followed by diet groups 3 and 4. The available P calculated from the absorption rates was approximately similar to the estimated dietary available P (water-extractable P), and all diets met the level required by carp (0.6-0.7%). The determined available P was slightly lower (0.76%) than that of the estimated value (0.82%) for the control group. Nitrogen absorption was significantly higher (P<0.05) in the control group and lowest for diet 2. There were no significant differences (P>0.05) in these values among the experimental groups.",
+        "bbox": [
+          0.5227025567852414,
+          0.25145348812623214,
+          0.9107900003475385,
+          0.5029761904815253
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The retention rates of P and N determined at the end of the 12-week feeding period are shown in Table 4. The P retention rate (% of total P) was significantly lower (P<0.05) for the fish fed the control diet (27.6%), whereas the values obtained among the experimental groups were similar, albeit being the highest for diet 5. The amount of P retained from the absorbed P was also calculated and the values were proportional to the dietary FM",
+        "bbox": [
+          0.52281368203844,
+          0.562499999786753,
+          0.9125475346915979,
+          0.6947674413610757
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Feeding period (weeks)",
+        "bbox": [
+          0.23003803077932297,
+          0.6395348833842265,
+          0.40874524275679863,
+          0.6555232560053086
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_5",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 1 Growth of carp and changes of water temperature during the feeding trial.",
+        "bbox": [
+          0.0988593160960174,
+          0.6656746029514453,
+          0.4885931631815491,
+          0.694767441468755
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_27",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 2 Growth performance of carp fed the experimental diets for 12 weeks",
+        "bbox": [
+          0.10076046606930197,
+          0.7281746033995811,
+          0.6387832678524796,
+          0.7428075399075177
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_29",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Diet group | Diet group | Diet group | Diet group | Diet group | Diet group | Control | 1 | 2 | 3 | 5 | Initial bodyweight (g) (Mean ‡SD, n=30) | 3.9 $ 0.39 | 3.9$0.38 | 3.9$0.35 | 3.9 $ 0.36 | 3.9÷0.37 | 3.9$0.37 | Final body weight (g) (Mean #SD, n=30) | 90.2 ÷26.9° | 102.4 $29.9₫ | 88.7 ÷20.0° | 84.2 $24.5b | 84.6 $26.6b | 80.2 ÷26.6ª | Percent bodyweight gain | 2219C | 2539d | 2187° | 2065b | 2074b | 1961ª | Daily feed consumption (%) | 2.70a | 2.49ª | 2.57a | 2.68ª | 2.67ª | 2.71ª | Feed/gain ratio | 1.08a | 1.009 | 1.01a | 1.06ª | 1.05ª | 1.09a | Protein efficiency ratio | 2.78ab | 3.00' | 2.8gab | 2.75ª | 2.76ab | 2.69a | Net protein utilization rate | 53.0ab | 56.2b | 51.0ab | 49.0ab | 49.42b | 47.6ª",
+        "bbox": [
+          0.10127961700494839,
+          0.7439141405708468,
+          0.910465967417196,
+          0.9123494541358595
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Values within a row not sharing same superscripts are significantly different (P<0.05).",
+        "bbox": [
+          0.1121673110555013,
+          0.9171511632914193,
+          0.6444866945528633,
+          0.9317956347172781
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_23",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_23",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Phosphorus and nitrogen absorption",
+        "bbox": [
+          0.5266159774767937,
+          0.2223837214915162,
+          0.8193916344370209,
+          0.23691860457437527
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Control",
+        "bbox": [
+          0.41825095281701025,
+          0.30959302335915917,
+          0.4733840292742444,
+          0.3197674416117712
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Average bodyweight (g)",
+        "bbox": [
+          0.10266158931180304,
+          0.35319767075637154,
+          0.12167301125853916,
+          0.49127906997764037
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_30",
+    "source": "visual_seed",
+    "member_count": 13,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_30",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10393178470193871,
+          0.24578265121375348,
+          0.480085295615453,
+          0.654444611667485
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1",
+        "bbox": [
+          0.43916349829324686,
+          0.27761627893491947,
+          0.4505703422961068,
+          0.29069767437176663
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "100 -",
+        "bbox": [
+          0.1273215684952135,
+          0.2877029291432663,
+          0.17115751808334506,
+          0.30386683838931755
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "80 -",
+        "bbox": [
+          0.13688212949768197,
+          0.35317460325041117,
+          0.1692015204262724,
+          0.36631944452025217
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "60 -",
+        "bbox": [
+          0.13688212939990904,
+          0.41567460319227134,
+          0.1692015203284995,
+          0.4288194444621128
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "40 -",
+        "bbox": [
+          0.13688212954164583,
+          0.47817460307871773,
+          0.1692015204702363,
+          0.49131944434855884
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Г 30°С",
+        "bbox": [
+          0.42205323103969533,
+          0.49127906986251896,
+          0.47338403029110315,
+          0.5029761904722566
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Г 25°C",
+        "bbox": [
+          0.42205323103969533,
+          0.5275297620768477,
+          0.47338403029110315,
+          0.5392441860095741
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20 -",
+        "bbox": [
+          0.13688212949319506,
+          0.5391865082818802,
+          0.1730038025817642,
+          0.555307540027912
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "- 15°С",
+        "bbox": [
+          0.42965779453522535,
+          0.5944767443610656,
+          0.4733840294666758,
+          0.6061507937158004
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.24144486687689706,
+          0.6148255811878263,
+          0.252851710879757,
+          0.6279069766246734
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8",
+        "bbox": [
+          0.32509505719564435,
+          0.6148255815690356,
+          0.34030418211994495,
+          0.6293604646518947
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12",
+        "bbox": [
+          0.4068441065756498,
+          0.6148255816417101,
+          0.43155893566135894,
+          0.6293604647245692
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_25",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_25",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Phosphorus and nitrogen retention",
+        "bbox": [
+          0.5266159755033812,
+          0.5334302324414603,
+          0.8060836498578353,
+          0.5466269841533208
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Water temperature - 20°C",
+        "bbox": [
+          0.28269741065492615,
+          0.5559553455944625,
+          0.475839456902136,
+          0.5766795352543683
+        ],
+        "order": 21
+      }
+    ]
+  }
+]

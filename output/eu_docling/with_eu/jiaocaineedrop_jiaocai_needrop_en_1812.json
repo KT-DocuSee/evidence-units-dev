@@ -1,0 +1,163 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1812",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07619531747510429,
+          0.23782015269137494,
+          0.5724795905359384,
+          0.4923132257288591
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1812",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5591133960379134,
+          0.31549321966601646,
+          0.8615323205847608,
+          0.5783060203368832
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1812",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.12271008207047401,
+          0.5599033672665805,
+          0.4368305600611895,
+          0.8698588370874631
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1812",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "26.3 cm, 01/5.5 cm, MK21.2m ARR",
+        "bbox": [
+          0.5569105740174002,
+          0.5915178571142982,
+          0.8495934918712172,
+          0.6206395350125126
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1812",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_8",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5100980557004023,
+          0.6757757411330926,
+          0.8550102472727776,
+          0.8616829063257855
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1812",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "A FLAM [] 511.2 cm, 01Z14.3 cm FOR 204",
+        "bbox": [
+          0.5081300814655086,
+          0.8866279071140939,
+          0.8191056886933199,
+          0.9171626982801836
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1812",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1812_1",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "A ИлядИ [A] 9148cm, 01723 cm, 47429 cm, REK1211.1 cm, 5/50.12 cm AtRin",
+        "bbox": [
+          0.09349593677019145,
+          0.8880813958495589,
+          0.44918699884972707,
+          0.9186507935956768
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

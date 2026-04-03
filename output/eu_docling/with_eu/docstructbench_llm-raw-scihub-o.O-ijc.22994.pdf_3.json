@@ -1,0 +1,182 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE II - ODDS RATIO OF HODGKIN LYMPHOMA AND NON-HODGKIN LYMPHOMA FOR INDICATORS OF EXPOSURE TO MEAT",
+        "bbox": [
+          0.16153845191276237,
+          0.09593023305886123,
+          0.8365384679430068,
+          0.1104651161417203
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_9",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Controls | Hodgkin lymphoma | Hodgkin lymphoma | Hodgkin lymphoma | Non-Hodgkin lymphoma | Non-Hodgkin lymphoma | Non-Hodgkin lymphoma | Cases | OR | 95% CI | Cases | OR | 95% CI | Neer Exposed (reference group) | 2,273 | 1,823 | 1.00 | 189 | 0.65-1.71 | 184 | 1.18 | 0.95-1.46 | sOON | 1.14 | 057-2.20 | 49 | 1.25 | 0.84-1.86 | 62 | 0.98 | 52 | 1.04 | 0.71-1.51 | 73 | 1.02 | 0.36-2.90 0.90 | 82 | 1.27 | 0.15-1.76 | 62 | 14 | 1.54 | 0.79-2.99 | 57 | 1.10 | 35 | 0.60 | 0.17-2.13 | 40 | 1.39 | 0.38-2.50 | 90 | 0.84 | 0.37-1.91 0.75 | 86 | 1.17 | 0.83-1.59 | valse or expos linear trend | 84 | 5= | 1.05 | 0.52-2.12 | 85 | 1.24 | 0.91-1.70 | Medium | 70 | 0.56-2.49 | 66 | 1.11 | 0.79-1.57 | High | 35 | 3 | 0.80 | 0.23-2.74 | 32 | 1.14 | 0.70-1.85",
+        "bbox": [
+          0.09719035429113052,
+          0.11002915445963542,
+          0.9031237074908088,
+          0.3130957302517361
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OR, odds ratio, adjusted for age, sex, center, and cumulative exposure to pesticides; CL, confidence interval.",
+        "bbox": [
+          0.10769232145025875,
+          0.3196924601911119,
+          0.7134615183093567,
+          0.33432539669904854
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OR, odds ratio adjusted for age, sex, center, cumulative exposure to pesticides and other types of meat; CI, confidence interval.",
+        "bbox": [
+          0.11153847502205276,
+          0.7586805557690237,
+          0.8192307321574354,
+          0.7703488371917446
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sponding OR of non-Hodgkin lymphoma was 1.18 (95% C1 0.951.46): also for this group of lymphoma, no trend was apparent for any indicator of exposure.",
+        "bbox": [
+          0.09807691530536602,
+          0.7950581397240163,
+          0.49230769579546574,
+          0.8284883719735108
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "When the analysis on non-Hodgkin lymphoma was repeated for specific types of meat (Table III), the OR for ever exposure to beef meat was 1.22 (95% CI 0.95-1.67), and the OR for ever exposure to chicken meat was 1.19 (95% CI 0.91-1.55). The remaining meat types, namely pork meat and mutton meat, showed either no effect or small nonsignificant increases in lymphoma risk. Exposure for more than 15 years to beef meat resulted in an OR of 1.63 (95% CI 0.93-2.88). An increase in risk was also observed difference among meat types.",
+        "bbox": [
+          0.09615385416446998,
+          0.829861111181342,
+          0.4923076941528375,
+          0.9244186046336049
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In the analyses stratified by lymphoma type, whose results are reported in Table IV, an increased risk among workers exposed to small lymphocytic lymphoma (OR = 1.35, 95% CI 0.78-2.34), and multiple myeloma (OR = 1.40, 95%CI 0.67-2.94). Stronger increases in risk were observed for each of these 3 subtypes after 16 years or more of exposure (OR 2.00, 95% CI 0.87-4.61; OR",
+        "bbox": [
+          0.5057692342062667,
+          0.831349206181455,
+          0.9038732425127437,
+          0.9244186045316501
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_4",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE III - ODDS RATIO OF ALL NON-HODGKIN LYMPHOMA FOR EXPOSURE TO SPECIFIC TYPES OF MEAT-ALL NHL",
+        "bbox": [
+          0.1826923187296866,
+          0.3662790702681636,
+          0.8153845918953138,
+          0.3808139533510227
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_10",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Beef meat | Beef meat | Beef meat | Beef meat | Chicken meat | Chicken meat | Chicken meat | Chicken meat | Pork meat | Pork meat | Pork meat | Pork meat | Cases | Controls | OR | 95% CI | Cases | Controls OR | 95% CI | Cases | Controls | OR | 95% CI | Never Exposed (Ref group) | 1,823 | 2,273 | 1.22 | 1,823 | 2-223 1.09 0.91-1.55 | 1,823 | 2,273 | 1.00 | Ever Exposed | 117 | 108 | 0.90-1.67 | 1,36 | 145 | 143 | 1.09 | 0.83-1.42 | Duration of exposure | 40 | 37 1.45 | 0.92-2.31 | 30 | 40 0.97 0.60-1.58 | 39 | 41 1.25 0.80-1.96 | 5 years | 29 | 43 | 0.79 | 0.47-1.31 | 42 | 41 | 1.21 | 0.78-1.88 | 44 | 58 | 0.84 | 0.55-1.28 | ≥16 years | 48 | 28 | 1.63 | 0.93-2.88 | 64 | 48 | 1.36 | 0.90-2.06 | 61 | 43 | 1.28 0.81-2.03 | p-value of test for linear trend (with ref cat) | 0.23 | 0.11 | 0.54 | Intensity of exposure | 60 | 59 | 1.26 | 0.86-1.83 | 71 | 68 1.24 0.88-1.75 | 70 | 72 | 1.15 0.82-1.62 | Medium | 42 | 35 | 1.22 | 0.73-2.04 | 47 | 46 | 1.11 | 0.72-1.71 | 55 | 52 | 0.68-1.58 | High | 15 | 14 | 0.91 | 0.35-2.40 | 18 | 15 | 1.22 | 0.56-2.65 | 20 | 19 | 0.89 | 0.40-1.94 | \" and with ver linear | 0.36 | 0.29 | 0.78",
+        "bbox": [
+          0.09764430326573989,
+          0.3781991644965278,
+          0.903235294117647,
+          0.5652763671875
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_11",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-ijc.22994.pdf_3_11",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Mutton meat | Mutton meat | Mutton meat | Mutton meat | Other meat | Other meat | Other meat | Other meat | Cases | Controls | OR | 95% CI | Cases | Controls | OR | 95% CI | Neer Eppssed (Ret group | 1,823 | 2,273 | 1,823 | 2,273 | 63 | 71 | 0.66-1.47 | 52 | 47 | 0.67-1.70 | Duration of exposure | 21 | 20 | 1.35 | 0.71-2.56 | 13 | 15 | 0.92 | 0.41-2.06 | years. | 24 | 0.87 | 0.46-1.62 | 10 | 1.16 | 0.48-2.81 | ≥16 years | 0.80 | 0.41-1.57 | 21 | 1.19 | 0.62-2.28 | p-value of test for linear trend (with ref cat) | 0.60 | 0.58 | Intensity of exposure | Low | 31 | 41 | 0.90 | 0.55-1.47 | 24 | 30 | 0.82 | 0.47-1.45 | Medium | 22 | 21 | 1.11 | 0.57-2.14 | 1.97 | 0.80-4.90 | High | 10 | 9 | 1.29 | 0.42-4.00 | 1.09 | 0.34-3.51 | p-value of test for linear trend (with ref cat) | 0.80 | 0.57",
+        "bbox": [
+          0.09739339491900276,
+          0.56686474609375,
+          0.9030171472886029,
+          0.7525796983506945
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

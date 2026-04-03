@@ -1,0 +1,74 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "24.94 | 33.53 | 24.71 | 21. 05 | 20. 18 | 14.54 | 21. 38 | 22. 15 | 10. 50 | 7. 90 | 11. 02 | 11. 44 | 6.25 | 3. 22 | 6.80 | 7.37 | 1. 60 | 0.84 | 1. 79 | 1.86 | 0.49 | 0. 35 | 0.56 | 0.51 | 0. 17 | 0. 12 | 0.22 | 0. 17 | 0.12 | 0.07 | 0. 15 | 0. 12",
+        "bbox": [
+          0.11766460930710115,
+          0.11183669476388815,
+          0.8817025753145783,
+          0.3428681607223974
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_5",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FE TAHAMAS1.021 (171-3).",
+        "bbox": [
+          0.1170431325405245,
+          0.49702380968166054,
+          0.4517453768537257,
+          0.5131448414276922
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "(JA) | 7046.89 | 2177. 24 | 3. 24 | 941.16 | 281. 03 | 3. 35 | 742.72 | 242. 32 | 3. 06 | 291.13 | 103. 98 | 2.80 | 895.26 | 247.32 | 3. 62 | TS A Mi | 694. 63 | 204. 78 | 3. 39 | 983. 71 | 288. 12 | 3.41 | 417. 19 | 160. 28 | 2.60 | 332. 79 | 106. 03 | 3. 14 | 704.59 | 215.72 | 3.27 | 429.09 | 129. 70 | 3.31 | IT SK Ti | 419.85 | 136. 44 | 3. 08",
+        "bbox": [
+          0.11913379821408328,
+          0.5458738564323696,
+          0.8809659466633918,
+          0.8869555841505451
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-61570078.pdf_315_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#*: 2015 470A 1% 10H14H.",
+        "bbox": [
+          0.11909652157743225,
+          0.8908730159958869,
+          0.498973299044451,
+          0.9069940477419186
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

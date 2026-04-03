@@ -1,0 +1,676 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027",
+    "primary_id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_48",
+    "source": "visual_seed",
+    "member_count": 11,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "_SPORTS",
+        "bbox": [
+          0.03940110298268453,
+          0.047676064383299015,
+          0.41348643127196605,
+          0.08168440082894096
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4 LEAFS VS. FLYERS H",
+        "bbox": [
+          0.4346504565807052,
+          0.10755813976707589,
+          0.5623100254861643,
+          0.11483134924051934
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_48",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05866482734680176,
+          0.1266020362056903,
+          0.9389754486083984,
+          0.42847157037080225
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "in Me",
+        "bbox": [
+          0.8662613972179714,
+          0.20486111093409085,
+          0.9422492398134371,
+          0.22395833315631303
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "InO",
+        "bbox": [
+          0.054711247018457095,
+          0.21802325620566337,
+          0.11550151792581852,
+          0.23255813928852256
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EMILEE CHINN/UEIIT IMAUtS",
+        "bbox": [
+          0.4316109414827746,
+          0.5232558139732202,
+          0.5714285724922339,
+          0.5261627906844025
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "GEMMA KARSTENS-SMITH",
+        "bbox": [
+          0.03039513819334521,
+          0.5872093024124249,
+          0.1702127692028046,
+          0.5944940475133697
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MARIE-PHILIP FOULIN MONTREAL VICTOIRE FORWARD",
+        "bbox": [
+          0.4255319179235183,
+          0.6497093024603463,
+          0.5714285681011858,
+          0.6584821429609701
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "· PWHL, B12",
+        "bbox": [
+          0.7872340429568552,
+          0.718005952292832,
+          0.8571428584615848,
+          0.7252906973937767
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DOUG FERGUSON HONOLULU",
+        "bbox": [
+          0.030395140353110243,
+          0.7703373016201948,
+          0.18541033512814592,
+          0.7776162787891256
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "· GOLF. B14",
+        "bbox": [
+          0.7416413439487958,
+          0.9883432539710044,
+          0.8054711244402613,
+          0.9913194444471948
+        ],
+        "order": 51
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027",
+    "primary_id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_49",
+    "source": "visual_seed",
+    "member_count": 34,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_46",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Former Alouettes player gives Al a chance to chat on new talk show B13",
+        "bbox": [
+          0.5957446866871408,
+          0.047867063540402544,
+          0.7781154998260875,
+          0.07267441839062756
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_47",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Burgess set for debut with four-time Scotties winner Einarson · B14",
+        "bbox": [
+          0.7872340409151726,
+          0.04786706372208863,
+          0.9544072952609287,
+          0.07415674602307765
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Maple Leafs forward Bobby McMann falls to one knee in a competition for a loose puck with Flyers centre Ryan Poehling during Tuesday night's game at Wells Fargo Center in Philadelphia. Read the game story at GLOBESPORTS.COM",
+        "bbox": [
+          0.14285715046019087,
+          0.47668650800696,
+          0.8541033121537918,
+          0.5029761906235406
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "best. We're just putting our best product on the Ice. ana lt's been amazing to see.\"",
+        "bbox": [
+          0.7841945379857103,
+          0.5872093024124249,
+          0.9696048602918985,
+          0.6076388887813337
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Jayna Hefford, the league's senior vice-presiaent or hockev operations. \"I think we thought it was and now we get to see it and feel",
+        "bbox": [
+          0.5957446817848545,
+          0.5872093025577737,
+          0.7781154945069387,
+          0.6149621366752935
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Honestly, seeing kids wearing different jerseys with our names on with different logos, for us, that's what it's all about.",
+        "bbox": [
+          0.4224924000288956,
+          0.6016865078616112,
+          0.5775076019672994,
+          0.6424418602510927
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Currently in its second season, the six-ledin ledgue Is dueduy looking to the future ana coulo expand as soon as the 2025-26 campaign.",
+        "bbox": [
+          0.7872340418960555,
+          0.6061046513034737,
+          0.9665653451976055,
+          0.64098837200618
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Now it will be the setting for another first as her league-leading Victoire (3-2-1-1) and the Sceptres (2-0-1-4) battle e in the first Canaalan stop or the rynus lake over lour.\"\"",
+        "bbox": [
+          0.22188449557290116,
+          0.6133432539230828,
+          0.40121580659578177,
+          0.6511627906897226
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "arie-Philip Mine and at contre in a packed arena, hearing O Canada. 1ne поскеу lez knows ner eves mav ger mistv on weanescav before her Montreal Victoire line up to face the Toronto Sceptres in Yalievuver",
+        "bbox": [
+          0.030395138471784638,
+          0.6133720931282677,
+          0.21276595850921293,
+          0.6715116277722117
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Fans in both Victoire and Sceptres jerseys milled around the gates at Rogers Arena on Tuesudy alternoon, nopme lo calen a glimpse or their lavourite players.",
+        "bbox": [
+          0.5957446817848545,
+          0.6205357142153728,
+          0.7781154945069387,
+          0.6526162788540771
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Visiting cities across North America this vear cives the league The fact that people living a chance to test out future markets, Hefford said",
+        "bbox": [
+          0.6109422648957485,
+          0.6395348838077736,
+          0.9665653457425488,
+          0.6656976745121301
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The nine-game expedition began mate in Seattle, where the Victoire fell 3-2 to the boston rleet in a shootout Unt oullud y real,\" said",
+        "bbox": [
+          0.2218844974178388,
+          0.6525297618320874,
+          0.40121580659578177,
+          0.6845930232473871
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "thousands away from Montreal own Victoire gear Shows the PwhL is a movement. Poulin said.",
+        "bbox": [
+          0.5957446878638817,
+          0.6584302329168459,
+          0.7781155005859659,
+          0.6860465113957148
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Each stop will be evaluated on a number or lactors. incluaine eco: nomic potential, and facilities. Travel logistics will diso De weigneu, she salu, ds Teams currenty use commercia flights to get from one game to another.",
+        "bbox": [
+          0.784194547690923,
+          0.6656746032504454,
+          0.9696048623503464,
+          0.7194767439538544
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "· think I'm gelung old. I think I'm getting a little softer,\" Poulin Ways very awesome. Ils diWdys such a brivilege 1o be able lo be in these buildings and big crowds. So I don't take it for granted.\"",
+        "bbox": [
+          0.030395136124190994,
+          0.6743551587136647,
+          0.21276595651301772,
+          0.7194940477687307
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Honestly, seeing kids wearing different jerseys with our names on with alterent logos. TorI that's what it's all about,\" she said. \"We want to grow the league. We're doing this by playing out",
+        "bbox": [
+          0.595744681733478,
+          0.6845238093401222,
+          0.7781155011773667,
+          0.7239583334390114
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "More than 12,000 fans took in the salle Merenanulse Wds sO popular it had to be stripped on mannequins before employees pur up a sign",
+        "bbox": [
+          0.21884498568484578,
+          0.6845238096314888,
+          0.40121580646378296,
+          0.7180232558086325
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rogers Arena is where Poulin played her first Olympic hockey game back 2010. nelping Canada to a gold medal on home",
+        "bbox": [
+          0.04559270449772508,
+          0.7194767444017369,
+          0.20972642802507285,
+          0.7239583334390114
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_26",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Scott balancing full calendar with playing and LIV Golf negotiations on his schedule",
+        "bbox": [
+          0.04863222801008342,
+          0.747023809484139,
+          0.9513677945583051,
+          0.7587209300938766
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Beyond that is the perhaps the biggest question for goll lans: Even 1I the PGA loui strikes a deal with PIF, what does that e great divide in golf? What be comes of LIV?",
+        "bbox": [
+          0.7386018304935971,
+          0.7703373016686444,
+          0.9665653503574664,
+          0.8038194443497676
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_49",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.26789628982543945,
+          0.7703939045009328,
+          0.7290827178955078,
+          0.9328138118003731
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A dam Scott made it back to Kapalua and returned to the top 20 in the worla lankine. ana irs a Won-_der how he managed with so first full year on the PGA Tour board, and it was a lot.",
+        "bbox": [
+          0.030395137772172807,
+          0.7906746031410992,
+          0.2613981753580025,
+          0.8343253968102065
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "There shoula ve more move: ment,\" Scott said. \"But it's very difficult to colveuluons IdyOul. Ils d 10l 01eOne has to combromise their product. I don'1 like the sound of that generally. Who's goIn? lo ve naooy",
+        "bbox": [
+          0.7386018244953756,
+          0.8052325582742998,
+          0.9665653523536616,
+          0.8604651161443048
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The new PGA Tour Enterprises received sports Group dnu credleud Plan lor Oldyers lo receive Ine change in eligibility in more than 40 years keeping cards this year, and field sizes will shrink in 2020.",
+        "bbox": [
+          0.030395134393588763,
+          0.835755814040332,
+          0.26139817716743957,
+          0.8866567460289956
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"It's really a tricky one\"",
+        "bbox": [
+          0.7537994052228195,
+          0.8633432539439185,
+          0.8814589662057506,
+          0.866319444420109
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "in Saudi Arabia. It filled out its 14-tournament scheaule on luesaav by adaing stoos at Trump Doral near Miami, the Robert vee ml Mexico clly diu a course in Micr gan that opened only last year",
+        "bbox": [
+          0.7386018304935971,
+          0.8750000000868434,
+          0.9665653503574664,
+          0.9142441860125072
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "All the while, the affable Australian is Lon subcommittee will tiger yvoous dilu korv Mcllrov that is negouaune with the Saudi backers of LIV Golf to become a mi-",
+        "bbox": [
+          0.030395139614191977,
+          0.8880813954356808,
+          0.26139817716743957,
+          0.9201388888904611
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Sports Business Journal and most reon advanced negotiations for LIV to get a Iv deal with rox. althougn the nerwork might need more than 14 tournaments to Londl meuld tiguts to the asidh 10ur, 11. which uv nas investea neavuv. creaun. the International Series. Bryson DeCham among those playing in Ind later this month.",
+        "bbox": [
+          0.7386018213236799,
+          0.9141865078935592,
+          0.9665653514164784,
+          0.9869186044189705
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "And how's that going?",
+        "bbox": [
+          0.04559270578970044,
+          0.9273255816275412,
+          0.16717324760442334,
+          0.9345930231689706
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "same as alwavs. It sucks. scou salain a hallway below the clubhouse at Kapalua, el of irritation. not worth talking abour. Unvious v. Ir's so comolex ana when the government department is involved, I",
+        "bbox": [
+          0.030395143563505905,
+          0.9360119047640423,
+          0.26139817510899166,
+          0.9739583332771607
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Adam Scott says there should soon be some progress on how, or if, the PGA Tour will integrate its competitions with the Saudi-backed LIV Golf. MATT YORK/THE ASSOCIATED PRESS",
+        "bbox": [
+          0.27051673509103336,
+          0.9404069769582097,
+          0.7325227939869802,
+          0.953488371860831
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "By all accounts. the PGA Tour and the Public Investment Fund are closer than ever to an agreeme prising if a deal was announced by The ravers championsnip in March. bur mucn debenas on the U.s. usuce vevartment. with which the tour has been in touch every step of the",
+        "bbox": [
+          0.2674772044345854,
+          0.9607558141691785,
+          0.4954407302966763,
+          0.9913194444452306
+        ],
+        "order": 48
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Further muddling the issue is a change In power at the vnile House in two weeks.",
+        "bbox": [
+          0.5015197563492572,
+          0.9781746030734804,
+          0.7325227900347145,
+          0.9913194444471948
+        ],
+        "order": 49
+      },
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "He laughed when he added, \"If the PGA lour is therr priority. we ve gor prodiems.",
+        "bbox": [
+          0.030395134393588763,
+          0.9796511630228898,
+          0.2583586583936249,
+          0.9913194444471948
+        ],
+        "order": 50
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027",
+    "primary_id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_7",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Sticking to it",
+        "bbox": [
+          0.3464380151367742,
+          0.441689345381027,
+          0.6566015031584186,
+          0.46964786336387315
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027",
+    "primary_id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_10",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_10",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Vancouver PWHL showcase stirs up fond feelings for Victoire star Poulin",
+        "bbox": [
+          0.036474190865234124,
+          0.5624999996632961,
+          0.9604863086571278,
+          0.5784883722843782
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027",
+    "primary_id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_50",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_The Globe and Mail - 2025-1-8@magazinesclubnew_page_027_50",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.485850830078125,
+          0.5859749227495336,
+          0.5123995971679688,
+          0.5985457964085821
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

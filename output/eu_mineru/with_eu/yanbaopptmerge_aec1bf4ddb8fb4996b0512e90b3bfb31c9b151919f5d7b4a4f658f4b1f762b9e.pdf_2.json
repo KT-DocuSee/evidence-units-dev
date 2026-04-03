@@ -1,0 +1,169 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_0",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图7：公司研发费用情况",
+        "bbox": [
+          0.09270455461507457,
+          0.10602821718683197,
+          0.24989923417976623,
+          0.12027932164742768
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_2",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图8：公司期间费用情况",
+        "bbox": [
+          0.5126964933494559,
+          0.10602821718683197,
+          0.6690850463522773,
+          0.11970927746900385
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_1",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.094316807738815,
+          0.12997007268063274,
+          0.486900443369609,
+          0.29243266353142366
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：公司公告、Wind、国信证券经济研究所整理",
+        "bbox": [
+          0.094316807738815,
+          0.3232150491663104,
+          0.4183796856106409,
+          0.33689610944848225
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：公司公告、Wind、国信证券经济研究所整理",
+        "bbox": [
+          0.5143087464731962,
+          0.3232150491663104,
+          0.8391777509068924,
+          0.33689610944848225
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_6",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表1：可比公司估值表",
+        "bbox": [
+          0.0951229343006852,
+          0.43836397320792364,
+          0.2361950826279726,
+          0.4514749893116717
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_8",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：Wind、国信证券经济研究所整理 注：飞科电器为Wind致预测",
+        "bbox": [
+          0.09189842805320435,
+          0.566053869174861,
+          0.5626763401854091,
+          0.5797349294570329
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5167271261588069,
+          0.12997007268063274,
+          0.9068923821039904,
+          0.2827419124982186
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2",
+    "primary_id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_aec1bf4ddb8fb4996b0512e90b3bfb31c9b151919f5d7b4a4f658f4b1f762b9e.pdf_2_7",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09189842805320435,
+          0.45318512184694315,
+          0.9173720274083031,
+          0.5643437366395896
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

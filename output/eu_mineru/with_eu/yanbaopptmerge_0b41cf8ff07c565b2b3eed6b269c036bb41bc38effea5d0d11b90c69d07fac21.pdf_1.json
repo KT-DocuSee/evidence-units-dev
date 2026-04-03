@@ -1,0 +1,64 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_0b41cf8ff07c565b2b3eed6b269c036bb41bc38effea5d0d11b90c69d07fac21.pdf_1",
+    "primary_id": "mineru_yanbaopptmerge_0b41cf8ff07c565b2b3eed6b269c036bb41bc38effea5d0d11b90c69d07fac21.pdf_1_2",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_0b41cf8ff07c565b2b3eed6b269c036bb41bc38effea5d0d11b90c69d07fac21.pdf_1_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "」 风险提示",
+        "bbox": [
+          0.426440951229343,
+          0.10203790793786519,
+          0.5610640870616687,
+          0.12141941000427534
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_0b41cf8ff07c565b2b3eed6b269c036bb41bc38effea5d0d11b90c69d07fac21.pdf_1_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "宏观经济下行风险、舍得增速不及预期、老酒战略推进受 阻、省外扩张不及预期、夜郎古销售不及预期等。",
+        "bbox": [
+          0.4280532043530834,
+          0.1288299843237851,
+          0.969770253929867,
+          0.16417272338606242
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_0b41cf8ff07c565b2b3eed6b269c036bb41bc38effea5d0d11b90c69d07fac21.pdf_1_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.4199919387343813,
+          0.17329343024084368,
+          0.9802498992341797,
+          0.3004132820293573
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_0b41cf8ff07c565b2b3eed6b269c036bb41bc38effea5d0d11b90c69d07fac21.pdf_1_3",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：Wind，华鑫证券研究",
+        "bbox": [
+          0.4199919387343813,
+          0.30155337038620494,
+          0.6344216041918581,
+          0.31580447484680063
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

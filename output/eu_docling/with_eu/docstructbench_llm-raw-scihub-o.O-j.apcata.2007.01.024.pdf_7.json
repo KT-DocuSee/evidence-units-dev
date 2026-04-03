@@ -1,0 +1,364 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_22",
+    "source": "header_anchor",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_22",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3.6. Correlation between catalytic activity and acidity",
+        "bbox": [
+          0.5232558266568818,
+          0.08430232544654734,
+          0.9011627874419554,
+          0.09747023797139141
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(Table 1). As listed in Table 2, the addition of NiSO4 to TiOzZrO2 also caused the acidity of NiSO4/TiO-ZrO, to increase considerably compared to TiO-ZrOz, because the addition of NiSO, to TiO-ZrO generates new acid sites by the inductive effect of sulfate species bonded to TiOz-ZrOz [17,35,47). Namely, the number of acid sites for 20NiSO4/Ti02 and 20NiSO4/ZrOz is 172 and 215 umol/g, respectively, while that of acid sites for 20NiSO/25Ti02-75ZrO2, 20NiSOd 50TiOz-50ZrOz, and 20NiSO4/75TiOz-25ZrOz is 261, 356, and 320 umol/g, respectively, showing a maximum acidity for 20NiSO /50TiOz-50Zr02.",
+        "bbox": [
+          0.06782946037642057,
+          0.08430232548288465,
+          0.4961240231944106,
+          0.2500000003076342
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As mentioned above, the active site responsible for dimerization is suggested to consist of a low valent nickel ion and an acid, as observed in the nickel-containing catalyst [4,17,18]. The term 'low valent nickel' originated from the fact that the NiO-SiO, catalyst was drastically poisoned by carbon monoxide, since a low valent nickel is favorable to chemisorb carbon monoxide [47,48]. Previously, from the results of IR of CO adsorbed on NiSO4/y-Al203 and XPS to identify low valent nickel species, we reported that the active sites responsible for ethylene dimerization consist of a low-valent nickel, Nit and an acid [47]. Also, it was reported that the adsorption site of CO, that is, a low-valent nickel is responsible for the adsorption site of ethylene. Therefore, it is concluded that a low-valent nickel, Ni, plays the role of an adsorption site for ethylene, while acidic sites are responsible for the formation of reaction intermediates, such as ethyl cations [4,471. Kazansky et al. concluded that Nit ions in NiCa-Y zeolite are responsible for the catalytic activity, using EPR spectroscopy to identify low valent nickel species [15]. Therefore, the nickel species should be active sites for ethylene dimerization. In fact, TiOz-ZrOz without NiSO, is inactive for ethylene dimerization, as shown in Fig. 10.",
+        "bbox": [
+          0.5212260502747632,
+          0.11334325410176965,
+          0.9478062039387977,
+          0.44331395284130093
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We examined the effect of TiO-ZrO, composition on the catalytic activity for ethylene dimerization. The catalytic activities for several catalysts against reaction time are plotted in Fig. 10. It is clear that the catalytic activities of three NiSO catalysts supported on binary oxide TiOz-ZrOz (2.6-3.7 mmol/ g 5 min) are remarkably higher than those of NiSO, catalysts supported on single oxide, 20NiSO,/TiOz and 20NiS04/ZrOz. This can be explained if the number of acid sites of TiOz-ZrOz supported catalysts is considerably larger than these of TiOz- or ZrOz-supported catalysts, 20NiSO4/TiOz or 20NiSO4/ZrOz, as seen in Table 2. It has been reported that the catalytic activity for ethylene dimerization is closely correlated with the acidity of the catalyst [4,10,35]. Therefore, we conclude that the effect of TiO-ZiO composition is related to an increase in the number of surface acidic sites and to the increased surface area of TiO-ZrOz-supported catalysts. Within supported NiSO4 catalysts, the catalytic activity for ethylene dimerization is in the order: 20NiSO /50TiOz-50ZrOz > 20NiSO4/75TiO252г02 > 20NiSO/25TiOz-75ZrO2 > 20NiSOd/ ZrO2 > 20NiS04/102.",
+        "bbox": [
+          0.06782946769706215,
+          0.24851190458566408,
+          0.4961240408845658,
+          0.5508720926557705
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is known that for ethylene dimerization the variations in catalytic activities are closely correlated to the acidity values of catalyst [3,35]. The acidity values of several samples after evacuation at 400 °C are listed in Table 2 together with their surface areas. Table 2 shows that the catalytic activities substantially run parallel to the acidity values. The catalytic activities of 20NiSO,/TiOz, 20NiSO/ZrOz, and NiSOd/TiOzZrO, were examined; the results are shown as a function of acidity in Fig. 11, where catalysts were evacuated at 500 °C for 1h before reaction. It is confirmed that the catalytic activity gives a maximum at 20NiSO4/50TiOz-ZrO2. This seems to be correlated to the specific surface area and to the acidity of the catalysts. The acidity of catalysts calcined at 500 °C was determined by the amount of NH, irreversibly adsorbed at 230 °C [3,4,6,9,38]. As shown in Fig. 11, the higher the acidity, the higher the catalytic activity. In this way it is demonstrated that the catalytic activity of supported NiSO, catalysts essentially runs parallel to the acidity. Good correlations have been found in many cases between the acidity and the catalytic activities of solid acids. It has been reported that the catalytic activity values of nickel-containing catalysts in ethylene dimerization as well as in butene isomerization are closely correlated with the acidity of the catalysts [3,4,6,35]. Up to now, a correlation between catalytic activity for ethylene dimerization and acidity has been studied using supported NiSO [9,35,47], where only one kind of support material such as Al,03, TiOz-ZrOz, and Al203-ZrOz was used. However, in this work we used different supports: Ti02, ZrOz and three kinds of TiOz-ZrOz. In this case of NiSO supported on different materials, there was also a correlation between catalytic activity for ethylene dimerization and acidity, regardless of the kind of support (TiOz, ZrOz, and TiOz-ZrOz).",
+        "bbox": [
+          0.5213178364132421,
+          0.4446924602829556,
+          0.9476744111273387,
+          0.9419642856328325
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_25",
+    "source": "visual_seed",
+    "member_count": 16,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_25",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11642135933780325,
+          0.5693337784332483,
+          0.44864271687481105,
+          0.8920427318062641
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6.0",
+        "bbox": [
+          0.14147286837640433,
+          0.5697674420738228,
+          0.15891472895886705,
+          0.5784883717343171
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0000",
+        "bbox": [
+          0.35889377960491226,
+          0.605711817487384,
+          0.4357322426767051,
+          0.6256285354556739
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.0",
+        "bbox": [
+          0.14147286856301985,
+          0.6177325582802178,
+          0.15891472788400857,
+          0.6264534879407123
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4.0",
+        "bbox": [
+          0.13953488382331358,
+          0.6656976748015359,
+          0.15891472793379238,
+          0.6744186044620303
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.0",
+        "bbox": [
+          0.14147286820816485,
+          0.7136627908117705,
+          0.1569767440011375,
+          0.7209302323532001
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2.0",
+        "bbox": [
+          0.14147286837640433,
+          0.7616279071901016,
+          0.15891472895886705,
+          0.770348836850596
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.0",
+        "bbox": [
+          0.14147286794035782,
+          0.8110465118419308,
+          0.15891472852282051,
+          0.8183139533833603
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.0",
+        "bbox": [
+          0.14147286875681833,
+          0.8575581399662644,
+          0.15891472807780704,
+          0.8662790696267587
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "30",
+        "bbox": [
+          0.29844961280736726,
+          0.8691860466166397,
+          0.3120155038108498,
+          0.8764534881580692
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "40",
+        "bbox": [
+          0.33720930260738974,
+          0.8691860466166397,
+          0.35271317840036226,
+          0.8764534881580692
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "60",
+        "bbox": [
+          0.41860465144459896,
+          0.8691860466166397,
+          0.4341085272375716,
+          0.8764534881580692
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "20",
+        "bbox": [
+          0.2577519381222897,
+          0.8691860466192354,
+          0.2713178291257723,
+          0.8764534881606649
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10",
+        "bbox": [
+          0.21511627889937932,
+          0.8691860467438203,
+          0.23062015469235192,
+          0.8764534882852498
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "50",
+        "bbox": [
+          0.3759689919713656,
+          0.8691860468703343,
+          0.3934108525538283,
+          0.8779069765308286
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Reaction Time, min",
+        "bbox": [
+          0.23837209652164196,
+          0.8821924604666429,
+          0.3527131763950247,
+          0.8924418604162768
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AAAAA",
+        "bbox": [
+          0.3372093043765881,
+          0.623401162035274,
+          0.4360077534538915,
+          0.6467441858349885
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Catalytic activities, mmol/g",
+        "bbox": [
+          0.11821704606893849,
+          0.6700581401901037,
+          0.13372093636886168,
+          0.7877906953373051
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.apcata.2007.01.024.pdf_7_4",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 10. Catalytic activities of several catalysts against reaction time: (O) 20NiSO4/50Ti02-50ZrOz; (A) 20NiSO4/75TiOz-25ZrOz; (·) 20NiSO/ 25Ti02-75ZrOz; (·) 20NiSO/ZrOz; (Д) 20NiSO/TiOz; (C) TiO-ZrOz.",
+        "bbox": [
+          0.06976744933777743,
+          0.9040178571031864,
+          0.4961240408845658,
+          0.9404761903947373
+        ],
+        "order": 26
+      }
+    ]
+  }
+]

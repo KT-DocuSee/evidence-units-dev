@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "primary_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_fundamental_theorem_of_calculus___page_005_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Generally, this is what we could do:",
+        "bbox": [
+          0.043604662112763495,
+          0.02314814766690991,
+          0.681686046196345,
+          0.08139534806260508
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "primary_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_6",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_fundamental_theorem_of_calculus___page_005_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.527537109375,
+          0.09863929239908854,
+          0.7517584838867187,
+          0.5209781494140625
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_fundamental_theorem_of_calculus___page_005_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.03343023458214686,
+          0.2364341096920013,
+          0.7427325615716992,
+          0.5310846562801658
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "primary_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_PPT_fundamental_theorem_of_calculus___page_005_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Area of 1 rectangle = f(x) x h",
+        "bbox": [
+          0.033333335549122704,
+          0.161044974327341,
+          0.5708333234389726,
+          0.2222222230045897
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "PPT_fundamental_theorem_of_calculus___page_005",
+    "primary_id": "docling_PPT_fundamental_theorem_of_calculus___page_005_3",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_PPT_fundamental_theorem_of_calculus___page_005_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Actual area under the curve = lim Ef(x)xh h→0",
+        "bbox": [
+          0.03343025107198547,
+          0.6044973557326939,
+          0.8255813842913866,
+          0.7073643412193291
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_fundamental_theorem_of_calculus___page_005_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which is written as Jf(x) dx",
+        "bbox": [
+          0.03633722799440412,
+          0.7480158717874715,
+          0.5537790532555958,
+          0.8294573625259516
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_fundamental_theorem_of_calculus___page_005_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(but evaluating this limit is incredibly complicated)",
+        "bbox": [
+          0.029166684388408096,
+          0.8444444456804356,
+          0.9625000056115914,
+          0.9111111093195648
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

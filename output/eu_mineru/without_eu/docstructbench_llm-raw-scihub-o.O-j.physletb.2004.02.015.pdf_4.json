@@ -1,0 +1,158 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_5",
+    "text": "",
+    "canon_role": "picture",
+    "bbox": [
+      0.5182011325904178,
+      0.11467271210384046,
+      0.9173808036317997,
+      0.32378177535202013
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_0",
+    "text": "fixed-target spectrometer with excellent vertexing and particle identification. Most of the FOCUS experiment and analysis techniques have been described previ- ously [3,17–19,21]. Our analysis cuts were chosen to give reasonably uniform acceptance over the fi ve kine- matic decay variables, while maintaining a strong re- jection of backgrounds. To suppress background from the re-interaction of particles in the target region which can mimic a decay vertex, we required that the charm secondary vertex was located at least three standard deviations outside of all solid material including our target and target microstrip system. We will refer to this as the \"out-of-material\" cut.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08239947338010177,
+      0.12141816575700755,
+      0.47791694560459025,
+      0.3291781382745538
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_1",
+    "text": "To isolate the D† → φ+ν topology, we required that candidate muon, pion, and kaon tracks appeared in a secondary vertex with a confidence level exceed- ing 1%. The muon track, when extrapolated to the shielded muon arrays, was required to match muon hits with a confidence level exceeding 5%. The kaon was required to have a Cerenkov light pattern more consistent with that of a kaon than that of a pion by 1 unit of log likelihood [19]. To further reduce non- charm background we required that our primary ver- tex consisted of at least two charged tracks. To fur- ther reduce muon misidentifi cation, a muon candidate was allowed to have at most one missing hit in the 6 planes comprising our inner muon system and an en- ergy exceeding 10 GeV. In order to suppress muons from pions and kaons decaying within our apparatus, we required that each muon candidate had a confi - dence level exceeding 1 % to the hypothesis that it had a consistent trajectory through our two analysis mag- nets.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08239947338010177,
+      0.3305272290051872,
+      0.47791694560459025,
+      0.6516108228959405
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_6",
+    "text": "Fig. 2. The m K + K– mass distribution for events satisfying our signal selection cuts. The solid histogram is our data. The dashed histogram is distribution for the ccbar background Monte Carlo. The ccbar background Monte Carlo is normalized to the same number of events in the sideband region 1.040 < m K + K − < 1.14 GeV/c2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5182011325904178,
+      0.33592359192772087,
+      0.9173808036317997,
+      0.40337812845939175
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_7",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.4276617616107933,
+      0.9173808036317997,
+      0.5072581147181648
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_8",
+    "text": "3. Fitting technique",
+    "canon_role": "section_header",
+    "bbox": [
+      0.5218633314073112,
+      0.5423344737146337,
+      0.6775067811252812,
+      0.5571744717516013
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_9",
+    "text": "The rv and r2 form factors were fit to the probabil- ity density function described by four fitted kinematic variables (q2, cos θv, cos θe, and x) for decays in the mass range 1.010 < m K+K− < 1.030 GeV/c2 using the squared amplitude described by Eq. (1).2",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.5760617419804691,
+      0.915549704223353,
+      0.6556580950878408
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_2",
+    "text": "Non-charm and random combinatoric backgrounds were reduced by requiring both a detachment between the vertex containing the K− K ++ and the primary production vertex of at least 5 standard deviations.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08239947338010177,
+      0.6543090043572073,
+      0.47791694560459025,
+      0.7177162686969779
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_10",
+    "text": "We use a variant of the continuous fitting technique developed by the E691 Collaboration [20] for fitting decay squared amplitudes where several of the kine- matic variables have very poor resolution such as the four variables that rely on reconstructed neutrino kine- matics.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.6570071858184742,
+      0.915549704223353,
+      0.7514435369628134
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_3",
+    "text": "Possible background from D+ → K− K +π +, where a pion is misidentified as a muon, was reduced by treating the muon as a pion and requiring the re- constructed K Kπ mass be less than 1.8 GeV/c2. The m K + K− distribution for our D† → K + K − +ν can- didates is shown in Fig. 2.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.7190653594276114,
+      0.47791694560459025,
+      0.814850801302584
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_11",
+    "text": "The fit which determines the rv and r2 form fac- tor ratios minimizes the sum of w = —2 ln I where I is the normalized decay squared amplitude at each",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.7527926276934468,
+      0.915549704223353,
+      0.8000108032656164
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4_4",
+    "text": "It was important to test the fi delity of the simulation with respect to reproducing the resolution of those kinematic variables which depend on the neutrino momentum. To do this, we studied fully-reconstructed D0 → K−π+π+π− decays where, as a test, one of the pions was reconstructed using our line-of- flight technique. We then compared its reconstructed momentum to its original, magnetic reconstruction in order to obtain an \"observed\" resolution function that was well matched by our simulation.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08239947338010177,
+      0.8161998920332174,
+      0.47791694560459025,
+      0.8944471544099556
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.02.015.pdf_4",
+    "order": 12
+  }
+]

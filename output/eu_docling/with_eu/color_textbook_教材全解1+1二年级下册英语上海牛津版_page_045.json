@@ -1,0 +1,527 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045",
+    "primary_id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_36",
+    "source": "visual_seed",
+    "member_count": 25,
+    "elements": [
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_36",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.8717735553609913,
+          0.03430535788242478,
+          0.9008396497552005,
+          0.06851031876420266
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_29",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ex-",
+        "bbox": [
+          0.8631390080006399,
+          0.23834325385279637,
+          0.9036885240106571,
+          0.25148809512263776
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "rhyme / ram/ (##))",
+        "bbox": [
+          0.682377050736478,
+          0.26884920624586117,
+          0.8319672090654345,
+          0.28348214275379774
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "horse",
+        "bbox": [
+          0.36470742653248545,
+          0.35164465917993754,
+          0.41398109641914127,
+          0.36347161999336913
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "hop",
+        "bbox": [
+          0.5819672136613353,
+          0.3517441856225985,
+          0.6168032775271893,
+          0.3677325582436807
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "hat",
+        "bbox": [
+          0.2684426240902586,
+          0.3517441859589021,
+          0.29918032734416755,
+          0.3648255813957491
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "hot",
+        "bbox": [
+          0.688524591402114,
+          0.35174418654723333,
+          0.7233606552679678,
+          0.3662790696300923
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "hamburger",
+        "bbox": [
+          0.6577266488035114,
+          0.40677435554586266,
+          0.754158594689776,
+          0.4217140166097081
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "has",
+        "bbox": [
+          0.4774590162817284,
+          0.4069767440112277,
+          0.5102459011772881,
+          0.42005813944807474
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "house",
+        "bbox": [
+          0.25819672032820146,
+          0.4069767441067048,
+          0.3094262293131919,
+          0.41860465095143445
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "have",
+        "bbox": [
+          0.3709016406094612,
+          0.406976744222984,
+          0.4098360650872601,
+          0.41860465106771344
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "he",
+        "bbox": [
+          0.5881147544858863,
+          0.406976744305559,
+          0.6127049181575562,
+          0.42005813974240613
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "how",
+        "bbox": [
+          0.6864754103635595,
+          0.4607558137786695,
+          0.7254098348413585,
+          0.47383720921551653
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "hello",
+        "bbox": [
+          0.36680328071588264,
+          0.4607558138658788,
+          0.4118852447759207,
+          0.4738372093027259
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "his",
+        "bbox": [
+          0.48155737748934013,
+          0.4607558138658788,
+          0.5102459017729549,
+          0.4738372093027259
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "hi",
+        "bbox": [
+          0.2725409835696692,
+          0.4607558140817882,
+          0.2930327866293941,
+          0.4723837209265176
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "honey",
+        "bbox": [
+          0.5737704938675988,
+          0.4607558141998496,
+          0.6270491791515268,
+          0.47529069728270873
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_2",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Introduction 1/ ACEX#",
+        "bbox": [
+          0.1393442641607976,
+          0.6307043649166796,
+          0.43852458081871076,
+          0.6483134919008066
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "ТАЛ Т ке",
+        "bbox": [
+          0.08606558288326785,
+          0.6728670634018313,
+          0.8012295110033439,
+          0.6904761903859584
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Asking i THE",
+        "bbox": [
+          0.12295082369245784,
+          0.7165178573687483,
+          0.3954917950370504,
+          0.73263888911478
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What do you like eating? = What do you like to eat? WEXWElt 4?",
+        "bbox": [
+          0.1229508227739783,
+          0.7571924603893029,
+          0.7131147508940544,
+          0.7761627899994311
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What do you like drinking? = What do you like to drink? 1tH 4?",
+        "bbox": [
+          0.1229508403905872,
+          0.7775297617818157,
+          0.7520491716176092,
+          0.796626984004038
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "What's your favourite food? alExittH4?",
+        "bbox": [
+          0.12295081925505007,
+          0.7993551585230682,
+          0.579918042179376,
+          0.818313953215274
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mr Panda; Hello, who are you?",
+        "bbox": [
+          0.12480650442275343,
+          0.865938090132532,
+          0.3875173962746114,
+          0.8826728472531792
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Little Rabbit: I'm Little Rabbit. I'm small and white. My ears are long. My eyes are red. Mr Panda: What do you like eating?",
+        "bbox": [
+          0.12295081117362018,
+          0.8880813950242459,
+          0.8688524799465982,
+          0.9244186045743753
+        ],
+        "order": 36
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045",
+    "primary_id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_32",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_32",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.36775504917219126,
+          0.07703883987070395,
+          0.41516465583126405,
+          0.10809471956483878
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045",
+    "primary_id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_31",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_26",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "house /haus/ (5) J.)",
+        "bbox": [
+          0.680327868923515,
+          0.17435515884583738,
+          0.8278688509535341,
+          0.18898809535377395
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_27",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "till:",
+        "bbox": [
+          0.682377049692209,
+          0.20639534877503585,
+          0.7110655739758238,
+          0.2194767442118828
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_10",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Look and",
+        "bbox": [
+          0.08196722100491885,
+          0.32266865098967173,
+          0.6536885303782776,
+          0.3401162787157269
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_31",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "hat | horse | happy | hop | hot | house | have | has | he | hamburger | hi | hello | his | honey | how",
+        "bbox": [
+          0.2290955733681011,
+          0.34321892286814953,
+          0.7612456131553363,
+          0.507444086095077
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "happy",
+        "bbox": [
+          0.46721311520524333,
+          0.3517441856225985,
+          0.5225409821308221,
+          0.3677325582436807
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045",
+    "primary_id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_33",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_33",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.37573649393564934,
+          0.2835571548235138,
+          0.4088382292008293,
+          0.31462596075296906
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045",
+    "primary_id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_34",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_34",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2290955733681011,
+          0.34321892286814953,
+          0.7612456131553363,
+          0.507444086095077
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "visual_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045",
+    "primary_id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_35",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_35",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3752509578950759,
+          0.5201692034484474,
+          0.40878542967285886,
+          0.550836712944533
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "section_text_panel",
+    "page": "color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045",
+    "primary_id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_color_textbook_教材全解1+1二年级下册英语上海牛津版_page_045_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "62k5",
+        "bbox": [
+          0.10450819700012416,
+          0.6075581391981799,
+          0.18032786965678446,
+          0.623546511819262
+        ],
+        "order": 28
+      }
+    ]
+  }
+]

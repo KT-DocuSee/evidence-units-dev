@@ -1,0 +1,328 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PUPP I",
+        "bbox": [
+          0.4510638297524712,
+          0.07837301553611187,
+          0.5148936176943374,
+          0.10029069738151954
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FRESH",
+        "bbox": [
+          0.5595229672805058,
+          0.0958331168457869,
+          0.606434478590817,
+          0.10765525535962442
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_22",
+    "source": "visual_seed",
+    "member_count": 17,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_22",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.12914139393724497,
+          0.08032484574751421,
+          0.8593048156697618,
+          0.3716385997425426
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AIR/OXYGEN",
+        "bbox": [
+          0.16382978915256569,
+          0.10174418603984453,
+          0.2553191485424696,
+          0.11337209288457406
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MEDIUM",
+        "bbox": [
+          0.5595328930243972,
+          0.10455938396394665,
+          0.621318169570432,
+          0.11782433710795968
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "IN",
+        "bbox": [
+          0.5617021279640095,
+          0.1148255813990638,
+          0.5787234041940452,
+          0.12645348824379332
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AIR",
+        "bbox": [
+          0.2829787246375717,
+          0.12354651183926307,
+          0.3085106375964709,
+          0.1351744186839926
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FILTER",
+        "bbox": [
+          0.2808510641577874,
+          0.13226744194727416,
+          0.32553191460817005,
+          0.1453488373841212
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PAFEE",
+        "bbox": [
+          0.5446808514438986,
+          0.2151162792267367,
+          0.6021276583737308,
+          0.23982558150831323
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CONTROLLER/TIMER",
+        "bbox": [
+          0.7021276625678103,
+          0.24854651188465016,
+          0.8404255308972354,
+          0.2630813949675092
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PRESSURE",
+        "bbox": [
+          0.22538149413992722,
+          0.25682068498040334,
+          0.30653340097401943,
+          0.27079559377886325
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "GAUGE,",
+        "bbox": [
+          0.22553191608295622,
+          0.2674418602575939,
+          0.2829787230127885,
+          0.28052325569444087
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FILTRATION",
+        "bbox": [
+          0.20204578940079923,
+          0.29624817348478844,
+          0.28093293597353325,
+          0.308402989173754
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PUMP",
+        "bbox": [
+          0.2170212764556597,
+          0.30668604666484456,
+          0.26170212690604244,
+          0.318313953509574
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SPENT",
+        "bbox": [
+          0.12763528694717519,
+          0.32699134346663455,
+          0.1723647137968953,
+          0.3387063308051699
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MEDIUM",
+        "bbox": [
+          0.12763808160403506,
+          0.335705242133022,
+          0.19363851545931365,
+          0.34888778097542006
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "FILTRATION",
+        "bbox": [
+          0.36805449971071147,
+          0.34583574660729255,
+          0.444711456716057,
+          0.35765262572080786
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "OUT",
+        "bbox": [
+          0.1297872342126332,
+          0.34738372131316364,
+          0.15957446692211863,
+          0.35610465097365807
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "CHAMBER",
+        "bbox": [
+          0.3680674907787099,
+          0.35459998179018404,
+          0.44044314872527435,
+          0.3663302506243134
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_0",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 1. Reactor set-up for the culture filtration experiments.",
+        "bbox": [
+          0.28510637977843956,
+          0.37936046465239504,
+          0.7021276654343261,
+          0.39534883727347714
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_19",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_19",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "RESULTS AND DISCUSSION",
+        "bbox": [
+          0.1276595746703517,
+          0.4200581395635531,
+          0.39999999435092487,
+          0.4331395350004002
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-bf00151572.pdf_3_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The pressure drop that drives the filtration process in FSTR is provided by means of a suction pump located down stream of the filter (Fig. 1). During the filtration process, flux is related to the pump suction head according to the pump characteristics. As the filter gradually gets clogged, the pump suction head increases and the flux decreases. The concept of using a rotating scraper unit placed immcdiately above the filter medium to reduce the filter cake thickness has been employed in many filtration devices. For example, Tiller and Cheng (1977) in their study of so-called \"delayed cake filtration\" for the filtration of clay slurry, the cake thickness was found equivalent to the clarance between the scraper and the filter (3 mm in this case) at low agitation speeds, while under high agitation speeds, liquid shear was high enough to decrease the cake thickness. A similar concept has been applied in FSTR, where the impeller sits directly above the filter disk. Of course, the situation is more complex in this case, since the impeller also serves as a mixing and mass transfer devics. To examine the impact of agitation on the filtration flux in FSTR, increases in pump suction head during filtration were measured at 100 and 200 rpm, with (0.4 wm) or without aeration. Agitation rates above 200 rpm were not tested due to possible shear damage on the Anchusa cells (Lei, 1994). The result of the filtration experiment without aeration is shown in Fig. 2. The cell concentration in the reactor was 35 g dry weight/L (PCV = 80%). Pump speed was set at a constant level that gave a water flux of 1.2 cm/m'-min. Surprisingly, a higher suction head was attained at 200 rpm than at 100 rpm. Immediately after the filtration was initiated, a very sharp increase in the suction head was observed, which was followed by a more gradual increase. During the early stages of",
+        "bbox": [
+          0.12340425541910796,
+          0.4432043649186808,
+          0.8574468100198256,
+          0.8110465112230838
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

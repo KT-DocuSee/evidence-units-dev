@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_0",
+    "text": "The last two expectations in this expression are known from the basic result about E[U] so that the only really new part concerns the expectation of the product UV. Now, by the definition of U, V",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1164625850340136,
+      0.08,
+      0.8827210884353741,
+      0.13405405405405404
+    ],
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_1",
+    "text": "Let the rv S = X + Y. Clearly, S is normally distributed, with mean s = x + y and variance σ2 = σ2 + σ2 + 2σxσy. It then follows from the basic result about E[U] that",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1164625850340136,
+      0.1809009009009009,
+      0.8827210884353741,
+      0.2363963963963964
+    ],
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_2",
+    "text": "Putting together this result — with s, σs expressed in terms of the original parameters as earlier — and the previously known facts about the means and variances of U, V, the correlation coeficient is, after slight simplification, found to be",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11755102040816326,
+      0.32288288288288286,
+      0.8838095238095238,
+      0.39423423423423426
+    ],
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_3",
+    "text": "Note that the correlation between U and V is completely independent of the means of X and Y. As explained earlier, the exponentiation turns the location parameters x, y of X and Y into scaling factors of U and V. Because variations of the scaling factors generally do not change linear correlations, the result was to be expected. On the other hand, the standard deviations σx, σy of X and Y turn into powers for U and V, which generally do influence the linear correlation coefficient.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1164625850340136,
+      0.4663063063063063,
+      0.8838095238095238,
+      0.5924324324324325
+    ],
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_4",
+    "text": "The result about the correlation of U and V may also be used to verify the properties we already discussed in part c. Note, in particular, that in the equal-variance case σx = σy = σ we get",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11755102040816326,
+      0.5938738738738739,
+      0.8827210884353741,
+      0.647927927927928
+    ],
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115_5",
+    "text": "The correlation of U and V is shown in Figure 3.25 as a function of the correlation o of the original rvs X and Y, for three values of σ. For 0 = +1, the two correlations are identical, but for any other value the correlation between U and V is weaker than that between X and Y.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.1164625850340136,
+      0.7120720720720721,
+      0.8827210884353741,
+      0.7855855855855856
+    ],
+    "page": "book_en_40.Puzzles.and.Problems.in.Probability.and.Mathematical.Statistics,.Schwarz,.Springer,.2008_page_115",
+    "order": 6
+  }
+]

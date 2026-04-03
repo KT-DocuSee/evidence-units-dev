@@ -1,0 +1,54 @@
+[
+  {
+    "chunk_id": "mineru_PPT_ch7_page_136_0",
+    "text": "7.9 Vector Spaces, Inner Product Spaces, Linear Transformations Optional",
+    "canon_role": "section_header",
+    "bbox": [
+      0.4646666666666667,
+      0.018666666666666668,
+      0.962,
+      0.09955555555555555
+    ],
+    "page": "PPT_ch7_page_136",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_136_1",
+    "text": "Linear Transformations (continued)",
+    "canon_role": "section_header",
+    "bbox": [
+      0.058666666666666666,
+      0.16977777777777778,
+      0.644,
+      0.22577777777777777
+    ],
+    "page": "PPT_ch7_page_136",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_136_2",
+    "text": "If A in (11) is square, n × n, then (11) maps Rn into Rn. If this A is nonsingular, so that A-1 exists (see Sec. 7.8), then multiplication of (11) by A-1 from the left and use of A-1A = I gives the inverse transformation",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.05533333333333333,
+      0.24977777777777777,
+      0.938,
+      0.4622222222222222
+    ],
+    "page": "PPT_ch7_page_136",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_PPT_ch7_page_136_3",
+    "text": "It maps every y = yo onto that x, which by (11) is mapped onto yo. The inverse of a linear transformation is itself linear, because it is given by a matrix, as (14) shows.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.056666666666666664,
+      0.5493333333333333,
+      0.9026666666666666,
+      0.7111111111111111
+    ],
+    "page": "PPT_ch7_page_136",
+    "order": 4
+  }
+]

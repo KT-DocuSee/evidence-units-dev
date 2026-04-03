@@ -1,0 +1,207 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119",
+    "primary_id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_0",
+    "source": "text_cluster",
+    "member_count": 15,
+    "elements": [
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8. Let p be an odd prime. Prove that the Legendre symbol is a homo- morphism from the multiplicative group (Z/pZ)× into {±1}. What is the kernel of this homomorphism?",
+        "bbox": [
+          0.16919393455706305,
+          0.08227604767397155,
+          0.8629954775206172,
+          0.14071510957324107
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9. For every odd prime p, define the Mersenne number",
+        "bbox": [
+          0.16600159616919394,
+          0.15378700499807765,
+          0.7065708965150306,
+          0.17454825067281815
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A prime number of the form Mp is called a Mersenne prime (see Exercise 5 in Section 1.5).",
+        "bbox": [
+          0.1968608672519287,
+          0.22529796232218377,
+          0.8629954775206172,
+          0.2645136485966936
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let q be a prime divisor of Mp.",
+        "bbox": [
+          0.19898909284384145,
+          0.27143406382160706,
+          0.5043894652833201,
+          0.2906574394463668
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "(a) Prove that 2 has order p modulo q, and so p divides q – 1. Hint: Fermat's theorem. (b) Prove that p divides (q – 1)/2, and so",
+        "bbox": [
+          0.20430965682362331,
+          0.302960399846213,
+          0.8161745144985368,
+          0.37293348712033836
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and",
+        "bbox": [
+          0.24581005586592178,
+          0.4259900038446751,
+          0.28731045490822027,
+          0.44213763936947326
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hint: Both p and q are odd.",
+        "bbox": [
+          0.2490023942537909,
+          0.4736639753940792,
+          0.5203511572226656,
+          0.4936562860438293
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(c) Prove that q ) = 1, and so q = ±1 (mod 8).",
+        "bbox": [
+          0.20643788241553604,
+          0.4982698961937716,
+          0.7012503325352487,
+          0.5297962322183776
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10. For every positive integer n, define the Fermat number",
+        "bbox": [
+          0.15748869380154296,
+          0.5397923875432526,
+          0.7331737164139399,
+          0.5605536332179931
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A prime number of the form Fn is called a Fermat prime (see Exer- cise 7 in Section 1.5).",
+        "bbox": [
+          0.1968608672519287,
+          0.6113033448673587,
+          0.8619313647246608,
+          0.6505190311418685
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let n ≥ 2, and let q be a prime divisor of Fn.",
+        "bbox": [
+          0.19579675445597233,
+          0.6566705113417917,
+          0.6427241287576483,
+          0.6774317570165321
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(a) Prove that 2 has order 2n+1 modulo q. Hint: Exercise 8 in Section 2.5. (b) Prove that",
+        "bbox": [
+          0.20643788241553604,
+          0.688965782391388,
+          0.644852354349561,
+          0.7589388696655133
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(c) Prove that there exists an integer a such that",
+        "bbox": [
+          0.20643788241553604,
+          0.7920030757401,
+          0.6916733173716414,
+          0.81199538638985
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hint: Observe that(z) = 1, and so 2 = a2 (mod q).",
+        "bbox": [
+          0.24474594306996542,
+          0.8642829680891965,
+          0.7714817770683693,
+          0.8973471741637832
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_book_en_国外数学教材-数论-Melvyn B. Nathanson—Elementary Methods in Number Theory_0119_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(d) Prove that",
+        "bbox": [
+          0.20643788241553604,
+          0.9019607843137255,
+          0.3532854482575153,
+          0.9219530949634756
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

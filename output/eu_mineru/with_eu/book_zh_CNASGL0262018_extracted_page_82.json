@@ -1,0 +1,142 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "book_zh_CNASGL0262018_extracted_page_82",
+    "primary_id": "mineru_book_zh_CNASGL0262018_extracted_page_82_9",
+    "source": "visual_seed",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-EUT与频谱分析仪之间的链路S参数0.724(m)，损耗2.8dB(d) 则",
+        "bbox": [
+          0.13870246085011187,
+          0.0855106888361045,
+          0.7203579418344519,
+          0.12668250197941408
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "则u(δP) =√0.426² +0.203² + 0.186² +1.192² +0.128² + 0.205² =1.318dB",
+        "bbox": [
+          0.1476510067114094,
+          0.4734758511480602,
+          0.7941834451901566,
+          0.49406175771971494
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.5.3.5被测样供电电压变化引入的不确定度分量u(）",
+        "bbox": [
+          0.13870246085011187,
+          0.5304829770387965,
+          0.6420581655480985,
+          0.5510688836104513
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在测试期间，实验室供电电压可控范围为0.1V，根据ETSITR100028表F.1",
+        "bbox": [
+          0.15436241610738255,
+          0.56215360253365,
+          0.8612975391498882,
+          0.5827395091053048
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-均值10%(p)/V -标准差3%(p)/V",
+        "bbox": [
+          0.1476510067114094,
+          0.5859065716547902,
+          0.30648769574944074,
+          0.6286619160728424
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.5.3.6时间周期变化引入的不确定度分量()",
+        "bbox": [
+          0.13870246085011187,
+          0.7157561361836896,
+          0.5794183445190156,
+          0.7395091053048297
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_6",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "根据ETSITR 100028表F.1，时间周期误差为 2%(d)(p)(σ) u(ρ)= = 2%=0.087dB 23.0",
+        "bbox": [
+          0.1767337807606264,
+          0.7490102929532858,
+          0.697986577181208,
+          0.8060174188440221
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "5.5.4不确定度概算",
+        "bbox": [
+          0.13870246085011187,
+          0.831353919239905,
+          0.319910514541387,
+          0.850356294536817
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_8",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "表5-10传导杂散发射测量不确定度概算表",
+        "bbox": [
+          0.31767337807606266,
+          0.8551068883610451,
+          0.7024608501118568,
+          0.8725257323832145
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_zh_CNASGL0262018_extracted_page_82_9",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.17225950782997762,
+          0.8756927949326999,
+          0.7449664429530202,
+          0.9105304829770388
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

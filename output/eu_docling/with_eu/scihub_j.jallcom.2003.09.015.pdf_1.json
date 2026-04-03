@@ -1,0 +1,516 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_38",
+    "source": "visual_seed",
+    "member_count": 34,
+    "elements": [
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 Crystallographic data of the ternary compounds in the ternary system Er-Ni-B",
+        "bbox": [
+          0.08123791074361064,
+          0.08575581377866948,
+          0.5241779461068672,
+          0.11337209320552653
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_38",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "No. | Compound | Space group | Structure type | Lattice parameters | Lattice parameters | Lattice parameters | Lattice parameters | Reference | a (nm) | b (nm) | c (nm) | B (°) | 1 | Er Ni13B2 | P6/mmm | Nd3 Ni13B2 | 0.4938 | - | 1.090 | [1] | Er0.917 Ni4.09B | P6/mmm | Ero.917 Ni4.09B | 1.48399 | 0.6919 | [13] | ErNi4B. | P6/mmm | CeCo4B | 0.4949 | 0.6931 | [11 | ErNi, B2 | P63/mmc | 0.5060 | 1.4276 | ~ErNigB2 | Unknown | ErzNizi B6 | Fm3m | W2 Cr21 Co | 1.0640 | [1] | ErNi, B3 | 14, /amd | ErNi,B3 | 0.7665 | - | 1.5581 | 113) | ~ErNi6.5B3 | cubic | Unknown | 0.7735 (3) | ErzNinoBs | Phca | HozNinoBs | 1.7545 | 0.8977 | 0.9441 | [6] | ErgNingB10 | C2/m | HoNing B10 | 1.3101 | 0.8674 | 0.5761 | 91.05 | [7] | Er Ni,sBo | Стса | HozNi,s Bo | 1.5874 | 1.1561 | 1.1235 | [4] | 10 | ErNizB2 | C2/c | HoNizB2 | 0.8345 | 0.5188 | 0.6887 | 126.60 | [5] | Er?Ni3B6 | Cmmm | LuzNisB6 | 0.7701 | 0.8632 | 0.3462 | [3] | 12 | ErNiB4; LTM | Pham | YCrB4 | 0.5792 | 1.1544 | 0.3435 | [14] | ErNiB4; HTM | 14/mmm | ErNiB4. | 0.7505 | 0.8496 | [13] | 13 | ErNiB13 | P4/mnc | Ery NiB13 | 0.7186 | 0.7446 | [1]",
+        "bbox": [
+          0.08299148291872259,
+          0.11621541193383313,
+          0.9288252537999092,
+          0.3763443526494411
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "a Compounds were found only in the as-cast samples.",
+        "bbox": [
+          0.09845618089732935,
+          0.3786236491259054,
+          0.40440212254755864,
+          0.3939576147831548
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_5",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "b Data of our investigation.",
+        "bbox": [
+          0.09824913439843824,
+          0.39076968150930813,
+          0.255653941338551,
+          0.4058286214014564
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "sence of the ternary boride ErNiB 10 in the Er-Ni-B system (Table 2).",
+        "bbox": [
+          0.5240805023676788,
+          0.43303571407646996,
+          0.9284332730778259,
+          0.4625070676133161
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The formation of solid solution regions for the binary compounds was not revealed, and practically no variation of the lattice parameters of the ternary borides in two- and three-phase samples was observed (Table 2). This fact indicates that no homogeneity ranges exist for the ternary compounds.",
+        "bbox": [
+          0.08317213768942111,
+          0.4330357143742246,
+          0.4893617060887867,
+          0.5218023254790509
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A compound of the composition ErNiB4 was reported to crystallize with two different structures: ErNiB4 [13] and YCrB4 [14]. This can indicate the existence of polymorphism for this boride. Taking into account that the boride with the ErNiB4 type structure was found by a single-crystal method, and that the boride with the YCrB type structure was found by X-ray powder diffraction, we assumed the high-temperature modification to have the ErNiB structure and the low-temperature modification to have the YCrB4 structure. The results of a DTA investigation revealed a transition temperature of 1540 K.",
+        "bbox": [
+          0.5241779420817485,
+          0.46354166670167163,
+          0.9284332754762787,
+          0.6279761906258733
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The ternary compounds LnzNiB10 where Ln-Y, Gd, Tb, Dy, Ho with the TheNiBio structure type were reported in [12]. We prepared the sample of the composition ErNiB10 to verify the formation of the boride with the same structure in the Er-Ni-B system. But the powder diffraction pattern of this sample contained the lines of three binary compounds (ErB4 + ErB|2 + NiB), which indicates the ab-",
+        "bbox": [
+          0.08123791870535708,
+          0.524709302778854,
+          0.4893616926506197,
+          0.6308139538069073
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A new compound of the approximate composition ErNigB2 with unknown structure was found. The X-ray powder pattern of this compound differed from the powder patterns of the known ternary borides found in the earlier studied Ln-Ni-B systems. This compound exists only in the as-cast sample and decomposes into the ErNiz, Bo and ErNi4B compounds after annealing. Since the single crystals were not available its structure was not determined.",
+        "bbox": [
+          0.5240933266465941,
+          0.6293604650177684,
+          0.9303674853081829,
+          0.7486930172706058
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1 Er, Ni,,B2",
+        "bbox": [
+          0.4023210839024445,
+          0.6626984125667982,
+          0.47388781501438315,
+          0.675872093023656
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ErNi,B",
+        "bbox": [
+          0.4197292074167248,
+          0.6744186046081585,
+          0.4661508711132559,
+          0.686046511452888
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ErB,2",
+        "bbox": [
+          0.28046421664606647,
+          0.6773255817507217,
+          0.321083171119891,
+          0.6918604648335807
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3 Er,Ni,B2",
+        "bbox": [
+          0.4023210835750025,
+          0.6889534884916055,
+          0.47001934355265723,
+          0.7021329364074245
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4 Er,Ni,, B6",
+        "bbox": [
+          0.4041985711394203,
+          0.7018119985091573,
+          0.47394456464331114,
+          0.7124321876006734
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ErBA",
+        "bbox": [
+          0.30560928432290374,
+          0.7093023260457797,
+          0.33849129652816007,
+          0.7238372091286388
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5 ErNi,B,",
+        "bbox": [
+          0.4023210840908911,
+          0.7135416665011479,
+          0.4661508678917008,
+          0.7267441861450222
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6 ~ErNi,sB,",
+        "bbox": [
+          0.4022956589228127,
+          0.7266677286916522,
+          0.4719790036509889,
+          0.7399020384255122
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ErB,",
+        "bbox": [
+          0.3191489369199663,
+          0.735465116214895,
+          0.3578336558266488,
+          0.7514534888359771
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7 Er,Ni, B,",
+        "bbox": [
+          0.4023210821599034,
+          0.7383432539735887,
+          0.47195357770470003,
+          0.7529761904815252
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A further new compound was found in the as-cast samples containing 16.6 at.% Er. The X-ray powder pattern of this compound was very similar to the powder pattern of the ErNiB boride. The crystal structure of the new Ero.917Ni4.09B boride was determined using an X-ray single-crystal method: space group P6/mmm; a = 1.48399 nm; c = 0.69194 nm [15]. This structure is very similar to the Yo.915Ni4.12B structure [16]. The Ero.917Ni4.09B boride decomposes after annealing, and the main phase is the ErNi4B compound.",
+        "bbox": [
+          0.5241181831171654,
+          0.7500000002110246,
+          0.9285481010420248,
+          0.8998015873714283
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8 Er, Ni,,Bo",
+        "bbox": [
+          0.40425532028715205,
+          0.7529069768101936,
+          0.47775628696623285,
+          0.7646329366069476
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "9 Er, Ni,,B,",
+        "bbox": [
+          0.40227175270863835,
+          0.7658350650962307,
+          0.47393714656571817,
+          0.779223074394646
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NiB",
+        "bbox": [
+          0.15667311441954487,
+          0.7659883720427514,
+          0.18568665296923662,
+          0.7776162788874809
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10 ErNi,B,",
+        "bbox": [
+          0.4060879835313117,
+          0.7801757018299031,
+          0.4662524408033137,
+          0.7910452285037802
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "o-Ni,B",
+        "bbox": [
+          0.12379110265850424,
+          0.7863372097667098,
+          0.17021276635503535,
+          0.800872092849569
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11 Er, Ni,Bo",
+        "bbox": [
+          0.4061895574806396,
+          0.7921511628276354,
+          0.4700193412814493,
+          0.8038194442503563
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "12 ErNiB,",
+        "bbox": [
+          0.40618955672420815,
+          0.803779069833449,
+          0.46228239825644957,
+          0.8154761904431866
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ni,B",
+        "bbox": [
+          0.12765957434224615,
+          0.8037790702318264,
+          0.1605415865475024,
+          0.8183139533146855
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "13 Er,NiB,3",
+        "bbox": [
+          0.4042553180075097,
+          0.8168604652899658,
+          0.4700193424180222,
+          0.8313953483728248
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ni,B",
+        "bbox": [
+          0.11411992288362674,
+          0.8212209304643844,
+          0.14893617065602507,
+          0.8357558135472434
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Er",
+        "bbox": [
+          0.4294003871978942,
+          0.8735465116357749,
+          0.4487427466512354,
+          0.8851744184805043
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ni",
+        "bbox": [
+          0.09477756298920217,
+          0.8735465117603222,
+          0.11218568687540131,
+          0.883720930012934
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "According to our data, the ErNizB10 boride has the correct composition ErNizB3: space group 14j/amd; a =",
+        "bbox": [
+          0.5241779541648113,
+          0.9010416668470205,
+          0.9284332672459689,
+          0.9303075396255323
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_8",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 1. The phase diagram of the ternary system Er-Ni-B at 1070K.",
+        "bbox": [
+          0.09284333715925336,
+          0.9186046512479672,
+          0.477756285616375,
+          0.9288194445516234
+        ],
+        "order": 40
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "scihub_j.jallcom.2003.09.015.pdf_1",
+    "primary_id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_39",
+    "source": "visual_seed",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "a",
+        "bbox": [
+          0.07930367505223493,
+          0.17005813967356553,
+          0.09284332654350975,
+          0.18168604651829498
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_39",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09456157742019718,
+          0.6611291553776101,
+          0.47468233656609193,
+          0.905490592994638
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B",
+        "bbox": [
+          0.26499032911413045,
+          0.6627906978857748,
+          0.2785299806054053,
+          0.6744186047305043
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_scihub_j.jallcom.2003.09.015.pdf_1_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "m-N1+33",
+        "bbox": [
+          0.1275995695930142,
+          0.7760316446813568,
+          0.1838124240729382,
+          0.7908288203688137
+        ],
+        "order": 29
+      }
+    ]
+  }
+]

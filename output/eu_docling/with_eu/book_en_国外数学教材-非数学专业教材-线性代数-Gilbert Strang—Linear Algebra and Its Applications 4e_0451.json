@@ -1,0 +1,273 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For linear programming, the important alternatives come when the constraints are inequalities. When is the feasible set empty (no x)?",
+        "bbox": [
+          0.14168379440369835,
+          0.0872093029339824,
+          0.9075975191099754,
+          0.12354651181017773
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "8J Ax > bhas a solution x ≥ 0 or there is ay < 0 with yA ≥ 0 and yb < 0.",
+        "bbox": [
+          0.1848049488853182,
+          0.13516865074742354,
+          0.8665297647354893,
+          0.15261627847347878
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Proof. The slack variables w = Ax - b change Ax ≥ b into an equation. Use 81:",
+        "bbox": [
+          0.14168379651231158,
+          0.1626984129275059,
+          0.8357289395862509,
+          0.18179563514972805
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_6",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5585215609498766,
+          0.20486111117228398,
+          0.8090349081979397,
+          0.22383720899773538
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_5",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "First alternative",
+        "bbox": [
+          0.24640657470672217,
+          0.2063492065839472,
+          0.3983572878336123,
+          0.22098214309188374
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second alternative yA -1>100 forsome y with so<0.",
+        "bbox": [
+          0.20739220256767615,
+          0.24851190464482517,
+          0.8480492733453172,
+          0.27761627840262665
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is this result that leads to a \"nonconstructive proof\" of the duality theorem.",
+        "bbox": [
+          0.16837784112212537,
+          0.31101190438986437,
+          0.841889105489784,
+          0.3284883713029363
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_9",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_9",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Problem Set 8.3",
+        "bbox": [
+          0.14373717078976317,
+          0.37499999977330856,
+          0.3080082111404217,
+          0.3896329362812449
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "What is the dual of the following problem: Minimize x1 + x2, subject to x1 ≥ 0, x2 > 0,2x1≥4,x1+3x2>11? Find the solution to both this problem and its dual, and verify that minimum equals maximum.",
+        "bbox": [
+          0.14373718158377857,
+          0.4113372098501644,
+          0.9096509215305264,
+          0.4665697671228248
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "What is the dual of the following problem: Maximize yz subject to y1 ≥ 0, 42 ≥ 0, 41 + 42 ≤ 3? Solve both this problem and its dual.",
+        "bbox": [
+          0.1416838074693429,
+          0.48110465195287777,
+          0.9096509138858927,
+          0.5174418600093317
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_12",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Suppose A is the identity matrix (so that m = n), and the vectors b and c are nonnegative. Explain why x* = b is optimal in the minimum problem, find y* in the maximum problem, and verify that the two values are the same. If the first component of b is negative, what are x* and y*?",
+        "bbox": [
+          0.14373718477508574,
+          0.5290178571543587,
+          0.9096509247218337,
+          0.6061507941195122
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Construct a 1 by 1 example in which Ax ≥ b, x ≥ 0 is unfeasible, and the dual problem is unbounded.",
+        "bbox": [
+          0.14373717075639336,
+          0.617732558663149,
+          0.9075975442333392,
+          0.6524020377826933
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_14",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Starting with the 2 by 2 matrix A = [b 9], choose b and c so that both of the feasible sets Ax ≥ b, x ≥ 0 and yA ≤ c, y ≥ 0 are empty.",
+        "bbox": [
+          0.14373716863455907,
+          0.6641865079437683,
+          0.907597542111505,
+          0.7034883723134482
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "If all entries of A, b, and c are positive, show that both the primal and the dual are feasible.",
+        "bbox": [
+          0.1437371691650177,
+          0.7150297620081071,
+          0.9075975426419636,
+          0.7520855285946156
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_16",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Show that x = (1, 1, 1,0) and y = (1, 1,0,1) are feasible in the primal and dual, with",
+        "bbox": [
+          0.14373716408288223,
+          0.7645348844191736,
+          0.9075975375598282,
+          0.7834821432473519
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_17",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.32032854336479194,
+          0.7906976749159929,
+          0.7433264890664576,
+          0.8779069765183264
+        ],
+        "order": 18
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451",
+    "primary_id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_18",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-非数学专业教材-线性代数-Gilbert Strang—Linear Algebra and Its Applications 4e_0451_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Then, after computing cx and yb, explain how you know they are optimal.",
+        "bbox": [
+          0.17453800303377046,
+          0.8880813961389243,
+          0.8193018372126363,
+          0.905523255459913
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

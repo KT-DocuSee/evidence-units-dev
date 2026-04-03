@@ -1,0 +1,322 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "mineru_book_zh_GB14536.11998_extracted_page_145_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "读：知果电压切断特续时问会响控制器的国有企或2型控制器的动出，在具体产品的特要求标应中可规定 从1个成形国到60：间隔的其他点电压切.",
+        "bbox": [
+          0.15212527964205816,
+          0.13143309580364212,
+          0.9038031319910514,
+          0.16310372129849565
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "mineru_book_zh_GB14536.11998_extracted_page_145_1",
+    "source": "visual_seed",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.12751677852348994,
+          0.166270783847981,
+          0.9038031319910514,
+          0.2850356294536817
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_6",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "H26- 5",
+        "bbox": [
+          0.4697986577181208,
+          0.5288994457640538,
+          0.5458612975391499,
+          0.5447347585114806
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "H26.5.6电压试验",
+        "bbox": [
+          0.12751677852348994,
+          0.5463182897862233,
+          0.319910514541387,
+          0.56215360253365
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1126.6电压不平街的响试验",
+        "bbox": [
+          0.1297539149888143,
+          0.6397466349960411,
+          0.378076062639821,
+          0.6555819477434679
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "H26.61试验目的——成用的范图",
+        "bbox": [
+          0.1319910514541387,
+          0.6587490102929533,
+          0.40939597315436244,
+          0.6745843230403801
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本试脸只适用于续用三相电源的设备。",
+        "bbox": [
+          0.15883668903803133,
+          0.6777513855898654,
+          0.4563758389261745,
+          0.6920031670625495
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "生",
+        "bbox": [
+          0.15659955257270694,
+          0.6967537608867775,
+          0.1767337807606264,
+          0.7078384798099763
+        ],
+        "order": 14
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1本试控的目的是前究三和电压系境不平所的这种干托类型对设备的承响，例加： 一交流提转机指的过热： 一一在电于电诉特楼中中种证世的发业。",
+        "bbox": [
+          0.15436241610738255,
+          0.7125890736342043,
+          0.7002237136465325,
+          0.7600950118764845
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2由不平新因数决定不平程民：",
+        "bbox": [
+          0.15436241610738255,
+          0.7632620744259699,
+          0.3870246085011186,
+          0.777513855898654
+        ],
+        "order": 16
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "H26.6.2试验电压特位",
+        "bbox": [
+          0.1319910514541387,
+          0.8281868566904196,
+          0.319910514541387,
+          0.8424386381631037
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_17",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "特工频三相电压加在有规定不平街因数的控制器上. 让：为了得到准的结卫，其试验电压应只有员小的国验成分。",
+        "bbox": [
+          0.15659955257270694,
+          0.8471892319873318,
+          0.5682326621923938,
+          0.8788598574821853
+        ],
+        "order": 18
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "试验设备应由三个单相的自耦变压基组成，其各相轴出能单独调节或类似的设备.",
+        "bbox": [
+          0.15883668903803133,
+          0.9010292953285828,
+          0.7829977628635347,
+          0.9168646080760094
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "mineru_book_zh_GB14536.11998_extracted_page_145_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "H26.5.5试验程序的设明",
+        "bbox": [
+          0.1297539149888143,
+          0.28661916072842436,
+          0.3378076062639821,
+          0.30245447347585114
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本试验造行三次，",
+        "bbox": [
+          0.16331096196868009,
+          0.3056215360253365,
+          0.2975391498881432,
+          0.32145684877276326
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_4",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "虹 1点注意控制售式电压降路或切断可他件别的感的作核式. 2在三相设各的情况下，可址否要三相同时政加电压降落或只是一相或阿相施加电正路。",
+        "bbox": [
+          0.15659955257270694,
+          0.3246239113222486,
+          0.7606263982102909,
+          0.3721298495645289
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "mineru_book_zh_GB14536.11998_extracted_page_145_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_5",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.30648769574944074,
+          0.3768804433887569,
+          0.7225950782997763,
+          0.5304829770387965
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "mineru_book_zh_GB14536.11998_extracted_page_145_8",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "检制器应经量一个以每秒40XV连度，电压由20%V划100%V连续上升的功率增加（试验）. 该试验重复5次。",
+        "bbox": [
+          0.12527964205816555,
+          0.5653206650831354,
+          0.9038031319910514,
+          0.5985748218527316
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "控制应经受一个口师秒40XV速度，电压由100XVn到20XV通续下降的功率或小（试）。 该试验重复5次。",
+        "bbox": [
+          0.1297539149888143,
+          0.6033254156769596,
+          0.9060402684563759,
+          0.6365795724465558
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "book_zh_GB14536.11998_extracted_page_145",
+    "primary_id": "mineru_book_zh_GB14536.11998_extracted_page_145_18",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_book_zh_GB14536.11998_extracted_page_145_18",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "H2663试验设备/试验发生册",
+        "bbox": [
+          0.1319910514541387,
+          0.8820269200316706,
+          0.38031319910514544,
+          0.8978622327790974
+        ],
+        "order": 19
+      }
+    ]
+  }
+]

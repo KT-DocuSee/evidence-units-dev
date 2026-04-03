@@ -1,0 +1,555 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_24",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_24",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3460921898059759,
+          0.026888114152374493,
+          0.3912073504263493,
+          0.05925247485099376
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "15J :",
+        "bbox": [
+          0.07522123944742819,
+          0.2223837205063194,
+          0.10840707864991692,
+          0.23837209312740149
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Ma Xiaotiao",
+        "bbox": [
+          0.856155033778946,
+          0.8995652537828875,
+          0.9779157647097733,
+          0.9143882340240577
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_5",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Don't forget to tell (letl) him the good news (PE).",
+        "bbox": [
+          0.07522125734229645,
+          0.07837301629350593,
+          0.6327433628641926,
+          0.09449404803953762
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "I don't know the way. You can ask (ska) the policeman.",
+        "bbox": [
+          0.07522125535903443,
+          0.10610465148182627,
+          0.670353980758222,
+          0.12063953456468539
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "There are some women (mewon) under the tree.",
+        "bbox": [
+          0.07522125294755812,
+          0.1321924605309283,
+          0.597345136137987,
+          0.14682539703886482
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "I want to borrow (rowbor) a book from the library.",
+        "bbox": [
+          0.07522126550758929,
+          0.15843023292562464,
+          0.6283185759378378,
+          0.17296511600848377
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_26",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_26",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3602351198668244,
+          0.2121116837080746,
+          0.42338340107290107,
+          0.2418591620824751
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_27",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_27",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.229663602951942,
+          0.2141259339309595,
+          0.2918629567662458,
+          0.24623730120492346
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_25",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_25",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0740948381095097,
+          0.2143121617097193,
+          0.1776921788434396,
+          0.24702022043989025
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_10",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I had noodles yesterday.",
+        "bbox": [
+          0.10840709243432821,
+          0.2616279075380278,
+          0.34734512777216126,
+          0.2761627906208869
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I am having a sandwich now.",
+        "bbox": [
+          0.10840708423539554,
+          0.2876984125488402,
+          0.3960177041126868,
+          0.3023313490567767
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I am going to have a hamburger tomorrow.",
+        "bbox": [
+          0.10840707548201109,
+          0.3139534884488806,
+          0.5331858357274287,
+          0.3284883715317397
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_29",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_29",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3469554895403861,
+          0.3442060674169177,
+          0.40629639403930845,
+          0.39702711654190237
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_30",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_30",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2166881189532187,
+          0.3534648574401285,
+          0.2714630767501991,
+          0.3892814159627859
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_28",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_28",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07413293360948921,
+          0.35773929984359626,
+          0.14974178331366544,
+          0.39227565121779695
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Dear Kalulu,",
+        "bbox": [
+          0.07522124244042934,
+          0.7398255818486213,
+          0.20575221323803658,
+          0.7529761905774237
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Yours,",
+        "bbox": [
+          0.9070796468280483,
+          0.8735465120811797,
+          0.977876103024459,
+          0.8866279065719213
+        ],
+        "order": 32
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_13",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I played football yesterday.",
+        "bbox": [
+          0.10840709353462946,
+          0.41133720966981063,
+          0.3783185791792345,
+          0.42587209275266974
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I am playing basketball now.",
+        "bbox": [
+          0.10619469271622156,
+          0.4375000000767874,
+          0.39380531259351276,
+          0.4521329365847241
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I am going to play table tennis tomorrow.",
+        "bbox": [
+          0.10840708559825282,
+          0.46502976179868355,
+          0.519911506702632,
+          0.47966269830662017
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_32",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_32",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.24103380286175272,
+          0.48983348840806384,
+          0.31075555666990723,
+          0.5396238553131149
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_33",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_33",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.36082234303990585,
+          0.4919002174568833,
+          0.47905560769419975,
+          0.5399486956429845
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_31",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_31",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.07312551038018589,
+          0.4944451703148057,
+          0.1871308379623665,
+          0.5390014948659616
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_16",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I read some books yesterday.",
+        "bbox": [
+          0.10840708303701803,
+          0.5537790700864774,
+          0.39601770291430927,
+          0.5683139531693365
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I am flying a kite now.",
+        "bbox": [
+          0.10840708067786091,
+          0.5798611111551161,
+          0.33407079994160804,
+          0.5944940476630526
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "I am going to ride a bike tomorrow.",
+        "bbox": [
+          0.10840708825550896,
+          0.6075581395090474,
+          0.46238938077103947,
+          0.6206395349458944
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0015",
+    "kind": "section_text_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_942",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_19",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_19",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "5)",
+        "bbox": [
+          0.6746031739133811,
+          0.633680555795106,
+          0.7079645843412676,
+          0.651162790167139
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_20",
+        "observed_type": "code",
+        "canon_role": "support_paragraph",
+        "text": "A. dinner B. laughed C. children's D. actors E. Sunday F. soon G. photos H. show I. jokes J. happy",
+        "bbox": [
+          0.23451327649245088,
+          0.6728670636087427,
+          0.8185840602964238,
+          0.7165697676622853
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Last 1. E , we went to a 2. C theatre. There was an interesting 3. H there. The 4. D told a lot of 5. I . We 6. a lot. After that we had a big 7. A . We took many 8. G. Would you like to see them? How 9. J we were!",
+        "bbox": [
+          0.07522124244496671,
+          0.7658730158947972,
+          0.9800884940421422,
+          0.8358134924981124
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_942_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Write to me 10. F",
+        "bbox": [
+          0.12389380898298162,
+          0.8473837207953847,
+          0.30752212481126606,
+          0.8604651162322318
+        ],
+        "order": 31
+      }
+    ]
+  }
+]

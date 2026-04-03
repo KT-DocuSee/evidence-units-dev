@@ -1,0 +1,113 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1",
+    "primary_id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_5",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "个行权期要求2021年净利润增长率不低于170%；第个行权 期要求为2022年净利率增长率不低于300%；第三个行权期要 求2023年净利润增长率不低于450%。目前2021年业绩已经完 成考核，2022年业绩要求提高，目前2022年Q1公司已实现净 利4566万元，完成全年考核仍有挑战。",
+        "bbox": [
+          0.4183796856106409,
+          0.08892689183411714,
+          0.9455864570737605,
+          0.1778537836682343
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "公司作为一家特色品牌中药企业，多个核心品种处于增长 期，并通过并购进入医美领域，探索寻求新的业绩增量，预 测公司2022-2024年收入分别为8.66、9.55、10.59亿元， EPS分别为0.85、1.07、1.27元，当前股价对应PE分别为 17.2、13.7、11.5倍，给予“推荐”投资评级。",
+        "bbox": [
+          0.41757355904877064,
+          0.2171868319794784,
+          0.9455864570737605,
+          0.3066837679920194
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "风险提示",
+        "bbox": [
+          0.4417573559048771,
+          0.3180846515604959,
+          0.5384925433293027,
+          0.3357560210916346
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "化学药纳入集采后大幅降价的风险、原料药业务价格受反垄 断等监管的风险、医美新业务拓展的不确定性",
+        "bbox": [
+          0.41757355904877064,
+          0.34658686048168735,
+          0.9455864570737605,
+          0.3824996437223885
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.4143490528012898,
+          0.4070115433946131,
+          0.9528415961305925,
+          0.5295710417557361
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_6",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "资料来源：Wind、华鑫证券研究",
+        "bbox": [
+          0.42402257154373235,
+          0.5312811742910075,
+          0.615074566706973,
+          0.5438221462163317
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1",
+    "primary_id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_1",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_eastmoney_7e9f2d3e6d80483c7556fe65fe39f432d669cee3dc80840f126db9c7d7140d52.pdf_1_1",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "盈利预测",
+        "bbox": [
+          0.44256348246674726,
+          0.188684623058287,
+          0.5401047964530431,
+          0.20749608094627334
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

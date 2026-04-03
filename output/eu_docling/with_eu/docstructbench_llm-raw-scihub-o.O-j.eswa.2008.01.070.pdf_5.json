@@ -1,0 +1,136 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_8",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_8",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "OUTPUT | OUTPUT | RAW MATERIAL | NUMBER OF TINTS | RES (DPI) | FINISHING TYPE | NUMBER OF TOOLS | MACHINE | FAMILY | N.E. | N.E. | FABRIC FABRIC | 280 | N.E. | FABRIC | 280 | N.E. | FABRIC | 360 | N.E. | FABRIC | 360 | N.E. | FABRIC | 400 | LAMINATED | FABRIC | 400 | LAMINATED | NILPETER | FABRIC | 400 | LAMINATED | NILPETER | FABRIC | 700 | N.E. | FABRIC | 700 | N.E. | FABRIC | 700 | N.E. | FABRIC | 800 | LAMINATED | NILPETER | FABRIC | 800 | N.E. | FABRIC | 800 | N.E. | NILPETER | CARDBOARD | 280 | N.E | CARDBOARD | 360 | N.E. | CARDBOARD | 360 | N.E. | 500 | LAMINATED | 360 | N.E. | 600 | LAMINATED | 700 | N.E. | NILPETER | 800 | N.E. | NILPETER | 700 | LAMINATED | NILPETER | 800 | LAMINATED | NILPETER | 360 | N.E. | 400 | LAMINATED | 400 | LAMINATED | 400 | LAMINATED | 360 | N.E. | NILPETER | 360 | N.E. | 280 | N.E. | 360 | LAMINATED | 400 | N.E. | 400 | LAMINATED | 500 | N.E. | 700 | N.E. | 800 | N.E. | NILPETER | 280 | N.E. | 280 | N.E. | 360 | N.E. | 360 | N.E. | 500 | N.E. | 600 | SULFATED | 700 | LAMINATED | 600 | LAMINATED | 360 | LAMINATED | NILPETER | 700 | N.E. | NILPETER | 800 | N.E. | NILPETER | N.E.. | N.E. | NILPETER | 500 | N.E.",
+        "bbox": [
+          0.217862868395509,
+          0.08710035812827735,
+          0.7934029335843032,
+          0.6716253786670918
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "as input 1 of the training matrix has six different values, six processing units are built. However, the actual value is represented by a string, which is not a suitable input type for the FANN. Thus, such values are converted to a stream of O's and l's. Table 1 illustrates the codification for the raw material family.",
+        "bbox": [
+          0.0697674507396978,
+          0.7194767446867681,
+          0.4961240144461377,
+          0.8081395350185688
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The prior codification is necessary because FANNs only handle values within the closed interval [0, 1]. Therefore, the actual input and output values that the net receives and obtains are O's and 1's. This codification-decodification is done by the encoder class attached to the machine agent (see Fig. 5). Therefore, the FANN has six processing units in the input layer, which are in charge of dealing exclusively with the raw material family. The totality of discrete values contained in the input and output sets were",
+        "bbox": [
+          0.06976743198365119,
+          0.809523809737167,
+          0.49612402212851925,
+          0.9433139536050513
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "codified in a similar way. Tables 2-6 show the resultant codification.",
+        "bbox": [
+          0.5212761844594114,
+          0.8691860461749239,
+          0.9476744286908403,
+          0.898424497947
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Consequently, the number of processing units in the input layer of the FANN equals the number of codified input values. For this case, 25 processing units in the input",
+        "bbox": [
+          0.5193798524129363,
+          0.8997093021051566,
+          0.947674408882876,
+          0.9462209297186339
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 2. The training matrix.",
+        "bbox": [
+          0.42635659332018994,
+          0.6830357143681681,
+          0.5891472853619806,
+          0.696220930216001
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_5",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 1 Codification of the raw material family set",
+        "bbox": [
+          0.5212809040228421,
+          0.7193994168850308,
+          0.7713178325823643,
+          0.7442956348441268
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_9",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-j.eswa.2008.01.070.pdf_5_9",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Input stream | Input stream | Raw material family | 0 | 0 | 1 | Paper | 0 | 0 | Fabric | Kimdura | 0 | Cardboard | 000 | 0 | 0 | 0 | BOPP | - | 0 | 0 | Other",
+        "bbox": [
+          0.5211860629062122,
+          0.7464132918792517,
+          0.9455338354698836,
+          0.8439720517113095
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

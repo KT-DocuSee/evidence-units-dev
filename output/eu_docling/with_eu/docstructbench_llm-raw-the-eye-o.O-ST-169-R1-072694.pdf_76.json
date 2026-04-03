@@ -1,0 +1,523 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Result Parameter Details",
+        "bbox": [
+          0.08646616448182558,
+          0.06820436504949488,
+          0.31954886845050534,
+          0.08284883694840625
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_1",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Peripheral Control Status",
+        "bbox": [
+          0.08646616795048909,
+          0.09151785691849847,
+          0.2857142798565285,
+          0.10615079342643495
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The SMPC outputs the peripheral control status to the status register (SR) when the SMPC control mode is used. The status register (SR) is a register that can be read without regard for the INTBACK command. However, when the register is read when the INTBACK command is not in use, all bits except the RESB bit will be undefined.",
+        "bbox": [
+          0.08637409581817902,
+          0.10755813976074333,
+          0.8101503672697372,
+          0.19797395435139575
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P2MD1 P2MDO P1MD1 P1MDO",
+        "bbox": [
+          0.379699246721182,
+          0.2775297622988048,
+          0.6203007532788181,
+          0.29513888928293175
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_37",
+    "source": "visual_seed",
+    "member_count": 25,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_37",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0879669189453125,
+          0.2374662364612926,
+          0.8277366009880515,
+          0.6370659290660511
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "bit7",
+        "bbox": [
+          0.1635338351359639,
+          0.24709302350217513,
+          0.19548872165444964,
+          0.26162790658503415
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "bito",
+        "bbox": [
+          0.5676691733186071,
+          0.24854651164446398,
+          0.6052631568818942,
+          0.2616279070813111
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SR",
+        "bbox": [
+          0.10338345896988974,
+          0.27325581376213337,
+          0.1315789466423552,
+          0.2892441863832155
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NPE",
+        "bbox": [
+          0.27443609101910826,
+          0.2761627903004085,
+          0.3120300745823955,
+          0.2921511629214906
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1",
+        "bbox": [
+          0.1672932329887218,
+          0.2776162786458543,
+          0.18045112772556393,
+          0.2936046512669364
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PDL",
+        "bbox": [
+          0.2199248124600671,
+          0.2776162793265106,
+          0.25563909782457317,
+          0.2921511624093698
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RESB",
+        "bbox": [
+          0.3269806431973509,
+          0.27887320064467985,
+          0.376026876818931,
+          0.29234772939635584
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10: Unused",
+        "bbox": [
+          0.24248120535932768,
+          0.36482558133117393,
+          0.32706766592826625,
+          0.3808139539522561
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "10: Unused",
+        "bbox": [
+          0.24245622619339294,
+          0.43451382186504484,
+          0.3270926450954559,
+          0.4506605971409869
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "RESB: Reset Button Status Bit",
+        "bbox": [
+          0.1522556346911068,
+          0.46220930233608215,
+          0.3928571412487428,
+          0.47529069777292937
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0: Reset Button OFF",
+        "bbox": [
+          0.24248120490757133,
+          0.47519841268207663,
+          0.4041353332503235,
+          0.4898313491900131
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1: Reset Button ON",
+        "bbox": [
+          0.2424812039219864,
+          0.4898255818597333,
+          0.3947368388223745,
+          0.5044642858266308
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Reading without regard for INTBACK command is possible. (Shows",
+        "bbox": [
+          0.2913533801008692,
+          0.5043604654716518,
+          0.7838345775119129,
+          0.5188953485545108
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "status for each V-BLANK-IN.)",
+        "bbox": [
+          0.2894736884805562,
+          0.5173611112277904,
+          0.5075187872713236,
+          0.5319940477357269
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NPE:",
+        "bbox": [
+          0.15225564057941424,
+          0.5319767440984369,
+          0.195488721187503,
+          0.545058139535284
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remaining Peripheral Existence Bit",
+        "bbox": [
+          0.21992481126753985,
+          0.5319767445535317,
+          0.47932330470990386,
+          0.5466269839114043
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0: No remaining data",
+        "bbox": [
+          0.24436090443764652,
+          0.5450581393273614,
+          0.4060150327803987,
+          0.5581395347642085
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1: Remaining data",
+        "bbox": [
+          0.2424812045529428,
+          0.5595238098996839,
+          0.38533834601096695,
+          0.5756448416457156
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PDL: Peripheral Data Location Bit",
+        "bbox": [
+          0.1522556427339616,
+          0.5726686505809124,
+          0.42669172176657555,
+          0.587301587088849
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0: 2nd or above peripheral data",
+        "bbox": [
+          0.24248120959209302,
+          0.5872093025864774,
+          0.4812030057086587,
+          0.6017441856693365
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1: 1st peripheral data",
+        "bbox": [
+          0.24013227368389323,
+          0.5983945288072424,
+          0.40651271889735796,
+          0.6189138402731568
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "bit7: Always 1",
+        "bbox": [
+          0.15225563774029027,
+          0.6148255812912032,
+          0.28571428575595037,
+          0.6308139539122853
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "SEG",
+        "bbox": [
+          0.10197861161724497,
+          0.659709901170573,
+          0.38375034859474016,
+          0.9182076540111297
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_3",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Figure 3.13 Peripheral Control Status",
+        "bbox": [
+          0.32142857102130323,
+          0.6773255815326984,
+          0.6165413523624647,
+          0.691964285499596
+        ],
+        "order": 37
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_12",
+    "source": "text_cluster",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P1MD: Port 1 Mode",
+        "bbox": [
+          0.15225563953943097,
+          0.32266865090861635,
+          0.31203007702877533,
+          0.33730158741655303
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "00: 15-byte mode (Returns peripheral data up to a maximum of 15 bytes.)",
+        "bbox": [
+          0.2406015039799338,
+          0.3372093027027565,
+          0.7781954777493898,
+          0.35174418578561556
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "01: 255-byte mode (Returns peripheral data up to a maximum of 255 bytes.)",
+        "bbox": [
+          0.24248120137183848,
+          0.3501984123177038,
+          0.7969924907602772,
+          0.36631944406373557
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11: 0-byte mode (Port is not accessed.)",
+        "bbox": [
+          0.24060150086466175,
+          0.37936046549345415,
+          0.530075185075188,
+          0.3938953485763132
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "P2MD: Port 2 Mode",
+        "bbox": [
+          0.1522556399959293,
+          0.39236111122152373,
+          0.3120300774852736,
+          0.4055232558143538
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "00: 15-byte mode (Returns peripheral data up to a maximum of 15 bytes.)",
+        "bbox": [
+          0.2424812180269994,
+          0.4069767444220255,
+          0.7781954813553853,
+          0.42162698425295086
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "01: 255-byte mode (Returns peripheral data up to a maximum of 255 bytes.)",
+        "bbox": [
+          0.24248120137183848,
+          0.4200581397916271,
+          0.7969924907602772,
+          0.43459302287448615
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-ST-169-R1-072694.pdf_76_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "11: 0-byte mode (Port is not accessed.)",
+        "bbox": [
+          0.2406015001409775,
+          0.449127906987245,
+          0.5300751843515039,
+          0.4623015874441028
+        ],
+        "order": 22
+      }
+    ]
+  }
+]

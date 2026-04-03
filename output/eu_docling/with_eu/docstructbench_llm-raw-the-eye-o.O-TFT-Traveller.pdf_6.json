@@ -1,0 +1,156 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_8",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_8",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5276761761833639,
+          0.044323480779474435,
+          0.7589258530560662,
+          0.2881408136541193
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Armor",
+        "bbox": [
+          0.5281499738556931,
+          0.3080075181738868,
+          0.577113185169903,
+          0.318445969865166
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_0",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "*Explosive Ammo **Heavy Weapon ***Crew Served Weapon",
+        "bbox": [
+          0.058250166726436826,
+          0.37351190455801603,
+          0.41353383049375064,
+          0.4041244873146293
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_4",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "PG-12 | - | 20 | AP ammo | PG-13 | 7 | AP ammo | PG-14 | 8 | AP ammo | FG-14 | 9 | 20 | AP ammo | FG-15 | 10 | 20 | AP ammo | Low Tech Machinegun** | 3 | +5 | 10 bursts | High Tech Machinegun** | 3 | +5 | 20 bursts | AP ammo | Rocket Launcher** | Sp | Sp | 4 shots | Explosive (12 dice) | Heavy Machinegun*** | 3 | +7 | 20 bursts | Autocannon*** | 3 | +10 | 20 bursts | AP ammo | VRF Gauss Gun *** | 4 | +12 | 20 bursts | AP ammo",
+        "bbox": [
+          0.05421906863941866,
+          0.04605592901056463,
+          0.4340452306410846,
+          0.3720781083540483
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Armor Protection | Notes | flak jacket | 2 | nylon | 3 | combat TL11 | 4 | combat TL12 | 5 | combat TL13 | 6 | battle TL13 | 6 | Doubles wearer's ST | combat TL14 | 7 | battle TL14 | 7 | Triples wearer's",
+        "bbox": [
+          0.523536376953125,
+          0.3388346446644176,
+          0.7359961655560662,
+          0.6700148703835227
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_5",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Grenades",
+        "bbox": [
+          0.05825330550441169,
+          0.42434922319881374,
+          0.1259572185552481,
+          0.43466240484888474
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_5",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Tech Level | Damage | 6- | 3 | 7-8 | 4 | 9-10 | 6 | 11-12 | 8",
+        "bbox": [
+          0.05402759327607996,
+          0.454844277121804,
+          0.18077313591452207,
+          0.5788352272727273
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14479318057789523,
+          0.6697095836292614,
+          0.6918753590303309,
+          0.9217547052556818
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Who are you?\" said Lucie. \"Have you seen my pocket-handkins?\"",
+        "bbox": [
+          0.11515347180478992,
+          0.08134920656622888,
+          0.8450413274005242,
+          0.14119548365652643
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The little person made a bob-curtsey-\"Oh, yes, if you please'm; my name is Mrs. Tiggy-winkle; oh, yes if you please m, I'm an excellent clear-starcher!\" And she took something out of a clothes-basket, and spread it on the ironing-blanket.",
+        "bbox": [
+          0.4421487561065569,
+          0.1743551588421723,
+          0.8471074412469624,
+          0.47247023835926755
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.08087937533855438,
+          0.18908618097036933,
+          0.43534934520721436,
+          0.45910267512439945
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"What's that thing?\" said Lucie-\"that's not my pocket-handkin?\" \"Oh no, if you please'm; that's a little scarlet waistcoat belonging to Cock Robin!\" And she ironed it and folded it, and put it on one side.",
+        "bbox": [
+          0.11363637016455476,
+          0.50145348946538,
+          0.8450413170699461,
+          0.8125000001005434
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88",
+    "primary_id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_dianzishu_zhongwenzaixian-o.O-60832903.pdf_88_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5179731845855713,
+          0.5906310071663735,
+          0.8523167371749878,
+          0.8413894433392674
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

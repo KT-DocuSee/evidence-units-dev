@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "docling_book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188_8",
+    "text": "5 | 3 | 4 | 6 | 7 | 9 | 1 | 2 | 6 | 7 | 2 | 1 | 5 | 3 | 4 | 1 | 9 | 8 | 3 | 4 | 2 | 5 | 7 | 8 | 5 | 9 | 7 | 1 | 4 | 2 | 3 | 4 | 2 | 6 | 8 | 5 | 3 | 7 | 9 | 1 | 7 | 1 | 3 | 9 | 2 | 4 | 5 | 6 | 9 | 6 | 1 | 5 | 3 | 7 | 2 | 4 | 2 | 8 | 7 | 4 | 1 | 9 | 6 | 3 | 5 | 3 | 4 | 5 | 2 | 6 | 1 | 7 | 9",
+    "canon_role": "table",
+    "bbox": [
+      0.26079347502687344,
+      0.0852685121508433,
+      0.7397708877201065,
+      0.35491059652088397
+    ],
+    "page": "book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188_2",
+    "text": "Fig. 10.3 Solved sudoku puzzle.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12114538319890376,
+      0.3851686505850277,
+      0.374449335523563,
+      0.3983134918548689
+    ],
+    "page": "book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188_3",
+    "text": "10.4 Hybrid Optimization",
+    "canon_role": "section_header",
+    "bbox": [
+      0.12114537906221017,
+      0.43452380940713015,
+      0.42731277509134546,
+      0.45348837155829735
+    ],
+    "page": "book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188_4",
+    "text": "Hybrid methods may be required to solve particularly difficult real-world optimization problems. Implementation of hybrid methods typically requires non-trivial scripting because hybrids generally require a custom optimization workflow process. To illustrate this point, we describe a hybrid optimization method to solve a parameter estimation problem arising in the context of a model for childhood infectious disease transmission.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11894273345008145,
+      0.47817460331206313,
+      0.8788546288324531,
+      0.5843253967737241
+    ],
+    "page": "book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188_5",
+    "text": "This parameter estimation model is a difficult nonconvex, nonlinear program for which no efficient solution algorithm exists to find global optima. To facilitate solution, the problem is reformulated using a MIP under-estimator and an NLP overestimator. Information is exchanged between the two formulations, and the process is iterated until the two solutions converge.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.11894274630125047,
+      0.5843023260081104,
+      0.8788546288324531,
+      0.6744186049006574
+    ],
+    "page": "book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188_6",
+    "text": "Example 10.A.14 provides a Pyomo script that implements the hybrid search. Note that some initialization code is omitted from this example for clarity. In this example, user-defined Python functions are used to organize and modularize the optimization workflow. For example, the optimization model in this application is constructed via a function, disease mdl. Example 10.A. 14 includes a sketch of this function.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12106576028272915,
+      0.6758432541552748,
+      0.8811584970073533,
+      0.7806117324176515
+    ],
+    "page": "book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188_7",
+    "text": "Beyond the standard Pyomo model constructs, we observe the ability to dynamically augment Pyomo models with arbitrary data, e.g., the definition of the pts_LS and pts_LI attributes; these are not model components, but rather raw Python data types. Pyomo itself is unaware of of these attributes, but other components of a user-defined script can access and manipulate these attributes. Such a mechanism is invaluable when information is being propagated across disparate components of a",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.12114537975263849,
+      0.7834302328771751,
+      0.8788546342176254,
+      0.8881448412631744
+    ],
+    "page": "book_en_[搬书匠#893][Pyomo—Optimization Modeling in Python].2012.英文版_page_188",
+    "order": 9
+  }
+]

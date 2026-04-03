@@ -1,0 +1,162 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_13",
+    "source": "visual_seed",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for Ravens set E the overall effect was just short of None of the interactions containing user group were significance, F(2,117) = 2.89, p =0.059. However, statistically significant, F < 1.65 in all cases. pairwise comparisons revealed that ecstasy/cannabis In relation to the number of correct responses on the users scored significantly lower than 'ecstasy-only' processing speed task there was a significant users, p <0.05. There was no significant group interaction between user group and type of task, difference in relation to set D, F < 1. For the sample F(2,122) = 4.01, p < 0.05. Compared to the other two completing the computation span task, again the groups, ecstasy/cannabis users were generally faster overall group differences were non-significant. when processing patterns but slower when processing F = 3.04, p=0.050 for set D, and F=3.01, the letter stimuli. With this exception, neither the main p =0.052 for set E, both with df = 2,182. However, effect of user group nor any of the interactions two of the pairwise comparisons were statistically containing this variable were statistically significant, significant. For set D ecstasy/cannabis users scored F < 1.08 in all cases. significantly lower than non-users, and for set E ecstasy/cannabis users scored significantly lower than 'ecstasy-only' users, p < 0.05 in both cases.",
+        "bbox": [
+          0.12075471582391843,
+          0.09883720956322162,
+          0.9057928565830778,
+          0.32122092988445283
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "No group differences were observed on three of the random generation measures, specifically for alphabetic sequences and redundancy, F < 1 in both cases and for repeat sequences, F(2,133) = 1.93, p > 0.05. There was a significant group difference in the number of letters generated, F(2,133) = 5.88, p < 0.01. Inspection of Table 3 reveals that ecstasy/cannabis users produced significantly fewer letters compared to nonusers, p < 0.01. None of the other pairwise comparisons were significant.",
+        "bbox": [
+          0.5207547302464042,
+          0.2775297617308541,
+          0.9058708717702132,
+          0.42587209294646833
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The number of errors on the processing speed task yielded a significant group effect, F(2,122) = 3.83, p < 0.05. The ecstasy/cannabis group made more errors compared to the 'ecstasy-only' group and compared to non-users (Table 3). Of the pairwise comparisons, only the non-user versus ecstasy/ cannabis user difference was significant, p < 0.05.",
+        "bbox": [
+          0.12264150181113614,
+          0.3807043649332533,
+          0.5075471560554828,
+          0.4854651163832153
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Although both user groups had lower reading span scores compared to non-users, the difference was not statistically significant, F(2,94) = 1.07, p > 0.05. However, on the computation span measure there",
+        "bbox": [
+          0.5225417220771722,
+          0.42584325351164787,
+          0.9075471643762373,
+          0.4854651162022823
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_7",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 3. Performance measures on each of the tasks for non-ecstasy users, 'ecstasy-only' users and ecstasy/cannabis users",
+        "bbox": [
+          0.12264149811930548,
+          0.5116279070790889,
+          0.8377358424939025,
+          0.5233134922978514
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_13",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Non-user | Non-user | Ecstasy 'only' user | Ecstasy 'only' user | Ecstasy/cannabis user | Ecstasy/cannabis user | Mean | SD | Mean | SD | Mean | SD | Processing speed | Total errors | 1.05 | 0.72 | 1.15 | 0.73 | 1.51 | 1.00* | Correct responses, letters | 17.60 | 3.27 | 17.01 | 3.12 | 16.65 | 2.45 | Correct responses, patterns | 15.81 | 3.45 | 15.43 | 2.64 | 16.30 | 2.79 | Random generation (standardised scores) | Alphabetic sequences | -0.01 | 0.75 | -0.03 | 0.54 | -0.04 | 0.93 | Repeat sequences | - 0.04 | 0.51 | -0.18 | 0.44 | 0.16 | 1.07 | Redundancy | -0.04 | 0.69 | -0.07 | 0.77 | 0.12 | 0.84 | Number of letters | 0.18 | 0.44 | 0.09 | 0.42 | -0.16 | 0.64** | Working memory span | Reading span | 3.06 | 0.85 | 1.17 | Computation span | 4.56 | 1.81 | 1.66*** | Spatial working memory | 4.16 | 1.30 | 1.34*** | Associative learning | Initial learning | 4.32 | 2.01 | 3.69 | 2.18 | 2.25 | 630 | Perseverative responses | 0.16 | 0.66 | 0.94 | 1.57 | 0.38 | Total forgotten | 0.48 | 0.94 | 1.13 | 1.30 | 1.38 | Trials to completion | 4.32 | 1.46 | 5.94 | 6.00 | Syllogistic reasoning, correct responses | One model (easy) | 4.90 | 1.85 | 2.91 | 1.87 | 3.55 | Two/three model (difficult) | 1.75 | 1.61 | 1.32 | 2.01 | 1.34",
+        "bbox": [
+          0.12233823745969742,
+          0.5263627171516418,
+          0.9056005084325397,
+          0.8420801758766174
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_10",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "p < 0.01.",
+        "bbox": [
+          0.13207547199729874,
+          0.8618551586049218,
+          0.18867924372597178,
+          0.8735465117556981
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_9",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "***p < 0.001.",
+        "bbox": [
+          0.12452830324784098,
+          0.8720238094286324,
+          0.20000000052574385,
+          0.8851744186304874
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_3",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_3",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Main results",
+        "bbox": [
+          0.12251396217026517,
+          0.3584567766957407,
+          0.21522188820903554,
+          0.3726478743791175
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-hup.777.pdf_8_8",
+        "observed_type": "footnote",
+        "canon_role": "support_paragraph",
+        "text": "₽ < 0.05.",
+        "bbox": [
+          0.12264151104440434,
+          0.8501984123055916,
+          0.1811320748360987,
+          0.8663194440516233
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

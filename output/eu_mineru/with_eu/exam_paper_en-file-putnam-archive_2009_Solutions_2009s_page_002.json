@@ -1,0 +1,356 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "product of the orders of all of its elements cannot be a power of 2.",
+        "bbox": [
+          0.12705882352941175,
+          0.06606060606060606,
+          0.49019607843137253,
+          0.09575757575757576
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Moreover, the partial derivatives have no common zero in (0, 1)2. Namely, for the first partial to vanish, we must have x0 = 1/2 since 1 + yo is nowhere zero, but for x0 = 1/2 the second partial cannot vanish.",
+        "bbox": [
+          0.5568627450980392,
+          0.06666666666666667,
+          0.7709803921568628,
+          0.08121212121212121
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We may thus consider only abelian 2-groups hereafter. For such a group G, the product of the orders of all of its elements has the form 2k(G) for some nonnegative integer G, and we must show that it is impossible to achieve k(G) = 2009. Again by the structure theorem, we may write",
+        "bbox": [
+          0.12705882352941175,
+          0.1006060606060606,
+          0.49019607843137253,
+          0.18787878787878787
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.16787878787878788,
+          0.9192156862745098,
+          0.22666666666666666
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. This problem amounts to refuting a potential generalization of the Mean Value Theorem to bivariate functions. Many counterexamples are possible. Kent Merryfi eld suggests y sin(2πx), for which all four of the boundary integrals vanish; here the partial derivatives are 2πycos(2πx) and sin(2πx). Catalin Zara suggests x1/3y2/3. Qingchun Ren suggests xy(1 − y).",
+        "bbox": [
+          0.5568627450980392,
+          0.2315151515151515,
+          0.9192156862745098,
+          0.33575757575757575
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "for some nonnegative integers e1, e2, . ., all but finitely many of which are 0.",
+        "bbox": [
+          0.12784313725490196,
+          0.24484848484848484,
+          0.49019607843137253,
+          0.2739393939393939
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For any nonnegative integer m, the elements of G of order at most 2m form a subgroup isomorphic to",
+        "bbox": [
+          0.12705882352941175,
+          0.2787878787878788,
+          0.49098039215686273,
+          0.30787878787878786
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–1 Every positive rational number can be uniquely written in lowest terms as a/b for a, b positive integers. we prove the statement in the problem by induction on the largest prime dividing either a or b (where this is con- sidered to be 1 if a = b = 1). For the base case, we can write 1/1 = 2!/2!. For a general a/b, let p be the largest prime dividing either a or b; then a/b = pka / ′ for some k ≠ 0 and positive integers a', b′ whose largest prime factors are strictly less than p. We now have a/b = (p!)k( k p−1)k, and all prime factors of d and ( − 1)kb′ are strictly less than p. By the induction as- sumption, (−1) can be written as aquotient of prod- ucts of prime factorials, and so a/ = (p!)kc: (−1)k can dcd: as well. This completes the induction.",
+        "bbox": [
+          0.5247058823529411,
+          0.34424242424242424,
+          0.9192156862745098,
+          0.5684848484848485
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_4",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "which has 2sm elements for sm = Σi=1 min{i, m}ei. Hence",
+        "bbox": [
+          0.12705882352941175,
+          0.3654545454545455,
+          0.4894117647058824,
+          0.3939393939393939
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Since s1 ≤ s2 ≤ … , k(G) + 1 is always divisible by 2s1. In particular, k(G) = 2009 forces s1 ≤ 1.",
+        "bbox": [
+          0.12705882352941175,
+          0.4496969696969697,
+          0.4894117647058824,
+          0.4793939393939394
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "However, the only cases where s1 ≤ 1 are where all of the ei are 0, in which case k(G) = 0, or where ei = 1 for some i and ej = 0 for j ≠ i, in which case k(G) = (i − 1)2i + 1. The right side is a strictly increasing function of i which equals 1793 for i = 8 and 4097 for i = 9, so it can never equal 2009. This proves the claim.",
+        "bbox": [
+          0.12705882352941175,
+          0.48363636363636364,
+          0.49019607843137253,
+          0.5709090909090909
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. Noam Elkies points out that the representa- tions are unique up to rearranging and canceling com- mon factors.",
+        "bbox": [
+          0.556078431372549,
+          0.5721212121212121,
+          0.9192156862745098,
+          0.6157575757575757
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. One can also arrive at the key congruence by dividing G into equivalence classes, by declaring two elements to be equivalent if they generate the same cyclic subgroup of G. For h > 0, an element of order 2h belongs to an equivalence class of size 2h−1, so the products of the orders of the elements of this equiva- lence class is 2j for j = h2h−1. This quantity is divisible by 4 as long as h > 1; thus to have k(G) ≡ 1 (mod 4), the number of elements of G of order 2 must be con- gruent to 1 modulo 4. However, there are exactly 2e – 1 such elements, for e the number of cyclic factors of G. Hence e = 1, and one concludes as in the given solution.",
+        "bbox": [
+          0.12705882352941175,
+          0.5757575757575758,
+          0.49019607843137253,
+          0.7496969696969698
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_13",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–2 The desired real numbers c are precisely those for which 1/3 < c ≤ 1. For any positive integer m and any se- quence 0 = x0 < x1 < . . < xm = 1, the cost of jumping along this sequence is ∑i=1(xi − xi−1)x. Since",
+        "bbox": [
+          0.5231372549019608,
+          0.6254545454545455,
+          0.9192156862745098,
+          0.6854545454545454
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_14",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A–6 We disprove the assertion using the example",
+        "bbox": [
+          0.09254901960784313,
+          0.7593939393939394,
+          0.4203921568627451,
+          0.7745454545454545
+        ],
+        "order": 15
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We have b− a = d − c = 0 because the identity f(x, y) = f (1 − x, y) forces a = b, and because",
+        "bbox": [
+          0.12627450980392158,
+          0.8133333333333334,
+          0.4894117647058824,
+          0.843030303030303
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_16",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "we can only achieve costs c for which 1/3 < c ≤ 1.",
+        "bbox": [
+          0.556078431372549,
+          0.813939393939394,
+          0.8941176470588236,
+          0.8296969696969697
+        ],
+        "order": 17
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2009_Solutions_2009s_page_002_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It remains to check that any such c can be achieved. Suppose 0 = x0 < . .· < xm = 1 is a sequence with m ≥ 1. For i = 1, . ., m, let ci be the cost of the sequence 0, xi, xi+1, . . .,Xm. For i > 1 and 0 < y ≤ xi−1, the cost of the sequence 0, y, xi, . . ., Xm is",
+        "bbox": [
+          0.5568627450980392,
+          0.833939393939394,
+          0.9192156862745098,
+          0.9072727272727272
+        ],
+        "order": 18
+      }
+    ]
+  }
+]

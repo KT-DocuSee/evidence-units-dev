@@ -1,0 +1,218 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Fish proximate composition",
+        "bbox": [
+          0.10250722297534377,
+          0.08728691969337322,
+          0.3243261317088746,
+          0.10269049375690968
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Table 3 shows the proximate composition of whole body of the fish after the 12-week feeding experi- ment. Fish from all groups showed lower moisture content and higher crude protein and crude lipid compared with at the beginning of the experiment. Conversely, crude lipid and crude ash contents did not show any signifi cant differences (P>0.05) among the treatments. Fish fed the control diet and diet 1 showed significantly higher (P<0.05) whole body crude protein. The whole body total P con- tents were identical to those at the beginning of the experiment and ranged from 0.49% to 0.53% among the treatments.",
+        "bbox": [
+          0.10082677669705946,
+          0.11681043664848477,
+          0.48732942070245405,
+          0.20538098751381936
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_2",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5259796851029935,
+          0.08728691969337322,
+          0.9108018828301038,
+          0.1899774134502829
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10250722297534377,
+          0.24517355384462186,
+          0.4822880818676011,
+          0.6546518977002992
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_5",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Phosphorus and nitrogen absorption",
+        "bbox": [
+          0.5276601313812778,
+          0.21950093040539445,
+          0.818377337524466,
+          0.23618813564089228
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Table 4 shows the absorption rates of P and N in carp fed the different diets. The P absorption rate (% of dietary P) was inversely proportional to the total dietary P content. The highest P absorption rate as a percentage of total P was observed for the diet lowest in FM (diet 5), followed by diet groups 3 and 4. The available P calculated from the absorption rates was approximately similar to the estimated dietary available P (water-extractable P), and all diets met the level required by carp (0.6–0.7%). The determined available P was slightly lower (0.76%) than that of the estimated value (0.82%) for the control group. Nitrogen absorption was signifi cantly higher (P<0.05) in the control group and lowest for diet 2. There were no signifi- cant differences (P>0.05) in these values among the experimental groups.",
+        "bbox": [
+          0.5259796851029935,
+          0.25030807853246734,
+          0.9108018828301038,
+          0.5018997882368961
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_7",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_7",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Phosphorus and nitrogen retention",
+        "bbox": [
+          0.5276601313812778,
+          0.5301396740200462,
+          0.8049337672981913,
+          0.5455432480835827
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The retention rates of P and N determined at the end of the 12-week feeding period are shown in Table 4. The P retention rate (% of total P) was sig- nificantly lower (P<0.05) for the fish fed the control diet (27.6%), whereas the values obtained among the experimental groups were similar, albeit being the highest for diet 5. The amount of P retained from the absorbed P was also calculated and the values were proportional to the dietary FM",
+        "bbox": [
+          0.5259796851029935,
+          0.5596631909751578,
+          0.9108018828301038,
+          0.6931608328591403
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_3",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "Fig. 1 Growth of carp and changes of water tempera- ture during the feeding trial.",
+        "bbox": [
+          0.09914633041877513,
+          0.6649209470759901,
+          0.4856489744241697,
+          0.6944444640311017
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_9",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Table 2 Growth performance of carp fed the experimental diets for 12 weeks",
+        "bbox": [
+          0.09914633041877513,
+          0.726535243330136,
+          0.6368891394697589,
+          0.7419388173936725
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_10",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_10",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.09914633041877513,
+          0.7432224485656338,
+          0.9141627753866723,
+          0.9139453944364961
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4",
+    "primary_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-scihub-o.O-j.1444-2906.2002.00466.x.pdf_4_11",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Values within a row not sharing same superscripts are signifi cantly different (P<0.05).",
+        "bbox": [
+          0.1109094543667654,
+          0.9165126567804189,
+          0.6419304783046119,
+          0.9293489685000327
+        ],
+        "order": 12
+      }
+    ]
+  }
+]

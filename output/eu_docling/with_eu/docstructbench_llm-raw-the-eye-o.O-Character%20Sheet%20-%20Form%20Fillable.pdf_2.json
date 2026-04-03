@@ -1,0 +1,165 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_10",
+    "source": "visual_seed",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_10",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "LANGUAGES | LANGUAGES | KNOWN | NOT KNOWN",
+        "bbox": [
+          0.3646344665748753,
+          0.0367638244237488,
+          0.931553389746448,
+          0.22024936684179938
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MONEY GEMS",
+        "bbox": [
+          0.06972128886346679,
+          0.04025946360511367,
+          0.32876807331685587,
+          0.060031234430575384
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "EQUIPMENT",
+        "bbox": [
+          0.08401818464297138,
+          0.15192438778879577,
+          0.23220358291063448,
+          0.1722035190272186
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "+1 Enc",
+        "bbox": [
+          0.30683394831854893,
+          0.43255734043108757,
+          0.3329552657392837,
+          0.4875449696857466
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NON-ENCUMBERING EQUIPMENT",
+        "bbox": [
+          0.4804928129105431,
+          0.5145348833842265,
+          0.829568793718967,
+          0.5305232560053086
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PROPERTIES Location",
+        "bbox": [
+          0.5893223830627874,
+          0.6845930234043648,
+          0.7166324417421406,
+          0.7227685230348295
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Name Value",
+        "bbox": [
+          0.37780564932890986,
+          0.7063953487330635,
+          0.9199178647879294,
+          0.7223837213541457
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Library Value Laboratory Value",
+        "bbox": [
+          0.3818666415124316,
+          0.808035714696331,
+          0.8049281288355146,
+          0.8258213394278361
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "INVESTMENTS",
+        "bbox": [
+          0.5790554432168339,
+          0.8444767438766043,
+          0.726899380602468,
+          0.861918605089804
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Name Type Value",
+        "bbox": [
+          0.3696098561261748,
+          0.863372092840985,
+          0.9117043116000445,
+          0.8822674413126261
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2",
+    "primary_id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-the-eye-o.O-Character%20Sheet%20-%20Form%20Fillable.pdf_2_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "31",
+        "bbox": [
+          0.2546201235352147,
+          0.9345930236563027,
+          0.29158110788162317,
+          0.9549418601615266
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

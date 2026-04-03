@@ -1,0 +1,227 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_2",
+    "source": "text_cluster",
+    "member_count": 10,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2995594841445143,
+          0.09254003661821471,
+          0.7555066062705404,
+          0.13081395306565968
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_3",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(d) Expand each summand of the right hand side above as a power series to conclude that an = 2\"+1 - (n + 1) for n ≥ 0.",
+        "bbox": [
+          0.14757711779430582,
+          0.14970930255740764,
+          0.8766519716770597,
+          0.18179563493797155
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Given k,m e N, use generating functions to compute the number of integer solutions of the equation a ta2+... tak = m, such that a; ≥ 1 for 1 ≤ i ≤ k.",
+        "bbox": [
+          0.12334802994671806,
+          0.19320436461487017,
+          0.878854631039931,
+          0.22966269830068492
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_6",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Use generating functions to compute the number of nonnegative integer solutions of the equation a1 + a2 + a3 + a4 = 20, satisfying a1 ≥ 2 and a3 ≤ 7.",
+        "bbox": [
+          0.12334804595259118,
+          0.22817460297191539,
+          0.8788546102148094,
+          0.2646329365244936
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "A particle moves on the cartesian plane in such a way that from point (a, b) it can go to either (a + 1, b) or (a, b + 1). Given n € N, let an be the number of distinct ways the particle has to go from Ao(0, 0) to An(n, n), without ever touching a point (x, y) situated above the bisector of odd quadrants (i.e., one such point for which y > x). In this respect, do the following items:",
+        "bbox": [
+          0.12334804338680216,
+          0.2645348841365334,
+          0.8788546336720897,
+          0.35466269881074375
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) Let Ak(k, k), with 0 ≤ k < n. Prove that there are exactly akan-1-k distinct trajectories for the particle in which Ak is the last point (before An) on the Ine y = x.",
+        "bbox": [
+          0.1453744435064014,
+          0.3648255820400869,
+          0.8788546130464626,
+          0.4177571339873671
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) Conclude that an = [k=o akan-1-k and, hence, that an = Cn for n ≥ 1, where Cn is the n-th Catalan number.",
+        "bbox": [
+          0.1453744501693968,
+          0.41715116339709757,
+          0.8788546197094578,
+          0.45348837231344796
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For the coming problem, the reader may find it convenient to read again the paragraph that precedes Example 1.15.",
+        "bbox": [
+          0.14757710204311578,
+          0.4635416669062502,
+          0.8766519863912988,
+          0.4985465118774015
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_10",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "For n € N, we let an denote the number of partitions of n in natural summands, none of which exceeds 3. The purpose of this problem is to compute an as a function of n, and to this end do the following items:",
+        "bbox": [
+          0.12334802595307895,
+          0.4999999997541392,
+          0.8788546361063919,
+          0.5508720932267231
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) Show that, for |x| < 1, one has",
+        "bbox": [
+          0.1475770882769773,
+          0.5639534888738152,
+          0.4713656322076046,
+          0.5771329363165816
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_12",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_12",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.359030839010251,
+          0.6031976745273954,
+          0.6982378833734786,
+          0.6308139535925178
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100",
+    "primary_id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_13",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_13",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) Find a, b, c, d € R for which",
+        "bbox": [
+          0.14537445811216113,
+          0.6584302322006717,
+          0.4537444890244028,
+          0.6744186048217536
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2070484589046838,
+          0.6904069767930255,
+          0.8590308354314097,
+          0.7252906976877527
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_15",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(c) Conclude that",
+        "bbox": [
+          0.14757709422490456,
+          0.7427325586402564,
+          0.3171806112266373,
+          0.7572674417231156
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_book_en_国外数学教材-An Excursion through Elementary Mathematics（初等数学漫游）-An excursion through elementary mathematics, Vol.3 (Caminha Muniz Neto A)_0100_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2907488988855253,
+          0.7775297618026176,
+          0.753303966030336,
+          0.8837209297109452
+        ],
+        "order": 17
+      }
+    ]
+  }
+]

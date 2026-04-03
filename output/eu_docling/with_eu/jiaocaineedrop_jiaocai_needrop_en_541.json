@@ -1,0 +1,71 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_541",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_541_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_541_3",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7424076166947015,
+          0.035381808272534995,
+          0.8844706645224454,
+          0.06547749568125137
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_541",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_541_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_541_2",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.11459236369602213,
+          0.035456198233145254,
+          0.2681695346174569,
+          0.0652309285410007
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_541",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_541_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_541_1",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "6.6 × 300 = 1980 | 24÷1.2=20 | 47.95 + 22.95 - 37.35 = 33.55 | 0.3 x 0.8 = 0.24 | 4.2×20 =84 | 20.35 + 3.18 - 18.92 =4.61 | 8.01 ÷ 0.9 = 8.9 | 1.6 x 0.3 =0.48 | 5 +2.7- 0.3=7.4 | 9.3 × 60 = 558 | 6 +3 =23 | 2.3 x 5 =11.5",
+        "bbox": [
+          0.12770605448216726,
+          0.18454948304191468,
+          0.8676670546086522,
+          0.7735877017425411
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(Hirai et al., 2006). These results indicate a critical function of DCX and DCX phosphorylation by JNK and Cdk5 in migratory behavior in the IZ-CP.",
+        "bbox": [
+          0.5192307697057221,
+          0.09593023241239038,
+          0.8750000066404316,
+          0.1381448412016115
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "detected in the DLK-/- mouse brain (Hirai et al., 2006 and present study), DCX possibly contributes to the migration-defect phenotype of DLK-/- mice, and this finding is consistent with the finding of the scrape assay experiment in our study. Consistent with the findings of previous studies, our results indicate that phosphorylation of DCX at S332 by JNK is critical for neurite extension and neuronal migration.",
+        "bbox": [
+          0.12692307053905566,
+          0.09593023259507713,
+          0.4826923167045339,
+          0.2108134922615141
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We observed elevated levels of phospho-DCX in the Cdk5-/- brain (Fig. 2), and roscovitine treatment did not alter DCXS332 phosphorylation levels in cortical neurons [Fig. 3(A)]. These data support the conclusion that Cdk5 does not phosphorylate S332 of DCX in vivo and also indicate that the increase in pS332 levels are not the result of release of enzymatic inhibition of Cdk5 to JNK. Because GSK3ß activity is elevated in Cdk5-/ - brain (Morfini et al., 2004), the alternative explanation for the elevated levels of DCXS332 phosphorylation in Cdk5-/- brain is that S332 is a putative classical GSK3ß primed site. However, $332 is probably not a GSK3® primed site because treatment of GSK3ß inhibitors did not affect the phosphorylation level of DCXS332 [Fig. 3(B)]. Because high levels of active JNK have been observed in the premigratory and migrating neurons in the developing cerebral and cerebellar cortices (Hirai et al., 2002; Kawauchi et al., 2003; Fig. 1), immature neurons may exhibit high JNK activity. DCX is also highly expressed in immature-stage neurons and levels of DCX are elevated in the Cdk5-/- embryonic brain [Fig. 2(A)]. This finding suggests a delay in neuronal maturation in the Cdk5-/- embryonic brain. The results of the immunohistochemical study of the embryonic brain show that JNK and Cdk5 activities are dependent on neuronal maturation, as discussed above. Therefore, the correlation of kinase activity with neuronal maturation may be important for proper neuronal migration. Further detailed comparative study of JNK and Cdk5 kinase activities and migratory behavior of neurons as well as analysis of neuronal migration using kinase inhibitors, as demonstrated in a recent study by Nishimura and colleagues (Nishimura et al., 2010), will provide new insights into the mechanistic regulation of these kinases in neuronal migration.",
+        "bbox": [
+          0.5173076853278142,
+          0.13808139542562467,
+          0.8750997438381893,
+          0.6716269841543214
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Microtubule dynamics is a necessary attribute of the cytoskeleton in the migration of neurons (Gordon-Weeks, 2004). DCX is one of the proteins that confer the unique microtubule properties to neurons, and neurons in early development have high DCX expression levels (Gleeson et al., 1999). Phosphorylation of DCX may be a regulatory mechanism that modulates this dynamic regulation in migrating neurons. Previous reports have shown that in vitro phosphorylation of DCX by Cdk5 lowers its affinity to microtubules through an effect on microtubule dynamics (Tanaka et al., 2004). In the present study, we demonstrated that phosphorylation of DCX by JNK also weakened the interaction between DCX and tubulin. In addition, the results of our study showed that S332 phosphorylation is important for the binding of DCX to tubulin [Figs. 7(B) and 8(A)]. Interestingly, our analysis of Cdk5-/- embryonic brain homogenates showed elevated DCX phosphorylation at S332 [Fig. 2(B)] and reduced interaction between DCX and tubulin [Fig. 7(D)]. These results indicate that phosphorylation of DCX by JNK is more critical than phosphorylation by Cdk5 in the mouse brain, and this may be because of the greater number of in vivo JNK phosphorylation sites. It has been shown that Cdk5 phosphorylates DCX at $297, whereas JNK phosphorylates DCX at four sites in the mouse brain.",
+        "bbox": [
+          0.12692307118008123,
+          0.21354166661015966,
+          0.4826923167045339,
+          0.6104651163412433
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "JNK activity in the IZ and IZ-CP in the cerebral cortex was high at E14-16 [Hirai et al., 2002; Kawauchi et al., 2003; Fig. 1(A)] as well as in the premigratory zone in developing cerebellar cortex [Fig. 1(B)], and high levels of DCX phosphorylation at JNK sites were observed in these areas (Gdalyahu et al., 2004 and present study). On the basis of the expression patterns of its activating subunits p35 and p39, Cdk5 activity was shown to be high in the IZ-CP and CP (Ohshima et al., 2002). The phosphorylation state of DCX by several kinases, including JNK and Cdk5, will dynamically change in different migratory steps in radial migration in the cerebral and cerebellar cortices. Cortical neurons change their morphology from multipolar to bipolar in radial migration (Tabata and Nakajima, 2003; Noctor et al., 2004), and both treatment with DCX RNAi (Bai et al., 2003) and loss of Cdks impair this transition (Ohshima et al., 2007). Delayed migration of cortical neurons in the IZ-CP was observed in DLK-/- mice",
+        "bbox": [
+          0.12307692413066167,
+          0.6125474423205095,
+          0.4827916160276412,
+          0.8909883721142251
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The authors thank RRC in RIKEN BSI for the technical assistance to generate anti-pDCXS332 antibody, and Dr. Hayashi in RIKEN BSI for the critical reading of the manuscript.",
+        "bbox": [
+          0.5153846130407881,
+          0.6845238093741266,
+          0.8750000023438272,
+          0.7384120271243655
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "section_text_panel",
+    "page": "docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13",
+    "primary_id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_7",
+    "source": "header_anchor",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_7",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "REFERENCES",
+        "bbox": [
+          0.5173076917705395,
+          0.7674418608713611,
+          0.6403846134602299,
+          0.7819767439542202
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Ange migrain during his Asloadiorari comes in the mouse. Nature 192:766-768.",
+        "bbox": [
+          0.5173076942604694,
+          0.7978670635294014,
+          0.8769230677779923,
+          0.8386627906316672
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_llm-raw-scihub-o.O-dneu.20833.pdf_13_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Avila J, Dominguez J, Diaz-Nido J. 1994. Regulation of microtubule dynamics by microtubule-associated protein expression and phosphorylation during neuronal development. Int J Dev Biol 38:13-25.",
+        "bbox": [
+          0.5192307639244722,
+          0.8385416662902075,
+          0.8750000008591816,
+          0.8938953485181738
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

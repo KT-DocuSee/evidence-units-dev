@@ -1,0 +1,184 @@
+[
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_0",
+    "text": "9.0.2到发线通过能力可采用直接计算法或利用率计算法计算。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.055357848952155,
+      0.08053691275167785,
+      0.4444444444444444,
+      0.10514541387024609
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_9",
+    "text": "∑ 各种固定作业占用编发线的总时间（min）； 7 编发线的空费系数，可采用0.15～0.20； 个列车平均占用编发线的时间（min）； 预占 开始向编发线解体前预先办理进路的时间，即 自允许推峰时起至车列推到峰顶时止的时间 (min); 分 解体一个车列的时间（min）； 占 集结--个车列占用编发线的时间（min）； 特 集结终了后的等待编组时间（min）； 车列的编组时间（min）； 批 列车出发技术作业占用时间（min）； 特发 列车待发时间，即自出发技术作业终了至发车 时止的时间（min）； 发 发车时占用编发线时间，即自列车起动时起至 列车腾空该线路时止的时间（min）； 地 摊到每列占用编发线的其他作业时间（min）。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5741399762752076,
+      0.08053691275167785,
+      0.930011862396204,
+      0.5615212527964206
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_1",
+    "text": "1直接计算法",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08382759984183472,
+      0.10961968680089486,
+      0.17556346381969157,
+      0.1319910514541387
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_2",
+    "text": "式中N（贵) 一到达线、到发线、出发线的通过能力（列/d）： M——扣除本务机车及调车机车走行线后，到达（到 发、出发）场可用于办理列车技术作业的线路 数（条）； M 各种固定作业占用到发线的总时间（min）； 占到（） 每办理一次到、发列车作业平均占用线路的时 间（min）： 到发线的空费系数，可采用0.15～0.20。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.055357848952155,
+      0.19463087248322147,
+      0.4460260972716489,
+      0.4272930648769575
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_3",
+    "text": "2利用率计算法",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08382759984183472,
+      0.4317673378076063,
+      0.18979833926453143,
+      0.45861297539149887
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_4",
+    "text": "式中K() 到发线通过能力利用率； T 每昼夜全部作业占用到发线的总时间（min）。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.053776196124950576,
+      0.5279642058165548,
+      0.43811783313562674,
+      0.5861297539149888
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_10",
+    "text": "9.0.4交接线能力可采用直接计算法或利用率计算法计算。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5393436140767102,
+      0.5659955257270693,
+      0.8983788058521155,
+      0.5906040268456376
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_5",
+    "text": "到发线通过能力为",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08224594701463028,
+      0.5816554809843401,
+      0.19770660340055357,
+      0.6062639821029083
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_11",
+    "text": "1直接计算法",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5678133649663899,
+      0.5928411633109619,
+      0.6595492289442467,
+      0.6174496644295302
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_6",
+    "text": "式中N(发) 到发线通过能力（列/A 一—列入计算的货物列车数（列）。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.055357848952155,
+      0.6599552572706935,
+      0.3527085804665876,
+      0.7136465324384788
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_12",
+    "text": "式中N交 交接线通过能力（列或车组/d）： M 扣除调车机车走行线后，交接场可用于办理交 接作业的线路数（条）； M 各种固定作业占用交接线的总时间（min）； 占文 每办理一次交接作业平均占用线路的时间 (min): 7 交接线的空费系数，可采用0.15～0.20。",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5393436140767102,
+      0.680089485458613,
+      0.9284302095689996,
+      0.8859060402684564
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_7",
+    "text": "9.0.3编发线的发车能力可采用下列公式计算：",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.053776196124950576,
+      0.7158836689038032,
+      0.3479636219849743,
+      0.7404921700223713
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_8",
+    "text": "式中N编 编发线的发车能力（列/d）； M- 编发线数量（条）；",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.053776196124950576,
+      0.8635346756152126,
+      0.38908659549228947,
+      0.9172259507829977
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_book_zh_TB100782001_extracted_page_21_13",
+    "text": "2利用率计算法",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5662317121391854,
+      0.8926174496644296,
+      0.6722024515618822,
+      0.9149888143176734
+    ],
+    "page": "book_zh_TB100782001_extracted_page_21",
+    "order": 14
+  }
+]

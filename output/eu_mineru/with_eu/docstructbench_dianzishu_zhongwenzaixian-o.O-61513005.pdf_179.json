@@ -1,0 +1,84 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_0",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.05189255092574177,
+          0.03943400547277646,
+          0.9584859406284069,
+          0.5474367818573673
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_3",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.34645909000421715,
+          0.6332637349451748,
+          0.9539071861349591,
+          0.9382973655140046
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_1",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "新落成的建筑物位于历史公园内的美第奇要塞 附近，包括主要的法庭和司法大厅的主席办公室， 并与一栋曾是大型医院的新古典风格的大楼连接， 这栋大楼被翻修后用来办公和存放档案。新侧楼的 设计体现了它周边的环境：公园里茂盛的植物和城 市的中世纪结构，一边被海螺墙包围着，另一边则 对广场、花园和管区开放。",
+        "bbox": [
+          0.05189255092574177,
+          0.6680584456564482,
+          0.3296703235282418,
+          0.7782416962421472
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61513005.pdf_179_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "此外，在北边，一面黑灰色调的火烧黑色花岗 岩砖砌成的凹圆墙包围着新侧楼。在南边，以许多 生物皮肤（包括树叶）为特色的几何变形图形塑造 了起伏的、透明的、防晒的不锈钢门面。只用直线 元素就可以塑造这些复杂的曲线形状。因此，银色 的有关生物与气候的叶饰利用发亮的阴影保护了室 内空间，与邻近的新古典主义建筑元素交织在一 起。室内，镜子般的黑色磨光花岗岩地板的强烈反 射与绿色玻璃包封和横向灰色音响平板形成对比。",
+        "bbox": [
+          0.05189255092574177,
+          0.7817211673132745,
+          0.3296703235282418,
+          0.925539304919871
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

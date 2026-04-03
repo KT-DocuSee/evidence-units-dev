@@ -1,0 +1,571 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_34",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_34",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2927555338541667,
+          0.05801930810860882,
+          1.0,
+          0.641052481599176
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PRESE",
+        "bbox": [
+          0.29755178940329097,
+          0.4898255798199009,
+          0.6685499071983183,
+          0.5595930246726996
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_33",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_33",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0813146464029948,
+          0.10997388048570639,
+          0.25281639099121095,
+          0.2526618000778738
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_2",
+    "source": "text_cluster",
+    "member_count": 11,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ERE'S what you could have Isak, Newcastle's supreme centre forward emerging as one of the deadliest",
+        "bbox": [
+          0.050847458724625746,
+          0.2703373015939687,
+          0.28248587924147583,
+          0.321220929983864
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "And Anthony Gordon England winger whose reputation as one of this country's most impressive attacking",
+        "bbox": [
+          0.04896422732140699,
+          0.3298611110736628,
+          0.28248587924147583,
+          0.35615079378714254
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Both players have been courted by Arsenal ruthlessly here to plunge a dagger into the Gunners' hopes of winning the Carabao Cup",
+        "bbox": [
+          0.04896422829441384,
+          0.36334325402537193,
+          0.28248587990300145,
+          0.3968253969749692
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It is only half-time, of course, and Arsenal pull off the turnaround at St James' Park in the second leg next month.",
+        "bbox": [
+          0.05083208647903755,
+          0.4040178571405242,
+          0.28248587251777074,
+          0.4362290780997615
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "But on the evidence of this showing, they haven't got a cat in hell's chance. Not if they let Isak run riot like he did here.",
+        "bbox": [
+          0.048964218247440856,
+          0.4375000002133575,
+          0.2824858736515997,
+          0.462301587368095
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "That's not to say this was d one-luldl show. Far from it.",
+        "bbox": [
+          0.04896421990032042,
+          0.46220930266006294,
+          0.27871938722023626,
+          0.478197674229472
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "This was a Newcastle away performance bursting with ability, discipline, work ethic and pride. Isak's showing was merely the icing on the cake.",
+        "bbox": [
+          0.04896421997442325,
+          0.4781746030250308,
+          0.2824858726785929,
+          0.5116567459497372
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Arsenal will know they will need to find an extra gear - maybe two in the second leg. This was not a display in keeping with the reputation Mikel Arteta has built here.",
+        "bbox": [
+          0.048964220510358834,
+          0.5116279071901018,
+          0.2824858718272498,
+          0.545138888829438
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "If they can find those levels, then they can head north with hope in their hearts. This was a bruising night for them, but not fatal; they will cling on to that optimism.",
+        "bbox": [
+          0.048964220510358834,
+          0.5436046514003731,
+          0.28248587439742695,
+          0.5771329363505858
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The League Cup has taken a battering in its various guises over the years. People even say playing at Wembley much as it once did. Try telling that to the 22 players who started the game here.",
+        "bbox": [
+          0.04896422408969602,
+          0.5770348839342878,
+          0.2824858726785929,
+          0.6178075395141878
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "the jam-packed Emirates crowd who were gripped hyped from the very start.",
+        "bbox": [
+          0.04896422351687749,
+          0.617732558498241,
+          0.28248587485055454,
+          0.6438953484785029
+        ],
+        "order": 16
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "section_text_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_21",
+    "source": "header_anchor",
+    "member_count": 9,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_21",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Howe puts one foot in final as Arteta hits a black-and-white wall",
+        "bbox": [
+          0.23295878324725525,
+          0.6388511112623521,
+          0.9761045665809235,
+          0.8095930229029429
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Timber, William Saliba, Hall and Gabriel Martinelli, who were all agonised after missing first-half opportunities to open the scoring.",
+        "bbox": [
+          0.04896421714186043,
+          0.649545107385555,
+          0.2259887054193448,
+          0.6933139531538905
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Try telling that to Isak, who did open the scoring. Winning trophies matters and playing Wembley is as magical as it ever was.",
+        "bbox": [
+          0.04896422222762744,
+          0.6918604652014557,
+          0.22598870501056278,
+          0.7341269841863244
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Arsenal's start to the game was rip-roaring. Declan Rice's inswinging corners were causing Newcastle all manner of trouble and Timber should really have dispatched a header in the 13th minute from his team-mate's whipped set-piece.",
+        "bbox": [
+          0.04896422222762744,
+          0.7340116282414583,
+          0.2259887039272204,
+          0.8008720925918751
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For the opening 20 minutes, it was all hands to pump for the Geordies as Arsenal tried to seize the initiative.",
+        "bbox": [
+          0.048964219511876024,
+          0.8008432541707207,
+          0.2259887039272204,
+          0.8328488369952788
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Leandro Trossard's sumptuous touch in the 29th minute, perhaps the opening 45 minutes would have gone in Arsenal's favour. It didn't, though - thanks to Isak.",
+        "bbox": [
+          0.2354048970946586,
+          0.8270348836478288,
+          0.41431262087972587,
+          0.8678075396474241
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As dig the decibed level trem the decibel level from the away end after Hall's effort was blocked following brilliant centre-forward play from Isak.",
+        "bbox": [
+          0.04896421936994166,
+          0.8343023255172206,
+          0.22598870223230516,
+          0.8764880951455302
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It made sense for Arsenal to take the sting out of the game. Going toe-to-toe with Newcastle did not reap the rewards they had hoped for in the first half.",
+        "bbox": [
+          0.6101694979966166,
+          0.8430059523594502,
+          0.7871939780802427,
+          0.8851744183767587
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "deal with Isak Salba and Gabriel are a formidable pairing but the striker was making them look ordinary here.",
+        "bbox": [
+          0.7966101717838395,
+          0.851686508389891,
+          0.9755178849016598,
+          0.8924418600700726
+        ],
+        "order": 25
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_32",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Gabriel Magalhaes was thwarted towards the end of the first half as Arsenal strived to pull level.",
+        "bbox": [
+          0.4237288164927133,
+          0.8677325580776668,
+          0.6007532945176702,
+          0.901162790363193
+        ],
+        "order": 26
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_31",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Newcastle's opener was route-one football at its most effective. Dubravka's drilled punt forward was flicked on by Sven Botman, Jacob Murphy bundled it on and the ball was hammered home by Isak.",
+        "bbox": [
+          0.23726013757565076,
+          0.8677325582263783,
+          0.4143126171145974,
+          0.9258720926645494
+        ],
+        "order": 27
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_20",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_20",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Arsenal's early flow had been stifled. Joelinton's clear remit of sticking like glue to Arsenal captain Martin Odegaard was integral to Newcastle finding their feet.",
+        "bbox": [
+          0.048910112013236175,
+          0.8749999999098785,
+          0.22787193838565198,
+          0.9258720927856734
+        ],
+        "order": 28
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_25",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As it happens, nor did the second-half approach. Again Isak took centre stage when somehow, with three Arsenal players around him, he forced David Raya into a save to leave Gordon the simple task of firing in at the back post.",
+        "bbox": [
+          0.6101694952973074,
+          0.8836805553948712,
+          0.7890772172516175,
+          0.941964285786294
+        ],
+        "order": 29
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_28",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kai Havertz missed a glorious opportunity just before the hour to half the deficit. Unmarked from six yards, he headed wide; replays showed his effort actually came off his shoulder.",
+        "bbox": [
+          0.7984934074592854,
+          0.8923611110494377,
+          0.9755178952177193,
+          0.9419642858111851
+        ],
+        "order": 30
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "The instructions from Arteta at half-time became abundantly clear during the opening the stages of the second period. The pace was slower, far more controlled by the Gunners. Like chalk and cheese in comparison to the whirlwind first half.",
+        "bbox": [
+          0.42372881439438587,
+          0.8997093026600629,
+          0.6007532983010434,
+          0.9506448411753855
+        ],
+        "order": 31
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_19",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Yet had Martinelli not struck the post with just Martin Dubravka to beat following",
+        "bbox": [
+          0.048964218353319384,
+          0.9243551585584731,
+          0.22598870501056278,
+          0.9506448413107129
+        ],
+        "order": 32
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Arsenal's interest in the Swede is no secret. If the Gunners can make the finances work there is every chance Isak will be wheeling away in celebration at the Emirates more frequently next season. But that's for then. The present is far more pressing.",
+        "bbox": [
+          0.23728813690140474,
+          0.9258432539230828,
+          0.41431261304783423,
+          0.9506448412961777
+        ],
+        "order": 33
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0013",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_30",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Arteta had seen enough, the",
+        "bbox": [
+          0.8060263651400964,
+          0.9418604653296365,
+          0.9755178952177193,
+          0.9506448412961777
+        ],
+        "order": 34
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0014",
+    "kind": "text_cluster_panel",
+    "page": "newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068",
+    "primary_id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_27",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_Daily Mail_2022-08-01@magazinesclubnew_page_068_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Newcastle were euphoric. It's a long journey down to London from up there but the return trip will not seem quite so arduous.",
+        "bbox": [
+          0.6195856893723335,
+          0.9418604653441716,
+          0.7871939749967812,
+          0.9506448413107129
+        ],
+        "order": 35
+      }
+    ]
+  }
+]

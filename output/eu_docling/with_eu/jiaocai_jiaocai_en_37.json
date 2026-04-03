@@ -1,0 +1,188 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "jiaocai_jiaocai_en_37",
+    "primary_id": "docling_jiaocai_jiaocai_en_37_2",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "2. (18%) On FA and Regular Languages",
+        "bbox": [
+          0.1293634529237474,
+          0.08854166711216108,
+          0.5277207426272449,
+          0.10466269885819279
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Say whether each of the following languages is regular or not regular? Prove your answers.",
+        "bbox": [
+          0.15605749688562437,
+          0.10755814009616736,
+          0.8747433072480757,
+          0.13808139500466574
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_4",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) L1 = {w|w € {0, 1}* and w has an equal number of 0s and 1s}.",
+        "bbox": [
+          0.16221766539072058,
+          0.14825581427252393,
+          0.7433264969809424,
+          0.16279069735538304
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) L2 = {w|wE {0, 1}* and w has an equal number of 01s and 10s}.",
+        "bbox": [
+          0.16016427614880543,
+          0.17005813925874194,
+          0.761806986445308,
+          0.18604651187982407
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "jiaocai_jiaocai_en_37",
+    "primary_id": "docling_jiaocai_jiaocai_en_37_6",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_6",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "3. (20%) On PDA and Context-Free Languages",
+        "bbox": [
+          0.12936346067940832,
+          0.5014534887697382,
+          0.5995893044540621,
+          0.5188953480907269
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let L3 = {wcamz\"|w E {a, b}*, where w = wh , and m, n E N, n ≤ m ≤ 2n}.",
+        "bbox": [
+          0.15400412059575955,
+          0.5188492067539189,
+          0.8131416830448392,
+          0.5364583337380459
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_8",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(a) Give a context-free grammar for the language L3.",
+        "bbox": [
+          0.16221766836604598,
+          0.5436046514818264,
+          0.6262833699296416,
+          0.5581395345646855
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_9",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) Design a PDA M = (K, L,I,A, s, F) accepting the language L3.",
+        "bbox": [
+          0.16016427689075455,
+          0.5654069772871801,
+          0.7577002114460009,
+          0.5828488366081689
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Solution: (a)",
+        "bbox": [
+          0.1560574971859822,
+          0.5900297620094391,
+          0.2792607801240793,
+          0.6046626985173756
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_11",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "(b) The PDA M = (K, E, [, A, s, F) is defined below:",
+        "bbox": [
+          0.15195072418124955,
+          0.6626984130084482,
+          0.6201232014861014,
+          0.6803075399925752
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_12",
+        "observed_type": "code",
+        "canon_role": "support_paragraph",
+        "text": "(9, 0, B) K = { < = {a, b, c} Г = < s = F ={ }",
+        "bbox": [
+          0.2771321928240047,
+          0.6976686509896716,
+          0.6550308000178748,
+          0.8925701817949234
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "jiaocai_jiaocai_en_37",
+    "primary_id": "docling_jiaocai_jiaocai_en_37_13",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocai_jiaocai_en_37_13",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2437294126277679,
+          0.6909096184934801,
+          0.7845062661776375,
+          0.9336625352380825
+        ],
+        "order": 13
+      }
+    ]
+  }
+]

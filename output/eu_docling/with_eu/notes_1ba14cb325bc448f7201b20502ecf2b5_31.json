@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_31",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_31_4",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_31_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Date",
+        "bbox": [
+          0.7868852469732326,
+          0.09156976778745375,
+          0.8237704918245817,
+          0.10174418604006563
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_31",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_31_6",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_31_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "84",
+        "bbox": [
+          0.11065573959307012,
+          0.22383720978154503,
+          0.16188524455139708,
+          0.2441860462867689
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_31_6",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "23°- 46°N. TIF 1=8 F. | 23°- 46°N. TIF 1=8 F. | ant tant | ant tant | ДН* | ДН* | 21€ | 21€ | #T₴ | 1H T",
+        "bbox": [
+          0.05883604446049348,
+          0.2706150160476624,
+          0.9671755142956764,
+          0.7117638870661438
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_31_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2) 917: 771-R=82 F#1417*0.",
+        "bbox": [
+          0.12704917748165231,
+          0.8168604652067656,
+          0.659836076031228,
+          0.8401162788962245
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_31",
+    "primary_id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_31_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_notes_1ba14cb325bc448f7201b20502ecf2b5_31_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "→ 4078",
+        "bbox": [
+          0.6331967242104813,
+          0.8793604652987447,
+          0.7418032749356934,
+          0.8998015877700848
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

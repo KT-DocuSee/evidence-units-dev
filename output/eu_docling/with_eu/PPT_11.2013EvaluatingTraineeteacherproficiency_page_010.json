@@ -1,0 +1,126 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "PPT_11.2013EvaluatingTraineeteacherproficiency_page_010",
+    "primary_id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_7",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_7",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.7099248046875,
+          0.06310446675618489,
+          0.9615299682617188,
+          0.15984488932291666
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "UNIVERSITY OF LEEDS",
+        "bbox": [
+          0.7107558217066081,
+          0.13359788373727816,
+          0.9636627875375776,
+          0.16085271243759114
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "PPT_11.2013EvaluatingTraineeteacherproficiency_page_010",
+    "primary_id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_0",
+    "source": "header_anchor",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Good Language Teachers",
+        "bbox": [
+          0.03924418811171699,
+          0.1200396832868273,
+          0.49127906267962684,
+          0.17063492138206554
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Mostly based on asking language learners and showed that language proficiency was seen as one important factor",
+        "bbox": [
+          0.037790717133895264,
+          0.25387596924146194,
+          0.9302325433671975,
+          0.3488756619004624
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Eg: Girard (1977- French learners of English), teaches good pronunciation, explains clearly, speaks good English,",
+        "bbox": [
+          0.03779071532448804,
+          0.379844961500337,
+          0.9433139621112044,
+          0.4825581379428349
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Eg: Brosh (1996)",
+        "bbox": [
+          0.04069767206472944,
+          0.5095899463522126,
+          0.29215116254905793,
+          0.5542635657991436
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "knowledge and command of the target language;",
+        "bbox": [
+          0.03779072503396502,
+          0.5833333336859063,
+          0.8023255693264997,
+          0.6279761908287634
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_PPT_11.2013EvaluatingTraineeteacherproficiency_page_010_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Teacher Evaluation - context universal - Evaluation fairly simple - based on visible behaviours / learner outcomes in 'objective' tests",
+        "bbox": [
+          0.03601149986773686,
+          0.6458219913064908,
+          0.9377656660246958,
+          0.8082546406104595
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

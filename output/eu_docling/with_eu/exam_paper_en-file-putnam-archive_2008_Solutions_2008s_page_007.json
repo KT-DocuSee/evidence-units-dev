@@ -1,0 +1,434 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_11",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "We next check that if n = 0,1 (mod 2k + 1), then Mn.k is invertible. Suppose that al,...,An are scalars such that air t... + anin is the zero vector. The m-th coordinate of this vector equals am-k + ... + am+k, where we regard ai as zero if i # {1,...,n}. By comparing consecutive coordinates, we obtain",
+        "bbox": [
+          0.5563909701105971,
+          0.06820436489951155,
+          0.9192461425984974,
+          0.1553889377872682
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_1",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "identity matrix), the bottom right block is Mn-2k-1,ks and the other two blocks are zero. We conclude that",
+        "bbox": [
+          0.12781955060871733,
+          0.06820436499135522,
+          0.49060151109241035,
+          0.09598214307950023
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_2",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.15977444073182542,
+          0.11185515875599508,
+          0.4191729341741894,
+          0.12500000002583636
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "proving the desired congruence.",
+        "bbox": [
+          0.12781955150375934,
+          0.1380813954148446,
+          0.33834586729323307,
+          0.14980158727958476
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To prove the desired result, we must now check that Fo,k, Fi,k are odd and F2,k,..., F2k,k are even. For n = 0,...,k + 1, the matrix Mn,k consists of all ones, so its determinant is 1 if n = 0, 1 and 0 otherwise. (Alternatively, we have Fn,k = n! for n = 0,...,k + 1, since every permutation of {1,...,n} is k-limited.) For n = k + 2,..., 2k, observe that rows k and k + 1 of Mn.k both consist of all ones, so det (Mn,k) = 0 as desired.",
+        "bbox": [
+          0.12773272905217278,
+          0.15843023281794527,
+          0.4906015102230494,
+          0.27182539680772855
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_12",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_12",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6090225583775021,
+          0.1686046509552683,
+          0.8289473676093397,
+          0.18179563473511506
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In particular, the a; repeat with period 2k + 1. Taking m = 1,..., k further yields that",
+        "bbox": [
+          0.5563909716221888,
+          0.1961805556711237,
+          0.9191729321058816,
+          0.22247023802489665
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_14",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.640977447326437,
+          0.23685515855614045,
+          0.7951127828740642,
+          0.24999999982598162
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "while taking m = n - k,...,n - 1 yields",
+        "bbox": [
+          0.5582706764617754,
+          0.2645348843680013,
+          0.8176691699041394,
+          0.27761627885874285
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_5",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution: (by Tom Belulovich) Define Mn,k as in the second solution. We prove det (Mn.k) is odd for n = 0,1 (mod 2k + 1) and even otherwise, by directly determining whether or not Mn,k is invertible as a matrix over the field of two elements.",
+        "bbox": [
+          0.12576221702783236,
+          0.2790178571193538,
+          0.4906015047719217,
+          0.3504247357952367
+        ],
+        "order": 11
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_16",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_16",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6315789537274314,
+          0.29215116282036785,
+          0.8045112761597867,
+          0.30381944424308877
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For n = 0 (mod 2k + 1), the latter can be rewritten as",
+        "bbox": [
+          0.5582706913997169,
+          0.3182043650286931,
+          0.909774428412313,
+          0.33139534880853966
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_18",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6597744380115895,
+          0.3459302324787981,
+          0.7763157899959294,
+          0.3576388889525633
+        ],
+        "order": 14
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Let ri denote row i of Mn,k. We first check that if n = 2,...,2k (mod 2k + 1), then Mn,k is not invertible. In this case, we can find integers 0 ≤ a < b {k such that n ta+b=0 (mod 2k + 1). Put j= n+a+b)/(2k+ 1). We can then write the all-ones vector both as",
+        "bbox": [
+          0.12593984229104832,
+          0.35465116314607054,
+          0.49060150744109465,
+          0.42441860452701596
+        ],
+        "order": 15
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_19",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "whereas for n = 1 (mod 2k + 1), it can be rewritten as",
+        "bbox": [
+          0.5582706919360496,
+          0.3720238096648241,
+          0.9154135210965316,
+          0.3851744183936266
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_20",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.650375944934829,
+          0.3997093023915888,
+          0.7875939844511359,
+          0.41145833344334565
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In either case, since we also have",
+        "bbox": [
+          0.5545112834160238,
+          0.4141865077001475,
+          0.7763157835012695,
+          0.42881944420808393
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_22",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.6522556410401003,
+          0.4404069768209735,
+          0.7838345884085213,
+          0.45494185990383257
+        ],
+        "order": 19
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_7",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_7",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.23120300731774704,
+          0.44040697709251037,
+          0.34780343214302406,
+          0.47529069748528596
+        ],
+        "order": 20
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_23",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "from the (k + 1)-st coordinate, we deduce that all of the a; must be zero, and so Mn,k must be invertible.",
+        "bbox": [
+          0.5545112798680916,
+          0.46800595251863353,
+          0.9191729183653207,
+          0.4970930236106864
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0010",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "and as",
+        "bbox": [
+          0.1278195498040383,
+          0.48834325388507865,
+          0.1710526304121271,
+          0.4985465113247071
+        ],
+        "order": 22
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0011",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_24",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark: The matrices Mn,k are examples of banded matrices, which occur frequently in numerical applications of linear algebra. They are also examples of Toeplitz matrices.",
+        "bbox": [
+          0.5563909710175521,
+          0.5014534887492682,
+          0.9210526175977768,
+          0.5595930231184645
+        ],
+        "order": 23
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0012",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007",
+    "primary_id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_9",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_9",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.2255639101685443,
+          0.5130813956156999,
+          0.34966974537856993,
+          0.5408876565231008
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_exam_paper_en-file-putnam-archive_2008_Solutions_2008s_page_007_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Hence Mn,k is not invertible.",
+        "bbox": [
+          0.12969925464378473,
+          0.5610119049197558,
+          0.31578947181298195,
+          0.574156746189597
+        ],
+        "order": 25
+      }
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "PPT_linear-algebra primer_page_008",
+    "primary_id": "mineru_PPT_linear-algebra primer_page_008_0",
+    "source": "header_anchor",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_008_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Bases & Orthonormal Bases",
+        "bbox": [
+          0.18933333333333333,
+          0.08,
+          0.8033333333333333,
+          0.144
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_008_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Basis (or axes): frame of reference",
+        "bbox": [
+          0.086,
+          0.2008888888888889,
+          0.552,
+          0.24711111111111111
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "PPT_linear-algebra primer_page_008",
+    "primary_id": "mineru_PPT_linear-algebra primer_page_008_3",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_008_3",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.6206666666666667,
+          0.232,
+          0.9106666666666666,
+          0.5324444444444445
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "PPT_linear-algebra primer_page_008",
+    "primary_id": "mineru_PPT_linear-algebra primer_page_008_2",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_008_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.17733333333333334,
+          0.2737777777777778,
+          0.508,
+          0.5022222222222222
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "PPT_linear-algebra primer_page_008",
+    "primary_id": "mineru_PPT_linear-algebra primer_page_008_4",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_008_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Basis: a space is totally defined by a set of vectors – any point is a linear combination of the basis",
+        "bbox": [
+          0.072,
+          0.5653333333333334,
+          0.8953333333333333,
+          0.6506666666666666
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_008_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "Ortho-Normal: orthogonal + normal x =[1 0 0J x· y =0 [Sneak peek: y =[0 1 0F x·z=0 Orthogonal: dot product is zero z = [0 0 1] y·z=0 Normal: magnitude is one ] Shivkumar Kalvanaram",
+        "bbox": [
+          0.06333333333333334,
+          0.6977777777777778,
+          0.922,
+          0.9351111111111111
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_PPT_linear-algebra primer_page_008_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Rensselaer Polytechnic Institute",
+        "bbox": [
+          0.04666666666666667,
+          0.9262222222222222,
+          0.264,
+          0.952
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

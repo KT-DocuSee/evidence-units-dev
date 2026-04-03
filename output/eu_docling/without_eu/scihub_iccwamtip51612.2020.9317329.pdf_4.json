@@ -1,0 +1,366 @@
+[
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_0",
+    "text": "Table 4 Comparison review with existing work's methods and accuracy scores.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.24024639796250466,
+      0.16715116313880296,
+      0.7802874721401651,
+      0.18179563503771456
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 1
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_29",
+    "text": "Method | Data set | Subject | F1 Score | Modality | Training Accuracy | Validation Accuracy | SVM EBF [181 | CASIA | 75 | 0.890 | RGB | 0.90 | 0.89 | MSU-MFSD | 35 | N/A | RGB | 0.978 | 0.944 | YOUTU | 3350 | 0.956 | RGB/IR | 0.962 | 0.978 | SqueezeNet [21] | CASIA-SURF | 1000 | N/A | Color, Depth & IR | N/A | 0.998 | FusionNet | CASIA-SURF | 300 | 0.998 | Color, Depth & IR | 0.997 | 0.998",
+    "canon_role": "table",
+    "bbox": [
+      0.0933860216060025,
+      0.17832550792522847,
+      0.9292867492159159,
+      0.24589981529232577
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 2
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_13",
+    "text": "networks [C]. Advances in neural information processing systems, 2012, 1097-1105.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5544147911769307,
+      0.26162790747746567,
+      0.9301847930343392,
+      0.28924418572747607
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 3
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_15",
+    "text": "Y. Atoum, Y. Liu, A. Jourabloo, et, et, et al. Face antispoofing using patch and depth-based CNNs [C].2017 IEEE International Joint Conference on Biometrics (ICB), 2017, 319-328.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5195071872641505,
+      0.2876984129007689,
+      0.930184809448651,
+      0.3444940477912335
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 4
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_1",
+    "text": "4. Conclusion",
+    "canon_role": "section_header",
+    "bbox": [
+      0.092327657419615,
+      0.2889609588968112,
+      0.21157377779224282,
+      0.3055157856786744
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 5
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_2",
+    "text": "In this research, we used a deep learning method focused on Fusion CNN architecture to derive facial patches and depth of 3 types of human facial image samples namely Color, Depth and IR from the CASIA-SURF dataset modeled with an altered 3D convolutional neural network classifier. Our primary interest was to be able to extract facial patches and the depth levels of all 3 facial inputs stated earlier on to distinguish a real face from a spoofed face from a CASIASURF dataset provided which are not preprocessed.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09240246874375913,
+      0.31686046552252395,
+      0.5030800856710251,
+      0.4404761905350305
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 6
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_14",
+    "text": "R. Min, J. Choi, G. Medioni, et al. Real-time 3D face identification from a depth camera [C]. Proceedings of the 21st International Conference on Pattern Recognition (ICPR2012), 2012, 1739-1742.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5195071871799573,
+      0.34151785716526,
+      0.9303267130113855,
+      0.39980158746327216
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 7
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_16",
+    "text": "S. Lawrence, C. L. Giles, A. C. Tsoi, et al. Face recognition: A convolutional neural-network approach [J. IEEE transactions on neural networks, 1997, 8(1):98-113.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.52156058368065,
+      0.3982558146005595,
+      0.9301848003895836,
+      0.45265163626810173
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 8
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_17",
+    "text": "Z. Zhang, J. Yan, S. Liu, et al. A face antispoofing database with diverse attacks [C].2012 5th IAPR international conference on Biometrics (ICB), 2012, 26-31.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5236139773520994,
+      0.45337301583556744,
+      0.93018481249451,
+      0.5044036805255552
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 9
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_3",
+    "text": "Acknowledgements",
+    "canon_role": "section_header",
+    "bbox": [
+      0.09650924376301817,
+      0.4563953489405546,
+      0.23613962966613986,
+      0.46656976719316645
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 10
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_4",
+    "text": "This work is supported by Department of Science and Technology of Sichuan Province, China, under Grant 2019YJ0166.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09237177589827882,
+      0.48255813974590817,
+      0.5030800722319765,
+      0.5233698934649325
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 11
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_18",
+    "text": "G. Albakri and S. Alghowinem. The effectiveness of depth data in liveness face authentication using 3D sensor cameras JJ. Sensors, 2019, 19(8):1928.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5215605793000888,
+      0.5071924603263498,
+      0.9301847869559005,
+      0.5479651161767252
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 12
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_5",
+    "text": "References",
+    "canon_role": "section_header",
+    "bbox": [
+      0.09650924285688964,
+      0.5392441862962063,
+      0.1765913751615908,
+      0.5479651159567006
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 13
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_20",
+    "text": "J. Dai, Y. Li, K. He, et al. R-fen: Object detection via region-based fully convolutional networks [C]. Advances in neural information processing systems, 2016, 379-387.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5236139696191784,
+      0.5478670634038326,
+      0.9301848108051882,
+      0.603424744001717
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 14
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_6",
+    "text": "J. Berry and D. A. Stoney. The history and development of fingerprinting [J]. Advances in fingerprint Technology, 2001, 2:13-52.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09445586842568746,
+      0.5668604651096121,
+      0.5030800760814993,
+      0.6061507937410258
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 15
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_19",
+    "text": "C.-L. Zhang, J.-H. Luo, X.-S. Wei, et al. In defense of fully connected layers in visual representation transfer [C]. Pacific Rim Conference on Multimedia, 2017, 807-817.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.523613963565106,
+      0.6031746031359487,
+      0.930184810071512,
+      0.6570576285384169
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 16
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_7",
+    "text": "121 W. Yang, S. Wang, J. Hu, et al. Security and accuracy of fingerprint-based biometrics: A review JJ. Symmetry, 2019, 11(2):141.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09240246429288941,
+      0.6075581396493407,
+      0.5010266957647873,
+      0.6468253967703906
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 17
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_8",
+    "text": "L. Introna and H. Nissenbaum. Facial recognition technology a survey of policy and implementation issues [JJ.2010",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09034907593765751,
+      0.6482558137459661,
+      0.5010266895350235,
+      0.6874999998467833
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 18
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_21",
+    "text": "J. Koneny, J. Liu, P. Richtárik, et al. Mini-batch semistochastic gradient descent in the proximal setting [J]. IEEE Journal of Selected Topics in Signal Processing, 2015, 10(2):242-255.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5195071925630609,
+      0.6584302328045007,
+      0.9301848110058035,
+      0.7136627905239877
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 19
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_9",
+    "text": "14] D. Wen, H. Han, and A. K. Jain. Face spoof detection with image distortion analysis [J]. IEEE Transactions on Information Forensics and Security, 2015, 10(4):746-761.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09240246449001888,
+      0.68895348848655,
+      0.5030800791288793,
+      0.7427325580444578
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 20
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_23",
+    "text": "A. F. Agarap. Deep learning using rectified linear units (relu) [JJ. arXiv preprint ar Xiv: 1803.08375, 2018.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5236139684727034,
+      0.7122093022270707,
+      0.9301848096587132,
+      0.7413194445357878
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 21
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_22",
+    "text": "L. Bottou.Neural networks: Tricks of the trade, 2012, 421-436.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5215605928524497,
+      0.7398255819566325,
+      0.9301848005082616,
+      0.7663490075286729
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 22
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_10",
+    "text": "K. A. Nixon, V. Aimale, and R. K. Rowe.Handbook of biometrics, 2008, 403-423.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09240246425182164,
+      0.7427325583505594,
+      0.5030800788717876,
+      0.7688953488196515
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 23
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_24",
+    "text": "M. Hardt, B. Recht, and Y. Singer. Train faster, generalize better: Stability of stochastic gradient descent [J]. arXiv preprint ar Xiv: 1509.01240, 2015.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5195071908176812,
+      0.7658730158271784,
+      0.930184807744947,
+      0.8081395344304483
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 24
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_11",
+    "text": "A. da Silva Pinto, H. Pedrini, W. Schwartz, et al. Videobased face spoofing detection through visual rhythm analysis [C].2012 25th SIBGRAPI Conference on Graphics, Patterns and Images, 2012, 221-228.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09240246429288941,
+      0.7703373015562991,
+      0.5030800777766473,
+      0.8256448414438597
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 25
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_26",
+    "text": "D. T. van der Haar. Face Antispoofing Using Shearlets: An Empirical Study [J]. SAIEE Africa Research Journal, 2019, 110(2):94-103.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5215605929208961,
+      0.8080357143560558,
+      0.9301848005767079,
+      0.8502906973190456
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 26
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_12",
+    "text": "A. Krizhevsky, I. Sutskever, and G. E. Hinton. Imagenet classification with deep convolutional neural",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.09240246442328379,
+      0.8255813952321579,
+      0.5010267018312741,
+      0.8517441861450223
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 27
+  },
+  {
+    "chunk_id": "docling_scihub_iccwamtip51612.2020.9317329.pdf_4_25",
+    "text": "C. Nagpal and S. R. Dubey. A performance evaluation of convolutional neural networks for face anti spoofing",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5215605929208961,
+      0.8488372096586989,
+      0.9301848005767079,
+      0.8749999998976555
+    ],
+    "page": "scihub_iccwamtip51612.2020.9317329.pdf_4",
+    "order": 28
+  }
+]

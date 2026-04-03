@@ -1,0 +1,274 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–5 First solution. The answer is no. Suppose otherwise. For the condition to make sense, f must be differen- tiable. Since f is strictly increasing, we must have f′(x) ≥ 0 for all x. Also, the function f (x) is strictly increasing: if y > x then f (y) = f (f (y)) > f (f (x)) = f (x). In particular, f (y) > 0 for all y ∈ R.",
+        "bbox": [
+          0.09333333333333334,
+          0.06606060606060606,
+          0.49019607843137253,
+          0.15454545454545454
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_8",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.556078431372549,
+          0.06606060606060606,
+          0.92,
+          0.21212121212121213
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "For any x0 ≥ −1, if f (x0) = b and f (x0) = a > 0, then f′(x) > a for x > x0 and thus f(x) ≥ a(x − x0) + b for x ≥ x0. Then either b < x0 or a = f′(x0) = f (f (x0)) = f (b) ≥ a(b − x0) + b. In the latter case, b ≤ a(x0 + 1)/(a + 1) ≤ xo + 1. We conclude in either case that f (x0) ≤ x0 + 1 for all x0 ≥ −1.",
+        "bbox": [
+          0.12627450980392158,
+          0.15757575757575756,
+          0.49019607843137253,
+          0.24666666666666667
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_9",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "B–6 For any polynomial p(x), let [p(x)]A denote the n × n matrix obtained by replacing each entry Aij of A by p(Aij); thus A[k] = [xk]A. Let P(x) = xn + an−1xn−1 + … + ao denote the characteristic polynomial of A. By the Cayley-Hamilton theorem,",
+        "bbox": [
+          0.523921568627451,
+          0.22121212121212122,
+          0.9192156862745098,
+          0.2963636363636364
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "It must then be the case that f (f (x)) = f (x) ≤ 1 for all x, since otherwise f(x) > x + 1 for large x. Now by the above reasoning, if f (0) = bo and f (0) = a0 > 0, then f(x) > a0x + b0 for x > 0. Thus for x > max{0, −b0/ao}, we have f (x) > 0 and f (f (x)) > aox + b0. But then f (f (x)) > 1 for sufficiently large x, a contradiction.",
+        "bbox": [
+          0.12627450980392158,
+          0.2496969696969697,
+          0.49019607843137253,
+          0.3515151515151515
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Second solution. (Communicated by Catalin Zara.) Suppose such a function exists. Since f is strictly increasing and differentiable, so is f  f = f . In particular, f is twice differentiable; also, f (x) = f (f (x))f (x) is the product of two strictly increasing nonnegative functions, so it is also strictly increasing and nonnegative. In particular, we can choose α > 0 and M ∈ R such that f \"(x) > 4α for all x ≥ M. Then for all x ≥ M,",
+        "bbox": [
+          0.12705882352941175,
+          0.356969696969697,
+          0.49098039215686273,
+          0.48787878787878786
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0006",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_10",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Thus each entry of A is a root of the polynomial xp(x). Now suppose m ≥ n + 1. Then",
+        "bbox": [
+          0.5568627450980392,
+          0.39636363636363636,
+          0.9152941176470588,
+          0.4309090909090909
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "since each entry of A is a root of xm+1−nP(x). On the other hand,",
+        "bbox": [
+          0.5568627450980392,
+          0.49272727272727274,
+          0.9192156862745098,
+          0.5224242424242425
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0007",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_4",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "In particular, for some M′ > M, we have f(x) ≥ αx2 for all x ≥ M′.",
+        "bbox": [
+          0.12627450980392158,
+          0.526060606060606,
+          0.49019607843137253,
+          0.5563636363636364
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Pick T > 0 so that αT2 > M′. Then for x ≥ T, f(x) > M′ and so f (x) = f (f (x)) ≥ αf (x)2. Now",
+        "bbox": [
+          0.12627450980392158,
+          0.5593939393939394,
+          0.4886274509803922,
+          0.5909090909090909
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0008",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_12",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Therefore if Ak = A[k] for m + 1 − n ≤ k ≤ m, then Am+1 = A[m+1]. The desired result folows by induction on m.",
+        "bbox": [
+          0.556078431372549,
+          0.5836363636363636,
+          0.9192156862745098,
+          0.6290909090909091
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Remark. David Feldman points out that the result is best possible in the following sense: there exist ex- amples of n × n matrices A for which Ak = A[k] for k = 1, . . ., n but An+1 ≠ A[n+1].",
+        "bbox": [
+          0.556078431372549,
+          0.6339393939393939,
+          0.9192156862745098,
+          0.6921212121212121
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0009",
+    "kind": "text_cluster_panel",
+    "page": "exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005",
+    "primary_id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_6",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "however, as T → ∞, the left side of this inequality tends to 0 while the right side tends to +∞, a contradiction.",
+        "bbox": [
+          0.12627450980392158,
+          0.6442424242424243,
+          0.49098039215686273,
+          0.673939393939394
+        ],
+        "order": 13
+      },
+      {
+        "id": "mineru_exam_paper_en-file-putnam-archive_2010_Solutions_2010s_page_005_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Third solution. (Communicated by Noam Elkies.) Since f is strictly increasing, for some yo, we can de- fine the inverse function g(y) of f for y ≥ yo. Then x = g(f(x)), and we may differentiate to find that 1 = g′(f (x))f (x) = g′(f(x))f (f (x)). It folws that g(y) = 1/ f() for y ≥ yo; since g takes arbitrarily lare values, the integral J dy/ f(y) must diverge. One then gets a contradiction from any reasonable lower bound on f (y) for y large, e.g., the bound f (x) ≥ αx2 from the second solution. (One can also start with a linear lower bound f(x) ≥ βx, then use the integral expresion for to deduce that g(x) ≤ γlogx, which in turn forces f(x) to grow exponentially.)",
+        "bbox": [
+          0.12705882352941175,
+          0.6781818181818182,
+          0.49098039215686273,
+          0.7236363636363636
+        ],
+        "order": 14
+      }
+    ]
+  }
+]

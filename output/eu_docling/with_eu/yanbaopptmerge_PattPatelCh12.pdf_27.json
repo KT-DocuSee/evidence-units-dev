@@ -1,0 +1,38 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_PattPatelCh12.pdf_27",
+    "primary_id": "docling_yanbaopptmerge_PattPatelCh12.pdf_27_3",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_PattPatelCh12.pdf_27_1",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Example: Symbol Table",
+        "bbox": [
+          0.03333333630208326,
+          0.10548941773011862,
+          0.4708333363020833,
+          0.1666666664073673
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_yanbaopptmerge_PattPatelCh12.pdf_27_3",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "Name | Type | Offset | Scope | inGlobal | int | 0 | global | inLocal | int | 0 | main | outLocalA | int | -1 | main | outLocalB | int | -2 | main",
+        "bbox": [
+          0.10668984222412109,
+          0.2016860555013021,
+          0.8346962890625,
+          0.5745358479817708
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

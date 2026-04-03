@@ -1,0 +1,152 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_enbook-zlib-o.O-17342542.pdf_25",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_0",
+    "source": "header_anchor",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Enclosed Basic Switches",
+        "bbox": [
+          0.09210527169139975,
+          0.053779069448906654,
+          0.3270676665134874,
+          0.06976744206998878
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "North American limit switches are also available in an enclosed basic version. These switches are designated by the catalog number 3SE03-EB. Enclosed basic switches are preconfigured with a plunger actuator, booted plunger, roller lever, booted roller lever, roller plunger, or a booted roller plunger.",
+        "bbox": [
+          0.3721804494975099,
+          0.05377906956397448,
+          0.9304511233990574,
+          0.14389534908670384
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Booted Roller Lever",
+        "bbox": [
+          0.6390977478693547,
+          0.20337301603136718,
+          0.7518796985592165,
+          0.21230158745993868
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Roller Lever",
+        "bbox": [
+          0.5657707055516373,
+          0.24120196987422426,
+          0.63535711538853,
+          0.25153058818118645
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-17342542.pdf_25",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_10",
+    "source": "visual_seed",
+    "member_count": 6,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_10",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.3755883430032169,
+          0.18453452370383522,
+          0.8924538286994486,
+          0.401864013671875
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Booted Plunger",
+        "bbox": [
+          0.663533836789785,
+          0.2760416664597551,
+          0.7537593993004406,
+          0.28779069751151215
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Plunger Actuator",
+        "bbox": [
+          0.5657894781115207,
+          0.3139534884754382,
+          0.6635338334173014,
+          0.3241567459150666
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LE",
+        "bbox": [
+          0.7105263163193114,
+          0.3241279071604868,
+          0.7312030062997363,
+          0.3313953487019163
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Booted Roller Plunger",
+        "bbox": [
+          0.6259398526209234,
+          0.35168650775765503,
+          0.7537593986948663,
+          0.3619186043843001
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-17342542.pdf_25_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Roller Plunger",
+        "bbox": [
+          0.5657894733189264,
+          0.3880813954340138,
+          0.648496243034457,
+          0.39831349206065875
+        ],
+        "order": 10
+      }
+    ]
+  }
+]

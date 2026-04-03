@@ -1,0 +1,640 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "newspaper_4790b51e8fa793743699647c09a93ccb_1",
+    "primary_id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_46",
+    "source": "visual_seed",
+    "member_count": 43,
+    "elements": [
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_46",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.008239872834781156,
+          0.01865365657143013,
+          0.07210838301249319,
+          0.04418817478014328
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_2",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "1213",
+        "bbox": [
+          0.20673758358047373,
+          0.05952380948647165,
+          0.26611226163084634,
+          0.06696428567694786
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЇЖ#ДЖЕ&ХТАТЕХЕТІ",
+        "bbox": [
+          0.1101871075759687,
+          0.08430232549947632,
+          0.2661122685183169,
+          0.09156976751395857
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_24",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "04. 2710282 164",
+        "bbox": [
+          0.46777546854429136,
+          0.14236111106827257,
+          0.6403326338119111,
+          0.1498015872587488
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_21",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ДЖАК.КТ",
+        "bbox": [
+          0.648648650712045,
+          0.1671511630228899,
+          0.8191268113808172,
+          0.17441860456431946
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_25",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ННТН",
+        "bbox": [
+          0.46985447586537166,
+          0.20058139543568054,
+          0.6340956335594375,
+          0.2078488369771101
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MT, DỜ4301 44(727)#961.77 167Z 206 Н СТЕ, МИТИСТЕ, ТИТБОВ КіВЕ",
+        "bbox": [
+          0.288981286344093,
+          0.20783730155863214,
+          0.45945946209665545,
+          0.2413194444769477
+        ],
+        "order": 10
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_32",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7Л, ПИТТІ АЛТЕД",
+        "bbox": [
+          0.8295218274688807,
+          0.2586805556502325,
+          0.9979209943606416,
+          0.26598837200618
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2007 Л ПТИТИВВЕСТ\"ЛИ КИН ₩",
+        "bbox": [
+          0.288981286344093,
+          0.316860465033765,
+          0.45945946209665545,
+          0.3502906973157123
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_22",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "і \"ШЛАК, НАМЕТНЕ ВНІ",
+        "bbox": [
+          0.6507276584736527,
+          0.3501984128919901,
+          0.8212058191424249,
+          0.35912698432056134
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_33",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LE 44274ZENTAN",
+        "bbox": [
+          0.866943868966395,
+          0.4505813955258575,
+          0.9979209963662453,
+          0.4593253969144073
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "LA THUNo",
+        "bbox": [
+          0.11012160911418245,
+          0.46053684772749093,
+          0.16846467127827267,
+          0.4696957106891542
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_34",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#iX.",
+        "bbox": [
+          0.7254981760755588,
+          0.47513391962800355,
+          0.7630673113762154,
+          0.4841684056720243
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_37",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "40X 1020424814,17 1717186E5* NET.",
+        "bbox": [
+          0.8669438665495552,
+          0.4927325584740164,
+          0.9979209939494055,
+          0.5334302323441159
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "7 400 594€",
+        "bbox": [
+          0.33807624129132846,
+          0.49851190472223417,
+          0.4261954288830977,
+          0.5072674415017588
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_35",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#ЕН-*#*฿7\" {*#! LA CERN*A, 4Z24131571",
+        "bbox": [
+          0.725571725931052,
+          0.500000000006446,
+          0.8565488557650673,
+          0.593023255382573
+        ],
+        "order": 21
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "147TE0010772",
+        "bbox": [
+          0.11018711049067968,
+          0.5014534887550242,
+          0.2661122606111916,
+          0.5101744184155185
+        ],
+        "order": 22
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "NEASHERIE",
+        "bbox": [
+          0.31392931483209613,
+          0.524709302539605,
+          0.42619542248599135,
+          0.5319767440810346
+        ],
+        "order": 23
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ХІДПИКАКЕНТЕ.",
+        "bbox": [
+          0.010395015813557841,
+          0.5610465117329191,
+          0.1288981264421594,
+          0.5683139532743486
+        ],
+        "order": 24
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "##Ei (i # #t) 12 # 12 E ,",
+        "bbox": [
+          0.01663201835868162,
+          0.616279070005024,
+          0.13305613521027182,
+          0.6250000001385712
+        ],
+        "order": 25
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": ",15К",
+        "bbox": [
+          0.20877659159921624,
+          0.6423611111594502,
+          0.27650727819616105,
+          0.6498015873499264
+        ],
+        "order": 26
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_36",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "18 LE Ma tE.",
+        "bbox": [
+          0.7255717276640318,
+          0.6584302327472721,
+          0.8586278603167433,
+          0.7413194443679363
+        ],
+        "order": 27
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_19",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ДИЖЛДН 1.42.170",
+        "bbox": [
+          0.29729729785642034,
+          0.6744186047561748,
+          0.4261954288830977,
+          0.7078488368748208
+        ],
+        "order": 28
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_38",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Kх 1272007M40+050655",
+        "bbox": [
+          0.8669438707075591,
+          0.6918604653484713,
+          0.9979209981074094,
+          0.7747093018942006
+        ],
+        "order": 29
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ГАД",
+        "bbox": [
+          0.0,
+          0.734011628139169,
+          0.13305613030981336,
+          0.7412790696805986
+        ],
+        "order": 30
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "500 170",
+        "bbox": [
+          0.11826240868291935,
+          0.7586805555048836,
+          0.13305613474501765,
+          0.7748015873499265
+        ],
+        "order": 31
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_23",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HM72 214, 4EL",
+        "bbox": [
+          0.29729730224066736,
+          0.7747093025389389,
+          0.40748440529571506,
+          0.7834821426414524
+        ],
+        "order": 32
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_39",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "PERINEi275, 47181Z",
+        "bbox": [
+          0.7255717277636446,
+          0.7747093025389389,
+          0.8586278597623426,
+          0.7834821426414524
+        ],
+        "order": 33
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_26",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "63H 2012 FKE2020",
+        "bbox": [
+          0.4365904398246942,
+          0.7921511630403923,
+          0.5405405399050355,
+          0.8008720927008867
+        ],
+        "order": 34
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_27",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "MANAZZA.",
+        "bbox": [
+          0.573790119307132,
+          0.79936607847273,
+          0.6382680912430806,
+          0.8081920608465883
+        ],
+        "order": 35
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ЛОСАЖАЕА, УРААМКА",
+        "bbox": [
+          0.14345114564306263,
+          0.8501984127594198,
+          0.27650727764176064,
+          0.8576388889498959
+        ],
+        "order": 36
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_28",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "##12Я12 П#(# #*)#",
+        "bbox": [
+          0.30561331169862715,
+          0.8662790699807992,
+          0.45945945722029163,
+          0.8750000001143464
+        ],
+        "order": 37
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_40",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4М9д7х.7141. 7/7094730 TA, ФНТ.",
+        "bbox": [
+          0.8295218329476839,
+          0.8662790701261481,
+          0.9979209938283694,
+          0.8822674416464414
+        ],
+        "order": 38
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_41",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": ",215",
+        "bbox": [
+          0.7475620571923337,
+          0.8836805556502324,
+          0.8191268113808172,
+          0.8909883720061799
+        ],
+        "order": 39
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_44",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1.74507417759",
+        "bbox": [
+          0.8295218274688807,
+          0.9084302328926208,
+          0.9979209943606416,
+          0.9171511625531154
+        ],
+        "order": 40
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_29",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Likeixaran buttarei, Asti",
+        "bbox": [
+          0.46777547429619704,
+          0.9171511629798302,
+          0.6403326395638167,
+          0.9258720926403247
+        ],
+        "order": 41
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_31",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "XJEK4042523474",
+        "bbox": [
+          0.288981286344093,
+          0.9258720932372794,
+          0.45945945783470127,
+          0.933139534778709
+        ],
+        "order": 42
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_42",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HEXA561202 4/20157,7765",
+        "bbox": [
+          0.6507276584736527,
+          0.9330357141888149,
+          0.8212058191424249,
+          0.9419642856173864
+        ],
+        "order": 43
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_43",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1540, +\"HnKEX",
+        "bbox": [
+          0.6652806707817398,
+          0.9505813954356807,
+          0.8212058209022517,
+          0.9578488369771102
+        ],
+        "order": 44
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "і ПЕТИ \"+EN\"",
+        "bbox": [
+          0.14345114721483568,
+          0.9578373014859578,
+          0.27442827461468605,
+          0.9665697670104797
+        ],
+        "order": 45
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_45",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "470 7 1 1322 7 H 2000 f/ZA IT",
+        "bbox": [
+          0.8295218285776818,
+          0.975198412612736,
+          0.9979209954694426,
+          0.9841269840413075
+        ],
+        "order": 46
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_30",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "AL TE, ™ 400 4 51 FM.2012 402X 20044415",
+        "bbox": [
+          0.46777546854429136,
+          0.9751984127412512,
+          0.6403326395638167,
+          0.9913194444951164
+        ],
+        "order": 47
+      },
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "КАПОК 2%,",
+        "bbox": [
+          0.016632016314329628,
+          0.9752906975909212,
+          0.1330561331659198,
+          0.9985465115995174
+        ],
+        "order": 48
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "newspaper_4790b51e8fa793743699647c09a93ccb_1",
+    "primary_id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_20",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_20",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "1E|Л",
+        "bbox": [
+          0.6507276505271897,
+          0.14680232592556675,
+          0.6839916835268642,
+          0.1555232555860611
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "section_text_panel",
+    "page": "newspaper_4790b51e8fa793743699647c09a93ccb_1",
+    "primary_id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_15",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_15",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "ARTE IX**",
+        "bbox": [
+          0.29106029099571357,
+          0.26162790732233754,
+          0.4573804542131405,
+          0.27906976749464424
+        ],
+        "order": 12
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "newspaper_4790b51e8fa793743699647c09a93ccb_1",
+    "primary_id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_47",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_newspaper_4790b51e8fa793743699647c09a93ccb_1_47",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.4361997783054194,
+          0.440556344358895,
+          0.7003767336289262,
+          0.7329982923172125
+        ],
+        "order": 15
+      }
+    ]
+  }
+]

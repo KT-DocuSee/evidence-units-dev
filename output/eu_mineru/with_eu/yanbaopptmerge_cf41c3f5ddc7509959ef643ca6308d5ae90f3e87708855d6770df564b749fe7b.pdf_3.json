@@ -1,0 +1,191 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3",
+    "primary_id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_1",
+    "source": "visual_seed",
+    "member_count": 12,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "中邮证券投资评级说明",
+        "bbox": [
+          0.08222490931076179,
+          0.1003277754025937,
+          0.2837565497783152,
+          0.11742910075530853
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07980652962515115,
+          0.1311101610374804,
+          0.9173720274083031,
+          0.3420265070542967
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_2",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "分析师声明",
+        "bbox": [
+          0.07980652962515115,
+          0.35456747897962093,
+          0.1829907295445385,
+          0.3710987601539119
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "撰写此报告的分析师（一人或多人）承诺本机构、本人以及财产利害关系人与所评价或推荐的证券无利害关系。",
+        "bbox": [
+          0.07900040306328093,
+          0.3870599971497791,
+          0.9020556227327691,
+          0.4030212341456463
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本报告所采用的数据均来自我们认为可靠的目前已公开的信息，并通过独立判断并得出结论，力求独立、客观、公 平，报告结论不受本公司其他部门和人员以及证券发行人、上市公司、基金公司、证券资产管理公司、特定客户等 利益相关方的干涉和影响，特此声明。",
+        "bbox": [
+          0.08061265618702136,
+          0.4149921618925467,
+          0.9181781539701733,
+          0.46800627048596266
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "中邮证券有限责任公司（以下简称“中邮证券”）具备经中国证监会批准的开展证券投资咨询业务的资格。",
+        "bbox": [
+          0.083031035872632,
+          0.5101895396893259,
+          0.8544941555824265,
+          0.5267208208636169
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本报告信息均来源于公开资料或者我们认为可靠的资料，我们力求但不保证这些信息的准确性和完整性。报告内容 仅供参考，报告中的信息或所表达观点不构成所涉证券买卖的出价或询价，中邮证券不对因使用本报告的内容而导 致的损失承担任何责任。客户不应以本报告取代其独立判断或仅根据本报告做出决策。",
+        "bbox": [
+          0.08061265618702136,
+          0.5341313951831267,
+          0.9197904070939138,
+          0.5877155479549665
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "中邮证券可发出其它与本报告所载信息不一致或有不同结论的报告。报告所载资料、意见及推测仅反映研究人员于 发出本报告当日的判断，可随时更改且不予通告。",
+        "bbox": [
+          0.08061265618702136,
+          0.5956961664529001,
+          0.9157597742845627,
+          0.6304688613367536
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "中邮证券及其所属关联机构可能会持有报告中提到的公司所发行的证券头寸并进行交易，也可能为这些公司提供或 者计划提供投资银行、财务顾问或者其他金融产品等相关服务。",
+        "bbox": [
+          0.08141878274889158,
+          0.6384494798346871,
+          0.9173720274083031,
+          0.6732221747185407
+        ],
+        "order": 10
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "《证券期货投资者适当性管理办法》于2017年7月1 日起正式实施，本报告仅供中邮证券客户中的专业投资者使 用，若您非中邮证券客户中的专业投资者，为控制投资风险，请取消接收、订阅或使用本报告中的任何信息。本公 司不会因接收人收到、阅读或关注本报告中的内容而视其为专业投资者。",
+        "bbox": [
+          0.08061265618702136,
+          0.6806327490380505,
+          0.9197904070939138,
+          0.7342169018098903
+        ],
+        "order": 11
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "本报告版权归中邮证券所有，未经书面许可，任何机构或个人不得存在对本报告以任何形式进行翻版、修改、节选、 复制、发布，或对本报告进行改编、汇编等侵犯知识产权的行为，亦不得存在其他有损中邮证券商业性权益的任何 情形。如经中邮证券授权后引用发布，需注明出处为中邮证券研究所，且不得对本报告进行有悖原意的引用、删节 或修改。",
+        "bbox": [
+          0.08061265618702136,
+          0.7416274761294,
+          0.9197904070939138,
+          0.81459313096765
+        ],
+        "order": 12
+      },
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "中邮证券对于本申明具有最终解释权。",
+        "bbox": [
+          0.08222490931076179,
+          0.821433661108736,
+          0.35792019347037485,
+          0.837964942283027
+        ],
+        "order": 13
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3",
+    "primary_id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_5",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_cf41c3f5ddc7509959ef643ca6308d5ae90f3e87708855d6770df564b749fe7b.pdf_3_5",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "免责声明",
+        "bbox": [
+          0.08061265618702136,
+          0.4776970215191677,
+          0.16283756549778317,
+          0.49422830269345874
+        ],
+        "order": 6
+      }
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_150",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_150_0",
+    "source": "header_anchor",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_150_0",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Click To Edit Title Style",
+        "bbox": [
+          0.020348836081929642,
+          0.03472222296936707,
+          0.47674418210282493,
+          0.08928571503285912
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_150",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_150_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_150_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "'LOGO':",
+        "bbox": [
+          0.011627908550757297,
+          0.9263565900376084,
+          0.15406976408732415,
+          0.9806201540515387
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_150",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_150_4",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_150_4",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.018384248733520507,
+          0.9350319010416667,
+          0.3044315185546875,
+          0.9842183430989583
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_150",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_150_3",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_150_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "#- PPT (six: www.1ppt.com",
+        "bbox": [
+          0.33866279539063127,
+          0.9612403107756715,
+          0.6061046509271981,
+          0.9844961232036565
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_150",
+    "primary_id": "docling_yanbaopptmerge_yanbaoPPT_150_2",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_yanbaopptmerge_yanbaoPPT_150_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "COMPANY LOGOTYPE INSERT",
+        "bbox": [
+          0.14244186672603001,
+          0.9669312168636545,
+          0.3023255777991637,
+          0.9825581393499748
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

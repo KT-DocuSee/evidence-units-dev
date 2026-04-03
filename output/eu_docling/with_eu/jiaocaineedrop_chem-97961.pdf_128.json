@@ -1,0 +1,172 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_chem-97961.pdf_128",
+    "primary_id": "docling_jiaocaineedrop_chem-97961.pdf_128_10",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_10",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.09747499353745405,
+          0.03492279052734375,
+          0.20725774428423713,
+          0.04975641077215021
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_1",
+        "observed_type": "formula",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.3458646580665096,
+          0.06831395342419724,
+          0.9135338335344632,
+          0.08581349169735569
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_5",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "Wikipedia",
+        "bbox": [
+          0.09021045098702056,
+          0.4185386867920108,
+          0.17482714511297834,
+          0.43029852236826505
+        ],
+        "order": 8
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_chem-97961.pdf_128",
+    "primary_id": "docling_jiaocaineedrop_chem-97961.pdf_128_11",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_11",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.2499713493795956,
+          0.091951904296875,
+          0.7481363453584559,
+          0.3074718683416193
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_4",
+        "observed_type": "section_header",
+        "canon_role": "section_header",
+        "text": "Contributions & Attributions",
+        "bbox": [
+          0.08646616686090225,
+          0.39825581377866953,
+          0.310150377387218,
+          0.4114583334225439
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_chem-97961.pdf_128",
+    "primary_id": "docling_jiaocaineedrop_chem-97961.pdf_128_2",
+    "source": "text_cluster",
+    "member_count": 4,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_2",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "Video 5.1.2: A science experiment in the kitchen shows what happens to sugar molecules when they are heated. The experiment did not disappoint!",
+        "bbox": [
+          0.09586466831668083,
+          0.31540697675468704,
+          0.9060150106776804,
+          0.34587265067876966
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "As with salt, sugar has radically different properties (both physical and chemical) than its constituent elements. This difference in properties, of constituent elements and compounds, is a central feature of chemical reactions.",
+        "bbox": [
+          0.086466175519102,
+          0.35465116267401836,
+          0.9135338316453958,
+          0.38226744179445776
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5.1: Sugar and Salt is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Libre Texts.",
+        "bbox": [
+          0.08646618803002619,
+          0.4476686508466555,
+          0.7781954777594471,
+          0.46081349211649697
+        ],
+        "order": 9
+      },
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_7",
+        "observed_type": "list_item",
+        "canon_role": "support_paragraph",
+        "text": "5.1: Sugar and Salt by Henry Agnew, Marisa Alviar-Agnew is licensed CK-12. Original source: https://www.ck12.org/c/chemistry/",
+        "bbox": [
+          0.0902255879786638,
+          0.46947674420360425,
+          0.8627819565702073,
+          0.48115079355833906
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_chem-97961.pdf_128",
+    "primary_id": "docling_jiaocaineedrop_chem-97961.pdf_128_12",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_chem-97961.pdf_128_12",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.4784869384765625,
+          0.9505433238636364,
+          0.5221500890395221,
+          0.9689043634588068
+        ],
+        "order": 11
+      }
+    ]
+  }
+]

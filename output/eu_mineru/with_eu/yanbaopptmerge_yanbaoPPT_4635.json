@@ -1,0 +1,48 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4635",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4635_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4635_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "它们的村子散布在森 林边缘的小丘上。这里，很多的 黑甲虫村民，熙熙攘攘地往来。",
+        "bbox": [
+          0.062,
+          0.042666666666666665,
+          0.8506666666666667,
+          0.31022222222222223
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaopptmerge_yanbaoPPT_4635",
+    "primary_id": "mineru_yanbaopptmerge_yanbaoPPT_4635_1",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaopptmerge_yanbaoPPT_4635_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.0026666666666666666,
+          0.3333333333333333,
+          1.0,
+          0.9982222222222222
+        ],
+        "order": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239_2",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "越城区中小学校 2014 年度平安创建和安全工作考评标准",
+        "bbox": [
+          0.13926025018566335,
+          0.1564558598322438,
+          0.8634135511511126,
+          0.1825318364709511
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "（总分1000分，850分及以上为优秀）",
+        "bbox": [
+          0.33608140378140083,
+          0.19762845452493952,
+          0.6628787908837575,
+          0.2182147518712874
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-61571259.pdf_239_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.10583779014110413,
+          0.2305665302790961,
+          0.8986928145314808,
+          0.9030522435931264
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

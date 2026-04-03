@@ -1,0 +1,100 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1458",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1458_5",
+    "source": "visual_seed",
+    "member_count": 5,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1458_5",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10201884330587184,
+          0.05680816213384733,
+          0.13638957003329663,
+          0.07707783919814663
+        ],
+        "order": 1
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1458_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-...",
+        "bbox": [
+          0.3643724709346746,
+          0.07122093047014047,
+          0.38663967555655343,
+          0.07994186013063476
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1458_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "HE HMAN.",
+        "bbox": [
+          0.2973340439627678,
+          0.2114141431616928,
+          0.3969979417352881,
+          0.22899283393276543
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1458_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "-HEN, ГАН МАЙТ АЛИНА КЛА АТЛАСН 75 Mo",
+        "bbox": [
+          0.29757086578139824,
+          0.2732558137439647,
+          0.8400809669311522,
+          0.3271329364493966
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1458_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "\"Х\" ДЕМІК, ПХАЛИ, - ОФШАЛШ-ЖИ*, ЕЛА",
+        "bbox": [
+          0.3279352156519568,
+          0.8298611107897427,
+          0.8441295539499324,
+          0.8474702377738695
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1458",
+    "primary_id": "docling_jiaocaineedrop_jiaocai_needrop_en_1458_6",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_jiaocaineedrop_jiaocai_needrop_en_1458_6",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.15038454786260078,
+          0.6934203227550716,
+          0.857963318520404,
+          0.8902971290460919
+        ],
+        "order": 5
+      }
+    ]
+  }
+]

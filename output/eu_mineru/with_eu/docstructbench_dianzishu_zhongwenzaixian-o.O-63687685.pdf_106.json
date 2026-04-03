@@ -1,0 +1,139 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "section_text_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_0",
+    "source": "header_anchor",
+    "member_count": 8,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_0",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "避免凌乱的曲线图",
+        "bbox": [
+          0.12698412698412698,
+          0.2222222222222222,
+          0.37359098228663445,
+          0.2490299823633157
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在用曲线图做趋势较时，若有超过3个以上数据系列，极易出现曲线之间相互交叉、乱 成团麻的情况，很难清楚地观察各个系列的变化趋势(图3-29)。",
+        "bbox": [
+          0.12054290315159881,
+          0.2673721340388007,
+          0.8391994478951,
+          0.3075837742504409
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "在这种情况下，可以使种叫作平板图（Panelchart）的图表处理法。",
+        "bbox": [
+          0.15919024614676788,
+          0.3160493827160494,
+          0.7140556705774097,
+          0.33368606701940035
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "如图3-30所示， 将各条曲线分开来绘 制，彼此并不交叉影响， 显得很清晰。但它们仍 在个图表中，共 个纵坐标轴，便于观察 趋势和比较小。这种 处理方法适用于多系列 曲线图，系列之间量纲 相同，数量级相差不是 太的情况。",
+        "bbox": [
+          0.12514377731769036,
+          0.3414462081128748,
+          0.3045778697952611,
+          0.5763668430335097
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "A B C D E F G H 1 J K L M 1234567609011213 市场份额数据： 1 二公司 公 + 公司 品q 32 国 + 工 中 10 十 0 大 节 单 20022003200420052006200720082009",
+        "bbox": [
+          0.3413848631239936,
+          0.345679012345679,
+          0.9247757073844031,
+          0.509347442680776
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_6",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图3-29线条纠缠在一起显得异常凌乱，不便于阅读分析",
+        "bbox": [
+          0.34230503795721184,
+          0.5234567901234568,
+          0.7057740970784449,
+          0.5396825396825397
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "其实现技巧，只是 将原来的数据源进行图 中所示的“错”组织， 做出的曲线图自然也就 错开了。独的格通 过设置网格线间隔实 现，上面的公司名标签 使用文本框或辅助系列 来完成。具体做法这 不再细述，读者可参见 范例文件中的步骤。",
+        "bbox": [
+          0.12422360248447205,
+          0.5841269841269842,
+          0.3045778697952611,
+          0.818342151675485
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_8",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "图3-30将多系列的曲线图做成彼此分离的平板图，避免了曲线的交叉凌乱",
+        "bbox": [
+          0.34230503795721184,
+          0.7731922398589065,
+          0.8198757763975155,
+          0.7894179894179895
+        ],
+        "order": 9
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106",
+    "primary_id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_dianzishu_zhongwenzaixian-o.O-63687685.pdf_106_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.34230503795721184,
+          0.5834215167548501,
+          0.9266160570508397,
+          0.7604938271604939
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

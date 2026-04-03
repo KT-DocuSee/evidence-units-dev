@@ -1,0 +1,315 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-15322190.pdf_138",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_0",
+        "observed_type": "caption",
+        "canon_role": "support_paragraph",
+        "text": "# 6-5 (tK)",
+        "bbox": [
+          0.26247288515814476,
+          0.13070436466231908,
+          0.7266811328803973,
+          0.1498015877690842
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_enbook-zlib-o.O-15322190.pdf_138",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_19",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_19",
+        "observed_type": "table",
+        "canon_role": "table",
+        "text": "WiHH(9 | Ki lài Vìt Z:/ mm | Hift ftf/ (°) | tị Hờ Nu Đa/ mm | 1 | 1 | 0. 032 | 9 | 2.6 | 0. 026 | 2 | 1.2 | 0. 043 | 10 | 2.8 | 0. 008 | 3 | 1.4 | 0. 036 | 11 | 3.0 | 0. 022 | 4 | 1.6 | 0. 056 | 12 | 3.2 | 0. 026 | 5 | 1.8 | 0. 041 | 13 | 3.4 | 0. 012 | 6 | 2.0 | 0. 032 | 14 | 3.6 | 0. 003 | 7 | 2.2 | 0. 039 | 15 | 3.8 | - 0. 016 | 8 | 2.4 | 0. 021 | 16 | 4.0 | -0.022",
+        "bbox": [
+          0.11063652938593538,
+          0.15804716274775973,
+          0.8775769353129254,
+          0.47936488878104117
+        ],
+        "order": 2
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "| W PR MA NX -0072834",
+        "bbox": [
+          0.6203189125421745,
+          0.647999297836558,
+          0.8395509320372555,
+          0.6761286086715336
+        ],
+        "order": 10
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "visual_panel",
+    "page": "docstructbench_enbook-zlib-o.O-15322190.pdf_138",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_20",
+    "source": "visual_seed",
+    "member_count": 17,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.10",
+        "bbox": [
+          0.1409978314105695,
+          0.515988371892584,
+          0.1800433828519034,
+          0.531976744513666
+        ],
+        "order": 3
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_20",
+        "observed_type": "picture",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.10546436759824113,
+          0.5184240515003228,
+          0.8691412342438464,
+          0.8450924026285312
+        ],
+        "order": 4
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.08 -",
+        "bbox": [
+          0.14095697178873395,
+          0.5537089601592232,
+          0.1909302293480511,
+          0.5669305750498517
+        ],
+        "order": 5
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.06 -",
+        "bbox": [
+          0.14099783215005057,
+          0.5930059524842975,
+          0.19088937041683296,
+          0.6046626985160436
+        ],
+        "order": 6
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "K 2 12 - 0.078",
+        "bbox": [
+          0.6594360102245552,
+          0.6162790701591518,
+          0.8091106250249025,
+          0.630813953242011
+        ],
+        "order": 7
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.04 -",
+        "bbox": [
+          0.1409978322332031,
+          0.6279069767229841,
+          0.1908893704999855,
+          0.6396329365197383
+        ],
+        "order": 8
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "0.02 -",
+        "bbox": [
+          0.14099783209065586,
+          0.6656746031673169,
+          0.19088937035743828,
+          0.6773313491990629
+        ],
+        "order": 11
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "DB0-112-0.043976",
+        "bbox": [
+          0.6355555582498621,
+          0.6946924607698429,
+          0.8329717931493124,
+          0.7151162789720886
+        ],
+        "order": 12
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_10",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "- 0.02 -",
+        "bbox": [
+          0.1279826463817755,
+          0.7383432538150373,
+          0.19088937222993815,
+          0.7499999998467833
+        ],
+        "order": 13
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_11",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "- 0.04 -",
+        "bbox": [
+          0.1279826463817755,
+          0.7760416664694451,
+          0.19088937222993815,
+          0.7877906975212019
+        ],
+        "order": 14
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_12",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "- 0.06",
+        "bbox": [
+          0.12798264515241733,
+          0.8125000001532167,
+          0.18004338417513147,
+          0.8241567461849627
+        ],
+        "order": 15
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_17",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "5",
+        "bbox": [
+          0.6941431669994234,
+          0.8125000004156033,
+          0.7049891538248717,
+          0.8284883711444744
+        ],
+        "order": 16
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_13",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "2",
+        "bbox": [
+          0.3492407810510019,
+          0.8139534881534763,
+          0.36008676787645044,
+          0.828488372182441
+        ],
+        "order": 17
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_18",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "6",
+        "bbox": [
+          0.8026030372376577,
+          0.8139534882679472,
+          0.8177874185107153,
+          0.8299418608890292
+        ],
+        "order": 18
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_14",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3",
+        "bbox": [
+          0.4620390462895406,
+          0.8154069769178727,
+          0.47505422963236826,
+          0.8299418600007318
+        ],
+        "order": 19
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_16",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "4",
+        "bbox": [
+          0.5791757051772974,
+          0.8197674420883575,
+          0.590021692002746,
+          0.8284883717488519
+        ],
+        "order": 20
+      },
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_15",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "ĐifE 15 Л2 4t //(°)",
+        "bbox": [
+          0.42950108369011947,
+          0.8328373016098043,
+          0.5704989180723534,
+          0.8474702381177409
+        ],
+        "order": 21
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "docstructbench_enbook-zlib-o.O-15322190.pdf_138",
+    "primary_id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_1",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "docling_docstructbench_enbook-zlib-o.O-15322190.pdf_138_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Đ Đ 1 2:16/ mm",
+        "bbox": [
+          0.10412146950796376,
+          0.6322674417384566,
+          0.12581345446166747,
+          0.7194767421278223
+        ],
+        "order": 9
+      }
+    ]
+  }
+]

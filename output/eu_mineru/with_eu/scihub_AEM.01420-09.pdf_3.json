@@ -1,0 +1,133 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "scihub_AEM.01420-09.pdf_3",
+    "primary_id": "mineru_scihub_AEM.01420-09.pdf_3_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_AEM.01420-09.pdf_3_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "TABLE 3. Mapping of transposon insertions sites that result in white phenotype in C. sakazaki ES5",
+        "bbox": [
+          0.19035897435897436,
+          0.0864367816091954,
+          0.8024615384615384,
+          0.0993103448275862
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "scihub_AEM.01420-09.pdf_3",
+    "primary_id": "mineru_scihub_AEM.01420-09.pdf_3_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_scihub_AEM.01420-09.pdf_3_1",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.07056410256410256,
+          0.09563218390804598,
+          0.9247179487179488,
+          0.7527969348659004
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_scihub_AEM.01420-09.pdf_3_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.5136410256410257,
+          0.8306513409961686,
+          0.9263589743589744,
+          0.9146360153256705
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "scihub_AEM.01420-09.pdf_3",
+    "primary_id": "mineru_scihub_AEM.01420-09.pdf_3_2",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_scihub_AEM.01420-09.pdf_3_2",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "a NCBI clusters of orthologous groups (COG) of proteins. Cronobacter sakazaki ES5 BAC 9E10 for mutations within the pigment operon (accession no. AM384990.1). NCBIasseblyATCCBAA894C.akzaki copletegenoe fortations outsidepigentopern(accessiono.CP83.1). dCosest annotated homolog.",
+        "bbox": [
+          0.08205128205128205,
+          0.7497318007662835,
+          0.7778461538461539,
+          0.7926436781609195
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_scihub_AEM.01420-09.pdf_3_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(data not shown), consistently with the results for LB, all mu- tant strains showed significantly increased maximum rates of growth(μmaxwt，0.14;maxΔcrx,0.22;μmaxΔcrE,0.24;and maxΔcry,0.19; P=0.000).",
+        "bbox": [
+          0.0722051282051282,
+          0.8306513409961686,
+          0.4849230769230769,
+          0.8864367816091954
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_scihub_AEM.01420-09.pdf_3_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Cold stress experiments were performed by growing ∆crtE, ∆crtX, and ∆crtY in LB and M9 medium at 10°C (for results in M9, see Fig. 1B). Under these conditions, no significant dif- ferences in maximum specific growth rates were detected for ∆crtY, ∆crtE, and ∆crtX in both LB and M9 compared to those of the wild type (in LB, μmaxwt = 0.04, μmaxΔcrtx = 0.03, maxΔcrE = 0.03, and maxΔcry = 0.04; in M9, μmaxwt = 0.01, μmaxΔcmx = 0.01, μmaxΔcrE = 0.01, and μmaxΔcry = 0.01).",
+        "bbox": [
+          0.07302564102564102,
+          0.8876628352490421,
+          0.4849230769230769,
+          0.9287356321839081
+        ],
+        "order": 6
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "text_cluster_panel",
+    "page": "scihub_AEM.01420-09.pdf_3",
+    "primary_id": "mineru_scihub_AEM.01420-09.pdf_3_6",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_scihub_AEM.01420-09.pdf_3_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "To evaluate growth under acidic conditions, wild-type and",
+        "bbox": [
+          0.5267692307692308,
+          0.9152490421455939,
+          0.9263589743589744,
+          0.9287356321839081
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

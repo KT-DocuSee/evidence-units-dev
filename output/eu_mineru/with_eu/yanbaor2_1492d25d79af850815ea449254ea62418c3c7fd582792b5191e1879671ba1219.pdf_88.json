@@ -1,0 +1,51 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "table_panel",
+    "page": "yanbaor2_1492d25d79af850815ea449254ea62418c3c7fd582792b5191e1879671ba1219.pdf_88",
+    "primary_id": "mineru_yanbaor2_1492d25d79af850815ea449254ea62418c3c7fd582792b5191e1879671ba1219.pdf_88_2",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_1492d25d79af850815ea449254ea62418c3c7fd582792b5191e1879671ba1219.pdf_88_0",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "沓M",
+        "bbox": [
+          0.08948004836759371,
+          0.1170007423904974,
+          0.1370415155179363,
+          0.20846325167037863
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_yanbaor2_1492d25d79af850815ea449254ea62418c3c7fd582792b5191e1879671ba1219.pdf_88_2",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.22087867795243854,
+          0.11818856718634002,
+          0.9028617492946392,
+          0.9086859688195991
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_1492d25d79af850815ea449254ea62418c3c7fd582792b5191e1879671ba1219.pdf_88_1",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.18782748891575976,
+          0.5588715664439495,
+          0.21765417170495768,
+          0.90452858203415
+        ],
+        "order": 3
+      }
+    ]
+  }
+]

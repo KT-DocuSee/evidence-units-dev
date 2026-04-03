@@ -1,0 +1,197 @@
+[
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_0",
+    "text": "that is relatively flat for hv < kT and which ap- proaches zero for hν > kT .",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.12141816575700755,
+      0.47791694560459025,
+      0.15244725256157615
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 1
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_6",
+    "text": "they would have obtained",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.12141816575700755,
+      0.7086354710688753,
+      0.13625816379397515
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 2
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_1",
+    "text": "In spite of early convictions by some investigators that the zero-point energy term in Eq. (1) would not have any experimental correlate, this has not been the case. Indeed, the zero-point term has proved impor- tant in explaining X-ray scattering in solids [4]; under- standing of the Lamb shift between the s and p levels in hydrogen [5,6]; predicting the Casimir effect [7–9]; understanding the origin of van der Waals forces [7]; interpretation of the Aharonov–Bohm effect [10, 11]; explaining Compton scattering [5]; and predicting the spectrum of noise in electrical circuits [12–15]. It is this latter effect that concerns us here.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08239947338010177,
+      0.15379634329220956,
+      0.47791694560459025,
+      0.3453672270421548
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 3
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_7",
+    "text": "Eq. (3), which is correct from the perspective of quan- tum electrodynamics [22], predicts that if all frequen- cies v are taken into account then there should be an infi nite energy per unit volume since",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5182011325904178,
+      0.2657708739347832,
+      0.9173808036317997,
+      0.3305272290051872
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 4
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_2",
+    "text": "Koch et al. [13] measured the frequency spectrum of current fluctuations in Josephson junctions. At low temperatures and high frequencies the experimental spectrum is dominated by zero-point fluctuations, con- fi rming the physical relevance of the zero-point term in Eq. (1) up to frequencies of the order vmax = 6 × 1011 Hz. Here we reanalyze their experimental results in light of recent astronomical estimates of dark en- ergy density in the universe [16–19].",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.34806540850342166,
+      0.47791694560459025,
+      0.4924181166811973
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 5
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_8",
+    "text": "diverges. To avoid this one could introduce a cutoff frequency νc < ∞.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5182011325904178,
+      0.39663267480622466,
+      0.9173808036317997,
+      0.4276617616107933
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 6
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_9",
+    "text": "Split the total energy density into",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.542005424900225,
+      0.42901085234142666,
+      0.7873727456320836,
+      0.4438508503783943
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 7
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_10",
+    "text": "where",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.48027630010549655,
+      0.5676408166184789,
+      0.4937672074118307
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 8
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_3",
+    "text": "Our hypothesis is that the signature of zero-point fluctuations measured by Koch et al. imply a non- vanishing vacuum energy density in the universe. This vacuum energy would have large scale gravitational effects, and cannot exceed the measured dark energy density of the universe as determined in astronomi- cal measurements [16,17]. On this basis we predict a cutoff frequency (vc) for the zero-point fl uctuations in Josephson junction experiments, which is only slightly larger than the maximum frequency Vmax reached in Koch et al.'s 1982 experiment. Future experiments, based on Josephson junctions that operate in the THz region [20,21], could thus help to clarify whether this cutoff exists and whether the dark energy of the uni- verse is related to the vacuum fluctuations that play a role in the Josephson junction experiments.",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08239947338010177,
+      0.4924181166811973,
+      0.47791694560459025,
+      0.7500944462321799
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 9
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_11",
+    "text": "is due to zero-point fluctuations, and corresponds to the radiation energy density generated by photons of energy hv. Integration of (5) up to vc yields",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.5409853829840003,
+      0.791034944448977,
+      0.5558253810209679
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 10
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_12",
+    "text": "",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5182011325904178,
+      0.6057417380544043,
+      0.9173808036317997,
+      0.6543090043572073
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 11
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_13",
+    "text": "while integration of (6) over all frequencies yields the well-known Stefan-Boltzmann law",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.7204144501582448,
+      0.915549704223353,
+      0.7514435369628134
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 12
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_4",
+    "text": "2. Estimating a cutoff frequency for zero-point fluctuations",
+    "canon_role": "section_header",
+    "bbox": [
+      0.08056837397165506,
+      0.8000108032656164,
+      0.4504504544778897,
+      0.8296907993395516
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 13
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_14",
+    "text": "Suppose Eq. (5) is valid only up to a cutoff fre- quency vc, due to new but as yet unknown physics. How might we determine vc? We propose using es- timates of the dark energy density to place an upper limit on the value calculated from Eq. (7).",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.5200322319988645,
+      0.814850801302584,
+      0.9173808036317997,
+      0.895796245140589
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 14
+  },
+  {
+    "chunk_id": "mineru_docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2_5",
+    "text": "If Planck [1] and Nernst [3] had used the relation ρ(ν, T) = 8πhν2U(ν, T)/c3, then instead of Eq. (2)",
+    "canon_role": "support_paragraph",
+    "bbox": [
+      0.08056837397165506,
+      0.863418067605387,
+      0.47791694560459025,
+      0.895796245140589
+    ],
+    "page": "docstructbench_llm-raw-scihub-o.O-j.physletb.2004.11.060.pdf_2",
+    "order": 15
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "jiaocaineedrop_jiaocai_needrop_en_1761",
+    "primary_id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1761_0",
+    "source": "text_cluster",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1761_0",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "例4：已知数列(a}是=2=21+an∈N (1）求证：数列 1 是等数列，并求出数列{a}的通项公式 (2)设c = n ，求证：C₁+c2++c / 17 $2fra$ $an",
+        "bbox": [
+          0.1483272873841193,
+          0.0940572894399316,
+          0.6158806932688432,
+          0.13396038192959955
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1761_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.15638855300282145,
+          0.14878153056861906,
+          0.6586054010479645,
+          0.188684623058287
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1761_2",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.15638855300282145,
+          0.2063559925894257,
+          0.5175332527206772,
+          0.24283882000855067
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1761_3",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "解：(1) a=21+) a=2+1 $a_n+1}$ =2. an an 是公为2的等数列 (n 1) $n^}$ n2 a () 2n-1 =2\" 2 ∴ an = n2.2n",
+        "bbox": [
+          0.14913341394598953,
+          0.25937010118284165,
+          0.5610640870616687,
+          0.4480547242411287
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1761_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(2)思路： Cn 无法直接求和，所以考虑放缩成为可求和的通项公式（不等 9 n.2n 号：<)，若要放缩为裂项相消的形式，那么需要构造出“顺序同构”的特点。观察分母中 有n，故分子分母通乘以(n-1)，再进行放缩调整为裂项相消形式。",
+        "bbox": [
+          0.1483272873841193,
+          0.4645860054154197,
+          0.852881902458686,
+          0.5677640017101325
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1761_5",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "解：cn=$ a− n,2n − n(n−1)2n n 1 n-1 1 1_2n−(n−1)_n+1 (n−1)n− n,2n −n(n−1)2n −n(n−1)2n 所以 =−n−)2 n−)2−=(−)2−=−22) c +c2 +c c c +c 32 2 2+=5.2 +(−-12-=) 2+8+24+24–n,2n−24-n.21<24 (n>3) ∵cn > ∴q<q+c2<c+c₂+c₃= 4<24",
+        "bbox": [
+          0.14671503426037888,
+          0.5831551945275759,
+          0.8367593712212817,
+          0.8733076813453042
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_jiaocaineedrop_jiaocai_needrop_en_1761_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "小炼有话说：（1）本题先确定放缩的类型，向裂项相消放缩，从而按“依序同构”的目标进",
+        "bbox": [
+          0.14510278113663846,
+          0.8778680347726949,
+          0.8512696493349455,
+          0.8966794926606813
+        ],
+        "order": 7
+      }
+    ]
+  }
+]

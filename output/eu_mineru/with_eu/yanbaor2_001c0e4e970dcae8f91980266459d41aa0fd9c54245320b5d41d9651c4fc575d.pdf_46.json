@@ -1,0 +1,97 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46",
+    "primary_id": "mineru_yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46_0",
+    "source": "text_cluster",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46_0",
+        "observed_type": "image_caption",
+        "canon_role": "support_paragraph",
+        "text": "FIGURE 28 Medtech focus areas for \"Made in China 2025\" plan",
+        "bbox": [
+          0.14588235294117646,
+          0.10121212121212121,
+          0.5796078431372549,
+          0.1387878787878788
+        ],
+        "order": 1
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "visual_panel",
+    "page": "yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46",
+    "primary_id": "mineru_yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46_1",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46_1",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.18274509803921568,
+          0.15393939393939393,
+          0.8133333333333334,
+          0.3515151515151515
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.516078431372549,
+          0.4090909090909091,
+          0.8549019607843137,
+          0.5127272727272727
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "text_cluster_panel",
+    "page": "yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46",
+    "primary_id": "mineru_yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46_2",
+    "source": "text_cluster",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46_2",
+        "observed_type": "image_footnote",
+        "canon_role": "support_paragraph",
+        "text": "Source: State Council,China.",
+        "bbox": [
+          0.14588235294117646,
+          0.36303030303030304,
+          0.312156862745098,
+          0.37575757575757573
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_yanbaor2_001c0e4e970dcae8f91980266459d41aa0fd9c54245320b5d41d9651c4fc575d.pdf_46_3",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "Medtech companies can no longer rely on previous business models to drive growth and should adapt.3o8 For example, the rise of ambulatory surgery centers (ASCs) is creating a new market opportunity for medtech, but medtech's commercial model is too costly for ASCs, according to analysts. To adapt, medtech companies should consider new business models, like equity positions in ASCs, in addition to lowering costs.3o9 The future success of medtech companies will likely depend on being proactive, in addition to leveraging recent advancements in digital technologies.310",
+        "bbox": [
+          0.14588235294117646,
+          0.4090909090909091,
+          0.4807843137254902,
+          0.5127272727272727
+        ],
+        "order": 4
+      }
+    ]
+  }
+]

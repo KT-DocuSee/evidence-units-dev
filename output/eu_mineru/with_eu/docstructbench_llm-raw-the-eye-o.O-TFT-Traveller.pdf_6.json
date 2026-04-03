@@ -1,0 +1,156 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_2",
+    "source": "visual_seed",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_2",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.5261437908496732,
+          0.04292929292929293,
+          0.7581699346405228,
+          0.2878787878787879
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_4",
+        "observed_type": "table_caption",
+        "canon_role": "support_paragraph",
+        "text": "Armor",
+        "bbox": [
+          0.5261437908496732,
+          0.3068181818181818,
+          0.5735294117647058,
+          0.3194444444444444
+        ],
+        "order": 3
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_1",
+        "observed_type": "table_footnote",
+        "canon_role": "support_paragraph",
+        "text": "*Explosive Ammo **Heavy Weapon ***Crew Served Weapon",
+        "bbox": [
+          0.05718954248366013,
+          0.37247474747474746,
+          0.4150326797385621,
+          0.4015151515151515
+        ],
+        "order": 5
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_0",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_0",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.05392156862745098,
+          0.045454545454545456,
+          0.43137254901960786,
+          0.3712121212121212
+        ],
+        "order": 2
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0003",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_5",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_5",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.5228758169934641,
+          0.3383838383838384,
+          0.7369281045751634,
+          0.6679292929292929
+        ],
+        "order": 4
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0004",
+    "kind": "table_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_6",
+    "source": "visual_seed",
+    "member_count": 2,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "Grenades",
+        "bbox": [
+          0.05718954248366013,
+          0.4217171717171717,
+          0.12418300653594772,
+          0.4356060606060606
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_6",
+        "observed_type": "table_body",
+        "canon_role": "table",
+        "text": "",
+        "bbox": [
+          0.05392156862745098,
+          0.45454545454545453,
+          0.17973856209150327,
+          0.5782828282828283
+        ],
+        "order": 7
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0005",
+    "kind": "visual_panel",
+    "page": "docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6",
+    "primary_id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_7",
+    "source": "visual_seed",
+    "member_count": 1,
+    "elements": [
+      {
+        "id": "mineru_docstructbench_llm-raw-the-eye-o.O-TFT-Traveller.pdf_6_7",
+        "observed_type": "image_body",
+        "canon_role": "picture",
+        "text": "",
+        "bbox": [
+          0.14215686274509803,
+          0.6666666666666666,
+          0.6928104575163399,
+          0.9343434343434344
+        ],
+        "order": 8
+      }
+    ]
+  }
+]

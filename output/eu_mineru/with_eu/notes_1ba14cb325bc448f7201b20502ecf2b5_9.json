@@ -1,0 +1,152 @@
+[
+  {
+    "eu_id": "EU-0001",
+    "kind": "text_cluster_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_9",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_0",
+    "source": "text_cluster",
+    "member_count": 3,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_0",
+        "observed_type": "index",
+        "canon_role": "support_paragraph",
+        "text": "3.4.5三个月是春季：6.7.8三个月是要季： 9.10.11三个月是秋季：12、1.2三个月是冬季.",
+        "bbox": [
+          0.16457461645746166,
+          0.155467720685112,
+          0.592282659228266,
+          0.20948616600790515
+        ],
+        "order": 1
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_1",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "3.地球的五带",
+        "bbox": [
+          0.09762900976290098,
+          0.24967061923583664,
+          0.25755462575546256,
+          0.269433465085639
+        ],
+        "order": 2
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_2",
+        "observed_type": "list",
+        "canon_role": "support_paragraph",
+        "text": "北塞带 90° L 有极台极夜 (北极圈)665° 北温带 无极昼极夜、直射 (北回归线） (赤道)0° 热带 有阳光自射 （南回归线) （南极圈)665° 南温带 无极昼极夜、直射 有极昼夜 90 南寒帝",
+        "bbox": [
+          0.13668061366806136,
+          0.2509881422924901,
+          0.8712226871222687,
+          0.5553359683794467
+        ],
+        "order": 3
+      }
+    ]
+  },
+  {
+    "eu_id": "EU-0002",
+    "kind": "section_text_panel",
+    "page": "notes_1ba14cb325bc448f7201b20502ecf2b5_9",
+    "primary_id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_3",
+    "source": "header_anchor",
+    "member_count": 7,
+    "elements": [
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_3",
+        "observed_type": "title",
+        "canon_role": "section_header",
+        "text": "地图",
+        "bbox": [
+          0.08182240818224082,
+          0.5948616600790514,
+          0.1394700139470014,
+          0.6126482213438735
+        ],
+        "order": 4
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_4",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "1、地图的基本要素(地图三要素)",
+        "bbox": [
+          0.10227801022780102,
+          0.6251646903820817,
+          0.4500232450023245,
+          0.6482213438735178
+        ],
+        "order": 5
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_5",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "(1)比例尺",
+        "bbox": [
+          0.1292422129242213,
+          0.6587615283267457,
+          0.2315202231520223,
+          0.6778656126482213
+        ],
+        "order": 6
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_6",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "①概念：图上距离与实际离之比 ②表现形式：数字式，文字式.线段式 ()方向的判读",
+        "bbox": [
+          0.12738261273826126,
+          0.6884057971014492,
+          0.5113900511390052,
+          0.7720685111989459
+        ],
+        "order": 7
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_7",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "①一般地图：面向地图上北下南、左西右东",
+        "bbox": [
+          0.1589958158995816,
+          0.7845849802371542,
+          0.5513714551371455,
+          0.8043478260869565
+        ],
+        "order": 8
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_8",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "②有指向标的地图：根据指向标定方向，指向标箭头一般指向北方 ③有经纬网的地图：根据经纬网定方向.经线指示南北方向，纬线指示乐面方向 (3)图例和注记",
+        "bbox": [
+          0.15527661552766156,
+          0.8129117259552042,
+          0.8907484890748489,
+          0.8965744400527009
+        ],
+        "order": 9
+      },
+      {
+        "id": "mineru_notes_1ba14cb325bc448f7201b20502ecf2b5_9_9",
+        "observed_type": "text",
+        "canon_role": "support_paragraph",
+        "text": "",
+        "bbox": [
+          0.12180381218038122,
+          0.8768115942028986,
+          0.28544862854486286,
+          0.8959156785243741
+        ],
+        "order": 10
+      }
+    ]
+  }
+]
