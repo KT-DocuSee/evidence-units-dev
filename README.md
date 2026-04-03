@@ -64,12 +64,13 @@ python eval_retrieval.py \
 
 ```bash
 # Cross-parser evaluation with pre-computed EU outputs
-python eval_retrieval.py \
-    --gt              OmniDocBench.json \
-    --qas             qas.json \
-    --output          results/ \
-    --docling-eu-dir  path/to/eu_docling \
-    --mineru-eu-dir   path/to/eu_mineru
+python main/eval_retrieval_combined.py \
+  --gt OmniDocBench.json \
+  --output output/retrieval_eval \
+  --qas qas.json \
+  --gt-eu-dir      output/eu_gt \
+  --mineru-eu-dir  output/eu_mineru \
+  --docling-eu-dir output/eu_docling
 ```
 
 ---
