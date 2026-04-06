@@ -50,8 +50,15 @@ This repo releases the evaluation code and QA pairs used in the paper.
 
 ```bash
 git clone https://github.com/hanyeonjee/evidence-units
-cd evidence-units
-pip install sentence-transformers numpy
+cd evidence-units-dev
+pip install -r requirements.txt
+#pip install sentence-transformers numpy
+```
+
+```bash
+python main/eu_from_parser.py --source gt \
+  --gt datasets/omnidocbench/source_hf/OmniDocBench.json \
+  --output output/eu_gt
 ```
 
 ```bash
